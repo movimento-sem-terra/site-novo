@@ -45,7 +45,7 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 A atividade formativa aconteceu, na &uacute;ltima sexta-feira (03), na Escola Latino Americana de Agroecologia (ELAA). Cerca de 50 homens e mulheres, militantes das &aacute;reas de assentamento da regi&atilde;o Sul do Paran&aacute; estiveram no debate.</p>
 
 <p><br />
-A atividade acontece em conjunto com o Minist&eacute;rio P&uacute;blico do Munic&iacute;pio de Uni&atilde;o da Vit&oacute;ria, coletivo feminista Mais Am&eacute;lias e os militantes do MST da regi&atilde;o sul do estado com o desafio de enfrentar o problema da viol&ecirc;ncia contra as crian&ccedil;as e mulheres.&nbsp;</p>
+O evento foi realizado em uma a&ccedil;&atilde;o conjunta entre&nbsp;o Minist&eacute;rio P&uacute;blico do Munic&iacute;pio de Uni&atilde;o da Vit&oacute;ria, coletivo feminista Mais Am&eacute;lias e os militantes do MST da regi&atilde;o sul do estado com o desafio de enfrentar o problema da viol&ecirc;ncia contra as crian&ccedil;as e mulheres.&nbsp;</p>
 
 <p><br />
 Para Thais Gisele do Coletivo feminista Mais que Am&eacute;lias. &ldquo;O desafio &eacute; construir um novo (ser humano) dentro de cada um. N&atilde;o colocando mulheres contra homens, mas compreender que a&ccedil;&otilde;es machistas interferem nas rela&ccedil;&otilde;es entre mulheres, homens e crian&ccedil;as&rdquo;, afirmou.</p>
