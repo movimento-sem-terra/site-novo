@@ -1,7 +1,8 @@
 ---
 date: "2018-08-05T15:30:07-03:00"
-tags: []
-support_line: "A luta pela democracia e por Lula Livre foram reafirmadas durante o lançamento da Marcha Nacional, em São Paul"
+tags:
+  - tag: marcha
+support_line: "A luta pela democracia e por Lula Livre foram reafirmadas durante o lançamento da Marcha Nacional, em São Paulo"
 title: "Marchar novamente é preciso!"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/930/43867636451_e7d3307060_b.jpg
@@ -30,7 +31,12 @@ files:
     $$hashKey: 02V
 created_date: "2018-08-05T15:44:45-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/07/2018-07-16-liberdade-de-lula-e-tema-de-marcha-do-mst-em-pernambuco.md
+  - _posts/2017/11/2017-11-28-mst-participa-da-iv-romaria-da-terra-e-das-aguas-no-rn.md
+  - _posts/2018/07/2018-07-18-politicos-e-pre-candidatos-prestigiam-marcha-em-pernambuco.md
+  - _posts/2018/07/2018-07-19-caravana-semiarido-contra-a-fome-e-anunciada-em-ato-politico-da-marcha-lula-livre.md
+  - _posts/2018/07/2018-07-17-forca-da-juventude-marca-primeiro-dia-da-marcha-lula-livre-lula-inocente.md
 section: cover
 
 ---
@@ -51,7 +57,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>O ato de Lan&ccedil;amento da Marcha foi realizado na noite da &uacute;ltima sexta-feira (3). E contou com a participa&ccedil;&atilde;o de diversos movimentos e organiza&ccedil;&otilde;es populares, no Armaz&eacute;m do Campo, em S&atilde;o Paulo, durante Ato Pol&iacute;tico em comemora&ccedil;&atilde;o aos dois anos da loja.</p>
+<p>O ato de Lan&ccedil;amento da Marcha foi realizado na noite da &uacute;ltima sexta-feira (3) e&nbsp;contou com a participa&ccedil;&atilde;o de diversos movimentos e organiza&ccedil;&otilde;es populares, no Armaz&eacute;m do Campo, em S&atilde;o Paulo, durante Ato Pol&iacute;tico em comemora&ccedil;&atilde;o aos dois anos da loja.</p>
 
 <p><br />
 M&uacute;sicas e palavras de ordem ajudaram na constru&ccedil;&atilde;o de uma m&iacute;stica, avaliada como necess&aacute;ria para fortalecer os cora&ccedil;&otilde;es e mentes dos trabalhadores e trabalhadoras que estar&atilde;o em marcha entre os dias 10 e 15 de agosto, em dire&ccedil;&atilde;o a Bras&iacute;lia.</p>
