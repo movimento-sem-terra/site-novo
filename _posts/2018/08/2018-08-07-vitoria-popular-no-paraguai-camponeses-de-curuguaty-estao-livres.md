@@ -40,14 +40,14 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="29804802598_cdf14dd76a_z.jpg" height="525" src="//farm1.staticflickr.com/932/30038683968_c8c7319aaa_b.jpg" width="700" />
-<figcaption><em>Luis Olmedo Paredes, condenado a 20 anos de pris&atilde;o, reencontra a fam&iacute;lia ap&oacute;s seis anos em Tacumb&uacute;.</em></figcaption>
+<figcaption><em>Luis Olmedo Paredes, condenado a 20 anos de pris&atilde;o, reencontra a fam&iacute;lia ap&oacute;s seis anos em Tacumb&uacute;.<br />
+Foto: Mauro Collante</em></figcaption>
 </figure>
 </div>
 
 <p>&nbsp;</p>
 
-<p><em>Por Marian<br />
-e Serafini<br />
+<p><em>Por Mariane Serafini<br />
 Do <a href="http://www.vermelho.org.br/noticia/313456-1">Portal Vermelho</a></em></p>
 
 <p>&nbsp;</p>
