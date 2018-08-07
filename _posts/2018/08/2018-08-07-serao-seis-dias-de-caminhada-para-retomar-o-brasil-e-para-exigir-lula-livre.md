@@ -4,7 +4,7 @@ tags:
   - tag: marcha
   - tag: reforma-agrária
   - tag: lula-livre
-title: "Serão seis dias de caminhada para retomar o Brasil e para exigir Lula Livre!"
+title: "\"Serão seis dias de caminhada para retomar o Brasil e para exigir Lula Livre!\""
 menu: lutas e mobilizações
 support_line: "A caminhada, que começa no próximo dia 10 vai reunir milhares de Sem Terra de todas as regiões do país "
 images_hd: //farm2.staticflickr.com/1778/28974482017_8f50acd1d6_b.jpg
@@ -39,7 +39,7 @@ files:
     title: marcha1997.jpg
     $$hashKey: "034"
 created_date: "2018-08-07T16:40:49-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/07/2018-07-25-trabalhadores-rurais-fazem-jornada-de-lutas-por-terra-reforma-agraria-e-lula-livre.md
   - _posts/2018/07/2018-07-17-forca-da-juventude-marca-primeiro-dia-da-marcha-lula-livre-lula-inocente.md
