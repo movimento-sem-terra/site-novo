@@ -1,6 +1,8 @@
 ---
 date: "2018-08-08T12:10:40-03:00"
-tags: []
+tags:
+  - tag: marcha
+  - tag: juventude-sem-terra
 title: Estudos e debates marcam o segundo dia do Acampamento Nacional da Juventude do MST
 support_line: "Conjuntura, tarefas da juventude e desafios do período histórico foram abordados em mesas temáticas e intervenções de agitação e propaganda"
 images_hd: //farm2.staticflickr.com/1811/30058705288_a443e0eaa2_b.jpg
@@ -23,12 +25,21 @@ files:
     $$hashKey: 0KZ
 created_date: "2018-08-08T12:29:06-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/08/2018-08-07-acampamento-nacional-da-juventude-da-inicio-a-marcha-historica-do-mst.md
+  - _posts/2018/08/2018-08-07-em-goias-juventude-camponesa-realiza-ato-politico-cultural-em-defesa-de-lula.md
+  - _posts/2018/08/2018-08-08-talia-machado-feminista-camponesa-e-revolucionaria.md
+  - _posts/2018/07/2018-07-19-caravana-semiarido-contra-a-fome-e-anunciada-em-ato-politico-da-marcha-lula-livre.md
+  - _posts/2018/07/2018-07-26-durante-jornada-de-lutas-marcha-dos-trabalhadores-sem-terra-reune-mais-de-10-mil-pessoas-em-aracaju.md
+  - _posts/2018/07/2018-07-27-setor-de-saude-do-mst-evita-farmacos-e-aposta-em-saberes-populares.md
+  - _posts/2018/08/2018-08-03-mst-lanca-marcha-nacional-lula-livre.md
+  - _posts/2018/08/2018-08-04-o-acampamento-nacional-tem-o-objetivo-de-inserir-a-juventude-sem-terra-na-luta-politica-da-classe-trabalhadora-destaca-dirigente-do-mst.md
+  - _posts/2018/02/2018-02-06-curso-de-ferias-reune-juventude-sem-terra-em-alagoas.md
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="photo5139014342480603158.jpg" height="467" src="//farm2.staticflickr.com/1811/30058705288_a443e0eaa2_b.jpg" width="700" />
-<figcaption>Foto: Matheus Alves</figcaption>
+<figcaption><em>Foto: Matheus Alves</em></figcaption>
 </figure>
 </div>
 
@@ -57,7 +68,7 @@ Da P&aacute;gina do MST</em></p>
 &nbsp;</p>
 
 <figure class="image"><img alt="photo5139014342480603112.jpg" height="463" src="//farm1.staticflickr.com/936/43927924221_433a12cac6_b.jpg" width="700" />
-<figcaption>Interven&ccedil;&otilde;es de Agita&ccedil;&atilde;o e Propaganda animaram os debates. Foto: Luis Fernando</figcaption>
+<figcaption><em>Interven&ccedil;&otilde;es de Agita&ccedil;&atilde;o e Propaganda animaram os debates. Foto: Luis Fernando</em></figcaption>
 </figure>
 
 <p>Ap&oacute;s as falas, a brigada de Agita&ccedil;&atilde;o e Propaganda Carlos Marighella fez uma interven&ccedil;&atilde;o, que simulou um leil&atilde;o das empresas do Brasil, a Petrobr&aacute;s e a Eletrobr&aacute;s. Elas foram arrematadas pelos EUA em troca de um cacho de bananas. Trata-se de uma den&uacute;ncia do papel do imperialismo norte americano na garantia privil&eacute;gios para as elites, entrega das riquezas para banqueiros, agroneg&oacute;cio e pol&iacute;ticos corruptos.<br />
