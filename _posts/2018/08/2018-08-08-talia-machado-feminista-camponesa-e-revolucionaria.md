@@ -1,6 +1,8 @@
 ---
 date: "2018-08-08T09:47:26-03:00"
-tags: []
+tags:
+  - tag: marcha
+  - tag: juventude-sem-terra
 title: "Talia Machado: feminista, camponesa e revolucionária"
 menu: lutas e mobilizações
 support_line: "Da infância Sem Terrinha à militância feminista, \"não cabe mais seguir os moldes do patriarcado, temos de pautar o debate dentro do movimento\""
@@ -16,7 +18,15 @@ files:
     $$hashKey: "030"
 created_date: "2018-08-08T10:15:06-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/08/2018-08-07-acampamento-nacional-da-juventude-da-inicio-a-marcha-historica-do-mst.md
+  - _posts/2018/08/2018-08-07-em-goias-juventude-camponesa-realiza-ato-politico-cultural-em-defesa-de-lula.md
+  - _posts/2018/07/2018-07-26-durante-jornada-de-lutas-marcha-dos-trabalhadores-sem-terra-reune-mais-de-10-mil-pessoas-em-aracaju.md
+  - _posts/2018/07/2018-07-27-setor-de-saude-do-mst-evita-farmacos-e-aposta-em-saberes-populares.md
+  - _posts/2018/08/2018-08-03-mst-lanca-marcha-nacional-lula-livre.md
+  - _posts/2018/02/2018-02-06-curso-de-ferias-reune-juventude-sem-terra-em-alagoas.md
+  - _posts/2018/07/2018-07-19-caravana-semiarido-contra-a-fome-e-anunciada-em-ato-politico-da-marcha-lula-livre.md
+  - _posts/2018/07/2018-07-18-politicos-e-pre-candidatos-prestigiam-marcha-em-pernambuco.md
 
 ---
 <div style="text-align:center">
