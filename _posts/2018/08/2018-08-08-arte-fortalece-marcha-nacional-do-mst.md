@@ -33,6 +33,8 @@ releated_posts:
 </figure>
 </div>
 
+<p>&nbsp;</p>
+
 <p><em>Por Ra&iacute;ssa Lopes e Thain&aacute; Nogueira<br />
 Brasil de Fato | Belo Horizonte (MG)</em><br />
 &nbsp;</p>
