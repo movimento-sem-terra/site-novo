@@ -1,7 +1,7 @@
 ---
 date: "2018-08-08T09:47:26-03:00"
 tags: []
-title: "Talia Machado: feminista camponesa e revolucionária"
+title: "Talia Machado: feminista, camponesa e revolucionária"
 menu: lutas e mobilizações
 support_line: "Da infância Sem Terrinha à militância feminista, \"não cabe mais seguir os moldes do patriarcado, temos de pautar o debate dentro do movimento\""
 images_hd: //farm2.staticflickr.com/1840/28989080137_939a187b33_b.jpg
@@ -69,7 +69,7 @@ N&oacute;s mulheres, por ess&ecirc;ncia, somos lutadoras!&quot;</em></p>
 
 <p>&nbsp;</p>
 
-<p>Para Talia a constru&ccedil;&atilde;o do debate feminista dentro do plano de Reforma Agr&aacute;ria Popular &eacute; muito importante. E fazer com que o debate continue a crescer no movimento &eacute; dar um passo para o socialismo. &ldquo;Uma revolu&ccedil;&atilde;o n&atilde;o acontecera sem a equidade entre os g&ecirc;neros, n&atilde;o h&aacute; como sonhar uma transforma&ccedil;&atilde;o da sociedade sem que a luta de cada sujeito seja reconhecida e respeitada&rdquo;, explica a jovem.</p>
+<p>Para Talia a constru&ccedil;&atilde;o do debate feminista dentro do plano de Reforma Agr&aacute;ria Popular &eacute; muito importante e fazer com que o debate continue a crescer no movimento &eacute; dar um passo para o socialismo. &ldquo;Uma revolu&ccedil;&atilde;o n&atilde;o acontecer&aacute; sem a equidade entre os g&ecirc;neros, n&atilde;o h&aacute; como sonhar uma transforma&ccedil;&atilde;o da sociedade sem que a luta de cada sujeito seja reconhecida e respeitada&rdquo;, explica a jovem.</p>
 
 <p>&nbsp;</p>
 
