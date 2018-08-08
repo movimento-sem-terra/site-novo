@@ -29,6 +29,8 @@ releated_posts: []
 <em>Por Rarielle Rodrigues<br />
 Da P&aacute;gina do MST</em></p>
 
+<p>&nbsp;</p>
+
 <p>Com objetivo de se preparar para a marcha nacional Lula Livre, 500 jovens de 11 estados do Brasil constroem o 2&deg; Acampamento Nacional da Juventude do MST, que acontece entre os dias 6 e 9 de agosto, no munic&iacute;pio de Corumb&aacute;, estado de Goi&aacute;s.</p>
 
 <p>&nbsp;</p>
@@ -73,7 +75,7 @@ N&oacute;s mulheres, por ess&ecirc;ncia, somos lutadoras!&quot;</em></p>
 
 <p>&nbsp;</p>
 
-<p>&ldquo;Por isso &eacute; importante para n&oacute;s mulheres Sem Terra entender que n&atilde;o cabe mais seguir os moldes do patriarcado, temos de pautar o debate dentro do movimento, reconhecendo a nossa identidade de feminista camponesa e revolucion&aacute;ria&quot;, conclui.</p>
+<p>&ldquo;Por isso &eacute; importante para n&oacute;s mulheres Sem Terra entender que n&atilde;o cabe mais seguir os moldes do patriarcado, temos de pautar o debate dentro do movimento, reconhecendo a nossa identidade de feminista, camponesa e revolucion&aacute;ria&quot;, conclui.</p>
 
 <p>&nbsp;</p>
 
