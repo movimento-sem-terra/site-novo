@@ -19,7 +19,11 @@ published: true
 releated_posts: []
 
 ---
-<p style="text-align:center"><img alt="photo5139014342480603181.jpg" height="467" src="//farm2.staticflickr.com/1840/28989080137_939a187b33_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="photo5139014342480603181.jpg" height="467" src="//farm2.staticflickr.com/1840/28989080137_939a187b33_b.jpg" width="700" />
+<figcaption><em>Foto: Matheus Alves</em></figcaption>
+</figure>
+</div>
 
 <p><br />
 <em>Por Rarielle Rodrigues<br />
