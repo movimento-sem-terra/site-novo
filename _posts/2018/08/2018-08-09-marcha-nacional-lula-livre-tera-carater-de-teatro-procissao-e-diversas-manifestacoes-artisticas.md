@@ -3,7 +3,7 @@ date: "2018-08-09T18:55:59-03:00"
 tags:
   - tag: marcha
   - tag: juventude-sem-terra
-title: Marcha Nacional Lula Livre terá caráter de teatro procissão e diversas manifestações artísticas
+title: Marcha Nacional Lula Livre terá caráter de teatro procissão e diversas intervenções
 support_line: "Teatro, clown, faixas e alegorias são algumas das atividades que os jovens começaram a construir"
 menu: "educação, cultura e comunicação"
 images_hd: //farm2.staticflickr.com/1812/43235285194_742bac4bff_b.jpg
