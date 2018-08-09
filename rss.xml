@@ -3,87 +3,89 @@
 	<channel>
 		<title>Movimento dos Trabalhadores Rurais Sem Terra</title>
 		<description>Há 29 anos, em Cascavel (PR), centenas de trabalhadores rurais decidiram fundar um movimento social camponês, autônomo, que lutasse pela terra, pela Reforma Agrária e pelas transformações sociais necessárias para o nosso país. Eram posseiros, atingidos por barragens, migrantes, meeiros, parceiros e pequenos agricultores</description>		
-		<link>http://www.mst.org.br</link>
-		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Semeadores de quilombos rimam poesia, rap e repente na Feira do MST</title>
-				<description>No repente ou no slam, poesia marca a força popular no segundo dia do Palco Cora Coralina na Feira Nacional da Reforma Agrária</description>
-				<pubDate>Fri, 04 May 2018 18:21:54 -0300</pubDate>
-				<link>http://www.mst.org.br/2018/05/04/semeadores-de-quilombos-rimam-poesia-rap-e-repente-na-feira-do-mst.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2018/05/04/semeadores-de-quilombos-rimam-poesia-rap-e-repente-na-feira-do-mst.html</guid>
+				<title>“O rap é a voz de todo o povo oprimido”, diz MC Oráculo no Acampamento da Juventude </title>
+				<description>Vocalista do África Tática diz que jovens têm que se apropriar do “potencial revolucionário” da arte
+</description>
+				<pubDate>Thu, 09 Aug 2018 11:20:58 -0300</pubDate>
+				<link>http://localhost:4000/2018/08/09/o-rap-e-a-voz-de-todo-o-povo-oprimido-diz-mc-oraculo-no-acampamento-da-juventude.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/08/09/o-rap-e-a-voz-de-todo-o-povo-oprimido-diz-mc-oraculo-no-acampamento-da-juventude.html</guid>
 			</item>
 		
 			<item>
-				<title>Feira promove conferência sobre Alimentação Saudável com chef Bel Coelho e João Pedro Stedile </title>
-				<description>Conferência &quot;Alimentação Saudável: um direito de todas e de todas&quot; acontece durante Feira do MST, em São Paulo</description>
-				<pubDate>Fri, 04 May 2018 17:01:58 -0300</pubDate>
-				<link>http://www.mst.org.br/2018/05/04/feira-promove-conferencia-sobre-alimentacao-saudavel-com-chef-bel-coelho-e-joao-pedro-stedile.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2018/05/04/feira-promove-conferencia-sobre-alimentacao-saudavel-com-chef-bel-coelho-e-joao-pedro-stedile.html</guid>
+				<title>Movimentos populares reafirmam compromisso com a paz na Venezuela</title>
+				<description>Membros do Comitê pela Paz na Venezuela fizeram uma visita ao consulado do país na capital paulista</description>
+				<pubDate>Thu, 09 Aug 2018 10:21:28 -0300</pubDate>
+				<link>http://localhost:4000/2018/08/09/movimentos-populares-reafirmam-compromisso-com-a-paz-na-venezuela.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/08/09/movimentos-populares-reafirmam-compromisso-com-a-paz-na-venezuela.html</guid>
 			</item>
 		
 			<item>
-				<title>Bel Coelho: “Agricultura familiar, agroflorestal e orgânica é o futuro”</title>
-				<description>Chef de cozinha participou do seminário que discutiu agrobiodiversidade durante a 3ª Feira Nacional da Reforma Agrária</description>
-				<pubDate>Fri, 04 May 2018 16:41:45 -0300</pubDate>
-				<link>http://www.mst.org.br/2018/05/04/bel-coelho-agricultura-familiar-agroflorestal-e-organica-e-o-futuro.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2018/05/04/bel-coelho-agricultura-familiar-agroflorestal-e-organica-e-o-futuro.html</guid>
+				<title>“A marcha pertence aquelas que lutam pelas causas coletivas da classe trabalhadora”</title>
+				<description>Durante café da manhã de lançamento na Câmara dos Deputados, os movimentos reforçam que a marcha, além de pedagógica, será um momento de diálogo sobre crise econômica e política com a sociedade.</description>
+				<pubDate>Thu, 09 Aug 2018 09:52:20 -0300</pubDate>
+				<link>http://localhost:4000/2018/08/09/a-marcha-pertence-aqueles-que-lutam-pelas-causas-coletivas-da-classe-trabalhadora.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/08/09/a-marcha-pertence-aqueles-que-lutam-pelas-causas-coletivas-da-classe-trabalhadora.html</guid>
 			</item>
 		
 			<item>
-				<title>Mineiro de origem, paulista de coração e Sem Terra com muito orgulho</title>
-				<description>Luis Carlos Roman é um dos mais de 900 agricultores que levaram seus produtos à 3ª Feira Nacional da Reforma Agrária, em São Paulo</description>
-				<pubDate>Fri, 04 May 2018 16:14:31 -0300</pubDate>
-				<link>http://www.mst.org.br/2018/05/04/mineiro-de-origem-paulista-de-coracao-e-sem-terra-com-muito-orgulho.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2018/05/04/mineiro-de-origem-paulista-de-coracao-e-sem-terra-com-muito-orgulho.html</guid>
+				<title>Via Campesina inicia 4ª Turma Especial de Medicina Veterinária</title>
+				<description>A lista de aprovados foi divulgada nesta quarta-feira pela Universidade Federal de Pelotas
+</description>
+				<pubDate>Wed, 08 Aug 2018 23:02:54 -0300</pubDate>
+				<link>http://localhost:4000/2018/08/08/via-campesina-inicia-4a-turma-especial-de-medicina-veterinaria.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/08/08/via-campesina-inicia-4a-turma-especial-de-medicina-veterinaria.html</guid>
 			</item>
 		
 			<item>
-				<title>Alimentação escolar: educação para nutrir corpos e mentes</title>
-				<description>Seminário &quot;Alimentação saudável e nutrição na educação escolar&quot; fala da importância da infância bem nutrida na Feira Nacional do MST</description>
-				<pubDate>Fri, 04 May 2018 15:08:26 -0300</pubDate>
-				<link>http://www.mst.org.br/2018/05/04/alimentacao-infantil-alimentar-educando-para-nutrir-corpos-e-mentes.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2018/05/04/alimentacao-infantil-alimentar-educando-para-nutrir-corpos-e-mentes.html</guid>
+				<title>Arte fortalece marcha nacional do MST</title>
+				<description>Evento cultural em apoio à mobilização será realizado nesta sexta (10) em Belo Horizonte</description>
+				<pubDate>Wed, 08 Aug 2018 17:27:08 -0300</pubDate>
+				<link>http://localhost:4000/2018/08/08/arte-fortalece-marcha-nacional-do-mst.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/08/08/arte-fortalece-marcha-nacional-do-mst.html</guid>
 			</item>
 		
 			<item>
-				<title>Café com livros saudáveis para a luta</title>
-				<description>A programação e o ambiente convidam para passar dias em debates no Café Literário</description>
-				<pubDate>Fri, 04 May 2018 14:18:46 -0300</pubDate>
-				<link>http://www.mst.org.br/2018/05/04/cafe-com-livros-saudaveis-para-a-luta.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2018/05/04/cafe-com-livros-saudaveis-para-a-luta.html</guid>
+				<title>Ato Político da Juventude com Lula reforça compromissos para Marcha Nacional</title>
+				<description>Os desafios e as perspectivas da luta em defesa do Lula Livre nortearam o ato</description>
+				<pubDate>Wed, 08 Aug 2018 16:08:05 -0300</pubDate>
+				<link>http://localhost:4000/2018/08/08/ato-politico-da-juventude-com-lula-reforca-compromissos-para-marcha-nacional.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/08/08/ato-politico-da-juventude-com-lula-reforca-compromissos-para-marcha-nacional.html</guid>
 			</item>
 		
 			<item>
-				<title>Formas de organização presentes na Feira Nacional mudaram a realidade de famílias Sem Terra</title>
-				<description>Cooperativas da Reforma Agrária comercializam uma diversidade de produtos durante Feira Nacional em São Paulo</description>
-				<pubDate>Fri, 04 May 2018 13:50:43 -0300</pubDate>
-				<link>http://www.mst.org.br/2018/05/04/formas-de-organizacao-presentes-na-feira-nacional-mudaram-a-realidade-de-familias-sem-terra.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2018/05/04/formas-de-organizacao-presentes-na-feira-nacional-mudaram-a-realidade-de-familias-sem-terra.html</guid>
+				<title>Estudos e debates marcam o segundo dia do Acampamento Nacional da Juventude do MST</title>
+				<description>Conjuntura, tarefas da juventude e desafios do período histórico foram abordados em mesas temáticas e intervenções de agitação e propaganda</description>
+				<pubDate>Wed, 08 Aug 2018 12:10:40 -0300</pubDate>
+				<link>http://localhost:4000/2018/08/08/estudos-e-debates-marcam-o-segundo-dia-do-acampamento-nacional-da-juventude-do-mst.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/08/08/estudos-e-debates-marcam-o-segundo-dia-do-acampamento-nacional-da-juventude-do-mst.html</guid>
 			</item>
 		
 			<item>
-				<title>Minuto a minuto: 3ª Feira Nacional da Reforma Agrária</title>
-				<description>Acompanhe tudo que acontece na Feira da Reforma Agrária direto do Parque da Água Branca, em São Paulo</description>
-				<pubDate>Fri, 04 May 2018 12:50:49 -0300</pubDate>
-				<link>http://www.mst.org.br/2018/05/04/minuto-a-minuto-3a-feira-nacional-da-reforma-agraria.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2018/05/04/minuto-a-minuto-3a-feira-nacional-da-reforma-agraria.html</guid>
+				<title>Talia Machado: feminista, camponesa e revolucionária</title>
+				<description>Da infância Sem Terrinha à militância feminista, &quot;não cabe mais seguir os moldes do patriarcado, temos de pautar o debate dentro do movimento&quot;</description>
+				<pubDate>Wed, 08 Aug 2018 09:47:26 -0300</pubDate>
+				<link>http://localhost:4000/2018/08/08/talia-machado-feminista-camponesa-e-revolucionaria.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/08/08/talia-machado-feminista-camponesa-e-revolucionaria.html</guid>
 			</item>
 		
 			<item>
-				<title>Saberes, sabores e cultura popular </title>
-				<description>Feira do MST incorpora poesia, música e culinária da terra</description>
-				<pubDate>Fri, 04 May 2018 12:40:51 -0300</pubDate>
-				<link>http://www.mst.org.br/2018/05/04/saberes-sabores-e-cultura-popular.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2018/05/04/saberes-sabores-e-cultura-popular.html</guid>
+				<title>Jaime Amorim: greve de fome em nome da esperança</title>
+				<description>Catarinense colaborou na construção do MST no nordeste</description>
+				<pubDate>Wed, 08 Aug 2018 09:33:55 -0300</pubDate>
+				<link>http://localhost:4000/2018/08/08/jaime-amorim-greve-de-fome-em-nome-da-esperanca.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/08/08/jaime-amorim-greve-de-fome-em-nome-da-esperanca.html</guid>
 			</item>
 		
 			<item>
-				<title>Manifesto alerta a sociedade sobre o pacote de veneno da Câmara dos Deputados</title>
-				<description>O Brasil é o maior consumidor de agrotóxicos do mundo. Se o PL for aprovado essa situação será drasticamente agravada!</description>
-				<pubDate>Fri, 04 May 2018 12:22:29 -0300</pubDate>
-				<link>http://www.mst.org.br/2018/05/04/manifesto-alerta-a-sociedade-sobre-o-pacote-de-veneno-da-camara-dos-deputados.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2018/05/04/manifesto-alerta-a-sociedade-sobre-o-pacote-de-veneno-da-camara-dos-deputados.html</guid>
+				<title>&quot;Serão seis dias de caminhada para retomar o Brasil e para exigir Lula Livre!&quot;</title>
+				<description>A caminhada, que começa no próximo dia 10 vai reunir milhares de Sem Terra de todas as regiões do país </description>
+				<pubDate>Tue, 07 Aug 2018 16:03:02 -0300</pubDate>
+				<link>http://localhost:4000/2018/08/07/serao-seis-dias-de-caminhada-para-retomar-o-brasil-e-para-exigir-lula-livre.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/08/07/serao-seis-dias-de-caminhada-para-retomar-o-brasil-e-para-exigir-lula-livre.html</guid>
 			</item>
 		
 	</channel>
