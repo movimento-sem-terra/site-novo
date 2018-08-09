@@ -4,7 +4,7 @@ tags:
   - tag: marcha
   - tag: lula-livre
   - tag: reforma-agraria
-title: “A marcha pertence aqueles que lutam pelas causas coletivas da classe trabalhadora”
+title: “A marcha pertence aquelas que lutam pelas causas coletivas da classe trabalhadora”
 support_line: "Durante café da manhã de lançamento na Câmara dos Deputados, os movimentos reforçam que a marcha, além de pedagógica, será um momento de diálogo sobre crise econômica e política com a sociedade."
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/851/42137078970_bcae708d00_b.jpg
