@@ -3,8 +3,7 @@ date: "2018-08-09T18:12:38-03:00"
 tags:
   - tag: marcha
   - tag: juventude-sem-terra
-  - tag: juventude
-title: "Hércules Santos: negro, gay e do candomblé na luta por diversidade sexual e religiosa"
+title: "Hércules Santos: negro, gay e do candomblé na luta pela diversidade"
 support_line: "Para militante, o debate LGBT tem avançado dentro dos movimentos populares, mas ainda é preciso discutir preconceito contra religiões afro-brasileiras"
 images_hd: //farm1.staticflickr.com/928/29015873007_b3f46a7a79_b.jpg
 menu: lutas e mobilizações
@@ -18,7 +17,7 @@ files:
     title: 75cf9826-b271-47e8-a86e-65693ba7bd2a.jpeg
     $$hashKey: 081
 created_date: "2018-08-09T18:56:30-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/08/2018-08-04-o-acampamento-nacional-tem-o-objetivo-de-inserir-a-juventude-sem-terra-na-luta-politica-da-classe-trabalhadora-destaca-dirigente-do-mst.md
   - _posts/2018/08/2018-08-07-acampamento-nacional-da-juventude-da-inicio-a-marcha-historica-do-mst.md
@@ -34,14 +33,14 @@ releated_posts:
 </div>
 
 <p><br />
-Por Rute Pina<br />
-Especial para P&aacute;gina do MST<br />
+<em>Por Rute Pina<br />
+Especial para P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>Nos intervalos da programa&ccedil;&atilde;o do 2&ordm; Acampamento da Juventude Sem Terra, a delega&ccedil;&atilde;o do estado da Bahia chama a aten&ccedil;&atilde;o com os batuques improvisados com pratos e talheres. Entre eles, o jovem H&eacute;rcules Santos, de 21 anos, empresta sua voz e batucada para cantos que representam sua identidade como sem terra, negro, gay, nordestino e do candombl&eacute;.<br />
+<p>Nos intervalos da programa&ccedil;&atilde;o do 2&ordm; Acampamento Nacional da Juventude Sem Terra, a delega&ccedil;&atilde;o do estado da Bahia chama a aten&ccedil;&atilde;o com os batuques improvisados com pratos e talheres. Entre eles, o jovem H&eacute;rcules Santos, de 21 anos, empresta sua voz e batucada para cantos que representam sua identidade como Sem Terra, negro, gay, nordestino e do candombl&eacute;.<br />
 &nbsp;</p>
 
-<p>Ele &eacute; um dos 500 no Acampamento Nacional da Juventude, que ocorre em Corumb&aacute; de Goi&aacute;s (GO) e que tamb&eacute;m v&atilde;o participar da Marcha Nacional Lula Livre.<br />
+<p>Ele &eacute; um dos 500 no Acampamento, que ocorre em Corumb&aacute; de Goi&aacute;s (GO), e que tamb&eacute;m v&atilde;o participar da Marcha Nacional Lula Livre.<br />
 &nbsp;</p>
 
 <p>O jovem baiano &eacute; filho de assentados e vive no Acampamento Abril Vermelho, em Juazeiro (BA). H&eacute;rcules cursa o segundo ano de direito na Universidade Federal do Vale do S&atilde;o Francisco (Univasf) e, aos 17 anos, se tornou babalorix&aacute; &mdash; ou pai de santo, como tamb&eacute;m &eacute; conhecido o sacerdote de religi&otilde;es afro-brasileiras.<br />
@@ -74,7 +73,8 @@ Especial para P&aacute;gina do MST<br />
 <p>&quot;Sempre houve LGBTs no campo, mas eles nunca podiam se expor muito. Algumas pessoas diziam &#39;ah, ele &eacute; bicha, mas tem compromisso&#39; e a gente conquistava algum espa&ccedil;o. Mas hoje a gente tem um coletivo agindo, o que est&aacute; sendo muito maravilhoso.&rdquo;<br />
 &nbsp;</p>
 
-<p>A partir dos debates dentro do Movimento, o Coletivo Nacional LGBT do MST foi fundado no in&iacute;cio de 2018.<br />
-&nbsp;</p>
+<p>A partir dos debates dentro do Movimento, o Coletivo Nacional LGBT do MST foi fundado no in&iacute;cio de 2018.</p>
+
+<p>&nbsp;</p>
 
 <p><em>*Editado por Geanini Hackbardt</em></p>
