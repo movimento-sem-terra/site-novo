@@ -32,6 +32,7 @@ releated_posts:
   - _posts/2018/05/2018-05-01-acompanhe-as-mobilizacoes-do-1o-de-maio-em-todo-o-pais.md
   - _posts/2018/05/2018-05-19-em-nota-a-a-frente-brasil-popular-denuncia-os-recentes-ataques-a-democracia-patrocinado-por-setores-do-poder-judiciario.md
   - _posts/2018/05/2018-05-28-movimentos-protestam-hoje-28-em-frente-ao-predio-da-petrobras-em-sao-paulo.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
