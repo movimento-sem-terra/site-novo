@@ -4,7 +4,7 @@ tags:
   - tag: marcha
   - tag: juventude-sem-terra
 title: "Hércules Santos: negro, gay e do candomblé na luta pela diversidade"
-support_line: "Para militante, o debate LGBT tem avançado dentro dos movimentos populares, mas ainda é preciso discutir preconceito contra religiões afro-brasileiras"
+support_line: "Para o militante, o debate LGBT tem avançado dentro dos movimentos populares, mas ainda é preciso discutir preconceito contra religiões afro-brasileiras"
 images_hd: //farm1.staticflickr.com/928/29015873007_b3f46a7a79_b.jpg
 menu: lutas e mobilizações
 layout: post
@@ -28,7 +28,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="75cf9826-b271-47e8-a86e-65693ba7bd2a.jpeg" height="467" src="//farm1.staticflickr.com/928/29015873007_b3f46a7a79_b.jpg" width="700" />
-<figcaption>Para ele, a organiza&ccedil;&atilde;o da juventude, com toda sua diversidade, &eacute; fundamental para ampliar o debate sobre as opress&otilde;es como o racismo e a LGBTfobia. <em>Foto: Matheus Alves</em></figcaption>
+<figcaption><em>Para ele, a organiza&ccedil;&atilde;o da juventude, com toda sua diversidade, &eacute; fundamental para ampliar o debate sobre as opress&otilde;es como o racismo e a LGBTfobia. Foto: Matheus Alves</em></figcaption>
 </figure>
 </div>
 
