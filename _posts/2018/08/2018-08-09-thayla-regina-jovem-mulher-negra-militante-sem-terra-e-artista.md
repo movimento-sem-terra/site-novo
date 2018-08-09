@@ -32,8 +32,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Por Reynaldo Costa<br />
-Da p&aacute;gina do MST</p>
+<p><em>Por Reynaldo Costa<br />
+Da p&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
