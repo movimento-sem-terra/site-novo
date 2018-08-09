@@ -18,7 +18,7 @@ files:
     title: 75cf9826-b271-47e8-a86e-65693ba7bd2a.jpeg
     $$hashKey: 081
 created_date: "2018-08-09T18:56:30-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/08/2018-08-04-o-acampamento-nacional-tem-o-objetivo-de-inserir-a-juventude-sem-terra-na-luta-politica-da-classe-trabalhadora-destaca-dirigente-do-mst.md
   - _posts/2018/08/2018-08-07-acampamento-nacional-da-juventude-da-inicio-a-marcha-historica-do-mst.md
