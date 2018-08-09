@@ -3,32 +3,40 @@
 	<channel>
 		<title>Movimento dos Trabalhadores Rurais Sem Terra</title>
 		<description>Há 29 anos, em Cascavel (PR), centenas de trabalhadores rurais decidiram fundar um movimento social camponês, autônomo, que lutasse pela terra, pela Reforma Agrária e pelas transformações sociais necessárias para o nosso país. Eram posseiros, atingidos por barragens, migrantes, meeiros, parceiros e pequenos agricultores</description>		
-		<link>http://localhost:4000</link>
-		<atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml" />
+		<link>http://www.mst.org.br</link>
+		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Thayla Regina: jovem, mulher negra, militante Sem Terra e artista</title>
+				<description>“As intervenções culturais são um dos instrumentos reais de luta da juventude”</description>
+				<pubDate>Thu, 09 Aug 2018 13:24:39 -0300</pubDate>
+				<link>http://www.mst.org.br/2018/08/09/thayla-regina-jovem-mulher-negra-militante-sem-terra-e-artista.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2018/08/09/thayla-regina-jovem-mulher-negra-militante-sem-terra-e-artista.html</guid>
+			</item>
 		
 			<item>
 				<title>“O rap é a voz de todo o povo oprimido”, diz MC Oráculo no Acampamento da Juventude </title>
 				<description>Vocalista do África Tática diz que jovens têm que se apropriar do “potencial revolucionário” da arte
 </description>
 				<pubDate>Thu, 09 Aug 2018 11:20:58 -0300</pubDate>
-				<link>http://localhost:4000/2018/08/09/o-rap-e-a-voz-de-todo-o-povo-oprimido-diz-mc-oraculo-no-acampamento-da-juventude.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2018/08/09/o-rap-e-a-voz-de-todo-o-povo-oprimido-diz-mc-oraculo-no-acampamento-da-juventude.html</guid>
+				<link>http://www.mst.org.br/2018/08/09/o-rap-e-a-voz-de-todo-o-povo-oprimido-diz-mc-oraculo-no-acampamento-da-juventude.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2018/08/09/o-rap-e-a-voz-de-todo-o-povo-oprimido-diz-mc-oraculo-no-acampamento-da-juventude.html</guid>
 			</item>
 		
 			<item>
 				<title>Movimentos populares reafirmam compromisso com a paz na Venezuela</title>
 				<description>Membros do Comitê pela Paz na Venezuela fizeram uma visita ao consulado do país na capital paulista</description>
 				<pubDate>Thu, 09 Aug 2018 10:21:28 -0300</pubDate>
-				<link>http://localhost:4000/2018/08/09/movimentos-populares-reafirmam-compromisso-com-a-paz-na-venezuela.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2018/08/09/movimentos-populares-reafirmam-compromisso-com-a-paz-na-venezuela.html</guid>
+				<link>http://www.mst.org.br/2018/08/09/movimentos-populares-reafirmam-compromisso-com-a-paz-na-venezuela.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2018/08/09/movimentos-populares-reafirmam-compromisso-com-a-paz-na-venezuela.html</guid>
 			</item>
 		
 			<item>
 				<title>“A marcha pertence aquelas que lutam pelas causas coletivas da classe trabalhadora”</title>
 				<description>Durante café da manhã de lançamento na Câmara dos Deputados, os movimentos reforçam que a marcha, além de pedagógica, será um momento de diálogo sobre crise econômica e política com a sociedade.</description>
 				<pubDate>Thu, 09 Aug 2018 09:52:20 -0300</pubDate>
-				<link>http://localhost:4000/2018/08/09/a-marcha-pertence-aqueles-que-lutam-pelas-causas-coletivas-da-classe-trabalhadora.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2018/08/09/a-marcha-pertence-aqueles-que-lutam-pelas-causas-coletivas-da-classe-trabalhadora.html</guid>
+				<link>http://www.mst.org.br/2018/08/09/a-marcha-pertence-aqueles-que-lutam-pelas-causas-coletivas-da-classe-trabalhadora.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2018/08/09/a-marcha-pertence-aqueles-que-lutam-pelas-causas-coletivas-da-classe-trabalhadora.html</guid>
 			</item>
 		
 			<item>
@@ -36,56 +44,48 @@
 				<description>A lista de aprovados foi divulgada nesta quarta-feira pela Universidade Federal de Pelotas
 </description>
 				<pubDate>Wed, 08 Aug 2018 23:02:54 -0300</pubDate>
-				<link>http://localhost:4000/2018/08/08/via-campesina-inicia-4a-turma-especial-de-medicina-veterinaria.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2018/08/08/via-campesina-inicia-4a-turma-especial-de-medicina-veterinaria.html</guid>
+				<link>http://www.mst.org.br/2018/08/08/via-campesina-inicia-4a-turma-especial-de-medicina-veterinaria.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2018/08/08/via-campesina-inicia-4a-turma-especial-de-medicina-veterinaria.html</guid>
 			</item>
 		
 			<item>
 				<title>Arte fortalece marcha nacional do MST</title>
 				<description>Evento cultural em apoio à mobilização será realizado nesta sexta (10) em Belo Horizonte</description>
 				<pubDate>Wed, 08 Aug 2018 17:27:08 -0300</pubDate>
-				<link>http://localhost:4000/2018/08/08/arte-fortalece-marcha-nacional-do-mst.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2018/08/08/arte-fortalece-marcha-nacional-do-mst.html</guid>
+				<link>http://www.mst.org.br/2018/08/08/arte-fortalece-marcha-nacional-do-mst.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2018/08/08/arte-fortalece-marcha-nacional-do-mst.html</guid>
 			</item>
 		
 			<item>
 				<title>Ato Político da Juventude com Lula reforça compromissos para Marcha Nacional</title>
 				<description>Os desafios e as perspectivas da luta em defesa do Lula Livre nortearam o ato</description>
 				<pubDate>Wed, 08 Aug 2018 16:08:05 -0300</pubDate>
-				<link>http://localhost:4000/2018/08/08/ato-politico-da-juventude-com-lula-reforca-compromissos-para-marcha-nacional.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2018/08/08/ato-politico-da-juventude-com-lula-reforca-compromissos-para-marcha-nacional.html</guid>
+				<link>http://www.mst.org.br/2018/08/08/ato-politico-da-juventude-com-lula-reforca-compromissos-para-marcha-nacional.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2018/08/08/ato-politico-da-juventude-com-lula-reforca-compromissos-para-marcha-nacional.html</guid>
 			</item>
 		
 			<item>
 				<title>Estudos e debates marcam o segundo dia do Acampamento Nacional da Juventude do MST</title>
 				<description>Conjuntura, tarefas da juventude e desafios do período histórico foram abordados em mesas temáticas e intervenções de agitação e propaganda</description>
 				<pubDate>Wed, 08 Aug 2018 12:10:40 -0300</pubDate>
-				<link>http://localhost:4000/2018/08/08/estudos-e-debates-marcam-o-segundo-dia-do-acampamento-nacional-da-juventude-do-mst.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2018/08/08/estudos-e-debates-marcam-o-segundo-dia-do-acampamento-nacional-da-juventude-do-mst.html</guid>
+				<link>http://www.mst.org.br/2018/08/08/estudos-e-debates-marcam-o-segundo-dia-do-acampamento-nacional-da-juventude-do-mst.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2018/08/08/estudos-e-debates-marcam-o-segundo-dia-do-acampamento-nacional-da-juventude-do-mst.html</guid>
 			</item>
 		
 			<item>
 				<title>Talia Machado: feminista, camponesa e revolucionária</title>
 				<description>Da infância Sem Terrinha à militância feminista, &quot;não cabe mais seguir os moldes do patriarcado, temos de pautar o debate dentro do movimento&quot;</description>
 				<pubDate>Wed, 08 Aug 2018 09:47:26 -0300</pubDate>
-				<link>http://localhost:4000/2018/08/08/talia-machado-feminista-camponesa-e-revolucionaria.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2018/08/08/talia-machado-feminista-camponesa-e-revolucionaria.html</guid>
+				<link>http://www.mst.org.br/2018/08/08/talia-machado-feminista-camponesa-e-revolucionaria.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2018/08/08/talia-machado-feminista-camponesa-e-revolucionaria.html</guid>
 			</item>
 		
 			<item>
 				<title>Jaime Amorim: greve de fome em nome da esperança</title>
 				<description>Catarinense colaborou na construção do MST no nordeste</description>
 				<pubDate>Wed, 08 Aug 2018 09:33:55 -0300</pubDate>
-				<link>http://localhost:4000/2018/08/08/jaime-amorim-greve-de-fome-em-nome-da-esperanca.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2018/08/08/jaime-amorim-greve-de-fome-em-nome-da-esperanca.html</guid>
-			</item>
-		
-			<item>
-				<title>&quot;Serão seis dias de caminhada para retomar o Brasil e para exigir Lula Livre!&quot;</title>
-				<description>A caminhada, que começa no próximo dia 10 vai reunir milhares de Sem Terra de todas as regiões do país </description>
-				<pubDate>Tue, 07 Aug 2018 16:03:02 -0300</pubDate>
-				<link>http://localhost:4000/2018/08/07/serao-seis-dias-de-caminhada-para-retomar-o-brasil-e-para-exigir-lula-livre.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2018/08/07/serao-seis-dias-de-caminhada-para-retomar-o-brasil-e-para-exigir-lula-livre.html</guid>
+				<link>http://www.mst.org.br/2018/08/08/jaime-amorim-greve-de-fome-em-nome-da-esperanca.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2018/08/08/jaime-amorim-greve-de-fome-em-nome-da-esperanca.html</guid>
 			</item>
 		
 	</channel>
