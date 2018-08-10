@@ -18,7 +18,7 @@ files:
     title: Marcha 2005 cred Zinclar (117) 1.JPG
     $$hashKey: 0D0
 created_date: "2018-08-10T18:54:05-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/08/2018-08-10-marchas-em-busca-de-direitos-marcam-vidas-de-sem-terra.md
   - _posts/2017/12/2017-12-01-apos-mais-de-duas-decadas-mst-conquista-area-emblematica-no-pontal-do-paranapanema.md
