@@ -7,7 +7,7 @@ tags:
   - tag: reforma-agraria
 title: Marchas em busca de direitos marcam vidas de Sem Terra
 support_line: Tipo de protesto é realizado pelo MST desde o início de sua história
-images_hd: !<tag:yaml.org,2002:js/function> "function link() { [native code] }"
+images_hd: //farm2.staticflickr.com/1794/43916293332_2b21e34885_b.jpg
 menu: lutas e mobilizações
 layout: post
 files:
