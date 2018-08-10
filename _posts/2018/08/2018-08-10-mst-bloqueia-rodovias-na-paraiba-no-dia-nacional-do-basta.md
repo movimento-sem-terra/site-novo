@@ -27,7 +27,11 @@ releated_posts: []
 
 <p style="margin-bottom: 0cm; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 13pt"><i>Por: Tha&iacute;s Peregrino</i></font></font></p>
 
+<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
+
 <p style="margin-bottom: 0cm; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 13pt">Na manh&atilde; desta sexta-feira (10), iniciaram as mobiliza&ccedil;&otilde;es do &#39;&#39;Dia Nacional do Basta!&#39;&#39;, Movimentos Socais e diversas categorias de trabalhadores e trabalhadoras est&atilde;o mobilizados em todo Pa&iacute;s. A luta pela democracia &eacute; a principal pauta no dia de hoje, toda classe trabalhadora, do campo e da cidade, diz Basta da retirada de Direitos! </font></font></p>
+
+<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 13pt">Na Para&iacute;ba, o Movimentos dos Trabalhadores Rurais Sem Terra fecharam dois importantes trechos de rodovias no estado. Em Pedras de Fogo, 400 fam&iacute;lias realizam neste momento o trancamento da BR 230, e no munic&iacute;pio de Mata Redonda ocorre o trancamento da BR 101.<br />
 Com os trancamentos, o MST busca alertar o povo paraibano sobre os retrocessos que atingem a classe trabalhadora no pa&iacute;s p&oacute;s-golpe 2016.</font></font></p>
