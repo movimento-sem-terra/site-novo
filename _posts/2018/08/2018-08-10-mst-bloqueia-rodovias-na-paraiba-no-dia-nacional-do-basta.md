@@ -23,14 +23,16 @@ releated_posts: []
 
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><em>Por: Tha&iacute;s Peregrino</em></p>
+<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><font face="Times New Roman, serif">Na manh&atilde; desta sexta-feira (10), iniciaram as mobiliza&ccedil;&otilde;es do &#39;&#39;Dia Nacional do Basta!&#39;&#39;, Movimentos Socais e diversas categorias de trabalhadores e trabalhadoras est&atilde;o mobilizados em todo Pa&iacute;s. A luta pela democracia &eacute; a principal pauta no dia de hoje, toda classe trabalhadora, do campo e da cidade, diz Basta da retirada de Direitos! </font></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 13pt"><i>Por: Tha&iacute;s Peregrino</i></font></font></p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><font face="Times New Roman, serif">Na Para&iacute;ba, o Movimentos dos Trabalhadores Rurais Sem Terra fecharam dois importantes trechos de rodovias no estado. Em Pedras de Fogo, 400 fam&iacute;lias realizam neste momento o trancamento da BR 230, e no munic&iacute;pio de Mata Redonda ocorre o trancamento da BR 101.</font></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 13pt">Na manh&atilde; desta sexta-feira (10), iniciaram as mobiliza&ccedil;&otilde;es do &#39;&#39;Dia Nacional do Basta!&#39;&#39;, Movimentos Socais e diversas categorias de trabalhadores e trabalhadoras est&atilde;o mobilizados em todo Pa&iacute;s. A luta pela democracia &eacute; a principal pauta no dia de hoje, toda classe trabalhadora, do campo e da cidade, diz Basta da retirada de Direitos! </font></font></p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><font face="Times New Roman, serif">Com os trancamentos, o MST busca alertar o povo paraibano sobre os retrocessos que atingem a classe trabalhadora no pa&iacute;s p&oacute;s-golpe 2016.</font></p>
+<p style="margin-bottom: 0cm; line-height: 100%"><font face="Times New Roman, serif"><font size="3" style="font-size: 13pt">Na Para&iacute;ba, o Movimentos dos Trabalhadores Rurais Sem Terra fecharam dois importantes trechos de rodovias no estado. Em Pedras de Fogo, 400 fam&iacute;lias realizam neste momento o trancamento da BR 230, e no munic&iacute;pio de Mata Redonda ocorre o trancamento da BR 101.<br />
+Com os trancamentos, o MST busca alertar o povo paraibano sobre os retrocessos que atingem a classe trabalhadora no pa&iacute;s p&oacute;s-golpe 2016.</font></font></p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><font face="Times New Roman, serif">Al&eacute;m das mobiliza&ccedil;&otilde;es do Dia do Basta, o MST tamb&eacute;m segue em marcha nacional rumo &agrave; capital Bras&iacute;lia. Camponeses e camponesas de todos os estados realizar&aacute; a partir do dia de hoje uma grande marcha em defesa do presidente Lula. O dia de luta tamb&eacute;m &eacute; marcado pelo 10&ordm; dia da greve de fome, militantes da Via Campesina e de Movimentos Urbanos por atitude em defesa da democracia, reivindicando a liberta&ccedil;&atilde;o do presidente Lula, chegam ao 10&ordm; dia da greve de fome.<br />
+<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<font face="Times New Roman, serif"><font size="3" style="font-size: 13pt">Al&eacute;m das mobiliza&ccedil;&otilde;es do Dia do Basta, o MST tamb&eacute;m segue em marcha nacional rumo &agrave; capital Bras&iacute;lia. Camponeses e camponesas de todos os estados realizar&aacute; a partir do dia de hoje uma grande marcha em defesa do presidente Lula. O dia de luta tamb&eacute;m &eacute; marcado pelo 10&ordm; dia da greve de fome, militantes da Via Campesina e de Movimentos Urbanos por atitude em defesa da democracia, reivindicando a liberta&ccedil;&atilde;o do presidente Lula, chegam ao 10&ordm; dia da greve de fome.<br />
 <br />
-<i>*</i><i>Editado por: Reynaldo Costa</i></font></p>
+<i>*</i><i>Editado por: Reynaldo Costa</i></font></font></p>
