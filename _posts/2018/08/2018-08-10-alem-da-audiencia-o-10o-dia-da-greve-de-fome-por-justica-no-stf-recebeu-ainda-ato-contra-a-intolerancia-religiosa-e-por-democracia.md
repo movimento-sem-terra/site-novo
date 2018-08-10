@@ -41,4 +41,4 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>O Ato Inter-religioso foi realizado em solidariedade aos povos de matriz africana e pelos direitos de realiza&ccedil;&atilde;o de suas express&otilde;es religiosas, com a presen&ccedil;a de mais de 20 matrizes religiosas e espirituais, que se unem aos povos ind&iacute;genas em apoio tamb&eacute;m aos sete militantes em greve e fome h&aacute; dez dias.</p>
 
-<p><em>* Editado por: Reynaldo Costa</em></p>
+<p><em>*Editado por: Reynaldo Costa</em></p>
