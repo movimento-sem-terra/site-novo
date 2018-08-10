@@ -111,6 +111,29 @@ body {
   }
 }
 
+.marcha__youtube__playlist {
+  text-align: center;
+}
+
+.marcha__album-de-fotos {
+  text-align: center;
+  background-color: #000;
+
+  .header-title {
+    color: #fff;
+  }
+}
+
+.marcha__mapa {
+  background-color: #980a1b;
+  color: #fff;
+  text-align: center;
+
+  .img {
+    width: 60%;
+  }
+}
+
 .main__timeline {
   background-color:#1D1D1D;
   min-height:100vh;
