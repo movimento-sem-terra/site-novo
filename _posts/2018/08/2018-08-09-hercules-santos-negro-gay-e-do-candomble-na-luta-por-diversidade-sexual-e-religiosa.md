@@ -43,16 +43,13 @@ Especial para P&aacute;gina do MST</em><br />
 <p>Ele &eacute; um dos 500 no Acampamento, que ocorre em Corumb&aacute; de Goi&aacute;s (GO), e que tamb&eacute;m v&atilde;o participar da Marcha Nacional Lula Livre.<br />
 &nbsp;</p>
 
-<p>O jovem baiano &eacute; filho de assentados e vive no Acampamento Abril Vermelho, em Juazeiro (BA). H&eacute;rcules cursa o segundo ano de direito na Universidade Federal do Vale do S&atilde;o Francisco (Univasf) e, aos 17 anos, se tornou babalorix&aacute; &mdash; ou pai de santo, como tamb&eacute;m &eacute; conhecido o sacerdote de religi&otilde;es afro-brasileiras.<br />
+<p>O jovem baiano &eacute; filho de assentados e vive no Acampamento Abril Vermelho, em Juazeiro (BA). H&eacute;rcules, aos 17 anos, se tornou babalorix&aacute; &mdash; ou pai de santo, como tamb&eacute;m &eacute; conhecido o sacerdote de religi&otilde;es afro-brasileiras.<br />
 &nbsp;</p>
 
 <p>Ele relata a dificuldade de se afirmar como LGBT, a princ&iacute;pio, por conta da homofobia e da invisibilidade da pauta no campo. &quot;No in&iacute;cio, foi bastante dif&iacute;cil porque a sociedade, em si, acha que s&oacute; existem sujeitos LGBTs (l&eacute;sbicas, gays, bissexuais, travestis e transexuais) na cidade. Mas no mato, no campo e na ro&ccedil;a tamb&eacute;m existem bichas, homens e mulheres trans que lutam por direitos&quot;, diz.<br />
 &nbsp;</p>
 
-<p>H&eacute;rcules afirma que o debate tem avan&ccedil;ado, mas confus&otilde;es sobre termos, por exemplo, persistem. &quot;Ainda h&aacute; uma ideia errada sobre a diferen&ccedil;a entre op&ccedil;&atilde;o e condi&ccedil;&atilde;o. Eu nasci negro, gay e com cabelo duro. Op&ccedil;&atilde;o &eacute; quando voc&ecirc; opina, escolhe e decide. Hoje estamos derrubando cercas em torno da homofobia&quot;, explica o jovem.<br />
-&nbsp;</p>
-
-<p>E h&aacute; outras pautas, como a intoler&acirc;ncia religiosa, que ainda s&atilde;o grandes desafios para a juventude camponesa, afirma o jovem.<br />
+<p>H&eacute;rcules afirma que o debate tem avan&ccedil;ado, mas confus&otilde;es sobre termos, por exemplo, persistem. &quot;Ainda h&aacute; uma ideia errada sobre a diferen&ccedil;a entre op&ccedil;&atilde;o e condi&ccedil;&atilde;o. Eu nasci negro, gay e com cabelo duro. Op&ccedil;&atilde;o &eacute; quando voc&ecirc; opina, escolhe e decide. Hoje estamos derrubando cercas em torno da homofobia&quot;, explica o jovem. E h&aacute; outras pautas, como a intoler&acirc;ncia religiosa, que ainda s&atilde;o grandes desafios para a juventude camponesa, afirma.<br />
 &nbsp;</p>
 
 <p>H&aacute; um ano, em janeiro de 2017, H&eacute;rcules abriu o terreiro Il&ecirc; Ax&eacute; Oj&uacute; Omin - Casa de Ax&eacute; Olhos D&#39;&Aacute;gua em sua casa, no acampamento, como resposta a coment&aacute;rios preconceituosos.<br />
