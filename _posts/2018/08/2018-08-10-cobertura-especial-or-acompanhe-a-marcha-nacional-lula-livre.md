@@ -3,7 +3,7 @@ date: "2018-08-10T14:45:59-03:00"
 tags:
   - tag: marcha
   - tag: lula-livre
-title: "COBERTURA ESPECIAL | ACOMPANHE A MARCHA NACIONAL LULA LIVRE"
+title: "Acompanhe a Marcha Nacional Lula Livre "
 support_line: "Entre os dias 10 a 15 de agosto, cerca de 5 mil trabalhadoras e trabalhadora seguem rumo à Brasília."
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1797/43061187125_047a56d675_b.jpg
