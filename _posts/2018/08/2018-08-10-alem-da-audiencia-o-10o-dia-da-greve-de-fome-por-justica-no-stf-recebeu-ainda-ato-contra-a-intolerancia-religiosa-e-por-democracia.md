@@ -1,10 +1,11 @@
 ---
 date: "2018-08-10T13:01:07-03:00"
-tags: []
-title: "Além da audiência, o 10º dia da Greve de Fome por Justiça no STF, recebeu ainda ato contra a intolerância religiosa e por democracia"
+tags:
+  - tag: direitos-humanos
+title: Em audiência Ministro Lewandovski recebe os sete grevistas
 images_hd: //farm1.staticflickr.com/938/29027271207_15ba4d148b_b.jpg
 menu: direitos humanos
-support_line: "Grevistas são recebidos por Ricardo Lewandowski "
+support_line: "Além da audiência, o 10º dia da Greve de Fome por Justiça no STF, recebeu ainda ato contra a intolerância religiosa e por democracia"
 layout: post
 files:
   - link: //farm1.staticflickr.com/938/29027271207_15ba4d148b_b.jpg
@@ -19,10 +20,14 @@ published: true
 releated_posts: []
 
 ---
+<p>&nbsp;</p>
+
 <p><img alt="WhatsApp Image 2018-08-10 at 12.22.28.jpeg" height="525" src="//farm1.staticflickr.com/938/29027271207_15ba4d148b_b.jpg" width="700" /></p>
 
-<p>Por Adilvane Spezia | MPA e Rede Soberania&nbsp;<br />
-Da P&aacute;gina do MST&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><em>Por Adilvane Spezia | MPA e Rede Soberania&nbsp;<br />
+Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>Com dez dias em Greve de Fome e a saudade bastantes debilitada, os sete grevistas foram recebidos pelo Ministro do Supremo Tribunal Federal (STF), Ricardo Lewandowski na tarde desta quinta-feira, (9). Ap&oacute;s a audi&ecirc;ncia Rafaela Alves, Luiz Gonzaga (Geg&ecirc;), Zon&aacute;lia Santos, Frei S&eacute;rgio G&ouml;rgen, Vilmar Pac&iacute;fico, Leonardo Soares e Jaime Amorim concederam entrevista &agrave; imprensa e participaram do Ato Inter-religioso em frente ao Supremo.</p>
 
@@ -34,4 +39,6 @@ Da P&aacute;gina do MST&nbsp;</p>
 
 <p>A jovem camponesa do MPA ainda denunciou a demora do Supremo Tribunal Federal e da justi&ccedil;a brasileira, &ldquo;o pre&ccedil;o da lentid&atilde;o da Justi&ccedil;a ser&aacute; ver corpos velados em frente ao STF, e n&oacute;s dissemos isso ao Ministro&rdquo;. O recado soou como um alerta, pois durante o ato inter-religioso a grevista Zon&aacute;lia, passou mal e preciso receber atendimento m&eacute;dico ainda no local pela equipe m&eacute;dica que acompanha a Greve de Fome por Justi&ccedil;a no STF.</p>
 
-<p>O Ato Inter-religioso foi realizado em solidariedade aos povos de matriz africana e pelos direitos de realiza&ccedil;&atilde;o de suas express&otilde;es religiosas, com a presen&ccedil;a de mais de 20 matrizes religiosas e espirituais, que se unem aos povos ind&iacute;genas em apoio tamb&eacute;m aos sete militantes em greve e fome h&aacute; dez.</p>
+<p>O Ato Inter-religioso foi realizado em solidariedade aos povos de matriz africana e pelos direitos de realiza&ccedil;&atilde;o de suas express&otilde;es religiosas, com a presen&ccedil;a de mais de 20 matrizes religiosas e espirituais, que se unem aos povos ind&iacute;genas em apoio tamb&eacute;m aos sete militantes em greve e fome h&aacute; dez dias.</p>
+
+<p><em>Por Reynaldo Costa</em></p>
