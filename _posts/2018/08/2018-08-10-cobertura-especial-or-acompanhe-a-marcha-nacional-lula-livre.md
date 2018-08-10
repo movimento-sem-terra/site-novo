@@ -3,7 +3,7 @@ date: "2018-08-10T14:45:59-03:00"
 tags:
   - tag: marcha
   - tag: lula-livre
-title: "Acompanhe a Marcha Nacional Lula Livre "
+title: "Acompanhe em tempo real a Marcha Nacional Lula Livre "
 support_line: "Entre os dias 10 a 15 de agosto, cerca de 5 mil trabalhadoras e trabalhadora seguem rumo à Brasília."
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1797/43061187125_047a56d675_b.jpg
@@ -25,3 +25,4 @@ releated_posts:
 section: cover
 
 ---
+<p><a class="twitter-timeline" data-partner="tweetdeck" href="https://twitter.com/Brasil_de_Fato/timelines/1027920056477462530?ref_src=twsrc%5Etfw">Marcha Lula Livre - Curated tweets by Brasil_de_Fato</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
