@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2018/07/2018-07-17-forca-da-juventude-marca-primeiro-dia-da-marcha-lula-livre-lula-inocente.md
   - _posts/2018/07/2018-07-18-politicos-e-pre-candidatos-prestigiam-marcha-em-pernambuco.md
   - _posts/2018/07/2018-07-19-caravana-semiarido-contra-a-fome-e-anunciada-em-ato-politico-da-marcha-lula-livre.md
+special-page: marcha-nacional-lula-livre
 
 ---
 <div style="text-align:center">
