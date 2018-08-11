@@ -82,10 +82,7 @@ section: cover
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Na tarde desta sexta-feira (10), os tr&ecirc;s atos de lan&ccedil;amento da Marcha Nacional Lula Livre reuniram as cerca de 5 mil trabalhadoras e trabalhadores que sa&iacute;ram das cinco regi&otilde;es do pa&iacute;s rumo &agrave; Bras&iacute;lia.&nbsp;&nbsp;</p>
-
-<p><br />
-Organizada em tr&ecirc;s colunas, as fileiras ir&atilde;o percorrer 50 quil&ocirc;metros a p&eacute;, neste s&aacute;bado devem percorrer 15 Km, em m&eacute;dia, pelas estradas, a partir das 6h.</p>
+Na tarde desta sexta-feira (10), os tr&ecirc;s atos de lan&ccedil;amento da Marcha Nacional Lula Livre reuniram as cerca de 5 mil trabalhadoras e trabalhadores que sa&iacute;ram das cinco regi&otilde;es do pa&iacute;s.&nbsp;Organizada em tr&ecirc;s colunas, Ligas Camponesas, Tereza de Benguela e Prestes, as fileiras ir&atilde;o percorrer 50 quil&ocirc;metros&nbsp;rumo &agrave; Bras&iacute;lia e se somam &agrave; mobiliza&ccedil;&atilde;o convocada para registro da candidatura do ex-presidente Luiz In&aacute;cio Lula da Silva &agrave; Presid&ecirc;ncia da Rep&uacute;blica. Lula &eacute; preso pol&iacute;tico h&aacute; mais de 120 dias, na sede da Pol&iacute;cia Federal em Curitiba (PR).&nbsp; &nbsp;</p>
 
 <p><br />
 Segundo Luiz Roberto, da dire&ccedil;&atilde;o estadual do MST em Rond&ocirc;nia,&nbsp; a luta dos pr&oacute;ximos dias &eacute; pela retomada da democracia e contra as ilegalidades jur&iacute;dicas e legislativas que permeiam o pa&iacute;s. O dirigente afirma que exigir Lula Livre &eacute; impedir a amplia&ccedil;&atilde;o do golpe que atua contra a classe trabalhadora.&nbsp;</p>
