@@ -25,3 +25,4 @@ releated_posts:
 section: featured-news
 
 ---
+<p><a class="twitter-timeline" data-partner="tweetdeck" href="https://twitter.com/Brasil_de_Fato/timelines/1027920056477462530?ref_src=twsrc%5Etfw">Marcha Lula Livre - Curated tweets by Brasil_de_Fato</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
