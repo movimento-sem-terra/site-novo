@@ -22,6 +22,7 @@ releated_posts:
   - _posts/2018/08/2018-08-03-mst-lanca-marcha-nacional-lula-livre.md
   - _posts/2018/08/2018-08-05-marchar-novamente-e-preciso.md
   - _posts/2018/08/2018-08-07-acampamento-nacional-da-juventude-da-inicio-a-marcha-historica-do-mst.md
+special-page: marcha-nacional-lula-livre
 
 ---
 <p><br />
