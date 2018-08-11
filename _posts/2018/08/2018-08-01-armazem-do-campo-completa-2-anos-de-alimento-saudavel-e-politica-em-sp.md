@@ -41,7 +41,7 @@ releated_posts:
   - _posts/2018/02/2018-02-23-producao-agroecologica-avanca-na-regiao-centro-do-parana.md
   - _posts/2018/03/2018-03-18-arroz-organico-assentados-comemoram-producao-e-liderancas-defendem-o-direito-de-lula-ser-candidato.md
   - _posts/2018/04/2018-04-27-producao-de-leite-em-po-e-alternativa-de-renda-para-familias-assentadas.md
-special-page: marcha-nacional-lula-livre
+special-page: null
 
 ---
 <p><img alt="armazem do campo 1.jpg" height="463" src="//farm2.staticflickr.com/1834/28852357437_a772fbe3fe_b.jpg" width="700" /></p>
