@@ -54,6 +54,7 @@ releated_posts:
   - _posts/2018/02/2018-02-06-curso-de-ferias-reune-juventude-sem-terra-em-alagoas.md
   - _posts/2018/08/2018-08-03-mst-lanca-marcha-nacional-lula-livre.md
 section: cover
+special-page: marcha-nacional-lula-livre
 
 ---
 <div style="text-align:center">
