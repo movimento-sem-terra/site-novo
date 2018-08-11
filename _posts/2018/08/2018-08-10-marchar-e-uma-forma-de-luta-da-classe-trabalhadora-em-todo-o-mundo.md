@@ -32,6 +32,7 @@ releated_posts:
   - _posts/2018/08/2018-08-07-serao-seis-dias-de-caminhada-para-retomar-o-brasil-e-para-exigir-lula-livre.md
   - _posts/2018/08/2018-08-08-estudos-e-debates-marcam-o-segundo-dia-do-acampamento-nacional-da-juventude-do-mst.md
   - _posts/2018/08/2018-08-08-ato-politico-da-juventude-com-lula-reforca-compromissos-para-marcha-nacional.md
+special-page: marcha-nacional-lula-livre
 
 ---
 <p>&nbsp;</p>
