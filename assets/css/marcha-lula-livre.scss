@@ -1,5 +1,9 @@
 ---
 ---
+@import "../bourbon/bourbon";
+@import "../neat/neat";
+@import "../_sass/variables";
+@import "../_sass/_includes/mixins";
 
 $screen-xs: 480px;
 $screen-sm: 768px;
@@ -167,29 +171,6 @@ body {
   }
 }
 
-.main__timeline {
-  background-color:#1D1D1D;
-  min-height:100vh;
-  margin:0;
-  font-family: 'Droid Sans', sans-serif;
-  position: relative;
-  &:before {
-    content: '';
-    position: absolute;
-    top:0px;
-    left:5%;
-    bottom:0px;
-    transform:translateX(-50%);
-    width:4px;
-    background-color:#fff;
-
-
-    @media screen and (min-width: $screen-md) {
-      left:50%;
-    }
-  }
-}
-
 .entries {
   width: calc(100%);
   max-width:800px;
@@ -277,4 +258,39 @@ body {
 .entry__img {
   max-width: 100%;
   margin-top: 20px;
+}
+
+.news {
+  text-align: center;
+}
+
+.item {
+  margin: 10px 10px 20px 5px;
+  box-shadow: 0px 0px 10px 0px  rgba(34,25,25,0.4);
+  padding-bottom: 5px;
+  border-radius: 3px;
+  width: 100%;
+
+
+  @include media($screen-sm) {
+    width: 48%;
+  }
+  @include media($screen-md) {
+    width: 30%;
+  }
+  @include media($screen-big) {
+    width: 22%;
+  }
+
+  .headline {
+    .support-line,
+    time,
+    h1 {
+      padding: 0 10px;
+    }
+
+    h1 a {
+      color: $mst-red;
+    }
+  }
 }
