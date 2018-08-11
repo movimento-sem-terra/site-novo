@@ -123,48 +123,47 @@ body {
 }
 
 .marcha__mapa {
-  // display: flex;
+  display: flex;
+  justify-content: space-around;
   background-color: #9f0019;
   background-image: url('/assets/img/marcha-nacional-lula-livre/mapa-marcha-redes.png');
   background-repeat: no-repeat;
   background-position: center;
+  background-size: 50%;
   color: #fff;
   height: 700px;
-
-  .img {
-    width: 60%;
-  }
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
 
   .sobre_engenho_das_lages {
     background-color: #007aa2;
-    width: 200px;
-    height: 425px;
+    width: 260px;
+    height: 165px;
     font-size: 11px;
-    float: left;
-    margin-left: 100px;
     padding-left: 5px;
-  }
-
-  .sobre_luziania {
-    background-color: #fad300;
-    width: 200px;
-    height: 300px;
-    font-size: 11px;
-    float: right;
-    margin-right: 125px;
-    padding-left: 5px;
+    align-self: flex-start;
+    margin-left: 10%;
   }
 
   .sobre_formosa {
-    background-color: #00da08;
-    width: 500px;
-    height: 160px;
+    background-color: #fad300;
+    width: 260px;
+    height: 165px;
     font-size: 11px;
-    float: right;
     padding-left: 5px;
+    align-self: flex-end;
+    margin-right: 10%;
+  }
 
-    margin-top: 500px;
-    margin-right: -270px;
+  .sobre_luziania {
+    background-color: #00da08;
+    width: 260px;
+    height: 240px;
+    font-size: 11px;
+    padding-left: 5px;
+    align-self: flex-end;
+    margin-right: 10%;
   }
 }
 
