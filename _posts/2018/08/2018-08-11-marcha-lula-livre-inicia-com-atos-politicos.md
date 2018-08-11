@@ -94,7 +94,7 @@ Segundo Luiz Roberto, da dire&ccedil;&atilde;o estadual do MST em Rond&ocirc;nia
 <strong>Coluna Ligas Camponesas&nbsp;</strong></p>
 
 <p><br />
-Uma das tr&ecirc;s colunas da Marcha Lula Livre, homenageia luta dos povos pela democratiza&ccedil;&atilde;o da terra. O ato pol&iacute;tico e cultural que reuniu quase 2 mil pessoas na Pra&ccedil;a da Prefeitura, em Formosa, Goi&aacute;s, deu a largada na caminhada de mais de 60 quil&ocirc;metros que far&atilde;o at&eacute; Bras&iacute;lia.&nbsp;&nbsp;</p>
+Uma das tr&ecirc;s colunas da Marcha Lula Livre, homenageia luta dos povos pela democratiza&ccedil;&atilde;o da terra. O ato pol&iacute;tico e cultural que reuniu quase 2 mil pessoas na Pra&ccedil;a da Prefeitura, em Formosa, Goi&aacute;s, deu a largada na caminhada de mais de 50 quil&ocirc;metros que far&atilde;o at&eacute; Bras&iacute;lia.&nbsp;&nbsp;</p>
 
 <p><br />
 &ldquo;Quem marcha nunca esquece o que v&ecirc;. Do p&oacute; das marchas sobe um letreiro escrito com os p&eacute;s, que os governantes e os latifundi&aacute;rios sabem reconhecer: l&aacute; vem a sede por justi&ccedil;a!&rdquo;, afirmaram integrantes da Juventude do MST em jogral durante o ato de abertura da marcha.</p>
