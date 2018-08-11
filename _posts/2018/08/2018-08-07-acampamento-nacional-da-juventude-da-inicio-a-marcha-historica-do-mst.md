@@ -33,6 +33,7 @@ releated_posts:
   - _posts/2018/03/2018-03-26-mst-realiza-curso-de-formacao-com-a-juventude-sem-terra.md
   - _posts/2018/02/2018-02-06-curso-de-ferias-reune-juventude-sem-terra-em-alagoas.md
   - _posts/2018/04/2018-04-12-juventude-sem-terra-realiza-acampamento-pedagogico-na-curva-do-s.md
+special-page: marcha-nacional-lula-livre
 
 ---
 <div style="text-align:center">
