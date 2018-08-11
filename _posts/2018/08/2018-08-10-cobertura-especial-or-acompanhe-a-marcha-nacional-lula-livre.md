@@ -22,7 +22,6 @@ releated_posts:
   - _posts/2018/07/2018-07-19-caravana-semiarido-contra-a-fome-e-anunciada-em-ato-politico-da-marcha-lula-livre.md
   - _posts/2018/08/2018-08-07-serao-seis-dias-de-caminhada-para-retomar-o-brasil-e-para-exigir-lula-livre.md
   - _posts/2018/08/2018-08-08-arte-fortalece-marcha-nacional-do-mst.md
-section: cover
+section: featured-news
 
 ---
-<p><a class="twitter-timeline" data-partner="tweetdeck" href="https://twitter.com/Brasil_de_Fato/timelines/1027920056477462530?ref_src=twsrc%5Etfw">Marcha Lula Livre - Curated tweets by Brasil_de_Fato</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
