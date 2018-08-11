@@ -4,6 +4,7 @@ tags:
   - tag: marcha-lula-livre
   - tag: lutas-e-mobilizações
   - tag: brasília
+  - tag: marcha
 support_line: "Organizada em três colunas, as fileiras irão percorrer 50 quilômetros até Brasília"
 title: Marcha Lula Livre inicia com atos políticos
 images_hd: //farm2.staticflickr.com/1834/43253553144_a02f3f6415_b.jpg
@@ -61,7 +62,11 @@ files:
     $$hashKey: 039
 created_date: "2018-08-11T00:10:23-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/07/2018-07-19-caravana-semiarido-contra-a-fome-e-anunciada-em-ato-politico-da-marcha-lula-livre.md
+  - _posts/2018/08/2018-08-10-marchas-em-busca-de-direitos-marcam-vidas-de-sem-terra.md
+  - _posts/2018/08/2018-08-10-marchar-e-uma-forma-de-luta-da-classe-trabalhadora-em-todo-o-mundo.md
+section: cover
 
 ---
 <p>&nbsp;</p>
@@ -97,6 +102,10 @@ Uma das tr&ecirc;s colunas da Marcha Lula Livre, homenageia luta dos povos pela 
 <p><br />
 &ldquo;Quem marcha nunca esquece o que v&ecirc;. Do p&oacute; das marchas sobe um letreiro escrito com os p&eacute;s, que os governantes e os latifundi&aacute;rios sabem reconhecer: l&aacute; vem a sede por justi&ccedil;a!&rdquo;, afirmaram integrantes da Juventude do MST em jogral durante o ato de abertura da marcha.</p>
 
+<figure class="image" style="float:left"><img alt="WhatsApp Image 2018-08-10 at 21.45.39.jpeg" height="300" src="//farm2.staticflickr.com/1791/42163303940_171127f31c_b.jpg" width="450" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
 Ap&oacute;s a m&iacute;stica e as apresenta&ccedil;&otilde;es de Fernandinho, do MST de Pernambuco, e de Lindomar, do Cear&aacute;, que apresentou um repente, a multid&atilde;o ouviu em sil&ecirc;ncio respeitoso uma grava&ccedil;&atilde;o de um trecho do discurso de Lula em S&atilde;o Bernardo do Campo (SP) em 07 de abril deste ano, o &uacute;ltimo antes de apresentar-se &agrave; Pol&iacute;cia Federal para cumprir a ordem de pris&atilde;o do juiz de primeira inst&acirc;ncia S&eacute;rgio Moro.</p>
 
@@ -115,6 +124,10 @@ Entre as 17h e as 19h, o ato contou com a participa&ccedil;&atilde;o dos militan
 <p><br />
 <strong>Coluna Prestes&nbsp;</strong></p>
 
+<figure class="image" style="float:right"><img alt="WhatsApp Image 2018-08-10 at 22.10.14.jpeg" height="290" src="//farm1.staticflickr.com/848/43253552944_34ca52a6ba_b.jpg" width="450" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
 Nessa coluna organiza as regi&otilde;es Sul e Sudeste e re&uacute;ne acampados e assentados do Rio Grande do Sul, Santa Catarina, Paran&aacute;, Esp&iacute;rito Santo, Minas Gerais e S&atilde;o Paulo. S&atilde;o cerca de 2 mil marchantes que no ato de abertura relembraram momentos de outras marchas nacionais.&nbsp;</p>
 
@@ -132,6 +145,10 @@ Conhecido como cavaleiro da esperan&ccedil;a,&nbsp; Luiz Carlos Prestes foi o co
 
 <p><br />
 <strong>Coluna Tereza de Benguela&nbsp;</strong></p>
+
+<figure class="image" style="float:left"><img alt="WhatsApp Image 2018-08-10 at 20.59.53.jpeg" height="300" src="//farm2.staticflickr.com/1836/43923724522_f1f51744c9_b.jpg" width="450" />
+<figcaption><em>Foto: L&eacute;o Milano</em></figcaption>
+</figure>
 
 <p><br />
 As delega&ccedil;&otilde;es da Amaz&ocirc;nia e do Centro-oeste do Brasil que se re&uacute;nem em Engenho das Lages (DF), homenageiam a lutadora Tereza de Benguela, lideran&ccedil;a quilombola que atuou contra o sistema escravocrata na regi&atilde;o do atual estado do Mato Grosso.&nbsp;</p>
