@@ -55,8 +55,9 @@ Os milhares de trabalhadores e trabalhadoras tamb&eacute;m denunciam a crise pol
 As r&aacute;dio comunit&aacute;rias, educativas, livres, al&eacute;m de site e blogs, podem retransmitir a programa&ccedil;&atilde;o da r&aacute;dio. Para isso, segue abaixo os links para inserir o player da nossa r&aacute;dio nos sites, de acordo com as plataformas dispon&iacute;veis.</p>
 
 <p><br />
-✔ Barra com o player para topo de site: https://player.hstbr.net/radioagenciabdf<br />
-✔ Link para Winamp: https://player.hstbr.net/radioagenciabdf/winamp.pls<br />
-✔ Link para iTunes: https://player.hstbr.net/radioagenciabdf/itunes.pls✔ Mobile: https://player.hstbr.net/radioagenciabdf/mobile.m3u<br />
+✔&nbsp;<a href="https://player.hstbr.net/radioagenciabdf">Barra com o player para topo de site</a><br />
+✔&nbsp;<a href="http://: https://player.hstbr.net/radioagenciabdf/winamp.pls">Link para Winamp</a><br />
+<a href="http://: https://player.hstbr.net/radioagenciabdf/itunes.pls">✔ Link para iTunes</a><br />
+✔<a href="http://: https://player.hstbr.net/radioagenciabdf/itunes.pls">&nbsp;Mobile</a><br />
 <br />
 <em>*Editado por Reynaldo Costa</em></p>
