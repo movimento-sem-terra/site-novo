@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Marcha Nacional Lula Livre</title>
+				<description>Confira toda a cobertura da marcha da classe trabalhadora</description>
+				<pubDate>Sat, 11 Aug 2018 12:18:59 -0300</pubDate>
+				<link>http://www.mst.org.br/2018/08/11/marcha-nacional-lula-livre.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2018/08/11/marcha-nacional-lula-livre.html</guid>
+			</item>
+		
+			<item>
 				<title>Cresce o apoio e solidariedade à Greve de fome dos movimentos populares 
 
 </title>
@@ -82,14 +90,6 @@
 				<pubDate>Fri, 10 Aug 2018 14:45:59 -0300</pubDate>
 				<link>http://www.mst.org.br/2018/08/10/cobertura-especial-or-acompanhe-a-marcha-nacional-lula-livre.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2018/08/10/cobertura-especial-or-acompanhe-a-marcha-nacional-lula-livre.html</guid>
-			</item>
-		
-			<item>
-				<title>Em audiência Ministro Lewandovski recebe os sete grevistas</title>
-				<description>Além da audiência, o 10º dia da Greve de Fome por Justiça no STF, recebeu ainda ato contra a intolerância religiosa e por democracia</description>
-				<pubDate>Fri, 10 Aug 2018 13:01:07 -0300</pubDate>
-				<link>http://www.mst.org.br/2018/08/10/alem-da-audiencia-o-10o-dia-da-greve-de-fome-por-justica-no-stf-recebeu-ainda-ato-contra-a-intolerancia-religiosa-e-por-democracia.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2018/08/10/alem-da-audiencia-o-10o-dia-da-greve-de-fome-por-justica-no-stf-recebeu-ainda-ato-contra-a-intolerancia-religiosa-e-por-democracia.html</guid>
 			</item>
 		
 	</channel>
