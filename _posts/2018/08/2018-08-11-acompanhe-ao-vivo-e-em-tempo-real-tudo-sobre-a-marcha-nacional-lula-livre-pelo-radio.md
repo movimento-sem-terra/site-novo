@@ -1,7 +1,7 @@
 ---
 date: "2018-08-11T09:06:07-03:00"
 tags: []
-title: Acompanhe ao vivo e em tempo real tudo sobre a Marcha Nacional Lula Livre pelo rádio
+title: Acompanhe ao vivo e em tempo real tudo sobre a Marcha Lula Livre pelo rádio
 support_line: "Correspondentes estão em todas as colunas para garantir a atualização dos acontecimentos\n"
 menu: lutas e mobilizações
 images_hd: //farm1.staticflickr.com/849/30108755678_7834b28342_b.jpg
