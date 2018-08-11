@@ -210,7 +210,7 @@
   "type":{
     "view": "select",
     "options": [
-      {"name": "I Encontro Nacional Sem Terrinha", "id": "sem-terrinha"}
+      {"name": "Marcha Nacional Lula Livre", "id": "marcha-nacional-lula-livre"}
       ]
   }
 },
