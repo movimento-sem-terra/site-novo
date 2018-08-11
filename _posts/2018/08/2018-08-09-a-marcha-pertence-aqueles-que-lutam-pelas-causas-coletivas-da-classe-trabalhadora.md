@@ -37,6 +37,7 @@ releated_posts:
   - _posts/2018/08/2018-08-05-marchar-novamente-e-preciso.md
   - _posts/2018/08/2018-08-07-acampamento-nacional-da-juventude-da-inicio-a-marcha-historica-do-mst.md
   - _posts/2018/08/2018-08-07-em-goias-juventude-camponesa-realiza-ato-politico-cultural-em-defesa-de-lula.md
+special-page: marcha-nacional-lula-livre
 
 ---
 <p>&nbsp;</p>
