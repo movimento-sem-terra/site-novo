@@ -66,7 +66,7 @@ releated_posts:
   - _posts/2018/07/2018-07-19-caravana-semiarido-contra-a-fome-e-anunciada-em-ato-politico-da-marcha-lula-livre.md
   - _posts/2018/08/2018-08-10-marchas-em-busca-de-direitos-marcam-vidas-de-sem-terra.md
   - _posts/2018/08/2018-08-10-marchar-e-uma-forma-de-luta-da-classe-trabalhadora-em-todo-o-mundo.md
-section: cover
+section: featured-news
 
 ---
 <p>&nbsp;</p>
