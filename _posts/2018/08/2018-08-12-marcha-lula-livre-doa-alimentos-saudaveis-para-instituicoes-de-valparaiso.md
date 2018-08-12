@@ -4,8 +4,8 @@ tags:
   - tag: marcha-lula-livre
   - tag: alimentação-saudável
   - tag: reforma-agrária-popular
-title: "Marcha Lula Livre doa alimentos saudáveis para instituições de Valparaíso\n\n"
-support_line: "Ato político-cultural integrou trabalhadores rurais e moradores da cidade goiana\n\n"
+title: Marcha Lula Livre doa alimentos saudáveis para instituições de Valparaíso
+support_line: Ato político-cultural integrou trabalhadores rurais e moradores da cidade goiana
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1811/30118759458_1ea7c9559b_b.jpg
 special-page: marcha-nacional-lula-livre
@@ -31,6 +31,7 @@ releated_posts:
   - _posts/2018/08/2018-08-12-comer-bem-para-caminhar-ainda-melhor.md
   - _posts/2018/08/2018-08-11-marcha-nacional-lula-livre.md
   - _posts/2018/05/2018-05-05-feira-do-mst-reune-milhares-em-conferencia-sobre-alimentacao-saudavel.md
+section: cover
 
 ---
 <div style="text-align:center">
