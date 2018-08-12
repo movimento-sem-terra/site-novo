@@ -2,7 +2,7 @@
 date: "2018-08-11T00:32:49-03:00"
 tags: []
 title: "Marcha Lula Livre homenageia Tereza de Benguela, Ligas Camponesas e Prestes"
-support_line: "Movimentos da Via Campesina caminharão em três colunas que se encontrarão em Brasília\n"
+support_line: Movimentos da Via Campesina caminharão em três colunas que se encontrarão em Brasília
 images_hd: //farm2.staticflickr.com/1831/43253841324_5daa4687e5_b.jpg
 menu: lutas e mobilizações
 layout: post
@@ -17,6 +17,7 @@ files:
 created_date: "2018-08-11T00:37:30-03:00"
 published: true
 releated_posts: []
+special-page: marcha-nacional-lula-livre
 
 ---
 <div style="text-align:center">
