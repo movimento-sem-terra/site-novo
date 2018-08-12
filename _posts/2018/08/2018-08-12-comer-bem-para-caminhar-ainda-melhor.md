@@ -67,7 +67,7 @@ Uma estrutura de 60 homens e mulheres vindo das tr&ecirc;s colunas de marchantes
 Os alimentos de prote&iacute;nas animais como a carne &eacute; comprada a partir de uma coleta financeira feitas pelas colunas antes mesmo de vir para a marcha.&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="6d4daa94-26e4-4bd7-8934-0d7e55e7ae37.jpg" height="338" src="//farm2.staticflickr.com/1837/42177584650_e1f814d5ff_b.jpg" width="450" />
-<figcaption>Diversida de alimentos vindos do Nordeste</figcaption>
+<figcaption>Diversidade de alimentos vindos de Assentamentos de Ribeir&atilde;o Preto - SP</figcaption>
 </figure>
 
 <p>Alimenta&ccedil;&atilde;o saud&aacute;vel e card&aacute;pios diferenciado</p>
