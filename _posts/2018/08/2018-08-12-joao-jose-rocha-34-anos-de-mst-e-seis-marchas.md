@@ -1,8 +1,9 @@
 ---
 date: "2018-08-12T11:09:05-03:00"
-tags: []
+tags:
+  - tag: marcha-lula-livre
 title: João José Rocha – 34 anos de MST e seis marchas
-support_line: ​“Enquanto houver famílias sem terra continuaremos caminhando”.
+support_line: ​“Enquanto houver famílias sem terra continuaremos caminhando”
 menu: lutas e mobilizações
 special-page: marcha-nacional-lula-livre
 images_hd: //farm2.staticflickr.com/1775/29059069277_87155fffda_b.jpg
@@ -17,7 +18,11 @@ files:
     $$hashKey: 0AX
 created_date: "2018-08-12T12:11:19-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/08/2018-08-11-marcha-lula-livre-inicia-com-atos-politicos.md
+  - _posts/2018/08/2018-08-11-marcha-nacional-lula-livre.md
+  - _posts/2018/08/2018-08-12-comer-bem-para-caminhar-ainda-melhor.md
+  - _posts/2018/08/2018-08-12-marcha-lula-livre-doa-alimentos-saudaveis-para-instituicoes-de-valparaiso.md
 
 ---
 <p>&nbsp;</p>
