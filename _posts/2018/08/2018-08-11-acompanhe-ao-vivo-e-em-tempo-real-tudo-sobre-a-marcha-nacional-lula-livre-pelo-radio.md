@@ -22,12 +22,11 @@ special-page: marcha-nacional-lula-livre
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Comunicadores da radio intinerante na Coluna Prestes.jpg" height="525" src="//farm1.staticflickr.com/849/30108755678_7834b28342_b.jpg" width="700" />
-<figcaption>Comunicadores populares na Radio Brasil em Movimento na Coluna Prestes&nbsp;</figcaption>
+<figcaption><em>Comunicadores populares na Radio Brasil em Movimento na Coluna Prestes&nbsp;</em></figcaption>
 </figure>
 </div>
 
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
@@ -59,6 +58,7 @@ As r&aacute;dio comunit&aacute;rias, educativas, livres, al&eacute;m de site e b
 ✔&nbsp;<a href="https://player.hstbr.net/radioagenciabdf">Barra com o player para topo de site</a><br />
 ✔&nbsp;<a href="http://: https://player.hstbr.net/radioagenciabdf/winamp.pls">Link para Winamp</a><br />
 <a href="http://: https://player.hstbr.net/radioagenciabdf/itunes.pls">✔ Link para iTunes</a><br />
-✔<a href="http://: https://player.hstbr.net/radioagenciabdf/itunes.pls">&nbsp;Mobile</a><br />
-<br />
+✔<a href="http://: https://player.hstbr.net/radioagenciabdf/itunes.pls">&nbsp;Mobile</a></p>
+
+<p><br />
 <em>*Editado por Reynaldo Costa</em></p>
