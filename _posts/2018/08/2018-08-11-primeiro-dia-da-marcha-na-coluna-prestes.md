@@ -16,6 +16,7 @@ published: true
 video_thumbnail: "http://img.youtube.com/vi/K3n4XXfSjwg/0.jpg"
 releated_posts:
   - _posts/2018/08/2018-08-11-marcha-lula-livre-inicia-com-atos-politicos.md
+special-page: marcha-nacional-lula-livre
 
 ---
 <p><iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/K3n4XXfSjwg" width="560"></iframe></p>
