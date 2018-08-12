@@ -20,6 +20,7 @@ created_date: "2018-08-11T09:31:59-03:00"
 published: true
 releated_posts:
   - _posts/2018/06/2018-06-12-pf-proibe-visita-de-assessor-do-papa-francisco-a-lula.md
+special-page: marcha-nacional-lula-livre
 
 ---
 <p><br />
@@ -27,7 +28,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-08-11 at 08.34.35.jpeg" height="394" src="//farm2.staticflickr.com/1771/43258968434_6f6feded0a_b.jpg" width="700" />
-<figcaption><span style="text-align: start; background-color: rgb(255, 255, 255);">Fotos Marcos Corbari</span></figcaption>
+<figcaption>Fotos Marcos Corbari</figcaption>
 </figure>
 </div>
 
