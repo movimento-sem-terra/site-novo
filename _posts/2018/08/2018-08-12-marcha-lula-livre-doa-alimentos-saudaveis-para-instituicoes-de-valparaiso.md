@@ -66,8 +66,13 @@ A Marcha Lula Livre, organizada pelo Movimento Sem Terra e movimentos populares 
 Os marchantes da Coluna Prestes doaram 1.200 litros de leite, 1.200 quilos de arroz org&acirc;nico e 500 quilos de frutas diversas. Os alimentos foram entregues a APAE, ao Lar Vicentino e para Escola de Arte Bem Viver.&nbsp;</p>
 
 <p><br />
-Ceres Hadich do Setor de Produ&ccedil;&atilde;o do Movimento comenta a entrega de alimentos. &ldquo;A distribui&ccedil;&atilde;o de alimentos que aconteceu hoje se insere no contexto de di&aacute;logo, n&oacute;s temos a solidariedade como um valor e a gente doar alimentos para trabalhadores da cidade &eacute; mostrar essa pr&aacute;tica. A solidariedade como entendemos &eacute; espelho de Cuba, e diz que n&atilde;o devemos dar o que sobra, mas dar o que temos&nbsp;de melhor, e &eacute; por isso que damos a nossa produ&ccedil;&atilde;o de alimentos saud&aacute;veis, que &eacute; o que a gente tem de melhor.&rdquo;&nbsp;&nbsp;<br />
-<img alt="80e1096d-4173-42ea-96ee-05106afc9000.jpg" height="300" src="//farm2.staticflickr.com/1837/29049625557_dbc2593b92_b.jpg" style="float:right" width="450" /><strong>hows</strong><br />
+Ceres Hadich do Setor de Produ&ccedil;&atilde;o do Movimento comenta a entrega de alimentos. &ldquo;A distribui&ccedil;&atilde;o de alimentos que aconteceu hoje se insere no contexto de di&aacute;logo, n&oacute;s temos a solidariedade como um valor e a gente doar alimentos para trabalhadores da cidade &eacute; mostrar essa pr&aacute;tica. A solidariedade como entendemos &eacute; espelho de Cuba, e diz que n&atilde;o devemos dar o que sobra, mas dar o que temos&nbsp;de melhor, e &eacute; por isso que damos a nossa produ&ccedil;&atilde;o de alimentos saud&aacute;veis, que &eacute; o que a gente tem de melhor.&rdquo;&nbsp;&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="80e1096d-4173-42ea-96ee-05106afc9000.jpg" height="300" src="//farm2.staticflickr.com/1837/29049625557_dbc2593b92_b.jpg" width="450" />
+<figcaption></figcaption>
+</figure>
+
+<p><strong>hows</strong><br />
 <br />
 A anima&ccedil;&atilde;o do ato ficou por conta da Juventude organizada do MST e do Levante Popular da Juventude com batucada e encena&ccedil;&atilde;o teatral. A rapper Lilian Guerreira levantou a plateia com m&uacute;sicas empolgantes e letras feministas.&nbsp;<br />
 <br />
