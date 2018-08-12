@@ -28,6 +28,7 @@ created_date: "2018-08-12T15:57:39-03:00"
 published: true
 releated_posts:
   - _posts/2018/07/2018-07-30-pela-liberdade-de-lula-militantes-iniciam-greve-de-fome-e-cobram-justica-no-stf.md
+special-page: marcha-nacional-lula-livre
 
 ---
 <div style="text-align:center">
