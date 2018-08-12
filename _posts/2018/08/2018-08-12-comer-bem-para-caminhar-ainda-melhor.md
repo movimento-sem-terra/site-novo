@@ -4,10 +4,10 @@ tags:
   - tag: alimentação-saudável
   - tag: reforma-agrária-popular
 title: Comer bem para caminhar ainda melhor
-support_line: "Comida 100% camponesa"
+support_line: A cozinha da Marcha e organizada pelos Sem Terra de todo o Brasil.
 menu: reforma agrária
 special-page: marcha-nacional-lula-livre
-images_hd: //farm1.staticflickr.com/941/29048476517_43034b7b4f_b.jpg
+images_hd: //farm2.staticflickr.com/1837/42177584650_e1f814d5ff_b.jpg
 layout: post
 files:
   - link: //farm1.staticflickr.com/941/29048476517_43034b7b4f_b.jpg
@@ -34,23 +34,31 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="77ce4ee0-6a56-4370-a38b-9a410d69d0d2.jpg" height="525" src="//farm1.staticflickr.com/941/29048476517_43034b7b4f_b.jpg" width="700" />
-<figcaption>Lingui&ccedil;a produzida no Assentamento Zumbi dos Palmares em Baur&uacute; - SP</figcaption>
+<figcaption></figcaption>
 </figure>
 </div>
 
+<p>&nbsp;</p>
+
 <p><em>Da P&aacute;gina do MST</em><br />
 <br />
-O Movimento dos Trabalhadores Rurais Sem Terra segue firme rumo a Bras&iacute;lia com mais de 5 mil manifestantes. A Marcha Nacional Lula Livre cobra democracia e vai acompanhar o registro da candidatura de Lula &agrave; presid&ecirc;ncia da Rep&uacute;blica e exigir a liberdade do ex-presidente.<br />
 <br />
-Neste s&aacute;bado, 11/08, a tr&ecirc;s colunas de marchantes fizeram os primeiros trechos de caminhada nesta. S&atilde;o em grande maioria, trabalhadores rurais, alguns deixaram seus trabalhos para prestar essa tarefa&nbsp; patri&oacute;rica &agrave; na&ccedil;&atilde;o brasileira.&nbsp;&nbsp;<br />
-<br />
-Mas, para que este povo todo e outros que se somam, mesmo que por alguns momentos na caminhada, &eacute; necess&aacute;ria uma boa alimenta&ccedil;&atilde;o. E para isso, outros trabalhadores, que tamb&eacute;m deixaram muitos afazeres nas suas lavouras e demais forma de sobreviv&ecirc;ncia, dedicam muitos esfor&ccedil;os e experiencia na produ&ccedil;&atilde;o da alimenta&ccedil;&atilde;o para os marchantes.&nbsp;<br />
-<br />
-Weliton Vin&iacute;cios, &eacute; acampado no Pontal Sul em Petrolina (PE). Veios especificamente para a cozinha da marcha, essa j&aacute; &eacute; a oitava vez que contribui com cozinha em atividades do MST e diz que onde for preciso ir para ajudar o Movimento ele ir&aacute;. Vin&iacute;cios demonstrou ainda que se sente muito contente com essa tarefa principalmente porque &eacute; pelo Lula. &ldquo;Estou maravilhado em est&aacute; aqui com meus irm&atilde;os Sem Terra principalmente por que &eacute; pelo Lula&rdquo;&nbsp;<br />
-<br />
-Uma estrutura de 60 homens e mulheres vindo das tr&ecirc;s colunas de marchantes, eles se revesam dia e noite. &ldquo;N&atilde;o h&aacute; um &uacute;nico momento que esta cozinha, feche, pare. Antes de terminar uma produ&ccedil;&atilde;o a outra refei&ccedil;&atilde;o j&aacute; est&aacute; em bom andamento&rdquo;. Explica cuidadosamente o Chocolate, militante do MST pelo Setor de Sa&uacute;de, mas na Marcha tem a tarefa de coordenar a produ&ccedil;&atilde;o de comida.&nbsp;<br />
-<br />
-&Eacute; trabalho que n&atilde;o para mesmo. S&oacute; para se ter uma ideia Chocolate informa que o caf&eacute; da manha come&ccedil;a a ser preparado por volta das 23:00 horas do dia anterior, a meta segundo ele, &eacute; que as 5:30 horas&nbsp;a refei&ccedil;&atilde;o da manha j&aacute; estejam nas colunas.&nbsp;</p>
+O Movimento dos Trabalhadores Rurais Sem Terra segue firme rumo a Bras&iacute;lia com mais de 5 mil manifestantes. A Marcha Nacional Lula Livre cobra democracia e vai acompanhar o registro da candidatura de Lula &agrave; presid&ecirc;ncia da Rep&uacute;blica e exigir a liberdade do ex-presidente.</p>
+
+<p><br />
+Neste s&aacute;bado, 11/08, a tr&ecirc;s colunas de marchantes fizeram os primeiros trechos de caminhada nesta. S&atilde;o em grande maioria, trabalhadores rurais, alguns deixaram seus trabalhos para prestar essa tarefa&nbsp; patri&oacute;rica &agrave; na&ccedil;&atilde;o brasileira.&nbsp;&nbsp;</p>
+
+<p><br />
+Mas, para que este povo todo e outros que se somam, mesmo que por alguns momentos na caminhada, &eacute; necess&aacute;ria uma boa alimenta&ccedil;&atilde;o. E para isso, outros trabalhadores, que tamb&eacute;m deixaram muitos afazeres nas suas lavouras e demais forma de sobreviv&ecirc;ncia, dedicam muitos esfor&ccedil;os e experiencia na produ&ccedil;&atilde;o da alimenta&ccedil;&atilde;o para os marchantes.&nbsp;</p>
+
+<p><br />
+Weliton Vin&iacute;cios, &eacute; acampado no Pontal Sul em Petrolina (PE). Veios especificamente para a cozinha da marcha, essa j&aacute; &eacute; a oitava vez que contribui com cozinha em atividades do MST e diz que onde for preciso ir para ajudar o Movimento ele ir&aacute;. Vin&iacute;cios demonstrou ainda que se sente muito contente com essa tarefa principalmente porque &eacute; pelo Lula. &ldquo;Estou maravilhado em est&aacute; aqui com meus irm&atilde;os Sem Terra principalmente por que &eacute; pelo Lula&rdquo;&nbsp;</p>
+
+<p><br />
+Uma estrutura de 60 homens e mulheres vindo das tr&ecirc;s colunas de marchantes, eles se revesam dia e noite. &ldquo;N&atilde;o h&aacute; um &uacute;nico momento que esta cozinha, feche, pare. Antes de terminar uma produ&ccedil;&atilde;o a outra refei&ccedil;&atilde;o j&aacute; est&aacute; em bom andamento&rdquo;. Explica cuidadosamente o Chocolate, militante do MST pelo Setor de Sa&uacute;de, mas na Marcha tem a tarefa de coordenar a produ&ccedil;&atilde;o de comida.&nbsp;</p>
+
+<p><br />
+&Eacute; trabalho que n&atilde;o para mesmo. S&oacute; para se ter uma ideia Chocolate informa que o caf&eacute; da manha come&ccedil;a a ser preparado por volta das 23:00 horas do dia anterior, a meta segundo ele, &eacute; que as 5:30 horas&nbsp;a refei&ccedil;&atilde;o damanha j&aacute; estejam nas colunas.&nbsp;</p>
 
 <p>O &ldquo;cozinheiro&rdquo; Vinicios se mant&ecirc;m atento, reconhece que &eacute; muito trabalho, mas precisa ser feito. &ldquo;A maior dificuldade &eacute; a carga hor&aacute;ria, &eacute; muito puxado, tem que ser tudo no seu hor&aacute;rio pois o povo est&aacute; marchando, cansado e precisa se alimentar, se erramos no tempo aqui, pode atrasar tudo l&aacute;&rdquo;.&nbsp;&nbsp;</p>
 
