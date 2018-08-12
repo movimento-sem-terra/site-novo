@@ -25,6 +25,20 @@ files:
     small: //farm2.staticflickr.com/1837/29049625557_dbc2593b92_n.jpg
     title: 80e1096d-4173-42ea-96ee-05106afc9000.jpg
     $$hashKey: 04J
+  - link: //farm2.staticflickr.com/1840/30119302818_ba61d9667e_b.jpg
+    original: //farm2.staticflickr.com/1840/30119302818_f8cb1bc5ce_o.jpg
+    thumbnail: //farm2.staticflickr.com/1840/30119302818_ba61d9667e_t.jpg
+    medium: //farm2.staticflickr.com/1840/30119302818_ba61d9667e_z.jpg
+    small: //farm2.staticflickr.com/1840/30119302818_ba61d9667e_n.jpg
+    title: WhatsApp Image 2018-08-11 at 23.43.39.jpeg
+    $$hashKey: 05P
+  - link: //farm2.staticflickr.com/1816/30119302718_6f8c9a3195_b.jpg
+    original: //farm2.staticflickr.com/1816/30119302718_9c0a3f6ec8_o.jpg
+    thumbnail: //farm2.staticflickr.com/1816/30119302718_6f8c9a3195_t.jpg
+    medium: //farm2.staticflickr.com/1816/30119302718_6f8c9a3195_z.jpg
+    small: //farm2.staticflickr.com/1816/30119302718_6f8c9a3195_n.jpg
+    title: WhatsApp Image 2018-08-11 at 23.44.04.jpeg
+    $$hashKey: 05S
 created_date: "2018-08-11T23:04:13-03:00"
 published: true
 releated_posts:
@@ -62,8 +76,32 @@ A professora Katia Maria, presidenta do PT em Goi&aacute;s, saudou o ato. &quot;
 <br />
 O show da Marcha no Bairro Oriente contou com a apresenta&ccedil;&otilde;es de artistas locais de rap como o Chic&atilde;o MC e Pedro Felipe. O cantor Forroshow animou toda a pra&ccedil;a com uma sele&ccedil;&atilde;o de&nbsp; forr&oacute; arrasta p&eacute; e gritos de &ldquo;Lula Livre&rdquo;.&nbsp; O ato pol&iacute;tico cultural marcou a rela&ccedil;&atilde;o do MST com o campo&nbsp; e a cidade, e refor&ccedil;a a constru&ccedil;&atilde;o de um projeto de pa&iacute;s para a classe trabalhadora.&nbsp;<br />
 <br />
-Neste s&aacute;bado a Coluna Prestes marchou 18 quil&ocirc;metros de Luzi&acirc;nia a Valparaiso conhecendo a hist&oacute;ria de guerreiros e guerreiras, nas trincheiras da reforma agr&aacute;ria popular e da luta da cla</p>
+Neste s&aacute;bado a Coluna Prestes marchou 18 quil&ocirc;metros de Luzi&acirc;nia a Valparaiso conhecendo a hist&oacute;ria de guerreiros e guerreiras, nas trincheiras da reforma agr&aacute;ria popular e da luta da classe trabalhadora desde a funda&ccedil;&atilde;o do MST.&nbsp;</p>
 
-<p>sse trabalhadora desde a funda&ccedil;&atilde;o do MST.&nbsp;<br />
-<br />
+<p><br />
+<strong>Marcha evidencia a import&acirc;ncia da m&iacute;stica cultural para a classe trabalhadora</strong></p>
+
+<figure class="image" style="float:left"><img alt="WhatsApp Image 2018-08-11 at 23.43.39.jpeg" height="300" src="//farm2.staticflickr.com/1840/30119302818_ba61d9667e_b.jpg" width="450" />
+<figcaption><em>Foto: Leonardo Milano</em></figcaption>
+</figure>
+
+<p><br />
+No final do primeiro dia de marcha, os Sem Terra na Tereza de Benguela ato pol&iacute;tico-cultural na Pra&ccedil;a Quadrad&atilde;o, em Samambaia (DF), com a presen&ccedil;a de artistas locais. O munic&iacute;pio &eacute; o primeiro destino dos marchantes que sa&iacute;ram de Engenho das Lages (DF)</p>
+
+<p><br />
+Os povos ind&iacute;genas Canelas do Araguaia, que atualmente vivem no Mato Grosso, no munic&iacute;pio de Luciara, s&atilde;o a prova disso. Curumara, capit&atilde;o da cultura na Aldeia Nova Pucan&uacute;, afirma que os rituais tradicionais s&atilde;o uma das trincheiras de toda a luta.</p>
+
+<p><br />
+&quot;A cultura &eacute; tudo para n&oacute;s, &eacute; um resgate de algo que pode ser perdido. &Eacute; uma forma de resist&ecirc;ncia a nossa cultura ser passada para todos&quot;, salienta o ind&iacute;gena de 51 anos, que destaca a Dan&ccedil;a do Tor&eacute; como resumo da simbologia de seu povo. A dan&ccedil;a &eacute; composta por uma roda de pessoas munidas com instrumentos artesanais.</p>
+
+<p><br />
+A comunidade faz parte dos oito estados que comp&otilde;em a Coluna Tereza de Benguela, homenageada pelas regi&otilde;es Amaz&ocirc;nica e Centro-Oeste do Brasil.A marcha at&eacute; Bras&iacute;lia (DF), com chegada no dia 15 de agosto. Cada coluna percorre mais de 50 quil&ocirc;metros at&eacute; a capital federal em defesa da democracia.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-08-11 at 23.44.04.jpeg" height="466" src="//farm2.staticflickr.com/1816/30119302718_6f8c9a3195_b.jpg" width="700" />
+<figcaption><em>Foto: Leonardo Milano</em></figcaption>
+</figure>
+</div>
+
+<p><br />
 <em>*Editado por Reynaldo Costa</em></p>
