@@ -1,7 +1,7 @@
 ---
 date: "2018-08-12T16:37:08-03:00"
 tags: []
-title: "Diversidades de povos e os mesmo objetivos, reforma agrária, democracia e Lula Livre."
+title: "Diversidades de povos e os mesmo objetivos, reforma agrária, democracia e Lula Livre"
 support_line: ​Conheça um pouco dos diversos perfis de marchantes que segue rumo a Brasília.
 menu: lutas e mobilizações
 special-page: marcha-nacional-lula-livre
