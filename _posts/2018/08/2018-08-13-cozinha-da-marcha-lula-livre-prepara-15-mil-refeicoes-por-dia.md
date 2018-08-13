@@ -9,9 +9,9 @@ title: Cozinha da Marcha Lula Livre prepara 15 mil refeições por dia
 hat: ""
 support_line: "Toneladas de alimentos foram doados por pequenos agricultores e cooperativas para alimentar marchantes\n\n"
 menu: projeto popular
-section: null
+section: cover
 special-page: marcha-nacional-lula-livre
-images_hd: //farm2.staticflickr.com/1778/44017846021_cf3875a618_b.jpg
+images_hd: //farm2.staticflickr.com/1837/43113670405_fa4a4fca8f_b.jpg
 layout: post
 files:
   - link: //farm2.staticflickr.com/1778/44017846021_cf3875a618_b.jpg
@@ -35,6 +35,13 @@ files:
     small: //farm2.staticflickr.com/1832/29080443017_4775643782_n.jpg
     title: 43964578662_05850c16c4_o.jpg
     $$hashKey: 0CJ
+  - link: //farm2.staticflickr.com/1837/43113670405_fa4a4fca8f_b.jpg
+    original: //farm2.staticflickr.com/1837/43113670405_9818af41e6_o.jpg
+    thumbnail: //farm2.staticflickr.com/1837/43113670405_fa4a4fca8f_t.jpg
+    medium: //farm2.staticflickr.com/1837/43113670405_fa4a4fca8f_z.jpg
+    small: //farm2.staticflickr.com/1837/43113670405_fa4a4fca8f_n.jpg
+    title: 43106842485_beef30e12c_z.jpg
+    $$hashKey: 13H
 created_date: "2018-08-13T15:23:47-03:00"
 published: true
 releated_posts:
