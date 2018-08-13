@@ -4,7 +4,7 @@ tags:
   - tag: marcha-lula-livre
   - tag: brasília
   - tag: solidariedade
-title: "Cartas para Lula: “porque lhe escrevo?”"
+title: "Cartas para Lula: “por que lhe escrevo?”"
 support_line: "Lula, minha caneta traçaria diversas palavras ao tentar explicar o porquê lhe escrevo. Eu, enquanto mulher, negra, LGBT e Sem Terra, lhe escrevo por querer mudanças concretas na nossa base social."
 special-page: marcha-nacional-lula-livre
 menu: lutas e mobilizações
