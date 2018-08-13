@@ -2,8 +2,8 @@
 date: "2018-08-12T20:03:54-03:00"
 tags: []
 hat: ""
-title: Porque marchamos
-support_line: "Conscientes, marchantes relatam o porque de estarem na Marcha Lula Livre"
+title: "O que teríamos feito de nossas vidas se não tivéssemos marchado e lutado por um mundo melhor para todos? "
+support_line: Marchantes relatam  porque seguir rumo a Brasília
 images_hd: //farm2.staticflickr.com/1794/42194444350_060d7576d5_b.jpg
 special-page: marcha-nacional-lula-livre
 menu: reforma agrária
@@ -16,20 +16,13 @@ files:
     small: //farm2.staticflickr.com/1794/42194444350_060d7576d5_n.jpg
     title: L F.jpg
     $$hashKey: 0BF
-  - link: //farm2.staticflickr.com/1791/43284998754_c343632845_b.jpg
-    original: //farm2.staticflickr.com/1791/43284998754_cac1d76bf5_o.jpg
-    thumbnail: //farm2.staticflickr.com/1791/43284998754_c343632845_t.jpg
-    medium: //farm2.staticflickr.com/1791/43284998754_c343632845_z.jpg
-    small: //farm2.staticflickr.com/1791/43284998754_c343632845_n.jpg
-    title: card_PqMarchamos1.jpg
-    $$hashKey: 0BI
-  - link: //farm2.staticflickr.com/1773/29066374027_527c762443_b.jpg
-    original: //farm2.staticflickr.com/1773/29066374027_24b933121a_o.jpg
-    thumbnail: //farm2.staticflickr.com/1773/29066374027_527c762443_t.jpg
-    medium: //farm2.staticflickr.com/1773/29066374027_527c762443_z.jpg
-    small: //farm2.staticflickr.com/1773/29066374027_527c762443_n.jpg
-    title: card2.jpg
-    $$hashKey: 0BL
+  - link: //farm2.staticflickr.com/1837/43286080584_c2b2423b59_b.jpg
+    original: //farm2.staticflickr.com/1837/43286080584_a965008187_o.jpg
+    thumbnail: //farm2.staticflickr.com/1837/43286080584_c2b2423b59_t.jpg
+    medium: //farm2.staticflickr.com/1837/43286080584_c2b2423b59_z.jpg
+    small: //farm2.staticflickr.com/1837/43286080584_c2b2423b59_n.jpg
+    title: felipe peres coluna prestes.jpg
+    $$hashKey: 0MJ
 created_date: "2018-08-12T20:36:43-03:00"
 published: true
 releated_posts: []
@@ -53,8 +46,13 @@ O povo brasileiro foi duramente golpeado por uma elite que historicamente mantev
 <br />
 Nos &uacute;ltimos dias vimos &agrave; for&ccedil;a e a coragem da classe trabalhadora, que compreendendo o complexo jogo de interesses vigentes nesta conjuntura, se p&ocirc;s em luta permanente contra a elite. A Caravana do Semi&aacute;rido contra a Fome, o Dia do Basta (10) contra a retirada de direitos dos trabalhadores, o imenso amor ao povo demonstrado pelos companheiros e pelas companheiras que p&otilde;em suas vidas em risco na Greve de Fome pelo restabelecimento da democracia expressa na liberdade do companheiro Lula, e a Marcha Nacional realizada pelo MST rumo a Bras&iacute;lia s&atilde;o sinais de que a popula&ccedil;&atilde;o n&atilde;o aceita a agenda conservadora do golpe.<br />
 <br />
-<strong>Lula Livre</strong><br />
-<br />
+<strong>Lula Livre</strong></p>
+
+<figure class="image" style="float:right"><img alt="felipe peres coluna prestes.jpg" height="300" src="//farm2.staticflickr.com/1837/43286080584_c2b2423b59_b.jpg" width="450" />
+<figcaption>Foto: Felipe Peres</figcaption>
+</figure>
+
+<p><br />
 Apesar dos esfor&ccedil;os da m&iacute;dia golpista em desconstruir o legado econ&ocirc;mico e social dos governos do ex-presidente Lula, as pesquisas de inten&ccedil;&atilde;o de votos demonstram que a maioria do povo brasileiro prefere Lula presidente a qualquer outro nome.&nbsp;<br />
 <br />
 Por que isto acontece? O fato &eacute; que o povo brasileiro p&ocirc;de pela primeira vez na hist&oacute;ria, ter cesso a direitos b&aacute;sicos para qualquer ser humano. A sociedade capitalista costuma despertar o interesse ao mesmo tempo em que nega o acesso. Aquilo que aqui para muitos oportunistas cheira a comunismo, no Brasil n&atilde;o passa de um pequeno avan&ccedil;o no sentido do pr&oacute;prio estabelecimento das rela&ccedil;&otilde;es capitalistas.&nbsp;<br />
@@ -68,11 +66,11 @@ O que pode ser isto se n&atilde;o a express&atilde;o mais evidente da luta de cl
 Tr&ecirc;s colunas de trabalhadores rurais Sem Terra rumam a Bras&iacute;lia: a Coluna Prestes com marchantes vindos dos estados do sudeste e do sul; Coluna Tereza de Benguela que re&uacute;ne o povo do centro-oeste e da Amaz&ocirc;nia e a Coluna Ligas Camponesas compostas pelos estados do nordeste.<br />
 <br />
 Estas pessoas s&atilde;o trabalhadores rurais acampados e assentados da Reforma Agr&aacute;ria, que por uma causa maior deixaram suas casas, o seu trabalho, para lutar, n&atilde;o por interesses particulares, mas pelos direitos de todos os trabalhadores.<br />
-<img alt="card_PqMarchamos1.jpg" height="270" src="//farm2.staticflickr.com/1791/43284998754_c343632845_b.jpg" style="float:right" width="270" /><br />
+<br />
 Sandra Maria &eacute; uma destas pessoas, em 2000 ela foi convidada a dar aula no ensino b&aacute;sico de um assentamento do MST em Serra Talhada no sert&atilde;o de Pernambuco, desde ent&atilde;o Sandra integrou-se ao movimento, hoje ela cursa Ci&ecirc;ncias Sociais da terra pelo PRONERA (Programa Nacional de Educa&ccedil;&atilde;o Na Reforma Agr&aacute;ria) na Universidade Federal do Rio Grande Norte, segundo Sandra: &ldquo;A Marcha &eacute; um momento de di&aacute;logo com a sociedade e com a base do movimento. Isto nos fortalece e alimenta nossa certeza no que queremos.&rdquo;&nbsp;<br />
 Para ela a Marcha n&atilde;o acaba quando chega a Bras&iacute;lia, na verdade ela &eacute; um processo que come&ccedil;a muito antes da marcha sair, quem vem para a marcha participa de uma grande experi&ecirc;ncia de coletividade, onde podemos vivenciar todos os princ&iacute;pios do MST na pr&aacute;tica.<br />
 <br />
-Adailton Cardoso &eacute; outro marchante que em 1995 participou junto com mais 2.204 fam&iacute;lias da ocupa&ccedil;&atilde;o do acampamento Safra, em Santa Maria da boa Vista no Pernambuco, desde ent&atilde;o, Adailton formou-se pedagogo, <img alt="card2.jpg" height="270" src="//farm2.staticflickr.com/1773/29066374027_527c762443_b.jpg" style="float:left" width="270" />contribuiu durante cinco anos no setor de educa&ccedil;&atilde;o do MST e hoje &eacute; lideran&ccedil;a em seu assentamento.&nbsp;<br />
+Adailton Cardoso &eacute; outro marchante que em 1995 participou junto com mais 2.204 fam&iacute;lias da ocupa&ccedil;&atilde;o do acampamento Safra, em Santa Maria da boa Vista no Pernambuco, desde ent&atilde;o, Adailton formou-se pedagogo, contribuiu durante cinco anos no setor de educa&ccedil;&atilde;o do MST e hoje &eacute; lideran&ccedil;a em seu assentamento.&nbsp;<br />
 Para Adailton: &ldquo;Hoje entre os seguimentos da sociedade brasileira, s&atilde;o os movimentos sociais que tem capacidade de mobilizar e se indignar com qualquer injusti&ccedil;a, marchamos porque n&atilde;o concordamos com a injusti&ccedil;a cometida contra o ex-presidente Lula, o companheiro Lula transformou a vida de muitas pessoas, estas pessoas (os marchantes) est&atilde;o aqui para defender os direitos dos trabalhadores.&rdquo;<br />
 <br />
 Muitos s&atilde;o os estados, os munic&iacute;pios, os sotaques e a cultura dos marchantes. S&atilde;o, todos e todas ao mesmo tempo, trabalhadores e trabalhadoras que na mais forte demonstra&ccedil;&atilde;o de solidariedade, seguem firmes na luta por uma vida mais justa, mais bonita de ser vivida, mais livre e humana.<br />
