@@ -33,11 +33,12 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="photo5154416563355494442.jpg" height="466" src="//farm2.staticflickr.com/1837/43100099505_c06ee45255_b.jpg" width="700" />
-<figcaption><em>Sem Terrinha Estefani conduzindo a r&aacute;dio intinerante na Coluna Prestes da Marcha Lula Livre. Foto:&nbsp;</em></figcaption>
+<figcaption><em>Sem Terrinha Estefani conduzindo a r&aacute;dio intinerante na Coluna Prestes da Marcha Lula Livre.<br />
+Foto: Juliana Adriano&nbsp;</em></figcaption>
 </figure>
 </div>
 
-<p>http://brasildefato.com.br/http://brasildefato.com.br/<br />
+<p><br />
 <em>Por Leonardo Fernandes<br />
 Do Brasil de Fato&nbsp;</em></p>
 
@@ -66,7 +67,7 @@ Al&eacute;m do objetivo de promover a comunica&ccedil;&atilde;o entre os marchan
 &ldquo;Cada vez que a gente faz a r&aacute;dio em alguma atividade, n&oacute;s percebemos que novas pessoas chagam para contribuir. N&atilde;o &eacute; uma equipe fixa. Tem gente que chega querendo contribuir, querendo saber como se faz para poder fazer no seu pr&oacute;prio assentamento&rdquo;.</p>
 
 <p><br />
-A r&aacute;dio itinerante &eacute; transmitida pelo site brasildefato.com.br, no portal do MST (mst.org.br) ou ainda pelo aplicativo da r&aacute;dio Brasil de Fato, dispon&iacute;vel para celulares Android. A Marcha Nacional Lula Livre &eacute; realizada pelo MST e Via Campesina e re&uacute;ne cerca de cinco mil militantes, em defesa da liberdade do ex-presidente Luiz In&aacute;cio Lula da Silva, preso em Curitiba desde o dia 7 de abril.&nbsp;</p>
+A r&aacute;dio itinerante &eacute; transmitida pelo site <a href="http://brasildefato.com.br">brasildefato.com.br,</a> no portal do MST (<a href="http://mst.org.br">mst.org.br</a>) ou ainda pelo aplicativo da r&aacute;dio Brasil de Fato, dispon&iacute;vel para celulares Android. A Marcha Nacional Lula Livre &eacute; realizada pelo MST e Via Campesina e re&uacute;ne cerca de cinco mil militantes, em defesa da liberdade do ex-presidente Luiz In&aacute;cio Lula da Silva, preso em Curitiba desde o dia 7 de abril.&nbsp;</p>
 
 <p><br />
 <em>Edi&ccedil;&atilde;o: Pedro Ribeiro Nogueira</em></p>
