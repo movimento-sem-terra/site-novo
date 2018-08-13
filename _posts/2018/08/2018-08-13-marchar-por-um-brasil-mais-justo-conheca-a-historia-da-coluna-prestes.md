@@ -36,6 +36,7 @@ releated_posts:
   - _posts/2018/08/2018-08-12-comer-bem-para-caminhar-ainda-melhor.md
   - _posts/2018/08/2018-08-12-marcha-lula-livre-doa-alimentos-saudaveis-para-instituicoes-de-valparaiso.md
   - _posts/2018/08/2018-08-12-joao-jose-rocha-34-anos-de-mst-e-seis-marchas.md
+section: cover
 
 ---
 <div style="text-align:center">
