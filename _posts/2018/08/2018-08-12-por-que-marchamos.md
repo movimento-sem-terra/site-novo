@@ -2,8 +2,8 @@
 date: "2018-08-12T20:03:54-03:00"
 tags: []
 hat: ""
-title: Por que marchamos
-support_line: "Conscientes, marchantes, relatam porque marchar"
+title: Porque marchamos
+support_line: "Conscientes, marchantes relatam o porque de estarem na Marcha Lula Livre"
 images_hd: //farm2.staticflickr.com/1794/42194444350_060d7576d5_b.jpg
 special-page: marcha-nacional-lula-livre
 menu: reforma agrária
@@ -53,7 +53,7 @@ O povo brasileiro foi duramente golpeado por uma elite que historicamente mantev
 <br />
 Nos &uacute;ltimos dias vimos &agrave; for&ccedil;a e a coragem da classe trabalhadora, que compreendendo o complexo jogo de interesses vigentes nesta conjuntura, se p&ocirc;s em luta permanente contra a elite. A Caravana do Semi&aacute;rido contra a Fome, o Dia do Basta (10) contra a retirada de direitos dos trabalhadores, o imenso amor ao povo demonstrado pelos companheiros e pelas companheiras que p&otilde;em suas vidas em risco na Greve de Fome pelo restabelecimento da democracia expressa na liberdade do companheiro Lula, e a Marcha Nacional realizada pelo MST rumo a Bras&iacute;lia s&atilde;o sinais de que a popula&ccedil;&atilde;o n&atilde;o aceita a agenda conservadora do golpe.<br />
 <br />
-<strong>LULA LIVRE</strong><br />
+<strong>Lula Livre</strong><br />
 <br />
 Apesar dos esfor&ccedil;os da m&iacute;dia golpista em desconstruir o legado econ&ocirc;mico e social dos governos do ex-presidente Lula, as pesquisas de inten&ccedil;&atilde;o de votos demonstram que a maioria do povo brasileiro prefere Lula presidente a qualquer outro nome.&nbsp;<br />
 <br />
@@ -63,7 +63,7 @@ Portanto n&atilde;o devemos ter ilus&otilde;es, a pris&atilde;o de Lula &eacute;
 <br />
 O que pode ser isto se n&atilde;o a express&atilde;o mais evidente da luta de classes? Lula Livre &eacute; a bandeira de luta que nos mobiliza, pois, em uma na&ccedil;&atilde;o democr&aacute;tica jamais devemos aceitar a pris&atilde;o pol&iacute;tica de qualquer agente pol&iacute;tico ou cidad&atilde;o. As lutas que explodem no Brasil, s&atilde;o a atestada prova de que j&aacute; n&atilde;o h&aacute; cren&ccedil;a na institucionalidade corrompida. Um povo soberano e livre jamais opta pelo conflito que pode martiriza-lo, mas os inimigos do povo &eacute; que s&atilde;o os respons&aacute;veis pelo fim do pacto democr&aacute;tico de 1988, a n&oacute;s resta-nos lutar e resistir, passo a passo com solidariedade e firmeza at&eacute; a vit&oacute;ria.<br />
 <br />
-<strong>OS MARCHANTES</strong><br />
+<strong>Os marchantes</strong><br />
 <br />
 Tr&ecirc;s colunas de trabalhadores rurais Sem Terra rumam a Bras&iacute;lia: a Coluna Prestes com marchantes vindos dos estados do sudeste e do sul; Coluna Tereza de Benguela que re&uacute;ne o povo do centro-oeste e da Amaz&ocirc;nia e a Coluna Ligas Camponesas compostas pelos estados do nordeste.<br />
 <br />
