@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Bom dia Marcha Nacional Lula Livre Coluna Prestes</title>
+				<description>Marchantes saem para caminhada todos os dias de madrugada rumo a Brasília</description>
+				<pubDate>Mon, 13 Aug 2018 11:57:01 -0300</pubDate>
+				<link>http://www.mst.org.br/2018/08/13/bom-dia-marcha-nacional-lula-livre-coluna-prestes.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2018/08/13/bom-dia-marcha-nacional-lula-livre-coluna-prestes.html</guid>
+			</item>
+		
+			<item>
 				<title>Rádio itinerante anima e leva informação à Marcha Nacional Lula Livre</title>
 				<description>Rádio Brasil em Movimento, do setor de comunicação do MST, e Brasil de Fato acompanham a caminhada em parceria</description>
 				<pubDate>Sun, 12 Aug 2018 23:54:06 -0300</pubDate>
@@ -76,14 +84,6 @@
 				<pubDate>Sat, 11 Aug 2018 22:40:57 -0300</pubDate>
 				<link>http://www.mst.org.br/2018/08/11/marcha-lula-livre-doa-alimentos-saudaveis-para-instituicoes-de-valparaiso.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2018/08/11/marcha-lula-livre-doa-alimentos-saudaveis-para-instituicoes-de-valparaiso.html</guid>
-			</item>
-		
-			<item>
-				<title>Comer bem para caminhar ainda melhor</title>
-				<description>A cozinha da Marcha e organizada pelos Sem Terra de todo o Brasil.</description>
-				<pubDate>Sat, 11 Aug 2018 21:07:09 -0300</pubDate>
-				<link>http://www.mst.org.br/2018/08/11/comer-bem-para-caminhar-ainda-melhor.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2018/08/11/comer-bem-para-caminhar-ainda-melhor.html</guid>
 			</item>
 		
 	</channel>
