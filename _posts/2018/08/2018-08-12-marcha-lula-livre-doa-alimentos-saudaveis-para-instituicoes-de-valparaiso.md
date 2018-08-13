@@ -72,14 +72,19 @@ Ceres Hadich, dirigente do Movimento, o comenta a entrega de alimentos. &ldquo;A
 <figcaption></figcaption>
 </figure>
 
-<p><strong>hows</strong><br />
-<br />
-A anima&ccedil;&atilde;o do ato ficou por conta da Juventude organizada do MST e do Levante Popular da Juventude com batucada e encena&ccedil;&atilde;o teatral. A rapper Lilian Guerreira levantou a plateia com m&uacute;sicas empolgantes e letras feministas.&nbsp;<br />
-<br />
-A professora Katia Maria, presidenta do PT em Goi&aacute;s, saudou o ato. &quot;&Eacute; uma honra ter o MST marchando em Goi&aacute;s. S&atilde;o os trabalhadores rurais que colocam comida na mesa dos brasileiros. Me emocionei ao ver a marcha na rodovia&rdquo;, disse a petista que tamb&eacute;m concorre ao governo do estado nas elei&ccedil;&otilde;es de Outubro.<br />
-<br />
-O show da Marcha no Bairro Oriente contou com a apresenta&ccedil;&otilde;es de artistas locais de rap como o Chic&atilde;o MC e Pedro Felipe. O cantor Forroshow animou toda a pra&ccedil;a com uma sele&ccedil;&atilde;o de&nbsp; forr&oacute; arrasta p&eacute; e gritos de &ldquo;Lula Livre&rdquo;.&nbsp; O ato pol&iacute;tico cultural marcou a rela&ccedil;&atilde;o do MST com o campo&nbsp; e a cidade, e refor&ccedil;a a constru&ccedil;&atilde;o de um projeto de pa&iacute;s para a classe trabalhadora.&nbsp;<br />
-<br />
+<p><br />
+<strong>Shows</strong></p>
+
+<p><br />
+A anima&ccedil;&atilde;o do ato ficou por conta da Juventude organizada do MST e do Levante Popular da Juventude com batucada e encena&ccedil;&atilde;o teatral. A rapper Lilian Guerreira levantou a plateia com m&uacute;sicas empolgantes e letras feministas.&nbsp;</p>
+
+<p><br />
+A professora Katia Maria, presidenta do PT em Goi&aacute;s, saudou o ato. &quot;&Eacute; uma honra ter o MST marchando em Goi&aacute;s. S&atilde;o os trabalhadores rurais que colocam comida na mesa dos brasileiros. Me emocionei ao ver a marcha na rodovia&rdquo;, disse a petista que tamb&eacute;m concorre ao governo do estado nas elei&ccedil;&otilde;es de Outubro.</p>
+
+<p><br />
+O show da Marcha no Bairro Oriente contou com a apresenta&ccedil;&otilde;es de artistas locais de rap como o Chic&atilde;o MC e Pedro Felipe. O cantor Forroshow animou toda a pra&ccedil;a com uma sele&ccedil;&atilde;o de&nbsp; forr&oacute; arrasta p&eacute; e gritos de &ldquo;Lula Livre&rdquo;.&nbsp; O ato pol&iacute;tico cultural marcou a rela&ccedil;&atilde;o do MST com o campo&nbsp; e a cidade, e refor&ccedil;a a constru&ccedil;&atilde;o de um projeto de pa&iacute;s para a classe trabalhadora.&nbsp;</p>
+
+<p><br />
 Neste s&aacute;bado a Coluna Prestes marchou 18 quil&ocirc;metros de Luzi&acirc;nia a Valparaiso conhecendo a hist&oacute;ria de guerreiros e guerreiras, nas trincheiras da reforma agr&aacute;ria popular e da luta da classe trabalhadora desde a funda&ccedil;&atilde;o do MST.&nbsp;</p>
 
 <p><br />
