@@ -4,7 +4,7 @@ tags:
   - tag: marcha-lula-livre
   - tag: reforma-agrária
   - tag: brasília
-title: "Diversidades de povos e os mesmo objetivos, reforma agrária, democracia e Lula Livre"
+title: "Diversidades de povos e os mesmos objetivos, reforma agrária, democracia e Lula Livre"
 support_line: ​Conheça um pouco dos diversos perfis de marchantes que segue rumo a Brasília.
 menu: lutas e mobilizações
 special-page: marcha-nacional-lula-livre
@@ -38,7 +38,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="fed57aca-f98f-4cd1-981b-6245c517bfb3.jpg" height="463" src="//farm1.staticflickr.com/939/43282334364_4ac34e9254_b.jpg" width="700" />
-<figcaption><em>Marchantes da Coluna Ligas Camponesas / Fotos: Lu&iacute;s Fernando</em></figcaption>
+<figcaption><em>Marchantes da Coluna Ligas Camponesas / Fotos: Lu&iacute;z Fernando</em></figcaption>
 </figure>
 </div>
 
