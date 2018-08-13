@@ -33,11 +33,11 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="photo5154416563355494442.jpg" height="466" src="//farm2.staticflickr.com/1837/43100099505_c06ee45255_b.jpg" width="700" />
-<figcaption><em>Sem Terrinha Estefani conduzindo a r&aacute;dio intinerante na Coluna Prestes da Marcha Lula Livre.&nbsp;</em></figcaption>
+<figcaption><em>Sem Terrinha Estefani conduzindo a r&aacute;dio intinerante na Coluna Prestes da Marcha Lula Livre. Foto:&nbsp;</em></figcaption>
 </figure>
 </div>
 
-<p><br />
+<p>http://brasildefato.com.br/http://brasildefato.com.br/<br />
 <em>Por Leonardo Fernandes<br />
 Do Brasil de Fato&nbsp;</em></p>
 
