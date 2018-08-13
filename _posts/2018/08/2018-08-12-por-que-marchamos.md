@@ -63,7 +63,7 @@ Nos &uacute;ltimos dias vimos &agrave; for&ccedil;a e a coragem da classe trabal
 <strong>Lula Livre</strong></p>
 
 <figure class="image" style="float:right"><img alt="felipe peres coluna prestes.jpg" height="300" src="//farm2.staticflickr.com/1837/43286080584_c2b2423b59_b.jpg" width="450" />
-<figcaption>Foto: Felipe Peres</figcaption>
+<figcaption><em>Foto: Felipe Peres</em></figcaption>
 </figure>
 
 <p><br />
