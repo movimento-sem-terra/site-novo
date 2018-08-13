@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária
 hat: ""
 title: "O que faríamos de nossas vidas se não fosse a luta por um mundo melhor? "
-support_line: Marchantes relatam  porque seguir rumo a Brasília
+support_line: Marchantes relatam porque seguir rumo à Brasília
 images_hd: //farm2.staticflickr.com/1794/42194444350_060d7576d5_b.jpg
 special-page: marcha-nacional-lula-livre
 menu: lutas e mobilizações
