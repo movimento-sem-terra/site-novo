@@ -9,7 +9,7 @@ title: Monsanto é condenada a pagar US$ 289 milhões por câncer em jardineiro 
 support_line: "Dewayne Johnson, 46, enfrenta um câncer terminal após trabalhar com o herbicida Roundup; empresa deve recorrer"
 menu: agronegócio
 images_hd: //farm2.staticflickr.com/1838/43111571195_532fe4ac20_b.jpg
-section: featured-news
+section: cover
 layout: post
 files:
   - link: //farm2.staticflickr.com/1838/43111571195_532fe4ac20_b.jpg
