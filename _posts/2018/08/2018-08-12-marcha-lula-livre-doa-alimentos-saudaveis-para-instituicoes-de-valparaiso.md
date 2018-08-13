@@ -45,7 +45,7 @@ releated_posts:
   - _posts/2018/08/2018-08-12-comer-bem-para-caminhar-ainda-melhor.md
   - _posts/2018/08/2018-08-11-marcha-nacional-lula-livre.md
   - _posts/2018/05/2018-05-05-feira-do-mst-reune-milhares-em-conferencia-sobre-alimentacao-saudavel.md
-section: cover
+section: featured-news
 
 ---
 <div style="text-align:center">
