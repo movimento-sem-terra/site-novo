@@ -43,7 +43,7 @@ releated_posts: []
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Depois de mais de 150 km divididos em tr&ecirc;s colunas, o t&atilde;o esperado dia de pisar perto do Congresso Nacional, que deveria ser a casa do povo, est&aacute; chegando. Amanh&atilde;, dia 14 de agosto, o acampamento ser&aacute; bem pr&oacute;ximo de onde funciona o cora&ccedil;&atilde;o da pol&iacute;tica brasileira.&nbsp;</p>
+Depois de mais de 150 km divididos em tr&ecirc;s colunas, o t&atilde;o esperado dia de pisar perto do Congresso Nacional, que deveria ser a casa do povo, est&aacute; chegando. Nesta ter&ccedil;a-feira, dia 14 de agosto, o acampamento ser&aacute; bem pr&oacute;ximo de onde funciona o cora&ccedil;&atilde;o da pol&iacute;tica brasileira.&nbsp;</p>
 
 <p><br />
 Retomando a frase &quot;marchar novamente &eacute; preciso&quot;, o MST revive momentos hist&oacute;ricos. Reivindicar direitos &eacute; uma obriga&ccedil;&atilde;o dos lutadores do povo e faz parte do papel que reservaram ao Movimento dos Trabalhadores Rurais Sem Terra na hist&oacute;ria, como um instrumento pol&iacute;tico da classe trabalhadora do campo e da cidade.&nbsp;</p>
