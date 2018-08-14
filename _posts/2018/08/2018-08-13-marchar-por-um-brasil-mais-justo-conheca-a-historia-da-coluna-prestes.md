@@ -41,7 +41,7 @@ section: featured-news
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Juliana Adriano Coluna prestes.jpg" height="525" src="//farm1.staticflickr.com/931/42196549620_41343e8e8d_b.jpg" width="700" />
-<figcaption><em>Foto: Juliana Adriano</em></figcaption>
+<figcaption><em>Foto: Joyce Fonseca</em></figcaption>
 </figure>
 </div>
 
