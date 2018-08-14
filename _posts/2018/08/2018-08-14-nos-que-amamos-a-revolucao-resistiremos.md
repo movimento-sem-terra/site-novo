@@ -65,7 +65,7 @@ Segundo Marco Ant&ocirc;nio Baratto, da coordena&ccedil;&atilde;o nacional do Mo
 <p>&nbsp;</p>
 
 <blockquote>
-<p>[...] a Marcha &eacute; para mais do que a ideia de que todos possam ter direito a trabalhar e viver dignamente, mas que &quot;todos possam ser donos de suas vidas e de sua for&ccedil;a de trabalho, sem serem explorados&quot;, diz Marco Ant&ocirc;nio Baratto, da coordena&ccedil;&atilde;o nacional do Movimento.</p>
+<p><strong>[...] a Marcha &eacute; para mais do que a ideia de que todos possam ter direito a trabalhar e viver dignamente, mas que &quot;todos possam ser donos de suas vidas e de sua for&ccedil;a de trabalho, sem serem explorados&quot;, diz Marco Ant&ocirc;nio Baratto, da coordena&ccedil;&atilde;o nacional do Movimento.</strong></p>
 </blockquote>
 
 <p><br />
