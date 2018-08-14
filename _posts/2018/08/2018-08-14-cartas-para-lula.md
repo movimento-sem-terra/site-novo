@@ -6,7 +6,7 @@ tags:
   - tag: marcha-lula-livre
   - tag: lula-livre
 title: "Cartas para Lula: \"nós, jovens do MST, estamos lutando por você\""
-support_line: "De jovens a sujeitos históricos na luta a história da prisão indigna e trás forças para lutar "
+support_line: "\"Lula, a marcha está linda. Ponhamos a BR 020, que liga Goiânia a Brasília, toda de vermelho\", escreveu jovem sem-terra em carta para Lula "
 menu: projeto popular
 special-page: marcha-nacional-lula-livre
 section: featured-news
