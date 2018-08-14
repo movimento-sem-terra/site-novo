@@ -35,7 +35,7 @@ published: true
 releated_posts: []
 
 ---
-<p><img alt="WhatsApp Image 2018-08-14 at 08.19.00.jpeg" height="450" src="//farm2.staticflickr.com/1780/43981267662_5b48e77464_b.jpg" width="600" /></p>
+<p style="text-align:center"><img alt="WhatsApp Image 2018-08-14 at 08.19.00.jpeg" height="450" src="//farm2.staticflickr.com/1780/43981267662_5b48e77464_b.jpg" width="600" /></p>
 
 <p style="text-align: center;"><em>Foto: Lula Marques</em></p>
 
@@ -51,7 +51,7 @@ Retomando a frase &quot;marchar novamente &eacute; preciso&quot;, o MST revive m
 <p><br />
 Entendendo as elei&ccedil;&otilde;es como um momento t&aacute;tico de tensionar o debate pol&iacute;tico, a Marcha Nacional chega ao Distrito Federal com quatro grandes temas: o trabalho de base,&nbsp;o povo como sujeito que constr&oacute;i a sua hist&oacute;ria e eleva a sua consci&ecirc;ncia,&nbsp;o poder popular, e os nossos direitos &agrave; terra, moradia e trabalho.&nbsp;</p>
 
-<p><img alt="WhatsApp Image 2018-08-14 at 07.13.11.jpeg" height="400" src="//farm2.staticflickr.com/1840/43123772285_7810760264_b.jpg" width="600" /></p>
+<p style="text-align:center"><img alt="WhatsApp Image 2018-08-14 at 07.13.11.jpeg" height="400" src="//farm2.staticflickr.com/1840/43123772285_7810760264_b.jpg" width="600" /></p>
 
 <p style="text-align: center;"><em>Foto: Jos&eacute; Eduardo Bernardes</em></p>
 
@@ -71,7 +71,7 @@ Palha&ccedil;o Sassarico, como &eacute; conhecido o companheiro da Bahia, mora e
 
 <p>Na multid&atilde;o tamb&eacute;m est&aacute; Irma Brunetto, lutadora do povo que constr&oacute;i as fileiras do MST desde 1984. &quot;A minha vida foi a constru&ccedil;&atilde;o do MST&quot;, ela fala com leveza. Irma cita o poema de Bertold Brecht, que diz que &quot;na luta de classes todas as armas s&atilde;o boas: pedras, noite e poemas&quot;, e que estar na rua faz toda a diferen&ccedil;a na luta. &quot;Como dizia meu irm&atilde;o, Eg&iacute;dio Brunetto, o importante &eacute; povo na rua&quot;.</p>
 
-<p><img alt="Leonardo Milano.jpg" height="400" src="//farm2.staticflickr.com/1835/30161390388_fbf860ebcb_b.jpg" width="600" /></p>
+<p style="text-align:center"><img alt="Leonardo Milano.jpg" height="400" src="//farm2.staticflickr.com/1835/30161390388_fbf860ebcb_b.jpg" width="600" /></p>
 
 <p style="text-align: center;"><em>Foto: Leonardo Milano/M&iacute;dia Ninja</em></p>
 
