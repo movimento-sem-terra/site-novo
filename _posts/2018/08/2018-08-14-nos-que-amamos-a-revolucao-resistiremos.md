@@ -1,7 +1,7 @@
 ---
 date: "2018-08-14T08:46:02-03:00"
 tags: []
-title: "Nós, que amamos a revolução, resistiremos "
+title: "Nós, que amamos a revolução, resistiremos em marcha!"
 support_line: Marcha Nacional Lula Livre chega a Brasília junto com os anseios da classe trabalhadora brasileira
 special-page: marcha-nacional-lula-livre
 section: featured-news
