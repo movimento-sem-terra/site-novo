@@ -9,7 +9,7 @@ title: "Cartas para Lula: \"nós, jovens do MST, estamos lutando por você\""
 support_line: "De jovens a sujeitos históricos na luta a história da prisão indigna e trás forças para lutar "
 menu: projeto popular
 special-page: marcha-nacional-lula-livre
-section: cover
+section: featured-news
 images_hd: //farm2.staticflickr.com/1792/29096929687_8fcc93c3a3_b.jpg
 layout: post
 files:
@@ -55,7 +55,7 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p style="text-align: center;"><img alt="WhatsApp Image 2018-08-14 at 14.35.16.jpeg" height="400" src="//farm2.staticflickr.com/1792/29096929687_8fcc93c3a3_b.jpg" width="600" /></p>
+<p style="text-align:center"><img alt="WhatsApp Image 2018-08-14 at 14.35.16.jpeg" height="400" src="//farm2.staticflickr.com/1792/29096929687_8fcc93c3a3_b.jpg" width="600" /></p>
 
 <p style="text-align: center;"><em>Foto: Matheus Alves</em></p>
 
