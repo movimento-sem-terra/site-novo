@@ -10,7 +10,7 @@ tags:
 title: "Agitação e propaganda: o megafone do projeto popular "
 support_line: "Juventude sem terra faz ação na Rodoviária de Brasília, e abre o diálogo sobre a liberdade de Lula com a sociedade"
 menu: projeto popular
-section: cover
+section: featured-news
 special-page: marcha-nacional-lula-livre
 images_hd: //farm2.staticflickr.com/1837/30162977258_37403c2fcd_b.jpg
 layout: post
