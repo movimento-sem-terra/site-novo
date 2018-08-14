@@ -27,6 +27,7 @@ releated_posts:
   - _posts/2018/08/2018-08-11-marcha-lula-livre-inicia-com-atos-politicos.md
   - _posts/2018/07/2018-07-30-acampamento-maria-da-conceicao-ira-erguer-mais-uma-escola-do-campo-na-regional-metropolitana.md
   - _posts/2018/08/2018-08-07-serao-seis-dias-de-caminhada-para-retomar-o-brasil-e-para-exigir-lula-livre.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
