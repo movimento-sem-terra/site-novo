@@ -10,7 +10,7 @@ support_line: "De jovens a sujeitos históricos na luta a história da prisão i
 menu: projeto popular
 special-page: marcha-nacional-lula-livre
 section: cover
-images_hd: //farm2.staticflickr.com/1797/43984031612_a06de025cb_b.jpg
+images_hd: //farm2.staticflickr.com/1792/29096929687_8fcc93c3a3_b.jpg
 layout: post
 files:
   - link: //farm2.staticflickr.com/1797/43984031612_a06de025cb_b.jpg
@@ -27,6 +27,20 @@ files:
     small: //farm2.staticflickr.com/1839/43126661505_f98eb2f64e_n.jpg
     title: 20180813_220643.jpg
     $$hashKey: "209"
+  - link: //farm2.staticflickr.com/1838/43315408024_2011a49644_b.jpg
+    original: //farm2.staticflickr.com/1838/43315408024_bee794a323_o.jpg
+    thumbnail: //farm2.staticflickr.com/1838/43315408024_2011a49644_t.jpg
+    medium: //farm2.staticflickr.com/1838/43315408024_2011a49644_z.jpg
+    small: //farm2.staticflickr.com/1838/43315408024_2011a49644_n.jpg
+    title: 2018-08-12 - coluna prestes - juliana adriano (24).jpg
+    $$hashKey: 2BI
+  - link: //farm2.staticflickr.com/1792/29096929687_8fcc93c3a3_b.jpg
+    original: //farm2.staticflickr.com/1792/29096929687_92fde5d3ca_o.jpg
+    thumbnail: //farm2.staticflickr.com/1792/29096929687_8fcc93c3a3_t.jpg
+    medium: //farm2.staticflickr.com/1792/29096929687_8fcc93c3a3_z.jpg
+    small: //farm2.staticflickr.com/1792/29096929687_8fcc93c3a3_n.jpg
+    title: WhatsApp Image 2018-08-14 at 14.35.16.jpeg
+    $$hashKey: 2BL
 created_date: "2018-08-14T12:52:52-03:00"
 published: true
 releated_posts:
@@ -39,15 +53,16 @@ releated_posts:
   - _posts/2018/08/2018-08-11-marcha-lula-livre-inicia-com-atos-politicos.md
 
 ---
-<p><img alt="2018-_08_10_Joyce Fonseca__MST-4.jpg" height="400" src="//farm2.staticflickr.com/1797/43984031612_a06de025cb_b.jpg" width="600" /></p>
+<p>&nbsp;</p>
 
-<p style="text-align: center;"><em>Foto: Joyce Fonseca&nbsp;</em></p>
+<p style="text-align: center;"><img alt="WhatsApp Image 2018-08-14 at 14.35.16.jpeg" height="400" src="//farm2.staticflickr.com/1792/29096929687_8fcc93c3a3_b.jpg" width="600" /></p>
 
-<p><em>Rarielle Costa<br />
+<p style="text-align: center;"><em>Foto: Matheus Alves</em></p>
+
+<p><em>Rarielle Costa&nbsp;<br />
 Da P&aacute;gina do MST</em></p>
 
-<p><br />
-A Marcha Nacional Lula Livre, iniciativa do MST e Via Campesina, acontece entre 10 e 15 de agosto, conta com 5 mil pessoas que marcham reivindicando a liberdade de Lula e a retomada da Democracia.&nbsp;Entre esse p&uacute;blico,&nbsp; <strong>Jobson Passos Lopes</strong>, jovem de 27 anos, marcha pela primeira vez. Entrou no Movimento&nbsp;no fim de 2014, &eacute; filho de assentados e mora no assentamento Bela Manh&atilde;, munic&iacute;pio de Teixeira de Freitas, Extremo Sul Baiano.</p>
+<p>A Marcha Nacional Lula Livre, iniciativa do MST e Via Campesina, acontece entre 10 e 15 de agosto, conta com 5 mil pessoas que marcham reivindicando a liberdade de Lula e a retomada da Democracia.&nbsp;Entre esse p&uacute;blico,&nbsp; <strong>Jobson Passos Lopes</strong>, jovem de 27 anos, marcha pela primeira vez. Entrou no Movimento&nbsp;no fim de 2014, &eacute; filho de assentados e mora no assentamento Bela Manh&atilde;, munic&iacute;pio de Teixeira de Freitas, Extremo Sul Baiano.</p>
 
 <p><br />
 Sua milit&acirc;ncia come&ccedil;a no final do ano de 2015, ap&oacute;s atividades do MST se reconheceu como sujeito da luta por reforma agr&aacute;ria popular e desde a&iacute;&nbsp;sempre teve a disposi&ccedil;&atilde;o para a luta.&nbsp;Hoje dirigente estadual do Setor de Juventude da Bahia, Jobson acredita que &ldquo;a&nbsp;marcha representa o anseio e o grito de milh&otilde;es de brasileiros que est&atilde;o sendo aniquilados a cada dia&quot;.&nbsp;</p>
