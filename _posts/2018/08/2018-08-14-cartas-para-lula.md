@@ -5,7 +5,7 @@ tags:
   - tag: Marcha
   - tag: marcha-lula-livre
   - tag: lula-livre
-title: "Cartas para Lula: "
+title: "Cartas para Lula: \"nós, jovens do MST, estamos lutando por você\""
 support_line: "De jovens a sujeitos históricos na luta a história da prisão indigna e trás forças para lutar "
 menu: projeto popular
 special-page: marcha-nacional-lula-livre
@@ -50,7 +50,7 @@ Da P&aacute;gina do MST</em></p>
 A Marcha Nacional Lula Livre, iniciativa do MST e Via Campesina, acontece entre 10 e 15 de agosto, conta com 5 mil pessoas que marcham reivindicando a liberdade de Lula e a retomada da Democracia.&nbsp;Entre esse p&uacute;blico,&nbsp; <strong>Jobson Passos Lopes</strong>, jovem de 27 anos, marcha pela primeira vez. Entrou no Movimento&nbsp;no fim de 2014, &eacute; filho de assentados e mora no assentamento Bela Manh&atilde;, munic&iacute;pio de Teixeira de Freitas, Extremo Sul Baiano.</p>
 
 <p><br />
-Sua milit&acirc;ncia come&ccedil;a no final do ano de 2015, ap&oacute;s atividades do MST se reconheceu como sujeito da luta por reforma agr&aacute;ria popular e desde a&iacute;&nbsp;sempre teve a disposi&ccedil;&atilde;o para a luta.&nbsp;Hoje dirigente estadual do Setor de Juventude da Bahia, Jobson acredita que &ldquo;a&nbsp;marcha representa o anseio e o Grito de milh&otilde;es de brasileiros que est&atilde;o sendo aniquilados a cada dia&quot;.&nbsp;</p>
+Sua milit&acirc;ncia come&ccedil;a no final do ano de 2015, ap&oacute;s atividades do MST se reconheceu como sujeito da luta por reforma agr&aacute;ria popular e desde a&iacute;&nbsp;sempre teve a disposi&ccedil;&atilde;o para a luta.&nbsp;Hoje dirigente estadual do Setor de Juventude da Bahia, Jobson acredita que &ldquo;a&nbsp;marcha representa o anseio e o grito de milh&otilde;es de brasileiros que est&atilde;o sendo aniquilados a cada dia&quot;.&nbsp;</p>
 
 <p>&nbsp;<br />
 Em meio &agrave;&nbsp;programa&ccedil;&atilde;o da Marcha, Jobson&nbsp;usou o seu tempo para escrever uma carta para o companheiro que se encontra preso sem provas. Confira:&nbsp;<br />
@@ -70,6 +70,10 @@ Abra&ccedil;os Vermelhos e P&aacute;tria Livre!&rdquo;&nbsp;</em></p>
 
 <p style="text-align: center;"><em>Foto: Rarielle Costa</em></p>
 
-<p>O companheiro <strong>Manoel Alves da Silva</strong>, 53 anos de idade e 10 anos de historias no Movimento&nbsp;Sem Terra, &eacute; assentado da reforma agr&aacute;ria no assentamento Z&eacute; Moreira da Silva, no munic&iacute;pio de Tapero&aacute; (PB).&nbsp;&Eacute;&nbsp;filiado ao Partido dos Trabalhadores (PT) desde a d&eacute;cada de 90 pelo estado de S&atilde;o Paulo. &ldquo;Todas as vezes que Lula foi candidato eu votei nele. Estudei at&eacute; a 4&ordf;&nbsp;serie pelo curso sem validade, mas, escrever uma carta para Lula, pra mim, &eacute; escrever meus sentimento. Sentimentos de gratid&atilde;o por ter me encontrado em Diademas (SP), expulso pela estiagem do Nordeste, em busca de sobreviv&ecirc;ncia, e me fazer hoje assentado da reforma agr&aacute;ria com vontade de lutar e defender sempre a classe trabalhadora&rdquo;.&nbsp;Ele escreve em poucas linhas seus sentimentos ao ex-presidente Lula:</p>
+<p>O companheiro <strong>Manoel Alves da Silva</strong>, 53 anos de idade e 10 anos de historias no Movimento&nbsp;Sem Terra, &eacute; assentado da reforma agr&aacute;ria no assentamento Z&eacute; Moreira da Silva, no munic&iacute;pio de Tapero&aacute; (PB).&nbsp;&Eacute;&nbsp;filiado ao Partido dos Trabalhadores (PT) desde a d&eacute;cada de 90 pelo estado de S&atilde;o Paulo. &ldquo;Todas as vezes que Lula foi candidato eu votei nele. Estudei at&eacute; a 4&ordf;&nbsp;serie pelo curso sem validade, mas, escrever uma carta para Lula, pra mim, &eacute; escrever meus sentimento. Sentimentos de gratid&atilde;o por ter me encontrado em Diadema (SP), expulso pela estiagem do Nordeste, em busca de sobreviv&ecirc;ncia, e me fazer hoje assentado da reforma agr&aacute;ria com vontade de lutar e defender sempre a classe trabalhadora&rdquo;.&nbsp;Ele escreve em poucas linhas seus sentimentos ao ex-presidente Lula:</p>
 
 <p><em>&ldquo;Eu desejo alcan&ccedil;ar o objetivo pelo&nbsp;qual n&oacute;s estamos lutando, que &eacute; Lula livre presidente e que voc&ecirc; possa reiniciar o seu projeto de governo, um projeto popular. Eu gostaria muito de lhe dar um aperto de m&atilde;o e um abra&ccedil;o forte quando voc&ecirc; estiver na presid&ecirc;ncia. Sou assentado no projeto de reforma agr&aacute;ria pelo Movimento Sem Terra. Foi cansativo debaixo da lona preta, mas estou rumo a alcan&ccedil;ar um objetivo tamb&eacute;m que &eacute; plantar na minha terra, colher e levar ao consumidor final alimenta&ccedil;&atilde;o com qualidade, sem agrot&oacute;xico e melhorar a minha renda familiar&rdquo;.</em></p>
+
+<p>&nbsp;</p>
+
+<p><em>Edi&ccedil;&atilde;o: Ednubia Ghisi</em></p>
