@@ -4,7 +4,7 @@ tags: []
 title: "Nós, que amamos a revolução, resistiremos em marcha!"
 support_line: Marcha Nacional Lula Livre chega a Brasília junto com os anseios da classe trabalhadora brasileira
 special-page: marcha-nacional-lula-livre
-section: featured-news
+section: cover
 menu: projeto popular
 images_hd: //farm2.staticflickr.com/1780/43981267662_5b48e77464_b.jpg
 layout: post
