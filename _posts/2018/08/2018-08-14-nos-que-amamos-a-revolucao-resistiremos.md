@@ -39,8 +39,8 @@ releated_posts: []
 
 <p style="text-align: center;"><em>Foto: Lula Marques</em></p>
 
-<p><em><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;">Por Agatha Azevedo</span><br />
-Da P&aacute;gina do MST&nbsp;</em></p>
+<p>Por Agatha Azevedo<br />
+Da P&aacute;gina do MST&nbsp;</p>
 
 <p><br />
 Depois de mais de 150 km divididos em tr&ecirc;s colunas, o t&atilde;o esperado dia de pisar perto do Congresso Nacional, que deveria ser a casa do povo, est&aacute; chegando. Amanh&atilde;, dia 14 de agosto, o acampamento ser&aacute; bem pr&oacute;ximo de onde funciona o cora&ccedil;&atilde;o da pol&iacute;tica brasileira.&nbsp;</p>
