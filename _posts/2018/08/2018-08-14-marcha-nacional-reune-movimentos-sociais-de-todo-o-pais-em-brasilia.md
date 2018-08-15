@@ -1,7 +1,7 @@
 ---
 date: "2018-08-14T20:31:09-03:00"
 tags: []
-title: Marcha Nacional reúne movimentos sociais de todo o país em Brasília
+title: Marcha Nacional Lula Livre reúne movimentos sociais de todo o país em Brasília
 support_line: "O mar de povo ocupou Distrito Federal por Lula Livre hoje (14) por terra, trabalho e moradia"
 menu: projeto popular
 images_hd: //farm2.staticflickr.com/1792/43133229255_1bc34ca1b3_b.jpg
@@ -42,6 +42,8 @@ releated_posts: []
 <p><br />
 <em>Por Lucas Silva, Agatha Azevedo, Lu Sudr&eacute;, Phillyp Mikell e Wesley Lima &nbsp;&nbsp;</em><br />
 <em>Da P&aacute;gina do MST&nbsp;</em></p>
+
+<p>&nbsp;</p>
 
 <p>Ap&oacute;s quatro dia e mais de 50 quil&ocirc;metros de caminhada, os mais de 5 mil trabalhadores e trabalhadoras rurais integrantes da tr&ecirc;s colunas da Marcha Nacional Lula Livre se unificaram para dar continuidade no processo de marchar pelo Brasil.</p>
 
