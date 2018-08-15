@@ -1,6 +1,7 @@
 ---
 date: "2018-08-14T20:31:09-03:00"
-tags: []
+tags:
+  - tag: marcha-lula-livre
 title: Marcha Nacional Lula Livre reúne movimentos sociais de todo o país em Brasília
 support_line: "O mar de povo ocupou Distrito Federal por Lula Livre hoje (14) por terra, trabalho e moradia"
 menu: projeto popular
@@ -30,18 +31,23 @@ files:
     $$hashKey: 03G
 created_date: "2018-08-14T20:52:37-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/08/2018-08-13-radio-itinerante-anima-e-leva-informacao-a-marcha-nacional-lula-livre.md
+  - _posts/2018/08/2018-08-13-cartas-para-lula-porque-lhe-escrevo.md
+  - _posts/2018/08/2018-08-13-marchar-por-um-brasil-mais-justo-conheca-a-historia-da-coluna-prestes.md
 
 ---
 <p>&nbsp;</p>
 
-<p><img alt="Dia 5_Tereza de Benguela_Leonardo Milano.jpg" height="400" src="//farm2.staticflickr.com/1792/43133229255_1bc34ca1b3_b.jpg" width="600" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Dia 5_Tereza de Benguela_Leonardo Milano.jpg" height="467" src="//farm2.staticflickr.com/1792/43133229255_1bc34ca1b3_b.jpg" width="700" />
+<figcaption><em>Foto: Leonardo Milano&nbsp;</em></figcaption>
+</figure>
+</div>
 
-<p style="text-align: center;"><em>Foto: Leonardo Milano&nbsp;</em></p>
+<p>&nbsp;</p>
 
-<p><br />
-<em>Por Lucas Silva, Agatha Azevedo, Lu Sudr&eacute;, Phillyp Mikell e Wesley Lima &nbsp;&nbsp;</em><br />
-<em>Da P&aacute;gina do MST&nbsp;</em></p>
+<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
@@ -59,10 +65,13 @@ releated_posts: []
 
 <p>Maria Raimunda, do MST no Par&aacute;, emocionada com a beleza da Coluna em marcha, disse que esse processo de luta &eacute; o que d&aacute; for&ccedil;a &agrave; classe. &ldquo;Nossas fileiras s&atilde;o feitas de hist&oacute;rias, de sujeitos e de muita luta, pautada principalmente na constru&ccedil;&atilde;o de um pa&iacute;s diferente, mais humano, igualit&aacute;rio e soberano&rdquo;, pontua.</p>
 
-<p><img alt="Matheus Alves.jpg" height="400" src="//farm2.staticflickr.com/1837/29102192957_63bc6928e7_b.jpg" width="600" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Matheus Alves.jpg" height="400" src="//farm2.staticflickr.com/1837/29102192957_63bc6928e7_b.jpg" width="600" />
+<figcaption><em>Foto: Matheus Alves&nbsp;</em></figcaption>
+</figure>
+</div>
 
-<p style="text-align: center;"><em>Foto: Matheus Alves&nbsp;</em><br />
-&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
 
 <p>Jaime Amorim, integrante do MST e um dos sete militante que fazem greve de fome h&aacute; 15 dias, mandou um recado para a Marcha refor&ccedil;ando que os grevistas est&atilde;o firmes na decis&atilde;o de manter o jejum, mesmo com a chegada da marcha. Para Amorim, a greve representa a luta contra a fome que hoje j&aacute; aflige uma grande parcela da popula&ccedil;&atilde;o brasileira.</p>
 
@@ -74,10 +83,13 @@ releated_posts: []
 
 <p>&quot;Viemos trazer a representa&ccedil;&atilde;o do povo brasileiro, dizer que Lula &eacute; inocente e que ser&aacute; presidente!&quot;, refor&ccedil;ou Jo&atilde;o Paulo. &quot;As grandes regi&otilde;es do pa&iacute;s que se dividiram na marcha v&atilde;o se encontrar, se preparar, para amanh&atilde; fazer o registro da candidatura do Lula no TSE. &Eacute; importante que o povo brasileiro se mobilize, que ocupe as redes, a internet, mas que principalmente ocupe as ruas&quot;, completou.</p>
 
-<p><img alt="Juliana Adriano (1).jpg" height="400" src="//farm2.staticflickr.com/1819/43990779832_6635edcc99_b.jpg" width="600" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Juliana Adriano (1).jpg" height="400" src="//farm2.staticflickr.com/1819/43990779832_6635edcc99_b.jpg" width="600" />
+<figcaption><em>Foto: Juliana Adriano</em></figcaption>
+</figure>
+</div>
 
-<p style="text-align: center;"><em>Foto: Juliana Adriano</em><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <p>Diversos candidatos estiveram presente na Marcha hoje, demonstrando seu apoio ao grande movimento em defesa da democracia brasileira que hoje avermelha as ruas da capital nacional.</p>
 
