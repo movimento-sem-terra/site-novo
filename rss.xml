@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Não tive tempo para ter medo!</title>
+				<description>No dia em que as três colunas em Marcha se encontraram em Brasília, nosso camarada Ulisses nos deixou</description>
+				<pubDate>Tue, 14 Aug 2018 21:56:53 -0300</pubDate>
+				<link>http://www.mst.org.br/2018/08/14/nao-tive-tempo-para-ter-medo.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2018/08/14/nao-tive-tempo-para-ter-medo.html</guid>
+			</item>
+		
+			<item>
 				<title>Marcha Nacional Lula Livre reúne movimentos sociais de todo o país em Brasília</title>
 				<description>O mar de povo ocupou Distrito Federal por Lula Livre hoje (14) por terra, trabalho e moradia</description>
 				<pubDate>Tue, 14 Aug 2018 20:31:09 -0300</pubDate>
@@ -76,14 +84,6 @@
 				<pubDate>Mon, 13 Aug 2018 13:20:58 -0300</pubDate>
 				<link>http://www.mst.org.br/2018/08/13/cartas-para-lula-porque-lhe-escrevo.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2018/08/13/cartas-para-lula-porque-lhe-escrevo.html</guid>
-			</item>
-		
-			<item>
-				<title>VLOG - Um dia na Marcha</title>
-				<description>Acompanhe o dia a dia na Marcha Nacional Lula Livre.</description>
-				<pubDate>Mon, 13 Aug 2018 12:53:56 -0300</pubDate>
-				<link>http://www.mst.org.br/2018/08/13/vlog-um-dia-na-marcha.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2018/08/13/vlog-um-dia-na-marcha.html</guid>
 			</item>
 		
 	</channel>
