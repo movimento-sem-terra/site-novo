@@ -5,7 +5,7 @@ tags:
   - tag: pará
 title: "Não tive tempo para ter medo!"
 support_line: "No dia em que as três colunas em Marcha se encontraram em Brasília, nosso camarada Ulisses nos deixou"
-images_hd: //farm2.staticflickr.com/1838/44040052231_c0c846a643_b.jpg
+images_hd: //farm2.staticflickr.com/1792/43171730695_9d8e15a177_b.jpg
 menu: lutas e mobilizações
 layout: post
 files:
@@ -16,6 +16,13 @@ files:
     small: //farm2.staticflickr.com/1838/44040052231_c0c846a643_n.jpg
     title: 1a6810c3-ad8d-4ea7-b55a-8cc87bd2c597.jpg
     $$hashKey: "030"
+  - link: //farm2.staticflickr.com/1792/43171730695_9d8e15a177_b.jpg
+    original: //farm2.staticflickr.com/1792/43171730695_3eff033e56_o.jpg
+    thumbnail: //farm2.staticflickr.com/1792/43171730695_9d8e15a177_t.jpg
+    medium: //farm2.staticflickr.com/1792/43171730695_9d8e15a177_z.jpg
+    small: //farm2.staticflickr.com/1792/43171730695_9d8e15a177_n.jpg
+    title: WhatsApp Image 2018-08-15 at 07.48.17.jpeg
+    $$hashKey: 0FL
 created_date: "2018-08-14T22:03:01-03:00"
 published: true
 releated_posts:
@@ -25,6 +32,14 @@ releated_posts:
 section: featured-news
 
 ---
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="1a6810c3-ad8d-4ea7-b55a-8cc87bd2c597.jpg" height="686" src="//farm2.staticflickr.com/1838/44040052231_c0c846a643_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
