@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>João Pedro Stedile é alvo de mais uma notícia falsa</title>
+				<description>Dirigente do MST foi acusado, indevidamente, de “usar uma sala VIP&quot; enquanto sem-terra marchavam no Planalto Central</description>
+				<pubDate>Thu, 16 Aug 2018 11:19:06 -0300</pubDate>
+				<link>http://www.mst.org.br/2018/08/16/joao-pedro-stedile-e-alvo-de-mais-uma-noticia-falsa.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2018/08/16/joao-pedro-stedile-e-alvo-de-mais-uma-noticia-falsa.html</guid>
+			</item>
+		
+			<item>
 				<title>Lula é candidato! Ato de inscrição de candidatura, dia 15/08</title>
 				<description>Confira como terminou a Marcha Lula Livre em Brasília!</description>
 				<pubDate>Thu, 16 Aug 2018 00:13:50 -0300</pubDate>
@@ -76,14 +84,6 @@
 				<pubDate>Mon, 13 Aug 2018 17:25:00 -0300</pubDate>
 				<link>http://www.mst.org.br/2018/08/13/o-que-foram-as-ligas-camponesas-homenageadas-pela-marcha-do-mst.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2018/08/13/o-que-foram-as-ligas-camponesas-homenageadas-pela-marcha-do-mst.html</guid>
-			</item>
-		
-			<item>
-				<title>Cozinha da Marcha Lula Livre prepara 15 mil refeições por dia</title>
-				<description>Toneladas de alimentos foram doados por pequenos agricultores e cooperativas para alimentar marchantes</description>
-				<pubDate>Mon, 13 Aug 2018 15:16:51 -0300</pubDate>
-				<link>http://www.mst.org.br/2018/08/13/cozinha-da-marcha-lula-livre-prepara-15-mil-refeicoes-por-dia.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2018/08/13/cozinha-da-marcha-lula-livre-prepara-15-mil-refeicoes-por-dia.html</guid>
 			</item>
 		
 	</channel>
