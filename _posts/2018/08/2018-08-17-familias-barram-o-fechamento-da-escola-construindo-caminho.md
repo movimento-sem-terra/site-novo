@@ -73,7 +73,7 @@ da Escola. Foto: Divulga&ccedil;&atilde;o/MST</em></figcaption>
 <strong>Fechar escola &eacute; crime</strong></p>
 
 <p><br />
-Nas &uacute;ltimas duas d&eacute;cadas, milhares de escolas no campo foram fechadas no estado. O MST, bem como as organiza&ccedil;&otilde;es em torno da educa&ccedil;&atilde;o do campo, reafirma que esse processo &eacute; criminoso. Nesse sentido, destacam que as popula&ccedil;&otilde;es rurais precisam ter conhecimento de seus direitos, pois as escolas que tem conseguido se manter frente aos ataques &eacute; fruto de muita resist&ecirc;ncia.&nbsp;</p>
+Nas &uacute;ltimas duas d&eacute;cadas, milhares de escolas no campo foram fechadas no Brasil. O MST, bem como as organiza&ccedil;&otilde;es em torno da educa&ccedil;&atilde;o do campo, reafirma que esse processo &eacute; criminoso. Nesse sentido, destacam que as popula&ccedil;&otilde;es rurais precisam ter conhecimento de seus direitos, pois as escolas que tem conseguido se manter frente aos ataques &eacute; fruto de muita resist&ecirc;ncia.&nbsp;</p>
 
 <p><br />
 De acordo com Irma Brunetto, da dire&ccedil;&atilde;o estadual do MST, diz que a tentativa de fechar a Escola Construindo Caminho foi dura para todos no assentamento, &ldquo;pois a escola est&aacute; no cora&ccedil;&atilde;o de cada um&rdquo;. &ldquo;A constru&ccedil;&atilde;o, o cuidado e a manuten&ccedil;&atilde;o da escola &eacute; fruto do coletivo. N&atilde;o vamos permitir que a escola seja fechada&quot;, enfatiza.</p>
