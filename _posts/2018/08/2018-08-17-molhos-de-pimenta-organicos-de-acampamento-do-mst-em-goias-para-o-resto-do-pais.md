@@ -74,4 +74,4 @@ Uma simples refei&ccedil;&atilde;o ganha um toque de intensidade no sabor ao uti
 Entre os benef&iacute;cios conhecidos est&aacute; seu efeito analg&eacute;sico natural, devido a uma poderosa subst&acirc;ncia chamada de capsaicina, que &eacute; o princ&iacute;pio ativo da pimenta; ela tamb&eacute;m ajuda a manter sob controle as taxas de triglicer&iacute;deos e colesterol, auxiliando na sa&uacute;de cardiovascular, al&eacute;m de ser um poderoso termog&ecirc;nico natural, a pimenta &eacute; capaz de acelerar o metabolismo do nosso organismo, favorecendo a queima de gordura e uma forte aliada no combate aos radicais livres, uma das propriedades mais interessantes da pimenta &eacute; sua capacidade de retardar o envelhecimento do nosso organismo.</p>
 
 <p><br />
-<em>*Editado&nbsp;Camila Salmazio do Brasil de Fato</em></p>
+<em>*Editado por Camila Salmazio do Brasil de Fato</em></p>
