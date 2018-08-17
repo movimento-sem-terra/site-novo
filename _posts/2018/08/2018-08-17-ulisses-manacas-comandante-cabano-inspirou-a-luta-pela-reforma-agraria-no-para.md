@@ -50,8 +50,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="30221681008_d902e3d93a_z.jpg" height="467" src="//farm2.staticflickr.com/1780/29158020817_107e74f62b_b.jpg" width="700" />
-<figcaption><em>Ulisses faleceu em Bel&eacute;m. Seu corpo foi sepultado com celebra&ccedil;&atilde;o ao legado de luta pelos militantes do MST.<br />
-Foto: Thomas Bauer / CPT Bahia</em></figcaption>
+<figcaption><em>Ulisses faleceu em Bel&eacute;m. Seu corpo foi sepultado com celebra&ccedil;&atilde;o ao legado de luta pelos militantes do MST. Foto: Thomas Bauer / CPT Bahia</em></figcaption>
 </figure>
 </div>
 
