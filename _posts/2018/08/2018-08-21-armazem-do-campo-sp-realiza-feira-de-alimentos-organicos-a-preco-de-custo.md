@@ -50,16 +50,16 @@ Frutas e verduras sem agrot&oacute;xicos, saborosas e com pre&ccedil;os acess&ia
 Montada em frente &agrave; loja, o espa&ccedil;o conta com produtos vindos do acampamento Irm&atilde; Alberta e do assentamento Dom Tom&aacute;s Baldu&iacute;no, ambos localizados na grande S&atilde;o Paulo.</p>
 
 <p><br />
-Segundo Ademar Paulo Ludwig Suptitz, coordenador da rede Armaz&eacute;m do Campo, a feira, tem o objetivo de contribuir com a demanda de aproxima&ccedil;&atilde;o entre campo e cidade.</p>
+Segundo Ademar Paulo Ludwig Suptitz, coordenador da rede Armaz&eacute;m do Campo, a feira tem o objetivo de contribuir com a demanda de aproxima&ccedil;&atilde;o entre campo e cidade.</p>
 
 <p><br />
-&quot;O Armaz&eacute;m do Campo foi criado em cima de tr&ecirc;s pilares principais: o primeiro &eacute; possibilitar o acesso aos frutos da Reforma Agr&aacute;ria; o segundo &eacute; firmar parcerias que fortale&ccedil;am os agricultores familiares, assentados e as cooperativas do MST e, por &uacute;ltimo, nosso objetivo &eacute; fomentar a discuss&atilde;o e o acesso &agrave; alimenta&ccedil;&atilde;o saud&aacute;vel&quot;.</p>
+&quot;O Armaz&eacute;m do Campo foi criado em cima de tr&ecirc;s pilares principais: o primeiro &eacute; possibilitar o acesso aos frutos da Reforma Agr&aacute;ria; o segundo &eacute; firmar parcerias que fortale&ccedil;am os agricultores familiares, assentados e as cooperativas do MST e, por &uacute;ltimo, fomentar a discuss&atilde;o e o acesso &agrave; alimenta&ccedil;&atilde;o saud&aacute;vel&quot;.</p>
 
 <p><br />
-Em rela&ccedil;&atilde;o ao debate entre alimentos org&acirc;nicos e pre&ccedil;o baixo, Suptitz afirma que somente a Reforma Agr&aacute;ria Popular &eacute; capaz de reduzir essa diferen&ccedil;a e fomentar o acesso de toda a popula&ccedil;&atilde;o &agrave; alimenta&ccedil;&atilde;o saud&aacute;vel.</p>
+Em rela&ccedil;&atilde;o ao debate entre alimentos org&acirc;nicos e pre&ccedil;o baixo, Suptitz afirma que somente a Reforma Agr&aacute;ria Popular &eacute; capaz de reduzir essa diferen&ccedil;a e fomentar o acesso de toda a popula&ccedil;&atilde;o &agrave; alimenta&ccedil;&atilde;o saud&aacute;vel. Prova disso s&atilde;o os pre&ccedil;os baixos repassados ao consumidor.</p>
 
 <p><br />
-&quot;&Eacute; importante lembrar que as frutas e verduras aqui vendidas s&atilde;o fruto de um processo de luta pela terra no Brasil. A Reforma Agr&aacute;ria Popular passa pela constru&ccedil;&atilde;o de um novo modelo agr&iacute;cola que prop&otilde;e a democratiza&ccedil;&atilde;o da terra em contraponto ao agroneg&oacute;cio. Logo, a nossa luta &eacute; tamb&eacute;m pelo acesso de todas e todos &agrave; esses alimentos. Estamos conseguindo vender os hortifrutis a pre&ccedil;o de custo, isso al&eacute;m de fomentar a produ&ccedil;&atilde;o nos acampamentos e assentamentos, garante o acesso da popula&ccedil;&atilde;o &agrave; uma alimenta&ccedil;&atilde;o org&acirc;nica e livre de agrot&oacute;xicos&quot;, finaliza.&nbsp;</p>
+&quot;&Eacute; importante lembrar que as frutas e verduras aqui vendidas fazem parte de um processo de luta pela terra no Brasil. A Reforma Agr&aacute;ria Popular passa pela constru&ccedil;&atilde;o de um novo modelo agr&iacute;cola que prop&otilde;e a democratiza&ccedil;&atilde;o da terra em contraponto ao agroneg&oacute;cio. Logo, a nossa luta &eacute; tamb&eacute;m pelo acesso de todas e todos &agrave; esses alimentos. Estamos conseguindo vender os hortifrutis a pre&ccedil;o de custo. Isso, al&eacute;m de fomentar a produ&ccedil;&atilde;o nos acampamentos e assentamentos, garante o acesso da popula&ccedil;&atilde;o &agrave; uma alimenta&ccedil;&atilde;o org&acirc;nica e livre de agrot&oacute;xicos&quot;, finaliza.&nbsp;</p>
 
 <p><br />
 * A feira acontece todas as ter&ccedil;as-feiras das 10h &agrave;s 13h,&nbsp;na Alameda Eduardo Prado, 499, Campos El&iacute;seos, regi&atilde;o central da cidade de S&atilde;o Paulo.&nbsp;</p>
