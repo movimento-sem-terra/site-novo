@@ -42,7 +42,7 @@ section: cover
 <div class="_1DZAH _2Pjvv" role="button">&nbsp;</div>
 
 <div role="button"><br />
-<em><strong>Da P&aacute;gina do MST </strong></em></div>
+<em>Da P&aacute;gina do MST </em></div>
 
 <div role="button"><br />
 <br />
