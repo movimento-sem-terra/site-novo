@@ -5,7 +5,7 @@ tags:
   - tag: armazem-do-campo
   - tag: alimentos-saudáveis
 title: "Armazém do Campo-SP realiza feira de alimentos orgânicos a preço de custo "
-support_line: Todas as terças-feiras a loja recebe hortifrutis orgânicos vindos de acampamento e assentamentos da grande São Paulo
+support_line: Todas as terças-feiras a loja recebe hortifrutis orgânicos vindos de acampamentos e assentamentos da grande São Paulo
 images_hd: //farm2.staticflickr.com/1814/29247219997_b1f6f8eb17_b.jpg
 menu: reforma agrária
 layout: post
@@ -41,7 +41,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><strong><em>Da P&aacute;gina do MST </em></strong></p>
+<p><em>Da P&aacute;gina do MST </em></p>
 
 <p><br />
 Frutas e verduras sem agrot&oacute;xicos, saborosas e com pre&ccedil;os acess&iacute;veis. &Eacute; isso o que voc&ecirc; vai poder encontrar todas as ter&ccedil;as-feiras, das 10h &agrave;s 13h, no <a href="https://www.facebook.com/ArmazemDoCampoProdutosDaTerra/">Armaz&eacute;m do Campo-SP</a>.</p>
@@ -63,20 +63,3 @@ Em rela&ccedil;&atilde;o ao debate entre alimentos org&acirc;nicos e pre&ccedil;
 
 <p><br />
 * A feira acontece todas as ter&ccedil;as-feiras das 10h &agrave;s 13h,&nbsp;na Alameda Eduardo Prado, 499, Campos El&iacute;seos, regi&atilde;o central da cidade de S&atilde;o Paulo.&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><br />
-&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
