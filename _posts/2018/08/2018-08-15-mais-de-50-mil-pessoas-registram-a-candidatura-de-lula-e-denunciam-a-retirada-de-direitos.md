@@ -6,7 +6,7 @@ title: Mais de 50 mil pessoas registram a candidatura de Lula e denunciam a reti
 support_line: Marcha Nacional Lula Livre faz história na defesa dos direitos do povo
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1773/29120348257_af2df4fa7e_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm2.staticflickr.com/1773/29120348257_af2df4fa7e_b.jpg
