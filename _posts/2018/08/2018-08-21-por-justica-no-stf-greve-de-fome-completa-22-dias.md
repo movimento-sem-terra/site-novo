@@ -21,13 +21,13 @@ created_date: "2018-08-21T16:56:09-03:00"
 published: true
 releated_posts:
   - _posts/2018/05/2018-05-30-a-classe-trabalhadora-e-quem-move-as-estruturas.md
-  - _posts/2018/07/2018-07-30-pela-liberdade-de-lula-militantes-iniciam-greve-de-fome-e-cobram-justica-no-stf.md
   - _posts/2018/07/2018-07-31-movimentos-populares-iniciam-greve-de-fome-no-stf-nesta-terca-feira.md
   - _posts/2018/07/2018-08-01-com-repressao-do-stf-movimentos-populares-dao-inicio-a-greve-de-fome-em-brasilia.md
   - _posts/2018/08/2018-08-01-brasilia-2o-dia-da-greve-de-fome-por-justica-no-stf.md
   - _posts/2018/08/2018-08-04-solidariedade-grevistas-recebem-visita-de-manuela-d-avila-e-eugenio-aragao.md
   - _posts/2018/08/2018-08-04-via-campesina-internacional-se-solidariza-com-militantes-em-greve-de-fome.md
   - _posts/2018/08/2018-08-06-uma-semana-de-greve-de-fome-stf-e-responsavel-por-vidas-de-militantes.md
+section: cover
 
 ---
 <div class="_3zJZ2">
@@ -54,7 +54,7 @@ Parlamento, m&iacute;dia, capital financeiro e setores da justi&ccedil;a tamb&ea
 
 <div role="button"><br />
 <br />
-Jaime Amorim (58), membro da dire&ccedil;&atilde;o do MST e da Via Campesina reafirma sua op&ccedil;&atilde;o pol&iacute;tica e den&uacute;ncia a&nbsp;<span data-dobid="hdw">subservi&ecirc;ncia do</span> poder judici&aacute;rio. &ldquo;Passar fome nesta greve &eacute; uma op&ccedil;&atilde;o militante. Passamos fome hoje para que&nbsp; milh&otilde;es de brasileiros e brasileiras n&atilde;o passem fome por n&atilde;o ter comida na mesa&quot;.</div>
+Jaime Amorim (58), membro da dire&ccedil;&atilde;o do MST e da Via Campesina reafirma sua op&ccedil;&atilde;o pol&iacute;tica e den&uacute;ncia a&nbsp;subservi&ecirc;ncia do poder judici&aacute;rio. &ldquo;Passar fome nesta greve &eacute; uma op&ccedil;&atilde;o militante. Passamos fome hoje para que&nbsp; milh&otilde;es de brasileiros e brasileiras n&atilde;o passem fome por n&atilde;o ter comida na mesa&quot;.</div>
 
 <div role="button"><br />
 <br />
@@ -79,15 +79,14 @@ No mesmo sentido se manifesta Rafaela Alves, militante e poeta, atrav&eacute;s d
 
 <div role="button">Em um documento constru&iacute;do pelos Movimentos e Organiza&ccedil;&otilde;es Populares que comp&otilde;em a Greve de Fome, os manifestantes afirmam que a: &ldquo;op&ccedil;&atilde;o por esse gesto extremo de luta decorre da situa&ccedil;&atilde;o pela qual se encontra nossa na&ccedil;&atilde;o&quot;. Para os grevistas, a decis&atilde;o de entrar nessa luta &eacute; motivada pela dor e o sofrimento dos brasileiros e brasileiras.&nbsp;</div>
 
-<div role="button"><br />
+<p role="button"><br />
 <br />
 O documento tamb&eacute;m denuncia o aumento da viol&ecirc;ncia, o abandono de setores e pol&iacute;ticas p&uacute;blicas essenciais, como sa&uacute;de e a educa&ccedil;&atilde;o, a volta das epidemias e da mortalidade de crian&ccedil;as, o aumento do pre&ccedil;o de produtos b&aacute;sicos, como o g&aacute;s de cozinha, comida e combust&iacute;veis; al&eacute;m das tentativas de aniquilamento da soberania nacional atrav&eacute;s da entrega ao capital estrangeiro de bens naturais.<br />
 <br />
 <br />
-<strong>ONU</strong></div>
+<strong>ONU</strong></p>
 
 <div role="button"><br />
-<br />
 Os grevistas est&atilde;o atentos para outro fator que poder&aacute; dar uma guinada na situa&ccedil;&atilde;o. Trata-se da concess&atilde;o de liminar emitida pelo Comit&ecirc; de Direitos Humanos da Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas (ONU), acolhendo pedido da defesa do ex-presidente Lula, determinando ao Estado Brasileiro que &ldquo;tome todas as medidas necess&aacute;rias para permitir que o autor [Lula] desfrute e exercite seus direitos pol&iacute;ticos da pris&atilde;o como candidato nas elei&ccedil;&otilde;es presidenciais de 2018, incluindo acesso apropriado &agrave; imprensa e a membros de seu partido pol&iacute;tico&rdquo; e, tamb&eacute;m, para &ldquo;n&atilde;o impedir que o autor [Lula] concorra nas elei&ccedil;&otilde;es presidenciais de 2018 at&eacute; que todos os recursos pendentes de revis&atilde;o contra sua condena&ccedil;&atilde;o sejam completados em um procedimento justo e que a condena&ccedil;&atilde;o seja final&rdquo;.</div>
 &nbsp;
 
