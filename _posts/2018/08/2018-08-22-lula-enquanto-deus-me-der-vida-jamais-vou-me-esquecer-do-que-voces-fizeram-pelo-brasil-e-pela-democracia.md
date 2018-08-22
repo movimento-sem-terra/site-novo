@@ -8,7 +8,7 @@ menu: lutas e mobilizações
 title: "Lula: \"Enquanto Deus me der vida, jamais vou me esquecer do que vocês fizeram pelo Brasil e pela Democracia\""
 support_line: "Em carta enviada ao MST, o ex-presidente e atual candidato à Presidência da República, agradece o apoio dos Sem Terra "
 section: cover
-images_hd: //farm2.staticflickr.com/1834/44204049911_69988f75bf_b.jpg
+images_hd: //farm2.staticflickr.com/1845/42396974600_de2a9d2e5f_b.jpg
 layout: post
 files:
   - link: //farm2.staticflickr.com/1842/42396402700_3b19bb070c_b.jpg
@@ -25,6 +25,13 @@ files:
     small: //farm2.staticflickr.com/1834/44204049911_69988f75bf_n.jpg
     title: WhatsApp Image 2018-08-22 at 16.37.57.jpeg
     $$hashKey: 05T
+  - link: //farm2.staticflickr.com/1845/42396974600_de2a9d2e5f_b.jpg
+    original: //farm2.staticflickr.com/1845/42396974600_09e1908ce5_o.jpg
+    thumbnail: //farm2.staticflickr.com/1845/42396974600_de2a9d2e5f_t.jpg
+    medium: //farm2.staticflickr.com/1845/42396974600_de2a9d2e5f_z.jpg
+    small: //farm2.staticflickr.com/1845/42396974600_de2a9d2e5f_n.jpg
+    title: índice.jpeg
+    $$hashKey: 0L0
 created_date: "2018-08-22T17:25:11-03:00"
 published: true
 releated_posts:
