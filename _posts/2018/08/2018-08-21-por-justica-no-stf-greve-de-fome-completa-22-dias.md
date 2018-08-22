@@ -27,7 +27,7 @@ releated_posts:
   - _posts/2018/08/2018-08-04-solidariedade-grevistas-recebem-visita-de-manuela-d-avila-e-eugenio-aragao.md
   - _posts/2018/08/2018-08-04-via-campesina-internacional-se-solidariza-com-militantes-em-greve-de-fome.md
   - _posts/2018/08/2018-08-06-uma-semana-de-greve-de-fome-stf-e-responsavel-por-vidas-de-militantes.md
-section: cover
+section: featured-news
 
 ---
 <div class="_3zJZ2">
