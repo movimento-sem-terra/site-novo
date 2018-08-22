@@ -102,3 +102,7 @@ Essa luta &eacute; lembrada pelo paraninfo e amigo da turma, o professor Luiz Fi
 
 <p><br />
 Em 20 anos de exist&ecirc;ncia, o Pronera j&aacute; beneficiou no pa&iacute;s 187 mil acampados e assentados da Reforma Agr&aacute;ria, al&eacute;m de quilombolas e benefici&aacute;rios do Programa Nacional de Cr&eacute;dito Fundi&aacute;rio. Numa metodologia de estudos em regime de altern&acirc;ncia, as aulas oferecidas pela iniciativa ocorrem em sua maioria em universidades federais. De 1998 a 2011, foram realizados 320 cursos de v&aacute;rios n&iacute;veis em parceria com institui&ccedil;&otilde;es de 880 munic&iacute;pios.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva </em></p>
