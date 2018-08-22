@@ -65,6 +65,8 @@ OBS: Est&atilde;o em greve de fome Frei S&eacute;rgio Gorgen, Rafaela Alves, Vil
 <p>&nbsp;</p>
 
 <p>*Roberto Malvezzi (Gog&oacute;) &eacute; escritor, m&uacute;sico, fil&oacute;sofo, te&oacute;logo e consultor da Comiss&atilde;o Pastoral da Terra<br />
-<em>**Editado por Maura Silva </em></p>
+&nbsp;</p>
+
+<p><em>**Editado por Maura Silva </em></p>
 
 <p>&nbsp;</p>
