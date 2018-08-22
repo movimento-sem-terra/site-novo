@@ -34,7 +34,11 @@ releated_posts:
 label: articles
 
 ---
-<p><em>*Roberto Malvezzi (Gog&oacute;)</em></p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Por Roberto Malvezzi (Gog&oacute;)</em></p>
 
 <p>&nbsp;</p>
 
@@ -58,10 +62,9 @@ Se pudesse pedir alguma coisa aos leitores desse texto, eu digo que rezem pelos 
 <p><br />
 OBS: Est&atilde;o em greve de fome Frei S&eacute;rgio Gorgen, Rafaela Alves, Vilmar Pac&iacute;fico, Jaime Amorim, Zon&aacute;lia Santos, Luiz Gonzaga (Geg&ecirc;) e Leonardo Soares.</p>
 
-<p><br />
-* Roberto Malvezzi (Gog&oacute;) &eacute; escritor, m&uacute;sico, fil&oacute;sofo, te&oacute;logo e consultor da Comiss&atilde;o Pastoral da Terra</p>
+<p>&nbsp;</p>
 
-<p><br />
-<em>* Editado por Maura Silva </em></p>
+<p>*Roberto Malvezzi (Gog&oacute;) &eacute; escritor, m&uacute;sico, fil&oacute;sofo, te&oacute;logo e consultor da Comiss&atilde;o Pastoral da Terra<br />
+<em>**Editado por Maura Silva </em></p>
 
 <p>&nbsp;</p>
