@@ -31,6 +31,7 @@ releated_posts:
   - _posts/2018/08/2018-08-07-grevistas-de-fome-vao-ao-stf-solicitar-audiencias-com-ministros.md
   - _posts/2018/08/2018-08-06-a-musica-alimenta-indiana-nomma-encanta-militantes-grevistas-por-justica-no-stf.md
   - _posts/2018/08/2018-08-08-jaime-amorim-greve-de-fome-em-nome-da-esperanca.md
+label: articles
 
 ---
 <p><em>*Roberto Malvezzi (Gog&oacute;)</em></p>
