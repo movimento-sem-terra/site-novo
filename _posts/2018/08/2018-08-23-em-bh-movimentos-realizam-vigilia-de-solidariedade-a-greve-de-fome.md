@@ -44,7 +44,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="photo5179519040882845671.jpg" height="466" src="//farm2.staticflickr.com/1833/42410559930_fb28301658_b.jpg" width="700" />
-<figcaption>Foto: Dowglas Silva</figcaption>
+<figcaption><em>Foto: Dowglas Silva</em></figcaption>
 </figure>
 </div>
 
@@ -55,21 +55,16 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Na noite da &uacute;ltima segunda-feira (20), movimentos populares organizados na Frente Brasil Popular<br />
-iniciaram uma vig&iacute;lia de solidariedade &agrave; greve de fome por justi&ccedil;a no Superior Tribunal Federal.</p>
+<p>Na noite da &uacute;ltima segunda-feira (20), movimentos populares organizados na Frente Brasil Popular&nbsp;iniciaram uma vig&iacute;lia de solidariedade &agrave; greve de fome por justi&ccedil;a no Superior Tribunal Federal.</p>
 
 <p><br />
 Segundo &Ecirc;nio Bohnenberger, da coordena&ccedil;&atilde;o nacional do MST, o que tem sido feito com o ex-presidente &eacute; uma grande injusti&ccedil;a. Por isso, a intensa mobiliza&ccedil;&atilde;o dos movimentos nas denuncias dessas arbitrariedades.</p>
 
 <p><br />
-&quot;Ele n&atilde;o cometeu crime algum e precisa ser livre, como bem foi declarado pela Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas (ONU). Por isso, a vig&iacute;lia &eacute; em solidariedade &agrave; Lula e os sete grevistas que denunciam esse processo&quot;, afirma Bohnenberger.</p>
+&quot;Ele n&atilde;o cometeu crime algum e precisa ser livre, como bem foi declarado pela Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas&nbsp;(ONU). Por isso, a vig&iacute;lia &eacute; em solidariedade &agrave; Lula e os sete grevistas que denunciam esse processo&quot;, afirma Bohnenberger.</p>
 
 <p><br />
-Com velas e faixas, a demonstra&ccedil;&atilde;o de apoio e solidariedade &agrave; greve de fome tamb&eacute;m tem o<br />
-objetivo de pressionar a presidente do STF, a ministra Carmen L&uacute;cia, a colocar em pauta as<br />
-A&ccedil;&otilde;es Declarat&oacute;rias de Constitucionalidade (ADC), que questionam a possibilidade de pris&atilde;o<br />
-ap&oacute;s condena&ccedil;&atilde;o em segunda inst&acirc;ncia e possibilitariam a soltura do preso pol&iacute;tico e candidato<br />
-&agrave; presid&ecirc;ncia Lu&iacute;s In&aacute;cio Lula da Silva.</p>
+Com velas e faixas, a demonstra&ccedil;&atilde;o de apoio e solidariedade &agrave; greve de fome tamb&eacute;m tem o&nbsp;objetivo de pressionar a presidente do STF, a ministra Carmen L&uacute;cia, a colocar em pauta as&nbsp;A&ccedil;&otilde;es Declarat&oacute;rias de Constitucionalidade (ADC), que questionam a possibilidade de pris&atilde;o&nbsp;ap&oacute;s condena&ccedil;&atilde;o em segunda inst&acirc;ncia e possibilitariam a soltura do preso pol&iacute;tico e candidato&nbsp;&agrave; presid&ecirc;ncia Lu&iacute;s In&aacute;cio Lula da Silva.</p>
 
 <p><br />
 Para S&ocirc;nia Maria, do Movimento dos Atingidos por Barragens (MAB), a greve de fome &eacute; mais um instrumento de press&atilde;o para que essa vota&ccedil;&atilde;o da ADC seja feita pela ministra.</p>
@@ -78,13 +73,10 @@ Para S&ocirc;nia Maria, do Movimento dos Atingidos por Barragens (MAB), a greve 
 Iniciada em dia 31 de julho, a Greve de Fome por Justi&ccedil;a no Supremo Tribunal Federal (STF) j&aacute; dura 23 dias. Os militantes Jaime Amorim, Vilmar Pac&iacute;fico e Zon&aacute;lia Santos, do Movimento dos Trabalhadores Rurais Sem Terra (MST), Rafaela Alves e o Frei Sergio G&ouml;rgen, do Movimento dos Pequenos Agricultores (MPA),&nbsp; Luiz Gonzaga Silva, o Geg&ecirc;, da Central de Movimentos Populares (CMP) e Leonardo Soares, do Levante Popular da Juventude, que se juntou ap&oacute;s uma semana de greve, j&aacute; mostram sinais de fraqueza e fadiga.</p>
 
 <p><br />
-No entanto, as visitas e a solidariedade nos atos inter-religiosos que acontecem todos os dias na frente do STF, os mant&eacute;m firme em seu prop&oacute;sito. Todos eles mant&eacute;m muita lucidez naquilo em que<br />
-acreditam. A consolida&ccedil;&atilde;o da consci&ecirc;ncia, a s&iacute;ntese do discurso nesse momento, afirma Sonia.</p>
+No entanto, as visitas e a solidariedade nos atos inter-religiosos que acontecem todos os dias na frente do STF,&nbsp; os mant&eacute;m firme em seu prop&oacute;sito. Todos eles mant&eacute;m muita lucidez naquilo em que&nbsp;acreditam. A consolida&ccedil;&atilde;o da consci&ecirc;ncia, a s&iacute;ntese do discurso nesse momento, afirma Sonia.</p>
 
 <p><br />
-Em Belo Horizonte, a onda de solidariedade em apoio aos grevistas ocorrer&aacute; todos os dias, a<br />
-partir das 18h, em frente ao Pal&aacute;cio da Justi&ccedil;a.</p>
+Em Belo Horizonte, a onda de solidariedade em apoio aos grevistas ocorrer&aacute; todos os dias, a&nbsp;partir das 18h, em frente ao Pal&aacute;cio da Justi&ccedil;a.</p>
 
-<p>&nbsp;</p>
-
-<p><em>*Editado por Maura SIlva </em></p>
+<p><br />
+<em>*Editado por Maura SIlva </em></p>
