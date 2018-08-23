@@ -43,7 +43,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Os 30 anos de luta do MST em Minas Gerais ser&aacute; tema da edi&ccedil;&atilde;o deste ano da Jornada Universit&aacute;ria da Reforma Agr&aacute;ria (JURA), que acontece entre os dias 22 e 25/8, na Universidade Federal de Vi&ccedil;osa (UFV). A luta pela terra e o direito &agrave; educa&ccedil;&atilde;o do campo s&atilde;o alguns dos debates que acontecer&atilde;o durante o evento.&nbsp;</p>
+<p>Os 30 anos de luta do MST em Minas Gerais ser&aacute; tema da edi&ccedil;&atilde;o deste ano da <a href="https://www.facebook.com/events/1895429994084359/">Jornada Universit&aacute;ria da Reforma Agr&aacute;ria (JURA)</a>, que acontece entre os dias 22 e 25/8, na Universidade Federal de Vi&ccedil;osa (UFV). A luta pela terra e o direito &agrave; educa&ccedil;&atilde;o do campo s&atilde;o alguns dos debates que acontecer&atilde;o durante o evento.&nbsp;</p>
 
 <p><br />
 A JURA parte do princ&iacute;pio de que a constru&ccedil;&atilde;o da Reforma Agr&aacute;ria requer a partilha das mem&oacute;rias, das exist&ecirc;ncias e resist&ecirc;ncias das lutas, conquistas e projetos para o futuro.</p>
