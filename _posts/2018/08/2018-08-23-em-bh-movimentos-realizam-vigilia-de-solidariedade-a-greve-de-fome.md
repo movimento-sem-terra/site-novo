@@ -44,7 +44,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="photo5179519040882845671.jpg" height="466" src="//farm2.staticflickr.com/1833/42410559930_fb28301658_b.jpg" width="700" />
-<figcaption>Divulga&ccedil;&atilde;o MST</figcaption>
+<figcaption>Foto: Dowglas Silva</figcaption>
 </figure>
 </div>
 
@@ -83,8 +83,7 @@ acreditam. A consolida&ccedil;&atilde;o da consci&ecirc;ncia, a s&iacute;ntese d
 
 <p><br />
 Em Belo Horizonte, a onda de solidariedade em apoio aos grevistas ocorrer&aacute; todos os dias, a<br />
-partir das 18h, em frente ao Pal&aacute;cio da Justi&ccedil;a. Na sexta-feira, 24, a Vig&iacute;lia ser&aacute; em frente ao<br />
-apartamento da Ministra do STF, Carm&eacute;n Lucia.</p>
+partir das 18h, em frente ao Pal&aacute;cio da Justi&ccedil;a.</p>
 
 <p>&nbsp;</p>
 
