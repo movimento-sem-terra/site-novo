@@ -24,7 +24,7 @@ files:
     title: image.png
     $$hashKey: "057"
 created_date: "2018-08-23T10:19:00-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/04/2018-04-12-no-rio-grande-do-norte-a-5-jornada-universitaria-denuncia-a-criminalizacao-do-movimento-populares.md
   - _posts/2018/04/2018-04-18-universitarios-de-todo-pais-participam-da-jornada-universitaria-em-defesa-da-reforma-agraria.md
@@ -34,13 +34,23 @@ releated_posts:
   - _posts/2018/03/2018-03-09-trabalhadores-rurais-sao-atacados-por-jaguncos-no-norte-de-minas-gerais.md
 
 ---
-<p>Por Matheus Teixeira Batista<br />
-Da P&aacute;gina do MST</p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Por Matheus Teixeira Batista<br />
+Da P&aacute;gina do MST</em></p>
+
+<p>&nbsp;</p>
 
 <p>Os 30 anos de luta do MST em Minas Gerais ser&aacute; tema da edi&ccedil;&atilde;o deste ano da Jornada Universit&aacute;ria da Reforma Agr&aacute;ria (JURA), que acontece entre os dias 22 e 25/8, na Universidade Federal de Vi&ccedil;osa (UFV). A luta pela terra e o direito &agrave; educa&ccedil;&atilde;o do campo s&atilde;o alguns dos debates que acontecer&atilde;o durante o evento.&nbsp;</p>
 
 <p><br />
 A JURA parte do princ&iacute;pio de que a constru&ccedil;&atilde;o da Reforma Agr&aacute;ria requer a partilha das mem&oacute;rias, das exist&ecirc;ncias e resist&ecirc;ncias das lutas, conquistas e projetos para o futuro.</p>
+
+<figure class="image" style="float:left"><img alt="image.png" height="426" src="//farm2.staticflickr.com/1894/43311540075_4bf7875206_b.jpg" width="300" />
+<figcaption><em>Cartaz de divulga&ccedil;&atilde;o do JURA 2018.</em></figcaption>
+</figure>
 
 <p><br />
 A Jornada traz tamb&eacute;m o chamado para a constru&ccedil;&atilde;o da unidade pol&iacute;tica na luta pela terra e pelo territ&oacute;rio, entre as popula&ccedil;&otilde;es camponesas, ind&iacute;genas e quilombolas. &ldquo;Unificar as lutas significa ampliar o entendimento pol&iacute;tico do que deve ser uma Reforma Agr&aacute;ria efetivamente popular, protagonizada por todos os povos do campo e da cidade, constituindo assim a unidade na diversidade&rdquo;, explica Valdinei Siqueira, da dire&ccedil;&atilde;o do MST na Zona da Mata e morador do Assentamento Olga Ben&aacute;rio.</p>
@@ -61,8 +71,8 @@ O encerramento acontecer&aacute; com o Terreiro Cultural, no Assentamento Olga B
 A jornada &eacute; aberta. Todos e todas est&atilde;o convidados. Somente nas chamadas Partilhas de Experi&ecirc;ncia &eacute; recomendada a <a href="http://goo.gl/p68iuu">inscri&ccedil;&atilde;o</a> pr&eacute;via.</p>
 
 <p><br />
-CPrograma&ccedil;&atilde;o <a href="http://goo.gl/yYQETL">completa</a><br />
-Inscri&ccedil;&otilde;es&nbsp;<br />
-<br />
-V&iacute;deo de chamada da edi&ccedil;&atilde;o 2018:<br />
-&nbsp;goo.gl/ez4bb2</p>
+Confira&nbsp;a programa&ccedil;&atilde;o <a href="http://goo.gl/yYQETL">completa</a>&nbsp;e o <a href="http://goo.gl/ez4bb2">v&iacute;deo de chamada</a> da&nbsp;edi&ccedil;&atilde;o 2018 da Jornada Universit&aacute;ria da Reforma Agr&aacute;ria.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Wesley Lima</em></p>
