@@ -38,13 +38,13 @@ Da P&aacute;gina do MST</em><em> </em></p>
 
 <p>&nbsp;</p>
 
-<p>Durante o &uacute;ltimo per&iacute;odo muito tem se falado em A&ccedil;&otilde;es Declarat&oacute;rias de Constitucionalidade, as famosas (ADCs). A sigla - at&eacute; ent&atilde;o pouco conhecida fora da esfera jur&iacute;dica - ganhou visibilidade ap&oacute;s se tornar um dos recursos para a soltura do ex-presidente e atual candidato &agrave; presid&ecirc;ncia Luiz In&aacute;cio Lula da Silva.&nbsp;</p>
+<p>Durante o &uacute;ltimo per&iacute;odo muito tem se falado em A&ccedil;&otilde;es Declarat&oacute;rias de Constitucionalidade, as famosas (ADCs). A sigla - at&eacute; ent&atilde;o pouco conhecida fora da esfera jur&iacute;dica - ganhou visibilidade pela sua relev&acirc;ncia social e jur&iacute;dica ap&oacute;s a constata&ccedil;&atilde;o de que seu resultado ter&aacute; efeito direto no processo relacionado ao ex-presidente e atual candidato &agrave; presid&ecirc;ncia Luiz In&aacute;cio Lula da Silva.</p>
 
 <p><br />
 Mas, na pr&aacute;tica, o que s&atilde;o a ADCs e qual a import&acirc;ncia dessa medida para a manuten&ccedil;&atilde;o dos direitos penais no pa&iacute;s?&nbsp;</p>
 
 <p><br />
-Segundo o advogado e integrante do MST, Diego Vedovatto, as ADC&rsquo;s servem para garantir que todo e qualquer cidad&atilde;o brasileiro possa recorrer em liberdade at&eacute; o esgotamento de todas as inst&acirc;ncias.&nbsp;</p>
+Segundo o advogado Diego Vedovatto, as ADC&rsquo;s servem para garantir que todo e qualquer cidad&atilde;o brasileiro possa recorrer em liberdade at&eacute; o esgotamento de todas as inst&acirc;ncias.&nbsp;</p>
 
 <p><br />
 &ldquo;As ADC&rsquo;s dizem respeito a aplica&ccedil;&atilde;o e a vig&ecirc;ncia da presun&ccedil;&atilde;o de inoc&ecirc;ncia no sistema penal brasileiro. O que isso significa na pr&aacute;tica? Toda e qualquer pessoa condenada em 2&deg; inst&acirc;ncia pode aguardar a aprecia&ccedil;&atilde;o dos seus recursos no Superior Tribunal Federal (STF) e Superior Tribunal de Justi&ccedil;a (STJ) em liberdade&rdquo;, afirma Vedovatto.&nbsp;</p>
