@@ -49,7 +49,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Disse a multid&atilde;o: &ldquo;N&atilde;o necessitamos de caridade. O que queremos &eacute; uma justi&ccedil;a que se cumpra e um Direito que nos respeite&rdquo;. Essas foram as palavras de Jos&eacute; Saramago, que escreveu parte do pref&aacute;cio do livro Terra, lan&ccedil;ado em 1997, com fotos de Sebasti&atilde;o Salgado.&nbsp;</p>
+<p>&quot;Disse a multid&atilde;o: &#39;N&atilde;o necessitamos de caridade. O que queremos &eacute; uma justi&ccedil;a que se cumpra e um Direito que nos respeite&#39;&rdquo;. Essas foram as palavras de Jos&eacute; Saramago, que escreveu parte do pref&aacute;cio do livro Terra, lan&ccedil;ado em 1997, com fotos de Sebasti&atilde;o Salgado.&nbsp;</p>
 
 <p><br />
 Os recursos obtidos com a venda do livro foram usados para a constru&ccedil;&atilde;o da Escola Nacional Florestan Fernandes (ENFF), em Guararema, S&atilde;o Paulo, onde recebe, h&aacute; mais de 20 anos depois, o Semin&aacute;rio Nacional Literatura nos Processos de Forma&ccedil;&atilde;o e Educa&ccedil;&atilde;o do MST.</p>
