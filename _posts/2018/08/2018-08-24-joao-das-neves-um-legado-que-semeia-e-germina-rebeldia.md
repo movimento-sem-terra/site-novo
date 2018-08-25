@@ -23,7 +23,7 @@ releated_posts:
   - _posts/2018/05/2018-05-23-perdemos-um-dos-grandes-jornalistas-deste-pais.md
   - _posts/2018/05/2018-05-24-nota-de-solidariedade-do-mst-ceara.md
   - _posts/2018/04/2018-04-18-o-mst-presta-solidariedade-a-familia-de-nossa-dirigente-lucineia-duraes-apos-a-tragico-assassinato-de-seu-pai-joao-francisco-do-rosario.md
-section: featured-news
+section: cover
 
 ---
 <div>&nbsp;</div>
