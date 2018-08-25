@@ -7,7 +7,7 @@ tags:
 menu: lutas e mobilizações
 title: "Lula: \"Enquanto Deus me der vida, jamais vou me esquecer do que vocês fizeram pelo Brasil e pela Democracia\""
 support_line: "Em carta enviada ao MST, o ex-presidente e atual candidato à Presidência da República, agradece o apoio dos Sem Terra "
-section: cover
+section: featured-news
 images_hd: //farm2.staticflickr.com/1845/42396974600_de2a9d2e5f_b.jpg
 layout: post
 files:
