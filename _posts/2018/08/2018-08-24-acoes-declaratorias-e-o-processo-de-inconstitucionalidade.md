@@ -53,13 +53,13 @@ Segundo o advogado Diego Vedovatto, as ADC&rsquo;s servem para garantir que todo
 Segundo o advogado, essa &eacute; a sistem&aacute;tica do processo penal brasileiro que, quando negada, coloca em risco as liberdades individuas de cada cidad&atilde;o.&nbsp;</p>
 
 <p><br />
-&nbsp;&quot;Recentemente o Supremo mudou seu entendimento para autorizar que no meio do processo, ou seja, ap&oacute;s o julgamento em 2&deg; inst&acirc;ncia, j&aacute; seria poss&iacute;vel o inicio do cumprimento provis&oacute;rio de pena. Essa n&atilde;o &eacute; uma discuss&atilde;o sobre&nbsp; um caso individual, mas sim sobre a vig&ecirc;ncia de uma fundamental garantia constitucional, que &eacute; a presun&ccedil;&atilde;o de inoc&ecirc;ncia, para todos os cidad&atilde;os brasileiros&rdquo;, pontua.&nbsp;</p>
+&nbsp;&quot;Recentemente o Supremo mudou seu entendimento para autorizar que no meio do processo, ou seja, ap&oacute;s o julgamento em 2&deg; inst&acirc;ncia, j&aacute; &eacute;&nbsp;poss&iacute;vel o inicio do cumprimento provis&oacute;rio de pena. &Eacute;&nbsp;importante ressaltar aqui que essa n&atilde;o &eacute; uma discuss&atilde;o sobre&nbsp;um caso individual, mas, sim, sobre a vig&ecirc;ncia de uma fundamental garantia constitucional, que &eacute; a presun&ccedil;&atilde;o de inoc&ecirc;ncia, para todos os cidad&atilde;os brasileiros&rdquo;, pontua.&nbsp;</p>
 
 <p><br />
 <strong>Consequ&ecirc;ncias</strong>&nbsp;</p>
 
 <p><br />
-A n&atilde;o vota&ccedil;&atilde;o das ADC&rsquo;s tamb&eacute;m simbolizam um grande retrocesso no j&aacute; sucateado sistema carcer&aacute;rio brasileiro. Segundo o levantamento do Conselho Nacional de Justi&ccedil;a (CNJ) atualmente existem 654.372 presos. Desse n&uacute;mero um quarto &ndash; cerca de 150 a 200 mil presos &ndash; est&atilde;o condenados em 2&deg; inst&acirc;ncia, mas aguardam julgamento de recurso nas inst&acirc;ncias superiores.&nbsp;</p>
+A n&atilde;o vota&ccedil;&atilde;o das ADC&rsquo;s tamb&eacute;m simbolizam um grande retrocesso no j&aacute; sucateado sistema carcer&aacute;rio brasileiro. Segundo o levantamento do Conselho Nacional de Justi&ccedil;a (CNJ) atualmente existem 654.372 presos. Desse n&uacute;mero um quarto &ndash; cerca de 150 a 200 mil presos &ndash; est&atilde;o condenados em 2&deg; inst&acirc;ncia, mas aguardam julgamento de recurso em tribunais&nbsp;superiores.&nbsp;</p>
 
 <p><br />
 Ainda para Vedovatto: &ldquo;O grande problema &eacute; que se as inst&acirc;ncias superiores reconhecerem a possibilidade de provimento ao recurso, ou seja, se o STF e o STJ tiverem entendimento diferente das inst&acirc;ncias de primeiro e segundo grau, essas pessoas ter&atilde;o passado um tempo presas injustamente e n&atilde;o h&aacute; nenhuma forma de reparar isso&rdquo;.&nbsp;</p>
