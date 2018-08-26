@@ -40,6 +40,7 @@ releated_posts:
   - _posts/2018/06/2018-06-11-agricultor-lanca-livro-de-poesias-para-falar-sobre-resistencia-e-a-luta-pela-terra.md
   - _posts/2018/06/2018-06-21-chico-buarque-e-martinho-da-vila-convocam-para-o-festival-lula-livre.md
   - _posts/2017/12/2017-12-17-primeira-copa-da-reforma-agraria-e-lancada-no-ceara.md
+section: featured-news
 
 ---
 <div style="text-align:center">
