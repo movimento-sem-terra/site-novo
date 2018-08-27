@@ -54,12 +54,18 @@ files:
     $$hashKey: 09D
 created_date: "2018-08-25T13:03:47-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/08/2018-08-23-em-bh-movimentos-realizam-vigilia-de-solidariedade-a-greve-de-fome.md
+  - _posts/2018/08/2018-08-22-grevista-de-fome-passa-mal-durante-ato-inter-religioso-em-frente-ao-stf.md
+  - _posts/2018/08/2018-08-21-por-justica-no-stf-greve-de-fome-completa-22-dias.md
+  - _posts/2018/08/2018-08-22-a-greve-de-fome-e-pratica-dos-moralmente-grandes.md
+  - _posts/2018/08/2018-08-23-apos-23-dias-grevistas-sao-recebidos-por-rosa-weber.md
+  - _posts/2018/08/2018-08-16-grevistas-por-justica-no-stf-recebem-haddad-e-partipam-de-ato-publico.md
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-08-25 at 12.43.00.jpeg" height="466" src="//farm2.staticflickr.com/1856/43353797475_a92c685e3b_b.jpg" width="700" />
-<figcaption>Fotos Leonardo Milano</figcaption>
+<figcaption><em>Fotos: Leonardo Milano</em></figcaption>
 </figure>
 </div>
 
