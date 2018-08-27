@@ -51,7 +51,7 @@ Na manh&atilde; desta segunda-feira (27), a prefeitura de Rio Bonito do Igua&cce
 Esta &eacute; a segunda ocupa&ccedil;&atilde;o da prefeitura neste ano de 2018. A pauta segue na mesma linha da anterior, em que a infraestrutura direcionada para a quest&atilde;o da educa&ccedil;&atilde;o, est&aacute; na centralidade do debate. Principalmente no que se refere a adequa&ccedil;&atilde;o e cascalhamento imediato dos 150 km de estrada que s&atilde;o linhas escolares no Acampamento Herdeiros da Terra de Primeiro de Maio.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="image_6483441.JPG" height="512" src="//farm2.staticflickr.com/1855/44308828421_f05ca34630_b.jpg" width="450" />
-<figcaption></figcaption>
+<figcaption><em>Foto: Comunica&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 
 <p><br />
