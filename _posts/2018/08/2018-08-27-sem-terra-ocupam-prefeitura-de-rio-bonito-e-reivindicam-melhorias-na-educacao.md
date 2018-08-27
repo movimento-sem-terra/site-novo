@@ -41,7 +41,7 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Por Jaime Amorim&nbsp;<br />
+<p><em>Por Jaine Amorim&nbsp;<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
