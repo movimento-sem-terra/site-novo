@@ -20,7 +20,7 @@ files:
     title: CARTAZ web.jpeg
     $$hashKey: 0D2
 created_date: "2018-08-11T12:30:40-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/08/2018-08-11-primeiro-dia-da-marcha-na-coluna-prestes.md
   - _posts/2018/08/2018-08-11-marcha-lula-livre-inicia-com-atos-politicos.md
