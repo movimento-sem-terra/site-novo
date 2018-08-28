@@ -20,6 +20,7 @@ files:
 created_date: "2018-08-28T12:11:41-03:00"
 published: true
 releated_posts: []
+label: articles
 
 ---
 <p>&nbsp;</p>
