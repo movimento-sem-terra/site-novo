@@ -28,6 +28,7 @@ releated_posts:
   - _posts/2018/08/2018-08-08-jaime-amorim-greve-de-fome-em-nome-da-esperanca.md
   - _posts/2018/07/2018-08-01-com-repressao-do-stf-movimentos-populares-dao-inicio-a-greve-de-fome-em-brasilia.md
   - _posts/2018/08/2018-08-21-por-justica-no-stf-greve-de-fome-completa-22-dias.md
+label: articles
 
 ---
 <p>&nbsp;</p>
