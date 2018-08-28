@@ -19,7 +19,11 @@ files:
     $$hashKey: 02P
 created_date: "2018-08-28T12:11:41-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/06/2018-06-28-cartas-para-lula-marcam-o-inicio-da-caravana-sem-terra-em-alagoas.md
+  - _posts/2018/07/2018-07-10-lula-a-stedile-a-partir-de-janeiro-vamos-mudar-o-brasil.md
+  - _posts/2018/07/2018-07-15-em-ato-que-antecedeu-o-foro-de-sao-paulo-militantes-pedem-a-liberdade-de-lula.md
+  - _posts/2018/07/2018-07-18-foro-de-sao-paulo-tem-espaco-inedito-para-escuta-de-redes-e-movimentos-populares.md
 label: articles
 
 ---
