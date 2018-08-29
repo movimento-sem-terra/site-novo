@@ -25,6 +25,7 @@ releated_posts:
   - _posts/2018/05/2018-05-08-critico-gastronomico-elogia-feira-do-mst-nas-redes-e-perde-mais-de-mil-seguidores.md
   - _posts/2018/05/2018-05-15-ha-38-nascia-o-jornal-sem-terra.md
   - _posts/2018/03/2018-03-26-movimentos-populares-se-reunem-no-1-seminario-de-comunicacao-popular-do-ceara.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
