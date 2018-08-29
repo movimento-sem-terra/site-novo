@@ -7,7 +7,7 @@ title: "Com certeza de dever cumprido, ativistas encerram greve de fome\n"
 support_line: "Depois de 26 dias de ato, grevistas conclamam povo a seguir mobilizado, construindo a resistência democrática a partir das ruas\n"
 images_hd: //farm2.staticflickr.com/1858/30392745608_7799a80867_b.jpg
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm2.staticflickr.com/1878/29323679017_3b2325793b_b.jpg
