@@ -38,6 +38,7 @@ releated_posts:
   - _posts/2018/05/2018-05-07-rosana-maria-sou-lgbt-e-ponto-final.md
   - _posts/2018/05/2018-05-17-no-dia-internacional-contra-a-homofobia-entidades-lancam-manifesto-pela-igualdade-e-contra-a-violencia.md
   - _posts/2018/05/2018-05-18-sem-terra-soma-se-ao-mutirao-de-solidariedade-para-populacao-lgbt-do-df-e-entorno.md
+section: cover
 
 ---
 <p>&nbsp;</p>
@@ -95,8 +96,7 @@ Nesta data, Maysa acredita que &eacute; fundamental visibilizar os sujeitos LGBT
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_4045.jpg" height="467" src="//farm2.staticflickr.com/1852/44350574581_d3782832fa_b.jpg" width="700" />
-<figcaption><em>&nbsp;Celinha e Gelda vivem em &aacute;rea de assentamento do MST no munic&iacute;pio de Areia, na Para&iacute;ba. Foto: Rafael Stedile</em><br />
-</figcaption>
+<figcaption><em>&nbsp;Celinha e Gelda vivem em &aacute;rea de assentamento do MST no munic&iacute;pio de Areia, na Para&iacute;ba. Foto: Rafael Stedile</em></figcaption>
 </figure>
 </div>
 
