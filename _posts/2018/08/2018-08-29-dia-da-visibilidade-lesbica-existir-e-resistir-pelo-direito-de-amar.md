@@ -51,8 +51,7 @@ section: cover
 
 <p>&nbsp;</p>
 
-<p><em>Por Wesley Lima&nbsp;<br />
-Da P&aacute;gina do MST</em></p>
+<p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 &ldquo;Somos sobreviventes desta sociedade que mata LGBT todos os dias&rdquo;, afirma Maysa Mathias, negra, l&eacute;sbica e integrante do Coletivo LGBT Sem Terra, ao reconhecer o Dia Nacional da Visibilidade L&eacute;sbica, 29 de agosto, como uma data necess&aacute;ria numa sociedade onde falar de amor entre mulheres &eacute; um ato de resist&ecirc;ncia cotidiana.</p>
