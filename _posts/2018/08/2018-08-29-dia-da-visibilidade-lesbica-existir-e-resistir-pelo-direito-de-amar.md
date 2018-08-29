@@ -87,7 +87,7 @@ O dossi&ecirc; revela tamb&eacute;m que, enquanto em 2000 foram dois casos regis
 Assim como Maysa, diversas s&atilde;o as l&eacute;sbicas Sem Terra, que compreendem o campo da luta contra a lesbofobia como fundamental para a constru&ccedil;&atilde;o de uma sociedade mais humana. Esse tem sido um dos debates realizados pelo Coletivo LGBT Sem Terra.</p>
 
 <p><br />
-Oficializado em 2018, como um coletivo que articula, elabora e pensa a luta em defesa Reforma Agr&aacute;ria Popular nas dire&ccedil;&otilde;es do MST, tem garantido a participa&ccedil;&atilde;o de L&eacute;sbicas, Gays, Bissexuais, Travestis e Transexuais Sem Terra no todo do Movimento.</p>
+Oficializado em 2018, como um dos&nbsp;coletivos que articula, elabora e pensa a luta em defesa Reforma Agr&aacute;ria Popular nas dire&ccedil;&otilde;es do MST, tem garantido a participa&ccedil;&atilde;o de L&eacute;sbicas, Gays, Bissexuais, Travestis e Transexuais Sem Terra no todo do Movimento.</p>
 
 <p><br />
 Nesta data, Maysa acredita que &eacute; fundamental visibilizar os sujeitos LGBT que est&atilde;o na cidade, mas tamb&eacute;m os que est&atilde;o no campo, produzindo alimentos saud&aacute;veis e lutando contra o agroneg&oacute;cio e a LGBTfobia. Para ela, neste e em outros dias &eacute; necess&aacute;rio resistir e existir, &ldquo;sem que sejamos exterminadas em nossas condi&ccedil;&otilde;es. Que possamos amar e ser amadas&rdquo;, conclui.<br />
