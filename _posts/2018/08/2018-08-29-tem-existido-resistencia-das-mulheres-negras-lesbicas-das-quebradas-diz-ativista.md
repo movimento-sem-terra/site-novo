@@ -3,6 +3,7 @@ date: "2018-08-29T14:20:40-03:00"
 tags:
   - tag: visibilidade-lésbica
   - tag: diversidade
+  - tag: lgbt
 title: "\"Tem existido resistência das mulheres negras lésbicas das quebradas\", diz ativista"
 support_line: "Cinthia Abreu, da Marcha Mundial das Mulheres, diz que a luta contra a lesbofobia tem partido das periferias"
 menu: projeto popular
@@ -25,7 +26,12 @@ files:
     $$hashKey: 02V
 created_date: "2018-08-29T14:37:39-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/01/2018-01-30-livro-sobre-diversidade-sexual-e-genero-no-brasil-e-lancado-em-sp.md
+  - _posts/2017/12/2017-12-20-lgbts-sem-terra-realizam-assembleia-encontro-estadual-no-ceara.md
+  - _posts/2018/05/2018-05-07-rosana-maria-sou-lgbt-e-ponto-final.md
+  - _posts/2018/05/2018-05-17-no-dia-internacional-contra-a-homofobia-entidades-lancam-manifesto-pela-igualdade-e-contra-a-violencia.md
+  - _posts/2018/05/2018-05-18-sem-terra-soma-se-ao-mutirao-de-solidariedade-para-populacao-lgbt-do-df-e-entorno.md
 
 ---
 <p>&nbsp;</p>
