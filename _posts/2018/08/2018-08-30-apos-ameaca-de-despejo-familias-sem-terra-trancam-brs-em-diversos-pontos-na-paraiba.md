@@ -48,7 +48,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Ta&iacute;s Peregrino<br />
+<p><em>Por Tha&iacute;s Peregrino<br />
 Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
