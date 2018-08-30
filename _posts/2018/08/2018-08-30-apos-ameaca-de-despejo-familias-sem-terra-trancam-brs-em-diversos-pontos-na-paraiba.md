@@ -3,7 +3,7 @@ date: "2018-08-30T14:33:18-03:00"
 tags:
   - tag: paraíba
   - tag: lutas-e-mobilizações
-title: "Após ameaça de despejo, famílias Sem Terra trancam BRs em diversos pontos na Paraíba"
+title: "Após ameaça de despejo, famílias Sem Terra trancam rodovias na Paraíba"
 support_line: "“O trancamento das vias é a única alternativa para resistir e permanecer na área que já está produzindo”, afirma dirigente do MST"
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1889/44319789952_23ef34deb4_b.jpg
