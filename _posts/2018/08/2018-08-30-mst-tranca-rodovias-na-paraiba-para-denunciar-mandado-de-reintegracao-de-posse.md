@@ -24,7 +24,7 @@ files:
     title: 29407694597_673f55a810_z.jpg
     $$hashKey: 0M3
 created_date: "2018-08-30T12:23:17-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/04/2018-04-02-lideranca-do-mst-e-principal-homenageada-em-premio-de-participacao-social-do-governo.md
   - _posts/2018/04/2018-04-10-mst-ocupa-fazenda-da-familia-do-senador-jose-maranhao-na-pb.md
