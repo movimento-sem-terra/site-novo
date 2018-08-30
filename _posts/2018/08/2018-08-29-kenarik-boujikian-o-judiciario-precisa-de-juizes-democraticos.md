@@ -4,7 +4,7 @@ tags:
   - tag: lula-livre
   - tag: judiciário
   - tag: justiça
-title: "Kenarik Boujikian: O judiciário precisa de juízes democráticos"
+title: "Kenarik Boujikian: \"O judiciário precisa de juízes democráticos\""
 support_line: "Em entrevista concedida a página do MST, Boujikian fala sobre a atuação do Judiciário e sobre como sua seletividade afeta a democracia do país"
 menu: direitos humanos
 section: cover
@@ -19,7 +19,7 @@ files:
     title: "1*HjqmoUYvKL_DPcWwDrRw-w.jpeg"
     $$hashKey: 058
 created_date: "2018-08-29T21:24:29-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/07/2018-07-23-no-ceara-mst-realiza-marcha-por-democracia-e-lula-livre.md
   - _posts/2018/07/2018-07-24-mst-ocupa-incra-no-ceara.md
@@ -33,12 +33,8 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p><em><em>Por Maura Silva<br />
 Da P&aacute;gina do MST&nbsp;</em></em></p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -55,7 +51,6 @@ Acompanhe:</p>
 <strong>Qual o papel e a fun&ccedil;&atilde;o do Judici&aacute;rio no sistema jur&iacute;dico do pa&iacute;s? </strong></p>
 
 <p><br />
-<br />
 O papel do Judici&aacute;rio &eacute; garantir os direitos fundamentais expressos na Constitui&ccedil;&atilde;o Federal de 1988. N&oacute;s temos no texto da Constitui&ccedil;&atilde;o todas as garantias do povo brasileiro em rela&ccedil;&atilde;o ao que ele quer e precisa do pa&iacute;s. &Eacute; l&aacute; tamb&eacute;m que est&aacute; determinado qual &eacute; o papel de cada um dos poderes. O Judici&aacute;rio nada mais &eacute; do que um dos instrumentos de realiza&ccedil;&atilde;o e efetiva&ccedil;&atilde;o do Estado Democr&aacute;tico de Direito.</p>
 
 <p><br />
