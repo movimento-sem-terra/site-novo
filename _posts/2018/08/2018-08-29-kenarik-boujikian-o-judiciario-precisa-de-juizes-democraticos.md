@@ -29,6 +29,7 @@ releated_posts:
   - _posts/2018/08/2018-08-21-por-justica-no-stf-greve-de-fome-completa-22-dias.md
   - _posts/2018/08/2018-08-22-a-greve-de-fome-e-pratica-dos-moralmente-grandes.md
   - _posts/2018/08/2018-08-22-lula-enquanto-deus-me-der-vida-jamais-vou-me-esquecer-do-que-voces-fizeram-pelo-brasil-e-pela-democracia.md
+label: interviews
 
 ---
 <p>&nbsp;</p>
