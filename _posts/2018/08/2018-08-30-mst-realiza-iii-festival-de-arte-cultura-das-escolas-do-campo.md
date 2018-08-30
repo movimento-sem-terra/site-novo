@@ -4,7 +4,7 @@ tags:
   - tag: educação-do-campo
   - tag: ceará
   - tag: arte-e-cultura
-title: "MST Realiza III Festival de Arte Cultura das Escolas do Campo "
+title: "MST realiza III Festival de Arte Cultura das Escolas do Campo "
 support_line: "O Festival de Arte e Cultura ocorre entre os 29 a 31 de agosto, no Ceará e tem como lema “Cultura Arte e Tradição, Salve as manifestações populares de raízes”."
 menu: "educação, cultura e comunicação"
 images_hd: //farm2.staticflickr.com/1874/44370675841_81fac4e1de_b.jpg
@@ -47,7 +47,13 @@ files:
     $$hashKey: "051"
 created_date: "2018-08-30T16:53:12-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/03/2018-03-26-movimentos-populares-se-reunem-no-1-seminario-de-comunicacao-popular-do-ceara.md
+  - _posts/2018/08/2018-08-01-pela-educacao-do-campo-mst-entrega-pauta-de-reivindicacao-em-sao-joaquim-de-bicas-mg.md
+  - _posts/2018/07/2018-07-28-comunidade-luta-contra-o-fechamento-da-escola-construindo-caminho-em-santa-catarina.md
+  - _posts/2018/07/2018-07-24-educadores-do-mst-socializam-experiencias-e-debatem-a-base-nacional-curricular.md
+  - _posts/2018/07/2018-07-20-lancamento-da-campanha-contra-o-fechamento-de-escolas-do-campo.md
+  - _posts/2018/07/2018-07-30-acampamento-maria-da-conceicao-ira-erguer-mais-uma-escola-do-campo-na-regional-metropolitana.md
 
 ---
 <p>&nbsp;</p>
