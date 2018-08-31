@@ -68,7 +68,7 @@ As fam&iacute;lias Sem Terra denunciam que a Investco grilou a &aacute;rea das p
 H&aacute; mais de um ano que as fam&iacute;lias acampadas sofrem amea&ccedil;as de mortes e ataques, seja por a&ccedil;&otilde;es violentas de pistoleiros a mando de fazendeiros que se dizem propriet&aacute;rios da &aacute;rea ocupada e em conflito, seja pelo aparato policial.</p>
 
 <p><br />
-A fam&iacute;lias acampadas j&aacute; registraram ocorr&ecirc;ncias na Delegacia de Repress&atilde;o a Conflitos Agr&aacute;rios e solicitaram apoio na Defensoria Publica Agr&aacute;ria, mas tais a&ccedil;&otilde;es n&atilde;o impediram os ataques dos pistoleiros ao acampamento e nenhuma providencia foi tomada at&eacute; o momento.</p>
+A fam&iacute;lias acampadas j&aacute; registraram ocorr&ecirc;ncias na Delegacia de Repress&atilde;o a Conflitos Agr&aacute;rios e solicitaram apoio na Defensoria Publica Agr&aacute;ria, mas tais a&ccedil;&otilde;es n&atilde;o impediram os ataques dos pistoleiros ao acampamento e nenhuma providencia foi tomada at&eacute; o momento.&nbsp; No entanto, ainda h&aacute; o esfor&ccedil;o da Defensoria P&uacute;blica do Tocantins que tem desempenhado um&nbsp;papel importante na defesa e acompanhamento das quest&otilde;es envolvendo conflitos agr&aacute;rios no estado e que neste caso espec&iacute;fico do Acampamento Clodomir&nbsp;Santos de Morais&nbsp;tem direcionado um grande esfor&ccedil;o.&nbsp;</p>
 
 <p><br />
 <em>*Editado por Iris Pacheco</em></p>
