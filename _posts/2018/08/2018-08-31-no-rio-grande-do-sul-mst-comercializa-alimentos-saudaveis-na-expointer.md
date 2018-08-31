@@ -59,7 +59,9 @@ Da P&aacute;gina do MST</em></p>
 <p>A busca por alimentos saud&aacute;veis est&aacute; em todos os espa&ccedil;os e n&atilde;o &eacute; diferente na 41&ordf; Exposi&ccedil;&atilde;o Internacional de Animais, M&aacute;quinas, Implementos e Produtos Agropecu&aacute;rios (Expointer), no Parque de Exposi&ccedil;&otilde;es Assis Brasil em Esteio, na regi&atilde;o Metropolitana de Porto Alegre, no Rio Grande do Sul.&nbsp;</p>
 
 <p><br />
-A Feira de alimentos na Expointer vai estar aberta at&eacute; domingo (2), com uma variedade de produtos.&nbsp;<br />
+A Feira de alimentos na Expointer vai estar aberta at&eacute; domingo (2), com uma variedade de produtos.&nbsp;</p>
+
+<p><br />
 Os alimentos produzidos pelos camponeses e camponesas que se organizam em diversos movimentos populares e se articulam em torno da Via Campesina est&atilde;o sendo expostos no Pavilh&atilde;o da Agricultura Familiar e levam o selo de produto org&acirc;nico em suas embalagens.&nbsp;</p>
 
 <p><br />
