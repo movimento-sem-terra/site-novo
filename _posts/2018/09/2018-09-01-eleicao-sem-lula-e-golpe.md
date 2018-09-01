@@ -18,7 +18,7 @@ files:
     title: 9026aa83-4e64-4aab-af9a-32774d216103.jpg
     $$hashKey: 0DE
 created_date: "2018-09-01T13:55:17-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/06/2018-06-28-cartas-para-lula-marcam-o-inicio-da-caravana-sem-terra-em-alagoas.md
   - _posts/2018/01/2018-01-23-em-nota-cebise-manifesta-sobre-o-julgamento-de-lula.md
