@@ -27,7 +27,7 @@ releated_posts:
   - _posts/2018/05/2018-05-24-frente-brasil-popular-lanca-manifesto-ao-povo-brasileiro.md
   - _posts/2018/08/2018-08-13-artigo-uma-saida-para-o-brasil.md
   - _posts/2018/02/2018-02-02-golpistas-tentarao-se-legitimar-nessas-eleicoes-diz-advogado-ricardo-gebrim.md
-section: cover
+section: featured-news
 
 ---
 <div>
