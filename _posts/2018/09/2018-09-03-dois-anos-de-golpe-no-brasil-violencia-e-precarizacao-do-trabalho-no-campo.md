@@ -70,8 +70,7 @@ Na pauta agrot&oacute;xicos, com a aprova&ccedil;&atilde;o do &ldquo;pacote do v
 Tudo isso atende&nbsp;diretamente os imperativos do capital, como Bayer / Monsanto, transnacionais produtoras de veneno que enfrentam restri&ccedil;&otilde;es de comercializa&ccedil;&atilde;o na Europa, principalmente sobre o glifosato, justamente por conta dos graves riscos &agrave; sa&uacute;de humana e ambiental.</p>
 
 <p><br />
-As empresas de agrot&oacute;xicos contam ainda com um incremento nos seus lucros devido &agrave; isen&ccedil;&otilde;es e desonera&ccedil;&otilde;es fiscais, como ocorrido no estado de S&atilde;o Paulo que, segundo a Defensoria P&uacute;blica Estadual, deixou de arrecadar R$ 1,2 bilh&atilde;o em 2015, por n&atilde;o taxar as opera&ccedil;&otilde;es<br />
-envolvendo agrot&oacute;xicos.</p>
+As empresas de agrot&oacute;xicos contam ainda com um incremento nos seus lucros devido &agrave; isen&ccedil;&otilde;es e desonera&ccedil;&otilde;es fiscais, como ocorrido no estado de S&atilde;o Paulo que, segundo a Defensoria P&uacute;blica Estadual, deixou de arrecadar R$ 1,2 bilh&atilde;o em 2015, por n&atilde;o taxar as opera&ccedil;&otilde;es envolvendo agrot&oacute;xicos.</p>
 
 <p><br />
 <em>1 - Radar &eacute; uma empresa brasileira incorporadora de terras e imobili&aacute;ria rural, ligada ao grupo Cosan, maior&nbsp;produtor de a&ccedil;&uacute;car do Brasil. A Radar Foi criada em 2008 e apesar de ser uma empresa brasileira, seu maior&nbsp;acionista &eacute; o fundo de investimento TCGA (atrav&eacute;s da Mansilla Participa&ccedil;&otilde;es S/A). (ACTION AID,&nbsp;2017)</em></p>
