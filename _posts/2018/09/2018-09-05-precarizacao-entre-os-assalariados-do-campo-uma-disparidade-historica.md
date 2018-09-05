@@ -18,12 +18,23 @@ files:
     small: //farm2.staticflickr.com/1843/43585140135_7b8f2af109_n.jpg
     title: lavrador-c.jpg
     $$hashKey: 0P3
+  - link: //farm2.staticflickr.com/1887/44494596481_c55a9769bd_b.jpg
+    original: //farm2.staticflickr.com/1887/44494596481_a4d3700fd1_o.jpg
+    thumbnail: //farm2.staticflickr.com/1887/44494596481_c55a9769bd_t.jpg
+    medium: //farm2.staticflickr.com/1887/44494596481_c55a9769bd_z.jpg
+    small: //farm2.staticflickr.com/1887/44494596481_c55a9769bd_n.jpg
+    title: 42667166200_32114ba0d4_b.jpg
+    $$hashKey: 0WR
 created_date: "2018-09-05T13:19:41-03:00"
 published: true
 releated_posts:
   - _posts/2018/03/2018-03-09-trabalhadores-rurais-sao-atacados-por-jaguncos-no-norte-de-minas-gerais.md
 
 ---
+<p><img alt="42667166200_32114ba0d4_b.jpg" height="379" src="//farm2.staticflickr.com/1887/44494596481_c55a9769bd_b.jpg" width="700" /></p>
+
+<p>&nbsp;</p>
+
 <p><em>Por Kelli Mafort*<br />
 Especial para a P&aacute;gina do MST</em></p>
 
