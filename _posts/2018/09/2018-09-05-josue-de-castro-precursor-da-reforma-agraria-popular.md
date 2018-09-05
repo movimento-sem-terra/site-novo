@@ -32,7 +32,7 @@ Especial para P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Nos mangues de Recife, conheceu o ciclo da fome que ligava os homens aos caranguejos. Nos latif&uacute;ndios de Pernambuco, viu a mis&eacute;ria causada pela concentra&ccedil;&atilde;o e que as cercas dividiam n&atilde;o apenas a terra, mas o mundo: entre aqueles comiam e os que n&atilde;o se alimentavam. Investigou, denunciou e combateu a fomes nos cinco continentes.</p>
+<p>Nos mangues de Recife, conheceu o ciclo da fome que ligava os homens aos caranguejos. Nos latif&uacute;ndios de Pernambuco, viu a mis&eacute;ria causada pela concentra&ccedil;&atilde;o e que as cercas dividiam n&atilde;o apenas a terra, mas o mundo: entre aqueles que comiam e os que n&atilde;o se alimentavam. Investigou, denunciou e combateu a fomes nos cinco continentes.</p>
 
 <p><br />
 H&aacute; 110 anos, nascia Josu&eacute; de Castro. Dif&iacute;cil descrev&ecirc;-lo em poucas palavras ou mesmo em uma &uacute;nica profiss&atilde;o. Josu&eacute; foi m&eacute;dico, ge&oacute;grafo, cientista, deputado, romancista, defensor da Reforma Agr&aacute;ria e apoiador das Ligas Camponesas, fundador e primeiro presidente do &oacute;rg&atilde;o das Na&ccedil;&otilde;es Unidas para Alimenta&ccedil;&atilde;o e Agricultura, a FAO.<br />
