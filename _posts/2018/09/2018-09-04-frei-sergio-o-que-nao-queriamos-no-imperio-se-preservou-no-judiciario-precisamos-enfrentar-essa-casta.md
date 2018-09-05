@@ -29,6 +29,7 @@ releated_posts:
   - _posts/2018/08/2018-08-10-marchar-e-uma-forma-de-luta-da-classe-trabalhadora-em-todo-o-mundo.md
   - _posts/2018/08/2018-08-23-apos-23-dias-grevistas-sao-recebidos-por-rosa-weber.md
   - _posts/2018/08/2018-08-11-marcha-lula-livre-inicia-com-atos-politicos.md
+label: interviews
 
 ---
 <div style="text-align:center">
