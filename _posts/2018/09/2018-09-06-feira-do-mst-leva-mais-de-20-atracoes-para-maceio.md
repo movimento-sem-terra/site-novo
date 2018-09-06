@@ -34,7 +34,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="21206505025_47c427a726_o.jpg" height="467" src="//farm2.staticflickr.com/1863/43794739864_5e7569362a_b.jpg" width="700" />
-<figcaption>Legenda</figcaption>
+<figcaption>Bento Forrozeiro foi uma das atra&ccedil;&otilde;es do primeiro dia de Feira&nbsp;</figcaption>
 </figure>
 </div>
 
@@ -52,21 +52,18 @@ Entre as novidades deste ano est&aacute;&nbsp;o Palco Raquel Xukuru-Kariri, que 
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="LRM_EXPORT_113145300091593_20180905_085923664.jpeg" height="253" src="//farm2.staticflickr.com/1874/43603213935_17a86e0635_b.jpg" width="380" />
-<figcaption></figcaption>
+<figcaption>A montagem das barracas come&ccedil;ou logo pela manh&atilde;&nbsp;</figcaption>
 </figure>
 
-<p><strong>Atra&ccedil;&otilde;es </strong><br />
+<p><strong>Atra&ccedil;&otilde;es&nbsp;</strong><br />
 <br />
-Com a presen&ccedil;a do patrim&ocirc;nio vivo da cultura alagoana, Zeza do Coco, a abertura oficial da Feira da Reforma Agr&aacute;ria&nbsp; aconteceu nesta quarta-feira (5),as 1&nbsp;a partir d8 horas, no palco Pra&ccedil;a Central com a apresenta&ccedil;&atilde;o do grupo Afro Dend&ecirc; e o Trio Gogo da Ema para abrilhantar a noite. Ainda formando a programa&ccedil;&atilde;o do Festival desse ano, passam pela Feira o Bumba-Meu-Boi Vingador, Coco de Roda Xod&oacute; Nordestino, al&eacute;m do artista do MST Bento Forrozeiro.</p>
+Com a presen&ccedil;a do patrim&ocirc;nio vivo da cultura alagoana, Zeza do Coco e do&nbsp;o Trio Gogo da Ema,&nbsp;a abertura oficial da Feira da Reforma Agr&aacute;ria&nbsp; aconteceu nesta quarta-feira (5).&nbsp;Completando a noite&nbsp;passaram pelo palco&nbsp;o Bumba-Meu-Boi Vingador, Coco de Roda Xod&oacute; Nordestino, al&eacute;m do artista do MST Bento Forrozeiro.</p>
 
 <p><br />
-Para al&eacute;m dos palcos, o espet&aacute;culo da cultura popular acontece durante no cotidiano da Feira. Carregada de tradi&ccedil;&atilde;o, sua 19&deg; edi&ccedil;&atilde;o traz a express&atilde;o popular no artesanato, na poesia, nos costumes, nas m&uacute;sicas e no semblante de quem faz esse evento acontecer.</p>
-
-<p><br />
-Alimentando a cidade com sa&uacute;de, a Feira da Reforma Agr&aacute;ria abra&ccedil;a a cultura popular como ponto importante de transforma&ccedil;&atilde;o. Para D&eacute;bora Nunes, da coordena&ccedil;&atilde;o nacional do MST, a cultura &eacute; umas das prioridades na realiza&ccedil;&atilde;o da Feira, n&atilde;o podendo assim se limitar apenas a comercializa&ccedil;&atilde;o de alimentos.</p>
+A&nbsp;Feira da Reforma Agr&aacute;ria abra&ccedil;a a cultura popular como ponto importante de transforma&ccedil;&atilde;o. Para D&eacute;bora Nunes, da coordena&ccedil;&atilde;o nacional do MST, a cultura &eacute; umas das prioridades na realiza&ccedil;&atilde;o do evento, n&atilde;o podendo assim, se limitar apenas a comercializa&ccedil;&atilde;o de alimentos.</p>
 
 <p><br />
 &ldquo;A ideia &eacute; poder dizer &agrave; popula&ccedil;&atilde;o alagoana que aqui tem um peda&ccedil;o da Reforma Agr&aacute;ria. &Eacute; isso que a gente quer enquanto projeto e modelo de sociedade, e a cultura faz parte. A gente entende que cultura &eacute; um elemento humanizador e emancipador, por isso essa dimens&atilde;o precisa ser trazida pra Feira.&rdquo;, explicou.</p>
 
 <p><br />
-Veja <a href="https://www.facebook.com/FeiraReformaAgraria/?hc_ref=ARSRJuGTE_3gnvJlEoIEfJXsQzVHp9XnNdfsZTQuxw2WR_4eCLLRevIfb4IBjDxghDY&amp;fref=nf&amp;__xts__[0]=68.ARD-inTlp1q6H7jFaZfFoHtv6PZhRQnwatwJ4rmQBG7depmli3CUtrQa-gq_DbAugHp7htB2Zv7AuwXEUyy3nHyjJLLtEeiG2mB9LnThcY5OxDjPzT92ZgnBQMLYbcKm51PcjQUsR9AyY4v-CAA0ouSqvn8M6-AdU-mcTj8e_JTOx8ZEIYdhPA&amp;__tn__=kCH-R">aqui </a>&nbsp;a programa&ccedil;&atilde;o completa do Festival de Cultura Popular:</p>
+Veja&nbsp;<a href="https://www.facebook.com/FeiraReformaAgraria/?hc_ref=ARSRJuGTE_3gnvJlEoIEfJXsQzVHp9XnNdfsZTQuxw2WR_4eCLLRevIfb4IBjDxghDY&amp;fref=nf&amp;__xts__[0]=68.ARD-inTlp1q6H7jFaZfFoHtv6PZhRQnwatwJ4rmQBG7depmli3CUtrQa-gq_DbAugHp7htB2Zv7AuwXEUyy3nHyjJLLtEeiG2mB9LnThcY5OxDjPzT92ZgnBQMLYbcKm51PcjQUsR9AyY4v-CAA0ouSqvn8M6-AdU-mcTj8e_JTOx8ZEIYdhPA&amp;__tn__=kCH-R">aqui&nbsp;</a>&nbsp;a programa&ccedil;&atilde;o completa do Festival de Cultura Popular:</p>
