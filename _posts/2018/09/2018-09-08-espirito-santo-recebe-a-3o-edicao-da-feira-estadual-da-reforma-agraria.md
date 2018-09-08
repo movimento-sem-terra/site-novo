@@ -83,13 +83,11 @@ Estar&atilde;o dispon&iacute;veis alimentos in natura, agroindustrializados, art
 Al&eacute;m da exposi&ccedil;&atilde;o e venda de produtos que expressam a diversidade da Reforma Agr&aacute;ria Popular,&nbsp;a feira contar&aacute; com espa&ccedil;os dedicados e forma&ccedil;&atilde;o e cultura.&nbsp;</p>
 
 <p><br />
-&Eacute;&nbsp; o caso do Espa&ccedil;o Sa&uacute;de,&nbsp;Culin&aacute;ria da Terra,&nbsp;Tenda da Literatura e Tenda da Educa&ccedil;&atilde;o do Campo<br />
-onde ser&aacute; poss&iacute;vel participar de oficinas sobre agroecologia, hortas comunit&aacute;rias e debates sobre os mais variados temas.<br />
+&Eacute;&nbsp; o caso do Espa&ccedil;o Sa&uacute;de,&nbsp;Culin&aacute;ria da Terra,&nbsp;Tenda da Literatura e Tenda da Educa&ccedil;&atilde;o do Campo onde ser&aacute; poss&iacute;vel participar de oficinas sobre agroecologia, hortas comunit&aacute;rias e debates sobre os mais variados temas.<br />
 <br />
 <br />
 As Feiras da Reforma Agr&aacute;ria tem oxigenado a coopera&ccedil;&atilde;o nos assentamentos e acampamentos, a<br />
-partir da produ&ccedil;&atilde;o, industrializa&ccedil;&atilde;o e comercializa&ccedil;&atilde;o. O espa&ccedil;o so consolidou como&nbsp;uma &oacute;tima forma de dialogo com a sociedade sobre os mais variados temas como a alimenta&ccedil;&atilde;o saud&aacute;vel e o papel dos<br />
-movimentos populares.</p>
+partir da produ&ccedil;&atilde;o, industrializa&ccedil;&atilde;o e comercializa&ccedil;&atilde;o. O espa&ccedil;o so consolidou como&nbsp;uma &oacute;tima forma de dialogo com a sociedade sobre os mais variados temas como a alimenta&ccedil;&atilde;o saud&aacute;vel e o papel dos movimentos populares.</p>
 
 <p><br />
 Nesta 3&ordm; edi&ccedil;&atilde;o, al&eacute;m de uma variedade de produtos de acampamentos e assentamentos da Reforma Agr&aacute;ria do Esp&iacute;rito Santo, tamb&eacute;m ser&atilde;o&nbsp;expostas e comercializadas parte da produ&ccedil;&atilde;o das &aacute;reas do MST em S&atilde;o Paulo, Rio de Janeiro e Minas Gerais.</p>
