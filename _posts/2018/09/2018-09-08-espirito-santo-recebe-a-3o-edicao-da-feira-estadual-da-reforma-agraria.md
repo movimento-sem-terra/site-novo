@@ -59,7 +59,11 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Entre os dias 13 e 15 de setembro a&nbsp;Pra&ccedil;a Costa Pereira, em Vit&oacute;ria, no Esp&iacute;rito Santo ser&aacute; palco da 3&ordm; Feira Estadual da Reforma Agr&aacute;ria.</p>
+<p><em>Por Marina Motta&nbsp;<br />
+Da P&aacute;gina do MST</em></p>
+
+<p><br />
+Entre os dias 13 e 15 de setembro a&nbsp;Pra&ccedil;a Costa Pereira, em Vit&oacute;ria, no Esp&iacute;rito Santo ser&aacute; palco da 3&ordm; Feira Estadual da Reforma Agr&aacute;ria.</p>
 
 <p><br />
 Estar&atilde;o dispon&iacute;veis alimentos in natura, agroindustrializados, artesanatos, rem&eacute;dios fitoter&aacute;picos, plantas artesanais e medicinais, entre outros produtos dos assentamentos e acampamentos da regi&atilde;o.&nbsp;</p>
@@ -82,18 +86,13 @@ Al&eacute;m da exposi&ccedil;&atilde;o e venda de produtos que expressam a diver
 &Eacute;&nbsp; o caso do Espa&ccedil;o Sa&uacute;de,&nbsp;Culin&aacute;ria da Terra,&nbsp;Tenda da Literatura e Tenda da Educa&ccedil;&atilde;o do Campo<br />
 onde ser&aacute; poss&iacute;vel participar de oficinas sobre agroecologia, hortas comunit&aacute;rias e debates sobre os mais variados temas.</p>
 
-<p><br style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;" />
-<em style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;">Por Setor de Comunica&ccedil;&atilde;o MST/SP<br style="box-sizing: inherit;" />
-Da P&aacute;gina do MST</em></p>
-
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="12c74ac7-f33b-4a6d-995d-6ce00ceab00c.jpg" height="200" src="//farm2.staticflickr.com/1844/44500393222_969111be5d_b.jpg" width="300" />
-<figcaption>Arquivo MST&nbsp;</figcaption>
+<figcaption>Arquivo MST&nbsp;<span style="background-color: rgb(255, 255, 255);">As Feiras da Reforma Agr&aacute;ria tem oxigenado a coopera&ccedil;&atilde;o nos assentamentos e acampamentos, a</span></figcaption>
 </figure>
 
-<p>As Feiras da Reforma Agr&aacute;ria tem oxigenado a coopera&ccedil;&atilde;o nos assentamentos e acampamentos, a<br />
-partir da produ&ccedil;&atilde;o, industrializa&ccedil;&atilde;o e comercializa&ccedil;&atilde;o. O espa&ccedil;o so consolidou como&nbsp;uma &oacute;tima forma de<br />
+<p>partir da produ&ccedil;&atilde;o, industrializa&ccedil;&atilde;o e comercializa&ccedil;&atilde;o. O espa&ccedil;o so consolidou como&nbsp;uma &oacute;tima forma de<br />
 dialogo com a sociedade sobre os mais variados temas como a alimenta&ccedil;&atilde;o saud&aacute;vel e o papel dos<br />
 movimentos populares.</p>
 
