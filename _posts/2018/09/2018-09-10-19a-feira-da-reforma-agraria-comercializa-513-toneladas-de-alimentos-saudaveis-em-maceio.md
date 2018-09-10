@@ -42,7 +42,6 @@ files:
 created_date: "2018-09-10T11:53:35-03:00"
 published: true
 releated_posts:
-  - _posts/2018/09/2018-09-04-nosso-projeto-e-produzir-alimentos-saudaveis-e-acessiveis-a-todo-o-povo-destaca-dirigente-do-mst.md
   - _posts/2018/09/2018-09-06-com-programacao-especial-feira-do-mst-celebra-alimentacao-saudavel-com-as-criancas-do-campo-e-da-cidade.md
   - _posts/2018/09/2018-09-08-tenda-de-educacao-popular-em-saude-atende-mais-de-50-pessoas-por-dia-na-feira-da-reforma-agraria-em-maceio.md
   - _posts/2018/09/2018-09-05-mais-de-250-feirantes-participam-da-19a-feira-da-reforma-agraria-em-maceio.md
@@ -65,10 +64,6 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="Foto 005 - Gustavo Marinho.jpeg" height="213" src="//farm2.staticflickr.com/1883/43877039174_e9ea401856_b.jpg" width="320" />
-<figcaption>Feira comercializou cerca de 513 toneladas /Gustavo marinho&nbsp;</figcaption>
-</figure>
 
 <p>Fruto da organiza&ccedil;&atilde;o e da luta dos camponeses e camponesas de todo o estado de Alagoas, 513 toneladas de alimentos produzidos nos acampamentos e assentamentos da Reforma Agr&aacute;ria foram comercializados na 19&ordf; edi&ccedil;&atilde;o da Feira da Reforma Agr&aacute;ria, em Macei&oacute;, entre os dias 5 e 8 de setembro.</p>
 
@@ -94,12 +89,10 @@ A diversidade de produ&ccedil;&atilde;o tamb&eacute;m marcou a 19&ordf; edi&cced
 &nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Foto 003 - John Clivani.JPG" height="467" src="//farm2.staticflickr.com/1877/30725140958_f112b10bef_b.jpg" width="700" />
-<figcaption>Zeza do Coco, Patrim&ocirc;nio Vivo da Cultura Alagoana foi uma das 28 atra&ccedil;&otilde;es das Feira Foto: John Clivani / Grito Na Luta</figcaption>
+<figure class="image" style="display:inline-block"><img alt="Foto 005 - Gustavo Marinho (1).jpeg" height="467" src="//farm2.staticflickr.com/1884/44595809711_d9b82a28e8_b.jpg" width="700" />
+<figcaption>Feira comercializou cerca de 513 toneladas /Gustavo marinho&nbsp;</figcaption>
 </figure>
 </div>
-
-<p>&nbsp;</p>
 
 <p><strong>A Feira</strong></p>
 
@@ -117,5 +110,13 @@ Os n&uacute;meros que superam a edi&ccedil;&atilde;o de 2017, mostram a for&cced
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
 &ldquo;Depois desses quatro dias, dialogando com a popula&ccedil;&atilde;o sobre a import&acirc;ncia da realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular, reafirmamos nossa disposi&ccedil;&atilde;o em seguir fazendo luta, ocupando latif&uacute;ndio e lutando pelos direitos do povo brasileiro&rdquo;, refor&ccedil;ou. &ldquo;Nossa Feira volta para Macei&oacute; em 2019 para comemorar seus 20 anos e mais uma vez contar com o apoio, carinho e for&ccedil;a do povo da capital que tamb&eacute;m abra&ccedil;a a nossa luta na cidade&rdquo;.</p>
+
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Foto 003 - John Clivani.JPG" height="467" src="//farm2.staticflickr.com/1877/30725140958_f112b10bef_b.jpg" width="700" />
+<figcaption>Zeza do Coco, Patrim&ocirc;nio Vivo da Cultura Alagoana foi uma das 28 atra&ccedil;&otilde;es das Feira Foto: John Clivani / Grito Na Luta</figcaption>
+</figure>
+</div>
 
 <div>&nbsp;</div>
