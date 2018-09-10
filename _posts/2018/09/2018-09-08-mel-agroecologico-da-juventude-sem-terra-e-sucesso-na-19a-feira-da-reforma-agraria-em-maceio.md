@@ -4,8 +4,8 @@ tags:
   - tag: produção
   - tag: agroecologia
   - tag: feira-da-reforma-agrária
-title: "Mel agroecológico da Juventude Sem Terra é sucesso na 19ª Feira da Reforma Agrária em Maceió\n"
-support_line: "Jovens das áreas de Reforma Agrária comercializam mel agroecológico há três anos da Feira na capital alagoana\n\n"
+title: "Mel agroecológico da Juventude Sem Terra é sucesso na Feira da Reforma Agrária \n"
+support_line: Jovens das áreas de Reforma Agrária comercializam mel agroecológico há três anos da Feira na capital alagoana
 images_hd: //farm2.staticflickr.com/1841/42747380140_3124b4a249_b.jpg
 menu: agricultura camponesa
 layout: post
