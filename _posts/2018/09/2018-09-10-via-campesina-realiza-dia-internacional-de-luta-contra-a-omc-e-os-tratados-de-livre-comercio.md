@@ -35,7 +35,7 @@ releated_posts:
 </figure>
 
 <p><br />
-Organismos internacionais como a Organiza&ccedil;&atilde;o Mundial do Com&eacute;rcio (OMC), o Banco Mundial e o Fundo Monet&aacute;rio Internacional (FMI), que promovem, direta e indiretamente, uma s&eacute;rie de acordos comerciais bilaterais e multilaterais,&nbsp; tem criado n&iacute;veis criminais de desigualdades no mundo, onde de acordo <a href="http://https://www.cnbc.com/2018/01/22/wef-18-oxfam-says-worlds-richest-1-percent-get-82-percent-of-the-wealth.html">os dados da OXFAM, 82% da riqueza mundial &eacute; controlada atualmente por 1% da popula&ccedil;&atilde;o</a>.</p>
+Organismos internacionais como a Organiza&ccedil;&atilde;o Mundial do Com&eacute;rcio (OMC), o Banco Mundial e o Fundo Monet&aacute;rio Internacional (FMI), que promovem, direta e indiretamente, uma s&eacute;rie de acordos comerciais bilaterais e multilaterais,&nbsp; tem criado n&iacute;veis criminais de desigualdades no mundo, onde de acordo os <a href="https://cnb.cx/2rzCAZB">dados da OXFAM</a>, 82% da riqueza mundial &eacute; controlada atualmente por 1% da popula&ccedil;&atilde;o.</p>
 
 <p><br />
 A fome mundial est&aacute; aumentando novamente e a Soberana Alimentar dos povos est&aacute; sob grande amea&ccedil;a. Este &eacute; o resultado de uma press&atilde;o persistente, durante sete d&eacute;cadas, para adotar pol&iacute;ticas neoliberais, que promovem regime de &ldquo;livre com&eacute;rcio&rdquo; em todo o mundo. Como consequ&ecirc;ncia a privatiza&ccedil;&atilde;o e o desmonte enriquecem aos ricos, enquanto a pobreza e a fome no mundo continuam em n&iacute;veis criticamente altos.</p>
