@@ -54,7 +54,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Foto 006 - Gustavo Marinho.jpeg" height="467" src="//farm2.staticflickr.com/1886/42785527680_52389cf40f_b.jpg" width="700" />
-<figcaption>Alimentos saud&aacute;veis das &aacute;reas de Reforma Agr&aacute;ria foram comercializados abaixo do pre&ccedil;o do mercado convencional.&nbsp; Foto: John Clivani / Grito Na Luta</figcaption>
+<figcaption>Alimentos saud&aacute;veis das &aacute;reas de Reforma Agr&aacute;ria foram comercializados abaixo do pre&ccedil;o do mercado convencional.&nbsp; Foto: Gustavo Marinho</figcaption>
 </figure>
 </div>
 
