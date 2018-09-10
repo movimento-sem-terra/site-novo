@@ -49,6 +49,7 @@ releated_posts:
   - _posts/2018/07/2018-07-30-mst-realiza-1a-feira-da-reforma-agraria-em-teotonio-vilela-no-agreste-de-alagoas.md
   - _posts/2018/06/2018-06-25-na-bahia-mst-ocupa-as-ruas-de-eunapolis-com-mais-de-12-toneladas-de-alimentos.md
   - _posts/2018/08/2018-08-28-a-gente-conta-os-minutos-para-a-feira-da-reforma-agraria-conta-assentada-de-alagoas.md
+section: featured-news
 
 ---
 <div style="text-align:center">
