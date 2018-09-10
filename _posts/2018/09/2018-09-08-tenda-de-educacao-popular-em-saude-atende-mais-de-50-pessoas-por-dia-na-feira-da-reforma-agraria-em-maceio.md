@@ -69,7 +69,7 @@ Realizada h&aacute; oito&nbsp;anos pelo Setor de Sa&uacute;de do MST na Feira da
 <p>A popula&ccedil;&atilde;o e os feirantes podem ter acesso &agrave;s pr&aacute;ticas integrativas de sa&uacute;de, como a quiropraxia, a reflexologia e o reiki, al&eacute;m de receber massagens e todo um cuidado voltado para amenizar os impactos de um dia de trabalho.&nbsp;</p>
 
 <p><br />
-Atendendo cerca de 50 pessoas por dia, a Tenda prioriza a utiliza&ccedil;&atilde;o de medicamentos fitoter&aacute;picos, a base de ervas medicinais, no tratamento de seus pacientes. A escolha por esse tipo de medicamento busca resgatar o conhecimento popular e valorizar a medicina natural.</p>
+Atendendo cerca de 50 pessoas por dia, a Tenda de Educa&ccedil;&atilde;o Popular em Sa&uacute;de &eacute; fruto de uma constru&ccedil;&atilde;o coletiva, coordenada pelo Setor de Sa&uacute;de do MST e promovida em parceria com a Universidade Federal de Alagoas atrav&eacute;s da pr&oacute;-reitoria de Extens&atilde;o, com o projeto Sala de Cuidados da Faculdade de Medicina / N&uacute;cleo de Sa&uacute;de P&uacute;blica e o Projeto Resgatar, que desenvolveu atividades especialmente com as crian&ccedil;as. A programa&ccedil;&atilde;o da Tenda contou ainda com a participa&ccedil;&atilde;o e apoio do Centro Brasileiro de Estudos em Sa&uacute;de (CEBES), Movimento Popular em Sa&uacute;de (MOPS) e F&oacute;rum Alagoano em defesa do SUS.</p>
 
 <p><br />
 A cada edi&ccedil;&atilde;o, o Setor de Sa&uacute;de traz &agrave; Feira exemplares de ervas medicinais que s&atilde;o doadas &agrave; popula&ccedil;&atilde;o no fim do evento.</p>
@@ -79,5 +79,7 @@ A cada edi&ccedil;&atilde;o, o Setor de Sa&uacute;de traz &agrave; Feira exempla
 
 <p><br />
 Al&eacute;m do Setor de Sa&uacute;de do MST, contribuem na realiza&ccedil;&atilde;o da edi&ccedil;&atilde;o da Tenda em 2018 o Movimento Popular de Sa&uacute;de (MOPS) e da Faculdade de Medicina da Universidade Federal de Alagoas.</p>
+
+<p>&nbsp;</p>
 
 <div>&nbsp;</div>
