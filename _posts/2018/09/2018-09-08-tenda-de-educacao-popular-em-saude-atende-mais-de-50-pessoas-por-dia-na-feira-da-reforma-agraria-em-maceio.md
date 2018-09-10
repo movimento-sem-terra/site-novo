@@ -4,8 +4,8 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: alagoas
   - tag: agroecologia
-title: "Tenda de Educação Popular em Saúde atende mais de 50 pessoas por dia na Feira da Reforma Agrária em Maceió\n\n"
-support_line: "Feirantes e visitantes recebem cuidados populares durante todos os dias do evento\n\n"
+title: Feirantes e visitantes recebem cuidados populares na Feira da Reforma Agrária
+support_line: A Tenda de Educação Popular em Saúde atende mais de 50 pessoas por dia na Feira em Maceió.
 images_hd: //farm2.staticflickr.com/1859/43640667655_4558a3551b_b.jpg
 menu: agricultura camponesa
 layout: post
