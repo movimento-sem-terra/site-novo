@@ -3,7 +3,7 @@ date: "2018-09-10T16:18:57-03:00"
 tags:
   - tag: educação-do-campo
   - tag: piaui
-support_line: "O ensino precisa ser reflexo do mundo que queremos construir e esse processo faz toda diferente no aprendizado, explica a coordenação das escolas"
+support_line: "O ensino precisa ser reflexo do mundo que queremos construir e esse processo faz toda diferença no aprendizado, explica a coordenação das escolas"
 title: "Segundo IDEB, duas escolas do MST obtém maiores índices na educação básica"
 menu: "educação, cultura e comunicação"
 images_hd: //farm2.staticflickr.com/1848/43691400975_0f165ae1a6_b.jpg
@@ -55,7 +55,7 @@ O &Iacute;ndice de Desenvolvimento na Educa&ccedil;&atilde;o B&aacute;sica (IDEB
 O IDEB&nbsp;&eacute; calculado a partir de dois componentes: a taxa de rendimento escolar (aprova&ccedil;&atilde;o) e as m&eacute;dias de desempenho nos exames aplicados pelo Inep. Os &iacute;ndices de aprova&ccedil;&atilde;o s&atilde;o obtidos a partir do Censo Escolar, realizado anualmente. Logo, as metas estabelecidas pelo IDEB&nbsp;s&atilde;o diferenciadas para cada escola e rede de ensino.</p>
 
 <p><br />
-A educa&ccedil;&atilde;o, &eacute; uma das principais bandeiras de luta do MST, que busca formas pedag&oacute;gicas de promover uma educa&ccedil;&atilde;o do campo com mais qualidade e mais participatividade. De acordo com a coordena&ccedil;&atilde;o das duas escolas do campo com tais taxas de aprova&ccedil;&atilde;o, o ensino precisa ser reflexo do mundo que queremos construir e esse processo faz toda diferente no aprendizado.</p>
+A educa&ccedil;&atilde;o, &eacute; uma das principais bandeiras de luta do MST, que busca formas pedag&oacute;gicas de promover uma educa&ccedil;&atilde;o do campo com mais qualidade e mais participatividade. De acordo com a coordena&ccedil;&atilde;o das duas escolas do campo com tais taxas de aprova&ccedil;&atilde;o, o ensino precisa ser reflexo do mundo que queremos construir e esse processo faz toda diferen&ccedil;a&nbsp;no aprendizado.</p>
 
 <p>&nbsp;</p>
 
