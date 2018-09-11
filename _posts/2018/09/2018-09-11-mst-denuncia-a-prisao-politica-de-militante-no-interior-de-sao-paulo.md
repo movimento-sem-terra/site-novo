@@ -36,37 +36,30 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<div data-smartmail="gmail_signature" dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">Diante da intensa persegui&ccedil;&atilde;o e criminaliza&ccedil;&atilde;o, mais um Sem Terra foi detido na manh&atilde; desta ter&ccedil;a-feira no interior de S&atilde;o Paulo. Em nota, o MST denuncia a arbitrariedade do processo e refor&ccedil;a a tens&atilde;o vivida na regi&atilde;o.&nbsp;
-<div data-smartmail="gmail_signature" dir="auto" style="font-size: small; color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif;">&quot;Somente na regi&atilde;o de Iaras, existem cerca de 50 mil hectares de terras p&uacute;blicas griladas ilegalmente por empresas do agroneg&oacute;cio dos setores da laranja, da cana de a&ccedil;&uacute;car e&nbsp;celulose&quot;.&nbsp;</div>
+<p>Diante da intensa persegui&ccedil;&atilde;o e criminaliza&ccedil;&atilde;o, mais um Sem Terra foi detido na manh&atilde; desta ter&ccedil;a-feira no interior de S&atilde;o Paulo. Em nota, o MST denuncia a arbitrariedade do processo e refor&ccedil;a a tens&atilde;o vivida na regi&atilde;o.&nbsp;<br />
+&quot;Somente na regi&atilde;o de Iaras, existem cerca de 50 mil hectares de terras p&uacute;blicas griladas ilegalmente por empresas do agroneg&oacute;cio dos setores da laranja, da cana de a&ccedil;&uacute;car e celulose&quot;.&nbsp;</p>
 
-<div data-smartmail="gmail_signature" dir="auto" style="font-size: small; color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif;">&nbsp;</div>
+<p><br />
+&nbsp;<br />
+<strong>Acompanhe:&nbsp;</strong></p>
 
-<div data-smartmail="gmail_signature" dir="auto" style="font-size: small; color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif;"><strong>Acompanhe:&nbsp;</strong></div>
+<p><br />
+Hoje (11) o trabalhador rural, assentado e militante do MST, Willian Miranda Cabe&ccedil;oni, foi detido por volta das 6h na regi&atilde;o de Iaras, interior de S&atilde;o Paulo.</p>
 
-<div data-smartmail="gmail_signature" dir="auto" style="font-size: small; color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif;"><br />
-<br />
-Hoje (11) o trabalhador rural, assentado e&nbsp;militante do MST, Willian Miranda Cabe&ccedil;oni, foi detido&nbsp;por volta das 6h na regi&atilde;o de Iaras, interior&nbsp;de S&atilde;o Paulo.</div>
-</div>
+<p><br />
+Sua pris&atilde;o foi sido decretada pela justi&ccedil;a de Len&ccedil;&oacute;is Paulista, numa a&ccedil;&atilde;o arbitr&aacute;ria em defesa da Sucocitrico Cutrale, uma das maiores exportadoras de suco de laranja do mundo.</p>
 
-<div data-smartmail="gmail_signature" dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;"><br />
-Sua pris&atilde;o foi&nbsp;sido decretada pela justi&ccedil;a de Len&ccedil;&oacute;is Paulista, numa a&ccedil;&atilde;o arbitr&aacute;ria em defesa da Sucocitrico Cutrale, uma das maiores exportadoras de suco de laranja do mundo.</div>
+<p><br />
+A Cutrale vem sendo denunciada h&aacute; mais de uma d&eacute;cada pelo MST por grilagem e invas&atilde;o de terra p&uacute;blicas. Somente na regi&atilde;o de Iaras, existem cerca de 50 mil hectares de terras p&uacute;blicas griladas ilegalmente por empresas do agroneg&oacute;cio dos setores da laranja, da cana de a&ccedil;&uacute;car e celulose.</p>
 
-<div data-smartmail="gmail_signature" dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;"><br />
-A Cutrale vem sendo denunciada h&aacute; mais de uma d&eacute;cada pelo MST&nbsp;por grilagem e invas&atilde;o de terra p&uacute;blicas.&nbsp;Somente na regi&atilde;o de Iaras, existem cerca de 50 mil hectares de terras p&uacute;blicas griladas ilegalmente por empresas do agroneg&oacute;cio dos setores da laranja, da cana de a&ccedil;&uacute;car e celulose.</div>
+<p><br />
+Lutamos cotidianamente para que o Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), a Advocacia Geral da Uni&atilde;o (AGU), o Minist&eacute;rio P&uacute;blico Federal (MPF) e a Procuradoria Federal cumpram com seu dever e fa&ccedil;am valer os direitos constitucionais de arrecada&ccedil;&atilde;o das terras p&uacute;blicas para a Reforma Agr&aacute;ria.&nbsp;</p>
 
-<div data-smartmail="gmail_signature" dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;"><br />
-Lutamos cotidianamente para que o Instituto de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), a Advocacia Geral da Uni&atilde;o (AGU), o Minist&eacute;rio P&uacute;blico Federal (MPF) e a Procuradoria Federal cumpram com seu dever e fa&ccedil;am&nbsp;valer os direitos constitucionais de arrecada&ccedil;&atilde;o das terras p&uacute;blicas para a Reforma Agr&aacute;ria.&nbsp;</div>
+<p><br />
+Denunciamos tamb&eacute;m a atua&ccedil;&atilde;o pol&iacute;tica do judici&aacute;rio em defesa das empresas privadas da regi&atilde;o e de seus interesses particulares.&nbsp;</p>
 
-<div data-smartmail="gmail_signature" dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;"><br />
-Denunciamos tamb&eacute;m a atua&ccedil;&atilde;o pol&iacute;tica do judici&aacute;rio em defesa das empresas privadas da regi&atilde;o e de seus interesses particulares.&nbsp;</div>
+<p><br />
+Liberdade para Willian Miranda Cabe&ccedil;oni e Reforma Agr&aacute;ria nas terras da Uni&atilde;o!</p>
 
-<div data-smartmail="gmail_signature" dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;"><br />
-Liberdade para Willian Miranda Cabe&ccedil;oni e Reforma Agr&aacute;ria nas terras da Uni&atilde;o!</div>
-
-<div data-smartmail="gmail_signature" dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">&nbsp;</div>
-
-<div data-smartmail="gmail_signature" dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">&nbsp;</div>
-
-<div data-smartmail="gmail_signature" dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">&nbsp;</div>
-
-<div data-smartmail="gmail_signature" dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; text-align: right;">Dire&ccedil;&atilde;o Estadual do MST-SP</div>
+<p style="text-align: right;"><br />
+Dire&ccedil;&atilde;o Estadual do MST-SP</p>
