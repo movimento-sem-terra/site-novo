@@ -7,7 +7,7 @@ tags:
 title: "19ª Feira da Reforma Agrária comercializa 513 toneladas de alimentos saudáveis em Maceió\n\n"
 support_line: " Ao todo foram cerca de 250 feirantes, representantes de todas as regiões do estado \n\n"
 menu: agricultura camponesa
-section: cover
+section: featured-news
 images_hd: //farm2.staticflickr.com/1886/42785527680_52389cf40f_b.jpg
 layout: post
 files:
