@@ -55,13 +55,13 @@ releated_posts:
 <div>
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Foto - Flávio Vermelho (12).jpeg" height="466" src="//farm2.staticflickr.com/1891/43643817345_728403d888_b.jpg" width="700" />
-<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+<figcaption>Foto Fl&aacute;vio Vermelho&nbsp;</figcaption>
 </figure>
 </div>
 
 <p>&nbsp;</p>
 
-<p><em>Por Agatha Azevedo e Fl&aacute;vio Vermelho&nbsp;<br />
+<p><em>Por Agatha Azevedo e Maria Jos&eacute;<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 </div>
 
@@ -73,7 +73,7 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 <p>As educandas e os educandos que j&aacute; est&atilde;o escrevendo e lendo trouxeram seus cartazes escritos de pr&oacute;prio punho.&nbsp;&nbsp;Tamb&eacute;m participaram&nbsp;educadoras e educadores que,&nbsp;demonstrando seu compromisso e amor pela educa&ccedil;&atilde;o ao lado da milit&acirc;ncia do MST, fizeram&nbsp;uma grande doa&ccedil;&atilde;o de alimentos saud&aacute;veis para o povo da cidade, compartilhando a luta pela Reforma Agr&aacute;ria, que &eacute; Popular.</p>
 
 <figure class="image" style="float:left"><img alt="Foto - Flávio Vermelho (7).jpeg" height="253" src="//farm2.staticflickr.com/1870/44503717632_27e5d980bf_b.jpg" width="380" />
-<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+<figcaption>Foto Fl&aacute;vio Vermelho&nbsp;</figcaption>
 </figure>
 
 <p><strong>Mobiliza&ccedil;&otilde;es&nbsp;</strong></p>
