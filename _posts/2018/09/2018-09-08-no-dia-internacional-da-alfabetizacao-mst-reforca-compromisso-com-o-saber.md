@@ -30,15 +30,25 @@ releated_posts:
   - _posts/2018/06/2018-06-19-camponeses-e-camponesas-discutem-agroecologia-como-modelo-na-producao-de-alimentos.md
 
 ---
+<div>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Foto - Flávio Vermelho (4).jpg" height="533" src="//farm2.staticflickr.com/1866/43836097754_5029f485d3_b.jpg" width="700" />
+<figcaption>Fotos Fl&aacute;vio Vermelho&nbsp;</figcaption>
+</figure>
+</div>
+</div>
+
 <div>&nbsp;</div>
 
-<div><em>Por Agatha Azevedo e Maria Jos&eacute;&nbsp;&nbsp;</em></div>
+<div>&nbsp;</div>
+
+<div><em>Por Agatha Azevedo&nbsp;</em></div>
 
 <div><em>Da p&aacute;gina do MST&nbsp;</em></div>
 
 <div><br />
 <br />
-Com bases na pedagogia de Paulo Freire, o setor de educa&ccedil;&atilde;o do MST tem como linha pol&iacute;tica a emancipa&ccedil;&atilde;o dos sujeitos atrav&eacute;s da educa&ccedil;&atilde;o para a liberdade, e &eacute; por isso que a constru&ccedil;&atilde;o do saber em forma de leitura e escrita &eacute; t&atilde;o importante. Desde 2005, o Movimento dos Trabalhadores Rurais Sem Terra aplica no Brasil o m&eacute;todo cubano &quot;Sim, eu posso!&quot;&nbsp;que - al&eacute;m de ter ajudado a erradicar o analfabetismo em Cuba -, tamb&eacute;m alfabetizou 9,8 milh&otilde;es de pessoas no mundo.&nbsp;</div>
+Com bases na pedagogia de Paulo Freire, o setor de educa&ccedil;&atilde;o do MST tem como linha pol&iacute;tica a emancipa&ccedil;&atilde;o dos sujeitos atrav&eacute;s da educa&ccedil;&atilde;o para a liberdade, e &eacute; por isso que a constru&ccedil;&atilde;o do saber em forma de leitura e escrita &eacute; t&atilde;o importante. Desde 2005, o Movimento dos Trabalhadores Rurais Sem Terra aplica no Brasil o m&eacute;todo cubano &quot;Sim, eu posso!&quot;&nbsp;que&nbsp;j&aacute; alfabetizou 9,8 milh&otilde;es de pessoas no mundo.&nbsp;</div>
 
 <div><br />
 <br />
