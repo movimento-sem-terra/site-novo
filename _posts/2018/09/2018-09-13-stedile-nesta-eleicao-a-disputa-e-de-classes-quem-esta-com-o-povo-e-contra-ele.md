@@ -26,6 +26,7 @@ releated_posts:
   - _posts/2018/07/2018-07-30-defendemos-a-constituinte-afirma-joao-pedro-stedile.md
   - _posts/2018/08/2018-08-22-lula-enquanto-deus-me-der-vida-jamais-vou-me-esquecer-do-que-voces-fizeram-pelo-brasil-e-pela-democracia.md
   - _posts/2018/08/2018-08-10-marchar-e-uma-forma-de-luta-da-classe-trabalhadora-em-todo-o-mundo.md
+label: interviews
 
 ---
 <div style="text-align:center">
