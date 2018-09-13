@@ -50,7 +50,7 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
-<p>O pr&oacute;ximo domingo (16) ser&aacute; marcado por uma diversidade de atividades em defesa da democracia no Povoado Ouricuri, na cidade de Atalaia, na Zona da Mata Alagoana.idades culturais, bingo e debates est&atilde;o programados para acontecer durante o Festival pela Democracia&nbsp;Ativ, na passagem da Caravana Sem Terra em Defesa de Lula na regi&atilde;o que concentra grande n&uacute;mero de acampamentos e assentamentos da Reforma Agr&aacute;ria.</p>
+<p>O pr&oacute;ximo domingo (16) ser&aacute; marcado por uma diversidade de atividades em defesa da democracia no Povoado Ouricuri, na cidade de Atalaia, na Zona da Mata Alagoana.idades culturais, bingo e debates est&atilde;o programadas para acontecer durante o Festival pela Democracia&nbsp;Ativ, na passagem da Caravana Sem Terra em Defesa de Lula na regi&atilde;o que concentra grande n&uacute;mero de acampamentos e assentamentos da Reforma Agr&aacute;ria.</p>
 
 <p><br />
 O Festival contou&nbsp;ainda com o lan&ccedil;amento da candidatura de Fernando Haddad &agrave; Presid&ecirc;ncia da Rep&uacute;blica pelo Partido dos Trabalhadores (PT) e de sua vice, Manuela D&rsquo;&Aacute;vila (PCdoB), substitutos de Lula na disputa eleitoral pela coliga&ccedil;&atilde;o &ldquo;O Povo Feliz de Novo&rdquo;.</p>
