@@ -4,7 +4,7 @@ tags:
   - tag: nota-de-falecimento
   - tag: lutadores
   - tag: pesar
-title: MST lamenta o falecimento de Renée de Carvalho
+title: "Renée de Carvalho: uma combatente rara que nasceu e morreu lutando"
 menu: solidariedade
 support_line: "Renée dedicou sua vida à luta contra o regime militar, era detentora de uma bravura e, ao mesmo tempo, de uma serenidade e solidariedade rara"
 images_hd: //farm2.staticflickr.com/1850/43939487364_a06b5a2f6f_b.jpg
@@ -38,7 +38,7 @@ releated_posts:
 <p>Na noite desta quarta-feira (12) perdemos uma lutadora das grandes. Ren&eacute;e de Carvalho, nos deixou aos 93 anos de idade.<br />
 <br />
 <br />
-Militante e aguerrida, nascem em Marselha, na Fran&ccedil;a, em 1925. Filha de pais comunistas dedicou-se desde muito cedo a luta resist&ecirc;ncia francesa contra a ocupa&ccedil;&atilde;o nazista e o governo colaboracionista de Vichy.</p>
+Militante e aguerrida, nasce&nbsp;em Marselha, na Fran&ccedil;a, em 1925. Filha de pais comunistas dedicou-se desde muito cedo a luta resist&ecirc;ncia francesa contra a ocupa&ccedil;&atilde;o nazista e o governo colaboracionista de Vichy.</p>
 
 <p><br />
 Ainda na juventude conheceu Apol&ocirc;nio de Carvalho, o dirigente comunista brasileiro foi seu companheiro de vida e de luta.&nbsp;</p>
@@ -47,7 +47,7 @@ Ainda na juventude conheceu Apol&ocirc;nio de Carvalho, o dirigente comunista br
 Com sua fam&iacute;lia Ren&eacute;e atravessou d&eacute;cadas de pris&atilde;o, tortura e ex&iacute;lio.&nbsp;</p>
 
 <p><br />
-Junto com Apol&ecirc;nio, seu companheiro, Ren&eacute;e participou da funda&ccedil;&atilde;o do PT em 1980, manteve-se ligada ao esse partido at&eacute; seu &uacute;ltimo dia de vida.&nbsp;</p>
+Junto com Apol&ecirc;nio, seu companheiro, Ren&eacute;e participou da funda&ccedil;&atilde;o do Partidos dos Trabalhadores (PT), em 1980, e manteve-se ligada ao partido at&eacute; seu &uacute;ltimo dia de vida.&nbsp;</p>
 
 <p><br />
 Ren&eacute;e dedicou sua vida &agrave; luta contra o regime militar, era detentora de uma bravura e, ao mesmo tempo, de uma serenidade e solidariedade rara. Uma combatente rara que nasceu e morreu lutando.</p>
