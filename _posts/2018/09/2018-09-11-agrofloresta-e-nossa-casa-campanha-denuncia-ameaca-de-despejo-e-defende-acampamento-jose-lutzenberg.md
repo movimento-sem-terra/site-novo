@@ -8,7 +8,7 @@ title: "Agrofloresta é nossa casa: Campanha denuncia ameaça de despejo e defen
 support_line: MST exige a permanência das famílias na área
 menu: direitos humanos
 images_hd: //farm2.staticflickr.com/1863/43898608514_0e7fff715e_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm2.staticflickr.com/1863/43898608514_0e7fff715e_b.jpg
