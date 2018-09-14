@@ -77,16 +77,14 @@ O professor da UFRJ e diretor do filme, Beto Novaes, enfatizou a necessidade de 
 Para romper as fronteiras brasileiras, o material foi traduzido para o espanhol, o ingl&ecirc;s e o franc&ecirc;s, e est&aacute; sendo distribu&iacute;do para diversas organiza&ccedil;&otilde;es nacionais e internacionais.</p>
 
 <p><br />
-Um grupo de trabalho nacional do Minist&eacute;rio P&uacute;blico sobre agrot&oacute;xicos acompanha a experi&ecirc;ncia da &aacute;rea como um exemplo a ser seguido: &ldquo;Temos apoiado e incentivado a perman&ecirc;ncia das fam&iacute;lias naquele espa&ccedil;o por considerar uma iniciativa exitosa no que diz respeito &agrave; produ&ccedil;&atilde;o agroecol&oacute;gica, que &eacute; mais do que org&acirc;nica e principalmente, pela preserva&ccedil;&atilde;o da floresta&rdquo;, relata Margaret Matos Carvalho, procque acompanha de perto o desenvolvimento da &aacute;rea.</p>
+Um grupo de trabalho nacional do Minist&eacute;rio P&uacute;blico sobre agrot&oacute;xicos acompanha a experi&ecirc;ncia da &aacute;rea como um exemplo a ser seguido: &ldquo;Temos apoiado e incentivado a perman&ecirc;ncia das fam&iacute;lias naquele espa&ccedil;o por considerar uma iniciativa exitosa no que diz respeito &agrave; produ&ccedil;&atilde;o agroecol&oacute;gica, que &eacute; mais do que org&acirc;nica e principalmente, pela preserva&ccedil;&atilde;o da floresta&rdquo;, relata Margaret Matos Carvalho, procuradora regional do trabalho, que acompanha de perto o desenvolvimento da &aacute;rea.</p>
 
-<p>&nbsp;</p>
-
-<p>uradora regional do trabalho,&nbsp;</p>
-
-<p>A procuradora refor&ccedil;a a import&acirc;ncia da perman&ecirc;ncia das fam&iacute;lias na &aacute;rea e da difus&atilde;o das metodologias de trabalho e de produ&ccedil;&atilde;o utilizadas: &ldquo;Hoje, quando a gente fala de futuro a ideia &eacute; sempre negativa. Mas n&oacute;s temos esperan&ccedil;a, e queremos que essas esperan&ccedil;a se concretize atrav&eacute;s desses exemplos. Espero que as fam&iacute;lias que hoje ocupam aquele espa&ccedil;o, que elas permane&ccedil;am naquele lugar, porque preservar e trazer de volta uma floresta demanda muito tempo e eles j&aacute; conseguiram isso, e ainda tem muita coisa precisa ser feita. N&atilde;o podemos perder aquilo que j&aacute; foi constru&iacute;do e queremos mais, porque agrofloresta &eacute; mais&rdquo;, conclui.</p>
+<p><br />
+A procuradora refor&ccedil;a a import&acirc;ncia da perman&ecirc;ncia das fam&iacute;lias na &aacute;rea e da difus&atilde;o das metodologias de trabalho e de produ&ccedil;&atilde;o utilizadas: &ldquo;Hoje, quando a gente fala de futuro a ideia &eacute; sempre negativa. Mas n&oacute;s temos esperan&ccedil;a, e queremos que essas esperan&ccedil;a se concretize atrav&eacute;s desses exemplos. Espero que as fam&iacute;lias que hoje ocupam aquele espa&ccedil;o, que elas permane&ccedil;am naquele lugar, porque preservar e trazer de volta uma floresta demanda muito tempo e eles j&aacute; conseguiram isso, e ainda tem muita coisa precisa ser feita. N&atilde;o podemos perder aquilo que j&aacute; foi constru&iacute;do e queremos mais, porque agrofloresta &eacute; mais&rdquo;, conclui.</p>
 
 <figure class="image" style="float:right"><img alt="41695142_2141016556154940_1988604527024013312_n.jpg" height="200" src="//farm2.staticflickr.com/1857/43766064965_bca1a0b64b_b.jpg" width="300" />
-<figcaption>Marga</figcaption>
+<figcaption><em>Margaret Matos, procuradora regional do trabalho.<br />
+Foto: Luciana Santos</em></figcaption>
 </figure>
 
 <p><br />
@@ -113,7 +111,10 @@ Em 2017, o acampamento ganhou o pr&ecirc;mio &ldquo;Juliana Santilli&rdquo; do I
 <p><br />
 O filme tamb&eacute;m ser&aacute; lan&ccedil;ado na Vig&iacute;lia Lula Livre, em Curitiba, nesta sexta-feira (14), &agrave;s 19h30.&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><br />
+Confira o trailer:</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/qX_ij1Itook" width="640"></iframe></p>
 
 <p><strong>Ficha T&eacute;cnica do Filme &ldquo;Agrofloresta &eacute; mais&rdquo;</strong><br />
 Dire&ccedil;&atilde;o e Roteiro: Beto Novaes<br />
@@ -121,3 +122,6 @@ Argumento: Jonas Aparecido de Souza&nbsp;<br />
 Edi&ccedil;&atilde;o e Finaliza&ccedil;&atilde;o: Gislaine Lima<br />
 C&acirc;meras: Fernando Mamari e Deborah S. R. de Rezende<br />
 Trilha Sonora e Finaliza&ccedil;&atilde;o de &aacute;udio: Bernardo Gebara</p>
+
+<p><br />
+<em>*Editado por Wesley Lima</em></p>
