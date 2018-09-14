@@ -54,7 +54,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Em meio a Mata Atl&acirc;ntica do litoral paranaense, uma &aacute;rea degrada pela produ&ccedil;&atilde;o extensiva de b&uacute;falos se transformou em uma experi&ecirc;ncia premiada por recuperar o meio ambiente com a produ&ccedil;&atilde;o agroflorestal. Em 30 minutos, o document&aacute;rio &ldquo;Agrofloresta &eacute; mais&rdquo; conta esta metamorfose protagonizada por 24 fam&iacute;lias integrantes do acampamento Jos&eacute; Lutzenberg, localizado no munic&iacute;pio de Antonina.</p>
+Em meio &agrave;&nbsp;Mata Atl&acirc;ntica do litoral paranaense, uma &aacute;rea degrada pela produ&ccedil;&atilde;o extensiva de b&uacute;falos se transformou em uma experi&ecirc;ncia premiada por recuperar o meio ambiente com a produ&ccedil;&atilde;o agroflorestal. Em 30 minutos, o document&aacute;rio &ldquo;Agrofloresta &eacute; mais&rdquo; conta esta metamorfose protagonizada por 24 fam&iacute;lias integrantes do acampamento Jos&eacute; Lutzenberg, localizado no munic&iacute;pio de Antonina.</p>
 
 <p><br />
 O filme foi lan&ccedil;ado oficialmente nesta quinta-feira (13), em Curitiba, no Minist&eacute;rio P&uacute;blico do Trabalho do Paran&aacute; (MPT-PR) &ndash; um dos realizadores do document&aacute;rio-, feito em parceria com a Funda&ccedil;&atilde;o Oswaldo Cruz, a Universidade Federal do Rio de Janeiro (UFRJ), Universidade Federal do Paran&aacute; (UFPR), Associa&ccedil;&atilde;o Paranaense das V&iacute;timas Expostas ao Amianto e aos Agrot&oacute;xicos (APREAA).</p>
