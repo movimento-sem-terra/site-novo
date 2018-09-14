@@ -2,7 +2,7 @@
 date: "2018-09-14T18:57:03-03:00"
 tags: []
 images_hd: //farm2.staticflickr.com/1895/30812962988_fa31b9a313_b.jpg
-title: "As hortas comunitárias como diálogo entre o campo e a cidade "
+title: "As hortas comunitárias como diálogo entre campo e cidade "
 support_line: "O ato de poder plantar seu alimento, ajudar nos mutirões, trocar seu alimento por algum tipo de ajuda, traz autoestima e autonomia à vida das pessoas!"
 menu: agricultura camponesa
 layout: post
