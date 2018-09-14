@@ -7,7 +7,7 @@ tags:
 title: "Em carta aberta, Lula transfere sua candidatura para Haddad"
 images_hd: //farm2.staticflickr.com/1854/42833718270_ac77b095fe_b.jpg
 menu: lutas e mobilizações
-support_line: "\"Se querem calar nossa voz e derrotar nosso projeto para o País, estão muito enganados. Nós continuamos vivos, no coração e na memória do povo. E o nosso nome agora é Haddad\"\n\n"
+support_line: "\"Se querem calar nossa voz e derrotar nosso projeto para o País, estão muito enganados. Nós continuamos vivos, no coração e na memória do povo. E o nosso nome agora é Haddad\""
 layout: post
 files:
   - link: //farm2.staticflickr.com/1854/42833718270_ac77b095fe_b.jpg
@@ -26,6 +26,7 @@ releated_posts:
   - _posts/2018/07/2018-07-10-lula-a-stedile-a-partir-de-janeiro-vamos-mudar-o-brasil.md
   - _posts/2018/07/2018-07-15-em-ato-que-antecedeu-o-foro-de-sao-paulo-militantes-pedem-a-liberdade-de-lula.md
   - _posts/2018/07/2018-07-18-foro-de-sao-paulo-tem-espaco-inedito-para-escuta-de-redes-e-movimentos-populares.md
+section: featured-news
 
 ---
 <p><br />
