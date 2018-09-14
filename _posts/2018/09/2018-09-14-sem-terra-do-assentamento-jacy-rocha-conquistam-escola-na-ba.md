@@ -4,21 +4,40 @@ tags: []
 title: "Sem Terra do Assentamento Jacy Rocha conquistam escola, na BA"
 support_line: "Para os assentados, a construção da escola representa uma conquista fundamental, pois o desenvolvimento da educação do campo sempre foi prioridade"
 menu: "educação, cultura e comunicação"
-images_hd: //farm2.staticflickr.com/1861/44631458772_bc3f8e5f2c_b.jpg
+images_hd: //farm2.staticflickr.com/1869/29746119777_d70cb7041e_b.jpg
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1861/44631458772_bc3f8e5f2c_b.jpg
-    original: //farm2.staticflickr.com/1861/44631458772_1426360ce1_o.jpg
-    thumbnail: //farm2.staticflickr.com/1861/44631458772_bc3f8e5f2c_t.jpg
-    medium: //farm2.staticflickr.com/1861/44631458772_bc3f8e5f2c_z.jpg
-    small: //farm2.staticflickr.com/1861/44631458772_bc3f8e5f2c_n.jpg
-    title: destaque_MST.jpg
-    $$hashKey: 02P
+  - link: //farm2.staticflickr.com/1869/29746119777_d70cb7041e_b.jpg
+    original: //farm2.staticflickr.com/1869/29746119777_68a0e8b0ae_o.jpg
+    thumbnail: //farm2.staticflickr.com/1869/29746119777_d70cb7041e_t.jpg
+    medium: //farm2.staticflickr.com/1869/29746119777_d70cb7041e_z.jpg
+    small: //farm2.staticflickr.com/1869/29746119777_d70cb7041e_n.jpg
+    title: FB_IMG_1536960533490.jpg
+    $$hashKey: 0E4
+  - link: //farm2.staticflickr.com/1879/43965411184_fa20329b88_b.jpg
+    original: //farm2.staticflickr.com/1879/43965411184_1020799d04_o.jpg
+    thumbnail: //farm2.staticflickr.com/1879/43965411184_fa20329b88_t.jpg
+    medium: //farm2.staticflickr.com/1879/43965411184_fa20329b88_z.jpg
+    small: //farm2.staticflickr.com/1879/43965411184_fa20329b88_n.jpg
+    title: FB_IMG_1536960733005.jpg
+    $$hashKey: 0E7
+  - link: //farm2.staticflickr.com/1850/44634677362_c1aece45d4_b.jpg
+    original: //farm2.staticflickr.com/1850/44634677362_04bd683b7c_o.jpg
+    thumbnail: //farm2.staticflickr.com/1850/44634677362_c1aece45d4_t.jpg
+    medium: //farm2.staticflickr.com/1850/44634677362_c1aece45d4_z.jpg
+    small: //farm2.staticflickr.com/1850/44634677362_c1aece45d4_n.jpg
+    title: FB_IMG_1536960726610.jpg
+    $$hashKey: 0EA
 created_date: "2018-09-14T16:09:16-03:00"
 published: true
 releated_posts: []
 
 ---
+<p><img alt="FB_IMG_1536960733005.jpg" height="397" src="//farm2.staticflickr.com/1879/43965411184_fa20329b88_b.jpg" width="600" /></p>
+
+<p><br />
+&nbsp;</p>
+
 <p><em>Por Izelia da Silva<br />
 Da P&aacute;gina do MST</em></p>
 
@@ -37,11 +56,15 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>De acordo a dire&ccedil;&atilde;o do MST, mais de 270 fam&iacute;lias ser&atilde;o beneficiadas pelo projeto que, al&eacute;m do ensino b&aacute;sico, ir&aacute; oferecer cursos t&eacute;cnicos profissionalizantes voltados para fam&iacute;lias rurais.</p>
+<p>De acordo a dire&ccedil;&atilde;o do MST, mais de 270 fam&iacute;lias ser&atilde;o beneficiadas pelo projeto que, al&eacute;m do ensino b&aacute;sico, ir&aacute; oferecer cursos t&eacute;cnicos profissionalizantes voltados para fam&iacute;lias rurais.<br />
+&nbsp;</p>
 
-<p>&nbsp;</p>
+<figure class="image" style="float:left"><img alt="FB_IMG_1536960726610.jpg" height="181" src="//farm2.staticflickr.com/1850/44634677362_c1aece45d4_b.jpg" width="400" />
+<figcaption>Maquete da futura unidade escolar no assentamento</figcaption>
+</figure>
 
-<p>&ldquo;A constru&ccedil;&atilde;o da escola &eacute; uma conquista da luta do Movimento Sem Terra, que busca a melhoria da qualidade de vida para quem mora no campo, e tem na educa&ccedil;&atilde;o o princ&iacute;pio de forjar novos sujeitos&rdquo;, afirmam.</p>
+<p><br />
+&ldquo;A constru&ccedil;&atilde;o da escola &eacute; uma conquista da luta do Movimento Sem Terra, que busca a melhoria da qualidade de vida para quem mora no campo, e tem na educa&ccedil;&atilde;o o princ&iacute;pio de forjar novos sujeitos&rdquo;, afirmam.</p>
 
 <p>&nbsp;</p>
 
