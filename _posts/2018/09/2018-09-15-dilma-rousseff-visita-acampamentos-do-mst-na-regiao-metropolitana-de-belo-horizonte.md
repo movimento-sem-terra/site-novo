@@ -31,7 +31,7 @@ files:
     title: pr sel  (3).jpg
     $$hashKey: 05E
 created_date: "2018-09-15T16:47:39-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/07/2018-07-30-defendemos-a-constituinte-afirma-joao-pedro-stedile.md
   - _posts/2018/06/2018-06-11-na-pb-representantes-de-movimentos-populares-e-partidos-politicos-se-reunem-para-o-lancamento-da-candidatura-de-lula-a-presidencia.md
