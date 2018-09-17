@@ -36,7 +36,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Acampamento Esperança_Nilmar Lage (4).jpg" height="467" src="//farm2.staticflickr.com/1858/44741087311_c1b2d56bf4_b.jpg" width="700" />
-<figcaption><em>Acampado &eacute; agredido e amea&ccedil;o de morte no Leste de Minas Gerais. Foto: Nilmar Lage</em></figcaption>
+<figcaption><em>Acampado &eacute; agredido e amea&ccedil;ado de morte no Leste de Minas Gerais. Foto: Nilmar Lage</em></figcaption>
 </figure>
 </div>
 
@@ -47,7 +47,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Desde setembro de 2016, o Acampamento Esperan&ccedil;a da suporte para fam&iacute;lias de produtores e produtoras rurais do Leste de Minas Gerais. Muitas dessas fam&iacute;lias foram v&iacute;timas do crime da Samarco e, j&aacute; sem perspectivas, viram na luta pela uma chance de melhoria de vida.</p>
+<p>Desde setembro de 2016, o Acampamento Esperan&ccedil;a da suporte para fam&iacute;lias de produtores e produtoras rurais do Leste de Minas Gerais. Muitas dessas fam&iacute;lias foram v&iacute;timas do crime da Samarco e, j&aacute; sem perspectivas, viram na luta pela terra uma chance de melhoria de vida.</p>
 
 <p><br />
 As fam&iacute;lias ocupam uma &aacute;rea do Parque Estadual do Rio Corrente Grande, que estava nas m&atilde;os de tr&ecirc;s irm&atilde;os, grileiros, que j&aacute; haviam sido indenizados pelo Estado para que deixassem a propriedade, por&eacute;m n&atilde;o cumpriram a determina&ccedil;&atilde;o.</p>
