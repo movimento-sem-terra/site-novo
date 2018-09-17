@@ -25,7 +25,13 @@ files:
     $$hashKey: 0A0
 created_date: "2018-09-17T13:00:30-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/04/2018-04-17-em-ato-politico-mst-exige-o-cumprimento-dos-compromissos-do-governo-de-minas-gerais.md
+  - _posts/2018/03/2018-03-29-mst-manifesta-solidariedade-aos-educadores-no-sind-ute-mg.md
+  - _posts/2018/04/2018-04-24-tudo-pronto-para-inicio-do-projeto-que-promete-alfabetizar-1500-adultos-em-minas-gerais.md
+  - _posts/2018/05/2018-05-03-os-diversos-sabores-de-minas-gerais-a-caminho-da-feira-nacional.md
+  - _posts/2018/07/2018-07-03-mst-lanca-campanha-de-30-anos-em-mg-ocupando-as-terras-de-eike-batista.md
+  - _posts/2018/07/2018-07-11-apos-cinco-anos-de-impunidade-tres-acusados-de-assassinar-o-militante-fabio-santos-sao-presos.md
 
 ---
 <div style="text-align:center">
