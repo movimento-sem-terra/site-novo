@@ -56,6 +56,7 @@ releated_posts:
   - _posts/2018/04/2018-04-25-as-zapatistas-falam-sobre-o-futuro-das-mulheres-camponesas-em-luta.md
   - _posts/2018/05/2018-05-26-o-nao-lugar-da-mulher-nos-espacos-politica-brasileira.md
   - _posts/2018/05/2018-05-19-mulheres-do-mst-resistem-contra-o-despejo-em-macae-rj.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
