@@ -4,7 +4,7 @@ tags:
   - tag: formação
   - tag: infância
   - tag: sem-terra
-title: Na Bahia educadores participam da 1º Formação voltada para infância Sem Terra
+title: "Na Bahia, educadores participam da 1º Formação voltada para infância Sem Terra"
 menu: "educação, cultura e comunicação"
 support_line: "Durante quatro dias os presentes na atividade discutiram a formação da infância Sem Terra, o atual cenário político e também refletiram sobre a BNCC"
 images_hd: //farm2.staticflickr.com/1871/43873768325_c2165e5d5e_b.jpg
@@ -26,6 +26,12 @@ releated_posts:
   - _posts/2018/07/2018-07-18-ceara-realiza-a-5-edicao-do-encontro-estadual-de-educadores-e-educadores-do-mst.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="FB_IMG_1536918905325.jpg" height="463" src="//farm2.staticflickr.com/1871/43873768325_c2165e5d5e_b.jpg" width="700" />
+<figcaption><em>&quot;Hist&oacute;ria, brincadeira e educa&ccedil;&atilde;o&quot; foi o tema da forma&ccedil;&atilde;o. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+</figure>
+</div>
+
 <p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">&nbsp;</p>
 
 <p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;"><em style="box-sizing: inherit;">Por Iz&eacute;lia da SIlva<br />
@@ -57,3 +63,7 @@ Marcia Ramos, do Coletivo Nacional de Educa&ccedil;&atilde;o, destacou que, na l
 <p><br />
 Os objetivos do semin&aacute;rio foram cumpridos, mas ele n&atilde;o encerrou com as atividades da programa&ccedil;&atilde;o. Os educadores propuseram alguns encaminhamentos e se comprometeram a apresentar respostas no pr&oacute;ximo<br />
 encontro. Um dos resultados do evento foi a delibera&ccedil;&atilde;o pela cria&ccedil;&atilde;o de um Coletivo Regional da Inf&acirc;ncia Sem Terra, com o objetivo de discutir apenas aspectos relacionados &agrave; aprendizagem das crian&ccedil;as de 0 a 5 anos de idade.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
