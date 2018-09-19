@@ -44,7 +44,7 @@ O delegado da miss&atilde;o brasileira em Genebra contrariou&nbsp;todo hist&oacu
 No documento, a Via declara que: &ldquo;A a&ccedil;&atilde;o tem somente uma leitura: a inten&ccedil;&atilde;o de atrasar o planejamento e o andamento desta hist&oacute;rica declara&ccedil;&atilde;o, que colocara no seio das Na&ccedil;&otilde;es Unidas os camponeses e camponesas como detentores de direitos e que ser&aacute; um guia para a discuss&atilde;o de pol&iacute;ticas p&uacute;blicas em todos os pa&iacute;ses do mundo, para assegurar os direitos das fam&iacute;lias camponesas e a produ&ccedil;&atilde;o de alimentos saud&aacute;veis para os povos&rdquo;.</p>
 
 <p><br />
-<em>Confira a nota na integra:</em></p>
+<em>Confira a nota na &iacute;ntegra:</em></p>
 
 <p style="text-align: center;"><br />
 <strong>NOTA DE DEN&Uacute;NCIA DA VIA CAMPESINA BRASIL SOBRE A POSI&Ccedil;&Atilde;O DO BRASIL DIANTE DA CARTA DE DIREITOS CAMPONESES NA ONU</strong></p>
