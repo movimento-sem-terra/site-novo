@@ -45,7 +45,7 @@ releated_posts:
 <p><em>Da&nbsp;Frente Brasil Popular&nbsp;</em><br />
 &nbsp;</p>
 
-<div data-smartmail="gmail_signature" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">
+<div data-smartmail="gmail_signature">
 <div data-smartmail="gmail_signature" dir="auto">A chuva amea&ccedil;ava adiar o t&atilde;o esperado dia de compartilhar arte e cultivar esperan&ccedil;a. Que chovesse ent&atilde;o, pois a &aacute;gua da chuva serviria para lavar os cora&ccedil;&otilde;es do pessimismo e mostrar que aquele mesmo tempo seria tempo de partilha.</div>
 
 <div data-smartmail="gmail_signature" dir="auto"><br />
