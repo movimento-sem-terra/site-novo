@@ -7,7 +7,7 @@ tags:
 images_hd: //farm2.staticflickr.com/1874/30959307428_95e2182dd2_b.jpg
 menu: "educação, cultura e comunicação"
 support_line: O evento adquiriu maior motivação ao ser combinada com a inauguração do novo prédio do colégio estadual do Campo Chico Mendes
-title: "no Paraná, escola itinerante Chico Mendes completa 15 anos de luta pela educação"
+title: "No Paraná, Colégio Estadual do Campo Chico Mendes completa 15 anos de luta pela educação"
 layout: post
 files:
   - link: //farm2.staticflickr.com/1903/43020180970_3f4ec2edb2_b.jpg
