@@ -76,7 +76,8 @@ Durante a caminhada&nbsp;Haddad falou com exclusividade sobre alguns pontos cruc
 N&oacute;s insistimos at&eacute; o &uacute;ltimo minuto na candidatura daquele que n&oacute;s quer&iacute;amos reconduzir ao Pal&aacute;cio do Planalto, que &eacute; o presidente Lula. Tivemos sucesso junto &agrave; Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas (ONU) para que o Lula fosse candidato e as autoridades brasileiras decidiram rejeitar um tratado internacional aprovado pelo nosso Congresso e indeferiram o registro.</p>
 
 <p><br />
-Diante dessas circunst&acirc;ncias n&oacute;s lan&ccedil;amos uma chapa. Manuela D&#39;&Aacute;vila (PCdoB), eu vamos disputar a presid&ecirc;ncia porque n&oacute;s temos o mesmo projeto validado pelo presidente Lula, que &eacute; o projeto que representa a grande maioria do povo brasileiro. E, para n&atilde;o deixar o povo sem alternativa, n&oacute;s recolocamos esse projeto na disputa presidencial porque o que de fato importa s&atilde;o as ideias que nos movem e Lula est&aacute; conosco nessa jornada.</p>
+Diante dessas circunst&acirc;ncias n&oacute;s lan&ccedil;amos uma chapa. Manuela D&#39;&Aacute;vila (PCdoB), eu vamos disputar a presid&ecirc;ncia porque n&oacute;s temos o mesmo projeto validado pelo presidente Lula, que &eacute; o projeto que representa a grande maioria do povo brasileiro. E, para n&atilde;o deixar o povo sem alternativa, n&oacute;s recolocamos esse projeto na disputa presidencial porque o que de fato importa s&atilde;o as ideias que nos movem e Lula est&aacute; conosco nessa jornada.<br />
+&nbsp;</p>
 
 <p style="text-align:center"><img alt="WhatsApp Image 2018-09-22 at 19.11.25.jpeg" height="466" src="//farm2.staticflickr.com/1939/44842942632_4ed89d1641_b.jpg" width="700" /></p>
 
