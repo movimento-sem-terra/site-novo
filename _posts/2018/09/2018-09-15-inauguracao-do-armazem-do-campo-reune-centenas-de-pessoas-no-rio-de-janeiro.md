@@ -8,7 +8,7 @@ title: Inauguração do Armazém do Campo reúne centenas de pessoas no Rio de J
 support_line: "Espaço de comercialização de produtos da reforma agrária é localizado em casarão tradicional na Lapa, na região central da cidade"
 menu: agricultura camponesa
 images_hd: //farm2.staticflickr.com/1856/43793313955_e0f0c1c951_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm2.staticflickr.com/1889/44702178121_88475d353a_b.jpg
