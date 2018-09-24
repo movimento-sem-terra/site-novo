@@ -32,7 +32,7 @@ files:
     title: as.jpg
     $$hashKey: 05P
 created_date: "2018-09-21T19:06:09-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/08/2018-08-28-julia-a-assentada-do-mst-que-chegou-a-final-da-olimpiada-de-historia.md
   - _posts/2018/09/2018-09-11-a-experiencia-de-uma-olimpiada-nacional-de-historia-foi-alimento-para-os-nossos-sonhos.md
