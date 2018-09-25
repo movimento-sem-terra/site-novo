@@ -35,7 +35,7 @@ files:
     title: WhatsApp Image 2018-09-25 at 13.18.45.jpeg
     $$hashKey: 0NW
 created_date: "2018-09-25T14:39:08-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/04/2018-04-02-cinco-de-anos-de-dor-e-impunidade-entenda-o-caso-do-sem-terra-fabio-santos.md
   - _posts/2018/04/2018-04-03-massacre-da-fazenda-santa-elmira-29-anos-de-um-marco-na-vida-do-mst.md
