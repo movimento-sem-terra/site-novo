@@ -101,5 +101,5 @@ Quem n&atilde;o reflorestar tamb&eacute;m vai pagar imposto progressivo, porque 
 
 <p>&nbsp;</p>
 
-<p><em>*Com colabora&ccedil;&atilde;o de Andr&eacute; Vieira&nbsp;</em><br />
+<p><em>*Com colabora&ccedil;&atilde;o de Telesur</em><br />
 <em>**Editado por Rafael Soriano</em></p>
