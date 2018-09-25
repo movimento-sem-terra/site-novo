@@ -4,8 +4,8 @@ tags:
   - tag: direitos-humanos
   - tag: violência-no-campo
   - tag: ações
-title: "Caso Elton Brum: TJRS decide se mantém sentença do júri popular que condenou PM que matou Sem Terra \n\n"
-support_line: "Julgamento será nesta quarta-feira (26) na 1ª Câmara Criminal em Porto Alegre\n\n"
+title: "Caso Elton Brum: TJ decide se mantém sentença de PM que assassinou Sem Terra\n"
+support_line: Julgamento será nesta quarta-feira (26) na 1ª Câmara Criminal em Porto Alegre
 images_hd: //farm2.staticflickr.com/1962/44908029551_459841bd90_b.jpg
 menu: direitos humanos
 layout: post
