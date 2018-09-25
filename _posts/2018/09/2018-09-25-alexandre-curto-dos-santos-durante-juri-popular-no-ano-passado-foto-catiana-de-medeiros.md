@@ -4,7 +4,7 @@ tags:
   - tag: esporte
   - tag: formação
   - tag: educação
-title: Alexandre Curto dos Santos durante juri popular no ano passado. Foto Catiana de Medeiros
+title: Sem Terra conquista segundo lugar na etapa estadual do JERGS
 support_line: "A atleta de Piratini, Carina Schulz, foi finalista da prova de atletismo dos 3000 metros"
 menu: "educação, cultura e comunicação"
 images_hd: //farm2.staticflickr.com/1917/44188432904_50f44d5d77_b.jpg
