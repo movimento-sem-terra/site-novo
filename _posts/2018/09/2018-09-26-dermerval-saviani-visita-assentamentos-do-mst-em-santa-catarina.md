@@ -61,10 +61,10 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Nesta quarta-feira (25), o professor em&eacute;rito da Universidade Estadual de Campinas&nbsp;(Unicamp), Dermerval Saviani, visitou os assentamentos da Reforma Agr&aacute;ria, em Abelardo Luz, Santa Catarina.&nbsp;Na ocasi&atilde;o, Saviani&nbsp;participou do 1&ordm; Congresso Nacional de Educa&ccedil;&atilde;o de Abelardo Luz, organizado pela prefeitura do estado e pelo&nbsp;Instituto Federal Catarinense (IFC).&nbsp;</p>
+Nesta quarta-feira (25), o professor em&eacute;rito da Universidade Estadual de Campinas&nbsp;(Unicamp), Dermerval Saviani, visitou os assentamentos da Reforma Agr&aacute;ria, em Abelardo Luz, Santa Catarina.&nbsp;Na ocasi&atilde;o, Saviani&nbsp;participou do 1&ordm; Congresso Nacional de Educa&ccedil;&atilde;o de Abelardo Luz, organizado pela prefeitura do municipal&nbsp;e pelo&nbsp;Instituto Federal Catarinense (IFC).&nbsp;</p>
 
 <p><br />
-Durante visita ao campus do IFC, localizado no assentamento Jos&eacute; Maria, o educador afirmou a import&acirc;ncia de existir um campus dentro de uma assentamento.&nbsp;&nbsp;</p>
+Durante visita ao campus do IFC, localizado no assentamento Jos&eacute; Maria, o educador afirmou a import&acirc;ncia de existir um campus dentro de um&nbsp;assentamento.&nbsp;&nbsp;</p>
 
 <p><br />
 &ldquo;Estar aqui, em um campus dentro de um assentamento,&nbsp;&eacute;&nbsp;uma experi&ecirc;ncia &iacute;mpar, porque, de fato, essa realidade &eacute; a que gostar&iacute;amos de de ver nos pa&iacute;s&nbsp;inteiro. &Eacute; papel dos&nbsp;institutos de forma&ccedil;&atilde;o interagirem&nbsp;fortemente com as necessidades da comunidade&rdquo;, disse.&nbsp;</p>
