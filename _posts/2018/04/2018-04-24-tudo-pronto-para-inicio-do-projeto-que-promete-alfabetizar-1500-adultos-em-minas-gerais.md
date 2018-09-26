@@ -33,7 +33,7 @@ files:
     title: sel (3).JPG
     $$hashKey: 0UG
 created_date: "2018-04-24T17:20:14-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/02/2018-02-06-sim-eu-posso-o-primeiro-passo-para-aprender-a-ler-e-escrever-ja-foi-dado-em-minas-gerais.md
   - _posts/2017/09/2017-09-29-sim-eu-posso-tem-aulas-iniciadas-no-maranhao.md
