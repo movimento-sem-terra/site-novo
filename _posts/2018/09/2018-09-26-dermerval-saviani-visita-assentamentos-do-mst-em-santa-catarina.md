@@ -51,19 +51,17 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_1716.jpg" height="467" src="//farm2.staticflickr.com/1928/44881024102_b329d8a342_b.jpg" width="700" />
-<figcaption>Fotos: Juliana Adriano<br />
-</figcaption>
+<figcaption>Fotos: Juliana Adriano</figcaption>
 </figure>
 </div>
 
 <p>&nbsp;</p>
 
-<p><em style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;">Por S</em>etor de Comunica&ccedil;&atilde;o do MST/SC<br />
-<em style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;">D</em></p>
+<p><em>Por Setor de Comunica&ccedil;&atilde;o do MST/SC<br />
+Da P&aacute;gina do MST</em></p>
 
-<p><em style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;">a P&aacute;gina do MST</em></p>
-
-<p>Nesta quarta-feira (25), o professor em&eacute;rito da Universidade Estadual de Campinas&nbsp;(Unicamp), Dermerval Saviani, visitou os assentamentos da Reforma Agr&aacute;ria, em Abelardo Luz, Santa Catarina.&nbsp;Na ocasi&atilde;o, Saviani&nbsp;participou do 1&ordm; Congresso Nacional de Educa&ccedil;&atilde;o de Abelardo Luz, organizado pela prefeitura do estado e pelo&nbsp;Instituto Federal Catarinense (IFC).&nbsp;</p>
+<p><br />
+Nesta quarta-feira (25), o professor em&eacute;rito da Universidade Estadual de Campinas&nbsp;(Unicamp), Dermerval Saviani, visitou os assentamentos da Reforma Agr&aacute;ria, em Abelardo Luz, Santa Catarina.&nbsp;Na ocasi&atilde;o, Saviani&nbsp;participou do 1&ordm; Congresso Nacional de Educa&ccedil;&atilde;o de Abelardo Luz, organizado pela prefeitura do estado e pelo&nbsp;Instituto Federal Catarinense (IFC).&nbsp;</p>
 
 <p><br />
 Durante visita ao campus do IFC, localizado no assentamento Jos&eacute; Maria, o educador afirmou a import&acirc;ncia de existir um campus dentro de uma assentamento.&nbsp;&nbsp;</p>
@@ -96,7 +94,7 @@ E finalizou: &ldquo;&Eacute; necess&aacute;rio que&nbsp;a luta popular&nbsp;asce
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="LRM_EXPORT_20180925_223027.jpg" height="453" src="//farm2.staticflickr.com/1921/44930974951_f6dd5434ea_b.jpg" width="700" />
-<figcaption>Legenda</figcaption>
+<figcaption>Fotos: Juliana Adriano</figcaption>
 </figure>
 </div>
 
