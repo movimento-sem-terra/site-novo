@@ -47,7 +47,7 @@ files:
     title: David  (2).jpg
     $$hashKey: 0DX
 created_date: "2018-02-06T11:37:48-02:00"
-published: true
+published: false
 releated_posts:
   - _posts/2017/10/2017-10-20-historia-de-vida-rosa.md
   - _posts/2017/12/2017-12-16-a-primeira-coisa-que-eu-escrevi-com-meu-lapis-e-caderno-novo-foi-mst.md
