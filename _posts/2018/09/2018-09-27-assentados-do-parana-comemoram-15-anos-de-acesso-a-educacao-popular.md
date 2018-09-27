@@ -54,7 +54,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="unnamed.jpg" height="466" src="//farm2.staticflickr.com/1923/43137151200_0c080315a1_b.jpg" width="700" />
-<figcaption>Fotos : Wellington Lenon que&nbsp;</figcaption>
+<figcaption>Fotos : Wellington Lenon&nbsp;</figcaption>
 </figure>
 </div>
 
@@ -94,7 +94,7 @@ Desde a sua origem, em setembro de 2003, foram&nbsp;15 anos de luta pela constru
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="unnamed (3).jpg" height="466" src="//farm2.staticflickr.com/1911/31077196838_1498336064_b.jpg" width="700" />
-<figcaption>Fotos : Wellington Lenon que&nbsp;</figcaption>
+<figcaption>Fotos : Wellington Lenon&nbsp;</figcaption>
 </figure>
 </div>
 
@@ -148,7 +148,7 @@ Nestes 15 anos de hist&oacute;ria existiram 26 Escolas Itinerantes no Paran&aacu
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="unnamed (1).jpg" height="466" src="//farm2.staticflickr.com/1924/31077197348_a568336a02_b.jpg" width="700" />
-<figcaption>Fotos : Wellington Lenon que&nbsp;</figcaption>
+<figcaption>Fotos : Wellington Lenon&nbsp;</figcaption>
 </figure>
 </div>
 
