@@ -4,7 +4,7 @@ tags:
   - tag: haddad
   - tag: lula
   - tag: eleição
-title: "Haddad: \"É inaceitável um país desse tamanho ter gente sem terra\""
+title: "Haddad: \"É inaceitável um país desse tamanho ter gente sem-terra\""
 support_line: "Em visita ao assentamento Normandia, em Pernambuco, o candidato à Presidência falou com exclusividade sobre alguns pontos crucias da corrida eleitoral "
 images_hd: //farm2.staticflickr.com/1906/44893104711_307c95becf_b.jpg
 menu: lutas e mobilizações
