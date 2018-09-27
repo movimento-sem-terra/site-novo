@@ -6,7 +6,7 @@ tags:
   - tag: formação
 title: "Dermerval Saviani visita assentamentos do MST em Santa Catarina "
 images_hd: //farm2.staticflickr.com/1904/44881024692_f45d613935_b.jpg
-support_line: "Na ocasião, Saviani participou do 1º Congresso Nacional de Educação de Abelardo Luz, organizado pela prefeitura do estado e pelo Instituto Federal Catarinense (IFC)"
+support_line: "Na ocasião, Saviani participou do 1º Congresso Nacional de Educação de Abelardo Luz, organizado pela prefeitura municipal e pelo Instituto Federal Catarinense (IFC)"
 menu: "educação, cultura e comunicação"
 layout: post
 files:
