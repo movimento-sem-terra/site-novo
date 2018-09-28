@@ -40,18 +40,18 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<div dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">H&aacute; 11 anos mais de 100&nbsp;fam&iacute;lias Sem Terra resistem na luta pela conquista da &aacute;rea do Horto Tatu, em Limeira, interior de S&atilde;o Paulo.&nbsp;A &aacute;rea pertence &agrave; Uni&atilde;o e vem sendo usada irregularmente pela Prefeitura de Limeira e por diversas empresas privadas.</div>
+<div dir="auto">H&aacute; 11 anos mais de 100&nbsp;fam&iacute;lias Sem Terra resistem na luta pela conquista da &aacute;rea do Horto Tatu, em Limeira, interior de S&atilde;o Paulo.&nbsp;A &aacute;rea pertence &agrave; Uni&atilde;o e vem sendo usada irregularmente pela Prefeitura de Limeira e por diversas empresas privadas.</div>
 
-<div dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;"><br />
+<div dir="auto"><br />
 Em 2007, uma&nbsp;a&ccedil;&atilde;o violenta de reintegra&ccedil;&atilde;o de posse comandada pela Pol&iacute;cia Militar resultou&nbsp;em diversas pessoas gravemente feridas no acampamento. Ap&oacute;s a suspens&atilde;o da reintegra&ccedil;&atilde;o de posse, a &aacute;rea foi reocupada e os trabalhadores seguem resistindo&nbsp;e aguardando a regulariza&ccedil;&atilde;o do assentamento Elizabeth Teixeira. Apesar da disputa judicial, hoje a &aacute;rea encontra-se registrada em cart&oacute;rio em nome da Uni&atilde;o.&nbsp;</div>
 
-<div dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;"><br />
+<div dir="auto"><br />
 No &uacute;ltimo dia 7 de setembro, os Sem Terra expandiram o acampamento nas &aacute;reas agricult&aacute;veis do horto como forma de pressionar o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra)&nbsp;para a regulariza&ccedil;&atilde;o do assentamento.</div>
 
-<div dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">&nbsp;</div>
+<div dir="auto">&nbsp;</div>
 
-<div dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">Ap&oacute;s seguidas&nbsp;derrotas na Justi&ccedil;a Federal, o Minist&eacute;rio P&uacute;blico de S&atilde;o Paulo (MP-SP) ingressou com a&ccedil;&atilde;o civil p&uacute;blica pedindo a reintegra&ccedil;&atilde;o de posse, com o falso argumento de defesa do meio ambiente. Embora seja clara a incompet&ecirc;ncia do juiz estadual, por tratar-se de &aacute;rea p&uacute;blica federal, este concedeu liminar de reintegra&ccedil;&atilde;o de posse e a pol&iacute;cia est&aacute; mobilizada para cumprir nesta sexta-feira,&nbsp;28 de setembro.</div>
+<div dir="auto">Ap&oacute;s seguidas&nbsp;derrotas na Justi&ccedil;a Federal, o Minist&eacute;rio P&uacute;blico de S&atilde;o Paulo (MP-SP) ingressou com a&ccedil;&atilde;o civil p&uacute;blica pedindo a reintegra&ccedil;&atilde;o de posse, com o falso argumento de defesa do meio ambiente. Embora seja clara a incompet&ecirc;ncia do juiz estadual, por tratar-se de &aacute;rea p&uacute;blica federal, este concedeu liminar de reintegra&ccedil;&atilde;o de posse e a pol&iacute;cia est&aacute; mobilizada para cumprir nesta sexta-feira,&nbsp;28 de setembro.</div>
 
-<div dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">&nbsp;</div>
+<div dir="auto">&nbsp;</div>
 
-<div dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">Al&eacute;m, da expans&atilde;o do acampamento Elizabeth Teixeira, no &uacute;ltimo dia 07/09, mais de 900 fam&iacute;lias de trabalhadores sem teto&nbsp;ocuparam uma pequena parte da &aacute;rea reivindicando moradia digna. Assim eleva-se o risco de um grande conflito, com perdas irrepar&aacute;veis para os trabalhadores e trabalhadoras.&nbsp;</div>
+<div dir="auto">Al&eacute;m, da expans&atilde;o do acampamento Elizabeth Teixeira, no &uacute;ltimo dia 07/09, mais de 900 fam&iacute;lias de trabalhadores sem teto&nbsp;ocuparam uma pequena parte da &aacute;rea reivindicando moradia digna. Assim eleva-se o risco de um grande conflito, com perdas irrepar&aacute;veis para os trabalhadores e trabalhadoras.&nbsp;</div>
