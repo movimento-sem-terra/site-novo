@@ -26,6 +26,7 @@ releated_posts:
   - _posts/2018/03/2018-03-07-mulheres-do-campo-e-da-cidade-realizam-ato-unificado-no-goias.md
   - _posts/2018/03/2018-03-07-jornada-de-lutas-das-mulheres-ja-mobiliza-6-mil-trabalhadores-em-nove-estados.md
   - _posts/2018/09/2018-09-20-em-minas-gerais-mulheres-realizam-manifestacao-cultural-contra-o-fascismo.md
+section: cover
 
 ---
 <p><br />
