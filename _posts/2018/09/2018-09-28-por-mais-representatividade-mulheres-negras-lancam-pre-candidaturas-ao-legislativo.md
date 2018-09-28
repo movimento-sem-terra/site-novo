@@ -69,3 +69,7 @@ Para Ver&ocirc;nica Lima que &eacute;&nbsp;pr&eacute;-candidata &agrave; deputad
 
 <p paraeid="{f77c5541-a6f0-4f3e-b6cf-e6e46fdebebd}{163}" paraid="1066298413"><br />
 M&ocirc;nica, Tain&aacute; e Ver&ocirc;nica t&ecirc;m em comum o fato de serem mulheres, negras e com desejo de transforma&ccedil;&atilde;o social. Elas n&atilde;o est&atilde;o sozinhas. Outros nomes do campo progressista fazem coro &agrave; voz&nbsp;feminista de ocupar a pol&iacute;tica brasileira e construir um pa&iacute;s socialmente mais justo.&nbsp;</p>
+
+<p paraeid="{f77c5541-a6f0-4f3e-b6cf-e6e46fdebebd}{163}" paraid="1066298413">&nbsp;</p>
+
+<p paraeid="{f77c5541-a6f0-4f3e-b6cf-e6e46fdebebd}{163}" paraid="1066298413"><em>*Editado pelo Brasil de Fato&nbsp;</em></p>
