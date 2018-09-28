@@ -4,7 +4,7 @@ tags:
   - tag: mobilizações
   - tag: mulheres
   - tag: atos
-title: "Mulheres, LGBTs e juventude do MST se juntam à mobilização #EleNão\n\n"
+title: "Mulheres, LGBTs e juventude do MST se juntam à mobilização #EleNão"
 menu: lutas e mobilizações
 support_line: "O MST convoca amplamente seus militantes, apoiadores e amigos dentro e fora do pais a se engajarem neste momento decisivo da luta de classes. Dia 29 são esperados atos em pelo menos 24 estados"
 images_hd: //farm2.staticflickr.com/1919/31096285828_72feb50c83_b.jpg
@@ -127,15 +127,13 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p>&nbsp;</p>
+<p><br />
+Por todo pais, centenas de manifesta&ccedil;&otilde;es ser&atilde;o vistas no pr&oacute;ximo s&aacute;bado (29). Mulheres, jovens e LGBTs sa&iacute;ram &agrave;s ruas para dizer&nbsp;#EleN&atilde;o! No campo e na cidade, as mobiliza&ccedil;&otilde;es se nutrem&nbsp;de muita cultura popular para espantar das urnas o perigo de uma candidatura neofascista.</p>
 
-<p>Por todo pais, centenas de manifesta&ccedil;&otilde;es ser&atilde;o vistas no pr&oacute;ximo s&aacute;bado (29). Mulheres, a juventude, LGBTs sa&iacute;ram &agrave;s ruas para dizer&nbsp;#EleN&atilde;o! Na cidade e no campo, as mobiliza&ccedil;&otilde;es se nutrem de nutrem de muita cultura popular para espantar das urnas o perigo de uma candidatura neofascista.<br />
-<br />
-Confira a agenda de mobiliza&ccedil;&otilde;es:<br />
+<p><br />
+<strong>Confira a agenda de mobiliza&ccedil;&otilde;es:</strong><br />
 <br />
 &nbsp;</p>
 
@@ -143,27 +141,28 @@ Confira a agenda de mobiliza&ccedil;&otilde;es:<br />
 
 <p>&nbsp;</p>
 
-<p>Nos principais centros urbanos e fazendo a diferen&ccedil;a nas zonas rurais, as mulheres do MST se somam as demais trabalhadoras e estudantes por todo pa&iacute;s. Para Kelli Mafort, da dire&ccedil;&atilde;o nacional do MST, o voto sempre foi um instrumento de luta.&nbsp;</p>
+<p>Presente&nbsp;nos principais centros urbanos e fazendo a diferen&ccedil;a nas zonas rurais, as mulheres do MST se somam as demais trabalhadoras e estudantes por todo pa&iacute;s. Para Kelli Mafort, da dire&ccedil;&atilde;o nacional do MST, o voto sempre foi um instrumento de luta.&nbsp;</p>
 
 <p><br />
-No inicio do s&eacute;culo passado, s&oacute;&nbsp;homens podiam votar. Quando, em 1932, conquistamos esse direito, muitas das mulheres pobres, mulheres negras, eram afastadas das urnas. Por isso,&nbsp;hoje, nosso voto ganha tantos contornos de lutar&rdquo;, diz.&nbsp;</p>
+&quot;No in&iacute;cio do s&eacute;culo passado, s&oacute;&nbsp;homens podiam votar. Quando, em 1932, conquistamos esse direito, muitas das mulheres pobres, mulheres negras, eram afastadas das urnas. Por isso,&nbsp;hoje, nosso voto ganha tantos contornos de lutar&rdquo;, diz.&nbsp;</p>
 
 <p><br />
-Mafort explica que as for&ccedil;as fascistas e conservadoras nessas elei&ccedil;&otilde;es est&atilde;o escancaradamente presentes no candidato do Partido Social Liberal (PSL)&nbsp;e que lutar contra &ldquo;ele&rdquo; &eacute;&nbsp;lutar contra o machismo, o racismo, a homofobia e todas as formas de preconceito e discrimina&ccedil;&atilde;o.</p>
+Mafort explica que as for&ccedil;as fascistas e conservadoras nessas elei&ccedil;&otilde;es est&atilde;o escancaradamente presentes no candidato do Partido Social Liberal (PSL)&nbsp;e que lutar contra Bolsonaro &eacute;&nbsp;lutar contra o machismo, o racismo, a homofobia e todas as formas de preconceito e discrimina&ccedil;&atilde;o.</p>
 
 <p><br />
 &ldquo;Vamos &agrave;s ruas para&nbsp;lutar, lutar contra ele, pela terra, por trabalho,&nbsp;por moradia e igualdade&rdquo;, menciona Mafort&nbsp;em refer&ecirc;ncia ao autoritarismo no discurso&nbsp;defendido&nbsp;pelo candidato.</p>
 
 <p><br />
-O MST convoca amplamente seus militantes, apoiadores e amigos dentro e fora do pais a se engajarem neste momento decisivo da luta de classes. Dia 29 s&atilde;o esperados atos em pelo menos 24 estados.</p>
+O MST convoca amplamente seus militantes, apoiadores e amigos dentro e fora do pa&iacute;s a se engajarem neste momento decisivo da luta de classes. Dia 29 s&atilde;o esperados atos em pelo menos 24 estados.</p>
 
 <p><br />
 &ldquo;Nos encontraremos nas ruas, de onde nunca sa&iacute;mos. Dia 29 &eacute;&nbsp;como mar&ccedil;o que nunca acabou.&nbsp;&Eacute;&nbsp;luta&nbsp;e ousadia, com&nbsp;lil&aacute;s,&nbsp;vermelho e chita. Essa&nbsp;&eacute; a garra, a beleza e a mistica da luta das mulheres. Vamos &agrave;s ruas, companheiras! Ele N&atilde;o! Ele Nunca!&rdquo;, convoca Mafort.</p>
 
 <p><br />
-Somente no estado do Para, s&atilde;o mais de 10 atos em&nbsp;diversas regi&otilde;es. Em&nbsp;Jo&atilde;o Pessoa, o Festival Cultural pela Vida das Mulheres precede o ato #EleN&atilde;o e leva multid&otilde;es para o centro da cidade, em Macei&oacute;, a programa&ccedil;&atilde;o contar&aacute;&nbsp;com cortejo de maracatu, hip hop feminista e outras manifesta&ccedil;&otilde;es da cultura popular.<br />
-<br />
-Confira abaixo a galeria de cartazes de alguns&nbsp;atos pelo Brasil:&nbsp;<br />
+Somente no estado do Par&aacute;, s&atilde;o mais de 10 atos em&nbsp;diversas regi&otilde;es. Em&nbsp;Jo&atilde;o Pessoa, o Festival Cultural pela Vida das Mulheres precede o ato #EleN&atilde;o e leva multid&otilde;es para o centro da cidade, em Macei&oacute;, a programa&ccedil;&atilde;o contar&aacute;&nbsp;com cortejo de maracatu, hip hop feminista e outras manifesta&ccedil;&otilde;es da cultura popular.</p>
+
+<p><br />
+<strong><em>Confira abaixo a galeria de cartazes de alguns&nbsp;atos pelo Brasil:&nbsp;</em></strong><br />
 <br />
 &nbsp;</p>
 
