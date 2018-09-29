@@ -6,7 +6,7 @@ tags:
   - tag: lutas-e-mobilizações
 title: "Mulheres Unidas Contra Bolsonaro lançam manifesto sobre as mobilizações deste sábado (29)\n"
 images_hd: //farm2.staticflickr.com/1960/44921152602_d4b25d247f_b.jpg
-support_line: "O texto ressalta a diversidade do grupo e traz uma lista detalhada dos motivos que levaram as mulheres brasileiras a se levantarem na resistência democrática contra o fascismo\n\n"
+support_line: O texto ressalta a diversidade do grupo e traz uma lista detalhada dos motivos que levaram as mulheres brasileiras a se levantarem na resistência democrática
 menu: lutas e mobilizações
 layout: post
 files:
@@ -26,7 +26,7 @@ releated_posts:
   - _posts/2018/03/2018-03-07-mulheres-do-campo-e-da-cidade-realizam-ato-unificado-no-goias.md
   - _posts/2018/03/2018-03-07-jornada-de-lutas-das-mulheres-ja-mobiliza-6-mil-trabalhadores-em-nove-estados.md
   - _posts/2018/09/2018-09-20-em-minas-gerais-mulheres-realizam-manifestacao-cultural-contra-o-fascismo.md
-section: cover
+section: featured-news
 
 ---
 <p><br />
