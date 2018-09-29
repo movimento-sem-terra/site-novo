@@ -38,9 +38,11 @@ releated_posts:
 
 <p>Um &ocirc;nibus com 13 mulheres integrantes do acampamento do Movimento dos Trabalhadores Rurais Sem Terra (MST) na regi&atilde;o de&nbsp; Brazl&acirc;ndia, no Distrito Federal, foi detido pela Pol&iacute;cia Militar. As militantes estavam indo para participar do ato #EleN&atilde;o, em Bras&iacute;lia.&nbsp;</p>
 
-<p>Tr&ecirc;s integrantes do acampamento foram detidos, mas j&aacute; foram liberados segundo a assessoria do MST. A PM invadiu o acampamento dando tiros para o alto. Ainda segundo a assessoria, os policiais n&atilde;o permitiram que as acampadas fizessem registro da a&ccedil;&atilde;o&nbsp;e amea&ccedil;aram retirar os aparelhos telef&ocirc;nicos.&nbsp;</p>
+<p><br />
+Tr&ecirc;s integrantes do acampamento foram detidos, mas j&aacute; foram liberados segundo a assessoria do MST. A PM invadiu o acampamento dando tiros para o alto. Ainda segundo a assessoria, os policiais n&atilde;o permitiram que as acampadas fizessem registro da a&ccedil;&atilde;o&nbsp;e amea&ccedil;aram retirar os aparelhos telef&ocirc;nicos.&nbsp;</p>
 
-<p>Ap&oacute;s o momento de tens&atilde;o, as mulheres conseguiram embarcar para ir ao ato contra&nbsp;Jair Bolsonaro. O ato em Bras&iacute;lia come&ccedil;ou &agrave;s 15 horas com concentra&ccedil;&atilde;o na Rodovi&aacute;ria do Plano Piloto, regi&atilde;o central da cidade.</p>
+<p><br />
+Ap&oacute;s o momento de tens&atilde;o, as mulheres conseguiram embarcar para ir ao ato contra&nbsp;Jair Bolsonaro. O ato em Bras&iacute;lia come&ccedil;ou &agrave;s 15 horas com concentra&ccedil;&atilde;o na Rodovi&aacute;ria do Plano Piloto, regi&atilde;o central da cidade.</p>
 
 <p>&nbsp;</p>
 
