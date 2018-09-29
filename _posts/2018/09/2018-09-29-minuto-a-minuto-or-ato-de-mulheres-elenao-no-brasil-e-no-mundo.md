@@ -3,7 +3,7 @@ date: "2018-09-29T11:25:54-03:00"
 tags:
   - tag: eleição
   - tag: mulheres
-title: "Minuto a Minuto | Ato de Mulheres #EleNão no Brasil e no mundo"
+title: "Minuto a Minuto | Acompanhe a cobertura do Atos #EleNão no Brasil e no mundo"
 support_line: "Neste sábado (29), manifestações estão programadas para centenas de cidades"
 menu: lutas e mobilizações
 section: cover
