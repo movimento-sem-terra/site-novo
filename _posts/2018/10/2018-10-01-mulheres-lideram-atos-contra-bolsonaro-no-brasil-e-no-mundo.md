@@ -49,7 +49,11 @@ releated_posts:
   - _posts/2018/08/2018-08-06-violencia-contra-a-mulher-e-tema-de-debate-no-parana.md
 
 ---
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="30060658397_e1884a26e1_z.jpg" height="428" src="//farm2.staticflickr.com/1945/45030125091_6bd91442a2_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
@@ -75,8 +79,7 @@ Na medida em que as manifesta&ccedil;&otilde;es cresciam, o l&iacute;der das int
 Os cartazes, lambes, pirulitos e faixas, presentes nas centenas de manifesta&ccedil;&otilde;es, expressaram o rep&uacute;dio ao &ldquo;coiso&quot;, como ficou conhecido o candidato do PSL. E tamb&eacute;m trouxeram pautas propositivas, como: a defesa da sa&uacute;de p&uacute;blica e o combate &agrave; viol&ecirc;ncia contra as mulheres, ao racismo e &agrave; LGBTfobia. Al&eacute;m da defesa dos direitos trabalhistas.</p>
 
 <figure class="image" style="float:left"><img alt="30057689317_f737203a00_o.jpg" height="477" src="//farm2.staticflickr.com/1934/31157515878_4d4c0e1d78_b.jpg" width="300" />
-<figcaption><em>Manifesta&ccedil;&atilde;o na Cinel&acirc;ndia,&nbsp;&nbsp;Rio de Janeiro (RJ).</em><br />
-</figcaption>
+<figcaption><em>Manifesta&ccedil;&atilde;o na Cinel&acirc;ndia,&nbsp;&nbsp;Rio de Janeiro (RJ).</em></figcaption>
 </figure>
 
 <p><br />
