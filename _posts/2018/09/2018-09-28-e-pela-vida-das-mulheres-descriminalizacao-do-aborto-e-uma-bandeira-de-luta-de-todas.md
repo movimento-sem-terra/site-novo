@@ -35,13 +35,10 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p><em>Por Setor de G&ecirc;nero do MST&nbsp;</em></p>
 
-<p>&nbsp;</p>
-
-<p>Somos mulheres e homens que lutamos, cotidianamente, pela emancipa&ccedil;&atilde;o humana e &eacute; por isso que nos juntamos para ecoar o grito de liberdade! Hoje, 28 de setembro, &eacute; o Dia de Luta pela Descriminaliza&ccedil;&atilde;o do Aborto na Am&eacute;rica Latina. A data foi institu&iacute;da no 5&deg; Encontro Feminista Latino-Americano e Caribenho, realizado em 1999. Desde ent&atilde;o, o dia &eacute; marco para a luta em defesa do direito ao aborto legal e seguro.</p>
+<p><br />
+Somos mulheres e homens que lutamos, cotidianamente, pela emancipa&ccedil;&atilde;o humana e &eacute; por isso que nos juntamos para ecoar o grito de liberdade! Hoje, 28 de setembro, &eacute; o Dia de Luta pela Descriminaliza&ccedil;&atilde;o do Aborto na Am&eacute;rica Latina. A data foi institu&iacute;da no 5&deg; Encontro Feminista Latino-Americano e Caribenho, realizado em 1999. Desde ent&atilde;o, o dia &eacute; marco para a luta em defesa do direito ao aborto legal e seguro.</p>
 
 <p><br />
 A descriminaliza&ccedil;&atilde;o do aborto &eacute; mais do que uma pauta feminista! &Eacute; uma pauta de todas e todos lutadoras/es por justi&ccedil;a social e novas rela&ccedil;&otilde;es sociais, humanas, anticapitalistas. Porque &eacute; no capitalismo, com a sociedade patriarcal que as mulheres e seus corpos s&atilde;o explorados no trabalho, no sexo e na reprodu&ccedil;&atilde;o. As condi&ccedil;&otilde;es sociais de explora&ccedil;&atilde;o, a viol&ecirc;ncia a que vivem e os riscos que correm traduzem os n&uacute;meros de abortos no pa&iacute;s.&nbsp;</p>
@@ -60,7 +57,3 @@ O estudo aponta ainda, que metade das mulheres precisaram ser internadas para fi
 
 <p><br />
 Portanto,&nbsp; afirmamos&nbsp; seguimos a luta da Am&eacute;rica Latina e Caribe, pela liberta&ccedil;&atilde;o dos corpos, das mulheres e de nossa sociedade!</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
