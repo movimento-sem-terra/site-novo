@@ -57,7 +57,7 @@ releated_posts:
   - _posts/2017/03/2017-03-27-as-feiras-sao-resultado-de-um-processo-organizativo-do-mst-e-um-traco-muito-forte-da-cultura-do-nosso-povo.md
   - _posts/2017/03/2017-03-16-plataforma-chegadeagrotoxicos-e-lancada-no-brasil.md
 special-page: feira-2017
-label: special-stories
+label: null
 
 ---
 <p><img alt="agrotoxicos_2.jpg" height="350" src="//farm5.staticflickr.com/4227/35298585322_dbe2cb2bf7_b.jpg" width="700" /></p>
