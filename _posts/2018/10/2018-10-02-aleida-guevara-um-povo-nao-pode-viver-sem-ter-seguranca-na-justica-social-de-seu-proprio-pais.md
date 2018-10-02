@@ -53,7 +53,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Em visita no <a href="https://www.facebook.com/ArmazemDoCampoProdutosDaTerra/">Armaz&eacute;m do Campo-SP</a>, na noite desta segunda-feira (1), a cubana Aleida Guevara, filha de Ernesto Che Guevara e Aleida March, demonstrou preocupa&ccedil;&atilde;o com o golpe no Brasil, a pris&atilde;o do ex-presidente Luiz In&aacute;cio Lula da Silva e com a ame&ccedil;a de fascismo que cresce no pa&iacute;s.</p>
+<p>Em visita no <a href="https://www.facebook.com/ArmazemDoCampoProdutosDaTerra/">Armaz&eacute;m do Campo-SP</a>, na noite desta segunda-feira (1),&nbsp;&nbsp;Aleida Guevara, m&eacute;dica pediatra cubana, filha de Ernesto Che Guevara e Aleida March, demonstrou preocupa&ccedil;&atilde;o com o golpe no Brasil, a pris&atilde;o do ex-presidente Luiz In&aacute;cio Lula da Silva e com a ame&ccedil;a de fascismo que cresce no pa&iacute;s.</p>
 
 <p><br />
 Para Guevara a resposta para essa onda conservadora que amea&ccedil;a a j&aacute; fr&aacute;gil democracia brasileira deve vir das ruas e do povo unido e mobilizado.</p>
