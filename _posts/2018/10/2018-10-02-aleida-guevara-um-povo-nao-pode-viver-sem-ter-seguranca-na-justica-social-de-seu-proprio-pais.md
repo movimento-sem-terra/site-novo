@@ -68,7 +68,7 @@ Ela cita as <a href="http://www.mst.org.br/2018/10/01/mulheres-lideram-atos-cont
 <strong>Acompanhe: </strong></p>
 
 <p><br />
-<strong>Recentemente foi aprovado o rascunho do que ser&aacute; a maior a maior reforma constitucional de Cuba nos &uacute;ltimos 40 anos. Como voc&ecirc; enxerga essa processo? </strong></p>
+<strong>Recentemente foi aprovado o rascunho do que ser&aacute; a maior a maior reforma constitucional de Cuba nos &uacute;ltimos 40 anos. Como voc&ecirc; enxerga esse&nbsp;processo? </strong></p>
 
 <p><br />
 S&atilde;o v&aacute;rias as mudan&ccedil;as apresentadas na nova Constitui&ccedil;&atilde;o cubana. Nem um estado &eacute; capaz de suportar, mas um estado socialista n&atilde;o pode deixar 500 mil pessoas sem trabalho. Ent&atilde;o, o que aconteceu neste momento foi provoca essas pessoas que estavam sem trabalho para que pudessem trabalhar por conta pr&oacute;pria. Essa &eacute; uma das coisas que precisam ser mudadas dentro do texto original. Por outro lado, t&iacute;nhamos uma lei de invers&atilde;o que estava muito restrita, para isso, precisamos de flexibilidade em algumas coisas. E mudar a constitui&ccedil;&atilde;o que n&atilde;o era modificada h&aacute; d&eacute;cadas, &eacute; um passo importante para isso.</p>
@@ -86,13 +86,17 @@ As mudan&ccedil;as e adequa&ccedil;&otilde;es s&atilde;o importantes dentro de u
 </div>
 
 <p><br />
-<strong>Atualmente no Brasil a Constitui&ccedil;&atilde;o Federal tem sido gravemente ferida. De que maneira podemos nos espelhar no processo cubano para passar por esse per&iacute;odo de crise e de golpe? </strong></p>
+<strong>Atualmente no Brasil a Constitui&ccedil;&atilde;o Federal tem sido gravemente ferida. De que maneira podemos nos espelhar no processo cubano para passar por esse per&iacute;odo de crises profundas e de golpe? </strong></p>
 
 <p><br />
-&Eacute; importante nos darmos conta de algumas coisas. As Constitui&ccedil;&otilde;es da Am&eacute;rica Latina em geral precisam de mudan&ccedil;as, portanto, se um governo que mudar de verdade, a primeira coisa que deve fazer &eacute; mudar a Constitui&ccedil;&atilde;o. No caso do Brasil, o que me preocupa e chama aten&ccedil;&atilde;o, &eacute; que um presidente tenha sido condenado &agrave; pris&atilde;o sem nenhuma causa. N&atilde;o existe nenhuma prova do porque ele [Lula] foi condenado, ent&atilde;o, o que devemos nos perguntar nesse momento &eacute; que se isso acontece com uma figura internacionalmente conhecida, o que o homem e a mulher do Brasil podem esperar?</p>
+&Eacute; importante nos darmos conta de algumas coisas. As Constitui&ccedil;&otilde;es da Am&eacute;rica Latina em geral precisam de mudan&ccedil;as, portanto, se um governo quer mudar de verdade, a primeira coisa que deve fazer &eacute; mudar a Constitui&ccedil;&atilde;o. No caso do Brasil, o que me preocupa e chama aten&ccedil;&atilde;o, &eacute; que um presidente tenha sido condenado &agrave; pris&atilde;o sem nenhuma causa. N&atilde;o existe nenhuma prova do porque ele [Lula] foi condenado, ent&atilde;o, o que devemos nos perguntar nesse momento &eacute; que se isso acontece com uma figura internacionalmente conhecida, o que o homem e a mulher do Brasil podem esperar?</p>
 
 <p><br />
 Com que justi&ccedil;a as pessoas mais simples podem contar? &Eacute; um verdadeiro absurdo! Eu penso que algo tem que ser feito nesse momento, porque um povo n&atilde;o pode viver sem ter seguran&ccedil;a na justi&ccedil;a social de seu pr&oacute;prio pa&iacute;s. Nesse sentido, &eacute; muito importante a mobiliza&ccedil;&atilde;o popular e voc&ecirc;s t&ecirc;m demonstrado isso.</p>
 
 <p><br />
-Nos &uacute;ltimos dias aconteceu uma mobiliza&ccedil;&atilde;o de mulheres que foi extraordin&aacute;ria, fazia anos que eu n&atilde;o via tanta gente nas ruas em diferentes cidades de uma s&oacute; vez. Foi uma coisa impressionante! Isso significa que o povo t&ecirc;m sentimentos, h&aacute; que usar essa for&ccedil;a para lutar por um futuro melhor para todos, depende de voc&ecirc;s, claro, mas h&aacute; confian&ccedil;a.</p>
+Nos &uacute;ltimos dias aconteceu uma mobiliza&ccedil;&atilde;o de mulheres que foi extraordin&aacute;ria. Fazia anos que eu n&atilde;o via tanta gente nas ruas em diferentes cidades de uma s&oacute; vez. Foi uma coisa impressionante! Isso significa que o povo t&ecirc;m sentimentos, h&aacute; que usar essa for&ccedil;a para lutar por um futuro melhor para todos, depende de voc&ecirc;s, claro, mas h&aacute; confian&ccedil;a.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
