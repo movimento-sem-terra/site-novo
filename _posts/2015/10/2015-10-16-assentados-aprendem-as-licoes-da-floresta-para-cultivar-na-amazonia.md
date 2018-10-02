@@ -9,7 +9,7 @@ menu: reforma agrária
 special-page: first-street-market
 sector: production
 section: null
-label: special-stories
+label: null
 title: Assentados aprendem as lições da floresta para cultivar na Amazônia
 images_hd: "http://farm1.staticflickr.com/602/22168468430_5ccc6f11a1_b.jpg"
 layout: post
