@@ -116,7 +116,7 @@ releated_posts:
   - 2015/05/2015-05-27-justica-decide-que-araupel-nao-e-dona-da-fazenda-rio-das-cobras.md
   - 2015/06/2015-06-03-herdeiros-da-luta.md
   - 2015/07/2015-07-17-os-maus-efeitos-do-atraso-na-execucao-da-reforma-agraria.md
-label: special-stories
+label: null
 
 ---
 <p><img alt="reportagem_PR13.jpeg" src="http://farm1.staticflickr.com/345/19890831411_45156aabd5_b.jpg" /><br />
