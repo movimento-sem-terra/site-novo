@@ -110,7 +110,7 @@ Assim como Caetano e Gil na can&ccedil;&atilde;o &ldquo;Haiti&rdquo; se referira
 
 <p>&nbsp;</p>
 
-<p><em>*Pacheco &eacute;&nbsp;Jornalista negra, Sem Terra e integrante do Grupo de Estudos sobre a Quest&atilde;o &Eacute;tnico-racial e a Quest&atilde;o Agr&aacute;ria no MST.<br />
+<p><em>*Iris Pacheco &eacute;&nbsp;Jornalista negra, Sem Terra e integrante do Grupo de Estudos sobre a Quest&atilde;o &Eacute;tnico-racial e a Quest&atilde;o Agr&aacute;ria no MST.<br />
 **Editado por Wesley Lima.</em></p>
 
 <p>&nbsp;</p>
