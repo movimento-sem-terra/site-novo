@@ -76,7 +76,7 @@ releated_posts:
   - 2015/08/2015-08-13-de-cuba-para-o-brasil-as-licoes-que-ultrapassam-fronteiras.md
   - 2015/09/2015-09-08-escolas-do-mst-viram-alvo-da-seduc-que-tenta-desconstruir-conquistas-dos-sem-terra.md
 section: null
-label: special-stories
+label: null
 
 ---
 <p><img alt="CriançasBoqueirão2!.jpg" src="http://farm6.staticflickr.com/5713/20707898043_16c5c5425a_b.jpg" /></p>
