@@ -45,7 +45,7 @@ Conforme, a representante da Via Campesina no Brasil, Marina Santos, o posiciona
 Segundo ela, os desafios dos movimentos sociais do campo &eacute; seguir denunciando o Governo Golpista, que al&eacute;m de ser contra a democracia &eacute; contra os camponeses, os ind&iacute;genas e a natureza. E seguir lutando, se organizando e acreditando que em breve a posi&ccedil;&atilde;o do Brasil estar&aacute; em outro patamar.</p>
 
 <p><br />
-A Via Campesina &eacute; uma articula&ccedil;&atilde;o internacional que organiza diversos movimentos populares de luta camponesa ao redor do mundo. A organiza&ccedil;&atilde;o havia denunciado em nota p&uacute;blica&nbsp;semanas antes das vota&ccedil;&atilde;o a posi&ccedil;&atilde;o de retrocesso do Brasil em rela&ccedil;&atilde;o &agrave; carta de Direitos Camponeses na ONU. Veja <a href="https://goo.gl/sfgbdZ">aqui</a>:<br />
+A Via Campesina &eacute; uma articula&ccedil;&atilde;o internacional que organiza diversos movimentos populares de luta camponesa ao redor do mundo. A organiza&ccedil;&atilde;o havia denunciado em nota p&uacute;blica&nbsp;semanas antes das vota&ccedil;&atilde;o a posi&ccedil;&atilde;o de retrocesso do Brasil em rela&ccedil;&atilde;o &agrave; carta de Direitos Camponeses na ONU. Veja <a href="https://goo.gl/sfgbdZ">aqui</a>.<br />
 <br />
 A Declara&ccedil;&atilde;o sobre os Direitos dos Camponeses recomenda aos Estados a prote&ccedil;&atilde;o e respeito aos direitos dos camponeses, como o direito &agrave; sa&uacute;de, a semente, e que estes povos sejam alvo de viol&ecirc;ncia;&nbsp;<br />
 <br />
@@ -61,4 +61,4 @@ agroqu&iacute;micos dentro de padr&otilde;es internacionais.</p>
 
 <p>&nbsp;</p>
 
-<p><em>*Editado por Maura Silva&nbsp;</em></p>
+<p><em>*Editado por Maura Silva.</em></p>
