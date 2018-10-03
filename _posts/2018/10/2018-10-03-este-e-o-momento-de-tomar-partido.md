@@ -31,6 +31,8 @@ releated_posts:
   - _posts/2018/10/2018-10-02-em-carta-lula-rebate-criticas-sobre-o-pt.md
   - _posts/2018/09/2018-09-21-festival-de-cultura-do-povo-aquece-coracoes-em-presidente-prudente.md
   - _posts/2018/10/2018-10-01-mulheres-lideram-atos-contra-bolsonaro-no-brasil-e-no-mundo.md
+section: featured-news
+label: interviews
 
 ---
 <div>
