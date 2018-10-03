@@ -5,7 +5,7 @@ tags:
   - tag: agroecologia
   - tag: agroecologia-é-o-caminho
 title: "Ana Primavesi, pioneira da agroecologia completa 98 anos "
-support_line: "Primavesi foi uma das responsáveis pelos avanços nos estudos sobre o manejo ecológico do solo e sua difusão, se tornando a pioneira da agroecologia no Brasil e na América Latina\n\n"
+support_line: "Primavesi foi uma das responsáveis pelos avanços nos estudos sobre a agroecologia\n\n"
 menu: agricultura camponesa
 images_hd: //farm2.staticflickr.com/1959/45078332561_da366c773f_b.jpg
 layout: post
@@ -54,7 +54,7 @@ Da P&aacute;gina do MST</em></p>
 E h&aacute; d&eacute;cadas promove ensinamentos sobre a import&acirc;ncia do solo como um organismo vivo e integrado &agrave; natureza e que &eacute;&nbsp;respons&aacute;vel pela gera&ccedil;&atilde;o da vida e do alimento saud&aacute;vel para os povos.</p>
 
 <p><br />
-Uma australiana que sobreviveu aos horrores do nazismo, ao ser presa em um campo de concentra&ccedil;&atilde;o&nbsp;durante a Segunda Guerra Mundial. Mas, que na d&eacute;cada de 1950 migrou para o Brasil, iniciando sua carreira acad&ecirc;mica e de atua&ccedil;&atilde;o militante.</p>
+Uma austr&iacute;aca&nbsp;que sobreviveu aos horrores do nazismo, ao ser presa em um campo de concentra&ccedil;&atilde;o&nbsp;durante a Segunda Guerra Mundial. Mas, que na d&eacute;cada de 1950 migrou para o Brasil, iniciando sua carreira acad&ecirc;mica e de atua&ccedil;&atilde;o militante.</p>
 
 <p><br />
 Essa &eacute; a engenheira agr&ocirc;noma e escritora,&nbsp;Ana Primavesi, que hoje (3)&nbsp;no Dia Nacional da Agroecologia, completa 98 anos de vida!</p>
