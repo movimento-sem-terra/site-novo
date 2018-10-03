@@ -36,7 +36,7 @@ releated_posts:
 <div>
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="64346a63-15c8-488f-89db-db328a5b810f.jpg" height="467" src="//farm2.staticflickr.com/1980/44356941004_8953e7cc82_b.jpg" width="700" />
-<figcaption><em>Gilmar Mauro, coordena&ccedil;&atilde;o nacional do MST. Foto: Divulga&ccedil;&atilde;o/MST</em></figcaption>
+<figcaption>Gilmar Mauro, coordena&ccedil;&atilde;o nacional do MST. Foto: Divulga&ccedil;&atilde;o/MST</figcaption>
 </figure>
 </div>
 
@@ -104,7 +104,7 @@ Foto: Divulga&ccedil;&atilde;o/MST</em></figcaption>
 
 <div>&nbsp;</div>
 
-<div>Esse &eacute; o momento que precisamos conclamar a todos os progressistas do Brasil e do mundo. N&atilde;o &eacute; momento de &lsquo;destubiar&rsquo;. &Eacute; momento de tomar partido. &Eacute; momento de tomar decis&atilde;o pol&iacute;tica. Por essa raz&atilde;o n&oacute;s sempre defendemos Lula Livre e estamos na campanha do Haddad, sem medo nenhum ou receio. Porque essa &eacute; mais uma das batalhas pol&iacute;ticas, sem deixar de ser quem n&oacute;s somos. O MST vai continuar ocupando o latif&uacute;ndio. Vai continuar fazendo a sua luta pela terra e pela constru&ccedil;&atilde;o de alimenta&ccedil;&atilde;o saud&aacute;vel e de um outro modelo de agricultura. Mas, n&oacute;s n&atilde;o tenhamos nenhuma d&uacute;vida: esse &eacute; o momento de tomar partido. Porque o outro lado j&aacute; tomou partido. Na crise acaba o centro.&nbsp;Acredito que as pr&oacute;prias pesquisas acendem uma luz vermelha para os setores que est&atilde;o &lsquo;destubiando&rsquo;. Como os setores de classe m&eacute;dia, n&atilde;o tem meio termo nessas elei&ccedil;&otilde;es, ou voc&ecirc; est&aacute; de um lado, ou voc&ecirc; est&aacute; do outro.&nbsp;</div>
+<div>Esse &eacute; o momento que precisamos conclamar a todos os progressistas do Brasil e do mundo. N&atilde;o &eacute; momento de titubear. &Eacute; momento de tomar partido. &Eacute; momento de tomar decis&atilde;o pol&iacute;tica. Por essa raz&atilde;o n&oacute;s sempre defendemos Lula Livre e estamos na campanha do Haddad, sem medo nenhum ou receio. Porque essa &eacute; mais uma das batalhas pol&iacute;ticas, sem deixar de ser quem n&oacute;s somos. O MST vai continuar ocupando o latif&uacute;ndio. Vai continuar fazendo a sua luta pela terra e pela constru&ccedil;&atilde;o de alimenta&ccedil;&atilde;o saud&aacute;vel e de um outro modelo de agricultura. Mas, n&oacute;s n&atilde;o tenhamos nenhuma d&uacute;vida: esse &eacute; o momento de tomar partido. Porque o outro lado j&aacute; tomou partido. Na crise acaba o centro.&nbsp;Acredito que as pr&oacute;prias pesquisas acendem uma luz vermelha para os setores que est&atilde;o titubeando. Como os setores de classe m&eacute;dia, n&atilde;o tem meio termo nessas elei&ccedil;&otilde;es, ou voc&ecirc; est&aacute; de um lado, ou voc&ecirc; est&aacute; do outro.&nbsp;</div>
 
 <div>&nbsp;</div>
 
