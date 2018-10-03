@@ -36,7 +36,7 @@ releated_posts:
 <div>
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="64346a63-15c8-488f-89db-db328a5b810f.jpg" height="467" src="//farm2.staticflickr.com/1980/44356941004_8953e7cc82_b.jpg" width="700" />
-<figcaption>Gilmar Mauro, coordena&ccedil;&atilde;o nacional do MST. Foto: Divulga&ccedil;&atilde;o/MST</figcaption>
+<figcaption><em>Gilmar Mauro, coordena&ccedil;&atilde;o nacional do MST. Foto: Divulga&ccedil;&atilde;o/MST</em></figcaption>
 </figure>
 </div>
 
@@ -52,7 +52,7 @@ Da P&aacute;gina do MST</em></p>
 
 <div><br />
 <br />
-Para Mauro, a luta contra o golpe e o fascismo tem centralidade nessas elei&ccedil;&otilde;es e destaca ainda, que &eacute; preciso conclamar os progressistas do Brasil e do mundo. &ldquo;N&atilde;o &eacute; momento de &lsquo;destubiar&rsquo;. &Eacute; momento de tomar partido. &Eacute; momento de tomar decis&atilde;o pol&iacute;tica&rdquo;, enfatiza o dirigente Sem Terra e complementa, &ldquo;a principal tarefa agora &eacute; de manh&atilde; tirar o leite e sair para fazer campanha. Voltar para casa de noite e fazer o debate nas comunidades, dentro dos assentamentos. Temos poucos dias que far&atilde;o uma diferen&ccedil;a muito grande&rdquo;.&nbsp;</div>
+Para Mauro, a luta contra o golpe e o fascismo tem centralidade nessas elei&ccedil;&otilde;es e destaca ainda, que &eacute; preciso conclamar os progressistas do Brasil e do mundo. &ldquo;N&atilde;o &eacute; momento de titubear. &Eacute; momento de tomar partido. &Eacute; momento de tomar decis&atilde;o pol&iacute;tica&rdquo;, enfatiza o dirigente Sem Terra e complementa, &ldquo;a principal tarefa agora &eacute; de manh&atilde; tirar o leite e sair para fazer campanha. Voltar para casa de noite e fazer o debate nas comunidades, dentro dos assentamentos. Temos poucos dias que far&atilde;o uma diferen&ccedil;a muito grande&rdquo;.&nbsp;</div>
 
 <div><br />
 <br />
