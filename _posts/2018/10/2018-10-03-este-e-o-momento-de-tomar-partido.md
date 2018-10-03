@@ -16,6 +16,13 @@ files:
     small: //farm2.staticflickr.com/1980/44356941004_8953e7cc82_n.jpg
     title: 64346a63-15c8-488f-89db-db328a5b810f.jpg
     $$hashKey: 02P
+  - link: //farm2.staticflickr.com/1955/43264857550_165d6b5f2f_b.jpg
+    original: //farm2.staticflickr.com/1955/43264857550_84dd9e8266_o.jpg
+    thumbnail: //farm2.staticflickr.com/1955/43264857550_165d6b5f2f_t.jpg
+    medium: //farm2.staticflickr.com/1955/43264857550_165d6b5f2f_z.jpg
+    small: //farm2.staticflickr.com/1955/43264857550_165d6b5f2f_n.jpg
+    title: 6ee56f04-3d78-4971-a080-a094acca4701.jpg
+    $$hashKey: "056"
 created_date: "2018-10-03T12:26:24-03:00"
 published: true
 releated_posts:
@@ -29,7 +36,7 @@ releated_posts:
 <div>
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="64346a63-15c8-488f-89db-db328a5b810f.jpg" height="467" src="//farm2.staticflickr.com/1980/44356941004_8953e7cc82_b.jpg" width="700" />
-<figcaption>Gilmar Mauro, coordena&ccedil;&atilde;o nacional do MST&nbsp;</figcaption>
+<figcaption><em>Gilmar Mauro, coordena&ccedil;&atilde;o nacional do MST. Foto: Divulga&ccedil;&atilde;o/MST</em></figcaption>
 </figure>
 </div>
 
@@ -82,7 +89,12 @@ Agora, em 2018, estamos completamente diferentes do que est&aacute;vamos em 2016
 
 <div>Agora &eacute; evidente, e &eacute; preciso dizer isso com a maior naturalidade e tranquilidade, que n&atilde;o houve nos governos de centro-esquerda um processo de politiza&ccedil;&atilde;o da sociedade. Ou seja, era muito &lsquo;vota em mim que eu resolvo&rsquo; e n&oacute;s n&atilde;o podemos trabalhar isso aqui. Vamos votar em nossos candidatos e isso est&aacute; claro, mas n&atilde;o h&aacute; possibilidade de fazer o enfrentamento ao golpe se n&atilde;o houver participa&ccedil;&atilde;o popular. Imagina a hora que a gente for discutir meios de comunica&ccedil;&atilde;o, colocar em quest&atilde;o o tema da Terra, da Reforma Urbana, da Reforma Tribut&aacute;ria, a hora que colocarmos em quest&atilde;o as contra reformas que foram aprovadas pelo governo golpista, certamente a direita continuar&aacute; mobilizada contra e n&oacute;s vamos ter que ter um amplo processo de luta popular para fazer com que um governo popular, somado as lutas populares, possa fazer as reformas que n&oacute;s queremos para o Brasil.</div>
 
-<div><br />
+<div>
+<figure class="image" style="float:right"><img alt="6ee56f04-3d78-4971-a080-a094acca4701.jpg" height="450" src="//farm2.staticflickr.com/1955/43264857550_165d6b5f2f_b.jpg" width="300" />
+<figcaption><em>&quot;&Eacute; momento de tomar decis&atilde;o pol&iacute;tica&quot;, diz Gilmar.<br />
+Foto: Divulga&ccedil;&atilde;o/MST</em></figcaption>
+</figure>
+<br />
 <br />
 <strong>O MST, enquanto um dos maiores movimentos de luta pela terra na&nbsp;Am&eacute;rica&nbsp;Latina e no mundo, como tem se posicionado nesse contexto?</strong></div>
 
