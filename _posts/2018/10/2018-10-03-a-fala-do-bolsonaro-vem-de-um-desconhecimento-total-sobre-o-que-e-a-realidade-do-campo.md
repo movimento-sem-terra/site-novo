@@ -105,7 +105,10 @@ A Reforma da Previd&ecirc;ncia, por exemplo, talvez seja algo que afete muito ma
 <p><br />
 Seguimos mobilizados e atentos a qualquer amea&ccedil;a aos direitos que conquistamos historicamente e que precisam ser defendidos pelos trabalhadores/as do campo e da cidade.</p>
 
-<p>&nbsp;</p>
+<figure class="image" style="float:left"><img alt="43059004_136099447349005_8017268864209387520_n.jpg" height="317" src="//farm2.staticflickr.com/1908/44172762235_1d7a362c34_b.jpg" width="450" />
+<figcaption><em>Mobiliza&ccedil;&atilde;o contra Bolsonaro puxada pelas mulheres em todo pa&iacute;s no<br />
+&nbsp;&uacute;ltimo s&aacute;bado, 29.</em></figcaption>
+</figure>
 
 <p><br />
 <strong>Nesse cen&aacute;rio, o que representa hoje a candidatura de Fernando Haddad e Manuela D&rsquo;&Aacute;vila para os trabalhadores e trabalhadoras?</strong></p>
