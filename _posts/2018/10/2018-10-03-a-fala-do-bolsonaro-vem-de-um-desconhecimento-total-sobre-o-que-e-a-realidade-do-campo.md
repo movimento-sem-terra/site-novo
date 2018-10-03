@@ -42,7 +42,16 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Débora Foto.jpg" height="467" src="//farm2.staticflickr.com/1956/44363801234_68b9d7e8c2_b.jpg" width="700" />
-<figcaption><em>&quot;O maior desafio &eacute; fazermos aquilo que a gente aprendeu ao longo da nossa hist&oacute;ria, ir para o povo. Devemos continuar fazendo a disputa das ideias e de projeto.&quot;</em></figcaption>
+<figcaption>O conjunto da popula&ccedil;&atilde;o tem tido a oportunidade de poder conhecer quem &eacute; a figura Jair Bolsonaro a partir das suas posi&ccedil;&otilde;es e falas, sua falta de compromisso e de percep&ccedil;&atilde;o das quest&otilde;es sociais t&atilde;o cruciais em nossa sociedade s&atilde;o not&aacute;veis. Inclusive a sua incoer&ecirc;ncia com aquilo que fez toda a vida, fez do Legislativo, na condi&ccedil;&atilde;o de Deputado Federal, um meio de vida dele e de sua fam&iacute;lia, sem trazer efetivamente retorno para a sociedade brasileira.<br />
+<br />
+<br />
+Essas declara&ccedil;&otilde;es devem servir como ferramentas de mostrar &agrave; sociedade o perfil da pessoa que quer governar o pa&iacute;s, que s&atilde;o reflexos daquilo que Bolsonaro &eacute;: um sujeito bancado pelo Estado brasileiro, que recebe altos sal&aacute;rios e, de forma incoerente recebe aux&iacute;lio moradia, que utiliza verbas de gabinete dizendo que &eacute; &lsquo;para comer gente&rsquo;, que paga com recurso p&uacute;blico funcion&aacute;rias para lhe servir de forma particular.<br />
+<br />
+<br />
+Uma pessoa que tem isso como hist&oacute;rico e isso como pr&aacute;tica n&atilde;o tem condi&ccedil;&atilde;o nenhuma de falar sobre quest&otilde;es relacionadas aos direitos dos trabalhadores e trabalhadoras que foram conquistados historicamente.<br />
+<br />
+<br />
+http://www.mst.org.br/2018/10/03/a-fala-do-bolsonaro-vem-de-um-desconhecimento-total-sobre-o-que-e-a-realidade-do-campo.html</figcaption>
 </figure>
 </div>
 
