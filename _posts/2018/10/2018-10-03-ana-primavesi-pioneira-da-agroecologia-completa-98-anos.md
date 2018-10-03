@@ -34,7 +34,11 @@ releated_posts:
   - _posts/2018/09/2018-09-08-tenda-de-educacao-popular-em-saude-atende-mais-de-50-pessoas-por-dia-na-feira-da-reforma-agraria-em-maceio.md
 
 ---
-<p style="text-align:center"><img alt="WhatsApp Image 2018-10-03 at 12.06.34.jpeg" height="489" src="//farm2.staticflickr.com/1923/44167381675_397a399a19_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-10-03 at 12.06.34.jpeg" height="489" src="//farm2.staticflickr.com/1923/44167381675_397a399a19_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p><br />
 &nbsp;</p>
