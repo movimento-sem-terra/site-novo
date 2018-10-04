@@ -52,7 +52,7 @@
       margin-bottom: 15px;
     }
   }
- 
+
   .youtube-playlist, .album-de-fotos-abril {
     background-color: #E1D7CC;
     display: flex;
@@ -63,7 +63,7 @@
     padding: 20px;
     margin-top: 15px;
   }
-  
+
   .header-title {
     text-transform: uppercase;
     font-size: 2.7em;
@@ -101,6 +101,10 @@
       padding-left: 20px;
       padding-right: 20px;
     }
+  }
+
+  .infografico {
+    text-align: center;
   }
 
 }
