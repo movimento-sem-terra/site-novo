@@ -19,7 +19,12 @@ files:
     $$hashKey: 04N
 created_date: "2018-10-03T21:35:38-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/10/2018-10-02-aleida-guevara-um-povo-nao-pode-viver-sem-ter-seguranca-na-justica-social-de-seu-proprio-pais.md
+  - _posts/2018/10/2018-10-02-agronegocio-estrutura-se-e-chega-em-2018-com-estrategia-de-um-pe-em-cada-canoa.md
+  - _posts/2018/10/2018-10-02-em-carta-lula-rebate-criticas-sobre-o-pt.md
+  - _posts/2018/10/2018-10-01-mulheres-lideram-atos-contra-bolsonaro-no-brasil-e-no-mundo.md
+  - _posts/2018/10/2018-10-02-educacao-na-mira-do-golpe.md
 
 ---
 <p>&nbsp;</p>
@@ -30,8 +35,9 @@ releated_posts: []
 </figure>
 </div>
 
-<p><br />
-<em>Da P&aacute;gina do MST&nbsp;</em></p>
+<p>&nbsp;</p>
+
+<p><em>Do F&oacute;rum de Comunica&ccedil;&atilde;o para a Integra&ccedil;&atilde;o da Nossa Am&eacute;rica (FCINA)</em></p>
 
 <p><br />
 A disputa pela cadeira presidencial do enorme pa&iacute;s sul-americano est&aacute; no olho do furac&atilde;o. O tema das elei&ccedil;&otilde;es no Brasil e quem ser seu pr&oacute;ximo presidente aparecem na primeira p&aacute;gina dos principais meios de comunica&ccedil;&atilde;o da regi&atilde;o. A respeito, o F&oacute;rum de Comunica&ccedil;&atilde;o para a Integra&ccedil;&atilde;o da Nossa Am&eacute;rica (FCINA) conversou pela internet com o coordenador nacional do Movimento de Trabalhadores Rurais Sem-Terra (MST), Jaime Amorim, durante a transmiss&atilde;o do programa de r&aacute;dio Integrando Nossa Am&eacute;rica.</p>
