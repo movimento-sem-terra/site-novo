@@ -4,7 +4,7 @@ tags:
   - tag: mulheres
   - tag: eleição
   - tag: lutas-e-mobilizações
-title: "“O voto das mulheres é decisivo para o futuro do Brasil, por isso não podemos titubear"
+title: "“O voto das mulheres é decisivo para o futuro do Brasil, por isso não podemos titubear\""
 images_hd: //farm2.staticflickr.com/1951/31231172658_d17564677b_b.jpg
 support_line: "Josineide Costa, da direção do MPA e da Via Campesina Brasil, aponta que é necessário fazer o trabalho de base com o povo explicando o que de fato significa eleger Jair Bolsonaro."
 menu: lutas e mobilizações
@@ -38,6 +38,14 @@ releated_posts:
   - _posts/2018/10/2018-10-01-mulheres-lideram-atos-contra-bolsonaro-no-brasil-e-no-mundo.md
 
 ---
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-10-04 at 13.42.58.jpeg" height="467" src="//farm2.staticflickr.com/1951/31231172658_d17564677b_b.jpg" width="700" />
+<figcaption><em>Josineide Costa, da dire&ccedil;&atilde;o do MPA e da Via Campesina Brasil, aponta que &eacute; necess&aacute;rio fazer o trabalho de base com o povo explicando o que de fato significa eleger Jair Bolsonaro.</em></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>Por Solange Engelmann<br />
