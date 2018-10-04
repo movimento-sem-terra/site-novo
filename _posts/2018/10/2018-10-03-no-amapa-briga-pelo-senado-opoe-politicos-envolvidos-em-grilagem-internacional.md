@@ -58,8 +58,6 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="jorge-amanajas-eider-pena-mz-portal.jpg" height="467" src="//farm2.staticflickr.com/1938/45037204412_2788cc36c1_b.jpg" width="700" />
 <figcaption></figcaption>
@@ -159,3 +157,9 @@ Entre os governadores brasileiros, o pedetista &eacute; o l&iacute;der em proces
 
 <p><br />
 Outro membro da FPA, Andr&eacute; Abdon (PP) &eacute; filho do ex-deputado estadual Zeca Abdon (PSDB), dono da Agropecu&aacute;ria Lago Novo, destinada &agrave; cria&ccedil;&atilde;o de b&uacute;falos em Santana. Em 2016, Abdon indicou sua irm&atilde; para o cargo de diretora da Superintend&ecirc;ncia do Desenvolvimento da Amaz&ocirc;nia (Sudam), respons&aacute;vel pela aprova&ccedil;&atilde;o de projetos de desenvolvimento financiados por empr&eacute;stimos p&uacute;blicos.</p>
+
+<p>&nbsp;</p>
+
+<p>LEIA MAIS:</p>
+
+<p><a href="http://www.mst.org.br/2018/10/02/agronegocio-estrutura-se-e-chega-em-2018-com-estrategia-de-um-pe-em-cada-canoa.html"><strong>Agroneg&oacute;cio estrutura-se e chega em 2018 com estrat&eacute;gia de &ldquo;um p&eacute; em cada canoa&rdquo;</strong></a></p>
