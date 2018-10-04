@@ -25,6 +25,13 @@ files:
     small: //farm2.staticflickr.com/1951/31231172658_d17564677b_n.jpg
     title: WhatsApp Image 2018-10-04 at 13.42.58.jpeg
     $$hashKey: 05U
+  - link: //farm2.staticflickr.com/1961/31231298438_2ee79e105a_b.jpg
+    original: //farm2.staticflickr.com/1961/31231298438_7da3fbfc05_o.jpg
+    thumbnail: //farm2.staticflickr.com/1961/31231298438_2ee79e105a_t.jpg
+    medium: //farm2.staticflickr.com/1961/31231298438_2ee79e105a_z.jpg
+    small: //farm2.staticflickr.com/1961/31231298438_2ee79e105a_n.jpg
+    title: elenao_ninja126028.jpg
+    $$hashKey: 0G9
 created_date: "2018-10-04T19:57:00-03:00"
 published: true
 releated_posts:
@@ -36,6 +43,8 @@ releated_posts:
   - _posts/2018/09/2018-09-20-em-minas-gerais-mulheres-realizam-manifestacao-cultural-contra-o-fascismo.md
   - _posts/2018/09/2018-09-29-minuto-a-minuto-or-ato-de-mulheres-elenao-no-brasil-e-no-mundo.md
   - _posts/2018/10/2018-10-01-mulheres-lideram-atos-contra-bolsonaro-no-brasil-e-no-mundo.md
+  - _posts/2018/07/2018-07-26-em-manifesto-mulheres-negras-denunciam-violencia-do-estado.md
+  - _posts/2018/09/2018-09-18-e-a-nossa-coragem-e-ousadia-que-construirao-um-mundo-onde-todas-nos-possamos-viver.md
 
 ---
 <p>&nbsp;</p>
@@ -82,7 +91,14 @@ O significado desta luta nos traz esperan&ccedil;a, de que juntas conseguimos so
 Sabemos que nem todas as mulheres que se somaram nesta luta em todo o Brasil, defendemos os mesmos ideais ou as mesmas posi&ccedil;&otilde;es na luta. Por&eacute;m, h&aacute; um hist&oacute;rico de lutas das mulheres organizadas nos movimentos sociais e sindicais do campo e da cidade que sempre se somam nas lutas, porque nossos inimigos s&atilde;o os mesmos.&nbsp;</p>
 
 <p><br />
-E esta conjuntura nos mostrou a necessidade das mulheres feministas se somarem apara combater a figura de Jair Bolsonaro, que representa um dos setores mais perversos do nosso pa&iacute;s.&nbsp;&nbsp;</p>
+E esta conjuntura nos mostrou a necessidade das mulheres feministas se somarem apara combater a figura de Jair Bolsonaro, que representa um dos setores mais perversos do nosso pa&iacute;s.<br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="elenao_ninja126028.jpg" height="354" src="//farm2.staticflickr.com/1961/31231298438_2ee79e105a_b.jpg" width="700" />
+<figcaption><em>Mulheres Unidas contra Bolsonaro no dia 29 de setembro. Foto: Midia Ninja</em></figcaption>
+</figure>
+</div>
 
 <p><br />
 <strong>Dada a crise pol&iacute;tica e de representatividade, com o avan&ccedil;o do fascismo, machismo, a misoginia, homofobia, do conservadorismo e o &oacute;dio contra as minorias, qual import&acirc;ncia dessa mobiliza&ccedil;&atilde;o?&nbsp;</strong>&nbsp;</p>
@@ -124,7 +140,7 @@ Sem d&uacute;vidas, foi um momento importante para o ac&uacute;mulo de for&ccedi
 <strong>Por que votar na chapa Haddad e Manuela D&rsquo; &Aacute;vila? Qual a proposta do PT para melhorar a vida das mulheres brasileiras?</strong></p>
 
 <p><br />
-O voto na chapa Haddad e Manu nos possibilita trazer de volta a esperan&ccedil;a de um Brasil feliz de novo. &Eacute; uma forma de derrotar o golpe em curso no pa&iacute;s contra a classe trabalhadora, mostrar o que Lula representa para o Brasil e&nbsp; garantir que o PT volte a governar nosso pa&iacute;s, junto com o povo.&nbsp;</p>
+O voto na chapa Haddad e Manu nos possibilita trazer de volta a esperan&ccedil;a de um <a href="https://www.obrasilfelizdenovo.com/6-motivos-que-fazem-as-mulheres-estarem-com-haddad-e-manu/">Brasil feliz de novo</a>. &Eacute; uma forma de derrotar o golpe em curso no pa&iacute;s contra a classe trabalhadora, mostrar o que Lula representa para o Brasil e&nbsp; garantir que o PT volte a governar nosso pa&iacute;s, junto com o povo.&nbsp;</p>
 
 <p><br />
 A proposta de governo do PT &eacute; de um Brasil onde o povo tenha seus direitos garantidos, como &agrave; educa&ccedil;&atilde;o, sa&uacute;de, moradia, direito de produzir alimento saud&aacute;vel.&nbsp;Onde nossas riquezas n&atilde;o sejam privatizadas. Um Brasil com empregos, pol&iacute;ticas p&uacute;blicas, universidades, entre outros. Um pa&iacute;s em que o povo consiga ter vida digna e com qualidade.&nbsp;</p>
