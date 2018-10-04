@@ -4,10 +4,10 @@ tags:
   - tag: encruzilhada-natalino
   - tag: lutas
   - tag: mobilizações
-title: "Início da longa caminhada\n"
+title: "Encruzilhada Natalino: Início da longa caminhada\n"
 images_hd: //farm2.staticflickr.com/1913/30159635647_2b900a7b3d_b.jpg
 menu: lutas e mobilizações
-support_line: "Hoje, 3 de outubro, celebramos os 37 anos da Encruzilhada Natalino que segue sendo símbolo de resistência na luta pela Reforma Agrária Popular e por uma sociedade mais justa e igualitária\n"
+support_line: "Nesta última quarta-feira (3), celebramos os 37 anos da Encruzilhada Natalino que segue sendo símbolo de resistência na luta pela terra"
 layout: post
 files:
   - link: //farm2.staticflickr.com/1913/30159635647_2b900a7b3d_b.jpg
@@ -33,12 +33,18 @@ files:
     $$hashKey: 02V
 created_date: "2018-10-04T12:12:56-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/09/2018-09-06-grito-dos-excluidos-faz-desfile-popular-no-dia-da-independencia.md
+  - _posts/2018/09/2018-09-08-grito-dos-excluidos-denuncia-violencia-custo-de-vida-e-prisao-politica-de-lula.md
+  - _posts/2018/09/2018-09-11-mst-denuncia-a-prisao-politica-de-militante-no-interior-de-sao-paulo.md
+  - _posts/2018/09/2018-09-12-paulista-recebe-festival-lula-livre-no-proximo-domingo.md
+  - _posts/2018/09/2018-09-26-mst-faz-vigilia-em-frente-ao-tjrs-para-acompanhar-novo-julgamento-do-caso-elton-brum-da-silva.md
+  - _posts/2018/08/2018-08-25-em-carta-grevistas-agradecem-o-apoio-e-reafirmam-sua-luta-por-justica.md
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Assentamento Nova Ronda Alta (Rio Grande do Sul, data desconhecida)1.jpg" height="512" src="//farm2.staticflickr.com/1918/43283669840_cfba9b5552_b.jpg" width="700" />
-<figcaption>Arquivo MST&nbsp;</figcaption>
+<figcaption><em>Foto: Arquivo MST</em>&nbsp;</figcaption>
 </figure>
 </div>
 
@@ -92,8 +98,8 @@ As vidas que eram em seiscentas, de dignidades sedentas, logo eram barracos de l
 Enquanto a cruz dessa revolucion&aacute;ria romaria subia, e gente morria, mais fervor de luta o peito nutria! N&atilde;o havia choro, n&atilde;o havia choror&ocirc;, era s&oacute; o dedo apontado pra cara daquele senhor. Que de p&aacute;ssaro nada tinha, nem as penas da humana dor. Vinha com um chicote de balas, nos retornar para o pelourinho de outro senhor. Venha! Resistiremos com amor!</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Assentamento Nova Ronda Alta (Rio Grande do Sul, data desconhecida)2.jpg" height="461" src="//farm2.staticflickr.com/1969/31223798988_1726158439_b.jpg" width="700" />
-<figcaption>Arquivo MST&nbsp;</figcaption>
+<figure class="image" style="display:inline-block"><img alt="Assentamento Nova Ronda Alta (Rio Grande do Sul, data desconhecida)2.jpg" height="395" src="//farm2.staticflickr.com/1969/31223798988_1726158439_b.jpg" width="600" />
+<figcaption><em>Foto: Arquivo MST&nbsp;</em></figcaption>
 </figure>
 </div>
 
