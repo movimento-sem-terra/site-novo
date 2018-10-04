@@ -97,7 +97,9 @@ Como resultado da CPI, a Amcel foi condenada a devolver 118 mil hectares &agrave
 <p><br />
 Em 1998, dois anos antes de ser incorporada pela multinacional estadunidense International Paper, a Amcel j&aacute; havia se comprometido a n&atilde;o utilizar 140 mil hectares adquiridos irregularmente. Em 1995, outros 10 mil hectares haviam sido devolvidos no munic&iacute;pio de Tartarugalzinho, por ind&iacute;cios de grilagem.</p>
 
-<p>&nbsp;</p>
+<figure class="image" style="float:right"><img alt="eleicoes-amapa-eiderpena-300x208.jpg" height="312" src="//farm2.staticflickr.com/1903/31212314878_288e12b34f_b.jpg" width="450" />
+<figcaption><em>Eider Pena com Jos&eacute; Sarney. (Foto: Divulga&ccedil;&atilde;o)</em></figcaption>
+</figure>
 
 <p><br />
 Proibida de comprar novas terras, a empresa usou seu capital pol&iacute;tico para tentar reverter a decis&atilde;o. No livro &ldquo;C&oacute;digo Florestal e Compensa&ccedil;&atilde;o de Reserva Legal: ambiente pol&iacute;tico e pol&iacute;tica ambiental&rdquo;, o autor Paulo Roberto Cunha relata que uma minuta redigida pela empresa e apresentada ao Conselho Nacional do Meio Ambiente (Conama), viria a se tornar a Medida Provis&oacute;ria (MP) 1.605-30/1998, que introduziu o sistema de compensa&ccedil;&atilde;o de reserva legal no Brasil. A compensa&ccedil;&atilde;o de RL foi um dos pilares que levou &agrave; cria&ccedil;&atilde;o do Novo C&oacute;digo Florestal de 2012.</p>
@@ -114,8 +116,14 @@ Um dos principais respons&aacute;veis pela indica&ccedil;&atilde;o de cargos com
 <p><br />
 <strong>&lsquo;HERDEIRO&rsquo; DE SARNEY QUER O SENADO</strong></p>
 
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="nalama-1-273x300.jpg" height="495" src="//farm2.staticflickr.com/1901/31212314758_5c2113fa68_b.jpg" width="450" />
+<figcaption><em>Borges apoiou Amanaj&aacute;s na campanha para governador em 2010.<br />
+(Foto: Reprodu&ccedil;&atilde;o)</em></figcaption>
+</figure>
+
 <p><br />
-Borges apoiou Amanaj&aacute;s na campanha para governador em 2010. (Foto: Reprodu&ccedil;&atilde;o)<br />
 Entre os rivais de Amanaj&aacute;s na briga pelo Senado est&aacute; o ex-aliado Gilvam Borges (MDB), que tenta retomar a cadeira perdida em 2011. Afilhado pol&iacute;tico e sucessor de Jos&eacute; Sarney, Gilvam &eacute; filho de Miguel Pinheiro Borges, denunciado na CPI das Terras P&uacute;blicas como um dos principais benefici&aacute;rios da grilagem da Amcel no Amap&aacute;.</p>
 
 <p><br />
@@ -136,8 +144,14 @@ Mais uma vez na disputa para o Senado, Gilvam Borges leva consigo a fam&iacute;l
 <p><br />
 Candidato a governador, Jo&atilde;o Capiberibe lidera as pesquisas de inten&ccedil;&atilde;o de voto contra o senador Davi Alcolumbre (DEM) e o candidato &agrave; reelei&ccedil;&atilde;o Waldez G&oacute;es (PDT), outro pol&iacute;tico intimamente ligado &agrave; Amcel.</p>
 
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="waldez-amcel-marcioloureiro-governodoamapa-300x218.jpg" height="327" src="//farm2.staticflickr.com/1929/31212314728_9424f613d0_b.jpg" width="450" />
+<figcaption><em>Waldez recebendo diretores da Amcel em seu gabinete.<br />
+(Foto: M&aacute;rcio Loureiro/Portal Governo do Amap&aacute;)</em></figcaption>
+</figure>
+
 <p><br />
-Waldez recebendo diretores da Amcel em seu gabinete. (Foto: M&aacute;rcio Loureiro/Portal Governo do Amap&aacute;)<br />
 Em 2017, ele recebeu a nova diretoria da empresa no Pal&aacute;cio do Setentri&atilde;o e anunciou seu apoio &agrave; entrada da Amcel no mercado de gr&atilde;os, com o plantio de 20 mil hectares de soja. Na campanha de 2014, o grupo nip&ocirc;nico doou R$ 20 mil para a elei&ccedil;&atilde;o de Waldez.</p>
 
 <p><br />
