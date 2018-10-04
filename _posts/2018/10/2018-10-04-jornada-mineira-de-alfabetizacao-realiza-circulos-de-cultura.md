@@ -88,16 +88,19 @@ Os munic&iacute;pios de Almenara, Tumiritinga, Novo Cruzeiro, S&atilde;o Joaquim
 Durante a forma&ccedil;&atilde;o, foram estudadas a concep&ccedil;&atilde;o de cultura para o MST, as linguagens art&iacute;sticas, o conceito de arte e educa&ccedil;&atilde;o, comunica&ccedil;&atilde;o e express&atilde;o, e como trabalhar as hist&oacute;rias de vida dos educandos, tudo isso para munir os educadores e as educadoras de conte&uacute;dos para as aulas, que ser&atilde;o em roda e com bastante di&aacute;logo.</div>
 
 <div>&nbsp;
-<p style="text-align:center"><img alt="sel (4).JPG" height="467" src="//farm2.staticflickr.com/1918/30163763277_4a6c3b4ff2_b.jpg" width="700" /></p>
-<br />
-Marlic&eacute;ia Gonzaga, que faz parte da coordena&ccedil;&atilde;o pol&iacute;tico-pedag&oacute;gica da jornada, fala sobre como o projeto &eacute; importante na atual conjuntura como ferramenta de transforma&ccedil;&atilde;o social. &quot;Se bem trabalhados, os C&iacute;rculos de Cultura elevam a educa&ccedil;&atilde;o a uma pr&aacute;tica &ldquo;cr&iacute;tico-libertadora&rdquo;, propiciando a compreens&atilde;o e consequentemente a transforma&ccedil;&atilde;o da realidade, especialmente neste momento complicado da conjuntura em que as pessoas n&atilde;o refletem o que de fato est&aacute; acontecendo&quot;, contextualiza.&nbsp;</div>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="sel (4).JPG" height="467" src="//farm2.staticflickr.com/1918/30163763277_4a6c3b4ff2_b.jpg" width="700" />
+<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+</figure>
+</div>
+</div>
+
+<div>&nbsp;
+<div>Marlic&eacute;ia Gonzaga, que faz parte da coordena&ccedil;&atilde;o pol&iacute;tico-pedag&oacute;gica da jornada, fala sobre como o projeto &eacute; importante na atual conjuntura como ferramenta de transforma&ccedil;&atilde;o social. &quot;Se bem trabalhados, os C&iacute;rculos de Cultura elevam a educa&ccedil;&atilde;o a uma pr&aacute;tica &ldquo;cr&iacute;tico-libertadora&rdquo;, propiciando a compreens&atilde;o e consequentemente a transforma&ccedil;&atilde;o da realidade, especialmente neste momento complicado da conjuntura em que as pessoas n&atilde;o refletem o que de fato est&aacute; acontecendo&quot;, contextualiza.&nbsp;</div>
 
 <div><br />
 <br />
 O educador Thiago Sampir, que atua no munic&iacute;pio de Tumiritinga, fala sobre a import&acirc;ncia da confian&ccedil;a e das rela&ccedil;&otilde;es humanas no aprendizado. &ldquo;&Eacute; s&oacute; come&ccedil;ar a falar de trabalho, de opress&atilde;o, que a galera come&ccedil;a a falar, n&atilde;o precisamos inventar o que &eacute; trabalhador, a gente sabe contar hist&oacute;ria de emprego em loja de moto, a&ccedil;ougue, livraria, mercearia, a gente tamb&eacute;m sabe de quem somos filhos.&nbsp;</div>
-
-<div><br />
-<br />
 O desabafo gera tanto a vontade de escrever aquelas tantas palavras da opress&atilde;o, quanto as palavras da liberta&ccedil;&atilde;o. O que faz aprender a escrever &eacute; sentimento, n&atilde;o s&oacute; raz&atilde;o.&quot;&nbsp;</div>
 
 <div><br />
