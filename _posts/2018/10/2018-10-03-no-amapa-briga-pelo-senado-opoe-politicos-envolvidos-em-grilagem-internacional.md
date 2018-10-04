@@ -18,6 +18,34 @@ files:
     small: //farm2.staticflickr.com/1938/45037204412_2788cc36c1_n.jpg
     title: jorge-amanajas-eider-pena-mz-portal.jpg
     $$hashKey: "066"
+  - link: //farm2.staticflickr.com/1901/31212314758_5c2113fa68_b.jpg
+    original: //farm2.staticflickr.com/1901/31212314758_9bb2e67526_o.jpg
+    thumbnail: //farm2.staticflickr.com/1901/31212314758_5c2113fa68_t.jpg
+    medium: //farm2.staticflickr.com/1901/31212314758_5c2113fa68_z.jpg
+    small: //farm2.staticflickr.com/1901/31212314758_5c2113fa68_n.jpg
+    title: nalama-1-273x300.jpg
+    $$hashKey: "057"
+  - link: //farm2.staticflickr.com/1929/31212314728_9424f613d0_b.jpg
+    original: //farm2.staticflickr.com/1929/31212314728_541e28c065_o.jpg
+    thumbnail: //farm2.staticflickr.com/1929/31212314728_9424f613d0_t.jpg
+    medium: //farm2.staticflickr.com/1929/31212314728_9424f613d0_z.jpg
+    small: //farm2.staticflickr.com/1929/31212314728_9424f613d0_n.jpg
+    title: waldez-amcel-marcioloureiro-governodoamapa-300x218.jpg
+    $$hashKey: 05A
+  - link: //farm2.staticflickr.com/1903/31212314878_288e12b34f_b.jpg
+    original: //farm2.staticflickr.com/1903/31212314878_029e965640_o.jpg
+    thumbnail: //farm2.staticflickr.com/1903/31212314878_288e12b34f_t.jpg
+    medium: //farm2.staticflickr.com/1903/31212314878_288e12b34f_z.jpg
+    small: //farm2.staticflickr.com/1903/31212314878_288e12b34f_n.jpg
+    title: eleicoes-amapa-eiderpena-300x208.jpg
+    $$hashKey: 05G
+  - link: //farm2.staticflickr.com/1940/43272378090_41b90190f4_b.jpg
+    original: //farm2.staticflickr.com/1940/43272378090_a50d7e5cff_o.jpg
+    thumbnail: //farm2.staticflickr.com/1940/43272378090_41b90190f4_t.jpg
+    medium: //farm2.staticflickr.com/1940/43272378090_41b90190f4_z.jpg
+    small: //farm2.staticflickr.com/1940/43272378090_41b90190f4_n.jpg
+    title: amcel-soja-eucalipto.jpg
+    $$hashKey: 05J
 created_date: "2018-10-03T20:58:29-03:00"
 published: true
 releated_posts:
@@ -48,8 +76,13 @@ Com 71% de seu territ&oacute;rio protegido sob unidades de conserva&ccedil;&atil
 <p><br />
 Um dos pioneiros da sojicultura no estado &eacute; Jorge Amanaj&aacute;s (PPS), ex-presidente da Assembleia e candidato ao Senado. Junto ao deputado estadual Eider Pena (PR), Amanaj&aacute;s liderou miss&otilde;es no Mato Grosso, visando o escoamento de gr&atilde;os via porto de Santana, e encabe&ccedil;ou a tentativa de revogar a lei que criou a Floresta Estadual do Amap&aacute; (Flota), numa &aacute;rea cobi&ccedil;ada por produtores de soja.</p>
 
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="amcel-soja-eucalipto.jpg" height="337" src="//farm2.staticflickr.com/1940/43272378090_41b90190f4_b.jpg" width="450" />
+<figcaption><em>Lado a lado, eucalipto e soja no Amap&aacute;. (Foto: Divulga&ccedil;&atilde;o/Amcel)</em></figcaption>
+</figure>
+
 <p><br />
-Lado a lado, eucalipto e soja no Amap&aacute;. (Foto: Divulga&ccedil;&atilde;o/Amcel)<br />
 A dupla &ndash; que ilustra a foto em destaque &ndash; tem mais coisas em comum. Em 2006, os dois foram denunciados pelo Incra por um esquema de grilagem na Fazenda Lago Azul. Segundo a a&ccedil;&atilde;o ajuizada no Minist&eacute;rio P&uacute;blico no &acirc;mbito da CPI das Terras P&uacute;blicas do Amap&aacute;, os deputados compraram inicialmente 1.377 hectares pela bagatela de R$ 67 mil. O pre&ccedil;o baixo se devia ao fato das terras estarem em uma &aacute;rea sob lit&iacute;gio, originalmente pertencentes &agrave; Amap&aacute; Florestal e Celulose (Amcel), desde os anos 1970 considerada uma das principais respons&aacute;veis pela grilagem de terras p&uacute;blicas no estado.</p>
 
 <p><br />
@@ -64,8 +97,9 @@ Como resultado da CPI, a Amcel foi condenada a devolver 118 mil hectares &agrave
 <p><br />
 Em 1998, dois anos antes de ser incorporada pela multinacional estadunidense International Paper, a Amcel j&aacute; havia se comprometido a n&atilde;o utilizar 140 mil hectares adquiridos irregularmente. Em 1995, outros 10 mil hectares haviam sido devolvidos no munic&iacute;pio de Tartarugalzinho, por ind&iacute;cios de grilagem.</p>
 
+<p>&nbsp;</p>
+
 <p><br />
-Eider Pena com Jos&eacute; Sarney. (Foto: Divulga&ccedil;&atilde;o)<br />
 Proibida de comprar novas terras, a empresa usou seu capital pol&iacute;tico para tentar reverter a decis&atilde;o. No livro &ldquo;C&oacute;digo Florestal e Compensa&ccedil;&atilde;o de Reserva Legal: ambiente pol&iacute;tico e pol&iacute;tica ambiental&rdquo;, o autor Paulo Roberto Cunha relata que uma minuta redigida pela empresa e apresentada ao Conselho Nacional do Meio Ambiente (Conama), viria a se tornar a Medida Provis&oacute;ria (MP) 1.605-30/1998, que introduziu o sistema de compensa&ccedil;&atilde;o de reserva legal no Brasil. A compensa&ccedil;&atilde;o de RL foi um dos pilares que levou &agrave; cria&ccedil;&atilde;o do Novo C&oacute;digo Florestal de 2012.</p>
 
 <p><br />
