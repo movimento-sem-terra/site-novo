@@ -68,7 +68,7 @@ Da P&aacute;gina do MST</em><span style="font-size: 12pt;">&nbsp;</span></div>
 <p>No final da d&eacute;cada de 1970, quando as contradi&ccedil;&otilde;es do modelo agr&iacute;cola se tornam mais intensas, ressurgem as ocupa&ccedil;&otilde;es de terra no Brasil. Em setembro de 1979, centenas de agricultores ocupam as granjas Macali e Brilhante, no Rio Grande do Sul. Em 1981, um novo acampamento surge no mesmo estado e pr&oacute;ximo dessas &aacute;reas: a&nbsp;<a href="http://www.mst.org.br/2014/06/18/a-luta-do-acampamento-encruzilhada-natalino.html">Encruzilhada Natalino</a>, que se tornou s&iacute;mbolo da luta de resist&ecirc;ncia &agrave; ditadura militar, agregando em torno de si a sociedade civil que exigia um regime democr&aacute;tico.</p>
 
 <p><br />
-Hoje, 3 de outubro, 37 anos depois, a Encruzilhada Natalino segue sendo s&iacute;mbolo de resist&ecirc;ncia na luta pela Reforma Agr&aacute;ria Popular e por uma sociedade mais justa e igualit&aacute;ria.&nbsp;&nbsp;<br />
+Nesta &uacute;ltima quarta-feira, 3 de outubro, 37 anos depois, a Encruzilhada Natalino segue sendo s&iacute;mbolo de resist&ecirc;ncia na luta pela Reforma Agr&aacute;ria Popular e por uma sociedade mais justa e igualit&aacute;ria.&nbsp;&nbsp;<br />
 &nbsp;</p>
 
 <p><strong>Veja abaixo a cr&ocirc;nica preparada pela Frente Palavras Rebeldes:&nbsp;</strong></p>
