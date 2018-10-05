@@ -102,7 +102,8 @@ Candidato &agrave; reelei&ccedil;&atilde;o, o senador Jader Barbalho (MDB) tem u
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="eleicoes-para-jader-300x200.jpg" height="300" src="//farm2.staticflickr.com/1974/31233097488_13949b5d0d_b.jpg" width="450" />
-<figcaption><em>Acostumado com o poder: Jader. (Foto: Jefferson Rudy/Ag&ecirc;ncia Senado)</em></figcaption>
+<figcaption><em>Acostumado com o poder: Jader.<br />
+(Foto: Jefferson Rudy/Ag&ecirc;ncia Senado)</em></figcaption>
 </figure>
 
 <p><br />
@@ -129,7 +130,8 @@ Como em outros estados da Federa&ccedil;&atilde;o, os ruralistas paraenses apost
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="paulo-bengston-221x298.png" height="405" src="//farm2.staticflickr.com/1936/31233101318_93bbc4ab43_b.jpg" width="300" />
-<figcaption><em>O pastor e pol&iacute;tico Paulo Bengston (Foto: Facebook)</em></figcaption>
+<figcaption><em>O pastor e pol&iacute;tico Paulo Bengston<br />
+(Foto: Facebook)</em></figcaption>
 </figure>
 
 <p><br />
