@@ -119,7 +119,7 @@ Trago esse hist&oacute;rico para mostrar ao povo, que a classe trabalhadora nunc
 Falta muita informa&ccedil;&atilde;o verdadeira para o povo. A tarefa das pessoas que entendem e tem acesso &agrave; informa&ccedil;&atilde;o &eacute; fazer o trabalho de base com o povo, explicando o que de fato significa eleger esse candidato.&nbsp;</p>
 
 <p><br />
-Bolsonaro &eacute; contra os direitos trabalhistas das mulheres, afirma que temos que ganhar menos porque engravidamos. Nos ataca quando diz que a crian&ccedil;a criada pela m&atilde;e e av&oacute; &eacute; uma f&aacute;brica de desajustados. Por isso e muito mais, as mulheres brasileiras devem se informar e n&atilde;o votar nesse tipo de candidato.&nbsp;</p>
+Bolsonaro &eacute; contra os direitos trabalhistas das mulheres, afirma que temos que ganhar menos porque engravidamos. Nos ataca quando diz que a crian&ccedil;a criada pela m&atilde;e e av&oacute; &eacute; uma f&aacute;brica de d. Por isso e muito mais, as mulheres brasileiras devem se informar e n&atilde;o votar nesse tipo de candidato.&nbsp;</p>
 
 <p><br />
 O voto das mulheres &eacute; decisivo para o futuro do Brasil, por isso n&atilde;o podemos titubear e votar incerto. N&atilde;o devemos nos basear em &oacute;dio e rancor pregado pela m&iacute;dia burguesa (Rede Globo, SBT, Record, grandes grupos regionais repetidores dessas redes, Grupo Folha de S&atilde;o Paulo, Estad&atilde;o, Editora Abril, portal UOL, Terra, entre outros), para decidir nosso voto. Devemos votar por convic&ccedil;&atilde;o, escolhendo quem est&aacute; do lado das mulheres, quem nos representa na pol&iacute;tica e apresenta um projeto de futuro para o Brasil.</p>
