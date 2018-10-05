@@ -6,7 +6,7 @@ tags:
   - tag: lutas-e-mobilizações
 title: "“O voto das mulheres é decisivo para o futuro do Brasil, por isso não podemos titubear\""
 images_hd: //farm2.staticflickr.com/1951/31231172658_d17564677b_b.jpg
-support_line: "Josineide Costa, da direção do MPA e da Via Campesina Brasil, aponta que é necessário fazer o trabalho de base com o povo explicando o que de fato significa eleger Jair Bolsonaro."
+support_line: "Josineide Costa, do MPA e da Via Campesina Brasil, aponta que é necessário fazer trabalho de base com o povo, explicando o que significa eleger Bolsonaro."
 menu: lutas e mobilizações
 label: interviews
 layout: post
@@ -64,7 +64,7 @@ Da P&aacute;gina do MST</em></p>
 No &uacute;ltimo dia 29 de setembro, o Brasil assistiu a uma mobiliza&ccedil;&atilde;o hist&oacute;rica de milhares de mulheres, nas 26 capitais e no Distrito Federal. Reunidas em torno do #EleN&atilde;o, as mulheres lutaram contra o avan&ccedil;o do fascismo, do &oacute;dio, do machismo, da misoginia, homofobia e das diversas formas de preconceitos e opress&atilde;o pregadas pelo presidenci&aacute;vel Jair Bolsonaro (PSL).</p>
 
 <p><br />
-Em entrevista para a&nbsp; P&aacute;gina do MST, a coordenadora nacional do Movimento dos Pequenos Agricultores (MPA) e Via Campesina, Josineide Costa, faz um balan&ccedil;o sobre a import&acirc;ncia das mobiliza&ccedil;&otilde;es e o processo de resist&ecirc;ncia organizada pelas mulheres, nesse momento hist&oacute;rico e cr&iacute;tico do pa&iacute;s, em que se observa uma avan&ccedil;o de um conservadorismo, aumento da opress&atilde;o e viol&ecirc;ncia contra as mulheres, negros, LGBTs e as ditas minorias sociais.</p>
+Em entrevista para a&nbsp; P&aacute;gina do MST, a coordenadora nacional do Movimento dos Pequenos Agricultores (MPA) e Via Campesina, Josineide Costa, faz um balan&ccedil;o sobre a import&acirc;ncia das mobiliza&ccedil;&otilde;es e o processo de resist&ecirc;ncia organizada pelas mulheres, nesse momento hist&oacute;rico e cr&iacute;tico do pa&iacute;s, em que se observa o&nbsp;avan&ccedil;o de um conservadorismo, aumento da opress&atilde;o e viol&ecirc;ncia contra as mulheres, negros, LGBTs e as ditas minorias sociais.</p>
 
 <p><br />
 Josineide considera que o dia 29 de setembro representa um marco hist&oacute;rico no pa&iacute;s, pela demonstra&ccedil;&atilde;o de for&ccedil;a das mulheres brasileiras contra o projeto de viol&ecirc;ncia desse candidato. &ldquo;O significado desta luta nos traz esperan&ccedil;a, de que juntas conseguimos somar for&ccedil;as contra um dos projetos de destrui&ccedil;&atilde;o da democracia do nosso pa&iacute;s.&rdquo;</p>
@@ -76,7 +76,7 @@ Josineide considera que o dia 29 de setembro representa um marco hist&oacute;ric
 <strong>O que os atos das mulheres em todo pa&iacute;s, no dia 29 de setembro, contra o fascismo e o &oacute;dio pregado pelo presidenci&aacute;vel Jair Bolsonaro do PSL, chamado de #EleN&atilde;o, significou para a luta das mulheres no Brasil?</strong></p>
 
 <p><br />
-O dia 29 ficou marcado na hist&oacute;ria do nosso pa&iacute;s, pela demonstra&ccedil;&atilde;o de for&ccedil;a da mulher brasileira contra o &oacute;dio, o fascismo, o machismo e contra o coiso, que tem em suas a&ccedil;&otilde;es e discursos todas as formas de preconceito e opress&atilde;o que representam retrocesso para o Brasil.&nbsp;</p>
+O dia 29 ficou marcado na hist&oacute;ria do nosso pa&iacute;s, pela demonstra&ccedil;&atilde;o de for&ccedil;a da mulher brasileira contra o &oacute;dio, o fascismo, o machismo e contra o &quot;coiso&#39; [Jair Bolsonaro], que tem em suas a&ccedil;&otilde;es e discursos todas as formas de preconceito e opress&atilde;o que representam retrocesso para o Brasil.&nbsp;</p>
 
 <p><br />
 Mostramos a unidade entre os diversos setores organizados, que fazem lutas no nosso pa&iacute;s e tamb&eacute;m das mulheres aut&ocirc;nomas, mulheres do campo e da cidade unidas contra o projeto do fascismo.&nbsp;&nbsp;</p>
@@ -88,7 +88,7 @@ Mostramos a unidade entre os diversos setores organizados, que fazem lutas no no
 O significado desta luta nos traz esperan&ccedil;a, de que juntas conseguimos somar for&ccedil;as contra um dos projetos de destrui&ccedil;&atilde;o da democracia do nosso pa&iacute;s.&nbsp;</p>
 
 <p><br />
-Sabemos que nem todas as mulheres que se somaram nesta luta em todo o Brasil, defendemos os mesmos ideais ou as mesmas posi&ccedil;&otilde;es na luta. Por&eacute;m, h&aacute; um hist&oacute;rico de lutas das mulheres organizadas nos movimentos sociais e sindicais do campo e da cidade que sempre se somam nas lutas, porque nossos inimigos s&atilde;o os mesmos.&nbsp;</p>
+Sabemos que nem todas as mulheres que se somaram nesta luta em todo o Brasil defendem&nbsp;os mesmos ideais ou as mesmas posi&ccedil;&otilde;es na luta. Por&eacute;m, h&aacute; um hist&oacute;rico de lutas das mulheres organizadas nos movimentos sociais e sindicais do campo e da cidade que sempre se somam nas lutas, porque nossos inimigos s&atilde;o os mesmos.&nbsp;</p>
 
 <p><br />
 E esta conjuntura nos mostrou a necessidade das mulheres feministas se somarem apara combater a figura de Jair Bolsonaro, que representa um dos setores mais perversos do nosso pa&iacute;s.<br />
@@ -104,7 +104,7 @@ E esta conjuntura nos mostrou a necessidade das mulheres feministas se somarem a
 <strong>Dada a crise pol&iacute;tica e de representatividade, com o avan&ccedil;o do fascismo, machismo, a misoginia, homofobia, do conservadorismo e o &oacute;dio contra as minorias, qual import&acirc;ncia dessa mobiliza&ccedil;&atilde;o?&nbsp;</strong>&nbsp;</p>
 
 <p><br />
-Este ato faz parte das a&ccedil;&otilde;es em defesa de um pa&iacute;s democr&aacute;tico. Come&ccedil;amos a nos mobilizar em defesa do direito da presidenta Dilma em governar de forma legitima e com apoio popular, porque foi eleita pela maioria do povo brasileiro.&nbsp;</p>
+Este ato faz parte das a&ccedil;&otilde;es em defesa de um pa&iacute;s democr&aacute;tico. Come&ccedil;amos a nos mobilizar em defesa do direito da presidenta Dilma em governar de forma leg&iacute;tima e com apoio popular, porque foi eleita pela maioria do povo brasileiro.&nbsp;</p>
 
 <p><br />
 Depois seguimos em luta pela defesa da liberdade do ex-presidente Lula e o seu direito de ser candidato &agrave; presid&ecirc;ncia. De forma injusta lhe negaram esse direto, sendo o candidato do povo Fernando Haddad e Manuela D&rsquo;&aacute;vila.&nbsp;</p>
