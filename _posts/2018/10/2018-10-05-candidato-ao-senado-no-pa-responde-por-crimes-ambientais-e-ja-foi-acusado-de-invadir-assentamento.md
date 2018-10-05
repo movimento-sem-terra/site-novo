@@ -161,3 +161,9 @@ Ele defende os interesses da frente, como o projeto de lei que quer passar para 
 
 <p><br />
 A defesa de empresas est&aacute; entre as preocupa&ccedil;&otilde;es de Flexa, que reclamou da atua&ccedil;&atilde;o do Ibama em frigor&iacute;ficos acusados de desmatamento. Ao mesmo tempo, o senador j&aacute; foi acusado de usar verba parlamentar para pagar o aluguel de sua antiga construtora, a Engeplan.</p>
+
+<p>&nbsp;</p>
+
+<p>LEIA MAIS:</p>
+
+<p><a href="http://www.mst.org.br/2018/10/03/no-amapa-briga-pelo-senado-opoe-politicos-envolvidos-em-grilagem-internacional.html"><strong>No Amap&aacute;, briga pelo Senado op&otilde;e pol&iacute;ticos envolvidos em grilagem internacional</strong></a></p>
