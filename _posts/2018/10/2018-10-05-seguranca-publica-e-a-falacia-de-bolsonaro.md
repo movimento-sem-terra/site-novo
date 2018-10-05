@@ -44,7 +44,7 @@ Da P&aacute;gina do MST</em></p>
 <p>O candidato do Partido Social Liberal (PSL) Jair Bolsonaro tem como caracter&iacute;stica o abuso do discurso de &oacute;dio e a propaga&ccedil;&atilde;o da viol&ecirc;ncia. Al&eacute;m da apologia a tortura, sua campanha &eacute; baseada na promessa de uma sociedade militarizada, apoiada no &oacute;dio e no desrespeito as diferen&ccedil;as.</p>
 
 <p><br />
-Seu vice, &eacute; Antonio Hamilton Martins Mour&atilde;o, general da reserva do Ex&eacute;rcito Brasileiro que, al&eacute;m de elogiar publicamente a interven&ccedil;&atilde;o militar no Rio de Janeiro, tem como &iacute;dolo um dos maiores torturadores do pa&iacute;s, Carlos Bilhante Ustra.</p>
+Seu vice&nbsp;&eacute; Antonio Hamilton Martins Mour&atilde;o, general da reserva do Ex&eacute;rcito Brasileiro que, al&eacute;m de elogiar publicamente a interven&ccedil;&atilde;o militar no Rio de Janeiro, tem como &iacute;dolo um dos maiores torturadores do pa&iacute;s, Carlos Bilhante Ustra.</p>
 
 <p><br />
 Ustra - que &eacute; igualmente enaltecido por Bolsonaro - foi Chefe do Destacamento de Opera&ccedil;&otilde;es de Informa&ccedil;&atilde;o - Centro de Opera&ccedil;&otilde;es de Defesa Interna (DOI-CODI) quando foram registradas 45 mortes e desaparecimentos de presos pol&iacute;ticos, segundo a Comiss&atilde;o Nacional da Verdade.</p>
@@ -76,18 +76,4 @@ Ao contr&aacute;rio do que &eacute; propagado, essas medidas que j&aacute; se de
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
 </div>
