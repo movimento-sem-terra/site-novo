@@ -8,7 +8,7 @@ title: "Candidato ao Senado no PA responde por crimes ambientais e já foi acusa
 support_line: "Exportador de madeira, Sidney Rosa (PSB) divide protagonismo agrário no estado com famílias envolvidas em denúncias, como os Barbalho e Bengston"
 menu: agronegócio
 label: special-stories
-images_hd: //farm2.staticflickr.com/1928/44386192964_da3cecaa75_b.jpg
+images_hd: //farm2.staticflickr.com/1927/43293005940_386e01ffbb_b.jpg
 layout: post
 files:
   - link: //farm2.staticflickr.com/1974/31233097488_13949b5d0d_b.jpg
@@ -39,6 +39,13 @@ files:
     small: //farm2.staticflickr.com/1941/43292878220_7f036faa4a_n.jpg
     title: sidney-rosa-166x300.png
     $$hashKey: 05R
+  - link: //farm2.staticflickr.com/1927/43293005940_386e01ffbb_b.jpg
+    original: //farm2.staticflickr.com/1927/43293005940_f572de0b53_o.jpg
+    thumbnail: //farm2.staticflickr.com/1927/43293005940_386e01ffbb_t.jpg
+    medium: //farm2.staticflickr.com/1927/43293005940_386e01ffbb_z.jpg
+    small: //farm2.staticflickr.com/1927/43293005940_386e01ffbb_n.jpg
+    title: sidneyrosa.jpg.jpg
+    $$hashKey: 05D
 created_date: "2018-10-04T22:32:37-03:00"
 published: true
 releated_posts:
@@ -50,6 +57,12 @@ releated_posts:
 
 ---
 <p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="sidneyrosa.jpg.jpg" height="580" src="//farm2.staticflickr.com/1927/43293005940_386e01ffbb_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p><br />
 <em>Por Lu&iacute;s Indriunas<br />
