@@ -3,4 +3,4 @@ layout: null
 ---
 
 {% assign posts = site.posts  | where: "special-page", "eleicoes" %}
-{% include posts.json posts=posts %}
+{% include posts.json posts=posts %} 
