@@ -2,5 +2,5 @@
 layout: null
 ---
 
-{% assign posts = site.posts  | where: "special-page", "marcha-nacional-lula-livre" %}
+{% assign posts = site.posts  | where: "special-page", "eleicao" %}
 {% include posts.json posts=posts %} 
