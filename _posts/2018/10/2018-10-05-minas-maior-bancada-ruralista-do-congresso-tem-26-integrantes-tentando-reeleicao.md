@@ -47,7 +47,7 @@ published: true
 releated_posts: []
 
 ---
-<p><img alt="Tabela_MG-V2.png" height="996" src="//farm2.staticflickr.com/1942/45075218342_064de1a561_b.jpg" width="500" /></p>
+<p><img alt="Tabela_MG-V2.png" height="797" src="//farm2.staticflickr.com/1942/45075218342_064de1a561_b.jpg" width="400" /></p>
 
 <p>&nbsp;</p>
 
@@ -81,8 +81,9 @@ A maior bancada ruralista do Congresso, pretende reeleger 26 parlamentares signa
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="aecio_den2-300x200.jpg" height="267" src="//farm2.staticflickr.com/1950/43310728370_ba5b317604_b.jpg" width="400" />
-<figcaption>Senador quer vaga na C&acirc;mara. (Foto: Jefferson Rudy/Ag&ecirc;ncia Senado)</figcaption>
+<figure class="image" style="float:right"><img alt="aecio_den2-300x200.jpg" height="200" src="//farm2.staticflickr.com/1950/43310728370_ba5b317604_b.jpg" width="300" />
+<figcaption>Senador quer vaga na C&acirc;mara.<br />
+(Foto: Jefferson Rudy/Ag&ecirc;ncia Senado)</figcaption>
 </figure>
 
 <p>Nem todo pol&iacute;tico ruralista faz quest&atilde;o de integrar essa frente. Caso not&oacute;rio: A&eacute;cio Neves, dono de 950 hectares em Montezuma, ao norte, uma das cidades mais pobres do estado. As terras est&atilde;o em nome da Perfil Agropecu&aacute;ria e Florestal Ltda e foram arrematadas pelo pai de A&eacute;cio em um processo de usucapi&atilde;o &ndash; apesar do tamanho &ndash; movido em 2000, quando o filho exercia seu quarto mandato como deputado federal.</p>
@@ -110,12 +111,11 @@ A maior bancada ruralista do Congresso, pretende reeleger 26 parlamentares signa
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="eleicoes-minas-marcosmontes-betobarata-300x197.jpg" height="197" src="//farm2.staticflickr.com/1956/43310802860_7af524573d_b.jpg" width="300" />
-<figcaption>Montes recebendo Temer na FPA. (Foto: Beto Barata/PR)</figcaption>
+<figcaption>Montes recebendo Temer na FPA.<br />
+(Foto: Beto Barata/PR)</figcaption>
 </figure>
 
-<p>O deputado foi lan&ccedil;ado pela frente parlamentar como candidato &agrave; presid&ecirc;ncia da C&acirc;mara no bi&ecirc;nio 2017/2018. Perdeu para Rodrigo Maia (DEM). Ex-prefeito de Uberaba (1997-2004), cidade mineira conhecida como a &ldquo;capital mundial do Zebu&rdquo;, Montes assumiu a presid&ecirc;ncia da Comiss&atilde;o de Agricultura, Pecu&aacute;ria, Abastecimento e Desenvolvimento Rural logo em seu primeiro mandato como deputado federal, em 2007. &Eacute; co-autor do RCP 16/2015, que instituiu a&nbsp;<a href="https://deolhonosruralistas.com.br/2017/05/19/organizacoes-repudiam-cpi-da-funai-e-do-incra-que-pediu-mais-de-70-indiciamentos/">CPI da Funai e </a></p>
-
-<p><a href="https://deolhonosruralistas.com.br/2017/05/19/organizacoes-repudiam-cpi-da-funai-e-do-incra-que-pediu-mais-de-70-indiciamentos/">Incra</a>.</p>
+<p>O deputado foi lan&ccedil;ado pela frente parlamentar como candidato &agrave; presid&ecirc;ncia da C&acirc;mara no bi&ecirc;nio 2017/2018. Perdeu para Rodrigo Maia (DEM). Ex-prefeito de Uberaba (1997-2004), cidade mineira conhecida como a &ldquo;capital mundial do Zebu&rdquo;, Montes assumiu a presid&ecirc;ncia da Comiss&atilde;o de Agricultura, Pecu&aacute;ria, Abastecimento e Desenvolvimento Rural logo em seu primeiro mandato como deputado federal, em 2007. &Eacute; co-autor do RCP 16/2015, que instituiu a&nbsp;<a href="https://deolhonosruralistas.com.br/2017/05/19/organizacoes-repudiam-cpi-da-funai-e-do-incra-que-pediu-mais-de-70-indiciamentos/">CPI da Funai e Incra</a>.</p>
 
 <p>&nbsp;</p>
 
@@ -125,37 +125,80 @@ A maior bancada ruralista do Congresso, pretende reeleger 26 parlamentares signa
 
 <h4><strong>DA ARISTOCRACIA AO TRABALHO ESCRAVO</strong></h4>
 
+<p>&nbsp;</p>
+
 <p>Do outro lado da disputa pelo governo de Minas Gerais, o ex-vice de Fernando Pimentel (PT), Ant&ocirc;nio Andrade (MDB), tamb&eacute;m est&aacute; ligado ao agroneg&oacute;cio. Ele &eacute; dono da Agropecu&aacute;ria Bom Pastor, em Vazante (MG). Em julho, Andrade foi destitu&iacute;do da presid&ecirc;ncia estadual do MDB e concorre a uma vaga na C&acirc;mara. O rompimento com Pimentel, em 2017, levou o MDB a lan&ccedil;ar candidato pr&oacute;prio ao governo do estado: Adalclever Lopes, filho do deputado federal Mauro Lopes, outro membro da FPA.</p>
+
+<p>&nbsp;</p>
 
 <p>Entre os 26 ruralistas que concorrer&atilde;o &agrave; reelei&ccedil;&atilde;o est&atilde;o produtores de leite que conseguem barrar importa&ccedil;&atilde;o do produto do Uruguai, cafeicultores endividados, pol&iacute;ticos apoiados por empresas acusadas de trabalho escravo, os aristocratas da fam&iacute;lia Andrada e diversos interessados em manter o foro privilegiado, seja por causa da Lava Jato, seja por outras acusa&ccedil;&otilde;es. Conhe&ccedil;a-os um pouco melhor.</p>
 
+<p>&nbsp;</p>
+
 <p>A deputada Raquel Muniz (PSD), diretora da Comiss&atilde;o de Agricultura Familiar da FPA, se tornou uma celebridade na internet ao elogiar o marido Ruy Muniz &ndash; como vimos, preso menos de um dia depois &ndash; durante a vota&ccedil;&atilde;o pelo impeachment da presidente Dilma Rousseff. Entre 2014 e 2018, o patrim&ocirc;nio declarado pela m&eacute;dica cresceu 564% &ndash; mas ali n&atilde;o aparece nenhum bem rural.</p>
+
+<p>&nbsp;</p>
 
 <p>Outra lideran&ccedil;a importante da FPA, Z&eacute; Silva (SD) ocupa a vice-presid&ecirc;ncia da regi&atilde;o Sudeste. Engenheiro agr&ocirc;nomo, ele foi presidente da Empresa de Assist&ecirc;ncia T&eacute;cnica e Extens&atilde;o Rural (Emater-MG) entre 2003 e 2010 e, em 2014, secret&aacute;rio de Estado da Agricultura, Pecu&aacute;ria e Abastecimento. Em junho, assim como Raquel, votou na comiss&atilde;o especial pela aprova&ccedil;&atilde;o do PL do Veneno.</p>
 
+<p>&nbsp;</p>
+
 <p>Nas elei&ccedil;&otilde;es de 2014, Z&eacute; Silva recebeu doa&ccedil;&atilde;o de R$ 100 mil da multinacional Cutrale, autuada por manter trabalhadores &ndash; na regi&atilde;o do&nbsp;<a href="http://reporterbrasil.org.br/2018/05/mesmo-na-lista-suja-cutrale-tem-fazendas-certificadas-com-selo-internacional/">Tri&acirc;ngulo Mineiro</a>&nbsp;&ndash; em regime an&aacute;logo &agrave; escravid&atilde;o. A empresa tamb&eacute;m financiou naquele ano o deputado Marcos Montes, que recebeu R$ 155 mil.</p>
+
+<p>&nbsp;</p>
 
 <h4><strong>ELES DEFENDEM SETORES DO CAF&Eacute; E DO LEITE</strong></h4>
 
+<p>&nbsp;</p>
+
 <p>Minas Gerais tamb&eacute;m se destaca no lobby setorial. Junto ao Esp&iacute;rito Santo, Minas comp&otilde;e a &ldquo;bancada do caf&eacute;&rdquo;, encabe&ccedil;ada por Carlos Melles (DEM). L&iacute;der da Frente Parlamentar do Caf&eacute;, Melles foi, durante 28 anos, presidente da Cooperativa Regional dos Cafeicultores de S&atilde;o Sebasti&atilde;o do Para&iacute;so. Em 2015, deixou o grupo em maus len&ccedil;&oacute;is. Com uma d&iacute;vida de R$ 12 milh&otilde;es, a Coopara&iacute;so foi vendida e incorporada pela Coopercitrus.</p>
+
+<p>&nbsp;</p>
 
 <p>O deputado Domingos S&aacute;vio (PSDB) presidiu a Frente Parlamentar do Cooperativismo. Sua fazenda em Divin&oacute;polis, no oeste mineiro, avaliada em R$ 1,5 milh&atilde;o, abriga cafeicultura e cria&ccedil;&atilde;o de gado leiteiro. Em outubro de 2017, S&aacute;vio teve atua&ccedil;&atilde;o decisiva na suspens&atilde;o das importa&ccedil;&otilde;es de leite do Uruguai.</p>
 
+<p>&nbsp;</p>
+
 <p>Outro defensor do caf&eacute; no Congresso &eacute; Silas Brasileiro (MDB). Ele &eacute; dono da Reunidas Brasil Central, pela qual comercializa a safra cafeeira de suas fazendas no Oeste de Minas: quatro em Patroc&iacute;nio e uma, de 1.911 hectares, em Romaria. Desde 2017, Silas &eacute; presidente do Conselho Nacional do Caf&eacute;.</p>
+
+<p>&nbsp;</p>
 
 <p>As elei&ccedil;&otilde;es tamb&eacute;m trazem algumas despedidas. Bonif&aacute;cio de Andrada (PSDB), autor do relat&oacute;rio que rejeitou a segunda den&uacute;ncia de impeachment contra Michel Temer, n&atilde;o concorrer&aacute; &agrave; reelei&ccedil;&atilde;o ap&oacute;s cumprir dez mandatos consecutivos. Em seu lugar, indicar&aacute; o filho Lafayette Andrada (PRB).</p>
 
+<p>&nbsp;</p>
+
 <p>Para al&eacute;m das fazendas em Ant&ocirc;nio Carlos (MG), a liga&ccedil;&atilde;o da fam&iacute;lia Andrade com o &ldquo;caf&eacute; com leite&rdquo; &eacute; antiga: ela est&aacute; no Congresso desde antes da Primeira Rep&uacute;blica (1889-1930), quando as oligarquias rurais de S&atilde;o Paulo e Minas Gerais se alternavam no poder. Seu patrono &eacute;&nbsp;<a href="https://www.conjur.com.br/2005-mar-09/familia_andrada_impera_imperio_minas_gerais">Jos&eacute; Bonif&aacute;cio de Andrada e Silva</a>.</p>
+
+<p>&nbsp;</p>
 
 <p>A lista dos deputados federais candidatos &agrave; reelei&ccedil;&atilde;o inclui outros empres&aacute;rios ligados ao agroneg&oacute;cio, como o petista Adelmo Carneiro Le&atilde;o, que n&atilde;o pertence &agrave; FPA. Ele assumiu o cargo em abril de 2018, ap&oacute;s obter um recurso no STF. Possui a Agropecu&aacute;ria &Aacute;gua da Pedra, com cinco fazendas no Tri&acirc;ngulo Mineiro. Seu colega Misael Varella (PSD), empres&aacute;rio do setor log&iacute;stico e terceiro candidato mais rico do estado, possui fazendas em Campo Formoso (BA) e Itaperuna (RJ).</p>
 
-<h4>A FAZENDA DE &lsquo;100 MIL ALQUEIRES&rsquo;</h4>
+<p>&nbsp;</p>
+
+<h4><strong>A FAZENDA DE &lsquo;100 MIL ALQUEIRES&rsquo;</strong></h4>
+
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="eleicoes-minas-samarco-ninja.jpg" height="266" src="//farm2.staticflickr.com/1944/45124429391_f3739b4477_b.jpg" width="400" />
+<figcaption>Ru&iacute;nas em Mariana: setor da minera&ccedil;&atilde;o tamb&eacute;m tem representante.<br />
+(Foto: M&iacute;dia Ninja)</figcaption>
+</figure>
+</div>
+
+<p>&nbsp;</p>
 
 <p>No setor de minera&ccedil;&atilde;o &ndash; cuja demanda pelo afrouxamento do licenciamento ambiental casa diretamente com o lobby do agroneg&oacute;cio &ndash; o destaque &eacute; Leonardo Quint&atilde;o, l&iacute;der do MDB na C&acirc;mara durante o impeachment de Dilma Rousseff. Seu irm&atilde;o, Rodrigo Lemos Quint&atilde;o, &eacute; s&oacute;cio em quatro mineradoras e cria avestruzes em Caratinga (MG). Quint&atilde;o foi relator do novo C&oacute;digo da Minera&ccedil;&atilde;o, escrito diretamente do computador do advogado das mineradoras Vale e BHP, s&oacute;cias da Samarco, a respons&aacute;vel pelo desastre de Mariana.</p>
 
+<p>&nbsp;</p>
+
 <p>Entre os ruralistas mineiros, nove foram delatados durante a&nbsp;<a href="https://deolhonosruralistas.com.br/2018/06/13/dos-173-deputados-federais-que-respondem-por-crimes-43-sao-ruralistas/">Opera&ccedil;&atilde;o Lava-Jato</a>&nbsp;por recebimento de propina. Foram citados no &ldquo;list&atilde;o&rdquo; da Odebrecht: Ant&ocirc;nio Andrade, F&aacute;bio Ramalho e Mauro Lopes (MDB), Domingos S&aacute;vio e Paulo Abi Ackel (PSDB), Carlos Melles (DEM), Julio Delgado (PSB), Marcos Montes (PSD) e Weliton Prado (PROS) &ndash; al&eacute;m de A&eacute;cio Neves e Ant&ocirc;nio Anastasia, citados tamb&eacute;m na lista da JBS.</p>
 
+<p>&nbsp;</p>
+
 <p>O frigor&iacute;fico fez doa&ccedil;&otilde;es de campanha a outros candidatos importantes, como Adelmo Carneiro Le&atilde;o (PT), Aelton Freitas (PR), Bilac Pinto (PR), Diego Andrade (PSD), Lincoln Portela (PR), M&aacute;rio Heringer (PDT), Renzo Braz (PP), Saraiva Felipe (MDB), Z&eacute; Silva (SD) e, mais uma vez, diretamente de Uberl&acirc;ndia, Weliton Prado.</p>
+
+<p>&nbsp;</p>
 
 <p>Dono da Agropecu&aacute;ria Gavi&atilde;o, em Cavalcante (GO), e de outras duas fazendas em Iturama (MG), Aelton Freitas &eacute; um respons&aacute;vel direto pela exist&ecirc;ncia do De Olho nos Ruralistas. Em 2006, ele declarou&nbsp;<a href="https://www.dgabc.com.br/Noticia/324452/deputados-tem-terras-a-preco-de-banana">100 mil alqueires</a>&nbsp;em Altamira (PA), o maior munic&iacute;pio do Brasil. Depois ele disse ter ocorrido um engano: eram 100 alqueires, na regi&atilde;o Norte o equivalente a 272 hectares. Discrep&acirc;ncias como essa motivaram a elabora&ccedil;&atilde;o do livro Partido da Terra (Contexto, 2012), a partir do qual foi concebida a ideia de um observat&oacute;rio sobre agroneg&oacute;cio no Brasil.</p>
 
