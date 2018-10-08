@@ -5,7 +5,7 @@ tags:
 title: "João Pedro Stedile: \"Projetos e interesses ficarão claros no segundo turno\""
 support_line: Liderança do MST avalia disputa entre Fernando Haddad (PT) e Jair Bolsonaro (PSL) nas eleições presidenciais
 menu: lutas e mobilizações
-section: featured-news
+section: cover
 label: interviews
 images_hd: //farm2.staticflickr.com/1974/44274127805_07809b576b_b.jpg
 layout: post
