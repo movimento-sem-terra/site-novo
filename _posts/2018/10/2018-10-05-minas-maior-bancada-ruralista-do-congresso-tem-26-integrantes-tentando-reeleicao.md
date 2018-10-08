@@ -53,6 +53,7 @@ releated_posts:
   - _posts/2018/08/2018-08-01-pela-educacao-do-campo-mst-entrega-pauta-de-reivindicacao-em-sao-joaquim-de-bicas-mg.md
   - _posts/2018/08/2018-08-23-a-luta-pela-terra-em-minas-gerais-e-tema-de-jornada-universitaria.md
   - _posts/2018/02/2018-02-02-no-governo-golpista-a-reforma-agraria-e-politica-inexistente.md
+label: special-stories
 
 ---
 <p><img alt="Tabela_MG-V2.png" height="797" src="//farm2.staticflickr.com/1942/45075218342_064de1a561_b.jpg" width="400" /></p>
@@ -212,6 +213,8 @@ A maior bancada ruralista do Congresso, pretende reeleger 26 parlamentares signa
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<p>LEIA MAIS:</p>
+
+<p><a href="http://www.mst.org.br/2018/10/04/candidato-ao-senado-no-pa-responde-por-crimes-ambientais-e-ja-foi-acusado-de-invadir-assentamento.html">Candidato ao Senado no PA responde por crimes ambientais e j&aacute; foi acusado de invadir assentamento</a></p>
 
 <p>&nbsp;</p>
