@@ -8,7 +8,7 @@ title: "Aleida Guevara: \"Um povo não pode viver sem ter segurança na justiça
 menu: lutas e mobilizações
 support_line: "Em visita no Armazém do Campo-SP, a filha de Ernesto Che Guevara e Aleida March, demonstrou preocupação com a ameaça de fascismo que ronda o país "
 images_hd: //farm2.staticflickr.com/1903/44338261494_766f006af5_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm2.staticflickr.com/1903/44338261494_766f006af5_b.jpg
@@ -42,7 +42,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-10-02 at 15.06.15.jpeg" height="466" src="//farm2.staticflickr.com/1903/44338261494_766f006af5_b.jpg" width="700" />
-<figcaption>Aleida Guevara / Foto:&nbsp;Luara Dal Chiavon&nbsp;</figcaption>
+<figcaption><em>Aleida Guevara. Foto:&nbsp;Luara Dal Chiavon&nbsp;</em></figcaption>
 </figure>
 </div>
 
@@ -81,7 +81,7 @@ As mudan&ccedil;as e adequa&ccedil;&otilde;es s&atilde;o importantes dentro de u
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-10-02 at 15.06.15 (3).jpeg" height="466" src="//farm2.staticflickr.com/1906/31185600618_edf30a5f94_b.jpg" width="700" />
-<figcaption>Foto: Luara Dal Chiavon&nbsp;</figcaption>
+<figcaption><em>Foto: Luara Dal Chiavon&nbsp;</em></figcaption>
 </figure>
 </div>
 
