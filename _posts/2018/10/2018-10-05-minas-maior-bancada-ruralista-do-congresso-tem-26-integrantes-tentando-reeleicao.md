@@ -1,6 +1,8 @@
 ---
 date: "2018-10-05T19:52:58-03:00"
-tags: []
+tags:
+  - tag: minas-gerais
+  - tag: ruralistas
 title: "Minas: maior bancada ruralista do Congresso tem 26 integrantes tentando reeleição"
 support_line: "Integrantes da Frente Parlamentar da Agropecuária e outros fazendeiros tentam vaga, entre eles investigados pela Lava Jato e réus na Justiça, como Aécio Neves"
 images_hd: //farm2.staticflickr.com/1948/44212471565_7e4cb108b9_b.jpg
@@ -44,7 +46,13 @@ files:
     $$hashKey: 03C
 created_date: "2018-10-05T20:27:19-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/07/2018-07-05-sem-terra-ocupam-a-quarta-fazenda-de-eike-batista-no-entorno-de-belo-horizonte-mg.md
+  - _posts/2018/07/2018-07-03-mst-lanca-campanha-de-30-anos-em-mg-ocupando-as-terras-de-eike-batista.md
+  - _posts/2018/07/2018-07-30-acampamento-maria-da-conceicao-ira-erguer-mais-uma-escola-do-campo-na-regional-metropolitana.md
+  - _posts/2018/08/2018-08-01-pela-educacao-do-campo-mst-entrega-pauta-de-reivindicacao-em-sao-joaquim-de-bicas-mg.md
+  - _posts/2018/08/2018-08-23-a-luta-pela-terra-em-minas-gerais-e-tema-de-jornada-universitaria.md
+  - _posts/2018/02/2018-02-02-no-governo-golpista-a-reforma-agraria-e-politica-inexistente.md
 
 ---
 <p><img alt="Tabela_MG-V2.png" height="797" src="//farm2.staticflickr.com/1942/45075218342_064de1a561_b.jpg" width="400" /></p>
