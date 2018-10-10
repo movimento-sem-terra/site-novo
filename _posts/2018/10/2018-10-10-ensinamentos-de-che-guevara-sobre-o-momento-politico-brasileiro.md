@@ -39,10 +39,10 @@ Para P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Cultivemos flores em todos os cantos,<br />
+<p style="text-align: right;"><em>Cultivemos flores em todos os cantos,<br />
 Sem medo do encontrar de ra&iacute;zes,<br />
 Porque o brotar das diversas flores &eacute; um atalho para a liberdade,&nbsp;<br />
-Assim como Che, s&oacute; saberemos o que &eacute; ser livre quando respiramos os ares das lutas que conquistamos!&nbsp;</p>
+Assim como Che, s&oacute; saberemos o que &eacute; ser livre quando respiramos os ares das lutas que conquistamos!&nbsp;</em></p>
 
 <p><br />
 H&aacute; 51 anos, um m&eacute;dico argentino, jornalista, escritor, diplomata e l&iacute;der revolucion&aacute;rio jovem, que lutava junto aos trabalhadores pobres da Am&eacute;rica Latina, chamado Ernesto Che Guevara foi brutalmente assassinado pelas for&ccedil;as militares bolivianas, a mando da Central Intelligence Agency (CIA). A mesma ag&ecirc;ncia de intelig&ecirc;ncia civil do governo dos Estados Unidos.&nbsp;</p>
