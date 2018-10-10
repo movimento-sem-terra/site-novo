@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2018/10/2018-10-04-jaime-amorim-se-o-haddad-ganha-as-eleicoes-avancaremos-nas-conquistas-do-povo-brasileiro.md
   - _posts/2018/10/2018-10-04-stedile-nao-ha-espacos-mais-para-um-governo-de-composicao-de-classes.md
   - _posts/2018/10/2018-10-04-o-voto-das-mulheres-e-decisivo-para-o-futuro-do-brasil-por-isso-nao-podemos-titubear.md
+section: featured-news
 
 ---
 <div style="text-align:center">
