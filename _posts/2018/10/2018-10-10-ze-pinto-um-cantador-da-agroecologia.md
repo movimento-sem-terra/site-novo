@@ -30,6 +30,7 @@ releated_posts:
   - _posts/2018/09/2018-09-08-no-dia-internacional-da-alfabetizacao-mst-reforca-compromisso-com-o-saber.md
   - _posts/2018/03/2018-03-23-pereira-da-viola-lanca-disco-novos-caminhos-em-belo-horizonte.md
   - _posts/2018/05/2018-05-11-ja-esta-no-ar-a-webserie-sobre-o-pensamento-de-rosa-luxemburgo.md
+label: interviews
 
 ---
 <div style="text-align:center">
