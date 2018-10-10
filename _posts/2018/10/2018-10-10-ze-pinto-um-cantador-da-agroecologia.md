@@ -34,8 +34,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="image (2).png" height="468" src="//farm2.staticflickr.com/1912/45181267022_7cef5c228d_b.jpg" width="700" />
-<figcaption>Fotos: Luara Dal&nbsp;Chiavon&nbsp;<br />
-</figcaption>
+<figcaption><em>&quot;Porque a agroecologia &eacute; tudo aquilo que d&aacute; oportunidade&quot;, afirma Z&eacute;.&nbsp;Fotos: Luara Dal&nbsp;Chiavon&nbsp;</em></figcaption>
 </figure>
 </div>
 
@@ -43,12 +42,12 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por&nbsp;Por Joyce Fonseca e Geanini Hackbardt<br />
+<p><em>Por Joyce Fonseca e Geanini Hackbardt<br />
 Para P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>O cantor e compositor, Z&eacute; Pinto, um dos principais criadores de can&ccedil;&otilde;es do Movimento dos Trabalhadores Rurais Sem Terra (MST), &eacute; integrante do setor de Cultura e produtor agroecol&oacute;gico. Em suas can&ccedil;&otilde;es o cantador sem terra defende a precis&atilde;o de se &ldquo;amar a terra&nbsp;e nela plantar semente&rdquo; porque &ldquo;a gente cultiva ela e ela cultiva a gente&rdquo; (trecho da m&uacute;sica Caminhos Alternativos). Ele nos conta um pouco sobre a&nbsp;rela&ccedil;&atilde;o entre cultura e agroecologia e a import&acirc;ncia de ambas para sua vida.&nbsp;</p>
+<p>O cantor e compositor&nbsp;Z&eacute; Pinto, um dos principais criadores de can&ccedil;&otilde;es do MST, &eacute; integrante do setor de cultura e produtor agroecol&oacute;gico. Em suas can&ccedil;&otilde;es o cantador Sem Terra defende a precis&atilde;o de se &ldquo;amar a terra&nbsp;e nela plantar semente&rdquo; porque &ldquo;a gente cultiva ela e ela cultiva a gente&rdquo; (trecho da m&uacute;sica Caminhos Alternativos). Ele nos conta um pouco sobre a&nbsp;rela&ccedil;&atilde;o entre cultura e agroecologia e a import&acirc;ncia de ambas para sua vida.&nbsp;</p>
 
 <p><br />
 <strong>Confira a entrevista:</strong><br />
@@ -78,8 +77,7 @@ O MST &eacute; essa labuta de estar compreendendo a import&acirc;ncia da agroeco
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="image (3).png" height="479" src="//farm2.staticflickr.com/1940/31357557318_fc3c9c9f90_b.jpg" width="700" />
-<figcaption>Fotos: Luara Dal&nbsp;Chiavon&nbsp;<br />
-</figcaption>
+<figcaption><em>&quot;Meu pai &nbsp;sempre dizia que: &lsquo;uma &aacute;rvore a gente poda, a gente n&atilde;o corta. Tem que pensar muito pra poder derrubar uma &aacute;rvore&rsquo;&quot;.​&nbsp;Fotos: Luara Dal&nbsp;Chiavon&nbsp;</em></figcaption>
 </figure>
 </div>
 
@@ -94,3 +92,7 @@ Mas &eacute; que como a coisa &eacute; m&aacute;gica e bonita, acabam se apaixon
 
 <p><br />
 A gente junto vai ajudar na constru&ccedil;&atilde;o dessa nossa nova sociedade como isso que a gente j&aacute; conseguiu construir dentro do MST. Eu, enquanto cantador, minha vida ficaria muito sem sentido se eu n&atilde;o tivesse aprendendo dentro dessa beleza de ser defensor da agroecologia, onde voc&ecirc; planta de uma forma sem precisar de t&aacute; envenenando a terra. Voc&ecirc; planta com a consci&ecirc;ncia de que voc&ecirc; entrega um alimento pro seu filho, ou at&eacute; que seja pro filho de seu inimigo de classe, mas que voc&ecirc; sabe que n&atilde;o est&aacute; matando aquele inocente com uma porcaria que o agroneg&oacute;cio acha que &eacute; tudo de bom. Acredito que estamos no caminho certo, porque a gente planta, colhe e canta a vida e essa &eacute; a grande l&oacute;gica de quem acredita num sonho futuro, na beleza de sermos gente realmente superiores.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
