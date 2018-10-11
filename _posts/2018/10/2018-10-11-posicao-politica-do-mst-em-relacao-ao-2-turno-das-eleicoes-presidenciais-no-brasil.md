@@ -39,28 +39,25 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>O MST manifesta seu apoio a&nbsp;candidatura de Fernando Haddad e Manuela D&#39;&Aacute;vila&nbsp;&agrave; presid&ecirc;ncia da Rep&uacute;blica.</p>
+<p>O MST manifesta seu apoio &agrave;&nbsp;candidatura de Fernando Haddad e Manuela D&#39; Avila a&nbsp;presid&ecirc;ncia da Rep&uacute;blica e convoca as fam&iacute;lias assentadas e acampadas, os apoiadores e apoiadoras da luta pela reforma agr&aacute;ria &agrave; somarem-se na luta para a elegermos um projeto popular para o Brasil neste segundo turno.</p>
 
 <p><br />
-Entendemos que nessas elei&ccedil;&otilde;es est&atilde;o em disputa&nbsp;dois projetos. E nos posicionamos a favor do projeto que defende os trabalhadores e trabalhadoras, a democracia e um pa&iacute;s mais justo e soberano.&nbsp;</p>
+Entendemos que nestas elei&ccedil;&otilde;es est&atilde;o em disputas dois projetos. E nos posicionamos a favor do projeto que defende os trabalhadores e trabalhadoras, a democracia e um pa&iacute;s mais justo e soberano. Por isso, convocamos a todos e todas para a tarefa do trabalho de base, de debate, conscientiza&ccedil;&atilde;o e de constru&ccedil;&atilde;o de um Brasil para todos e todas.</p>
 
 <p><br />
-Em nossos 34 anos, sempre defendemos a democracia, os direitos humanos e sociais. Nesse per&iacute;odo tamb&eacute;m aprendemos na pr&aacute;tica&nbsp;que o discurso da viol&ecirc;ncia do Estado sempre atinge&nbsp;os mais pobres. Portanto, nosso lado sempre foi o da vida,&nbsp;da luta, da justi&ccedil;a e&nbsp;da democracia.</p>
+Em nossos 34 anos, sempre defendemos a democracia, os direitos humanos e os direitos sociais. Assim como aprendemos na pr&aacute;tica de que o discurso da viol&ecirc;ncia do Estado sempre se dirige contra os mais pobres. Portanto, nosso lado sempre foi o da vida, o da luta, o da justi&ccedil;a, o da democracia e a defesa dos direitos.</p>
 
 <p><br />
-Apoiamos Haddad porque acreditamos que a sa&iacute;da para a grave crise social, pol&iacute;tica, econ&ocirc;mica e institucional do nosso pa&iacute;s est&aacute; em&nbsp;um projeto popular que garanta gera&ccedil;&atilde;o de emprego e renda sem retirada dos direitos.</p>
+Apoiamos Haddad porque acreditamos que a sa&iacute;da para a grave crise social, pol&iacute;tica e econ&ocirc;mica do nosso pa&iacute;s s&oacute; &eacute; poss&iacute;vel com um projeto popular que garanta gera&ccedil;&atilde;o de emprego e renda sem retirada dos direitos.</p>
 
 <p><br />
-Apoiamos Haddad&nbsp;porque lutamos por vida digna e por justi&ccedil;a no campo. Apoiamos Haddad porque lutamos pela&nbsp;produ&ccedil;&atilde;o de alimentos saud&aacute;veis, que concentra&nbsp;respeito aos bens comuns e a natureza. Apoiamos Haddad porque lutamos por pol&iacute;ticas sociais que desenvolvam as agroind&uacute;strias e a agroecologia, a educa&ccedil;&atilde;o do campo e o combate &agrave;&nbsp;toda forma de discrimina&ccedil;&atilde;o,&nbsp;preconceito e desigualdade.</p>
+Porque lutamos por vida digna e justi&ccedil;a no campo, com a produ&ccedil;&atilde;o de alimentos saud&aacute;veis, com respeito aos bens comuns da natureza, com pol&iacute;ticas sociais que desenvolvam as agroind&uacute;strias e a agroecologia, a educa&ccedil;&atilde;o do campo e o combate a toda forma de discrimina&ccedil;&atilde;o e preconceito apoiamos Haddad.</p>
 
 <p><br />
-Reafirmamos nosso compromisso em seguir lutando pela liberdade do presidente Lula,&nbsp;denunciando as viola&ccedil;&otilde;es constitucionais e as manipula&ccedil;&otilde;es do Poder Judici&aacute;rio e da m&iacute;dia burguesa que interferem e violam a vida democr&aacute;tica do pa&iacute;s.&nbsp;</p>
+Por isso, convocamos tamb&eacute;m a sociedade para combater o retrocesso, o autoritarismo e a intoler&acirc;ncia expressos na outra candidatura. Para isso &eacute; importante o engajamento de todos e todas, em cada espa&ccedil;o, em cada bairro, em cada munic&iacute;pio, para que o medo e a viol&ecirc;ncia n&atilde;o nos derrotem, nem submetam nosso pa&iacute;s a um projeto de retrocesso, de retirada de direitos e de subordina&ccedil;&atilde;o ao capital e aos interesses internacionais.</p>
 
 <p><br />
-Diante disso, convocamos&nbsp;as fam&iacute;lias assentadas e acampadas, os apoiadores e apoiadoras da Reforma Agr&aacute;ria e tamb&eacute;m a sociedade civil&nbsp;a&nbsp;somarem-se na batalha&nbsp;para&nbsp;elegermos um projeto popular e democr&aacute;tico para o Brasil.</p>
-
-<p><br />
-&Eacute;&nbsp;importante o engajamento de todas e todos, na tarefa do trabalho de base e conscientiza&ccedil;&atilde;o&nbsp;em cada espa&ccedil;o, em cada bairro, em cada munic&iacute;pio, em cada grupo de WhatsApp&nbsp;para que possamos&nbsp;combater a desinforma&ccedil;&atilde;o, o retrocesso, o autoritarismo e a intoler&acirc;ncia expressos na outra candidatura. Unidos vamos lutar para que o medo e a viol&ecirc;ncia n&atilde;o nos derrotem, nem submetam nosso pa&iacute;s a um projeto&nbsp;de retirada de direitos e de subordina&ccedil;&atilde;o ao capital e aos interesses internacionais.</p>
+Reafirmamos nosso compromisso em seguir lutando pela liberdade do presidente Lula,&nbsp; denunciando as viola&ccedil;&otilde;es constitucionais e manipula&ccedil;&otilde;es do judici&aacute;rio e da m&iacute;dia burguesa que interferem e violam a vida democr&aacute;tica do pa&iacute;s.&nbsp;</p>
 
 <p><br />
 Os brasileiros e brasileiras derrotar&atilde;o o medo, a intoler&acirc;ncia e a viol&ecirc;ncia.</p>
@@ -68,8 +65,9 @@ Os brasileiros e brasileiras derrotar&atilde;o o medo, a intoler&acirc;ncia e a 
 <p><br />
 Lula Livre!</p>
 
-<p><br />
-Lutar, construir Reforma Agr&aacute;ria Popular!</p>
+<p>Lutar, construir reforma agr&aacute;ria popular!</p>
+
+<p>&nbsp;</p>
 
 <p style="text-align: right;"><br />
 Dire&ccedil;&atilde;o Nacional do MST<br />
