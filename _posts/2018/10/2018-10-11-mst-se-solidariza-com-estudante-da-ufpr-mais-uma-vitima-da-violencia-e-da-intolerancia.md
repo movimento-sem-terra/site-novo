@@ -54,10 +54,10 @@ Khaliu Turt, um jovem estudante foi agredido dentro das depend&ecirc;ncias da Un
 <p><br />
 A viol&ecirc;ncia avan&ccedil;a a passos largos. Ela n&atilde;o &eacute; contra um partido, um movimento ou uma posi&ccedil;&atilde;o pol&iacute;tica. Ela &eacute; contra a democracia, o respeito, a diversidade de opini&atilde;o e de express&atilde;o.</p>
 
-<p dir="ltr" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;"><br />
+<p dir="ltr"><br />
 N&atilde;o podemos permitir que isso se naturalize em nossa sociedade. Seguran&ccedil;a n&atilde;o se constr&oacute;i com viol&ecirc;ncia, educa&ccedil;&atilde;o n&atilde;o se constr&oacute;i com armas, liberdade n&atilde;o se constr&oacute;i com opress&atilde;o.</p>
 
-<p dir="ltr" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;"><br />
+<p dir="ltr"><br />
 Chega de viol&ecirc;ncia! Que a esperan&ccedil;a e a toler&acirc;ncia sejam mais fortes que o &oacute;dio e ven&ccedil;am as ideias e pr&aacute;ticas autorit&aacute;rias e neofascistas, infelizmente cada vez mais presentes em nossa sociedade.</p>
 
 <p>&nbsp;</p>
