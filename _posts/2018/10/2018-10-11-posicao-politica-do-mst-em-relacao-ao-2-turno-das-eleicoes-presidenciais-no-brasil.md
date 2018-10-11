@@ -45,7 +45,7 @@ releated_posts:
 Entendemos que nestas elei&ccedil;&otilde;es est&atilde;o em disputas dois projetos. E nos posicionamos a favor do projeto que defende os trabalhadores e trabalhadoras, a democracia e um pa&iacute;s mais justo e soberano. Por isso, convocamos a todos e todas para a tarefa do trabalho de base, de debate, conscientiza&ccedil;&atilde;o e de constru&ccedil;&atilde;o de um Brasil para todos e todas.</p>
 
 <p><br />
-Em nossos 34 anos, sempre defendemos a democracia, os direitos humanos e os direitos sociais. Assim como aprendemos na pr&aacute;tica de que o discurso da viol&ecirc;ncia do Estado sempre se dirige contra os mais pobres. Portanto, nosso lado sempre foi o da vida, o da luta, o da justi&ccedil;a, o da democracia e a defesa dos direitos.</p>
+Em nossos 34 anos, sempre defendemos a democracia, os direitos humanos e os direitos sociais. Assim como aprendemos na pr&aacute;tica que o discurso da viol&ecirc;ncia do Estado sempre se dirige contra os mais pobres. Portanto, nosso lado sempre foi o da vida, o da luta, o da justi&ccedil;a, o da democracia e a defesa dos direitos.</p>
 
 <p><br />
 Apoiamos Haddad porque acreditamos que a sa&iacute;da para a grave crise social, pol&iacute;tica e econ&ocirc;mica do nosso pa&iacute;s s&oacute; &eacute; poss&iacute;vel com um projeto popular que garanta gera&ccedil;&atilde;o de emprego e renda sem retirada dos direitos.</p>
