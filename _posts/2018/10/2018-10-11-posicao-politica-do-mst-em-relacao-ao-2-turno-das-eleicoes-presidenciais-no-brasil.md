@@ -39,7 +39,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>O MST manifesta seu apoio &agrave;&nbsp;candidatura de Fernando Haddad e Manuela D&#39; Avila a&nbsp;presid&ecirc;ncia da Rep&uacute;blica e convoca as fam&iacute;lias assentadas e acampadas, os apoiadores e apoiadoras da luta pela reforma agr&aacute;ria &agrave; somarem-se na luta para a elegermos um projeto popular para o Brasil neste segundo turno.</p>
+<p>O MST manifesta seu apoio &agrave;&nbsp;candidatura de Fernando Haddad e Manuela D&#39; Avila a&nbsp;presid&ecirc;ncia da Rep&uacute;blica e convoca as fam&iacute;lias assentadas e acampadas, os apoiadores e apoiadoras da luta pela reforma agr&aacute;ria &agrave; somarem-se na luta para&nbsp;elegermos um projeto popular para o Brasil neste segundo turno.</p>
 
 <p><br />
 Entendemos que nestas elei&ccedil;&otilde;es est&atilde;o em disputas dois projetos. E nos posicionamos a favor do projeto que defende os trabalhadores e trabalhadoras, a democracia e um pa&iacute;s mais justo e soberano. Por isso, convocamos a todos e todas para a tarefa do trabalho de base, de debate, conscientiza&ccedil;&atilde;o e de constru&ccedil;&atilde;o de um Brasil para todos e todas.</p>
