@@ -3,7 +3,7 @@ date: "2018-10-11T17:13:52-03:00"
 tags:
   - tag: clube-do-livro
   - tag: expressão-popular
-title: "Clube do Livro | GUERRAS HÍBRIDAS \uD83D\uDCDA"
+title: "Clube do Livro | GUERRAS HÍBRIDAS"
 support_line: "Nesse mês o Clube do Livro da Expressão Popular traz o livro “Guerras Híbridas: das revoluções coloridas aos golpes” de Andrew Korybko. "
 section: tv
 video: "https://youtu.be/5VA9n26VbM4"
