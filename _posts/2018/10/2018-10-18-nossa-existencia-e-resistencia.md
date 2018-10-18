@@ -54,7 +54,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_8545.jpg" height="467" src="//farm2.staticflickr.com/1958/31539091708_247007bdbc_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption><em>Curso &eacute; parte do processo de forma&ccedil;&atilde;o e constru&ccedil;&atilde;o do debate sobre a Diversidade Sexual no MST</em></figcaption>
 </figure>
 </div>
 
@@ -74,7 +74,9 @@ Com uma programa&ccedil;&atilde;o repleta de estudo e atividades diversas, que t
 Temas como a an&aacute;lise do atual momento pol&iacute;tico, a diversidade sexual, quest&atilde;o racial, identidade de g&ecirc;nero, orienta&ccedil;&atilde;o sexual, patriarcado e a luta pela terra, s&atilde;o discutidos com a milit&acirc;ncia Sem Terra com o objetivo de apontar elementos da luta popular no contexto do acirramento de luta de classes.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="IMG_8548.jpg" height="301" src="//farm2.staticflickr.com/1921/44690064804_179004d77b_b.jpg" width="450" />
-<figcaption></figcaption>
+<figcaption><em>&nbsp;&quot;Nossa tarefa &eacute; mostrar que assim como rompemos as cercas do<br />
+latif&uacute;ndio improdutivo, precisamos romper as cercas que impedem cada<br />
+trabalhador e trabalhadora de viver plenamente, com dignidade, e amar&rdquo;.</em></figcaption>
 </figure>
 
 <p><br />
@@ -90,7 +92,8 @@ Na carta de abertura do curso, assinada pelo Coletivo LGBT Sem Terra, foi afirma
 Diante desse cen&aacute;rio, o documento faz algumas afirma&ccedil;&otilde;es: &ldquo;Precisamos seguir lutando. Lutando pela supera&ccedil;&atilde;o das mais variadas formas de explora&ccedil;&atilde;o e opress&atilde;o, denunciar e n&atilde;o aceitar as mais variadas formas de viol&ecirc;ncia, mudar nosso jeito de pensar e sentir a revolu&ccedil;&atilde;o subjetiva&rdquo;.</p>
 
 <figure class="image" style="float:right"><img alt="IMG_8567.jpg" height="300" src="//farm2.staticflickr.com/1904/45362965232_a61606902a_b.jpg" width="450" />
-<figcaption></figcaption>
+<figcaption><em>Nesta pr&oacute;xima sexta-feira (20), o Coletivo LGBT Sem Terra realiza&nbsp;a<br />
+Plen&aacute;ria das LGBTI+ contra o Fascismo.&nbsp;</em></figcaption>
 </figure>
 
 <p><br />
