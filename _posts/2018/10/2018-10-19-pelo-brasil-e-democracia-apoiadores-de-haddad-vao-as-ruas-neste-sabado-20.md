@@ -36,6 +36,8 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
+<p style="text-align:center"><img alt="4fbb53760fb42feafdf6fcc62e0263a3.png" height="700" src="//farm2.staticflickr.com/1974/43619151950_64e7d06aff_b.jpg" width="700" /></p>
+
 <p><br />
 <em>Da Frente Brasil Popular&nbsp;</em></p>
 
@@ -54,8 +56,6 @@ Por outro lado, a candidatura de Fernando Haddad que, neste segundo turno, repre
 <p><br />
 &ldquo;S&oacute; o voto em Haddad, pode impor essa derrota. Por isso agora todos/as somos #HaddadSim&rdquo;, afirma a nota.</p>
 
-<p>&nbsp;</p>
-
 <p><br />
 <span style="color: rgb(7, 130, 193); text-decoration-line: underline;">Baixe os materiais aqui</span></p>
 
@@ -67,7 +67,7 @@ Macei&oacute;&nbsp;20/10&nbsp;15H<br />
 FRENTE PELA DEMOCRACIA CONTRA A RETIRADA DE DIREITOS<br />
 CONCENTRA&Ccedil;&Atilde;O ALAGOINHAS &ndash; PRA&Ccedil;A GOG&Oacute; DA EMA AT&Eacute; O POSTO 7</p>
 
-<p>AM<br />
+<p><strong>AM</strong><br />
 Manaus 20/10&nbsp;9h00<br />
 CARREATA do 13 - Local: Concentra&ccedil;&atilde;o &ndash; Pra&ccedil;a do Congresso na Av. Ramos Ferreira (devemos estacionar no entorno da Pra&ccedil;a)<br />
 Encerramento &ndash; Manaus Moderna &ndash; Adesiva&ccedil;o e Bandeira&ccedil;o</p>
@@ -76,7 +76,7 @@ Encerramento &ndash; Manaus Moderna &ndash; Adesiva&ccedil;o e Bandeira&ccedil;o
 Ato dos Artistas pela Democracia, com a participa&ccedil;&atilde;o das mulheres &quot;Ele N&atilde;o&quot;<br />
 Local: Largo S&atilde;o Sebasti&atilde;o, fica na Pra&ccedil;a S&atilde;o Sebasti&atilde;o em frente ao Teatro Amazonas</p>
 
-<p>BA</p>
+<p><strong>BA</strong></p>
 
 <p>Ilh&eacute;us&nbsp;20/10&nbsp;9h - Pra&ccedil;a Cairu</p>
 
@@ -88,7 +88,7 @@ Local: Largo S&atilde;o Sebasti&atilde;o, fica na Pra&ccedil;a S&atilde;o Sebast
 
 <p>Vit&oacute;ria da Conquista&nbsp;20/10&nbsp;11h -&nbsp;Pra&ccedil;a Bar&atilde;o do Rio Branco</p>
 
-<p>CE</p>
+<p><strong>CE</strong></p>
 
 <p>Fortaleza&nbsp;20/10&nbsp;15h -&nbsp;Pra&ccedil;a da Bandeira</p>
 
@@ -100,21 +100,21 @@ Local: Largo S&atilde;o Sebasti&atilde;o, fica na Pra&ccedil;a S&atilde;o Sebast
 
 <p>Maracana&uacute;&nbsp;20/10&nbsp;18:13h - Ato ecum&ecirc;nico na Pra&ccedil;a do Acaracuzinho - Organiza&ccedil;&atilde;o: Comit&ecirc; Popular</p>
 
-<p>DF</p>
+<p><strong>DF</strong></p>
 
 <p>Bras&iacute;lia&nbsp;20/10&nbsp;15h -&nbsp;Rodovi&aacute;ria Plano Piloto</p>
 
-<p>ES</p>
+<p><strong>ES</strong></p>
 
 <p>Vit&oacute;ria&nbsp;20/10&nbsp;8:30h -&nbsp;Pra&ccedil;a Oito</p>
 
-<p>GO</p>
+<p><strong>GO</strong></p>
 
 <p>Goi&acirc;nia&nbsp;20/10&nbsp;9h -&nbsp;Pra&ccedil;a C&iacute;vica</p>
 
 <p>Jata&iacute;&nbsp;20/10&nbsp;9h -&nbsp;Pra&ccedil;a do Olho D&acute;Agu&aacute;</p>
 
-<p>MA</p>
+<p><strong>MA</strong></p>
 
 <p>Santa In&ecirc;s&nbsp;20/10&nbsp;9h -&nbsp;Pra&ccedil;a das Laranjeiras</p>
 
@@ -124,7 +124,7 @@ Local: Largo S&atilde;o Sebasti&atilde;o, fica na Pra&ccedil;a S&atilde;o Sebast
 
 <p>S&atilde;o Luis&nbsp;20/10 16h - Pra&ccedil;a Maria Arag&atilde;o</p>
 
-<p>MG</p>
+<p><strong>MG</strong></p>
 
 <p>Belo Horizonte&nbsp;20/10&nbsp;12h -&nbsp;Pra&ccedil;a Sete de Setembro</p>
 
@@ -136,7 +136,7 @@ Local: Largo S&atilde;o Sebasti&atilde;o, fica na Pra&ccedil;a S&atilde;o Sebast
 
 <p>Pedro Teixeira&nbsp;21/10 14h -&nbsp;Centro</p>
 
-<p>MS</p>
+<p><strong>MS</strong></p>
 
 <p>Campo Grande&nbsp;20/10&nbsp;15hs -&nbsp;Pra&ccedil;a Cuiab&aacute; Cabe&ccedil;a de Boi</p>
 
@@ -146,15 +146,15 @@ Local: Largo S&atilde;o Sebasti&atilde;o, fica na Pra&ccedil;a S&atilde;o Sebast
 
 <p>Dourados&nbsp;20/10&nbsp;9h -&nbsp;Panfletagem na fila do Pres&iacute;dio (fam&iacute;lia dos Presidiarios)</p>
 
-<p>MT</p>
+<p><strong>MT</strong></p>
 
 <p>CUIAB&Aacute;&nbsp;20/10&nbsp;8H -Caminhada pela Paz e Democradia - Haddad 13 - Concentra&ccedil;&atilde;o &agrave;s 8h em frente a Igreja do Ros&aacute;rio</p>
 
-<p>PA</p>
+<p><strong>PA</strong></p>
 
 <p>Bel&eacute;m&nbsp;20/10&nbsp;16h - Mercado de S&atilde;o Br&aacute;s</p>
 
-<p>PB</p>
+<p><strong>PB</strong></p>
 
 <p>Jo&atilde;o Pessoa&nbsp;20/10&nbsp;15h -&nbsp;Pra&ccedil;a do Coqueiral</p>
 
@@ -164,13 +164,13 @@ Local: Largo S&atilde;o Sebasti&atilde;o, fica na Pra&ccedil;a S&atilde;o Sebast
 
 <p>Jo&atilde;o Pessoa&nbsp;21/10 9h -&nbsp;Mangabeira com Haddad. Concentra&ccedil;&atilde;o: Unimed (entrada da Josefa Taveira) . Destino: Mercado P&uacute;blico</p>
 
-<p>PE</p>
+<p><strong>PE</strong></p>
 
 <p>Petrolina&nbsp;20/10&nbsp;15h -&nbsp;Orla de Petrolina (Ato Pol&iacute;tico e Cultural)</p>
 
 <p>Recife&nbsp;20/10&nbsp;15h -&nbsp;Pra&ccedil;a do Derby</p>
 
-<p>PI</p>
+<p><strong>PI</strong></p>
 
 <p>Parna&iacute;ba&nbsp;20/10&nbsp;08:30h -&nbsp;Concentra&ccedil;&atilde;o na Pra&ccedil;a da Gra&ccedil;a no centro da cidade seguida de panfletagem no centro.</p>
 
@@ -178,7 +178,7 @@ Local: Largo S&atilde;o Sebasti&atilde;o, fica na Pra&ccedil;a S&atilde;o Sebast
 
 <p>Picos&nbsp;20/10&nbsp;15h -&nbsp;Caminhada com Haddad (Haddad estar&aacute; presente na agenda)</p>
 
-<p>PR</p>
+<p><strong>PR</strong></p>
 
 <p>Cascavel&nbsp;20/10&nbsp;16h-&nbsp;Igreja Matriz</p>
 
@@ -198,7 +198,7 @@ Local: Largo S&atilde;o Sebasti&atilde;o, fica na Pra&ccedil;a S&atilde;o Sebast
 
 <p>Toledo&nbsp;20/10&nbsp;16h -&nbsp;Parque Ecologico Diva Baim Barth</p>
 
-<p>RJ</p>
+<p><strong>RJ</strong></p>
 
 <p>Cabo Frio 20/10&nbsp;15h -&nbsp;Pra&ccedil;a Porto Rocha</p>
 
@@ -212,7 +212,7 @@ Local: Largo S&atilde;o Sebasti&atilde;o, fica na Pra&ccedil;a S&atilde;o Sebast
 
 <p>Volta Redonda&nbsp;20/10&nbsp;14h -&nbsp;Pra&ccedil;a Brasil</p>
 
-<p>RN</p>
+<p><strong>RN</strong></p>
 
 <p>Feira de A&ccedil;u&nbsp;20/10&nbsp;&nbsp;</p>
 
@@ -220,7 +220,7 @@ Local: Largo S&atilde;o Sebasti&atilde;o, fica na Pra&ccedil;a S&atilde;o Sebast
 
 <p>Parnamirim&nbsp;20/10&nbsp;16hs -&nbsp;Carreata</p>
 
-<p>RS</p>
+<p><strong>RS</strong></p>
 
 <p>Gramado&nbsp;20/10&nbsp;15h -&nbsp;Passeata partindo do Gin&aacute;sio Jos&eacute; Francisco Perini - Perin&atilde;o &agrave;s 15h30 em dire&ccedil;&atilde;o &agrave; Pra&ccedil;a das Etnias</p>
 
@@ -230,7 +230,7 @@ Local: Largo S&atilde;o Sebasti&atilde;o, fica na Pra&ccedil;a S&atilde;o Sebast
 
 <p>S&atilde;o Borja&nbsp;20/10&nbsp;16h -&nbsp;Parque General Vargas</p>
 
-<p>SC</p>
+<p><strong>SC</strong></p>
 
 <p>Balne&aacute;rio Cambori&uacute;&nbsp;20/10&nbsp;14h -&nbsp;Pra&ccedil;a Higino Jo&atilde;o Pio</p>
 
@@ -238,7 +238,7 @@ Local: Largo S&atilde;o Sebasti&atilde;o, fica na Pra&ccedil;a S&atilde;o Sebast
 
 <p>Florian&oacute;polis&nbsp;20/10&nbsp;13h -&nbsp;Largo da Catedral</p>
 
-<p>SE</p>
+<p><strong>SE</strong></p>
 
 <p>Aracaju 20/10&nbsp;9h -&nbsp;Pra&ccedil;a Fausto Cardoso</p>
 
@@ -247,7 +247,7 @@ Imedia&ccedil;&otilde;es do Corpo de Bombeiros &ndash; Praia de Atalaia</p>
 
 <p>Aracaj&uacute;&nbsp;20/10&nbsp;7H - Mulheres fo coletivo #HaddadSim -&nbsp;Panfletagem no Terminal de &ocirc;nibus ao lado do Mercado do Centro</p>
 
-<p>SP</p>
+<p><strong>SP</strong></p>
 
 <p>Ara&ccedil;atuba 20/10 15h -&nbsp;Pra&ccedil;a Rui Barbosa</p>
 
@@ -281,6 +281,6 @@ Imedia&ccedil;&otilde;es do Corpo de Bombeiros &ndash; Praia de Atalaia</p>
 
 <p>Taubat&eacute;&nbsp;20/10&nbsp;15h&nbsp;Pra&ccedil;a da Eletro</p>
 
-<p>TO</p>
+<p><strong>TO</strong></p>
 
 <p>Palmas&nbsp;20/10&nbsp;8h&nbsp;Pra&ccedil;a da Igreja Matriz de Taquaralto</p>
