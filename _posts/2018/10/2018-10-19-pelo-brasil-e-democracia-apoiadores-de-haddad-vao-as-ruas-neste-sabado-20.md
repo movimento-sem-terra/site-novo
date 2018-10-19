@@ -238,6 +238,8 @@ Local: Largo S&atilde;o Sebasti&atilde;o, fica na Pra&ccedil;a S&atilde;o Sebast
 
 <p>Florian&oacute;polis&nbsp;20/10&nbsp;13h -&nbsp;Largo da Catedral</p>
 
+<p>Joinville 20/10 15h -&nbsp;Biblioteca Rolf Colin/Pra&ccedil;a Lauro M&uuml;ller</p>
+
 <p><strong>SE</strong></p>
 
 <p>Aracaju 20/10&nbsp;9h -&nbsp;Pra&ccedil;a Fausto Cardoso</p>
