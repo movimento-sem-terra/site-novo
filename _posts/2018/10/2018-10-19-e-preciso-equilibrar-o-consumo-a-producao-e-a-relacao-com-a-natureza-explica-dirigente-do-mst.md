@@ -46,7 +46,7 @@ releated_posts:
 Para P&aacute;gina do MST</em></p>
 
 <p><br />
-giNa semana do Dia Mundial de Alimenta&ccedil;&atilde;o Saud&aacute;vel, comemorada no &uacute;ltimo dia 16 de outubro, a assentada do Cear&aacute; e dirigente do setor de produ&ccedil;&atilde;o do MST, Ant&ocirc;nia Ivaneide, a Nen&eacute;m, ensina sobre a necessidade na massifica&ccedil;&atilde;o da Agroecoloa nos assentamentos e acampamentos da Reforma Agr&aacute;ria, para avan&ccedil;ar na produ&ccedil;&atilde;o de alimentos saud&aacute;veis.</p>
+Na semana do Dia Mundial de Alimenta&ccedil;&atilde;o Saud&aacute;vel, comemorada no &uacute;ltimo dia 16 de outubro, a assentada do Cear&aacute; e dirigente do setor de produ&ccedil;&atilde;o do MST, Ant&ocirc;nia Ivaneide, a Nen&eacute;m, ensina sobre a necessidade na massifica&ccedil;&atilde;o da Agroecoloa nos assentamentos e acampamentos da Reforma Agr&aacute;ria, para avan&ccedil;ar na produ&ccedil;&atilde;o de alimentos saud&aacute;veis.</p>
 
 <p><br />
 &ldquo;A agroecologia est&aacute; diretamente vinculada &agrave; produ&ccedil;&atilde;o, na rela&ccedil;&atilde;o com a sociedade, e no processo de produ&ccedil;&atilde;o e distribui&ccedil;&atilde;o dessa produ&ccedil;&atilde;o. As feiras agroecol&oacute;gicas e as feiras da Reforma Agr&aacute;ria s&atilde;o fundamentais para mostrar que produzir alimentos n&atilde;o &eacute; um ato de produ&ccedil;&atilde;o de mercadorias, mas de produ&ccedil;&atilde;o de comida e de vida&rdquo;, explica Ant&ocirc;nia.</p>
