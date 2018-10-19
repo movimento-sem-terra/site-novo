@@ -45,7 +45,7 @@ releated_posts:
 Atos, panfletagens, mobiliza&ccedil;&otilde;es e carreatas organizadas por diversos movimentos sociais fazem parte do calend&aacute;rio &ldquo;da virada&rdquo; da elei&ccedil;&atilde;o.</p>
 
 <p><br />
-Em meio aos esc&acirc;ndalos provocados pela den&uacute;ncia de Caixa 2 contra o deputado Jair Bolsonaro, os atos reunir&atilde;o bandeiras diversas desde a Amaz&ocirc;nia &eacute; do Brasil at&eacute; pela em defesa da educa&ccedil;&atilde;o e por mais creches, reivindica&ccedil;&atilde;o do movimento de mulheres.</p>
+Em meio aos esc&acirc;ndalos provocados pela den&uacute;ncia de Caixa 2 contra o deputado Jair Bolsonaro, os atos reunir&atilde;o bandeiras diversas desde a Amaz&ocirc;nia &eacute; do Brasil at&eacute;&nbsp; em defesa da educa&ccedil;&atilde;o e por mais creches, reivindica&ccedil;&atilde;o do movimento de mulheres.</p>
 
 <p><br />
 O texto de convoca&ccedil;&atilde;o compara as propostas dos dois candidatos.&nbsp; &ldquo;A candidatura de Jair Bolsonaro apoia a ditadura militar, defende explicitamente a viola&ccedil;&atilde;o dos direitos humanos, questiona os direitos das minorias, e a ocorr&ecirc;ncia comprovada de torturas. Al&eacute;m disso, amea&ccedil;a constantemente com a quebra da normalidade democr&aacute;tica&rdquo;.&nbsp;</p>
