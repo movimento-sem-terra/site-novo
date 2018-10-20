@@ -7,8 +7,8 @@ tags:
 title: "Posição política do MST em relação ao 2° turno das eleições presidenciais no Brasil \n"
 images_hd: //farm2.staticflickr.com/1969/31378613538_8fce71991f_b.jpg
 menu: lutas e mobilizações
-support_line: "Entendemos que nessas eleições estão em disputa dois projetos. E nos posicionamos a favor do projeto que defende os trabalhadores e trabalhadoras, a democracia e um país mais justo e soberano"
-section: cover
+support_line: "Nos posicionamos a favor do projeto que defende os trabalhadores, a democracia e um país mais justo e soberano"
+section: featured-news
 layout: post
 files:
   - link: //farm2.staticflickr.com/1969/31378613538_8fce71991f_b.jpg
