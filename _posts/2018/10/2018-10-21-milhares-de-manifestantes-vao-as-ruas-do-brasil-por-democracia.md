@@ -40,11 +40,9 @@ published: true
 releated_posts: []
 
 ---
-<figure class="image" style="float:left"><img alt="43641644080_c953afeb0e_o.jpg" height="466" src="//farm2.staticflickr.com/1954/43642852540_74d7222c8e_b.jpg" width="700" />
+<figure class="image" style="float:left"><img alt="43641644080_c953afeb0e_o.jpg" height="400" src="//farm2.staticflickr.com/1954/43642852540_74d7222c8e_b.jpg" width="600" />
 <figcaption>Caminhada pela democracia na ponte entre Petrolina-PE e Juazeiro-BA, em atos neste s&aacute;bado #HaddadSim #BolsonaroN&atilde;o. Foto: Samuel Bezerra Morais.</figcaption>
 </figure>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
