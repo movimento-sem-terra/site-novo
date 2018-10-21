@@ -6,7 +6,7 @@ tags:
 title: "MINUTO A MINUTO | Cobertura dos Atos pela Democracia e pelo Brasil neste sábado"
 support_line: Atos em diversas cidades do país e do mundo são convocados por organizações e coletivos de mulheres
 menu: lutas e mobilizações
-section: cover
+section: null
 images_hd: //farm2.staticflickr.com/1945/45452669931_64249f1990_b.jpg
 layout: post
 files:
