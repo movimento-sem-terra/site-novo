@@ -78,9 +78,8 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p><em>Por Reda&ccedil;&atilde;o Brasil de Fato | S&atilde;o Paulo (SP)</em></p>
+<p><br />
+<em>Por Reda&ccedil;&atilde;o Brasil de Fato | S&atilde;o Paulo (SP)</em></p>
 
 <p>&nbsp;</p>
 
