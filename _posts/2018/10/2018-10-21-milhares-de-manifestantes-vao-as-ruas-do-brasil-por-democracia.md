@@ -188,14 +188,18 @@ Convocadas por uma grande diversidade de movimentos e coletivos populares, as ma
 
 <p>&nbsp;</p>
 
-<p>Centenas de pessoas se concentraram na Cinel&acirc;ndia, no centro do Rio de Janeiro. Por volta das 15h, os manifestantes sa&iacute;ram em marcha em dire&ccedil;&atilde;o &agrave; Lapa, levando faixas e cartazes com mensagens contra a candidatura de Jair Bolsonaro (PSL).&nbsp;</p>
+<p>Centenas de pessoas se concentraram na Cinel&acirc;ndia, no centro do Rio de Janeiro. Por volta das 15h, os manifestantes sa&iacute;ram em marcha em dire&ccedil;&atilde;o &agrave; Lapa, levando faixas e cartazes com mensagens contra a candidatura de Jair Bolsonaro (PSL).&nbsp;<br />
+&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="WhatsApp Image 2018-10-20 at 21.10.39.jpeg" height="267" src="//farm2.staticflickr.com/1907/44734898864_055c379152_b.jpg" width="400" />
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-10-20 at 21.10.39.jpeg" height="267" src="//farm2.staticflickr.com/1907/44734898864_055c379152_b.jpg" width="400" />
 <figcaption>Em ato no Rio hoje a popula&ccedil;&atilde;o se manisfestou por #HaddadSim #DemocraciaSim<br />
 Foto: Pablo Vergara</figcaption>
 </figure>
+</div>
 
-<p>No trajeto, n&atilde;o faltaram palavras de ordem em defesa da democracia e homenagens &agrave; vereadora Marielle Franco (PSOL), que foi brutalmente assassinada em mar&ccedil;o deste ano, um crime que continua impune.&nbsp;</p>
+<p><br />
+No trajeto, n&atilde;o faltaram palavras de ordem em defesa da democracia e homenagens &agrave; vereadora Marielle Franco (PSOL), que foi brutalmente assassinada em mar&ccedil;o deste ano, um crime que continua impune.&nbsp;</p>
 
 <p>&nbsp;</p>
 
