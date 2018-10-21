@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Milhares de manifestantes vão às ruas do Brasil por democracia</title>
+				<description>Convocados por diversos movimentos populares, atos ocorreram em dezenas de cidades e capitais do país</description>
+				<pubDate>Sat, 20 Oct 2018 22:17:41 -0300</pubDate>
+				<link>http://www.mst.org.br/2018/10/20/milhares-de-manifestantes-vao-as-ruas-do-brasil-por-democracia.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2018/10/20/milhares-de-manifestantes-vao-as-ruas-do-brasil-por-democracia.html</guid>
+			</item>
+		
+			<item>
 				<title>MINUTO A MINUTO | Cobertura dos Atos pela Democracia e pelo Brasil neste sábado</title>
 				<description>Atos em diversas cidades do país e do mundo são convocados por organizações e coletivos de mulheres</description>
 				<pubDate>Sat, 20 Oct 2018 14:13:35 -0300</pubDate>
@@ -79,14 +87,6 @@
 				<pubDate>Wed, 17 Oct 2018 17:55:18 -0300</pubDate>
 				<link>http://www.mst.org.br/2018/10/17/ato-dia-20-10-ele-nao.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2018/10/17/ato-dia-20-10-ele-nao.html</guid>
-			</item>
-		
-			<item>
-				<title>Democracia e liberdade contra a violência e o ódio</title>
-				<description>Na Semana Nacional pela Democratização da Comunicação, o FNDC denuncia a escalada autoritária que assola o Brasil</description>
-				<pubDate>Wed, 17 Oct 2018 17:50:35 -0300</pubDate>
-				<link>http://www.mst.org.br/2018/10/17/democracia-e-liberdade-contra-a-violencia-e-o-odio.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2018/10/17/democracia-e-liberdade-contra-a-violencia-e-o-odio.html</guid>
 			</item>
 		
 	</channel>
