@@ -1,6 +1,8 @@
 ---
 date: "2018-10-20T22:17:41-03:00"
-tags: []
+tags:
+  - tag: eleição
+  - tag: mulheres
 title: Milhares de manifestantes vão às ruas do Brasil por democracia
 support_line: "Convocados por diversos movimentos populares, atos ocorreram em dezenas de cidades e capitais do país"
 menu: lutas e mobilizações
@@ -37,7 +39,19 @@ files:
     $$hashKey: "065"
 created_date: "2018-10-20T22:27:47-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/09/2018-09-20-em-minas-gerais-mulheres-realizam-manifestacao-cultural-contra-o-fascismo.md
+  - _posts/2018/09/2018-09-28-mulheres-unidas-contra-bolsonaro-lancam-manifesto-sobre-as-mobilizacoes-deste-sabado-29.md
+  - _posts/2018/09/2018-09-29-minuto-a-minuto-or-ato-de-mulheres-elenao-no-brasil-e-no-mundo.md
+  - _posts/2018/10/2018-10-01-mulheres-lideram-atos-contra-bolsonaro-no-brasil-e-no-mundo.md
+  - _posts/2018/10/2018-10-04-o-voto-das-mulheres-e-decisivo-para-o-futuro-do-brasil-por-isso-nao-podemos-titubear.md
+  - _posts/2018/10/2018-10-11-mst-se-solidariza-com-estudante-da-ufpr-mais-uma-vitima-da-violencia-e-da-intolerancia.md
+  - _posts/2018/10/2018-10-10-ensinamentos-de-che-guevara-sobre-o-momento-politico-brasileiro.md
+  - _posts/2018/10/2018-10-11-posicao-politica-do-mst-em-relacao-ao-2-turno-das-eleicoes-presidenciais-no-brasil.md
+  - _posts/2018/10/2018-10-11-conheca-as-principais-diferencas-entre-bolsonaro-e-haddad.md
+  - _posts/2018/10/2018-10-13-votar-em-bolsonaro-e-votar-em-temer-diz-dirigente-do-mst.md
+  - _posts/2018/08/2018-08-06-violencia-contra-a-mulher-e-tema-de-debate-no-parana.md
+section: cover
 
 ---
 <figure class="image" style="float:left"><img alt="43641644080_c953afeb0e_o.jpg" height="400" src="//farm2.staticflickr.com/1954/43642852540_74d7222c8e_b.jpg" width="600" />
@@ -76,8 +90,7 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p><br />
-<em>Por Reda&ccedil;&atilde;o Brasil de Fato | S&atilde;o Paulo (SP)</em></p>
+<p><em>Do Brasil de Fato*</em></p>
 
 <p>&nbsp;</p>
 
@@ -87,7 +100,7 @@ releated_posts: []
 As manifesta&ccedil;&otilde;es ocorreram nas principais capitais do pa&iacute;s e em outras dezenas de cidades. Ao meio-dia, o candidato Fernando Haddad realizou um ato em Fortaleza (CE), que contou com a participa&ccedil;&atilde;o de mais de 50 mil pessoas.</p>
 
 <p><br />
-<strong>Confira como foram as mobiliza&ccedil;&otilde;es deste s&aacute;bado na cobertura Minuto a Minuto.</strong></p>
+<a href="http://www.mst.org.br/2018/10/20/minuto-a-minuto-or-cobertura-dos-atos-pela-democracia-e-pelo-brasil-neste-sabado.html"><strong>Confira como foram as mobiliza&ccedil;&otilde;es deste s&aacute;bado na cobertura Minuto a Minuto.</strong></a></p>
 
 <p><br />
 Convocadas por uma grande diversidade de movimentos e coletivos populares, as manifesta&ccedil;&otilde;es contaram com muita m&uacute;sica, faixas e cartazes em defesa da democracia, de direitos e contra o autoritarismo, a ditadura e Bolsonaro. O ato em Joinville (SC), onde participaram mais de 2 mil pessoas, contou com um escracho a uma das lojas Havan, que consta na reportagem da Folha de S. Paulo como uma das empresas que participou do esquema de Caixa 2 na campanha a favor da candidatura de Bolsonaro.</p>
@@ -190,9 +203,9 @@ Convocadas por uma grande diversidade de movimentos e coletivos populares, as ma
 &nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-10-20 at 21.10.39.jpeg" height="267" src="//farm2.staticflickr.com/1907/44734898864_055c379152_b.jpg" width="400" />
-<figcaption>Em ato no Rio hoje a popula&ccedil;&atilde;o se manisfestou por #HaddadSim #DemocraciaSim<br />
-Foto: Pablo Vergara</figcaption>
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-10-20 at 21.10.39.jpeg" height="400" src="//farm2.staticflickr.com/1907/44734898864_055c379152_b.jpg" width="600" />
+<figcaption><em>Em ato no Rio hoje a popula&ccedil;&atilde;o se manisfestou por #HaddadSim #DemocraciaSim.<br />
+Foto: Pablo Vergara</em></figcaption>
 </figure>
 </div>
 
@@ -221,8 +234,9 @@ No trajeto, n&atilde;o faltaram palavras de ordem em defesa da democracia e home
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="WhatsApp Image 2018-10-20 at 20.16.00.jpeg" height="270" src="//farm2.staticflickr.com/1913/44734960594_91a954fd02_b.jpg" width="400" />
-<figcaption>Encerramento do ato em S&atilde;o Paulo, na Pra&ccedil;a da S&eacute;.</figcaption>
+<figure class="image" style="float:right"><img alt="WhatsApp Image 2018-10-20 at 20.16.00.jpeg" height="203" src="//farm2.staticflickr.com/1913/44734960594_91a954fd02_b.jpg" width="300" />
+<figcaption><em>Encerramento do ato em S&atilde;o Paulo,<br />
+na Pra&ccedil;a da S&eacute;.</em></figcaption>
 </figure>
 
 <p>O dirigente do MTST e candidato &agrave; Presid&ecirc;ncia da Rep&uacute;blica do PSol, Guilherme Boulos, que ap&oacute;s o primeiro turno foi o primeiro a declarar apoio &agrave; chapa Haddad/Manuela, em defesa da democracia. &ldquo;O que t&aacute; em jogo &eacute; a democracia contra a ditadura. Ficar ao lado do Haddad nesse segundo turno &eacute; estar a favor da democracia, dos direitos sociais. N&atilde;o s&atilde;o apenas duas candidaturas. Vamos virar voto. Estive em Fortaleza hoje de manh&atilde; e foi lindo, mais de 30 mil, 40 mil pessoas&rdquo;, contou Boulos, referindo-se ao com&iacute;cio em Fortaleza, que esteve junto com o candidato Fernando Haddad.</p>
@@ -250,7 +264,5 @@ Um dos fundadores da Democracia Corintiana, Carlos Alberto Nascimento Junior, ta
 
 <p>&nbsp;</p>
 
-<p>*Com informa&ccedil;&otilde;es de Rafaella Dota, Vanessa Gonzaga, Cec&iacute;lia Figueiredo, Cristiane Sampaio, Lilian Campelo e W&aacute;lmaro Paz</p>
-
-<p><br />
-<em>Edi&ccedil;&atilde;o: Mauro Ramos/Brasil de Fato</em></p>
+<p><em>*Com informa&ccedil;&otilde;es de Rafaella Dota, Vanessa Gonzaga, Cec&iacute;lia Figueiredo, Cristiane Sampaio, Lilian Campelo e W&aacute;lmaro Paz.<br />
+**</em><em>Editado por&nbsp;Mauro Ramos do Brasil de Fato.</em></p>
