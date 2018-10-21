@@ -2,7 +2,7 @@
 date: "2018-10-20T22:29:21-03:00"
 tags: []
 title: "Ato do dia 20/10 na Avenida Paulista: agora é 13!"
-support_line: "VAI VIRAR ESSA MARÉ! ❤\n\nHoje, 50 mil pessoas foram às ruas em São Paulo por um Brasil feliz de novo, com democracia e direitos! \uD83C\uDDE7\uD83C\uDDF7✊\uD83C\uDFFE\n\n"
+support_line: "VAI VIRAR ESSA MARÉ! Hoje, 50 mil pessoas foram às ruas em São Paulo por um Brasil feliz de novo, com democracia e direitos!"
 menu: lutas e mobilizações
 section: tv
 video: "https://youtu.be/1s6CvdPaGIs"
