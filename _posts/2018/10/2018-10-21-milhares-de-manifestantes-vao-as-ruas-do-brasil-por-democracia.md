@@ -90,6 +90,8 @@ section: cover
 
 <p>&nbsp;</p>
 
+<p>&nbsp;</p>
+
 <p><em>Do Brasil de Fato*</em></p>
 
 <p>&nbsp;</p>
