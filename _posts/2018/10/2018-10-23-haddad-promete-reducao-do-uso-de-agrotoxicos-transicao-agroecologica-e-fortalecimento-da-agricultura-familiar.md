@@ -7,16 +7,9 @@ tags:
 menu: agricultura camponesa
 title: "Haddad promete redução do uso de agrotóxicos, transição ecológica e fortalecimento da agricultura familiar "
 support_line: "Programa de governo também prevê geração de empregos, programas sociais e metas para chegar ao Desmatamento Zero na Amazônia em 2022"
-images_hd: //farm2.staticflickr.com/1963/44611849815_d1956b3001_b.jpg
+images_hd: //farm2.staticflickr.com/1912/31653793948_54302285df_b.jpg
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1963/44611849815_d1956b3001_b.jpg
-    original: //farm2.staticflickr.com/1963/44611849815_a6a45576c3_o.jpg
-    thumbnail: //farm2.staticflickr.com/1963/44611849815_d1956b3001_t.jpg
-    medium: //farm2.staticflickr.com/1963/44611849815_d1956b3001_z.jpg
-    small: //farm2.staticflickr.com/1963/44611849815_d1956b3001_n.jpg
-    title: 10-praticas-sustentaveis-agricultura-conservacao-solo.jpg
-    $$hashKey: 0ND
   - link: //farm2.staticflickr.com/1941/44800616164_6572d501c2_b.jpg
     original: //farm2.staticflickr.com/1941/44800616164_f5a5ac4215_o.jpg
     thumbnail: //farm2.staticflickr.com/1941/44800616164_6572d501c2_t.jpg
@@ -24,6 +17,13 @@ files:
     small: //farm2.staticflickr.com/1941/44800616164_6572d501c2_n.jpg
     title: WhatsApp Image 2018-10-23 at 17.53.13.jpeg
     $$hashKey: 17U
+  - link: //farm2.staticflickr.com/1912/31653793948_54302285df_b.jpg
+    original: //farm2.staticflickr.com/1912/31653793948_42c9b76681_o.jpg
+    thumbnail: //farm2.staticflickr.com/1912/31653793948_54302285df_t.jpg
+    medium: //farm2.staticflickr.com/1912/31653793948_54302285df_z.jpg
+    small: //farm2.staticflickr.com/1912/31653793948_54302285df_n.jpg
+    title: jkjk.jpg
+    $$hashKey: 08L
 created_date: "2018-10-23T17:40:13-03:00"
 published: true
 releated_posts:
