@@ -43,18 +43,13 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="60042e31-55b6-4322-b9df-93b013d0e8c1.jpeg" height="466" src="//farm2.staticflickr.com/1934/44608508665_ed2e890115_b.jpg" width="700" />
-<figcaption>
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="15c67b6a-16bf-46db-8e22-ccf9adf54beb.jpeg" height="466" src="//farm2.staticflickr.com/1974/31649744478_c0cdb7ed0e_b.jpg" width="700" />
-<figcaption></figcaption>
-</figure>
-</div>
-</figcaption>
+<figcaption><em>Pela democracia, LGBTI+ se posicionam contra o fascismo. Foto: Dowglas Silva</em></figcaption>
 </figure>
 </div>
 
-<p>Da P&aacute;gina do MST<br />
-Fotos: Dowglas Silva</p>
+<p>&nbsp;</p>
+
+<p><em>Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
@@ -62,7 +57,7 @@ Fotos: Dowglas Silva</p>
 
 <p>&nbsp;</p>
 
-<p>Na &uacute;ltima sexta-feira (19), a Plen&aacute;ria Popular das LGBTI+ contra o Fascismo se configurou como um espa&ccedil;o de articula&ccedil;&atilde;o e de posicionamento pol&iacute;tico diante do processo eleitoral brasileiro, ao mesmo tempo, tamb&eacute;m projetou iniciativas entre as diversas organiza&ccedil;&otilde;es populares do campo e da cidade que tem atuado na luta contra a LGBTfobia e dos direitos da popula&ccedil;&atilde;o LGBT.&nbsp;</p>
+<p>Na &uacute;ltima sexta-feira (19), a Plen&aacute;ria Popular das LGBTI+ contra o Fascismo se configurou como um espa&ccedil;o de articula&ccedil;&atilde;o e de posicionamento pol&iacute;tico diante do processo eleitoral brasileiro, ao mesmo tempo, tamb&eacute;m projetou iniciativas entre as diversas organiza&ccedil;&otilde;es populares do campo e da cidade que tem atuado na luta contra a LGBTfobia e na defesa dos direitos da popula&ccedil;&atilde;o LGBT.&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -72,21 +67,22 @@ Fotos: Dowglas Silva</p>
 
 <p>O texto foi referendado pelo MST, pela Associa&ccedil;&atilde;o Brasileira de Gays L&eacute;sbicas Bissexuais, Travestis, Transexuais e Intersexos (ABGLT), Associa&ccedil;&atilde;o Nacional de Travestis e Transexuais (ANTRA), Central &Uacute;nica dos Trabalhadores (CUT), pelo Movimento dos Atingidos por Barragens (MAB), Levante Popular da Juventude e a Secretaria Nacional LGBT do Partido dos Trabalhadores (PT).</p>
 
-<p>&nbsp;</p>
+<figure class="image" style="float:right"><img alt="15c67b6a-16bf-46db-8e22-ccf9adf54beb.jpeg" height="200" src="//farm2.staticflickr.com/1974/31649744478_c0cdb7ed0e_b.jpg" width="300" />
+<figcaption><em>&quot;&Eacute; hora da mais ampla unidade dos setores&quot;.<br />
+Foto: Dowglas Silva</em></figcaption>
+</figure>
 
-<p>Sobre as elei&ccedil;&otilde;es e o crescente &iacute;ndice de viol&ecirc;ncia, esses movimentos e organiza&ccedil;&otilde;es destacam na carta: &ldquo;N&oacute;s, LGBTI+, sabemos muito bem o que pode significar para nossas vidas - ou para o fim delas - a elei&ccedil;&atilde;o de um fascista &agrave; Presid&ecirc;ncia da Rep&uacute;blica. Bolsonaro nunca escondeu sua avers&atilde;o e seu &oacute;dio &agrave; diversidade sexual, de g&ecirc;neros e &agrave; popula&ccedil;&atilde;o LGBTI+, seja em sua atua&ccedil;&atilde;o parlamentar ao longo de mais de 27 anos como deputado federal, seja em sua campanha presidencial&rdquo;.</p>
+<p><br />
+Sobre as elei&ccedil;&otilde;es e o crescente &iacute;ndice de viol&ecirc;ncia, esses movimentos e organiza&ccedil;&otilde;es destacam na carta: &ldquo;N&oacute;s, LGBTI+, sabemos muito bem o que pode significar para nossas vidas - ou para o fim delas - a elei&ccedil;&atilde;o de um fascista &agrave; Presid&ecirc;ncia da Rep&uacute;blica. Bolsonaro nunca escondeu sua avers&atilde;o e seu &oacute;dio &agrave; diversidade sexual, de g&ecirc;neros e &agrave; popula&ccedil;&atilde;o LGBTI+, seja em sua atua&ccedil;&atilde;o parlamentar ao longo de mais de 27 anos como deputado federal, seja em sua campanha presidencial&rdquo;.</p>
 
-<p>&nbsp;</p>
-
-<p>O documento se posiciona em defesa da unidade popular, da luta contra o fascismo e pelas pol&iacute;ticas p&uacute;blicas que garantam respeito e dignidade &agrave; popula&ccedil;&atilde;o LGBTI+.&nbsp;</p>
+<p><br />
+O documento se posiciona em defesa da unidade popular, da luta contra o fascismo e pelas pol&iacute;ticas p&uacute;blicas que garantam respeito e dignidade &agrave; popula&ccedil;&atilde;o LGBTI+.&nbsp;</p>
 
 <p>&nbsp;</p>
 
 <p>Leia a carta na &iacute;ntegra.</p>
 
-<p>&nbsp;</p>
-
-<p><br />
+<p style="text-align: center;"><br />
 <strong>LGBTI+ PELA DEMOCRACIA E CONTRA O FASCISMO</strong></p>
 
 <p>&nbsp;</p>
@@ -105,9 +101,11 @@ Fotos: Dowglas Silva</p>
 
 <p>&Eacute; hora da mais ampla unidade dos setores que compreendem o risco iminente de uma trag&eacute;dia caso o fascismo consiga eleger seu candidato &agrave; Presid&ecirc;ncia, tamb&eacute;m devemos trabalhar pela articula&ccedil;&atilde;o de todas as pessoas LGBTI+ para garantir os espa&ccedil;os democr&aacute;ticos t&atilde;o duramente conquistados. &Eacute; preciso que compreendamos que nossa articula&ccedil;&atilde;o n&atilde;o poder&aacute; limitar-se apenas a uma organiza&ccedil;&atilde;o para este segundo turno, pois ainda que consigamos garantir a vit&oacute;ria de Fernando Haddad ou n&atilde;o, os enfrentamentos com os setores da extrema-direita tendem a recrudescer. Logo, precisamos nos manter nas posi&ccedil;&otilde;es e convic&ccedil;&otilde;es pol&iacute;ticas em defesa das diversidades humanas sexuais e de g&ecirc;neros no campo progressista e popular.</p>
 
-<p>Para isso, n&oacute;s representantes do MST, ABGLT, ANTRA, CUT, MAB, Levante Popular da Juventude, Secretaria Nacional LGBT do PT, reunidos no dia 19 de outubro de 2018, na Escola Nacional Florestan Fernandes, na Plen&aacute;ria LGBTI+ contra o Facismo institu&iacute;mos a REDE LGBTI+ Nacional PELA DEMOCRACIA E CONTRA O FASCISMO para fortalecer nossa luta, resist&ecirc;ncia e solidariedade e convidamos as demais redes do campo popular LGBTI+ a se somarem nessa luta.</p>
+<p><br />
+Para isso, n&oacute;s representantes do MST, ABGLT, ANTRA, CUT, MAB, Levante Popular da Juventude, Secretaria Nacional LGBT do PT, reunidos no dia 19 de outubro de 2018, na Escola Nacional Florestan Fernandes, na Plen&aacute;ria LGBTI+ contra o Facismo institu&iacute;mos a REDE LGBTI+ Nacional PELA DEMOCRACIA E CONTRA O FASCISMO para fortalecer nossa luta, resist&ecirc;ncia e solidariedade e convidamos as demais redes do campo popular LGBTI+ a se somarem nessa luta.</p>
 
-<p>DITADURA E TORTURA NUNCA MAIS!<br />
+<p style="text-align: center;"><br />
+<strong>DITADURA E TORTURA NUNCA MAIS!<br />
 N&Atilde;O AO RACISMO, AO MACHISMO, A MISOGINIA E &Agrave; LGBTIfobia!<br />
 SIM &Agrave; DEMOCRACIA: NENHUM DIREITO A MENOS! NENHUMA VIDA A MENOS!<br />
-FORA FASCISMO!</p>
+FORA FASCISMO!</strong></p>
