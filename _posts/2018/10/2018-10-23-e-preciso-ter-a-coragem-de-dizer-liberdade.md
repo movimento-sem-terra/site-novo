@@ -39,6 +39,7 @@ releated_posts:
   - _posts/2018/05/2018-05-07-rosana-maria-sou-lgbt-e-ponto-final.md
   - _posts/2018/10/2018-10-13-votar-em-bolsonaro-e-votar-em-temer-diz-dirigente-do-mst.md
   - _posts/2018/10/2018-10-11-posicao-politica-do-mst-em-relacao-ao-2-turno-das-eleicoes-presidenciais-no-brasil.md
+  - _posts/2018/10/2018-10-19-pelo-brasil-e-democracia-apoiadores-de-haddad-vao-as-ruas-neste-sabado-20.md
 
 ---
 <div style="text-align:center">
