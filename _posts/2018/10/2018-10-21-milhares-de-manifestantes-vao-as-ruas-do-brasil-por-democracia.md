@@ -38,7 +38,7 @@ files:
     title: 43641644080_c953afeb0e_o.jpg
     $$hashKey: "065"
 created_date: "2018-10-20T22:27:47-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/09/2018-09-20-em-minas-gerais-mulheres-realizam-manifestacao-cultural-contra-o-fascismo.md
   - _posts/2018/09/2018-09-28-mulheres-unidas-contra-bolsonaro-lancam-manifesto-sobre-as-mobilizacoes-deste-sabado-29.md
