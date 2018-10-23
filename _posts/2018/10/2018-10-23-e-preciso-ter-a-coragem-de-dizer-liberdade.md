@@ -1,6 +1,8 @@
 ---
 date: "2018-10-23T14:04:59-03:00"
-tags: []
+tags:
+  - tag: eleição
+  - tag: lgbt
 images_hd: //farm2.staticflickr.com/1934/44608508665_ed2e890115_b.jpg
 title: "É preciso ter a coragem de dizer: liberdade"
 support_line: Plenária Popular das LGBTI+ contra o Fascismo aponta a unidade e a luta como desafios da conjuntura
@@ -30,16 +32,26 @@ files:
     $$hashKey: "054"
 created_date: "2018-10-23T14:17:15-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/10/2018-10-13-se-eleito-bolsonaro-vai-barrar-as-desapropriacoes-de-terras-denunciadas-por-trabalho-escravo.md
+  - _posts/2018/10/2018-10-16-brasil-de-fato-lanca-tabloide-especial-sobre-segundo-turno-das-eleicoes.md
+  - _posts/2018/10/2018-10-18-votos-brancos-e-nulos-nao-anulam-eleicao-e-favorecem-quem-esta-na-frente-entenda.md
+  - _posts/2018/05/2018-05-07-rosana-maria-sou-lgbt-e-ponto-final.md
+  - _posts/2018/10/2018-10-13-votar-em-bolsonaro-e-votar-em-temer-diz-dirigente-do-mst.md
+  - _posts/2018/10/2018-10-11-posicao-politica-do-mst-em-relacao-ao-2-turno-das-eleicoes-presidenciais-no-brasil.md
 
 ---
 <div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="60042e31-55b6-4322-b9df-93b013d0e8c1.jpeg" height="466" src="//farm2.staticflickr.com/1934/44608508665_ed2e890115_b.jpg" width="700" />
+<figcaption>
+<div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="15c67b6a-16bf-46db-8e22-ccf9adf54beb.jpeg" height="466" src="//farm2.staticflickr.com/1974/31649744478_c0cdb7ed0e_b.jpg" width="700" />
-<figcaption>Plen&aacute;ria de militantes LGBTs Sem Terra constr&oacute;i carta denunciando o avan&ccedil;o do fascismo no pa&iacute;s.</figcaption>
+<figcaption></figcaption>
 </figure>
 </div>
-
-<p>&nbsp;</p>
+</figcaption>
+</figure>
+</div>
 
 <p>Da P&aacute;gina do MST<br />
 Fotos: Dowglas Silva</p>
