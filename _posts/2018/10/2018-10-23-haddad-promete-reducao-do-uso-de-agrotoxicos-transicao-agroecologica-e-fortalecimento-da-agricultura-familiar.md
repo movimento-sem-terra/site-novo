@@ -5,7 +5,7 @@ tags:
   - tag: eleição
   - tag: agroecologia
 menu: agricultura camponesa
-title: "Haddad promete redução do uso de agrotóxicos, transição agroecológica e fortalecimento da agricultura familiar "
+title: "Haddad promete redução do uso de agrotóxicos, transição ecológica e fortalecimento da agricultura familiar "
 support_line: "Programa de governo também prevê geração de empregos, programas sociais e metas para chegar ao Desmatamento Zero na Amazônia em 2022"
 images_hd: //farm2.staticflickr.com/1963/44611849815_d1956b3001_b.jpg
 layout: post
@@ -17,13 +17,13 @@ files:
     small: //farm2.staticflickr.com/1963/44611849815_d1956b3001_n.jpg
     title: 10-praticas-sustentaveis-agricultura-conservacao-solo.jpg
     $$hashKey: 0ND
-  - link: //farm2.staticflickr.com/1912/31653533388_76b060e46e_b.jpg
-    original: //farm2.staticflickr.com/1912/31653533388_09fd53f895_o.jpg
-    thumbnail: //farm2.staticflickr.com/1912/31653533388_76b060e46e_t.jpg
-    medium: //farm2.staticflickr.com/1912/31653533388_76b060e46e_z.jpg
-    small: //farm2.staticflickr.com/1912/31653533388_76b060e46e_n.jpg
-    title: WhatsApp Image 2018-10-23 at 17.38.46.jpeg
-    $$hashKey: 0PN
+  - link: //farm2.staticflickr.com/1941/44800616164_6572d501c2_b.jpg
+    original: //farm2.staticflickr.com/1941/44800616164_f5a5ac4215_o.jpg
+    thumbnail: //farm2.staticflickr.com/1941/44800616164_6572d501c2_t.jpg
+    medium: //farm2.staticflickr.com/1941/44800616164_6572d501c2_z.jpg
+    small: //farm2.staticflickr.com/1941/44800616164_6572d501c2_n.jpg
+    title: WhatsApp Image 2018-10-23 at 17.53.13.jpeg
+    $$hashKey: 17U
 created_date: "2018-10-23T17:40:13-03:00"
 published: true
 releated_posts:
@@ -77,4 +77,4 @@ Para mudar essa realidade, Haddad enfatiza em seu programa que vai instituir um 
 <p><br />
 &nbsp;</p>
 
-<p style="text-align:center"><img alt="WhatsApp Image 2018-10-23 at 17.38.46.jpeg" height="700" src="//farm2.staticflickr.com/1912/31653533388_76b060e46e_b.jpg" width="700" /></p>
+<p style="text-align:center"><img alt="WhatsApp Image 2018-10-23 at 17.53.13.jpeg" height="700" src="//farm2.staticflickr.com/1941/44800616164_6572d501c2_b.jpg" width="700" /></p>
