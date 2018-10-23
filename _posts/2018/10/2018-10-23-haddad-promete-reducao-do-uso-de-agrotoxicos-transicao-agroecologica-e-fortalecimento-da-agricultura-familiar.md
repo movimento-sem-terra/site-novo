@@ -69,7 +69,7 @@ Para Delwek Matheus, da dire&ccedil;&atilde;o estadual do MST/SP, um projeto de 
 &ldquo;Se existem pol&iacute;ticas p&uacute;blicas voltadas para produ&ccedil;&atilde;o agroecol&oacute;gica, automaticamente as condi&ccedil;&otilde;es de trabalho do agricultor melhoram. Os pequenos produtores e produtoras n&atilde;o v&atilde;o mais manusear agrot&oacute;xicos, ter&atilde;o garantia de mercado e escoamento da produ&ccedil;&atilde;o e, consequentemente, aumento de renda. Fora a qualidade do alimento que &eacute; consumido que tende a melhorar sobremaneira com esse programa de apoio. Em suma, o produtor ganha e o consumidor ganha, esse &eacute; o papel social da agricultura, produzir alimentos saud&aacute;veis para a sociedade e, ao mesmo tempo, garantir um processo de desenvolvimento econ&ocirc;mico para o pa&iacute;s&rdquo;, finaliza.</p>
 
 <p><br />
-Hoje a agricultura familiar produz hoje 70% dos alimentos consumidos no Brasil, na contram&atilde;o, tamb&eacute;m somos o pa&iacute;s que mais consome agrot&oacute;xicos no mundo.</p>
+Hoje a agricultura familiar produz&nbsp;70% dos alimentos consumidos no Brasil, na contram&atilde;o, tamb&eacute;m somos o pa&iacute;s que mais consome agrot&oacute;xicos no mundo.</p>
 
 <p><br />
 Para mudar essa realidade, Haddad enfatiza em seu programa que vai instituir um plano de redu&ccedil;&atilde;o do uso de agrot&oacute;xicos com medidas espec&iacute;ficas e imediatas, entre as quais o est&iacute;mulo do uso de biopesticidas e atualiza&ccedil;&atilde;o da legisla&ccedil;&atilde;o nacional seguindo as recomenda&ccedil;&otilde;es da Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas para Alimenta&ccedil;&atilde;o e Agricultura (FAO).</p>
