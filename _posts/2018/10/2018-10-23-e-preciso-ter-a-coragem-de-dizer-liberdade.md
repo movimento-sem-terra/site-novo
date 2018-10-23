@@ -54,7 +54,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Durante as atividades da quarta turma do Curso para Militantes LGBTs Sem Terra, realizado entre os dias 16 e 20/10, na Escola Nacional Florestan Fernandes (ENFF), em Guararema (SP), um momento de unidade e de luta apontou diversos desafios para o Movimento LGBT diante do atual momento pol&iacute;tico, em que uma onda de viol&ecirc;ncia tem tomado as ruas do pa&iacute;s.&nbsp;</p>
+<p>Durante as atividades da quarta turma do <a href="http://www.mst.org.br/2018/10/18/nossa-existencia-e-resistencia.html">Curso para Militantes LGBTs Sem Terra</a>, realizado entre os dias 16 e 20/10, na Escola Nacional Florestan Fernandes (ENFF), em Guararema (SP), um momento de unidade e de luta apontou diversos desafios para o Movimento LGBT diante do atual momento pol&iacute;tico, em que uma onda de viol&ecirc;ncia tem tomado as ruas do pa&iacute;s.&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -110,3 +110,10 @@ Para isso, n&oacute;s representantes do MST, ABGLT, ANTRA, CUT, MAB, Levante Pop
 N&Atilde;O AO RACISMO, AO MACHISMO, A MISOGINIA E &Agrave; LGBTIfobia!<br />
 SIM &Agrave; DEMOCRACIA: NENHUM DIREITO A MENOS! NENHUMA VIDA A MENOS!<br />
 FORA FASCISMO!</strong></p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p>Confira o v&iacute;deo produzido durante a Plen&aacute;ria Popular das LGBTI+ contra o Fascismo.</p>
+
+<p><br />
+<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/evq7kFWJdb4" width="640"></iframe></p>
