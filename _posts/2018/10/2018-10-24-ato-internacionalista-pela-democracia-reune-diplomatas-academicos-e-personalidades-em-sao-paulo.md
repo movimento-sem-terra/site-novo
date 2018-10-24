@@ -53,7 +53,7 @@ Estar&atilde;o presentes no debate&nbsp;diplomatas, acad&ecirc;micos e personali
 
 <p><br />
 Participam tamb&eacute;m o diplomata brasileiro, bacharel em Ci&ecirc;ncias Jur&iacute;dicas e Sociais e mestre em economia pela Boston University, Samuel Pinheiro Guimar&atilde;es; a professora da Universidade Federal do ABC, doutora e mestre em Ci&ecirc;ncia Pol&iacute;tica, e pesquisadora das &aacute;reas de pol&iacute;tica externa Brasileira, integra&ccedil;&atilde;o Sul-americana,<br />
-Teoria das Rela&ccedil;&otilde;es Internacionais e Teoria do Estado. E o diplomata e gestor da Tapera Taper&aacute;, Antonio Freitas.</p>
+Teoria das Rela&ccedil;&otilde;es Internacionais e Teoria do Estado, Tatiana Berringer. E o diplomata e gestor da Tapera Taper&aacute;, Antonio Freitas.</p>
 
 <p><br />
 <strong>Servi&ccedil;o:</strong><br />
@@ -63,3 +63,7 @@ Quando? Hoje (24), quarta-feira, 19h.<br />
 Onde? Faculdade de Direito da Universidade de S&atilde;o Paulo (USP), no Largo S&atilde;o<br />
 Francisco, S&atilde;o Paulo.<br />
 Mais informa&ccedil;&otilde;es, clique <a href="https://bit.ly/2yyRrEy">aqui</a>.&nbsp;&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
