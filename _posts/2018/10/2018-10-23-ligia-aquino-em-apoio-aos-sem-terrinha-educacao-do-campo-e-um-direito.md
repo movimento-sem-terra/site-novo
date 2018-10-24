@@ -1,7 +1,7 @@
 ---
 date: "2018-10-23T17:41:36-03:00"
 tags: []
-title: "Ligia Aquino em apoio aos Sem Terrinha - Educação do campo é um direito! \uD83C\uDF33"
+title: "Ligia Aquino em apoio aos Sem Terrinha - Educação do campo é um direito!"
 support_line: "Ligia Aquino, professora da Faculdade de Educação Universidade Estadual do Rio de Janeiro (UERJ) manifesta seu apoio aos Sem Terrinha.  \uD83D\uDD8D\n\n\uD83D\uDCDD “Uma ação que reafirma a condição da criança como cidadã, como uma criança que merece respeito.”"
 menu: "educação, cultura e comunicação"
 section: tv
