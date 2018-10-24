@@ -43,8 +43,7 @@ releated_posts:
 O diplomata brasileiro, ex-ministro da defesa que foi por duas vezes Ministro das Rela&ccedil;&otilde;es Exteriores do Brasil e um dos maiores especialistas do mundo em rela&ccedil;&otilde;es internacionais, Celso Amorim, ir&aacute; participar do ato p&uacute;blico e faz um convite &agrave; popula&ccedil;&atilde;o para se inserir nesse debate, num momento t&atilde;o crucial para a na&ccedil;&atilde;o brasileira, em que a nossa democracia est&aacute; sendo testada.</p>
 
 <p><br />
-Segundo Amorim, o que estamos vivenciando no pa&iacute;s com a campanha de &oacute;dio do candidato &agrave; presid&ecirc;ncia, Jair Bolsonoro contra Fernando Haddad &eacute; parte de um contexto global de avan&ccedil;o de movimentos antidemocr&aacute;ticos, &ldquo;que tem surgido com muita for&ccedil;a em pa&iacute;ses capitalistas avan&ccedil;ados, em ex-pa&iacute;ses socialistas e<br />
-principalmente, em pa&iacute;ses em desenvolvimento como o Brasil&rdquo;, explica.</p>
+Segundo Amorim, o que estamos vivenciando no pa&iacute;s com a campanha de &oacute;dio do candidato &agrave; presid&ecirc;ncia, Jair Bolsonoro contra Fernando Haddad &eacute; parte de um contexto global de avan&ccedil;o de movimentos antidemocr&aacute;ticos, &ldquo;que tem surgido com muita for&ccedil;a em pa&iacute;ses capitalistas avan&ccedil;ados, em ex-pa&iacute;ses socialistas e principalmente, em pa&iacute;ses em desenvolvimento como o Brasil&rdquo;, explica.</p>
 
 <p><br />
 Vivemos um momento de extrema import&acirc;ncia para a democracia brasileira, pois a emin&ecirc;ncia de uma poss&iacute;vel elei&ccedil;&atilde;o do projeto de &oacute;dio e viol&ecirc;ncia do candidato do Partido Social Liberal (PSL) coloca&nbsp;em xeque o projeto de uma na&ccedil;&atilde;o democr&aacute;tica atual&nbsp;e o funcionamento das institui&ccedil;&otilde;es p&uacute;blicas.</p>
