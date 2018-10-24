@@ -5,7 +5,7 @@ tags:
   - tag: eleição
   - tag: agroecologia
 menu: agricultura camponesa
-title: "Haddad promete redução do uso de agrotóxicos, transição ecológica e fortalecimento da agricultura familiar "
+title: "Haddad promete redução de agrotóxicos, transição ecológica e fortalecimento da agricultura familiar "
 support_line: "Programa de governo também prevê geração de empregos, programas sociais e metas para chegar ao Desmatamento Zero na Amazônia em 2022"
 images_hd: //farm2.staticflickr.com/1912/31653793948_54302285df_b.jpg
 layout: post
