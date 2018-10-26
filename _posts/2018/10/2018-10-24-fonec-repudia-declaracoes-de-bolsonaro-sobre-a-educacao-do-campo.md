@@ -1,6 +1,8 @@
 ---
 date: "2018-10-24T17:01:17-03:00"
-tags: []
+tags:
+  - tag: eleição
+  - tag: educação-do-campo
 title: FONEC repudia declarações de Bolsonaro sobre a Educação do Campo
 support_line: "Um suposto governo de Bolsonaro seria um risco para as conquistas dos camponeses nos últimos 20 anos, na área da educação"
 menu: "educação, cultura e comunicação"
@@ -16,7 +18,13 @@ files:
     $$hashKey: "030"
 created_date: "2018-10-24T17:22:26-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/10/2018-10-23-todos-e-todas-as-ruas-para-defender-o-brasil-e-a-democracia.md
+  - _posts/2018/10/2018-10-23-e-preciso-ter-a-coragem-de-dizer-liberdade.md
+  - _posts/2018/07/2018-07-28-comunidade-luta-contra-o-fechamento-da-escola-construindo-caminho-em-santa-catarina.md
+  - _posts/2018/10/2018-10-23-queremos-resgatar-um-projeto-de-pais-diz-haddad-em-sp.md
+  - _posts/2018/10/2018-10-21-milhares-de-manifestantes-vao-as-ruas-do-brasil-contra-bolsonaro.md
+  - _posts/2018/10/2018-10-20-minuto-a-minuto-or-cobertura-dos-atos-pela-democracia-e-pelo-brasil-neste-sabado.md
 
 ---
 <p>&nbsp;</p>
@@ -44,11 +52,11 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>Leia a carta na &iacute;ntegra:</p>
+<p><em>Leia a carta na &iacute;ntegra:</em></p>
 
 <p>&nbsp;</p>
 
-<p><img alt="" height="130" src="file:///C:/Users/SERGIO/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg" width="776" /><strong>PELA DEMOCRACIA E PELA EDUCA&Ccedil;&Atilde;O DO CAMPO</strong></p>
+<p style="text-align: center;"><img alt="" height="130" src="file:///C:/Users/SERGIO/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg" width="776" /><strong>PELA DEMOCRACIA E PELA EDUCA&Ccedil;&Atilde;O DO CAMPO</strong></p>
 
 <p>&nbsp;</p>
 
@@ -85,4 +93,4 @@ releated_posts: []
 <p align="right"><br />
 &nbsp;</p>
 
-<p><em>*Editado por Solange Engelmann</em></p>
+<p><em>*Editado por Solange Engelmann.</em></p>
