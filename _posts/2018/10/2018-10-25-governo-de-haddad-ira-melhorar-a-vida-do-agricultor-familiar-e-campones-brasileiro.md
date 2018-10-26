@@ -1,6 +1,8 @@
 ---
 date: "2018-10-25T13:17:26-03:00"
-tags: []
+tags:
+  - tag: haddad
+  - tag: eleição
 menu: reforma agrária
 images_hd: //farm2.staticflickr.com/1942/43736236840_53c97c1387_b.jpg
 title: Governo de Haddad irá melhorar a vida do agricultor familiar e camponês brasileiro
@@ -23,7 +25,14 @@ files:
     $$hashKey: 02S
 created_date: "2018-10-25T13:28:50-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/10/2018-10-13-votar-em-bolsonaro-e-votar-em-temer-diz-dirigente-do-mst.md
+  - _posts/2018/09/2018-09-12-em-carta-aberta-lula-transfere-sua-candidatura-para-haddad.md
+  - _posts/2018/09/2018-09-24-haddad-e-inaceitavel-um-pais-desse-tamanho-ter-gente-sem-terra.md
+  - _posts/2018/10/2018-10-11-conheca-as-principais-diferencas-entre-bolsonaro-e-haddad.md
+  - _posts/2018/10/2018-10-11-posicao-politica-do-mst-em-relacao-ao-2-turno-das-eleicoes-presidenciais-no-brasil.md
+  - _posts/2018/10/2018-10-21-milhares-de-manifestantes-vao-as-ruas-do-brasil-contra-bolsonaro.md
+  - _posts/2018/09/2018-09-13-lancando-a-candidatura-de-haddad-sem-terra-realizam-festival-pela-democracia-em-atalaia-zona-da-mata-de-alagoas.md
 
 ---
 <div style="text-align:center">
