@@ -72,6 +72,12 @@ Para al&eacute;m de ser uma organiza&ccedil;&atilde;o patronal, a pesquisadora c
 <p><br />
 A forma&ccedil;&atilde;o de mil&iacute;cias armadas e a viol&ecirc;ncia s&atilde;o algumas das den&uacute;ncias apresentadas no relat&oacute;rio da CPMI da Terra. Um dos motivos que levaram &agrave; abertura do inqu&eacute;rito foi reportagem do Jornal Nacional, de 2003, que mostrava homens encapuzados fortemente armados fazendo treino de tiros em uma fazenda no Pontal do Paranapanema, interior de S&atilde;o Paulo. Outra reportagem publicada no dia 3 de julho de 2003, pelo jornal O Estado de S.Paulo, apresentava as mil&iacute;cias armadas da extrema direita rural.</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="45547365331_960a2824ce_o.jpg" height="237" src="//farm2.staticflickr.com/1913/45570219851_dd58979944_b.jpg" width="600" />
+<figcaption><em>Pistoleiros organizados pelos propriet&aacute;rios de terra articulados pelo presidente da UDR. Foto: Acervo do Jornal Estado de S&atilde;o Paulo</em></figcaption>
+</figure>
+</div>
+
 <p><br />
 Na &eacute;poca, o delegado da Policia Civil respons&aacute;vel pela circunscri&ccedil;&atilde;o de Sorocaba abriu inqu&eacute;rito policial que passou, segundo o documento da CPMI, a &ldquo;investigar a forma&ccedil;&atilde;o e/ou o incentivo, por parte de fazendeiros, de mil&iacute;cias armadas no campo para inibir e/ou reprimir as a&ccedil;&otilde;es dos movimentos sociais de luta pela terra&rdquo;.</p>
 
@@ -83,6 +89,12 @@ Em depoimento &agrave; Pol&iacute;cia Federal, o fazendeiro Manoel Domingues Pae
 
 <p><br />
 Cledson Mendes, dirigente estadual do MST em Ponta do Paranapanema, lembra que nos anos 1990 as terras ocupadas pelo movimento eram terras improdutivas da Uni&atilde;o, e tinham como objetivo fazer a reforma agr&aacute;ria em Pontal.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="45547552371_df9f787742_o.jpg" height="289" src="//farm2.staticflickr.com/1965/31697704718_75f613b0e3_b.jpg" width="600" />
+<figcaption><em>O presidente da UDR estaria entre os paramilitares sendo treinados para assassinar sem-terras. Foto: Beto Barata - Acervo Estado de S&atilde;o Paulo</em></figcaption>
+</figure>
+</div>
 
 <p><br />
 &ldquo;Todas &agrave;s vezes que n&oacute;s fizemos ocupa&ccedil;&otilde;es na fazendas o Sr. Nabhan Garcia, que foi presidente ou &eacute; presidente da UDR &ndash; que se chama Uni&atilde;o Democr&aacute;tica Ruralista, mas que n&atilde;o tem nada de uni&atilde;o nem de democracia &ndash; aonde eles trazem jagun&ccedil;os de fora de longe do Mato Grosso, ex-policiais, pessoas expulsas das pol&iacute;cias militar e civil, pessoas que trabalham com of&iacute;cio de matar pra ganhar dinheiro, ele traz esse povo pra c&aacute; para o Pontal e acaba atirando nos trabalhadores rurais sem terra que quer a terra para poder trabalhar&rdquo;, recorda.</p>
