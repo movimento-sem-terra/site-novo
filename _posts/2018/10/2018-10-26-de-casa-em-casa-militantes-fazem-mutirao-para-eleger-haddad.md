@@ -3,7 +3,7 @@ date: "2018-10-26T17:52:55-03:00"
 tags:
   - tag: eleição
 title: "De casa em casa, militantes fazem mutirão para eleger Haddad"
-support_line: "A ação ocorreu nas duas últimas semanas, com mais de 100 pessoas, mobilizadas nos bairros da capital paranaense "
+support_line: "A ação ocorreu nas duas últimas semanas, com mais de 100 pessoas mobilizadas nos bairros da capital paranaense "
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1925/45521288822_64d25226e4_b.jpg
 layout: post
