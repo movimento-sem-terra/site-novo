@@ -27,39 +27,34 @@ releated_posts: []
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="44575410_2348647188541315_186154907789688832_n.jpg" height="695" src="//farm2.staticflickr.com/1964/44639381485_a4e96e8b83_b.jpg" width="700" />
-<figcaption></figcaption>
+<figure class="image" style="display:inline-block"><img alt="41069109_2265590786846956_6163991425173159936_n.jpg" height="466" src="//farm2.staticflickr.com/1942/43736236840_53c97c1387_b.jpg" width="700" />
+<figcaption><em>Foto: Divulga&ccedil;&atilde;o/MST</em></figcaption>
 </figure>
 </div>
 
-<p>&nbsp;</p>
-
-<p><br />
-<em>Da Pagina do MST</em></p>
-
 <p><br />
 &nbsp;</p>
+
+<p><em>Da Pagina do MST</em></p>
+
+<p>&nbsp;</p>
 
 <p>O candidato &agrave; presid&ecirc;ncia pelo Partido dos Trabalhadores (PT) Fernando Haddad e sua vice Manuela, assumem compromisso em carta aos Agricultores e Agricultoras Familiares e Camponeses e Camponesas brasileiras, de que far&atilde;o um governo que ir&aacute; devolver a dignidade e a melhoria da qualidade de vida &ldquo;ao homem e &agrave; mulher do campo&rdquo;.</p>
 
 <p><br />
-<br />
 Ainda segundo a carta, o governo de Haddad n&atilde;o vai aceitar a aprova&ccedil;&atilde;o de reformas que acabem com a aposentadoria rural e os direitos conquistados.&nbsp;</p>
 
 <p><br />
-<br />
 &ldquo;Quero reafirmar meu compromisso com a recria&ccedil;&atilde;o do Minist&eacute;rio do Desenvolvimento Agr&aacute;rio (MDA), o fortalecimento do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA), a realiza&ccedil;&atilde;o da reforma agr&aacute;ria e a retomada das pol&iacute;ticas bem sucedidas do governo Lula para a agricultura familiar, com mais cr&eacute;dito e assist&ecirc;ncia t&eacute;cnica&rdquo;, afirmam os candidatos Haddad e Manuela, em carta.</p>
 
 <p><br />
-&nbsp;</p>
+<em>Leia a carta na &iacute;ntegra:</em></p>
 
-<p>Leia a carta na &iacute;ntegra:</p>
+<p>&nbsp;</p>
 
-<p><br />
-S&atilde;o Paulo, outubro de 2018.</p>
+<p><strong>Estimadas companheiras e estimados companheiros agricultores e agricultoras familiares e camponeses e camponesas</strong></p>
 
-<p><strong>Estimadas companheiras e estimados companheiros agricultores e agricultoras familiares e camponeses e camponesas</strong><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <p>Quero saudar a todos voc&ecirc;s que dedicam suas vidas a cuidar da terra e a produzir os alimentos que v&atilde;o para o prato de todos n&oacute;s brasileiros.&nbsp;</p>
 
@@ -82,3 +77,7 @@ Um forte abra&ccedil;o,</p>
 <em>Fernando Haddad 13 &ndash; Presidente<br />
 Manuela - Vice&nbsp;<br />
 O Brasil Feliz de Novo!</em></p>
+
+<p>&nbsp;</p>
+
+<p>S&atilde;o Paulo, outubro de 2018</p>
