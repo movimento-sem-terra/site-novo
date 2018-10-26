@@ -24,55 +24,43 @@ releated_posts:
   - _posts/2018/06/2018-06-17-sem-terra-participam-do-o-1o-encontro-estadual-das-radios-livres-do-mst.md
   - _posts/2018/05/2018-05-24-tudo-sobre-o-6o-encontro-nacional-de-blogueir-s-e-ativistas-digitais.md
   - _posts/2018/06/2018-06-11-boletim-informativo-e-lancado-no-acampamento-marielle-vive-em-sao-paulo.md
+  - _posts/2018/07/2018-07-24-ouca-os-spots-feitos-pelas-criancas-no-1o-encontro-nacional-das-criancas-sem-terrinha.md
+  - _posts/2018/08/2018-08-28-entidades-lancam-nota-em-defesa-da-ebc-e-contra-as-ameacas-de-extincao-da-empresa.md
+  - _posts/2018/10/2018-10-20-minuto-a-minuto-or-cobertura-dos-atos-pela-democracia-e-pelo-brasil-neste-sabado.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="z.jpg" height="394" src="//farm2.staticflickr.com/1907/44637745805_467557acd0_b.jpg" width="700" />
+<figcaption><em>Cerca de 3 mil exemplares foram apreendidos. Foto: Divulga&ccedil;&atilde;o</em></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
-<div class="gs" style="margin: 0px; padding: 0px 0px 20px; width: 1183px; color: rgb(34, 34, 34); font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: medium;">
-<div>
-<div class="ii gt" id=":o3" style="font-size: 12.8px; direction: ltr; margin: 8px 0px 0px; padding: 0px; position: relative;">
-<div class="a3s aXjCH " id=":o2" role="gridcell" style="overflow: hidden; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: small; line-height: 1.5; font-family: Arial, Helvetica, sans-serif;" tabindex="-1">
-<div dir="auto">
-<div dir="auto">
-<div dir="auto"><em>Da P&aacute;gina do MST&nbsp;</em></div>
+<p><em>Da P&aacute;gina do MST</em></p>
 
-<div dir="auto">&nbsp;</div>
+<p>&nbsp;</p>
 
-<div dir="auto">&nbsp;</div>
+<p>O Movimento Sem Terra e a Frente Brasil Popular de Santa Catarina v&ecirc;m a p&uacute;blico repudiar com veem&ecirc;ncia a apreens&atilde;o feita nesta ter&ccedil;a-feira (24) de aproximadamente 3 mil exemplares da edi&ccedil;&atilde;o Especial Elei&ccedil;&otilde;es 2018 do Jornal Brasil de Fato, comandada pela Pol&iacute;cia Federal e Tribunal Regional Eleitoral de Santa Catarina (TRE/SC)&nbsp; na Casa da Resist&ecirc;ncia Popular, localizada em Lages, regi&atilde;o serrana do estado.&nbsp;</p>
 
-<div dir="auto">&nbsp;</div>
+<p><br />
+A a&ccedil;&atilde;o conjunta entre a Pol&iacute;cia Federal e Tribunal Regional Eleitoral de Santa Catarina (TRE/SC) foi direcionada aos exemplares do Brasil de Fato, apesar de no local haver outros materiais de campanha eleitoral, caracterizando mais um ataque &agrave; liberdade de imprensa e &agrave; comunica&ccedil;&atilde;o popular.&nbsp;</p>
 
-<div dir="auto">O Movimento Sem Terra e a Frente Brasil Popular de Santa Catarina v&ecirc;m a p&uacute;blico repudiar com veem&ecirc;ncia a apreens&atilde;o feita nesta ter&ccedil;a-feira (24) de aproximadamente 3 mil exemplares da edi&ccedil;&atilde;o Especial Elei&ccedil;&otilde;es 2018 do Jornal Brasil de Fato, comandada pela Pol&iacute;cia Federal e Tribunal Regional Eleitoral de Santa Catarina (TRE/SC)&nbsp; na Casa da Resist&ecirc;ncia Popular, localizada em Lages, regi&atilde;o serrana do estado.&nbsp;</div>
+<p><br />
+Tampouco trata-se de uma a&ccedil;&atilde;o isolada. No &uacute;ltimo s&aacute;bado (20), o TRE do Rio de Janeiro realizou a&ccedil;&atilde;o similar, apreendendo milhares de exemplares do mesmo jornal na sede do Sindicato dos Petroleiros do Norte Fluminense (Sindipetro-NF), na cidade de Maca&eacute;.&nbsp;&nbsp;</p>
 
-<div dir="auto"><br />
-A a&ccedil;&atilde;o conjunta entre a Pol&iacute;cia Federal e Tribunal Regional Eleitoral de Santa Catarina (TRE/SC) foi direcionada aos exemplares do Brasil de Fato, apesar de no local haver outros materiais de campanha eleitoral, caracterizando mais um ataque &agrave; liberdade de imprensa e &agrave; comunica&ccedil;&atilde;o popular.&nbsp;</div>
+<p><br />
+O Brasil de Fato repudiou a a&ccedil;&atilde;o, considerando-a antidemocr&aacute;tica e uma viola&ccedil;&atilde;o &agrave; liberdade de imprensa. E em nota oficial afirmou que: &quot;Todo o conte&uacute;do presente no jornal &eacute; estritamente jornal&iacute;stico, sendo que todas as informa&ccedil;&otilde;es contidas no tabloide foram devidamente apuradas e repercutidas, inclusive, em ve&iacute;culos da grande m&iacute;dia.&quot;</p>
 
-<div dir="auto"><br />
-Tampouco trata-se de uma a&ccedil;&atilde;o isolada. No &uacute;ltimo s&aacute;bado (20), o TRE do Rio de Janeiro realizou a&ccedil;&atilde;o similar, apreendendo milhares de exemplares do mesmo jornal na sede do Sindicato dos Petroleiros do Norte Fluminense (Sindipetro-NF), na cidade de Maca&eacute;.&nbsp;&nbsp;</div>
+<p><br />
+Neste sentido, refor&ccedil;amos o direito de exist&ecirc;ncia de uma imprensa e de uma comunica&ccedil;&atilde;o popular, que esteja alinhado com os interesses do povo. Reafirmamos o n&atilde;o aos ide&aacute;rios violentos e fascistas, a defesa da democracia, das liberdades democr&aacute;ticas, liberdade de imprensa, e tamb&eacute;m a liberdade ao eleitor de acessar os diferentes projetos para realizarem uma escolha mais consciente e cr&iacute;tica.</p>
 
-<div dir="auto"><br />
-<br />
-O Brasil de Fato repudiou a a&ccedil;&atilde;o, considerando-a antidemocr&aacute;tica e uma viola&ccedil;&atilde;o &agrave; liberdade de imprensa. E em nota oficial afirmou que: &quot;Todo o conte&uacute;do presente no jornal &eacute; estritamente jornal&iacute;stico, sendo que todas as informa&ccedil;&otilde;es contidas no tabloide foram devidamente apuradas e repercutidas, inclusive, em ve&iacute;culos da grande m&iacute;dia.&quot;</div>
+<p><br />
+Tamb&eacute;m no &uacute;ltimo s&aacute;bado (20), policiais e fiscais do Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ) invadiram a sede do Sindipetro-NF (Sindicato dos Petroleiros do Norte Fluminense), em Maca&eacute; (RJ), e apreenderam exemplares do tabl&oacute;ide especial sobre as elei&ccedil;&otilde;es do Brasil de Fato, assim como exemplares do Boletim Nascente, o jornal semanal da entidade.</p>
 
-<div dir="auto"><br />
-<br />
-Neste sentido, refor&ccedil;amos o direito de exist&ecirc;ncia de uma imprensa e de uma comunica&ccedil;&atilde;o popular, que esteja alinhado com os interesses do povo. Reafirmamos o n&atilde;o aos ide&aacute;rios violentos e fascistas, a defesa da democracia, das liberdades democr&aacute;ticas, liberdade de imprensa, e tamb&eacute;m a liberdade ao eleitor de acessar os diferentes projetos para realizarem uma escolha mais consciente e cr&iacute;tica.</div>
+<p><br />
+O jornal Brasil De Fato reafirma seu compromisso com a democracia, a liberdade de imprensa e com uma vis&atilde;o popular do Brasil e do mundo. Superamos uma ditadura que lan&ccedil;ou as artes, o pensamento, o jornalismo e toda sociedade no sil&ecirc;ncio e na censura.&nbsp;</p>
 
-<div>&nbsp;</div>
+<p>&nbsp;</p>
 
-<div><br />
-Tamb&eacute;m no &uacute;ltimo s&aacute;bado (20), policiais e fiscais do Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ) invadiram a sede do Sindipetro-NF (Sindicato dos Petroleiros do Norte Fluminense), em Maca&eacute; (RJ),&nbsp;e&nbsp;<a href="https://www.brasildefato.com.br/2018/10/16/imprima-e-distribua-a-edicao-especial-sobre-eleicoes-do-brasil-de-fato-na-sua-cidade/">apreenderam exemplares do tabl&oacute;ide especial sobre as elei&ccedil;&otilde;es do Brasil de Fato</a>, assim como exemplares do Boletim Nascente, o jornal semanal da entidade.</div>
-
-<div><br />
-<br />
-O jornal&nbsp;Brasil De Fato&nbsp;reafirma seu compromisso com a democracia, a liberdade de imprensa e com uma vis&atilde;o popular do Brasil e do mundo. Superamos uma ditadura que lan&ccedil;ou as artes, o pensamento, o jornalismo e toda sociedade no sil&ecirc;ncio e na censura.&nbsp;</div>
-
-<div>
-<div>&nbsp;</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<p>&nbsp;</p>
