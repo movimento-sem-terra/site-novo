@@ -7,16 +7,16 @@ tags:
 title: "Em Pernambuco, dirigente do MST é detido arbitrariamente pela PM "
 support_line: "Jaime exercia seu direito de eleitor e cidadão, fazendo panfletagem no centro da cidade junto com a militância. "
 menu: direitos humanos
-images_hd: //farm2.staticflickr.com/1969/31712042188_ed36924be6_b.jpg
+images_hd: //farm2.staticflickr.com/1943/43767102610_e8cea9d45e_b.jpg
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1969/31712042188_ed36924be6_b.jpg
-    original: //farm2.staticflickr.com/1969/31712042188_b909b8d818_o.jpg
-    thumbnail: //farm2.staticflickr.com/1969/31712042188_ed36924be6_t.jpg
-    medium: //farm2.staticflickr.com/1969/31712042188_ed36924be6_z.jpg
-    small: //farm2.staticflickr.com/1969/31712042188_ed36924be6_n.jpg
-    title: download (1).jpeg
-    $$hashKey: "054"
+  - link: //farm2.staticflickr.com/1943/43767102610_e8cea9d45e_b.jpg
+    original: //farm2.staticflickr.com/1943/43767102610_ed458fdaec_o.jpg
+    thumbnail: //farm2.staticflickr.com/1943/43767102610_e8cea9d45e_t.jpg
+    medium: //farm2.staticflickr.com/1943/43767102610_e8cea9d45e_z.jpg
+    small: //farm2.staticflickr.com/1943/43767102610_e8cea9d45e_n.jpg
+    title: 13096172_10209850480122785_4487661734505925082_n.jpg
+    $$hashKey: "057"
 created_date: "2018-10-27T13:39:52-02:00"
 published: true
 releated_posts:
