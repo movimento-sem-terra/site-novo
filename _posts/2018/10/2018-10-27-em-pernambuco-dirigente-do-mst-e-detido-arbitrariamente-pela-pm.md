@@ -5,7 +5,7 @@ tags:
   - tag: eleição
   - tag: pernambuco
 title: "Em Pernambuco, dirigente do MST é detido arbitrariamente pela PM "
-support_line: "Jaime exercia seu direito de eleitor e cidadão, fazendo panfletagem no centro da cidade, junto com a militância. "
+support_line: "Jaime exercia seu direito de eleitor e cidadão, fazendo panfletagem no centro da cidade junto com a militância. "
 menu: direitos humanos
 images_hd: //farm2.staticflickr.com/1969/31712042188_ed36924be6_b.jpg
 layout: post
@@ -28,7 +28,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Na tarde deste s&aacute;bado, 27, o integrante da Dire&ccedil;&atilde;o Nacional do MST, Jaime Amorim, foi detido pela PM de Caruaru ao exercer seu direito de eleitor e cidad&atilde;o, fazendo panfletagem no centro da cidade, junto com a milit&acirc;ncia.&nbsp;</p>
+Na tarde deste s&aacute;bado, 27, o integrante da Dire&ccedil;&atilde;o Nacional do MST, Jaime Amorim, foi detido pela PM de Caruaru ao exercer seu direito de eleitor e cidad&atilde;o, fazendo panfletagem no centro da cidade junto com a milit&acirc;ncia.&nbsp;</p>
 
 <p><br />
 Amea&ccedil;ado por eleitores do candidato da oposi&ccedil;&atilde;o, o policial que se apresentou n&atilde;o estava a servi&ccedil;o da corpora&ccedil;&atilde;o. A assessoria jur&iacute;dica j&aacute; foi acionada e a milit&acirc;ncia permanece nas ruas pela democracia.&nbsp;</p>
