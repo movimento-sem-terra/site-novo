@@ -103,7 +103,7 @@ Foto: Joka Madruga</em></p>
 
 <p>&nbsp;</p>
 
-<p><em>*Engenheira Florestal, mestre em Engenharia e Agroecologia. Trabalha na Coordenadoria de Biodiversidade e Recursos Naturais da Secretaria do Meio Ambiente do Estado de S&atilde;o Paulo.</em></p>
+<p><em>*Engenheira Florestal, mestre em Engenharia e Agroecologia.</em></p>
 
 <p><br />
 &nbsp;</p>
