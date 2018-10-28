@@ -47,3 +47,6 @@ Est&atilde;o querendo enquadrar como crime eleitoral para mant&ecirc;-lo preso. 
 
 <p style="text-align: right;"><br />
 <em>Dire&ccedil;&atilde;o Estadual do MST de Pernambuco</em></p>
+
+<p><br />
+*Jaime Amorim foi liberado ainda no final da tarde de s&aacute;bado. Ap&oacute;s, fazer os procedimentos necess&aacute;rios junto a delegacia.&nbsp;</p>
