@@ -1,6 +1,7 @@
 ---
 date: "2018-10-27T20:35:16-03:00"
-tags: []
+tags:
+  - tag: lula-livre
 images_hd: //farm2.staticflickr.com/1942/44675192355_6f3529ce39_b.jpg
 menu: lutas e mobilizações
 title: Vigília Lula Livre faz homenagem ao aniversário de 73 anos do ex-presidente
@@ -30,20 +31,24 @@ files:
     $$hashKey: 08Q
 created_date: "2018-10-27T21:06:55-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/08/2018-08-28-nossa-fome-e-por-pao-terra-teto-trabalho-e-alegria.md
+  - _posts/2018/08/2018-08-29-kenarik-boujikian-o-judiciario-precisa-de-juizes-democraticos.md
+  - _posts/2018/08/2018-08-30-entidades-juridicas-se-unem-para-discutir-o-sistema-de-justica-no-brasil.md
+  - _posts/2018/09/2018-09-01-haddad-visitara-assentamento-do-mst-no-rio-grande-do-sul.md
+  - _posts/2018/09/2018-09-01-eleicao-sem-lula-e-golpe.md
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Joka Madruga 3.jpg" height="466" src="//farm2.staticflickr.com/1922/45538746992_039ec6ce7b_b.jpg" width="700" />
-<figcaption>Bolo para comemorar o anivers&aacute;rio de Lula, em Curitiba</figcaption>
+<figcaption><em>Bolo para comemorar o anivers&aacute;rio de Lula, em Curitiba. Foto: Joka Madruga</em></figcaption>
 </figure>
 </div>
 
 <p>&nbsp;</p>
 
 <p><em>Por Ednubia Ghisi&nbsp;<br />
-Para Pagina do MST<br />
-Foto: Joka Madruga</em></p>
+Da Pagina do MST</em></p>
 
 <p><br />
 <br />
@@ -65,7 +70,7 @@ Penduradas na cerca de tela que rodeia o terreno da Vig&iacute;lia, bandeiras de
 
 <p><br />
 <br />
-Campanha por Lula Livre&nbsp;<br />
+<strong>Campanha por Lula Livre&nbsp;</strong><br />
 &nbsp;</p>
 
 <p>A milit&acirc;ncia do Movimento dos Trabalhadores Rurais Sem Terra (MST) participou diretamente da organiza&ccedil;&atilde;o do ato e reafirmou o compromisso com a luta pela liberdade de Lula. Jo&atilde;o Pedro St&eacute;dile, integrante da dire&ccedil;&atilde;o nacional do Movimento, falou sobre a continuidade da campanha pela liberta&ccedil;&atilde;o do maior l&iacute;der popular: &ldquo;N&oacute;s viemos aqui para selar um compromisso. Independente da estat&iacute;stica de amanh&atilde;, cada um de n&oacute;s vai trocar o adesivo do 13 pelo do Lula Livre&rdquo;.&nbsp;</p>
