@@ -1,6 +1,7 @@
 ---
 date: "2018-10-27T15:46:24-03:00"
-tags: []
+tags:
+  - tag: eleição
 title: Religiosos se unem pela democracia e os valores evangélicos
 support_line: "Em carta aberta, pedem ao povo que não devemos arriscar abrir mão da democracia, conquistada a duras penas, após um regime militar autoritário e ditatorial"
 menu: direitos humanos
@@ -16,7 +17,12 @@ files:
     $$hashKey: 02P
 created_date: "2018-10-27T15:59:06-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/10/2018-10-26-ao-povo-irmao-do-brasil-e-da-nossa-america.md
+  - _posts/2018/10/2018-10-25-nota-de-repudio-a-apreensao-do-jornal-bdf.md
+  - _posts/2018/10/2018-10-25-governo-de-haddad-ira-melhorar-a-vida-do-agricultor-familiar-e-campones-brasileiro.md
+  - _posts/2018/10/2018-10-26-em-carta-aberta-milo-rau-declara-apoio-a-haddad.md
+  - _posts/2018/10/2018-10-26-o-povo-brasileiro-tem-vocacao-democratica-antiditatorial-e-antifascista.md
 
 ---
 <p>&nbsp;</p>
@@ -40,7 +46,7 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>Leia carta na &iacute;ntegra:&nbsp;</p>
+<p><em>Leia carta na &iacute;ntegra:&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
