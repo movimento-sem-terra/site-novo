@@ -1,6 +1,7 @@
 ---
 date: "2018-10-27T18:24:29-03:00"
-tags: []
+tags:
+  - tag: alimentos-saudáveis
 title: Produzir alimento sem agrotóxico é ser terrorista?
 support_line: Artigo questiona como um assentado de Reforma Agrária que produz alimentos no campo pode ser considerado dessa forma
 menu: reforma agrária
@@ -16,7 +17,13 @@ files:
     $$hashKey: 02P
 created_date: "2018-10-27T18:39:07-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/04/2018-04-20-mst-entrega-alimentos-para-entidade-de-guaiba-no-rio-grande-do-sul.md
+  - _posts/2018/04/2018-04-30-vandana-shiva-a-comida-e-o-maior-problema-de-saude-no-mundo.md
+  - _posts/2018/05/2018-05-05-feira-do-mst-reune-milhares-em-conferencia-sobre-alimentacao-saudavel.md
+  - _posts/2018/06/2018-06-06-feiras-agroecologicas-levam-alimentos-sem-veneno-para-lares-paraibanos.md
+  - _posts/2018/08/2018-08-21-armazem-do-campo-sp-realiza-feira-de-alimentos-organicos-a-preco-de-custo.md
+label: articles
 
 ---
 <p>&nbsp;</p>
