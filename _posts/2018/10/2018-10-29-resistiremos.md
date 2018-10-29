@@ -35,11 +35,13 @@ releated_posts:
 <div>
 <p>&nbsp;</p>
 
+<p>&nbsp;</p>
+
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <div>&nbsp;</div>
 
-<div>Ap&oacute;s o resultado das elei&ccedil;&otilde;es presidenciais no Brasil, onde Jair Bolsonaro (PSL), candidato da extrema-direta, foi eleito com a maioria dos votos v&aacute;lidos (55,1%)&nbsp;um amplo processo de resist&ecirc;ncia ao discurso de &oacute;dio&nbsp;propagandeado e colocado em pr&aacute;tica durante as campanhas eleitorais come&ccedil;a.&nbsp;</div>
+<div>Ap&oacute;s o resultado das elei&ccedil;&otilde;es presidenciais no Brasil, onde Jair Bolsonaro (PSL), candidato da extrema-direta, foi eleito com a maioria dos votos v&aacute;lidos (55,1%), um amplo processo de resist&ecirc;ncia ao discurso de &oacute;dio&nbsp;propagandeado e colocado em pr&aacute;tica durante as campanhas eleitorais come&ccedil;a.&nbsp;</div>
 
 <div><br />
 <br />
@@ -63,7 +65,7 @@ Nesse contexto, alguns desafios s&atilde;o apresentados, entre eles, a unidade e
 
 <div><br />
 <br />
-A elei&ccedil;&atilde;o terminou, mas a luta est&aacute; apenas come&ccedil;ando: seguimos de cabe&ccedil;a erguida resistindo pelo Brasil!<br />
+<strong>A elei&ccedil;&atilde;o terminou, mas a luta est&aacute; apenas come&ccedil;ando: seguimos de cabe&ccedil;a erguida resistindo pelo Brasil!</strong><br />
 <br />
 <br />
 Vivemos um processo eleitoral totalmente at&iacute;pico. Desde o encerramento do per&iacute;odo militar n&atilde;o t&iacute;nhamos a pris&atilde;o pol&iacute;tica de um l&iacute;der, como a de Luiz In&aacute;cio Lula da Silva, injustamente condenado, e que teve sua candidatura impugnada pelo Tribunal Superior Eleitoral. Um processo em que for&ccedil;as que atuavam, at&eacute; ent&atilde;o, nos por&otilde;es do pa&iacute;s, emergiram a disputa presidencial provocando uma grande onda de &oacute;dio e viol&ecirc;ncia contra o povo brasileiro.</div>
