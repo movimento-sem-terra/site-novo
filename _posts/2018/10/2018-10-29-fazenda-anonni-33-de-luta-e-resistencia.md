@@ -6,7 +6,7 @@ tags:
   - tag: resistência
 images_hd: //farm2.staticflickr.com/1954/45618629501_e6a942728f_b.jpg
 menu: lutas e mobilizações
-title: "Fazenda Anonni: 33 de luta e resistência "
+title: "Fazenda Anonni: 33 anos de luta e resistência "
 support_line: Não por acaso a simbologia que a data carrega hoje nos anima para seguir adiante
 layout: post
 files:
