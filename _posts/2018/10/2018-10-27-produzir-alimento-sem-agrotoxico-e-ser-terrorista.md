@@ -16,7 +16,7 @@ files:
     title: feira_joka6.jpg
     $$hashKey: 02P
 created_date: "2018-10-27T18:39:07-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/04/2018-04-20-mst-entrega-alimentos-para-entidade-de-guaiba-no-rio-grande-do-sul.md
   - _posts/2018/04/2018-04-30-vandana-shiva-a-comida-e-o-maior-problema-de-saude-no-mundo.md
