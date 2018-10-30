@@ -87,7 +87,7 @@ O Agroneg&oacute;cio tem uma expressiva participa&ccedil;&atilde;o na economia d
 
 <div>&nbsp;</div>
 
-<div>No MST, a agroecologia tem sido uma forte bandeira, pois para os trabalhadores e trabalhadoras do Movimento Sem Terra, agroecologia n&atilde;o &eacute; s&oacute; produzir de forma saud&aacute;vel, mas &eacute; cuidar do meio ambiente em que se vive, da terra, da &aacute;gua; &eacute; ter soberania sobre as sementes; &eacute; valorizar os conhecimentos tradicionais; &eacute; trazer outro modelo de produ&ccedil;&atilde;o que leve alimentos saud&aacute;veis para toda a popula&ccedil;&atilde;o.</div>
+<div>No MST, a agroecologia tem sido uma forte bandeira, pois para os trabalhadores e trabalhadoras, agroecologia n&atilde;o &eacute; s&oacute; produzir de forma saud&aacute;vel, mas &eacute; cuidar do meio ambiente em que se vive, da terra, da &aacute;gua; &eacute; ter soberania sobre as sementes; &eacute; valorizar os conhecimentos tradicionais; &eacute; trazer outro modelo de produ&ccedil;&atilde;o que leve alimentos saud&aacute;veis para toda a popula&ccedil;&atilde;o.</div>
 
 <div>&nbsp;</div>
 
@@ -111,5 +111,5 @@ O Agroneg&oacute;cio tem uma expressiva participa&ccedil;&atilde;o na economia d
 
 <div>&nbsp;</div>
 
-<div><em>*Ludimila e Ma&iacute;ra s&atilde;o militantes do MST em Minas Gerais e contribuem com o setor de sa&uacute;de e produ&ccedil;&atilde;o respectivamente.<br />
+<div><em>*Ludmilla e Ma&iacute;ra s&atilde;o militantes do MST em Minas Gerais e contribuem com o setor de sa&uacute;de e produ&ccedil;&atilde;o respectivamente.<br />
 ** Editado por Wesley Lima.</em></div>
