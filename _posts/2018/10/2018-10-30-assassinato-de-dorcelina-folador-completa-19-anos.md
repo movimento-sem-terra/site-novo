@@ -23,15 +23,19 @@ releated_posts:
   - _posts/2018/10/2018-10-05-elenao-mulheres-de-todo-o-pais-voltam-as-ruas-neste-sabado-6-contra-o-fascismo.md
   - _posts/2018/09/2018-09-05-josue-de-castro-precursor-da-reforma-agraria-popular.md
   - _posts/2018/06/2018-06-29-padre-amaro-livre-ainda-esperamos-justica-e-paz.md
+  - _posts/2018/10/2018-10-11-posicao-politica-do-mst-em-relacao-ao-2-turno-das-eleicoes-presidenciais-no-brasil.md
+  - _posts/2018/05/2018-05-24-nota-de-solidariedade-do-mst-ceara.md
+  - _posts/2018/03/2018-03-26-fausto-dos-santos-um-legado-que-inspira-luta.md
+  - _posts/2018/03/2018-03-02-theotonio-dos-santos-partiu-um-ser-humano-e-intelectual-transcendente.md
 
 ---
 <p>&nbsp;</p>
 
 <p><em>Solange Engelmann<br />
-Para p&aacute;gina do MST</em></p>
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Hoje, 23 de novembro,&nbsp;completam-se 19 anos do assassinato da mulher,&nbsp;exemplo da luta pela terra e na pol&iacute;tica brasileira, Dorcelina Folador.</p>
+Hoje, 30 de outubro,&nbsp;completam-se 19 anos do assassinato da mulher,&nbsp;exemplo da luta pela terra e na pol&iacute;tica brasileira, Dorcelina Folador.</p>
 
 <p><br />
 A Sem Terra e prefeita pelo&nbsp;Partido dos Trabalhadores (PT)&nbsp;de Mundo Novo (MS), na &eacute;poca&nbsp;com 36 anos, foi&nbsp;assassinada com seis tiros pelas costas&nbsp;no dia 30 de outubro de 1999, na varanda de&nbsp;sua casa.</p>
