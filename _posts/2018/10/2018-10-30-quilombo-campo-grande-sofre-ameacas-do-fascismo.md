@@ -6,7 +6,7 @@ tags:
   - tag: despejo
   - tag: conflitos-no-campo
 title: Quilombo Campo Grande sofre ameaças do fascismo
-support_line: Esses é um dos conflitos agrários mais antigos do país
+support_line: Esse é um dos conflitos agrários mais antigos do país
 menu: direitos humanos
 section: null
 images_hd: //farm2.staticflickr.com/1976/30694631887_39dcb33608_b.jpg
