@@ -80,10 +80,12 @@ Ao contr&aacute;rio desse movimento, a educa&ccedil;&atilde;o do campo, conquist
 
 <p>Apesar d</p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p>os avan&ccedil;os nesses &uacute;ltimos 20 anos, a educa&ccedil;&atilde;o do campo vem sendo gravemente amea&ccedil;ada. Os cortes or&ccedil;ament&aacute;rios estabelecidos durante o governo Temer e os an&uacute;ncios de criminaliza&ccedil;&atilde;o da educa&ccedil;&atilde;o do campo pelo candidato eleito a presid&ecirc;ncia Jair Bolsonaro (PSL) imp&otilde;e novos desafios. O governo Temer, despertou na<br />
 educa&ccedil;&atilde;o um projeto de precariza&ccedil;&atilde;o da rede p&uacute;blica e privatiza&ccedil;&atilde;o do ensino por meio dos cortes or&ccedil;ament&aacute;rios, a educa&ccedil;&atilde;o do campo foi prejudicada pela redu&ccedil;&atilde;o de verba destinada ao PRONERA.</p>
-</p>
+
+<p>&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Seminario Educacao do campo_Campina Grande PB _30 de out_Foto Thais Peregrino-1-5.jpg" height="467" src="//farm2.staticflickr.com/1961/44736387985_3fcf7b0650_b.jpg" width="700" />
