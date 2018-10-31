@@ -66,7 +66,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por Thais Peregrino<br />
-Para P&aacute;gina do MST&nbsp;</em></p>
+Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
