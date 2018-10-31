@@ -41,13 +41,13 @@ releated_posts:
 As 150 fam&iacute;lias acampados viveram momentos de terror, mas conseguiram controlar o fogo. A Pol&iacute;cia Militar e o corpo de Bombeiro foram acionados. Fizeram diligencias, mas ningu&eacute;m foi encontrado.</p>
 
 <p><br />
-O acampamento Irma Dorothy em Tamboril &eacute; uma ocupa&ccedil;&atilde;o realizada pelo MST h&aacute; 4 anos. As 150 fam&iacute;lias acampadas est&atilde;o reivindicando a desapropria&ccedil;&atilde;o da fazenda Cacimbinha unicacio pertencente a fam&iacute;lia timb&oacute;. Nestes per&iacute;odo de acampamento j&aacute; ocorreram diversas audi&ecirc;ncias com a Secretaria das Cidades e Instituto do Desenvolvimento Agr&aacute;ria do Cear&aacute; (IDACE) do governo do estado e Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA) que est&atilde;o realizando vistorias em &aacute;reas na regi&atilde;o para realizar o assentamento das referidas fam&iacute;lias.</p>
+O acampamento Irma Dorothy em Tamboril &eacute; uma ocupa&ccedil;&atilde;o realizada pelo MST h&aacute; 4 anos. As 150 fam&iacute;lias acampadas est&atilde;o reivindicando a desapropria&ccedil;&atilde;o da fazenda Cacimbinha unicacio pertencente a fam&iacute;lia Timb&oacute;. Nestes per&iacute;odo de acampamento j&aacute; ocorreram diversas audi&ecirc;ncias com a Secretaria das Cidades e Instituto do Desenvolvimento Agr&aacute;ria do Cear&aacute; (IDACE) do governo do estado e Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA) que est&atilde;o realizando vistorias em &aacute;reas na regi&atilde;o para realizar o assentamento das referidas fam&iacute;lias.</p>
 
 <p><br />
 Ap&oacute;s o atentado ao acampamento que as fam&iacute;lias acreditam ser criminoso, diversos setores da sociedade civil de Tamboril est&atilde;o no local prestando solidariedade.</p>
 
 <p><br />
-O MST acredita que atitudes como essa de &oacute;dio e viol&ecirc;ncia, rasga a democracia. O problema agr&aacute;rio n&atilde;o se resolve com viol&ecirc;ncia e sim com politica publica. O MST ir&aacute; tomar todas as providencias cab&iacute;veis para o momento. Afirmamos que continuaremos resistindo e lutando pela desapropria&ccedil;&atilde;o de latif&uacute;ndios improdutivos.</p>
+O MST acredita que atitudes como essa de &oacute;dio e viol&ecirc;ncia, rasga a democracia. O problema agr&aacute;rio n&atilde;o se resolve com viol&ecirc;ncia e sim com pol&iacute;tica p&uacute;blica. O MST ir&aacute; tomar todas as providencias cab&iacute;veis para o momento. Afirmamos que continuaremos resistindo e lutando pela desapropria&ccedil;&atilde;o de latif&uacute;ndios improdutivos.</p>
 
 <p><br />
 A R&aacute;dio Camponesa Palmares esteve no local e fez uma transmiss&atilde;o ao vivo em alerta. Confira:</p>
