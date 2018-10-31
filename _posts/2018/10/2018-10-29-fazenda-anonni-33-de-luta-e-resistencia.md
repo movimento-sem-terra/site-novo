@@ -1,5 +1,5 @@
 ---
-date: "2018-10-29T13:19:45-03:00"
+date: "2018-10-29T14:19:45-02:00"
 tags:
   - tag: lutas
   - tag: reforma-agrária
@@ -42,6 +42,7 @@ releated_posts:
   - _posts/2018/10/2018-10-11-cadeia-para-a-cutrale-e-liberdade-aos-presos-politicos-do-mst.md
   - _posts/2018/10/2018-10-05-seguranca-publica-e-a-falacia-de-bolsonaro.md
   - _posts/2018/10/2018-10-05-elenao-mulheres-de-todo-o-pais-voltam-as-ruas-neste-sabado-6-contra-o-fascismo.md
+section: featured-news
 
 ---
 <div style="text-align:center">
