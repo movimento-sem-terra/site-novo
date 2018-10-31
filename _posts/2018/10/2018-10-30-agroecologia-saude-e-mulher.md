@@ -50,9 +50,11 @@ releated_posts:
 <div><em>Por Juliana L&uacute;cia Costa Santos Moraes e Ana Fl&aacute;via Quint&atilde;o Fonseca*<br />
 Em conjunto com o Setor de Sa&uacute;de do MST</em></div>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <div>&nbsp;</div>
-</p>
+
+<p>&nbsp;</p>
 
 <div>H&aacute; muito tempo os seres humanos t&ecirc;m se relacionado com a natureza como se ela fosse uma fonte inesgot&aacute;vel de recursos, como se nunca fosse acabar. O mundo capitalista em que vivemos nos molda como uma sociedade de consumo irracional que n&atilde;o pensa nas conseq&uuml;&ecirc;ncias futuras enquanto busca o bem-estar imediato.</div>
 
