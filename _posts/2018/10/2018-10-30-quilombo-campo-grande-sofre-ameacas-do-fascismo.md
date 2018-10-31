@@ -1,5 +1,5 @@
 ---
-date: "2018-10-30T13:44:48-03:00"
+date: "2018-10-30T14:44:48-02:00"
 tags:
   - tag: minas-gerais
   - tag: acampamento
@@ -8,7 +8,7 @@ tags:
 title: Quilombo Campo Grande sofre ameaças do fascismo
 support_line: Esse é um dos conflitos agrários mais antigos do país
 menu: direitos humanos
-section: null
+section: featured-news
 images_hd: //farm2.staticflickr.com/1976/30694631887_39dcb33608_b.jpg
 layout: post
 files:
