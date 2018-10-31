@@ -26,6 +26,7 @@ releated_posts:
   - _posts/2018/04/2018-04-19-no-dia-17-de-abril-exigimos-que-os-direitos-dos-campesinos-e-campesinas-sejam-garantidos-basta-ao-tlc-basta-de-impunidade.md
   - _posts/2018/06/2018-06-21-o-que-a-eleicao-do-ivan-duque-na-colombia-significa-para-a-america-latina-e-o-caribe.md
   - _posts/2018/07/2018-07-05-mst-repudia-ordem-de-prisao-ao-ex-presidente-do-equador-rafael-correa.md
+section: featured-news
 
 ---
 <p><br />
