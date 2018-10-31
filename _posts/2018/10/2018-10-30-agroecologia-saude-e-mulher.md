@@ -112,5 +112,5 @@ O Agroneg&oacute;cio tem uma expressiva participa&ccedil;&atilde;o na economia d
 
 <div>&nbsp;</div>
 
-<div><em>*Este texto faz parte da cartilha Mulheres, Agroecologia e as lutas por sa&uacute;de: 30 anos do SUS, 20 anos do Setor de Sa&uacute;de do MST- MG, que est&aacute; em processo de constru&ccedil;&atilde;o, em parceria com a &nbsp;de Sa&uacute;de P&uacute;blica de Minas Gerais.<br />
+<div><em>*Este texto faz parte da cartilha Mulheres, Agroecologia e as lutas por sa&uacute;de: 30 anos do SUS, 20 anos do Setor de Sa&uacute;de do MST- MG, que est&aacute; em processo de constru&ccedil;&atilde;o, em parceria com a Escola de Sa&uacute;de P&uacute;blica de Minas Gerais.<br />
 ** Editado por Wesley Lima.</em></div>
