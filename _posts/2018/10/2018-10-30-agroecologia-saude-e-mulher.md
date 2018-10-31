@@ -47,13 +47,12 @@ releated_posts:
 
 <div>&nbsp;</div>
 
-<div><em>Por Ludmilla Bandeira e Ma&iacute;ra Santiago*</em></div>
+<div><em>Por Juliana L&uacute;cia Costa Santos Moraes e Ana Fl&aacute;via Quint&atilde;o Fonseca*<br />
+Em conjunto com o Setor de Sa&uacute;de do MST</em></div>
 
-<div><em>Da P&aacute;gina do MST</em></div>
-
+<p>&nbsp;
 <div>&nbsp;</div>
-
-<div>&nbsp;</div>
+</p>
 
 <div>H&aacute; muito tempo os seres humanos t&ecirc;m se relacionado com a natureza como se ela fosse uma fonte inesgot&aacute;vel de recursos, como se nunca fosse acabar. O mundo capitalista em que vivemos nos molda como uma sociedade de consumo irracional que n&atilde;o pensa nas conseq&uuml;&ecirc;ncias futuras enquanto busca o bem-estar imediato.</div>
 
@@ -111,5 +110,5 @@ O Agroneg&oacute;cio tem uma expressiva participa&ccedil;&atilde;o na economia d
 
 <div>&nbsp;</div>
 
-<div><em>*Ludmilla e Ma&iacute;ra s&atilde;o militantes do MST em Minas Gerais e contribuem com o setor de sa&uacute;de e produ&ccedil;&atilde;o respectivamente.<br />
+<div><em>*Este texto faz parte da cartilha Mulheres, Agroecologia e as lutas por sa&uacute;de: 30 anos do SUS, 20 anos do Setor de Sa&uacute;de do MST- MG, que est&aacute; em processo de constru&ccedil;&atilde;o, em parceria com a &nbsp;de Sa&uacute;de P&uacute;blica de Minas Gerais.<br />
 ** Editado por Wesley Lima.</em></div>
