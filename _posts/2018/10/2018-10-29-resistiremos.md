@@ -8,7 +8,7 @@ title: "Resistiremos!\n"
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1973/44891919884_e50e9f253c_b.jpg
 support_line: "Neste momento, é fundamental continuarmos juntos e coesos em torno da democracia, da soberania nacional e da luta por direitos"
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm2.staticflickr.com/1973/44891919884_e50e9f253c_b.jpg
