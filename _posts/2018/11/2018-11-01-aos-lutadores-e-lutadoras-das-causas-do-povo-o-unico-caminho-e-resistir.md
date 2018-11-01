@@ -24,8 +24,11 @@ releated_posts:
   - _posts/2018/10/2018-10-18-pela-democracia-e-contra-a-fome-em-manifesto-organizacoes-denunciam-violacoes.md
   - _posts/2018/10/2018-10-11-posicao-politica-do-mst-em-relacao-ao-2-turno-das-eleicoes-presidenciais-no-brasil.md
   - _posts/2018/10/2018-10-18-votos-brancos-e-nulos-nao-anulam-eleicao-e-favorecem-quem-esta-na-frente-entenda.md
+section: cover
 
 ---
+<p>&nbsp;</p>
+
 <p>&nbsp;</p>
 
 <p><em>Por Kelli Mafort*<br />
