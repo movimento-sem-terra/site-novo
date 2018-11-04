@@ -37,6 +37,22 @@ Jorge Amado</p>
 
 <p>&nbsp;</p>
 
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">&nbsp;</p>
+
+<p><em>Por Igor de Nadai<br />
+Da P&aacute;gina do MST</em></p>
+
+<p>&nbsp;</p>
+
+<p>Hoje, 4 de novembro, completa-se 49 anos do assassinato de Carlos Marighella pelo regime militar.&nbsp;</p>
+
+<p><br />
+Nascido na Bahia, foi militante do Partido Comunista, deputado federal, poeta e guerrilheiro.&nbsp;Marighella pela&nbsp;pela pris&atilde;o e pela tortura durante o governo de Get&uacute;lio Vargas. No Em 1968, com a instaura&ccedil;&atilde;o do Ato Institucional n&ordm;5 (AI-5), poderia ter escolhido o caminho de muitos dos seus companheiros, o ex&iacute;lio, mas decidiu resistir e lutar.&nbsp;&nbsp;<br />
+&nbsp;</p>
+
+<p style="text-align: center;"><strong>***</strong><br />
+&nbsp;</p>
+
 <p>J&aacute; &eacute; fim da primavera, mas os ventos que sopram do Sul parecem ainda muito gelados. Passados poucos dias ap&oacute;s uma importante batalha na luta de classes brasileira, h&aacute; uma confus&atilde;o de sentimentos ente n&oacute;s, uma mistura de sensa&ccedil;&atilde;o de dever cumprido, de ter feito um bom e belo combate, com o de derrota, de raiva, de incompreens&atilde;o . Quem de n&oacute;s um dia pensou que nossa gera&ccedil;&atilde;o fosse ter que encarar momentos de golpes com alto n&iacute;vel de sofistica&ccedil;&atilde;o tecnol&oacute;gica e pol&iacute;tica, mas ainda combinados com os velhos pijamas e sombras dos gorilas daqueles anos de trevas e chumbo que n&atilde;o vivemos.</p>
 
 <p><br />
