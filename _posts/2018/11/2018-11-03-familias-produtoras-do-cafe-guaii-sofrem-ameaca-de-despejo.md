@@ -40,8 +40,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="unnamed.png" height="525" src="//farm5.staticflickr.com/4887/45654162912_18ca5892b4_b.jpg" width="700" />
-<figcaption>Foto Douglas Mansur<br />
-</figcaption>
+<figcaption>Foto Douglas Mansur</figcaption>
 </figure>
 </div>
 
@@ -51,10 +50,10 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-S&atilde;o 450 fam&iacute;lias, que vivem h&aacute; mais de 20 anos na usina falida Ariadn&oacute;polis, em Campo do Meio, Minas Gerais. Atualmente a &aacute;rea &eacute; chamada de Quilombo Campo Grande, possui vasta produ&ccedil;&atilde;o de alimentos e colhe 410 toneladas de caf&eacute; por ano. As fam&iacute;lias moram em casas de alvenaria, constru&iacute;das sem qualquer apoio de pol&iacute;ticas p&uacute;blicas. A usina encerrou suas atividades em 1996, por&eacute;m ainda possui v&aacute;rias d&iacute;vidas trabalhistas.</p>
+S&atilde;o 450 fam&iacute;lias, que vivem h&aacute; mais de 20 anos na usina falida Ariadn&oacute;polis, em Campo do Meio, Minas Gerais. Atualmente a &aacute;rea &eacute; chamada de Quilombo Campo Grande, possui vasta produ&ccedil;&atilde;o de alimentos e colhe 510 toneladas de caf&eacute; por ano. As fam&iacute;lias moram em casas de alvenaria, constru&iacute;das sem qualquer apoio de pol&iacute;ticas p&uacute;blicas. A usina encerrou suas atividades em 1996, por&eacute;m ainda possui v&aacute;rias d&iacute;vidas trabalhistas.</p>
 
 <p><br />
-No lugar onde se produzia somente cana de a&ccedil;&uacute;car e &aacute;lcool e gerava renda para um &uacute;nico propriet&aacute;rio, hoje gera emprego para quase 2000 trabalhadores. As fam&iacute;lias produzem sem o uso de agrot&oacute;xico, como orienta o MST. S&atilde;o hortali&ccedil;as, cereais, frutas, fitoter&aacute;picos, leite e derivados, produtos processados como doces e geleias. Tudo isso produzido de forma agroecol&oacute;gica ou em transi&ccedil;&atilde;o.</p>
+No lugar onde se produzia somente cana de a&ccedil;&uacute;car e &aacute;lcool e gerava renda para um &uacute;nico propriet&aacute;rio, hoje gera trabalho e renda para cerca de 2000 pessoas. As fam&iacute;lias produzem sem o uso de agrot&oacute;xico, como orienta o MST. S&atilde;o hortali&ccedil;as, cereais, frutas, fitoter&aacute;picos, leite e derivados, produtos processados como doces e geleias. Tudo isso produzido de forma agroecol&oacute;gica ou em transi&ccedil;&atilde;o.</p>
 
 <p><br />
 Amancio de Oliveira nasceu em Campo do Meio, trabalhou a vida toda na usina Ariadn&oacute;polis e foi demitido durante o processo de fal&ecirc;ncia da empresa. Conseguiu receber seus direitos ap&oacute;s 24 anos de disputa judicial. &ldquo;Campo do meio faliu por causa dessa Usina. Hoje a Campo do Meio est&aacute; reerguendo gra&ccedil;as aos assentados que compram na cidade. Toda hortali&ccedil;a vende na cidade, colhemos&nbsp;caf&eacute;, torra e vendemos na cidade. Antes eu vivia trabalhando para fazendeiro, trabalhava cedo para comer de tarde, s&oacute; tinha uma cal&ccedil;a e uma camisa&rdquo;, conta o agricultor.</p>
@@ -67,8 +66,7 @@ O decreto 356 de 2015 desapropriava 3.195 hectares das terras da Companhia Agrop
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="unnamed (1).png" height="466" src="//farm2.staticflickr.com/1972/45654162922_66d70694b2_b.jpg" width="700" />
-<figcaption>Foto Julia Gimenez<br />
-</figcaption>
+<figcaption>Foto Julia Gimenez</figcaption>
 </figure>
 </div>
 
