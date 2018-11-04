@@ -4,7 +4,7 @@ tags:
   - tag: lutadores
   - tag: mobilizações
   - tag: Marighella
-title: "Por que ainda te invocamos, nosso comandante mulato baiano?"
+title: "Por que ainda te invocamos, nosso comandante baiano?"
 images_hd: //farm5.staticflickr.com/4891/44791901505_287b48085a_b.jpg
 support_line: "Precisamos assumir as consequências de nossos erros, por maiores que sejam, recolher teus ensinamentos para enfrentar os problemas do presente"
 menu: lutas e mobilizações
@@ -25,6 +25,8 @@ releated_posts:
   - _posts/2018/09/2018-09-05-josue-de-castro-precursor-da-reforma-agraria-popular.md
   - _posts/2018/06/2018-06-29-padre-amaro-livre-ainda-esperamos-justica-e-paz.md
   - _posts/2018/10/2018-10-18-votos-brancos-e-nulos-nao-anulam-eleicao-e-favorecem-quem-esta-na-frente-entenda.md
+  - _posts/2018/03/2018-03-02-theotonio-dos-santos-partiu-um-ser-humano-e-intelectual-transcendente.md
+  - _posts/2018/10/2018-10-18-pela-democracia-e-contra-a-fome-em-manifesto-organizacoes-denunciam-violacoes.md
 
 ---
 <blockquote>
