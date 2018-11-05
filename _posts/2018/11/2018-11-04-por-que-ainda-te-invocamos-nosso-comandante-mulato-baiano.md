@@ -46,7 +46,7 @@ Da P&aacute;gina do MST</em></p>
 <p>Hoje, 4 de novembro, completa-se 49 anos do assassinato de Carlos Marighella pelo regime militar.&nbsp;</p>
 
 <p><br />
-Nascido na Bahia, Marighella foi militante do Partido Comunista, deputado federal, poeta e guerrilheiro. Em 1968, foi preso e torturado&nbsp;durante o governo de Get&uacute;lio Vargas. Com a instaura&ccedil;&atilde;o do Ato Institucional n&ordm;5&nbsp; (AI-5), poderia ter escolhido o caminho de muitos dos seus companheiros, o ex&iacute;lio, mas decidiu resistir e lutar.&nbsp;&nbsp;</p>
+Nascido na Bahia, Marighella foi militante do Partido Comunista, deputado federal, poeta e guerrilheiro. Foi preso e torturado&nbsp;durante o governo de Get&uacute;lio Vargas. Com a instaura&ccedil;&atilde;o do Ato Institucional n&ordm;5&nbsp; (AI-5), poderia ter escolhido o caminho de muitos dos seus companheiros, o ex&iacute;lio, mas decidiu resistir e lutar.&nbsp;&nbsp;</p>
 
 <p style="text-align: center;"><strong>***</strong><br />
 &nbsp;</p>
