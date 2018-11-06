@@ -4,8 +4,8 @@ tags:
   - tag: lutas
   - tag: direitos
   - tag: mobilizações
-title: "Ayala Ferreira: “Para as forças populares e para o MST o desafio será a resistência”"
-support_line: "Temos um futuro a construir. Um futuro que não virá se não formos capazes de transgredir as ordens, construindo ainda no presente os passos que nos levem a emancipação humana"
+title: “Para as forças populares e para o MST o desafio será a resistência”
+support_line: Temos um futuro a construir. Um futuro que não virá se não formos capazes de transgredir as ordens.
 label: articles
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4857/45753818901_485a5a4959_b.jpg
@@ -71,4 +71,4 @@ Combinando organiza&ccedil;&atilde;o e forma&ccedil;&atilde;o de base e, desenca
 
 <p>&nbsp;</p>
 
-<p><em>*Ayala Ferreira &eacute; dirigente nacional do MST</em></p>
+<p><em>*Ayala Ferreira &eacute; dirigente nacional do MST.</em></p>
