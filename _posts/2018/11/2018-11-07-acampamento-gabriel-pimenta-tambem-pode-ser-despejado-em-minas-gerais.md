@@ -5,7 +5,7 @@ title: "Acampamento Gabriel Pimenta também pode ser despejado, em Minas Gerais"
 support_line: "Até o final do ano, outras dez ocupações podem ser despejadas, somando cerca de 5 mil famílias."
 images_hd: //farm2.staticflickr.com/1925/31899013688_a4c9d9fcbc_b.jpg
 menu: direitos humanos
-section: cover
+section: null
 layout: post
 files:
   - link: //farm2.staticflickr.com/1925/31899013688_a4c9d9fcbc_b.jpg
