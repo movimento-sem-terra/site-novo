@@ -8,7 +8,7 @@ tags:
 title: "Justiça a serviço de quem? \n\n"
 support_line: "Ao determinar o despejo das famílias acampadas no Quilombo Campo Grande, o Estado brasileiro fere resoluções históricas de direitos humanos "
 menu: direitos humanos
-images_hd: //farm2.staticflickr.com/1903/45059873544_f24a69a98c_b.jpg
+images_hd: //farm5.staticflickr.com/4861/45734742252_36832356ea_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4844/44870791065_6f5e48fc2d_b.jpg
@@ -32,13 +32,20 @@ files:
     small: //farm5.staticflickr.com/4832/44870819905_c2717fc5d3_n.jpg
     title: 45654162922_66d70694b2_b.jpg
     $$hashKey: 05T
-  - link: //farm2.staticflickr.com/1903/45059873544_f24a69a98c_b.jpg
-    original: //farm2.staticflickr.com/1903/45059873544_d4fae5d361_o.jpg
-    thumbnail: //farm2.staticflickr.com/1903/45059873544_f24a69a98c_t.jpg
-    medium: //farm2.staticflickr.com/1903/45059873544_f24a69a98c_z.jpg
-    small: //farm2.staticflickr.com/1903/45059873544_f24a69a98c_n.jpg
-    title: 79077741_a86ddc25a4_o.jpg
-    $$hashKey: "063"
+  - link: //farm5.staticflickr.com/4839/45060190704_e266eec652_b.jpg
+    original: //farm5.staticflickr.com/4839/45060190704_5fbf09d259_o.jpg
+    thumbnail: //farm5.staticflickr.com/4839/45060190704_e266eec652_t.jpg
+    medium: //farm5.staticflickr.com/4839/45060190704_e266eec652_z.jpg
+    small: //farm5.staticflickr.com/4839/45060190704_e266eec652_n.jpg
+    title: 45654162922_66d70694b2_b.jpg
+    $$hashKey: 0B0
+  - link: //farm5.staticflickr.com/4861/45734742252_36832356ea_b.jpg
+    original: //farm5.staticflickr.com/4861/45734742252_60076ee2b9_o.jpg
+    thumbnail: //farm5.staticflickr.com/4861/45734742252_36832356ea_t.jpg
+    medium: //farm5.staticflickr.com/4861/45734742252_36832356ea_z.jpg
+    small: //farm5.staticflickr.com/4861/45734742252_36832356ea_n.jpg
+    title: ART-2163_rF8IScXwhR1H2R0GStga.jpg
+    $$hashKey: 0B3
 created_date: "2018-11-08T15:41:24-02:00"
 published: true
 releated_posts:
@@ -94,7 +101,7 @@ Agora, toda a transforma&ccedil;&atilde;o&nbsp;social que acontece em Campo do M
 
 <p>&nbsp;</p>
 
-<p><font color="#212121" face="arial, helvetica, freesans, sans-serif"><span style="font-size: 13.3333px;"><b>Justi&ccedil;a seletiva</b></span></font><br />
+<p><strong>Justi&ccedil;a seletiva</strong><br />
 &nbsp;</p>
 
 <p>A decis&atilde;o foi pautada no Decreto Estadual n.&ordm; 365/2015 que desapropriava 3.195 hectares da falida Usina Ariadn&oacute;polis. O documento tinha como proposta desapropriar a &aacute;rea mediante o pagamento de R$ 66 milh&otilde;es &agrave; Companhia Agropecu&aacute;ria Irm&atilde;os Azevedo (CAPIA). H&aacute; dois meses, as fam&iacute;lias do Quilombo Campo Grande chegaram a firmar um acordo em que o Estado se comprometia a pagar o valor em cinco parcelas.</p>
