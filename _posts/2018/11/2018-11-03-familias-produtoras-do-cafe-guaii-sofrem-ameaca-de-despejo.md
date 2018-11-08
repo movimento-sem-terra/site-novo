@@ -6,17 +6,10 @@ tags:
   - tag: reforma-agrária
 support_line: "O julgamento tem data marcada para o dia sete (7) de novembro, no fórum de Campos Gerais"
 title: Famílias produtoras do café Guaií sofrem ameaça de despejo
-images_hd: //farm5.staticflickr.com/4887/45654162912_18ca5892b4_b.jpg
+images_hd: //farm2.staticflickr.com/1972/45654162922_66d70694b2_b.jpg
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4887/45654162912_18ca5892b4_b.jpg
-    original: //farm5.staticflickr.com/4887/45654162912_74c94afbd4_o.png
-    thumbnail: //farm5.staticflickr.com/4887/45654162912_18ca5892b4_t.jpg
-    medium: //farm5.staticflickr.com/4887/45654162912_18ca5892b4_z.jpg
-    small: //farm5.staticflickr.com/4887/45654162912_18ca5892b4_n.jpg
-    title: unnamed.png
-    $$hashKey: 093
   - link: //farm2.staticflickr.com/1972/45654162922_66d70694b2_b.jpg
     original: //farm2.staticflickr.com/1972/45654162922_58d4d4de2a_o.png
     thumbnail: //farm2.staticflickr.com/1972/45654162922_66d70694b2_t.jpg
@@ -38,11 +31,7 @@ releated_posts:
   - _posts/2018/10/2018-10-19-pelo-brasil-e-democracia-apoiadores-de-haddad-vao-as-ruas-neste-sabado-20.md
 
 ---
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="unnamed.png" height="525" src="//farm5.staticflickr.com/4887/45654162912_18ca5892b4_b.jpg" width="700" />
-<figcaption>Foto Douglas Mansur</figcaption>
-</figure>
-</div>
+<p><img alt="unnamed (1).png" height="466" src="//farm2.staticflickr.com/1972/45654162922_66d70694b2_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
@@ -63,12 +52,6 @@ O decreto 356 de 2015 desapropriava 3.195 hectares das terras da Companhia Agrop
 
 <p><br />
 &ldquo;O avan&ccedil;o da ultra direita nessas elei&ccedil;&otilde;es contra a classe trabalhadora, junto com a sanha do agroneg&oacute;cio, que apoiou a elei&ccedil;&atilde;o do Bolsonaro, mostra o projeto que eles t&ecirc;m para o campo no Brasil. Essas a&ccedil;&otilde;es de despejos que est&atilde;o acontecendo em toda Minas Gerais v&ecirc;m no sentido de criminalizar os lutadores populares e movimentos sociais. Querem acabar definitivamente com a pauta a Reforma Agr&aacute;ria, mas nossa hist&oacute;ria &eacute; resistir&rdquo;, afirma Michele, da dire&ccedil;&atilde;o estadual do MST.</p>
-
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="unnamed (1).png" height="466" src="//farm2.staticflickr.com/1972/45654162922_66d70694b2_b.jpg" width="700" />
-<figcaption>Foto Julia Gimenez</figcaption>
-</figure>
-</div>
 
 <p><br />
 Fazendo da produ&ccedil;&atilde;o seu meio de contrapor as injusti&ccedil;as sociais e de denunciar os grandes latif&uacute;ndios improdutivos, o Quilombo Campo Grande foi respons&aacute;vel pela produ&ccedil;&atilde;o de 55 mil sacas de milho, mais de 8 mil sacas de feij&atilde;o e 8.500 sacas de caf&eacute;, na safra de 2017-2018. &ldquo;O nosso grande proposito &eacute; produzir a partir da agroecologia, um alimento saud&aacute;vel e de qualidade, gerando seguran&ccedil;a alimentar n&atilde;o s&oacute; pra quem produz, mas para toda a popula&ccedil;&atilde;o&rdquo;, afirma Tu&iacute;ra Tule, uma das respons&aacute;veis pela produ&ccedil;&atilde;o.</p>
