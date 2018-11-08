@@ -37,7 +37,7 @@ Do Brecha</em></p>
 
 <p>&nbsp;</p>
 
-<p>Pouco mais de uma semana ap&oacute;s a elei&ccedil;&atilde;o de Jair Bolsonaro (PSL) para a Presid&ecirc;ncia da Rep&uacute;blica, o Brecha, tradicional ve&iacute;culo de imprensa de esquerda na Argentina, bateu um papo com Jo&atilde;o Paulo Rodrigues, da dire&ccedil;&atilde;o nacional do MST. Na conversa, traduzida e transcrita abaixo, o militante realiza an&aacute;lises de quais fatores levaram nossa sociedade a este est&aacute;gio de reorganiza&ccedil;&atilde;o da direita e afasta a possibilidade de elimina&ccedil;&atilde;o do Movimento com o novo governo. Confira na &iacute;ntegra:</p>
+<p>Pouco mais de uma semana ap&oacute;s a elei&ccedil;&atilde;o de Jair Bolsonaro (PSL) para a Presid&ecirc;ncia da Rep&uacute;blica, o Brecha, tradicional ve&iacute;culo de imprensa de esquerda no Uruguai, bateu um papo com Jo&atilde;o Paulo Rodrigues, da dire&ccedil;&atilde;o nacional do MST. Na conversa, traduzida e transcrita abaixo, o militante realiza an&aacute;lises de quais fatores levaram nossa sociedade a este est&aacute;gio de reorganiza&ccedil;&atilde;o da direita e afasta a possibilidade de elimina&ccedil;&atilde;o do Movimento com o novo governo. Confira na &iacute;ntegra:</p>
 
 <p><br />
 <strong>&mdash; Como voc&ecirc; interpreta e elei&ccedil;&atilde;o de Bolsonaro?</strong><br />
