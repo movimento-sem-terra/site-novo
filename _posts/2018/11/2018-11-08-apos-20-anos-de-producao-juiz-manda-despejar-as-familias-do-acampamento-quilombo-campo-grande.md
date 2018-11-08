@@ -4,8 +4,8 @@ tags:
   - tag: minas-gerais
   - tag: despejo
   - tag: acampamento
-title: "Após 20 anos de produção, juiz manda despejar as famílias do acampamento Quilombo Campo Grande"
-support_line: "Com essa decisão, podem ser destruídos 1.200 hectares de lavoura de milho, feijão, mandioca e abóbora, 40 hectares de horta agroecológica, 520 hectares de café"
+title: "Após 20 anos de produção, juiz manda despejar famílias do acampamento Quilombo Campo Grande"
+support_line: "Com  decisão, serão destruídos 1.200 hectares de lavoura de milho, feijão, mandioca e abóbora, 40 hectares de horta agroecológica, 520 hectares de café"
 menu: reforma agrária
 section: cover
 images_hd: //farm5.staticflickr.com/4841/44869923715_88e65ab9bc_b.jpg
