@@ -32,7 +32,7 @@ files:
     title: 45654162922_66d70694b2_b.jpg
     $$hashKey: 05T
 created_date: "2018-11-08T15:41:24-02:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/04/2018-04-19-em-sao-paulo-ocupacao-marielle-vive-sofre-ameaca-de-reintegracao.md
   - _posts/2018/07/2018-07-13-mst-realiza-coletiva-de-imprensa-para-denunciar-o-caso-fabio-e-debater-a-impunidade-no-campo.md
