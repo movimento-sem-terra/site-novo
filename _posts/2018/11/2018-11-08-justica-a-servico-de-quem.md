@@ -74,10 +74,8 @@ section: featured-news
 <p>&nbsp;</p>
 
 <p><em>Por Maura Silva&nbsp;<br />
-Da P&aacute;gina do MST<br />
-Foto de capa: BKM_BR</em></p>
-
-<p>&nbsp;</p>
+Da P&aacute;gina do MST</em><br />
+&nbsp;</p>
 
 <p>Em 1998, 450 fam&iacute;lias Sem Terra ocuparam a &aacute;rea da usina Ariadn&oacute;polis, na cidade de Campo do Meio, Sul de Minas. O local, que ent&atilde;o pertencia &agrave; Companhia Agropecu&aacute;ria Irm&atilde;os Azevedo (CAPIA) e que soma uma d&iacute;vida de R$300 milh&otilde;es de reais, faliu e encerrou suas atividades dois anos antes da ocupa&ccedil;&atilde;o em 1996.</p>
 
