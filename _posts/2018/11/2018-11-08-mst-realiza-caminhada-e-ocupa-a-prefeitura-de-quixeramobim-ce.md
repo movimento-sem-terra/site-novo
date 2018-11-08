@@ -4,7 +4,7 @@ tags:
   - tag: marcha
   - tag: ceará
   - tag: mobilizações
-title: MST Realiza caminhada e ocupa a prefeitura de Quixeramobim (CE)
+title: MST realiza caminhada e ocupa a prefeitura de Quixeramobim (CE)
 support_line: A ação pautou uma audiência pública com órgãos do governo
 menu: lutas e mobilizações
 images_hd: //farm2.staticflickr.com/1974/45054922604_0196c388d2_b.jpg
