@@ -4,7 +4,7 @@ tags:
   - tag: novembro-negro
   - tag: lutas
   - tag: mobilizações
-support_line: "“Precisamos colocar a história no seu devido lugar”, afirma Regina Lúcia, do Movimento Negro Unificado (MNU)\n"
+support_line: "“Precisamos colocar a história no seu devido lugar”, afirma Regina Lúcia, do Movimento Negro Unificado (MNU)"
 images_hd: //farm2.staticflickr.com/1962/45060206094_cbcf4902f2_b.jpg
 menu: lutas e mobilizações
 title: "Novembro Negro: É tempo de reafirmar a resistência do povo brasileiro\n"
@@ -28,6 +28,7 @@ releated_posts:
   - _posts/2018/05/2018-05-13-130-anos-de-uma-abolicao-inacabada.md
   - _posts/2018/10/2018-10-26-organizacao-que-premiou-o-mst-com-o-nobel-alternativo-repudia-declaracoes-de-bolsonaro.md
   - _posts/2018/10/2018-10-29-resistiremos.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
@@ -35,8 +36,7 @@ releated_posts:
 <div>
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="8686.jpg" height="467" src="//farm2.staticflickr.com/1962/45060206094_cbcf4902f2_b.jpg" width="700" />
-<figcaption>Foto: Manuela Hernandez&nbsp;<br />
-</figcaption>
+<figcaption>Neste m&ecirc;s, as atividades de luta do Movimento Negro e de diversos setores organizados, reafirmam o black power.&nbsp;<em>Foto: Manuela Hernandez&nbsp;</em></figcaption>
 </figure>
 </div>
 </div>
