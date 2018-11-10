@@ -5,7 +5,7 @@ tags:
   - tag: direitos-humanos
   - tag: comissão
 title: "Comissão Interamericana de Direitos Humanos inicia visitas a estados brasileiros\n"
-support_line: "Após 23 anos, delegação da Comissão Interamericana de Direitos Humanos (CIDH) da Organização dos Estados Americanos (OEA) chega ao Brasil para verificar a situação dos direitos humanos. A última visita da CIDH ao país foi em 1995"
+support_line: "Após 23 anos, delegação da Comissão Interamericana de Direitos Humanos (CIDH) da Organização dos Estados Americanos (OEA) chega ao Brasil para verificar a situação dos direitos humanos"
 images_hd: //farm5.staticflickr.com/4880/45074955184_7977bcedd3_b.jpg
 menu: direitos humanos
 layout: post
@@ -32,7 +32,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por Elvis Marques com informa&ccedil;&otilde;es da CIDH<br />
-Da Comiss&atilde;o Patoral da Terra (CPT)</em></p>
+Da Comiss&atilde;o Pastoral da Terra (CPT)</em></p>
 
 <p><br />
 O &oacute;rg&atilde;o da OEA observar&aacute; a situa&ccedil;&atilde;o dos direitos humanos no Brasil, abordando os eixos transversais: discrimina&ccedil;&atilde;o, desigualdade, pobreza, institucionalidade democr&aacute;tica e pol&iacute;ticas p&uacute;blicas em direitos humanos.</p>
@@ -67,12 +67,15 @@ A Comiss&atilde;o Pastoral da Terra no Par&aacute; (CPT-PA) destaca, em document
 <p><br />
 A Pastoral, ao analisar a atual conjuntura brasileira p&oacute;s elei&ccedil;&otilde;es 2018, denuncia &agrave; CIDH que &ldquo;tratados internacionais de direitos humanos dos quais o Brasil &eacute; signat&aacute;rio, al&eacute;m dos organismos internacionais do qual participa, s&atilde;o alvos do novo presidente e da bancada legislativa que o legitima&rdquo;.</p>
 
-<p><img alt="" src="https://www.cptnacional.org.br/images/CIDH_PA_Mario_Manzi_CPT_2.jpg" style="max-width: 100%; height: auto; vertical-align: middle; border: 0px; display: block; margin-left: auto; margin-right: auto;" width="799" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="" height="400" src="https://www.cptnacional.org.br/images/CIDH_PA_Mario_Manzi_CPT_2.jpg" style="max-width: 100%; height: auto; vertical-align: middle; border: 0px; display: block; margin-left: auto; margin-right: auto;" width="600" />
+<figcaption><em>Integrantes da CIDH ouvem as fam&iacute;lias do Acampamento Hugo Ch&aacute;vez, em Marab&aacute; (PA). Foto: M&aacute;rio Manzi - CPT Nacional</em></figcaption>
+</figure>
+</div>
 
-<p style="margin: 0px 0px 15px; text-align: center;"><em>Integrantes da Comiss&atilde;o&nbsp;Interamericana de Direitos Humanos ouvem as fam&iacute;lias do Acampamento Hugo Ch&aacute;vez, no munic&iacute;pio de Marab&aacute; (PA). Cr&eacute;dito: M&aacute;rio Manzi - CPT Nacional</em></p>
+<p style="margin: 0px 0px 15px; text-align: center;">&nbsp;</p>
 
-<p style="margin: 0px 0px 15px; text-align: justify;"><br />
-Para a&nbsp;<strong><a href="http://www.oas.org/pt/cidh/" style="color: rgb(85, 110, 15); text-decoration-line: none; transition: color 0.2s ease-out 0s;">Comiss&atilde;o Interamericana de Direitos Humanos</a></strong>&nbsp;cabe, nesta visita ao Brasil, conforme a Pastoral da Terra, cobrar &ldquo;de modo efetivo das institui&ccedil;&otilde;es a efetiva&ccedil;&atilde;o e garantia de direitos universalmente constitu&iacute;dos e assegurados pela Constitui&ccedil;&atilde;o Federal de 1988, al&eacute;m, &eacute; claro, da escorreita observa&ccedil;&atilde;o dos pactos, acordos e tratados do qual o Brasil &eacute; signat&aacute;rio. Devemos todos assim zelar pela vida das minorias e acesso &agrave; direitos, pela manuten&ccedil;&atilde;o dos territ&oacute;rios &agrave;s popula&ccedil;&otilde;es tradicionais, &agrave; terra ao agricultor, o direito &agrave; educa&ccedil;&atilde;o cr&iacute;tica e a liberdade de express&atilde;o&rdquo;.</p>
+<p style="margin: 0px 0px 15px; text-align: justify;">Para a&nbsp;<strong><a href="http://www.oas.org/pt/cidh/" style="color: rgb(85, 110, 15); text-decoration-line: none; transition: color 0.2s ease-out 0s;">Comiss&atilde;o Interamericana de Direitos Humanos</a></strong>&nbsp;cabe, nesta visita ao Brasil, conforme a Pastoral da Terra, cobrar &ldquo;de modo efetivo das institui&ccedil;&otilde;es a efetiva&ccedil;&atilde;o e garantia de direitos universalmente constitu&iacute;dos e assegurados pela Constitui&ccedil;&atilde;o Federal de 1988, al&eacute;m, &eacute; claro, da escorreita observa&ccedil;&atilde;o dos pactos, acordos e tratados do qual o Brasil &eacute; signat&aacute;rio. Devemos todos assim zelar pela vida das minorias e acesso &agrave; direitos, pela manuten&ccedil;&atilde;o dos territ&oacute;rios &agrave;s popula&ccedil;&otilde;es tradicionais, &agrave; terra ao agricultor, o direito &agrave; educa&ccedil;&atilde;o cr&iacute;tica e a liberdade de express&atilde;o&rdquo;.</p>
 
 <p style="margin: 0px 0px 15px; text-align: justify;"><br />
 <strong>Sudeste</strong></p>
