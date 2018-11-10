@@ -1,6 +1,8 @@
 ---
 date: "2018-11-10T09:25:58-02:00"
-tags: []
+tags:
+  - tag: paraná
+  - tag: comunicação-popular
 title: MST promove curso de comunicação popular em Curitiba
 support_line: Curso envolve formação teórica e prática para cerca de 40 militantes de diferentes regiões
 menu: "educação, cultura e comunicação"
@@ -16,7 +18,13 @@ files:
     $$hashKey: 086
 created_date: "2018-11-10T09:31:51-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/08/2018-08-01-familias-assentadas-denunciam-incendio-criminoso-no-parana.md
+  - _posts/2018/07/2018-07-17-regiao-sul-realiza-curso-de-artes-e-cultura.md
+  - _posts/2018/06/2018-06-07-a-17a-jornada-de-agroecologia-busca-integrar-o-campo-e-a-cidade.md
+  - _posts/2018/05/2018-05-22-curitiba-recebe-a-17a-jornada-de-agroecologia.md
+  - _posts/2018/08/2018-08-17-molhos-de-pimenta-organicos-de-acampamento-do-mst-em-goias-para-o-resto-do-pais.md
+  - _posts/2018/05/2018-05-24-tudo-sobre-o-6o-encontro-nacional-de-blogueir-s-e-ativistas-digitais.md
 
 ---
 <div style="text-align:center">
