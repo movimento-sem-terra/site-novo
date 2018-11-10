@@ -60,40 +60,69 @@ releated_posts:
 
 <div>&nbsp;</div>
 
+<div>&nbsp;</div>
+
 <div><em>Da P&aacute;gina do MST</em></div>
+
+<div>&nbsp;</div>
 
 <div>&nbsp;</div>
 
 <div>Nos &uacute;ltimos dias 29 e 30 de novembro, trabalhadores e trabalhadoras Sem Terra se reuniram na Escola Popular de Agroecologia e Agrofloresta Eg&iacute;dio Brunetto, localizada no Prado, no Extremo Sul da Bahia, para debater a cadeia produtiva do caf&eacute; com a realiza&ccedil;&atilde;o do Semin&aacute;rio da Unidade Demonstrativa da Cadeia Produtiva do Caf&eacute;.</div>
 
-<div><br />
-O Semin&aacute;rio contou com a participa&ccedil;&atilde;o do estado da Bahia e do Esp&iacute;rito Santo.&nbsp;</div>
+<div>&nbsp;</div>
 
-<div><br />
-Com a socializa&ccedil;&atilde;o do estudo da produ&ccedil;&atilde;o de caf&eacute; na regi&atilde;o, os camponeses avaliaram as &uacute;ltimas a&ccedil;&otilde;es feitas pela Cadeia Produtiva do Caf&eacute; e debateram o pr&oacute;ximo per&iacute;odo, com o objetivo de o subsidiar e realiza um planejamento de transi&ccedil;&atilde;o agroecol&oacute;gica do caf&eacute;, coordenada pela pr&oacute;pria Cadeia Produtiva.</div>
+<div>&nbsp;</div>
 
-<div><br />
-A &aacute;rea conta com aproximadamente 2,2 milh&otilde;es de p&eacute;s de caf&eacute;, onde residem cerca de 120 fam&iacute;lias, garante tamb&eacute;m a produ&ccedil;&atilde;o familiar nos quintais para consumo pr&oacute;prio, al&eacute;m de plantarem ro&ccedil;a branca- feij&atilde;o, milho, mandioca- e cuidarem dos p&eacute;s de caf&eacute;. Est&aacute; unidade pretende ser refer&ecirc;ncia de transi&ccedil;&atilde;o agroecol&oacute;gica para os assentamentos e acampamentos da Bahia, mas tamb&eacute;m para os demais estados onde existem assentamentos que produzem caf&eacute;, como Minas Gerais, Espirito Santo, S&atilde;o Paulo, Rond&ocirc;nia e Paran&aacute;.</div>
+<div>O Semin&aacute;rio contou com a participa&ccedil;&atilde;o do estado da Bahia e do Esp&iacute;rito Santo.&nbsp;</div>
 
-<div><br />
-O caf&eacute; produzido &eacute; um grande laborat&oacute;rio experimental, j&aacute; que as fam&iacute;lias e a Escola Popular trabalham conjuntamente na &aacute;rea, al&eacute;m de contar com o Setor de Produ&ccedil;&atilde;o e o ac&uacute;mulo de experi&ecirc;ncia de outros lugares do pa&iacute;s. A Escola Superior de Agricultura &quot;Luiz de Queiroz&rdquo; (ESALQ-USP) e a Universidade Federal do Espirito Santo (UFES) tamb&eacute;m contribuem com o projeto.</div>
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>Com a socializa&ccedil;&atilde;o do estudo da produ&ccedil;&atilde;o de caf&eacute; na regi&atilde;o, os camponeses avaliaram as &uacute;ltimas a&ccedil;&otilde;es feitas pela Cadeia Produtiva do Caf&eacute; e debateram o pr&oacute;ximo per&iacute;odo, com o objetivo de o subsidiar e realiza um planejamento de transi&ccedil;&atilde;o agroecol&oacute;gica do caf&eacute;, coordenada pela pr&oacute;pria Cadeia Produtiva.</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>A &aacute;rea conta com aproximadamente 2,2 milh&otilde;es de p&eacute;s de caf&eacute;, onde residem cerca de 120 fam&iacute;lias, garante tamb&eacute;m a produ&ccedil;&atilde;o familiar nos quintais para consumo pr&oacute;prio, al&eacute;m de plantarem ro&ccedil;a branca- feij&atilde;o, milho, mandioca- e cuidarem dos p&eacute;s de caf&eacute;. Est&aacute; unidade pretende ser refer&ecirc;ncia de transi&ccedil;&atilde;o agroecol&oacute;gica para os assentamentos e acampamentos da Bahia, mas tamb&eacute;m para os demais estados onde existem assentamentos que produzem caf&eacute;, como Minas Gerais, Espirito Santo, S&atilde;o Paulo, Rond&ocirc;nia e Paran&aacute;.</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>O caf&eacute; produzido &eacute; um grande laborat&oacute;rio experimental, j&aacute; que as fam&iacute;lias e a Escola Popular trabalham conjuntamente na &aacute;rea, al&eacute;m de contar com o Setor de Produ&ccedil;&atilde;o e o ac&uacute;mulo de experi&ecirc;ncia de outros lugares do pa&iacute;s. A Escola Superior de Agricultura &quot;Luiz de Queiroz&rdquo; (ESALQ-USP) e a Universidade Federal do Espirito Santo (UFES) tamb&eacute;m contribuem com o projeto.</div>
 
 <div>
 <figure class="image" style="float:right"><img alt="IMG_9831.jpg" height="180" src="//farm5.staticflickr.com/4824/31940144658_e1306ea9cf_b.jpg" width="300" />
 <figcaption><em>O Semin&aacute;rio contou com a participa&ccedil;&atilde;o do<br />
 estado da Bahia e do Esp&iacute;rito Santo. Foto: Luara De</em></figcaption>
 </figure>
-<br />
-Para Ailton Nunes, do Setor de Produ&ccedil;&atilde;o do MST, &ldquo;os acampados come&ccedil;aram a desenvolver e cuidar de uma parte e n&oacute;s achamos importante que o movimento come&ccedil;asse a se organizar para cuidar de uma &aacute;rea experimental, onde voc&ecirc; estaria realmente discutindo e propondo novas tecnologias para os acampados da reforma agr&aacute;ria&rdquo;.</div>
+
+<p>&nbsp;</p>
+
+<p>Para Ailton Nunes, do Setor de Produ&ccedil;&atilde;o do MST, &ldquo;os acampados come&ccedil;aram a desenvolver e cuidar de uma parte e n&oacute;s achamos importante que o movimento come&ccedil;asse a se organizar para cuidar de uma &aacute;rea experimental, onde voc&ecirc; estaria realmente discutindo e propondo novas tecnologias para os acampados da reforma agr&aacute;ria&rdquo;.</p>
+</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>Uma parte dessa &aacute;rea foi dividida a partir de tr&ecirc;s experi&ecirc;ncias distintas no processo de transi&ccedil;&atilde;o agroecol&oacute;gica do caf&eacute;. N&atilde;o foi uma experi&ecirc;ncia que come&ccedil;ou do zero, foi um processo de recupera&ccedil;&atilde;o dos p&eacute;s que estavam abandonados para que possam produzir caf&eacute; agroecol&oacute;gico.&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>Desde que as fam&iacute;lias ocuparam a &aacute;rea n&atilde;o se produz mais com veneno. Agora &eacute; experimentar t&eacute;cnicas para o aumento da produ&ccedil;&atilde;o, desconstruindo algumas fal&aacute;cias, por exemplo, que a produ&ccedil;&atilde;o agroecol&oacute;gica s&oacute; pode ser feita em pequena escala.&nbsp;</div>
 
 <div><br />
-Uma parte dessa &aacute;rea foi dividida a partir de tr&ecirc;s experi&ecirc;ncias distintas no processo de transi&ccedil;&atilde;o agroecol&oacute;gica do caf&eacute;. N&atilde;o foi uma experi&ecirc;ncia que come&ccedil;ou do zero, foi um processo de recupera&ccedil;&atilde;o dos p&eacute;s que estavam abandonados para que possam produzir caf&eacute; agroecol&oacute;gico.&nbsp;</div>
+&nbsp;</div>
 
-<div><br />
-Desde que as fam&iacute;lias ocuparam a &aacute;rea n&atilde;o se produz mais com veneno. Agora &eacute; experimentar t&eacute;cnicas para o aumento da produ&ccedil;&atilde;o, desconstruindo algumas fal&aacute;cias, por exemplo, que a produ&ccedil;&atilde;o agroecol&oacute;gica s&oacute; pode ser feita em pequena escala.&nbsp;</div>
+<div><strong>Hist&oacute;rico da &aacute;rea</strong></div>
 
-<div><br />
-<strong>Hist&oacute;rico da &aacute;rea</strong></div>
+<div>&nbsp;</div>
 
 <div>&nbsp;</div>
 
@@ -109,7 +138,11 @@ Desde que as fam&iacute;lias ocuparam a &aacute;rea n&atilde;o se produz mais co
 
 <div>&nbsp;</div>
 
+<div>&nbsp;</div>
+
 <div>Antes da ocupa&ccedil;&atilde;o, a fazenda produzia atrav&eacute;s com m&eacute;todo convencional, utilizando a terra exposta, adubos qu&iacute;micos al&eacute;m de agrot&oacute;xico, que segundo ex-funcion&aacute;rios que hoje s&atilde;o acampados, eram aplicados na &aacute;rea atrav&eacute;s de pequenos avi&otilde;es.&nbsp;</div>
+
+<div>&nbsp;</div>
 
 <div>&nbsp;</div>
 
@@ -117,7 +150,11 @@ Desde que as fam&iacute;lias ocuparam a &aacute;rea n&atilde;o se produz mais co
 
 <div>&nbsp;</div>
 
+<div>&nbsp;</div>
+
 <div>Jaqueline, que &eacute; acampada na &aacute;rea e ajuda a coordenar a Unidade Demonstrativa, conta como &eacute; o envolvimento das fam&iacute;lias que trabalham na &aacute;rea. &ldquo;Agora que eles viram o trabalho da gente, que &eacute; um trabalho cansativo, um trabalho bom, por&eacute;m cansativo, porque requer muitos cuidados, que a gente tem que t&aacute; ali dentro diariamente. A&iacute; v&ecirc; a brota&ccedil;&atilde;o nova bonita, isso a&iacute; para gente &eacute; bom demais!&rdquo;.&nbsp;</div>
+
+<div>&nbsp;</div>
 
 <div>&nbsp;</div>
 
@@ -125,11 +162,17 @@ Desde que as fam&iacute;lias ocuparam a &aacute;rea n&atilde;o se produz mais co
 
 <div>&nbsp;</div>
 
+<div>&nbsp;</div>
+
 <div>As &aacute;reas coletivas servem de laborat&oacute;rio. A partir da ci&ecirc;ncia somada aos saberes populares constroem experi&ecirc;ncias para aumentar a produ&ccedil;&atilde;o, provando que pode-se produzir agroecologicamente.&nbsp;</div>
 
 <div>&nbsp;</div>
 
+<div>&nbsp;</div>
+
 <div>A unidade demonstrativa de transi&ccedil;&atilde;o agroecol&oacute;gica foi criada em fevereiro de 2018, e neste um ano cumpre papel fundamental para a agroecologia, no desenvolvimento da ci&ecirc;ncia e provando que a organiza&ccedil;&atilde;o popular &eacute; o caminho para a liberdade no campo.</div>
+
+<div>&nbsp;</div>
 
 <div>&nbsp;</div>
 
