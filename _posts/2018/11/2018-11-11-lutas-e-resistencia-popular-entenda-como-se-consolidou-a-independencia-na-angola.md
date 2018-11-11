@@ -160,5 +160,7 @@ E bem abertos est&atilde;o os olhos inimigos, para garantir que n&atilde;o conqu
 
 <p>&nbsp;</p>
 
-<p><em>*Augusto Juncal &eacute; militante do MST e brigadista internacionalista.<br />
+<p><em>*Augusto Juncal &eacute; militante Sem Terra, integrante do Grupo de Estudos sobre Quest&atilde;o &Eacute;tnico Racial e Quest&atilde;o Agr&aacute;ria do MST&nbsp;e brigadista internacionalista.<br />
 **Editado por Wesley Lima.</em></p>
+
+<p>&nbsp;</p>
