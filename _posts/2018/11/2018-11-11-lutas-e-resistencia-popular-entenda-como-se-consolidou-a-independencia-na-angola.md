@@ -147,7 +147,7 @@ As cicatrizes f&iacute;sicas e psicol&oacute;gicas, nos povos como os angolanos 
 <strong>Legado</strong></p>
 
 <p><br />
-O que nos resta ent&atilde;o de legado da luta dos angolanos? Pensar nas formas e possibilidades de elaborar um forte movimento nacionalista, capaz de vencer os &oacute;dios, rancores e a discrimina&ccedil;&atilde;o entre iguais, entre irm&atilde;os, que por s&eacute;culos foram implantados; descobrir formas catalisadoras que reconciliem urbanos, rurais e os mesti&ccedil;os (produto do tr&aacute;fico de escravos e dos abomin&aacute;veis estupros das negras africanas) e as diversas sociedades tribais e camponesas; encontrar as formas de combater o tribalismo, como falava Samora Machel, e o resgionalismo, para poder edificar e manter uma unidade nacional.</p>
+O que nos resta ent&atilde;o de legado da luta dos angolanos? Pensar nas formas e possibilidades de elaborar um forte movimento nacionalista, capaz de vencer os &oacute;dios, rancores e a discrimina&ccedil;&atilde;o entre iguais, entre irm&atilde;os, que por s&eacute;culos foram implantados; descobrir formas catalisadoras que reconciliem urbanos, rurais,&nbsp;os mesti&ccedil;os (produto do tr&aacute;fico de escravos e dos abomin&aacute;veis estupros das negras africanas), as diversas sociedades tribais e camponesas; encontrar as formas de combater o tribalismo, como falava Samora Machel, e o resgionalismo, para poder edificar e manter uma unidade nacional.</p>
 
 <p><br />
 Mas o que est&aacute; por tr&aacute;s de palavras que parecem clamar por unidade? Quando em discursos se gritava em Angola &ldquo;Um s&oacute; povo, uma s&oacute; na&ccedil;&atilde;o&rdquo;? Ou no caso da Z&acirc;mbia cujo lema oficial &eacute; &ldquo;Uma Z&acirc;mbia, Uma Na&ccedil;&atilde;o&rdquo;?</p>
