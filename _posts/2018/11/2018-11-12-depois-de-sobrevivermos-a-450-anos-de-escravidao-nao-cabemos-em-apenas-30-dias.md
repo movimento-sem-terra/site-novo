@@ -51,14 +51,10 @@ O m&ecirc;s de novembro, pela passagem do dia da Consci&ecirc;ncia Negra, 20 de 
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="Leandro Rosa.png" height="387" src="//farm5.staticflickr.com/4831/31977746418_aee8b43eab_b.jpg" width="300" />
-<figcaption>Leandro Rosa&nbsp;Mestre em sociologia pela Unesp e membro do Ineg&nbsp;</figcaption>
-</figure>
-
 <p>Em entrevista para a P&aacute;gina do MST, Leandro Rosa, militante negro, reafirmou a necessidade de demarcar o 20 de novembro em todos os dias do ano na luta e na resist&ecirc;ncia negra no pa&iacute;s para avan&ccedil;ar no pr&oacute;ximo per&iacute;odo.</p>
 
 <p><br />
-&ldquo;A maior li&ccedil;&atilde;o do 20 de novembro &eacute; mostrar que existimos (...) e quedepois&nbsp; de sobrevivermos a 450 anos de escraviza&ccedil;&atilde;o, n&atilde;o cabemos em apenas 30 dias&rdquo;, comentou Rosa durante a entrevista.</p>
+&ldquo;A maior li&ccedil;&atilde;o do 20 de novembro &eacute; mostrar que existimos (...) e que depois&nbsp; de sobrevivermos a 450 anos de escraviza&ccedil;&atilde;o, n&atilde;o cabemos em apenas 30 dias&rdquo;, comentou Rosa durante a entrevista.</p>
 
 <p><br />
 Mestre em sociologia pela Universidade Estadual Paulista (Unesp) e membro do Instituto Negro de Alagoas (Ineg), Leandro Rosa comentou tamb&eacute;m sobre os desafios do movimento negro na atual conjuntura, as tarefas que se apontam para o pr&oacute;ximo per&iacute;odo e da import&acirc;ncia do fortalecimento da organiza&ccedil;&atilde;o e da luta do povo negro.</p>
@@ -67,10 +63,17 @@ Mestre em sociologia pela Universidade Estadual Paulista (Unesp) e membro do Ins
 <strong>Acompanhe a entrevista na &iacute;ntegra:</strong></p>
 
 <p><br />
-<strong>Diversas declara&ccedil;&otilde;es de Jair Bolsonaro, antes e durante a campanha eleitoral, demarcaram um discurso odioso, preconceituoso e racista. De que modo voc&ecirc; avalia que essas declara&ccedil;&otilde;es influenciaram no processo eleitoral?</strong></p>
+&nbsp;</p>
 
-<p><br />
-A resposta a esta quest&atilde;o n&atilde;o tem a pretens&atilde;o de ser a definitiva ou a correta, mas respeitando a complexidade em que vivemos, &eacute; que as declara&ccedil;&otilde;es raciais, mis&oacute;ginas, homof&oacute;bicas, foram, para al&eacute;m de um posicionamento pessoal, usadas para retirar destes mesmos temas a discuss&atilde;o pol&iacute;tica, nos levaram para o campo da moral, do certo ou errado, alimentando &oacute;dios latentes e que se misturaram, ao j&aacute; presente preconceito racial brasileiro, mas tamb&eacute;m a um discurso moralista que n&atilde;o permitia o convencimento.</p>
+<p><strong>D</strong><strong>iversas declara&ccedil;&otilde;es de Jair Bolsonaro, antes e durante a campanha eleitoral, demarcaram um discurso odioso, preconceituoso e racista. De que modo voc&ecirc; avalia que essas declara&ccedil;&otilde;es influenciaram no processo eleitoral?</strong></p>
+
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Leandro Rosa.png" height="387" src="//farm5.staticflickr.com/4831/31977746418_aee8b43eab_b.jpg" width="300" />
+<figcaption>Leandro Rosa&nbsp;Mestre em sociologia pela Unesp e membro do Ineg&nbsp;</figcaption>
+</figure>
+
+<p>A resposta a esta quest&atilde;o n&atilde;o tem a pretens&atilde;o de ser a definitiva ou a correta, mas respeitando a complexidade em que vivemos, &eacute; que as declara&ccedil;&otilde;es raciais, mis&oacute;ginas, homof&oacute;bicas, foram, para al&eacute;m de um posicionamento pessoal, usadas para retirar destes mesmos temas a discuss&atilde;o pol&iacute;tica, nos levaram para o campo da moral, do certo ou errado, alimentando &oacute;dios latentes e que se misturaram, ao j&aacute; presente preconceito racial brasileiro, mas tamb&eacute;m a um discurso moralista que n&atilde;o permitia o convencimento.</p>
 
 <p><br />
 O impacto, ao meu ver, foi que o tipo de discuss&atilde;o proposta, escondeu outras discuss&otilde;es mais importantes, como por exemplo, a exist&ecirc;ncia ou n&atilde;o de pol&iacute;ticas do candidato com esses recortes e o seu real posicionamento quanto a sua import&acirc;ncia. Infelizmente, nossos preconceitos foram manipulados de forma que fic&aacute;ssemos encalacrados entre o bem e o mal, num manique&iacute;smo empobrecedor, que com o anonimato e a dist&acirc;ncia proporcionada pelas redes sociais, somada a fat&iacute;dica &ldquo;facada&rdquo;, a falta de debates de fato, a &ldquo;leitura&rdquo; informacional de fakes e memes, bem como a demoniza&ccedil;&atilde;o da esquerda encarnada no Partido dos Trabalhadores, incluindo o MST e o MTST, dando ao ent&atilde;o candidato sa&iacute;das &ldquo;f&aacute;ceis&rdquo; para problemas complexos, tipo: &ldquo;temos/iremos resolver isso da&iacute;!&rdquo;.</p>
