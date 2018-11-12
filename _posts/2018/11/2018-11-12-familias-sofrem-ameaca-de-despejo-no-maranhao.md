@@ -50,7 +50,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Gustavo Marinho<br />
+<p><em>Por Reynaldo Costa<br />
 Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
