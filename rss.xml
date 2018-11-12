@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Acampamento José Lutzenberger, Mata Atlântica, Estado do Paraná.</title>
+				<description>Vejam experiências de agroecologia nas áreas de Reforma Agrária.</description>
+				<pubDate>Mon, 12 Nov 2018 15:03:09 -0200</pubDate>
+				<link>http://www.mst.org.br/2018/11/12/acampamento-jose-lutzenberger-mata-atlantica-estado-do-parana.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2018/11/12/acampamento-jose-lutzenberger-mata-atlantica-estado-do-parana.html</guid>
+			</item>
+		
+			<item>
 				<title>Do Estado Novo ao golpe de 1945</title>
 				<description>Saiba como se inaugura o contraditório Estado Novo no Brasil, que completou 81 anos neste último sábado (10)</description>
 				<pubDate>Sun, 11 Nov 2018 16:23:06 -0200</pubDate>
@@ -82,14 +90,6 @@ Acompanhe nossa série sobre a Revolução Russa.
 				<pubDate>Fri, 09 Nov 2018 14:14:40 -0200</pubDate>
 				<link>http://www.mst.org.br/2018/11/09/organizacoes-denunciam-intimidacoes-durante-visita-da-cidh-em-santarem-pa.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2018/11/09/organizacoes-denunciam-intimidacoes-durante-visita-da-cidh-em-santarem-pa.html</guid>
-			</item>
-		
-			<item>
-				<title>Solidariedade ao Acampamento Quilombo Campo Grande</title>
-				<description>Acampadas há 20 anos, 450 famílias receberam ordem de despejo. </description>
-				<pubDate>Fri, 09 Nov 2018 09:45:06 -0200</pubDate>
-				<link>http://www.mst.org.br/2018/11/09/solidariedade-ao-acampamento-quilombo-campo-grande.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2018/11/09/solidariedade-ao-acampamento-quilombo-campo-grande.html</guid>
 			</item>
 		
 	</channel>
