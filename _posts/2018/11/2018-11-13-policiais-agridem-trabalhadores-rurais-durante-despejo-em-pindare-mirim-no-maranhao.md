@@ -4,7 +4,7 @@ tags:
   - tag: despejo
   - tag: direitos-humanos
   - tag: mobilizações
-title: "Políciais agridem trabalhadores rurais durante despejo em Pindaré-Mirim no Maranhão\n"
+title: "Policiais agridem trabalhadores rurais durante despejo em Pindaré-Mirim no Maranhão\n"
 support_line: "Ação repressora conta com mais de policiais em cidade a cerca de 300 quilômetros da capital São Luís\n"
 images_hd: //farm5.staticflickr.com/4874/30923908547_981cbbd7e7_b.jpg
 menu: direitos humanos
