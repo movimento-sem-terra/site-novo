@@ -5,7 +5,7 @@ tags:
   - tag: mst
   - tag: lutas-e-mobilizações
 title: Muito além da ocupação
-support_line: Uma das principais contribuições do MST para a sociedade brasileira é garantir a função social das propriedades ocupadas
+support_line: Uma das principais contribuições do MST para a sociedade brasileira é garantir a função social da terra
 images_hd: //farm5.staticflickr.com/4831/31993460938_27d44bc766_b.jpg
 menu: lutas e mobilizações
 layout: post
@@ -76,7 +76,7 @@ Ali, pautado em tr&ecirc;s&nbsp;objetivos&nbsp;principais: lutar pela terra, pel
 &quot;Tivemos um auge na luta pela terra na&nbsp;d&eacute;cada de 90. Isso aconteceu&nbsp;em fun&ccedil;&atilde;o da luta intensa&nbsp;travada&nbsp;naquele per&iacute;odo, depois disso aconteceu um aumento nos n&uacute;meros de&nbsp;assentamentos&nbsp;no governo Lula, de 2005 at&eacute; 2007, mas, daquele ano para c&aacute;, n&oacute;s&nbsp;estamos enfrentando uma queda no n&uacute;mero de fam&iacute;lias assentadas. Ainda assim, a luta segue firme em todo pa&iacute;s&quot;, diz&nbsp;Marcio&nbsp;Santos, da&nbsp;coordena&ccedil;&atilde;o&nbsp;nacional da&nbsp;MST.&nbsp;</p>
 
 <p><br />
-Uma das principais contribui&ccedil;&otilde;es do MST para a sociedade brasileira &eacute; cumprir o compromisso de garantir a fun&ccedil;&atilde;o social das propriedades ocupadas. &nbsp;&nbsp;</p>
+Uma das principais contribui&ccedil;&otilde;es do MST para a sociedade brasileira &eacute; cumprir o compromisso de garantir a fun&ccedil;&atilde;o social da terra. &nbsp;&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="2.jpg" height="467" src="//farm5.staticflickr.com/4871/45815158072_e087d5a539_b.jpg" width="700" />
