@@ -70,7 +70,7 @@ Da P&aacute;gina do MST</em></p>
 Ali, pautado em tr&ecirc;s&nbsp;objetivos&nbsp;principais: lutar pela terra, pela Reforma Agr&aacute;ria e por mudan&ccedil;as sociais, nasceu o Movimento dos&nbsp;Trabalhadores&nbsp;Rurais Sem&nbsp;Terra (MST).&nbsp;</p>
 
 <p><br />
-34 anos se passaram e o MST se tornou o&nbsp;maior movimento social da Am&eacute;rica Latina. Organizado em 24 estados, o movimento conta&nbsp;com&nbsp;400&nbsp;mil fam&iacute;lias assentadas e 120 mil&nbsp;acampadas&nbsp;em todo pa&iacute;s.&nbsp;&nbsp;</p>
+34 anos se passaram e o MST se tornou um dos&nbsp;maiores movimentos populares&nbsp;da Am&eacute;rica Latina. Organizado em 24 estados, o movimento conta&nbsp;com&nbsp;400&nbsp;mil fam&iacute;lias assentadas e 120 mil&nbsp;acampadas&nbsp;em todo pa&iacute;s.&nbsp;&nbsp;</p>
 
 <p><br />
 &quot;Tivemos um auge na luta pela terra na&nbsp;d&eacute;cada de 90. Isso aconteceu&nbsp;em fun&ccedil;&atilde;o da luta intensa&nbsp;travada&nbsp;naquele per&iacute;odo, depois disso aconteceu um aumento nos n&uacute;meros de&nbsp;assentamentos&nbsp;no governo Lula, de 2005 at&eacute; 2007, mas, daquele ano para c&aacute;, n&oacute;s&nbsp;estamos enfrentando uma queda no n&uacute;mero de fam&iacute;lias assentadas. Ainda assim, a luta segue firme em todo pa&iacute;s&quot;, diz&nbsp;Marcio&nbsp;Santos, da&nbsp;coordena&ccedil;&atilde;o&nbsp;nacional da&nbsp;MST.&nbsp;</p>
