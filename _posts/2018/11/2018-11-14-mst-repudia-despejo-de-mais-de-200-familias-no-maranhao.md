@@ -4,19 +4,19 @@ tags:
   - tag: despejo
   - tag: reforma-agrária
   - tag: direitos-humanos
-images_hd: //farm5.staticflickr.com/4887/45869075341_00471dbfe9_b.jpg
+images_hd: //farm5.staticflickr.com/4918/45145637994_96517fc935_b.jpg
 support_line: "Desde 2016, as famílias reivindicam a vistoria da área para demarcação, o que só foi agendado para hoje, dia do cumprimento da liminar de reintegração de posse"
 title: "MST repudia despejo de mais de 200 famílias no Maranhão "
 menu: direitos humanos
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4887/45869075341_00471dbfe9_b.jpg
-    original: //farm5.staticflickr.com/4887/45869075341_d593924d65_o.jpg
-    thumbnail: //farm5.staticflickr.com/4887/45869075341_00471dbfe9_t.jpg
-    medium: //farm5.staticflickr.com/4887/45869075341_00471dbfe9_z.jpg
-    small: //farm5.staticflickr.com/4887/45869075341_00471dbfe9_n.jpg
-    title: 30923908547_981cbbd7e7_b.jpg
-    $$hashKey: "030"
+  - link: //farm5.staticflickr.com/4918/45145637994_96517fc935_b.jpg
+    original: //farm5.staticflickr.com/4918/45145637994_5b31f0ed54_o.jpg
+    thumbnail: //farm5.staticflickr.com/4918/45145637994_96517fc935_t.jpg
+    medium: //farm5.staticflickr.com/4918/45145637994_96517fc935_z.jpg
+    small: //farm5.staticflickr.com/4918/45145637994_96517fc935_n.jpg
+    title: WhatsApp Image 2018-11-13 at 11.25.43.jpeg
+    $$hashKey: 05H
 created_date: "2018-11-13T23:01:38-02:00"
 published: true
 releated_posts:
@@ -33,8 +33,11 @@ releated_posts:
   - _posts/2018/09/2018-09-18-apenas-dois-candidatos-falam-em-reforma-agraria-no-plano-de-governo.md
   - _posts/2018/11/2018-11-04-mocao-de-apoio-a-ocupacao-da-antiga-usina-ariadnopolis-quilombo-campo-grande.md
   - _posts/2018/10/2018-10-30-quilombo-campo-grande-sofre-ameacas-do-fascismo.md
+section: cover
 
 ---
+<p><img alt="WhatsApp Image 2018-11-13 at 11.25.43.jpeg" height="525" src="//farm5.staticflickr.com/4918/45145637994_96517fc935_b.jpg" width="700" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
