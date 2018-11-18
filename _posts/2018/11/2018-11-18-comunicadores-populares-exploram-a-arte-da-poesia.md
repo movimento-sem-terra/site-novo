@@ -35,7 +35,7 @@ releated_posts: []
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG-20181116-WA0005.jpg" height="329" src="//farm5.staticflickr.com/4863/32068592828_9102cbd706_b.jpg" width="700" />
-<figcaption>Oficina de poesia desperta a sensibilidade dos comunicadores&nbsp;</figcaption>
+<figcaption>Oficina de poesia desperta a sensibilidade nos comunicadores</figcaption>
 </figure>
 </div>
 
