@@ -59,7 +59,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Viviane Brigida</em></p>
+<p><em>Por Viviane Brigida<br />
+Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
