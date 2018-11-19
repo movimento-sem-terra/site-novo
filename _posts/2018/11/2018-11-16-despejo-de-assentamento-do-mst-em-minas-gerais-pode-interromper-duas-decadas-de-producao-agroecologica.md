@@ -1,6 +1,8 @@
 ---
 date: "2018-11-16T12:55:48-02:00"
-tags: []
+tags:
+  - tag: minas-gerais
+  - tag: despejo
 title: Despejo de assentamento do MST em Minas Gerais pode interromper duas décadas de produção agroecológica
 support_line: "Terras são disputadas por João Faria da Silva, considerado o maior produtor individual de café no mundo"
 menu: reforma agrária
@@ -23,7 +25,17 @@ files:
     $$hashKey: "033"
 created_date: "2018-11-16T13:16:44-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/10/2018-10-30-quilombo-campo-grande-sofre-ameacas-do-fascismo.md
+  - _posts/2018/11/2018-11-02-pedido-de-solidariedade-fascismo-mostra-as-garras-e-ameaca-despejo-de-450-familias.md
+  - _posts/2018/11/2018-11-07-acampamento-gabriel-pimenta-tambem-pode-ser-despejado-em-minas-gerais.md
+  - _posts/2018/11/2018-11-08-apos-20-anos-de-producao-juiz-manda-despejar-as-familias-do-acampamento-quilombo-campo-grande.md
+  - _posts/2018/11/2018-11-08-justica-a-servico-de-quem.md
+  - _posts/2018/09/2018-09-20-em-minas-gerais-mulheres-realizam-manifestacao-cultural-contra-o-fascismo.md
+  - _posts/2018/09/2018-09-19-mst-em-minas-gerais-conquista-mais-um-territorio.md
+  - _posts/2018/09/2018-09-21-dilma-rousseff-visita-acampamentos-do-mst-na-regiao-metropolitana-de-belo-horizonte.md
+  - _posts/2018/10/2018-10-02-educacao-na-mira-do-golpe.md
+  - _posts/2018/10/2018-10-05-minas-maior-bancada-ruralista-do-congresso-tem-26-integrantes-tentando-reeleicao.md
 
 ---
 <div style="text-align:center">
