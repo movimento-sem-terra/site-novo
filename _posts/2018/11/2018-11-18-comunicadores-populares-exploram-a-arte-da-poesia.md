@@ -1,6 +1,8 @@
 ---
 date: "2018-11-18T13:54:07-02:00"
-tags: []
+tags:
+  - tag: democratização-da-comunicação
+  - tag: paraná
 title: Comunicadores populares exploram a arte da poesia
 support_line: A oficina visa despertar na militância o gosto pela poesia e mostrar que todos são capazes de se tornarem poetas
 menu: "educação, cultura e comunicação"
@@ -30,20 +32,25 @@ files:
     $$hashKey: 02V
 created_date: "2018-11-18T14:20:02-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/07/2018-07-18-brasil-de-fato-volta-ao-rs-resgata-utopias-e-se-propoe-como-ferramenta-na-luta-de-narrativas.md
+  - _posts/2018/05/2018-05-31-jornalismo-perde-audalio-dantas-um-guerreiro-da-democracia.md
+  - _posts/2018/03/2018-03-20-mulheres-agua-e-as-estrategias-de-comunicacao-em-rede.md
+  - _posts/2018/06/2018-06-07-a-17a-jornada-de-agroecologia-busca-integrar-o-campo-e-a-cidade.md
+  - _posts/2018/07/2018-07-17-regiao-sul-realiza-curso-de-artes-e-cultura.md
+  - _posts/2018/08/2018-08-01-familias-assentadas-denunciam-incendio-criminoso-no-parana.md
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG-20181116-WA0005.jpg" height="329" src="//farm5.staticflickr.com/4863/32068592828_9102cbd706_b.jpg" width="700" />
-<figcaption>Oficina de poesia desperta a sensibilidade nos comunicadores</figcaption>
+<figcaption><em>Oficina de poesia desperta a sensibilidade nos comunicadores.&nbsp;Foto: Sirlei Fernandes</em></figcaption>
 </figure>
 </div>
 
 <p>&nbsp;</p>
 
-<p><em>Por Roberto Gaiardo, Leticia Vieira e Sirlei Fernandes (Curso de Comunica&ccedil;&atilde;o do MST/PR Ulisses Mana&ccedil;as)<br />
-Foto: Sirlei Fernandes<br />
-Para P&aacute;gina do MST</em></p>
+<p><em>Por Roberto Gaiardo, Leticia Vieira e Sirlei Fernandes*<br />
+Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
@@ -80,13 +87,18 @@ Enredo do amanhecer Sem Terra&hellip;</p>
 
 <p style="text-align: center;">&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="IMG_2766 (2) edit.jpg" height="287" src="//farm5.staticflickr.com/4879/32068537238_f5e2e6aca2_b.jpg" width="500" />
-<figcaption></figcaption>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG_2766 (2) edit.jpg" height="344" src="//farm5.staticflickr.com/4879/32068537238_f5e2e6aca2_b.jpg" width="600" />
+<figcaption><em>Foto: Sirlei Fernandes</em></figcaption>
 </figure>
+</div>
+
+<p>&nbsp;</p>
 
 <p>O resultado dessa provoca&ccedil;&atilde;o foi de que todas as pessoas s&atilde;o capazes de produzir poesia &ldquo;a gente acha que s&oacute; gente intelectual consegue escrever mais a classe trabalhadora tamb&eacute;m pode e tem que se apropriar dessa cultura e usar a sua pr&oacute;pria linguagem&rdquo; completa Pedro.</p>
 
 <p>&nbsp;</p>
 
 <p><br />
-<em>* Editado por Solange Engelmann&nbsp;</em>&nbsp;</p>
+<em>* Roberto Gaiardo, Leticia Vieira e Sirlei Fernandes s&atilde;o militantes do MST e participantes do Curso de Comunica&ccedil;&atilde;o do MST/PR Ulisses Mana&ccedil;as.<br />
+**Editado por Solange Engelmann&nbsp;</em>&nbsp;</p>
