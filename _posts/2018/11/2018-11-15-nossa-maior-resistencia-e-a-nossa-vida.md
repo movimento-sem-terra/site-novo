@@ -39,6 +39,8 @@ releated_posts:
   - _posts/2018/10/2018-10-29-fazenda-anonni-33-de-luta-e-resistencia.md
   - _posts/2018/11/2018-11-08-novembro-negro-e-tempo-de-reafirmar-a-resistencia-do-povo-brasileiro.md
   - _posts/2018/11/2018-11-12-depois-de-sobrevivermos-a-450-anos-de-escravidao-nao-cabemos-em-apenas-30-dias.md
+label: interviews
+section: featured-news
 
 ---
 <div>
@@ -109,11 +111,10 @@ O nosso desafio em rela&ccedil;&atilde;o a essa vida negra &eacute; fazer com qu
 <br />
 Ent&atilde;o, a resist&ecirc;ncia &eacute; o corpo negro vivo e o desafio deste corpo negro &eacute; fazer com que ele volte para si. Sempre lembrando que a luta negra fala de si, mas &eacute; para emancipa&ccedil;&atilde;o coletiva. Ela n&atilde;o &eacute; egoica, no sentido narc&iacute;sico. Enfim, nossa maior resist&ecirc;ncia &eacute; a nossa vida.</div>
 
-<div><br />
+<div>&nbsp;
 <figure class="image" style="float:left"><img alt="789.jpg" height="450" src="//farm5.staticflickr.com/4835/45845822472_a72dd06f38_b.jpg" width="300" />
 <figcaption>Malunguinho tamb&eacute;m &eacute; conhecida por estar a frente do Aparelha Luzia.<br />
-<br />
-</figcaption>
+&nbsp;</figcaption>
 </figure>
 <strong>Voc&ecirc; considera importante nesse m&ecirc;s combinar o debate da negritude e suas express&otilde;es de resist&ecirc;ncia com a pauta de g&ecirc;nero? Como isso pode ser articulado?</strong></div>
 
