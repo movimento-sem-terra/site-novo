@@ -1,8 +1,10 @@
 ---
 date: "2018-11-16T11:01:44-02:00"
-tags: []
+tags:
+  - tag: democratização-da-comunicação
+  - tag: paraná
 title: Encontro cria rede de comunicação popular no Paraná
-support_line: "A rede surge no cenário político, em que setores conservadores da sociedade usam os meios de comunicação para construir narrativas que descredibilizam pautas progressistas"
+support_line: "A rede surge no cenário político, em que setores conservadores da sociedade usam os meios de comunicação para construir narrativas"
 images_hd: //farm5.staticflickr.com/4846/32036245988_19ba408dbe_b.jpg
 menu: lutas e mobilizações
 layout: post
@@ -23,12 +25,18 @@ files:
     $$hashKey: "035"
 created_date: "2018-11-16T11:41:17-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/07/2018-07-18-brasil-de-fato-volta-ao-rs-resgata-utopias-e-se-propoe-como-ferramenta-na-luta-de-narrativas.md
+  - _posts/2018/05/2018-05-31-jornalismo-perde-audalio-dantas-um-guerreiro-da-democracia.md
+  - _posts/2018/03/2018-03-20-mulheres-agua-e-as-estrategias-de-comunicacao-em-rede.md
+  - _posts/2018/06/2018-06-07-a-17a-jornada-de-agroecologia-busca-integrar-o-campo-e-a-cidade.md
+  - _posts/2018/07/2018-07-17-regiao-sul-realiza-curso-de-artes-e-cultura.md
+  - _posts/2018/08/2018-08-01-familias-assentadas-denunciam-incendio-criminoso-no-parana.md
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_20181113_223546.jpg" height="362" src="//farm5.staticflickr.com/4846/32036245988_19ba408dbe_b.jpg" width="700" />
-<figcaption>Movimentos sociais do Paran&aacute; criam rede de comunica&ccedil;&atilde;o popular</figcaption>
+<figcaption><em>Movimentos sociais do Paran&aacute; criam rede de comunica&ccedil;&atilde;o popular.&nbsp;Foto: Jaine Amori</em></figcaption>
 </figure>
 </div>
 
@@ -36,12 +44,10 @@ releated_posts: []
 &nbsp;</p>
 
 <p><em>Por Janelson Ferreira<br />
-Para p&aacute;gina do MST<br />
-Fotos: Jaine Amorin</em></p>
+Da p&aacute;gina do MST</em></p>
 
-<p>&nbsp;</p>
-
-<p>Na &uacute;ltima ter&ccedil;a-feira (13) diversos comunicadores e comunicadoras populares se reuniram na Vig&iacute;lia Lula Livre, em Curitiba, PR. O encontro deu in&iacute;cio a uma articula&ccedil;&atilde;o entre diversas experi&ecirc;ncias em comunica&ccedil;&atilde;o na regi&atilde;o Sul, tendo como foco a constitui&ccedil;&atilde;o de uma rede de comunica&ccedil;&atilde;o entre movimentos sociais, universidades, organiza&ccedil;&otilde;es sociais, partidos pol&iacute;ticos e coletivos.</p>
+<p><br />
+Na &uacute;ltima ter&ccedil;a-feira (13) diversos comunicadores e comunicadoras populares se reuniram na Vig&iacute;lia Lula Livre, em Curitiba, PR. O encontro deu in&iacute;cio a uma articula&ccedil;&atilde;o entre diversas experi&ecirc;ncias em comunica&ccedil;&atilde;o na regi&atilde;o Sul, tendo como foco a constitui&ccedil;&atilde;o de uma rede de comunica&ccedil;&atilde;o entre movimentos sociais, universidades, organiza&ccedil;&otilde;es sociais, partidos pol&iacute;ticos e coletivos.</p>
 
 <p>&nbsp;</p>
 
@@ -66,7 +72,7 @@ Fotos: Jaine Amorin</em></p>
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="IMG_20181113_223551.jpg" height="261" src="//farm5.staticflickr.com/4814/45183134814_f8d131ecb3_b.jpg" width="400" />
-<figcaption></figcaption>
+<figcaption><em>Foto: Jaine Amorin</em></figcaption>
 </figure>
 
 <p>Para a comunicadora Lizely, &eacute; fundamental pensar qual a postura que a comunica&ccedil;&atilde;o popular precisa adotar neste per&iacute;odo. &ldquo;N&atilde;o podemos somente ser uma comunica&ccedil;&atilde;o reativa, que responde a ataques, temos que anunciar nosso projeto pol&iacute;tico&rdquo;, ressalta.</p>
@@ -111,4 +117,4 @@ Fotos: Jaine Amorin</em></p>
 
 <p>&nbsp;</p>
 
-<p><em>*Editado por Solange Engelmann</em></p>
+<p><em>*Editado por Solange Engelmann.</em></p>
