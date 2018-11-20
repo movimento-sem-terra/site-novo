@@ -5,7 +5,7 @@ tags:
   - tag: ceará
   - tag: resistência
 title: "No Ceará, Acampamento Zé Maria do Tomé sofre ameaça de despejo"
-support_line: "Após 5 anos de luta, as famílias estão novamente com o mandato de reintegração de posse, que está previsto para acontecer nesta quarta-feira (21)."
+support_line: "Após 5 anos de luta, as famílias estão novamente com o mandato de despejo, que está previsto para acontecer nesta quarta-feira (21)."
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4918/45252719104_d15310078a_b.jpg
 layout: post
@@ -52,7 +52,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Mais uma vez, o Acampamento Z&eacute; Maria do Tom&eacute;, localizado na Chapada do Apodi, no Munic&iacute;pio de Limoeiro do Norte do Cear&aacute;, est&aacute; sob risco de despejo.</p>
+Mais uma vez, o Acampamento Z&eacute; Maria do Tom&eacute;, localizado na Chapada do Apodi, no Munic&iacute;pio de Limoeiro do Norte do Cear&aacute;, ap&oacute;s 5 anos de luta,&nbsp;est&aacute; novamente com o mandato de despejo, que est&aacute; previsto para acontecer nesta quarta-feira (21).</p>
 
 <p><br />
 O Per&iacute;metro Jaguaribe Apodi foi implantado no final da d&eacute;cada de 1980, quando ocorreu a expropria&ccedil;&atilde;o, expuls&atilde;o e desmantelamento da produ&ccedil;&atilde;o de cerca de 6 mil fam&iacute;lias da regi&atilde;o, que antes produziam alimentos e mantinham rela&ccedil;&otilde;es de identidade com o territ&oacute;rio.</p>
