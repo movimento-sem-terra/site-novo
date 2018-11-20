@@ -4,7 +4,7 @@ tags:
   - tag: despejo
   - tag: ceará
   - tag: resistência
-title: "No Ceará, Aacampamento Zé Maria do Tomé sofre ameaça de despejo"
+title: "No Ceará, Acampamento Zé Maria do Tomé sofre ameaça de despejo"
 support_line: "Após 5 anos de luta, as famílias estão novamente com o mandato de reintegração de posse, que está previsto para acontecer nesta quarta-feira (21)."
 menu: direitos humanos
 images_hd: //farm5.staticflickr.com/4918/45252719104_d15310078a_b.jpg
