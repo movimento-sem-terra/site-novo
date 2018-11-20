@@ -52,7 +52,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Mais uma vez, o Acampamento Z&eacute; Maria do Tom&eacute;, localizado na Chapada do Apodi, no Munic&iacute;pio de Limoeiro do Norte do Cear&aacute;, ap&oacute;s 5 anos de luta,&nbsp;est&aacute; novamente com o mandado de despejo, que est&aacute; previsto para acontecer nesta quarta-feira (21).</p>
+Mais uma vez, o Acampamento Z&eacute; Maria do Tom&eacute;, localizado na Chapada do Apodi, no Munic&iacute;pio de Limoeiro do Norte do Cear&aacute;, ap&oacute;s 5 anos de luta, est&aacute; com o mandado de despejo, que est&aacute; previsto para acontecer nesta quarta-feira (21).</p>
 
 <p><br />
 O Per&iacute;metro Jaguaribe Apodi foi implantado no final da d&eacute;cada de 1980, quando ocorreu a expropria&ccedil;&atilde;o, expuls&atilde;o e desmantelamento da produ&ccedil;&atilde;o de cerca de 6 mil fam&iacute;lias da regi&atilde;o, que antes produziam alimentos e mantinham rela&ccedil;&otilde;es de identidade com o territ&oacute;rio.</p>
