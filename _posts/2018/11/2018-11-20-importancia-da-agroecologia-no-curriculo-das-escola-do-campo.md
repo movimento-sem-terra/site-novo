@@ -54,7 +54,7 @@ Fotos: Divulga&ccedil;&atilde;o​</em></p>
 
 <p>&nbsp;</p>
 
-<p>A Escola Popular de Agroecologia e Agrofloresta Eg&iacute;dio Brunet (EPAAEB) nasceu no Extremo Sul do Estado da Bahia, com a estrat&eacute;gica pol&iacute;tica de contribuir na forma&ccedil;&atilde;o agroecol&oacute;gica na agricultura camponesa, em respeito o meio ambiente. E assim, fortalecer as organiza&ccedil;&otilde;es populares envolvidas na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular.&nbsp;</p>
+<p>A Escola Popular de Agroecologia e Agrofloresta Eg&iacute;dio Brunet (EPAAEB) nasceu no Extremo Sul do Estado da Bahia, com a estrat&eacute;gica pol&iacute;tica de contribuir na forma&ccedil;&atilde;o agroecol&oacute;gica na agricultura camponesa, em respeito ao meio ambiente. E assim, fortalecer as organiza&ccedil;&otilde;es populares envolvidas na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular.&nbsp;</p>
 
 <p>&nbsp;</p>
 
