@@ -1,7 +1,7 @@
 ---
 date: "2018-11-20T13:59:01-02:00"
 tags: []
-title: Importância da Agroecologia no currículo das escola do campo
+title: Importância da Agroecologia nas escolas do campo
 images_hd: //farm5.staticflickr.com/4817/45972209761_1f7be1b143_b.jpg
 support_line: "Escola Popular de Agroecologia e Agrofloresta Egídio Brunet, na Bahia, lança caderno de Educação em Agroecologia para estimular uma nova forma de viver e conviver no campo e na cidade\n"
 menu: "educação, cultura e comunicação"
@@ -128,4 +128,4 @@ Fotos: Divulga&ccedil;&atilde;o​</em></p>
 
 <p>&nbsp;</p>
 
-<p>*Editado por Solange Engelmann</p>
+<p><em>*Editado por Solange Engelmann</em></p>
