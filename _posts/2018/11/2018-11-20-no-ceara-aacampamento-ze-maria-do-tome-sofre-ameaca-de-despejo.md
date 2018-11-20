@@ -52,16 +52,16 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-O Acampamento Z&eacute; Maria do Tom&eacute;, localizado na Chapada do Apodi, no Munic&iacute;pio de Limoeiro do Norte do Cear&aacute;, est&aacute; sob risco de despejo.</p>
-
-<p><br />
-Para Iris Carvalho da coordena&ccedil;&atilde;o do MST, &ldquo;a ocupa&ccedil;&atilde;o da Chapada do Apodi aconteceu com a inten&ccedil;&atilde;o dos trabalhadores/as retomarem suas terras, de plantar, de garantir o acesso a terra, a &aacute;gua, por isso exigimos uma solu&ccedil;&atilde;o imediata do governo estadual e federal para resolu&ccedil;&atilde;o do despejo e desapropria&ccedil;&atilde;o imediata&rdquo;.</p>
+Mais uma vez, o Acampamento Z&eacute; Maria do Tom&eacute;, localizado na Chapada do Apodi, no Munic&iacute;pio de Limoeiro do Norte do Cear&aacute;, est&aacute; sob risco de despejo.</p>
 
 <p><br />
 O Per&iacute;metro Jaguaribe Apodi foi implantado no final da d&eacute;cada de 1980, quando ocorreu a expropria&ccedil;&atilde;o, expuls&atilde;o e desmantelamento da produ&ccedil;&atilde;o de cerca de 6 mil fam&iacute;lias da regi&atilde;o, que antes produziam alimentos e mantinham rela&ccedil;&otilde;es de identidade com o territ&oacute;rio.</p>
 
 <p><br />
 Apenas 316 agricultores conseguiram entrar na I etapa do projeto irrigado, destes, 255 foram expulsos, ou seja, o equivalente a 81% de expropria&ccedil;&atilde;o, segundo estudo realizado pela Universidade Estadual do Cear&aacute;/FAFIDAM. Esse processo levou a luta desses agricultores pelo acesso &agrave; terra.</p>
+
+<p><br />
+Para Iris Carvalho da coordena&ccedil;&atilde;o do MST, &ldquo;a ocupa&ccedil;&atilde;o da Chapada do Apodi aconteceu com a inten&ccedil;&atilde;o dos trabalhadores/as retomarem suas terras, de plantar, de garantir o acesso a terra, a &aacute;gua, por isso exigimos uma solu&ccedil;&atilde;o imediata do governo estadual e federal para resolu&ccedil;&atilde;o do despejo e desapropria&ccedil;&atilde;o imediata&rdquo;.</p>
 
 <p><br />
 Carvalho lembra que &ldquo;esse n&atilde;o &eacute; o primeiro mandado de despejo, vieram outros antes desse. Aqui as fam&iacute;lias vivem sob constante amea&ccedil;a de despejo&rdquo;.</p>
