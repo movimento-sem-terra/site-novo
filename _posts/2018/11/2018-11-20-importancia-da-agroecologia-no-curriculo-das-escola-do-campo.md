@@ -58,7 +58,7 @@ Fotos: Divulga&ccedil;&atilde;o​</em></p>
 
 <p>&nbsp;</p>
 
-<p>Nessa perspectiva em 2017, a EPAAEB lan&ccedil;a o primeiro caderno de Educa&ccedil;&atilde;o em Agroecologia, intitulado Agroecologia na Educa&ccedil;&atilde;o: quest&atilde;o propositiva de conte&uacute;do e metodologia. A produ&ccedil;&atilde;o do material iniciou-se com a sensibilidade da campanha contra o uso de agrot&oacute;xicos e transformou-se em ponto central para forma&ccedil;&atilde;o nas escolas de assentamento e acampamento da regional Extremo Sul. Se tornando um marco na reformula&ccedil;&atilde;o curricular da educa&ccedil;&atilde;o do campo em 2015, do setor de educa&ccedil;&atilde;o na Bahia.</p>
+<p>Nessa perspectiva em 2017, a EPAAEB lan&ccedil;a o primeiro caderno de Educa&ccedil;&atilde;o em Agroecologia, intitulado Agroecologia na Educa&ccedil;&atilde;o: quest&atilde;o propositiva de conte&uacute;do e metodologia. A produ&ccedil;&atilde;o do material iniciou-se com a sensibilidade da campanha contra o uso de agrot&oacute;xicos e transformou-se em ponto central para forma&ccedil;&atilde;o nas escolas de assentamentos e acampamentos da regional Extremo Sul. Se tornando um marco na reformula&ccedil;&atilde;o curricular da educa&ccedil;&atilde;o do campo em 2015, por meio do setor de educa&ccedil;&atilde;o na Bahia.</p>
 
 <p>&nbsp;</p>
 
@@ -78,7 +78,7 @@ Fotos: Divulga&ccedil;&atilde;o​</em></p>
 
 <p>&nbsp;</p>
 
-<p>&ldquo;Todas e todos os educadores que se engajaram nesse trabalho tiveram um papel fundamental, tanto na pr&aacute;tica pedag&oacute;gica que constru&iacute;ram&nbsp; em&nbsp; cada escola, quanto na participa&ccedil;&atilde;o, problematiza&ccedil;&atilde;o e na reflex&atilde;o que realizada em cada curso e semin&aacute;rio&rdquo;, argumenta Dionara.</p>
+<p>&ldquo;Todas e todos os educadores que se engajaram nesse trabalho tiveram um papel fundamental, tanto na pr&aacute;tica pedag&oacute;gica que constru&iacute;ram&nbsp; em&nbsp; cada escola, quanto na participa&ccedil;&atilde;o, problematiza&ccedil;&atilde;o e na reflex&atilde;o realizada em cada curso e semin&aacute;rio&rdquo;, argumenta Dionara.</p>
 
 <p>&nbsp;</p>
 
@@ -90,15 +90,15 @@ Fotos: Divulga&ccedil;&atilde;o​</em></p>
 
 <p>&nbsp;</p>
 
-<p>A defini&ccedil;&atilde;o do coletivo escolar foi que a disciplina seria trabalhada de forma interdisciplinar, o que exigiu um trabalho coletivo entre os professores, remetendo a uma reestrutura&ccedil;&atilde;o organizativa em muitas escolas para a realiza&ccedil;&atilde;o do planejamento. Como resultado, logo mais um munic&iacute;pio inseriu no seu curr&iacute;culo a disciplina de Agroecologia, desta vez foi Santa Cruz Cabr&aacute;lia.</p>
+<p>A defini&ccedil;&atilde;o do coletivo escolar foi de que a disciplina seria trabalhada de forma interdisciplinar, o que exigiu um trabalho coletivo entre os professores, remetendo a uma reestrutura&ccedil;&atilde;o organizativa em muitas escolas para a realiza&ccedil;&atilde;o do planejamento. Como resultado, logo mais um munic&iacute;pio inseriu no seu curr&iacute;culo a disciplina de Agroecologia, desta vez foi Santa Cruz Cabr&aacute;lia.</p>
 
 <p>&nbsp;</p>
 
-<p>A tarefa n&atilde;o foi f&aacute;cil, pois al&eacute;m de planejar como trabalhar os conte&uacute;dos agroecol&oacute;gicos no processo educativo, foi preciso fazer a forma&ccedil;&atilde;o continuada do corpo docente das escolas do campo. Por outro lado, tamb&eacute;m &eacute; necess&aacute;rio avan&ccedil;ar e implantar a disciplinar na grade curricular dos munic&iacute;pios que ainda n&atilde;o aderiram, al&eacute;m de dar continuidade &agrave; forma&ccedil;&atilde;o continuada dos educadores.&nbsp;</p>
+<p>A tarefa n&atilde;o foi f&aacute;cil, pois al&eacute;m de planejar como trabalhar os conte&uacute;dos agroecol&oacute;gicos no processo educativo, foi preciso fazer a forma&ccedil;&atilde;o continuada do corpo docente das escolas do campo no estado. Por outro lado, tamb&eacute;m &eacute; necess&aacute;rio avan&ccedil;ar e implantar a disciplinar na grade curricular dos munic&iacute;pios que ainda n&atilde;o aderiram, al&eacute;m de dar continuidade &agrave; forma&ccedil;&atilde;o continuada dos educadores.&nbsp;</p>
 
 <p>&nbsp;</p>
 
-<p>Campelo comenta que a EPAAEB desenvolve papel fundamental na participa&ccedil;&atilde;o e constru&ccedil;&atilde;o de espa&ccedil;os voltados ao avan&ccedil;o da Reforma Agr&aacute;ria e da Agroecologia nos assentamentos da regi&atilde;o. &ldquo;A agroecologia na escola precisar estar vinculada ao projeto de Reforma Agr&aacute;ria Popular pelo qual o MST trabalha&rdquo;, conclui.</p>
+<p>Campelo comenta que a EPAAEB possui papel fundamental na participa&ccedil;&atilde;o e constru&ccedil;&atilde;o de espa&ccedil;os voltados ao avan&ccedil;o da Reforma Agr&aacute;ria e da Agroecologia nos assentamentos da regi&atilde;o. &ldquo;A agroecologia na escola precisar estar vinculada ao projeto de Reforma Agr&aacute;ria Popular pelo qual o MST trabalha&rdquo;, conclui.</p>
 
 <p>&nbsp;</p>
 
@@ -106,7 +106,11 @@ Fotos: Divulga&ccedil;&atilde;o​</em></p>
 
 <p>&nbsp;</p>
 
-<p>As escolas pioneiras na constru&ccedil;&atilde;o da Agroecologia na regional Extremo Sul, se encontram em processo de desenvolvimento do projeto pol&iacute;tico pedag&oacute;gico de ensino, como a Escola Eloi Ferreira, no munic&iacute;pio de Alcoba&ccedil;a, que atende um publico da educa&ccedil;&atilde;o infantil e ao ensino fundamental II, e se est&aacute; localizada no Assentamento 40-45. Ap&oacute;s negocia&ccedil;&otilde;es com a prefeitura e o trabalho coletivo da coordena&ccedil;&atilde;o pedag&oacute;gica a escola transformou a disciplina de Agroecologia em parte do Programa de Educa&ccedil;&atilde;o Ambiental do Servi&ccedil;o Nacional de Aprendizagem Rural (SENAR), denominado Desperta.&nbsp;</p>
+<p>As escolas pioneiras na constru&ccedil;&atilde;o da Agroecologia na regional Extremo Sul, se encontram em processo de desenvolvimento do projeto pol&iacute;tico pedag&oacute;gico de ensino, como a Escola Eloi Ferreira, no munic&iacute;pio de Alcoba&ccedil;a, que atende um publico da educa&ccedil;&atilde;o infantil e ao ensino fundamental II. A escola localiza-se no Assentamento 40-45.</p>
+
+<p>&nbsp;</p>
+
+<p>Ap&oacute;s as negocia&ccedil;&otilde;es com a prefeitura e o trabalho coletivo da coordena&ccedil;&atilde;o pedag&oacute;gica a escola transformou a disciplina de Agroecologia em parte do Programa de Educa&ccedil;&atilde;o Ambiental do Servi&ccedil;o Nacional de Aprendizagem Rural (SENAR), denominado Desperta.&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -114,11 +118,11 @@ Fotos: Divulga&ccedil;&atilde;o​</em></p>
 <figcaption></figcaption>
 </figure>
 
-<p>J&aacute; a Escola Paulo Freire do munic&iacute;pio de Santa Cruz Cabr&aacute;lia, localizada no Assentamento Lu&iacute;s In&aacute;cio Lula da Silva, vinha trabalhando a Agroecologia na disciplina de agricultura, e o corpo docente sentiu a necessidade de trabalhar a disciplina na pratica, buscando conscientizar os educandos(as) na produ&ccedil;&atilde;o agr&iacute;cola, sem o udo de agrot&oacute;xicos. O trabalho foi realizado com a inser&ccedil;&atilde;o em diversas &aacute;reas do conhecimento a partir da campanha contra o uso de agrot&oacute;xicos, que possibilitou a legaliza&ccedil;&atilde;o da disciplinar de Agroecologia no ano de 2015.&nbsp;</p>
+<p>J&aacute; a Escola Paulo Freire do munic&iacute;pio de Santa Cruz Cabr&aacute;lia, localizada no Assentamento Lu&iacute;s In&aacute;cio Lula da Silva, iniciou trabalhando a Agroecologia na disciplina de agricultura. A partir disso o corpo docente sentiu a necessidade de trabalhar a disciplina na pratica, buscando conscientizar os educandos(as) na produ&ccedil;&atilde;o agr&iacute;cola, sem o uso de agrot&oacute;xicos. O trabalho&nbsp;&nbsp;possibilitou a legaliza&ccedil;&atilde;o da disciplinar de Agroecologia no ano de 2015.&nbsp;</p>
 
 <p>&nbsp;</p>
 
-<p>Outra escola que inseriu nesse processo foi a Oziel Alves Pereira, no munic&iacute;pio de Itamaraju, localizada no Assentamento Bela Vista. Desde de 2008, a escola oferece em sua grade curricular a disciplina de agricultura, que teve inicio com o projeto horta na escola. Entre 2013 e 2014, a disciplina foi desenvolvida em parceria com o projeto Desperta do SENAR e a partir de 2015 foi incluida a disciplina de Agroecologia, proposta pelo setor de educa&ccedil;&atilde;o do MST e a EPAAEB. A partir do trabalho com temas gerados e orientados pelo setor de educa&ccedil;&atilde;o do MST e a EPAAEB a disciplina avan&ccedil;ou nas atividades pr&aacute;ticas e constru&ccedil;&atilde;o de a&ccedil;&otilde;es conjuntas entre v&aacute;rias &aacute;reas do conhecimento, se diferenciando do Projeto Desperta.&nbsp;</p>
+<p>Outra escola que se inseriu nesse processo foi a Oziel Alves Pereira, no munic&iacute;pio de Itamaraju, localizada no Assentamento Bela Vista. Desde de 2008, a escola oferece em sua grade curricular a disciplina de agricultura. Entre 2013 e 2014, a disciplina foi desenvolvida em parceria com o projeto Desperta do SENAR e a partir de 2015 foi&nbsp; a disciplina de Agroecologia, proposta pelo setor de educa&ccedil;&atilde;o do MST e a EPAAEB. A partir do trabalho com temas gerados e orientados pelo setor de educa&ccedil;&atilde;o do MST e a EPAAEB a disciplina avan&ccedil;ou nas atividades pr&aacute;ticas e constru&ccedil;&atilde;o de a&ccedil;&otilde;es conjuntas entre v&aacute;rias &aacute;reas do conhecimento, se diferenciando do Projeto Desperta.&nbsp;</p>
 
 <p>&nbsp;</p>
 
