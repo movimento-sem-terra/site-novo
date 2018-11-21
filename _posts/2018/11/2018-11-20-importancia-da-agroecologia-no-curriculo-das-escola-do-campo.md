@@ -1,9 +1,12 @@
 ---
 date: "2018-11-20T13:59:01-02:00"
-tags: []
+tags:
+  - tag: agroecologia-é-o-caminho
+  - tag: educacao
+  - tag: bahia
 title: Importância da Agroecologia nas escolas do campo
 images_hd: //farm5.staticflickr.com/4817/45972209761_1f7be1b143_b.jpg
-support_line: "Escola Popular de Agroecologia e Agrofloresta Egídio Brunet, na Bahia, lança caderno de Educação em Agroecologia para estimular uma nova forma de viver e conviver no campo e na cidade\n"
+support_line: "Escola Popular de Agroecologia e Agrofloresta Egídio Brunetto, na Bahia, lança caderno de Educação em Agroecologia para estimular uma nova forma de viver no campo e na cidade"
 menu: "educação, cultura e comunicação"
 layout: post
 files:
@@ -37,24 +40,27 @@ files:
     $$hashKey: 039
 created_date: "2018-11-20T14:05:51-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/06/2018-06-15-1o-encontro-territorial-de-agroecologia-acontece-no-extremo-sul-da-bahia.md
+  - _posts/2018/06/2018-06-22-a-cultura-popular-e-a-construcao-de-agroecologia-no-campo.md
+  - _posts/2018/08/2018-08-01-quanto-custa-comer-organicos-em-porto-alegre.md
+  - _posts/2018/09/2018-09-22-no-rio-candidatos-assinam-documento-e-se-comprometem-com-a-agroecologia.md
+  - _posts/2018/09/2018-09-11-a-experiencia-de-uma-olimpiada-nacional-de-historia-foi-alimento-para-os-nossos-sonhos.md
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="41682272_1856731921082950_6278796266067460096_n.jpg" height="369" src="//farm5.staticflickr.com/4861/32101182988_d5983def12_b.jpg" width="600" />
-<figcaption></figcaption>
+<figcaption><em>Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 </div>
 
 <p>&nbsp;</p>
 
 <p><em>Por Rarielle Costa<br />
-Para P&aacute;gina do MST<br />
-Fotos: Divulga&ccedil;&atilde;o​</em></p>
+Da P&aacute;gina do MST</em><br />
+&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>A Escola Popular de Agroecologia e Agrofloresta Eg&iacute;dio Brunet (EPAAEB) nasceu no Extremo Sul do Estado da Bahia, com a estrat&eacute;gica pol&iacute;tica de contribuir na forma&ccedil;&atilde;o agroecol&oacute;gica na agricultura camponesa, em respeito ao meio ambiente. E assim, fortalecer as organiza&ccedil;&otilde;es populares envolvidas na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular.&nbsp;</p>
+<p>A Escola Popular de Agroecologia e Agrofloresta Eg&iacute;dio Brunetto (EPAAEB) nasceu no Extremo Sul do Estado da Bahia, com a estrat&eacute;gica pol&iacute;tica de contribuir na forma&ccedil;&atilde;o agroecol&oacute;gica na agricultura camponesa, em respeito ao meio ambiente. E assim, fortalecer as organiza&ccedil;&otilde;es populares envolvidas na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular.&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -84,7 +90,7 @@ Fotos: Divulga&ccedil;&atilde;o​</em></p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="22308984_1480246675398145_8793178690489244648_n.jpg" height="281" src="//farm5.staticflickr.com/4837/45922918102_db64b5140f_b.jpg" width="500" />
-<figcaption></figcaption>
+<figcaption><em>Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 </div>
 
@@ -102,7 +108,7 @@ Fotos: Divulga&ccedil;&atilde;o​</em></p>
 
 <p>&nbsp;</p>
 
-<p>Escolas pioneiras</p>
+<p><strong>Escolas pioneiras</strong></p>
 
 <p>&nbsp;</p>
 
@@ -115,7 +121,7 @@ Fotos: Divulga&ccedil;&atilde;o​</em></p>
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="29468417_1637103936379084_7399598772579205120_n.jpg" height="267" src="//farm5.staticflickr.com/4855/44155857130_aa3ce56713_b.jpg" width="400" />
-<figcaption></figcaption>
+<figcaption><em>Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 
 <p>J&aacute; a Escola Paulo Freire do munic&iacute;pio de Santa Cruz Cabr&aacute;lia, localizada no Assentamento Lu&iacute;s In&aacute;cio Lula da Silva, iniciou trabalhando a Agroecologia na disciplina de agricultura. A partir disso o corpo docente sentiu a necessidade de trabalhar a disciplina na pratica, buscando conscientizar os educandos(as) na produ&ccedil;&atilde;o agr&iacute;cola, sem o uso de agrot&oacute;xicos. O trabalho&nbsp;&nbsp;possibilitou a legaliza&ccedil;&atilde;o da disciplinar de Agroecologia no ano de 2015.&nbsp;</p>
@@ -132,4 +138,4 @@ Fotos: Divulga&ccedil;&atilde;o​</em></p>
 
 <p>&nbsp;</p>
 
-<p><em>*Editado por Solange Engelmann</em></p>
+<p><em>*Editado por Solange Engelmann.</em></p>
