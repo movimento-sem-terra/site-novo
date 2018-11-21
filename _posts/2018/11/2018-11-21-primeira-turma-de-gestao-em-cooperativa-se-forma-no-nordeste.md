@@ -2,7 +2,7 @@
 date: "2018-11-21T18:08:40-02:00"
 tags: []
 title: Primeira turma de Gestão em Cooperativa se forma no nordeste
-support_line: "O curso contribui para o desenvolvimento sustentável nos assentamentos do MST, fortalece as cooperativas já existentes e os conhecimentos sobre corporativismo"
+support_line: "O curso contribui para o desenvolvimento sustentável nos assentamentos do MST, fortalece as cooperativas já existentes e os conhecimentos sobre cooperativismo"
 menu: reforma agrária
 images_hd: //farm5.staticflickr.com/4806/32119106648_813cc91673_b.jpg
 layout: post
@@ -45,7 +45,7 @@ Para P&aacute;gina do MST</em></p>
 Durante um ano e sete meses, estudantes assentados de todos os estados do nordeste participaram das sete etapas do curso, que aconteceu no Centro de Forma&ccedil;&atilde;o Teixeira.</p>
 
 <p><br />
-Por meio da forma&ccedil;&atilde;o pol&iacute;tica, das rela&ccedil;&otilde;es humanas e gest&atilde;o de cooperativas o curso tem como objetivo contribuir com o desenvolvimento sustent&aacute;vel nos assentamentos do MST, fortalecendo as cooperativas j&aacute; existentes e o conhecimento sobre o corporativismo.&nbsp;</p>
+Por meio da forma&ccedil;&atilde;o pol&iacute;tica, das rela&ccedil;&otilde;es humanas e gest&atilde;o de cooperativas o curso tem como objetivo contribuir com o desenvolvimento sustent&aacute;vel nos assentamentos do MST, fortalecendo as cooperativas j&aacute; existentes e os conhecimentos sobre cooperativismo.&nbsp;</p>
 
 <p><br />
 A coordenadora pol&iacute;tica e pedag&oacute;gica do curso, Rita Santos, explica que no dia-a-dia dos educandos, as pr&aacute;ticas apreendidas no tempo escola j&aacute; est&atilde;o sendo implantadas.</p>
@@ -64,7 +64,9 @@ Para a coordenadora, o curso n&atilde;o foi apenas uma experi&ecirc;ncia formati
 O curso aconteceu em parceria com o Grupo Mondragon, o maior grupo cooperativo do mundo sediado no Pa&iacute;s Basco, no norte da Espanha, e que conjuntamente com o MST vem trabalhando no fortalecimento da coopera&ccedil;&atilde;o e gest&atilde;o de cursos de forma&ccedil;&atilde;o e cooperativas dos assentamentos.</p>
 
 <p><br />
-A cerim&ocirc;nia de formatura, foi um momento especial para o Centro de forma&ccedil;&atilde;o do MST na Para&iacute;ba, uma vez que recebeu o primeiro curso de Tecnologia em Gest&atilde;o de Cooperativas do nordeste. A celebra&ccedil;&atilde;o contou com debates e festa ao ritmo dos sons do nordeste e comidas t&iacute;picas da regi&atilde;o.</p>
+A cerim&ocirc;nia de formatura, foi um momento especial para o Centro de forma&ccedil;&atilde;o do MST na Para&iacute;ba, uma vez que recebeu o primeiro curso de Tecnologia em Gest&atilde;o de Cooperativas do nordeste. A celebra&ccedil;&atilde;o contou com debates e festa, ao ritmo dos sons do nordeste e comidas t&iacute;picas da regi&atilde;o.</p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
