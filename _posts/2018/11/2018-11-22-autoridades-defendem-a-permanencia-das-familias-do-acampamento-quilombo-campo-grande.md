@@ -62,7 +62,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Dowglas Silva (1).jpg" height="466" src="//farm5.staticflickr.com/4835/46004673671_d0b848dc1a_b.jpg" width="700" />
-<figcaption><em>Foto: Dowglas Silva</em></figcaption>
+<figcaption><em>As fam&iacute;lias denunciaram&nbsp;os interesses econ&ocirc;micos do bar&atilde;o do caf&eacute;, Jo&atilde;o Faria.&nbsp;Foto: Dowglas Silva</em></figcaption>
 </figure>
 </div>
 
@@ -72,25 +72,25 @@ releated_posts:
 Da P&aacute;gina do MST</i><br />
 &nbsp;</p>
 
-<p>A comiss&atilde;o de direitos humanos da ssemrecebeu nesta quinta-feira, 22|11, os acampados da usina falida Ariadn&oacute;polis, para uma audi&ecirc;ncia&nbsp;&agrave;&nbsp;pedido do Deputado Estadual Rog&eacute;rio Corr&ecirc;a (PT). Representantes do Minist&eacute;rio P&uacute;blico, do Tribunal de Justi&ccedil;a, da Mesa de Di&aacute;logo de Conflitos no Estado e da Procuradoria de Justi&ccedil;a participaram.<br />
+<p>A comiss&atilde;o de direitos humanos da Assembleia Legislativa de Minas Gerais (ALMG) recebeu nesta quinta-feira, 22|11, os acampados da usina falida Ariadn&oacute;polis, para uma audi&ecirc;ncia&nbsp;&agrave;&nbsp;pedido do Deputado Estadual Rog&eacute;rio Corr&ecirc;a (PT). Participaram da atividade representantes do Minist&eacute;rio P&uacute;blico, do Tribunal de Justi&ccedil;a, da Mesa de Di&aacute;logo de Conflitos no Estado e da Procuradoria de Justi&ccedil;a.<br />
 &nbsp;</p>
 
-<p>As fam&iacute;lias denunciam os interesses econ&ocirc;micos do bar&atilde;o do caf&eacute;, Jo&atilde;o Faria, que seria o financiador do conflito. De acordo com as informa&ccedil;&otilde;es do processo, a empresa Jodil, pertencente ao fazendeiro quer arrendar a terra para expandir seu cafezal, que faz divisa com a &aacute;rea do acampamento. Isso justificaria a liminar de despejo expedida pelo Juiz Zwicker Esbaille Junior no &uacute;ltimo dia 7 de novembro.<br />
+<p>As fam&iacute;lias denunciaram&nbsp;os interesses econ&ocirc;micos do bar&atilde;o do caf&eacute;, Jo&atilde;o Faria, que seria o financiador do conflito. De acordo com as informa&ccedil;&otilde;es do processo, a empresa Jodil, pertencente ao fazendeiro quer arrendar a terra para expandir seu cafezal, que faz divisa com a &aacute;rea do acampamento. Isso justificaria a liminar de despejo expedida pelo Juiz Zwicker Esbaille Junior no &uacute;ltimo dia 7 de novembro.<br />
 &nbsp;</p>
 
-<p>O procurador de justi&ccedil;a e coordenador do Centro de Apoio Operacional das Promotorias de Justi&ccedil;a de Conflitos Agr&aacute;rios, Afonso Henrique de Miranda Teixeira, defendeu que o TJMG reverta a decis&atilde;o. &ldquo;Tudo que falamos aqui, n&atilde;o vem por raz&atilde;o ideol&oacute;gica. N&atilde;o se tem a menor d&uacute;vida de que quem imprimiu fun&ccedil;&atilde;o social a essa propriedade foram esses trabalhadores&rdquo;, afirmou.<br />
+<p>O procurador de justi&ccedil;a e coordenador do Centro de Apoio Operacional das Promotorias de Justi&ccedil;a de Conflitos Agr&aacute;rios, Afonso Henrique de Miranda Teixeira, defendeu que o Tribunal de Justi&ccedil;a de Minas Gerais (TJMG) reverta a decis&atilde;o. &ldquo;Tudo que falamos aqui, n&atilde;o vem por raz&atilde;o ideol&oacute;gica. N&atilde;o se tem a menor d&uacute;vida de que quem imprimiu fun&ccedil;&atilde;o social a essa propriedade foram esses trabalhadores&rdquo;, afirmou o procurador.<br />
 &nbsp;</p>
 
-<p>Henriques exp&ocirc;s contradi&ccedil;&otilde;es no processo que levou &agrave; liminar. &ldquo;O que a gente tem at&eacute; o momento &eacute; quest&atilde;o t&eacute;cnica, que o Minist&eacute;rio P&uacute;blico deve debru&ccedil;ar. A pessoa jur&iacute;dica entrou em fal&ecirc;ncia, mas desde 2016 adv&eacute;m uma a&ccedil;&atilde;o dando recupera&ccedil;&atilde;o judicial a uma empresa que n&atilde;o existia. Temos uma tutela de urg&ecirc;ncia conferida a uma pessoa jur&iacute;dica que n&atilde;o conseguimos identificar o que &eacute;&rdquo;. Explicou ele, fazendo refer&ecirc;ncia &agrave; empresa falida, chamada de Companhia Agropecu&aacute;ria Irm&atilde;os Azevedo (Capia).<br />
+<p>Henriques exp&ocirc;s tamb&eacute;m contradi&ccedil;&otilde;es no processo que levou &agrave; liminar. &ldquo;O que a gente tem at&eacute; o momento &eacute; quest&atilde;o t&eacute;cnica, que o Minist&eacute;rio P&uacute;blico deve debru&ccedil;ar. A pessoa jur&iacute;dica entrou em fal&ecirc;ncia, mas desde 2016 adv&eacute;m uma a&ccedil;&atilde;o dando recupera&ccedil;&atilde;o judicial a uma empresa que n&atilde;o existia. Temos uma tutela de urg&ecirc;ncia conferida a uma pessoa jur&iacute;dica que n&atilde;o conseguimos identificar o que &eacute;&rdquo;,&nbsp;explicou, fazendo refer&ecirc;ncia &agrave; empresa falida, chamada de Companhia Agropecu&aacute;ria Irm&atilde;os Azevedo (Capia).<br />
 &nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Foto Israel de Oliveira (24).jpg" height="185" src="//farm5.staticflickr.com/4829/46004706781_948f96e5dc_b.jpg" width="450" />
-<figcaption>Foto: Israel Oliveira</figcaption>
+<figure class="image" style="display:inline-block"><img alt="Foto Israel de Oliveira (24).jpg" height="246" src="//farm5.staticflickr.com/4829/46004706781_948f96e5dc_b.jpg" width="600" />
+<figcaption><em>Foto: Israel Oliveira</em></figcaption>
 </figure>
 </div>
 
-<p>O deputado estadual Ant&ocirc;nio Carlos Arantes (PSDB), representante da bancada ruralista, foi vaiado pelo pelos presentes, ao afirmar que n&atilde;o h&aacute; produ&ccedil;&atilde;o, nem moradores na &aacute;rea e que a Escola Estadual no acampamento n&atilde;o funciona. Outro representante do agroneg&oacute;cio, Bruno Engler (PSL), deputado eleito, chamou os cidad&atilde;os presentes de tropa de choque.<br />
+<p>O deputado estadual Ant&ocirc;nio Carlos Arantes (PSDB), representante da bancada ruralista, foi vaiado&nbsp;pelos presentes, ao afirmar que n&atilde;o h&aacute; produ&ccedil;&atilde;o, nem moradores na &aacute;rea e que a Escola Estadual no acampamento n&atilde;o funciona. Outro representante do agroneg&oacute;cio, Bruno Engler (PSL), deputado eleito, chamou os cidad&atilde;os presentes de tropa de choque.<br />
 &nbsp;</p>
 
 <p>A defensora p&uacute;blica Ana Cl&aacute;udia da Silva, refor&ccedil;ou a posi&ccedil;&atilde;o da procuradoria e contradisse o deputado ruralista. &ldquo;Ouvi as palavras do deputado e &eacute; importante deixar consignado que o que foi visto l&aacute; n&atilde;o &eacute; nada parecido com o que foi dito. Temos quest&otilde;es t&eacute;cnicas, elementos que n&atilde;o podem ser superados da forma como est&aacute; constando nos autos&rdquo;. A defensora disse ainda que &eacute; necess&aacute;ria uma luta por justi&ccedil;a para garantir o interesse da maior parte da popula&ccedil;&atilde;o, em detrimento dos poucos que possuem recursos e usam para manter seus privil&eacute;gios.<br />
@@ -104,30 +104,30 @@ Da P&aacute;gina do MST</i><br />
 &nbsp;</div>
 
 <div>
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Dowglas Silva (2).jpg" height="299" src="//farm5.staticflickr.com/4886/46004673991_d67990d716_b.jpg" width="450" />
+<figure class="image" style="float:right"><img alt="Dowglas Silva (2).jpg" height="200" src="//farm5.staticflickr.com/4886/46004673991_d67990d716_b.jpg" width="300" />
 <figcaption><em>Foto: Dowglas Silva</em></figcaption>
 </figure>
 </div>
-<br />
-&nbsp;</div>
 
-<div>&ldquo;A &aacute;rea, hora em disputa, pertenceu a uma usina que tem muitas d&iacute;vidas. Os trabalhadores s&atilde;o credores da empresa. Essas pessoas que est&atilde;o amea&ccedil;adas de despejo t&ecirc;m direitos, isso &eacute; que deveria ser discutido&rdquo;, destacou Romi M&aacute;rcia Bencke, Secret&aacute;ria-Geral do Conselho Nacional de Igrejas Crist&atilde;s do Brasil (CONIC).<br />
+<div>&ldquo;A &aacute;rea, hora em disputa, pertenceu a uma usina que tem muitas d&iacute;vidas. Os trabalhadores s&atilde;o credores da empresa. Essas pessoas que est&atilde;o amea&ccedil;adas de despejo t&ecirc;m direitos, isso &eacute; que deveria ser discutido&rdquo;, destacou Romi M&aacute;rcia Bencke, secret&aacute;ria-geral do Conselho Nacional de Igrejas Crist&atilde;s do Brasil (CONIC).<br />
 &nbsp;</div>
 
 <div>Silvio Netto e D&eacute;bora Mendes, ambos da dire&ccedil;&atilde;o do MST, representaram as fam&iacute;lias acampadas. Eles apresentaram um laudo t&eacute;cnico realizado pela Universidade Federal de Alfenas, no qual consta todos os dados da produ&ccedil;&atilde;o na &aacute;rea e as benfeitorias feitas pelos sem terra durante 20 anos. Tamb&eacute;m foi entregue um abaixo assinado no qual 80% dos comerciantes de Campo do Meio manifestam apoio &agrave; perman&ecirc;ncia das fam&iacute;lias.<br />
 &nbsp;</div>
 
-<div>Estiveram presentes manifestando apoio &agrave;s fam&iacute;lias as deputadas estaduais eleitas Beatriz Cerqueira e Andr&eacute;ia de Jesus Silva; Willian dos Santos, presidente da Comiss&atilde;o de Direitos Humanos da Ordem dos Advogados do Brasil (OAB); frei Gilvander Luis Moreira, coordenador da Comiss&atilde;o da Pastoral da Terra; Jefferson Leandro Teixeira da Silva, Coordenador do Sindieletro; Sebasti&atilde;o Melia Marques, Vereador de Campo do Meio.</div>
+<div>Estiveram presentes manifestando apoio &agrave;s fam&iacute;lias as deputadas estaduais eleitas Beatriz Cerqueira e Andr&eacute;ia de Jesus Silva; Willian dos Santos, presidente da Comiss&atilde;o de Direitos Humanos da Ordem dos Advogados do Brasil (OAB); frei Gilvander Luis Moreira, coordenador da Comiss&atilde;o da Pastoral da Terra (CPT); Jefferson Leandro Teixeira da Silva, coordenador do Sindieletro; Sebasti&atilde;o Melia Marques, vereador de Campo do Meio.</div>
 
-<div>A desembargadora, M&aacute;rcia Milanez, do Tribunal de Justi&ccedil;a de Minas, afirmou que levar&aacute; os documentos e os elementos debatidos na audi&ecirc;ncia at&eacute; o presidente da institui&ccedil;&atilde;o.</div>
+<div>&nbsp;</div>
+
+<div><br />
+A desembargadora, M&aacute;rcia Milanez, do Tribunal de Justi&ccedil;a de Minas, afirmou que levar&aacute; os documentos e os elementos debatidos na audi&ecirc;ncia at&eacute; o presidente da institui&ccedil;&atilde;o.</div>
 
 <p>&nbsp;</p>
 
 <div><strong>Dilig&ecirc;ncia de deputados federais</strong><br />
 &nbsp;</div>
 
-<div>O representante do Conselho Nacional de Direitos Humanos, Carlos Magno Silva Fonseca, se pronunciou lembrando que o Conselho se manifestou publicamente contra a liminar, no dia 7 de novembro. Segundo ele, &ldquo;todo direito coletivo &eacute; superior ao direito privado, qualquer a&ccedil;&atilde;o de despejo &eacute; viola&ccedil;&atilde;o dos direitos previstos na constitui&ccedil;&atilde;o&rdquo;.<br />
+<div>O representante do Conselho Nacional de Direitos Humanos (CNDH), Carlos Magno Silva Fonseca, se pronunciou lembrando que o Conselho se manifestou publicamente contra a liminar&nbsp;no dia 7 de novembro. Segundo ele:&nbsp;&ldquo;todo direito coletivo &eacute; superior ao direito privado, qualquer a&ccedil;&atilde;o de despejo &eacute; viola&ccedil;&atilde;o dos direitos previstos na constitui&ccedil;&atilde;o&rdquo;.<br />
 &nbsp;</div>
 
 <div>
@@ -136,11 +136,9 @@ Da P&aacute;gina do MST</i><br />
 
 <p><strong>Laudo&nbsp;</strong></p>
 
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Duglas Mansur.jpg" height="338" src="//farm5.staticflickr.com/4872/45093310915_3843742999_b.jpg" width="450" />
+<figure class="image" style="float:left"><img alt="Duglas Mansur.jpg" height="225" src="//farm5.staticflickr.com/4872/45093310915_3843742999_b.jpg" width="300" />
 <figcaption><em>Foto: Douglas Mansur</em></figcaption>
 </figure>
-</div>
 </div>
 
 <div><br />
@@ -148,7 +146,10 @@ Da P&aacute;gina do MST</i><br />
 
 <div>Confira alguns dados exatos, extra&iacute;dos do laudo t&eacute;cnico entregue durante a audi&ecirc;ncia:</div>
 
-<div>&bull;<span style="white-space:pre"> </span>450 Fam&iacute;lias</div>
+<div>&nbsp;</div>
+
+<div><br />
+&bull;<span style="white-space:pre"> </span>450 Fam&iacute;lias</div>
 
 <div>&bull;<span style="white-space:pre"> </span>1851 pessoas, sendo 184 fam&iacute;lias naturais de Campo do Meio</div>
 
@@ -182,6 +183,9 @@ Da P&aacute;gina do MST</i><br />
 
 <div>&bull;<span style="white-space:pre"> </span>2.429 m&sup2; de tanques de peixe</div>
 
-<div>&bull;<span style="white-space:pre"> </span>Estimativa de valor 28 milh&otilde;es de reais<br />
-<br />
-<em>*Editado por Wesley Lima</em></div>
+<div>&bull;<span style="white-space:pre"> </span>Estimativa de valor 28 milh&otilde;es de reais</div>
+
+<div>&nbsp;</div>
+
+<div><br />
+<em>*Editado por Wesley Lima.</em></div>
