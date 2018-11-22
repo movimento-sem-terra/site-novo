@@ -50,7 +50,7 @@ Da P&aacute;gina do MST</em></p>
 
 <div><br />
 <br />
-Ste, como era conhecida por todos, iniciou a sua milit&acirc;ncia muito cedo e &eacute; lembrada pela coer&ecirc;ncia, sentimento de perten&ccedil;a, dedica&ccedil;&atilde;o e compromisso com as tarefas que lhe eram atribu&iacute;dasale. Com atua&ccedil;&atilde;o em diferentes espa&ccedil;os do MST, nunca deixou de exercitar o seu carisma de educadora, contribuindo de maneira direta na educa&ccedil;&atilde;o de turmas multiseriadas e na&nbsp;alfabetiza&ccedil;&atilde;o de crian&ccedil;as, jovens e adultos nos acampamentos e assentamentos do MST.&nbsp;</div>
+Salete, como era conhecida por todos, iniciou a sua milit&acirc;ncia muito cedo e &eacute; lembrada pela coer&ecirc;ncia, sentimento de perten&ccedil;a, dedica&ccedil;&atilde;o e compromisso com as tarefas que lhe eram atribu&iacute;das. Com atua&ccedil;&atilde;o em diferentes espa&ccedil;os do MST, nunca deixou de exercitar o seu carisma de educadora, contribuindo de maneira direta na educa&ccedil;&atilde;o de turmas multiseriadas e na&nbsp;alfabetiza&ccedil;&atilde;o de crian&ccedil;as, jovens e adultos nos acampamentos e assentamentos do MST.&nbsp;</div>
 
 <div><br />
 <br />
@@ -63,7 +63,7 @@ Participante ativa da luta pela terra no Sul do pa&iacute;s, Salete foi uma das 
 <div>
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="professora-em-assentamento-imbauzinho.jpg" height="418" src="//farm5.staticflickr.com/4885/31062165377_b55b1cc146_b.jpg" width="700" />
-<figcaption>Legenda</figcaption>
+<figcaption>Salete, como era conhecida por todos, iniciou a sua milit&acirc;ncia muito cedo e &eacute; lembrada pela coer&ecirc;ncia, sentimento de perten&ccedil;a, dedica&ccedil;&atilde;o e compromisso com as tarefas que lhe eram atribu&iacute;das</figcaption>
 </figure>
 </div>
 <br />
@@ -87,13 +87,15 @@ Numa entrevista concedida &agrave; Bernardo Man&ccedil;ano Fernandes, em 1997, q
 SALETE:&nbsp;Nesse per&iacute;odo, quando n&oacute;s fomos assentados, eu comecei a atuar como professora dentro do assentamento, ent&atilde;o no ano de 1987, dentro da Dire&ccedil;&atilde;o Estadual foi discutido que se precisava de umas pessoas pra discutir a situa&ccedil;&atilde;o da educa&ccedil;&atilde;o no Estado, come&ccedil;ar a fazer alguma coisa, que era uma discuss&atilde;o que vinha da Dire&ccedil;&atilde;o Nacional e justamente nesse ano teve o I Encontro Nacional de Educa&ccedil;&atilde;o do Movimento Sem Terra e daqui do Estado do Paran&aacute; fui eu e uma companheira aqui dessa regi&atilde;o que &eacute; a Iria, do assentamento Xag&uacute;, eu era professora em Ortigueira e ela daqui do Xag&uacute;, s&oacute; que naquele per&iacute;odo eu tinha quatro meses de sala de aula e tinha pouco tempo tamb&eacute;m de Movimento Sem Terra, a&iacute; n&oacute;s fomos para o Encontro Nacional e l&aacute; assim foi tudo muito dif&iacute;cil de entender que proposta que &eacute; que servimos, a &uacute;nica coisa que a gente tinha claro &eacute; que queria uma educa&ccedil;&atilde;o diferente, nova, melhor, n&atilde;o t&iacute;nhamos interesse em continuar com a educa&ccedil;&atilde;o que a gente tinha recebido e que a gente vinha desenvolvendo. Depois desse Encontro Nacional, n&oacute;s nos reunimos com algumas pessoas e fomos conversando assim de, enfim o que fazer, a&iacute; eu n&atilde;o lembro direito, mas se eu n&atilde;o me engano, no coletivo nacional do setor de educa&ccedil;&atilde;o foi discutido pra L&uacute;cia Cat&acirc;nio vir aqui para o Paran&aacute;. Em 1988 ent&atilde;o realizamos o I Encontro Estadual dos professores dos assentamentos que, n&atilde;o lembro exatamente quantas pessoas foram reunidas, mas foi mais ou menos uns 60 professores, foi trabalhada a quest&atilde;o de o que &eacute; educa&ccedil;&atilde;o popular, inclusive eu me lembro o nome da assessora S&iacute;lvia Fleck, e foram feitas algumas discuss&otilde;es de como organizar a educa&ccedil;&atilde;o no Estado e uma das defini&ccedil;&otilde;es seria continuar fazendo Encontros com os professores, Encontros Estaduais e se organizar a n&iacute;vel das regi&otilde;es, ent&atilde;o a partir da vinda da companheira L&uacute;cia come&ccedil;ou a se organizar equipes de educa&ccedil;&atilde;o nas regi&otilde;es e se constituiu o Coletivo Estadual, no qual eu fazia parte, eu continuava dando aulas no assentamento, nos finais de semana, nos feriados eu ia para os outros assentamentos conversar com os professores e fazia parte ent&atilde;o do Coletivo pela nossa regi&atilde;o [&hellip;].</div>
 
 <div><br />
-<br />
+<figure class="image" style="float:left"><img alt="iraci-salete-strozake-e-sua-filha-amanda-c3baltima-foto-tom-1.jpg" height="420" src="//farm5.staticflickr.com/4813/32130343658_37af526e1e_b.jpg" width="280" />
+<figcaption>Salete e sua filha</figcaption>
+</figure>
 <strong>BERNARDO:&nbsp;Agora uma outra quest&atilde;o, ent&atilde;o n&oacute;s temos uma s&eacute;rie de lutas conjuntas acontecendo paralelamente, simultaneamente, todas elas, ent&atilde;o &eacute; luta pela organiza&ccedil;&atilde;o do trabalho da produ&ccedil;&atilde;o, outra para educa&ccedil;&atilde;o, as ocupa&ccedil;&otilde;es, o Movimento vai crescendo nesse sentido. Agora, voc&ecirc; estava falando das escolas, em que sentido que o setor de educa&ccedil;&atilde;o conseguiu resultados positivos, desde a sua g&ecirc;nese e da sua origem aqui no Estado do Paran&aacute; at&eacute; hoje? Existem escolas de 5&ordf; a 8&ordf; s&eacute;rie nos assentamentos? Existem escolas de 2&ordm; grau ou n&atilde;o? Existem cursos de forma&ccedil;&atilde;o de professores? O setor est&aacute; bem articulado? Como &eacute; que aconteceu isso?</strong></div>
 
 <div><br />
 <br />
 <br />
-SALETE:&nbsp;Entre os principais resultados est&aacute; o acesso &agrave; educa&ccedil;&atilde;o, isso foi uma coisa assim que foi marcante, quase todos os assentamentos ou tem escola, s&oacute; que as escolas s&atilde;o de 1&ordf; a 4&ordf;, ou as crian&ccedil;as v&atilde;o estudar em escolas pr&oacute;ximas, ent&atilde;o nenhum assentamento, por menor que seja, ficou sem o acesso &agrave; educa&ccedil;&atilde;o ou quando o menor poss&iacute;vel foi levar as crian&ccedil;as para uma escola.</div>
+SALETE:&nbsp;Entre os principais resultados est&aacute; o acesso &agrave; educa&ccedil;&atilde;o,&nbsp;quase todos os assentamentos ou tem escola, s&oacute; que as escolas s&atilde;o de 1&ordf; a 4&ordf;, ou as crian&ccedil;as v&atilde;o estudar em escolas pr&oacute;ximas, ent&atilde;o nenhum assentamento, por menor que seja, ficou sem o acesso &agrave; educa&ccedil;&atilde;o ou quando o menor poss&iacute;vel foi levar as crian&ccedil;as para uma escola.</div>
 
 <div><br />
 <br />
