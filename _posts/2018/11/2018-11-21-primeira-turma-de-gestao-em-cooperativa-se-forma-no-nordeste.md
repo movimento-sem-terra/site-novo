@@ -3,7 +3,7 @@ date: "2018-11-21T18:08:40-02:00"
 tags:
   - tag: agroecologia-é-o-caminho
   - tag: paraíba
-title: Primeira turma de Gestão em Cooperativa se forma no nordeste
+title: Primeira turma de Gestão em Cooperativa se forma no Nordeste
 support_line: O curso contribui para o desenvolvimento sustentável nos assentamentos do MST
 menu: reforma agrária
 images_hd: //farm5.staticflickr.com/4806/32119106648_813cc91673_b.jpg
@@ -46,7 +46,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Na noite desta ter&ccedil;a-feira (20), o Centro de Forma&ccedil;&atilde;o do MST, Elizabeth e Jo&atilde;o Pedro Teixeira (CFEJPT), em Lagoa Seca, na Para&iacute;ba sediou a formatura de 28 alunos Sem Terra pelo Curso de Gest&atilde;o em Cooperativa (TGC). O curso &eacute; o primeiro da regi&atilde;o nordeste.</p>
+<p>Na noite desta ter&ccedil;a-feira (20), o Centro de Forma&ccedil;&atilde;o do MST, Elizabeth e Jo&atilde;o Pedro Teixeira (CFEJPT), em Lagoa Seca, na Para&iacute;ba sediou a formatura de 28 alunos Sem Terra pelo Curso de Gest&atilde;o em Cooperativa (TGC). O curso &eacute; o primeiro da regi&atilde;o Nordeste.</p>
 
 <p><br />
 Durante um ano e sete meses, estudantes assentados de todos os estados do nordeste participaram das sete etapas do curso, que aconteceu no Centro de Forma&ccedil;&atilde;o Teixeira.</p>
