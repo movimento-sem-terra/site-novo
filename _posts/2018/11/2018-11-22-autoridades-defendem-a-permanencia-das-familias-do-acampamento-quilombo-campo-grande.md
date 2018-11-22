@@ -52,10 +52,16 @@ releated_posts:
   - _posts/2018/11/2018-11-07-acampamento-gabriel-pimenta-tambem-pode-ser-despejado-em-minas-gerais.md
   - _posts/2018/11/2018-11-08-apos-20-anos-de-producao-juiz-manda-despejar-as-familias-do-acampamento-quilombo-campo-grande.md
   - _posts/2018/11/2018-11-03-familias-produtoras-do-cafe-guaii-sofrem-ameaca-de-despejo.md
+  - _posts/2018/09/2018-09-21-dilma-rousseff-visita-acampamentos-do-mst-na-regiao-metropolitana-de-belo-horizonte.md
+  - _posts/2018/10/2018-10-02-educacao-na-mira-do-golpe.md
+  - _posts/2018/10/2018-10-05-minas-maior-bancada-ruralista-do-congresso-tem-26-integrantes-tentando-reeleicao.md
+  - _posts/2018/10/2018-10-30-quilombo-campo-grande-sofre-ameacas-do-fascismo.md
+  - _posts/2018/11/2018-11-02-pedido-de-solidariedade-fascismo-mostra-as-garras-e-ameaca-despejo-de-450-familias.md
+  - _posts/2018/11/2018-11-08-justica-a-servico-de-quem.md
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Dowglas Silva (1).jpg" height="299" src="//farm5.staticflickr.com/4835/46004673671_d0b848dc1a_b.jpg" width="450" />
+<figure class="image" style="display:inline-block"><img alt="Dowglas Silva (1).jpg" height="466" src="//farm5.staticflickr.com/4835/46004673671_d0b848dc1a_b.jpg" width="700" />
 <figcaption><em>Foto: Dowglas Silva</em></figcaption>
 </figure>
 </div>
@@ -63,10 +69,10 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><i>Por Geanini Hackbardt<br />
-Da P&aacute;gina do MST*</i><br />
+Da P&aacute;gina do MST</i><br />
 &nbsp;</p>
 
-<p>A comiss&atilde;o de direitos humanos da ALMG recebeu nesta quinta-feira, 22|11, os acampados da usina falida Ariadn&oacute;polis, para uma audi&ecirc;ncia&nbsp;&agrave;&nbsp;pedido do Deputado Estadual Rog&eacute;rio Corr&ecirc;a (PT). Representantes do Minist&eacute;rio P&uacute;blico, do Tribunal de Justi&ccedil;a, da Mesa de Di&aacute;logo de Conflitos no Estado e da Procuradoria de Justi&ccedil;a participaram.<br />
+<p>A comiss&atilde;o de direitos humanos da ssemrecebeu nesta quinta-feira, 22|11, os acampados da usina falida Ariadn&oacute;polis, para uma audi&ecirc;ncia&nbsp;&agrave;&nbsp;pedido do Deputado Estadual Rog&eacute;rio Corr&ecirc;a (PT). Representantes do Minist&eacute;rio P&uacute;blico, do Tribunal de Justi&ccedil;a, da Mesa de Di&aacute;logo de Conflitos no Estado e da Procuradoria de Justi&ccedil;a participaram.<br />
 &nbsp;</p>
 
 <p>As fam&iacute;lias denunciam os interesses econ&ocirc;micos do bar&atilde;o do caf&eacute;, Jo&atilde;o Faria, que seria o financiador do conflito. De acordo com as informa&ccedil;&otilde;es do processo, a empresa Jodil, pertencente ao fazendeiro quer arrendar a terra para expandir seu cafezal, que faz divisa com a &aacute;rea do acampamento. Isso justificaria a liminar de despejo expedida pelo Juiz Zwicker Esbaille Junior no &uacute;ltimo dia 7 de novembro.<br />
@@ -80,7 +86,7 @@ Da P&aacute;gina do MST*</i><br />
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Foto Israel de Oliveira (24).jpg" height="185" src="//farm5.staticflickr.com/4829/46004706781_948f96e5dc_b.jpg" width="450" />
-<figcaption><i>Foto: Israel Oliveira</i></figcaption>
+<figcaption>Foto: Israel Oliveira</figcaption>
 </figure>
 </div>
 
