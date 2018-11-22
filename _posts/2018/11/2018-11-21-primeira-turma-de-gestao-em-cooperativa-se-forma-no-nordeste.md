@@ -1,8 +1,10 @@
 ---
 date: "2018-11-21T18:08:40-02:00"
-tags: []
+tags:
+  - tag: agroecologia-é-o-caminho
+  - tag: paraíba
 title: Primeira turma de Gestão em Cooperativa se forma no nordeste
-support_line: "O curso contribui para o desenvolvimento sustentável nos assentamentos do MST, fortalece as cooperativas já existentes e os conhecimentos sobre cooperativismo"
+support_line: O curso contribui para o desenvolvimento sustentável nos assentamentos do MST
 menu: reforma agrária
 images_hd: //farm5.staticflickr.com/4806/32119106648_813cc91673_b.jpg
 layout: post
@@ -23,19 +25,24 @@ files:
     $$hashKey: "033"
 created_date: "2018-11-21T18:24:22-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/06/2018-06-15-1o-encontro-territorial-de-agroecologia-acontece-no-extremo-sul-da-bahia.md
+  - _posts/2018/06/2018-06-22-a-cultura-popular-e-a-construcao-de-agroecologia-no-campo.md
+  - _posts/2018/08/2018-08-01-quanto-custa-comer-organicos-em-porto-alegre.md
+  - _posts/2018/09/2018-09-22-no-rio-candidatos-assinam-documento-e-se-comprometem-com-a-agroecologia.md
+  - _posts/2018/04/2018-04-02-lideranca-do-mst-e-principal-homenageada-em-premio-de-participacao-social-do-governo.md
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Formatura curso tecnico de gestão em cooperativa_CFEJPT_ PB_foto thais peregrino-15.jpg" height="425" src="//farm5.staticflickr.com/4876/32119121218_4e4bb802b1_b.jpg" width="700" />
-<figcaption>Cerim&ocirc;nia de formatura do Curso de Gest&atilde;o em Cooperativa, na Para&iacute;ba.</figcaption>
+<figcaption><em>Cerim&ocirc;nia de formatura do Curso de Gest&atilde;o em Cooperativa, na Para&iacute;ba.</em></figcaption>
 </figure>
 </div>
 
 <p>&nbsp;</p>
 
-<p><em>Por MST/Para&iacute;ba<br />
-Para P&aacute;gina do MST</em></p>
+<p><em>Por Thais Peregrino<br />
+Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
@@ -70,4 +77,4 @@ A cerim&ocirc;nia de formatura, foi um momento especial para o Centro de forma&c
 
 <p>&nbsp;</p>
 
-<p><em>*Editado por Solange Engelmann</em></p>
+<p><em>*Editado por Solange Engelmann.</em></p>
