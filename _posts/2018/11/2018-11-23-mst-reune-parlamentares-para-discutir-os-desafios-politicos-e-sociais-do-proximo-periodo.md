@@ -59,7 +59,7 @@ Da P&aacute;gina do MST </em></p>
 <p>Na manh&atilde; desta sexta-feira&nbsp;(23), dezenas de parlamentares&nbsp;se reuniram na Escola Nacional Florestan Fernandes (ENFF), em Guararema, regi&atilde;o metropolitana de S&atilde;o Paulo, para discutir&nbsp;a nova forma&ccedil;&atilde;o do Congresso Nacional e apontar&nbsp;os desafios do pr&oacute;ximo per&iacute;odo.</p>
 
 <p><br />
-Al&eacute;m de integrantes do MST, estiveram presentes lideran&ccedil;as e representantes do Partido dos Trabalhadores (PT), Partido Socialismo e Liberdade (PSOL) e do Partido Comunista do Brasil (PCdoB).&nbsp; Temas como a constru&ccedil;&atilde;o e fortalecimento de uma frente democr&aacute;tica, que paute a&nbsp;liberdade do ex-presidente Luiz In&aacute;cio Lula da Silva, a defesa dos movimentos populares e das intui&ccedil;&otilde;es de defesa da classe trabalhadora&nbsp;foram centrais.&nbsp;</p>
+Al&eacute;m de integrantes do MST, estiveram presentes lideran&ccedil;as e representantes do Partido dos Trabalhadores (PT), Partido Socialismo e Liberdade (PSOL) e do Partido Comunista do Brasil (PCdoB).&nbsp; Temas como a constru&ccedil;&atilde;o e fortalecimento de uma frente democr&aacute;tica, a&nbsp;liberdade do ex-presidente Luiz In&aacute;cio Lula da Silva,&nbsp;a defesa dos movimentos populares e das intui&ccedil;&otilde;es de defesa da classe trabalhadora&nbsp;foram centrais.&nbsp;</p>
 
 <p><br />
 &ldquo;&Eacute; imposs&iacute;vel existir igualdade em um pa&iacute;s em que seis pessoas det&ecirc;m o equivalente &agrave; riqueza de 100 milh&otilde;es de brasileiros&rdquo;, afirmou Jo&atilde;o Pedro Stedile da dire&ccedil;&atilde;o nacional do MST.&nbsp;</p>
