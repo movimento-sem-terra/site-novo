@@ -39,6 +39,7 @@ releated_posts:
   - _posts/2018/06/2018-06-07-a-17a-jornada-de-agroecologia-busca-integrar-o-campo-e-a-cidade.md
   - _posts/2018/07/2018-07-17-regiao-sul-realiza-curso-de-artes-e-cultura.md
   - _posts/2018/08/2018-08-01-familias-assentadas-denunciam-incendio-criminoso-no-parana.md
+section: featured-news
 
 ---
 <div style="text-align:center">
