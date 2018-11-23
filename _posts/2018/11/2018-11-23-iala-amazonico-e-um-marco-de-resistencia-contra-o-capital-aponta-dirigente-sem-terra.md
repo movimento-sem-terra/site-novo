@@ -5,7 +5,7 @@ tags:
   - tag: educação
   - tag: pará
 title: "Iala Amazônico é um marco de resistência contra o capital, aponta dirigente Sem Terra"
-support_line: "Em entrevista, Ayla Ferreira, do MST, diz que a escola se insere em várias lutas por meio da agroecologia"
+support_line: "Em entrevista, Ayala Ferreira, do MST, diz que a escola se insere em várias lutas por meio da agroecologia"
 images_hd: //farm5.staticflickr.com/4814/45293129334_c1e55af1d3_b.jpg
 menu: reforma agrária
 label: interviews
@@ -47,7 +47,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="45293241651_069c4de93e_b.jpg" height="467" src="//farm5.staticflickr.com/4814/45293129334_c1e55af1d3_b.jpg" width="700" />
-<figcaption><em>&quot;As nossas atividades formativas se materializaram no in&iacute;cio de 2011, atrav&eacute;s de parcerias&quot;, comenta Ayla. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+<figcaption><em>&quot;As nossas atividades formativas se materializaram no in&iacute;cio de 2011, atrav&eacute;s de parcerias&quot;, comenta Ayala. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 </div>
 
@@ -63,7 +63,7 @@ Da P&aacute;gina do MST</em></p>
 O Instituto est&aacute; localizado no Assentamentos Palmares 2, no munic&iacute;pio de Parauapebas- &agrave; 27 quil&ocirc;metros da cidade-, no estado do Par&aacute;.</p>
 
 <p><br />
-Al&eacute;m de atuar no fomento e consolida&ccedil;&atilde;o de conhecimentos, bem como na implanta&ccedil;&atilde;o de experi&ecirc;ncias tecnol&oacute;gicas para a consolida&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular e massifica&ccedil;&atilde;o da Agroecologia, Ayla aponta que a escola se insere em v&aacute;rios processos de luta e resist&ecirc;ncia dos povos amaz&ocirc;nicos.&nbsp;&nbsp;</p>
+Al&eacute;m de atuar no fomento e consolida&ccedil;&atilde;o de conhecimentos, bem como na implanta&ccedil;&atilde;o de experi&ecirc;ncias tecnol&oacute;gicas para a consolida&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular e massifica&ccedil;&atilde;o da Agroecologia, Ayala aponta que a escola se insere em v&aacute;rios processos de luta e resist&ecirc;ncia dos povos amaz&ocirc;nicos.&nbsp;&nbsp;</p>
 
 <p><br />
 &ldquo;Temos como alvo os territ&oacute;rios camponeses, os territ&oacute;rios de Reforma Agr&aacute;ria, como um espa&ccedil;o de forma&ccedil;&atilde;o, intera&ccedil;&atilde;o, de di&aacute;logo, mas tamb&eacute;m como um instrumento que dialoga com outras bandeiras constru&iacute;das pelos v&aacute;rios sujeitos que lutam e resistem nessa regi&atilde;o&rdquo;, explica.</p>
