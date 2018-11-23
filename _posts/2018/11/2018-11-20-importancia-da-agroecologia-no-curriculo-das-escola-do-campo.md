@@ -4,7 +4,7 @@ tags:
   - tag: agroecologia-é-o-caminho
   - tag: educacao
   - tag: bahia
-title: Importância da Agroecologia nas escolas do campo
+title: "Agroecologia nas escolas do campo: caminhos e metodologias"
 images_hd: //farm5.staticflickr.com/4817/45972209761_1f7be1b143_b.jpg
 support_line: "Escola Popular de Agroecologia e Agrofloresta Egídio Brunetto, na Bahia, lança caderno de Educação em Agroecologia para estimular uma nova forma de viver no campo e na cidade"
 menu: "educação, cultura e comunicação"
