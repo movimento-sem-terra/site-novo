@@ -19,8 +19,22 @@ files:
     small: //farm5.staticflickr.com/4814/45293129334_c1e55af1d3_n.jpg
     title: 45293241651_069c4de93e_b.jpg
     $$hashKey: "030"
+  - link: //farm5.staticflickr.com/4889/32147167438_5e72646841_b.jpg
+    original: //farm5.staticflickr.com/4889/32147167438_2d4a081a63_o.jpg
+    thumbnail: //farm5.staticflickr.com/4889/32147167438_5e72646841_t.jpg
+    medium: //farm5.staticflickr.com/4889/32147167438_5e72646841_z.jpg
+    small: //farm5.staticflickr.com/4889/32147167438_5e72646841_n.jpg
+    title: atividade durante cruso de agroecologia na escola.JPG
+    $$hashKey: 0B7
+  - link: //farm5.staticflickr.com/4856/31079105737_e204fcf2d6_b.jpg
+    original: //farm5.staticflickr.com/4856/31079105737_bb3a283597_o.jpg
+    thumbnail: //farm5.staticflickr.com/4856/31079105737_e204fcf2d6_t.jpg
+    medium: //farm5.staticflickr.com/4856/31079105737_e204fcf2d6_z.jpg
+    small: //farm5.staticflickr.com/4856/31079105737_e204fcf2d6_n.jpg
+    title: Capa.jpg
+    $$hashKey: 0BA
 created_date: "2018-11-23T17:11:51-02:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/04/2018-04-27-jornada-em-defesa-da-reforma-agraria-aproxima-campo-e-cidade-no-para.md
   - _posts/2018/11/2018-11-20-importancia-da-agroecologia-no-curriculo-das-escola-do-campo.md
@@ -31,10 +45,14 @@ releated_posts:
   - _posts/2018/09/2018-09-20-brigada-mineira-de-alfabetizacao-cumpre-1a-etapa.md
 
 ---
-<p><br />
-&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="45293241651_069c4de93e_b.jpg" height="467" src="//farm5.staticflickr.com/4814/45293129334_c1e55af1d3_b.jpg" width="700" />
+<figcaption><em>&quot;As nossas atividades formativas se materializaram no in&iacute;cio de 2011, atrav&eacute;s de parcerias&quot;, comenta Ayla. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+</figure>
+</div>
 
-<p><em>Por Solange Engelmann<br />
+<p><br />
+<em>Por Solange Engelmann<br />
 Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
@@ -49,6 +67,12 @@ Al&eacute;m de atuar no fomento e consolida&ccedil;&atilde;o de conhecimentos, b
 
 <p><br />
 &ldquo;Temos como alvo os territ&oacute;rios camponeses, os territ&oacute;rios de Reforma Agr&aacute;ria, como um espa&ccedil;o de forma&ccedil;&atilde;o, intera&ccedil;&atilde;o, de di&aacute;logo, mas tamb&eacute;m como um instrumento que dialoga com outras bandeiras constru&iacute;das pelos v&aacute;rios sujeitos que lutam e resistem nessa regi&atilde;o&rdquo;, explica.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="atividade durante cruso de agroecologia na escola.JPG" height="338" src="//farm5.staticflickr.com/4889/32147167438_5e72646841_b.jpg" width="600" />
+<figcaption><em>Hoje o Instituto oferece cursos de p&oacute;s-gradua&ccedil;&atilde;o em agroecologia. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+</figure>
+</div>
 
 <p><br />
 <em>Confira na &iacute;ntegra:</em></p>
@@ -82,6 +106,10 @@ Uma terceira dimens&atilde;o da nossa pr&aacute;tica concreta diz respeito &agra
 
 <p><br />
 <strong>Qual a proposta do Iala Amaz&ocirc;nico?</strong></p>
+
+<figure class="image" style="float:right"><img alt="Capa.jpg" height="590" src="//farm5.staticflickr.com/4856/31079105737_e204fcf2d6_b.jpg" width="300" />
+<figcaption><em>Cartaz de divulga&ccedil;&atilde;o.</em></figcaption>
+</figure>
 
 <p><br />
 A proposta pol&iacute;tica pedag&oacute;gica do Iala Amaz&ocirc;nico &eacute; problematizar a teoria num processo concreto da realidade territorial e de reprodu&ccedil;&atilde;o dos camponeses. Todas as nossas atividades formativas t&ecirc;m essa viv&ecirc;ncia concreta, na implementa&ccedil;&atilde;o de alguma pr&aacute;tica agroecol&oacute;gica em determinado territ&oacute;rio.&nbsp;</p>
