@@ -68,10 +68,9 @@ Al&eacute;m de integrantes do MST, estiveram presentes lideran&ccedil;as e repre
 Segundo sua an&aacute;lise o novo governo j&aacute; nasce da contradi&ccedil;&atilde;o. &ldquo;Um ministro da economia [Paulo Guedes],&nbsp;que&nbsp;quer privatizar as 149 estatais do pa&iacute;s, representa a entrega do capital brasileiro constru&iacute;do em d&eacute;cadas. Com toda essa privatiza&ccedil;&atilde;o o&nbsp;pa&iacute;s arrecadaria cerca de 150 bilh&otilde;es de reais, acontece que s&oacute; de juros da d&iacute;vida externa pagamos em 2017 o equivalente a 400 bilh&otilde;es&rdquo;, explicou.</p>
 
 <p><br />
-<br />
-Ao falar sobre o papel do povo na luta contra a retirada de direitos e o aumento da desigualdade no pa&iacute;s, Stedile citou a solidariedade como uma das principais ferramentas de luta e mobiliza&ccedil;&atilde;o.&nbsp;<br />
-<br />
-<br />
+Ao falar sobre o papel do povo na luta contra a retirada de direitos e o aumento da desigualdade no pa&iacute;s, Stedile citou a solidariedade como uma das principais ferramentas de luta e mobiliza&ccedil;&atilde;o.&nbsp;</p>
+
+<p><br />
 &ldquo;Precisamos da hegemonia da classe trabalhadora. A m&iacute;stica do povo &eacute; a solidariedade e isso ningu&eacute;m pode nos tirar. S&oacute; a solidariedade poder&aacute; resolver os problemas da nossa sociedade e construir novos paradigmas. Esse dever&aacute; ser tamb&eacute;m o papel da esquerda, construir uma nova estrat&eacute;gia de condu&ccedil;&atilde;o pol&iacute;tica e a via eleitoral j&aacute; n&atilde;o &eacute; suficiente para isso. A Frente Brasil Popular &eacute; prova disso e&nbsp;tem sido uma importante ferramenta de luta e aglutina&ccedil;&atilde;o&rdquo;.&nbsp;</p>
 
 <p><br />
