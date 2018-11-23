@@ -35,6 +35,7 @@ releated_posts:
   - _posts/2018/09/2018-09-25-alexandre-curto-dos-santos-durante-juri-popular-no-ano-passado-foto-catiana-de-medeiros.md
   - _posts/2018/09/2018-09-20-brigada-mineira-de-alfabetizacao-cumpre-1a-etapa.md
   - _posts/2018/09/2018-09-11-a-experiencia-de-uma-olimpiada-nacional-de-historia-foi-alimento-para-os-nossos-sonhos.md
+section: cover
 
 ---
 <p>&nbsp;</p>
