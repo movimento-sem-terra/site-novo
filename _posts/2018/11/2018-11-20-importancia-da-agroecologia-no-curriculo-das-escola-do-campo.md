@@ -46,6 +46,7 @@ releated_posts:
   - _posts/2018/08/2018-08-01-quanto-custa-comer-organicos-em-porto-alegre.md
   - _posts/2018/09/2018-09-22-no-rio-candidatos-assinam-documento-e-se-comprometem-com-a-agroecologia.md
   - _posts/2018/09/2018-09-11-a-experiencia-de-uma-olimpiada-nacional-de-historia-foi-alimento-para-os-nossos-sonhos.md
+section: featured-news
 
 ---
 <div style="text-align:center">
