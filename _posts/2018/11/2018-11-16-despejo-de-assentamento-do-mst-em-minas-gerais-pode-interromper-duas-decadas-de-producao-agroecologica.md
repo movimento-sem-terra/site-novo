@@ -47,7 +47,8 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por Bruno Stankevicius Bassi<br />
-De <a href="http://http://bit.ly/2Tc480I">olho nos ruralistas</a></em></p>
+De <a href="http://http://bit.ly/2Tc480I">olho nos ruralistas</a><br />
+Atualizado em 24/11/2018</em></p>
 
 <p><br />
 <br />
@@ -134,4 +135,17 @@ O imp&eacute;rio cafeeiro de Jo&atilde;o Faria &eacute; administrado de Campinas
 
 <p>&nbsp;</p>
 
-<p>De Olho nos Ruralistas procurou a assessoria da Jodil Agropecu&aacute;ria que, at&eacute; o momento do fechamento da reportagem, n&atilde;o encaminhou resposta sobre o despejo. O diretor da Companhia Agropecu&aacute;ria Irm&atilde;os Azevedo, Jovane de Souza Moreira, n&atilde;o foi localizado para dar entrevista.</p>
+<p>De Olho nos Ruralistas procurou a assessoria da Jodil Agropecu&aacute;ria que, at&eacute; o momento do fechamento da reportagem, n&atilde;o encaminhou resposta sobre o despejo. O diretor da Companhia Agropecu&aacute;ria Irm&atilde;os Azevedo, Jovane de Souza Moreira, n&atilde;o foi localizado para dar entrevista.<br />
+&nbsp;</p>
+
+<p><em>NOTA DA ASSESSORIA DE IMPRENSA DO DEPUTADO ARLINDO CHINAGLIA (PT-SP):</em><br />
+&nbsp;</p>
+
+<p><em>1) O Deputado Arlindo Chinaglia participa das lutas de emancipa&ccedil;&atilde;o do povo brasileiro desde 1970, e nesse momento expressa seu apoio ao assentamento do Movimento Sem Terra (MST) Quilombo Campo Grande, em Minas Gerais.&nbsp;</em><br />
+&nbsp;</p>
+
+<p><em>2) Ao mesmo tempo, registra surpresa com o desproporcional registro de doa&ccedil;&atilde;o legal para um &uacute;nico candidato em 2014 sem fazer refer&ecirc;ncia a doa&ccedil;&otilde;es eleitorais do mesmo grupo econ&ocirc;mico que aconteceram, podendo fazer crer em v&iacute;nculos pol&iacute;ticos que n&atilde;o existem.</em><br />
+&nbsp;</p>
+
+<p><em>Bras&iacute;lia , 23 de novembro de 2018<br />
+Assessoria de Imprensa do Mandato do deputado Arlindo Chinaglia</em></p>
