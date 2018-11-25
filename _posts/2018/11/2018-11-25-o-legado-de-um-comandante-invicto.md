@@ -69,8 +69,9 @@ releated_posts: []
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="FB_IMG_1511658621249.jpg" height="466" src="//farm5.staticflickr.com/4827/46043129851_6a314209a3_b.jpg" width="500" />
-<figcaption>H&aacute; dois anos perdemos a presen&ccedil;a f&iacute;sica do comandante Fidel Castro.</figcaption>
+<figure class="image" style="display:inline-block"><img alt="FB_IMG_1511658621249.jpg" height="372" src="//farm5.staticflickr.com/4827/46043129851_6a314209a3_b.jpg" width="400" />
+<figcaption>H&aacute; dois anos perdemos a presen&ccedil;a f&iacute;sica do comandante Fidel Castro.<br />
+Foto: Divulga&ccedil;&atilde;o</figcaption>
 </figure>
 </div>
 
@@ -120,6 +121,14 @@ Neste sentido, recordamos Fidel como:<br />
 <br />
 <strong>Soldado das ideias&nbsp;</strong></p>
 
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="FB_IMG_1503296408886.jpg" height="295" src="//farm5.staticflickr.com/4881/32172256968_57f83bac32_b.jpg" width="400" />
+<figcaption></figcaption>
+</figure>
+</div>
+
 <p><br />
 Fidel foi um grande defensor da batalha das ideias, no momento mais dif&iacute;cil da Revolu&ccedil;&atilde;o Cubana. No chamado per&iacute;odo especial, lan&ccedil;ou o desafio da luta ideol&oacute;gica como forma de enfrentar o imperialismo.</p>
 
@@ -135,8 +144,13 @@ Fidel foi capaz de elaborar um pensamento cr&iacute;tico que transformou Cuba nu
 <p><br />
 <strong>Comandante das massas</strong></p>
 
-<p><img alt="FB_IMG_1480158390889.jpg" src="//farm5.staticflickr.com/4838/45318621074_8775e8343a_b.jpg" /><br />
-<br />
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="FB_IMG_1480158390889.jpg" height="273" src="//farm5.staticflickr.com/4838/45318621074_8775e8343a_b.jpg" width="400" />
+<figcaption></figcaption>
+</figure>
+
+<p><br />
 Fidel Castro sempre teve um v&iacute;nculo indissol&uacute;vel com as massas. Foi um educador com brilhante orat&oacute;ria e enorme capacidade de dialogar com os setores populares. Entregou-se sem limites &agrave; causa da Revolu&ccedil;&atilde;o.</p>
 
 <p><br />
@@ -154,6 +168,10 @@ Mas n&atilde;o foi somente Cuba que chorou sua partida, n&oacute;s tamb&eacute;m
 <p><br />
 <strong>Estrategista radical&nbsp;</strong></p>
 
+<figure class="image" style="float:right"><img alt="FB_IMG_1480158545629.jpg" height="225" src="//farm5.staticflickr.com/4854/32172733998_2f2d951421_b.jpg" width="400" />
+<figcaption></figcaption>
+</figure>
+
 <p><br />
 Desde o assalto ao quartel Moncada, Fidel Castro demonstrou ter a convic&ccedil;&atilde;o de que a luta para derrotar o inimigo tinha que ser longa e radical. A tomada do poder era um requisito indispens&aacute;vel para a transforma&ccedil;&atilde;o de Cuba, ele se propunha ir ao &ldquo;assalto aos c&eacute;us&rdquo; a partir do mundo colonizado chamado Am&eacute;rica Latina, como nos disse Fernando Mart&iacute;nez Heredia.&nbsp;</p>
 
@@ -169,6 +187,14 @@ Fidel dirigiu a Revolu&ccedil;&atilde;o Cubana durante mais de 50 anos, sempre c
 <p>&nbsp;</p>
 
 <p><strong>Anti-imperialista convicto</strong></p>
+
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="FB_IMG_1480158314372.jpg" height="266" src="//farm5.staticflickr.com/4816/45318630184_b39f7dba14_b.jpg" width="400" />
+<figcaption>Com o presidente da Venezuela Hugo Ch&aacute;vez e da Bol&iacute;via Evo Morales.</figcaption>
+</figure>
+</div>
 
 <p><br />
 Fidel sempre soube que o maior inimigo de Cuba era o imperialismo. Ainda na Sierra Maestra, em 6 de junho de 1958, escreveu a Celia S&aacute;nchez uma carta onde expressava que seu verdadeiro destino seria a luta contra o imperialismo.&nbsp; E assim, a bandeira anti-imperialista tem sido uma constante na pol&iacute;tica revolucion&aacute;ria cubana.</p>
@@ -188,6 +214,14 @@ Este maestro ensinou que &eacute; imprescind&iacute;vel o anti-imperialismo como
 <p>&nbsp;</p>
 
 <p><strong>Internacionalista&nbsp;</strong></p>
+
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="B-NSFmoIEAAnZks.jpg" height="284" src="//farm5.staticflickr.com/4830/32173087048_54b31fb349_b.jpg" width="400" />
+<figcaption>Com o l&iacute;der Sul-africano Nelson Mandela</figcaption>
+</figure>
+</div>
 
 <p><br />
 com o mesmo espirito em que Fidel se tornou anti-imperialista&nbsp; convicto, tamb&eacute;m se tornou um impulsionador e dirigente internacionalista, afinal, para combater o capitalismo na sua forma&nbsp; imperialista, &eacute; preciso travar uma luta de car&aacute;ter internacional.</p>
@@ -215,3 +249,9 @@ Estes internacionalistas, m&eacute;dicos extraordin&aacute;rios, agora retornam 
 
 <p><br />
 Homenagear Fidel &eacute; reivindic&aacute;-lo enquanto autoridade moral na luta pelo socialismo!</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Solange Engelmann</em></p>
