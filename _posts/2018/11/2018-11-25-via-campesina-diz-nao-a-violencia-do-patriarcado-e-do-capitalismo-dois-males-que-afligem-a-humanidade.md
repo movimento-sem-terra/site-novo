@@ -39,6 +39,8 @@ releated_posts: []
 </figure>
 </div>
 
+<p>&nbsp;</p>
+
 <p><em>Por Via Campesina<br />
 Nota &agrave; imprensa</em></p>
 
