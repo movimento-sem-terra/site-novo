@@ -58,7 +58,7 @@ Acreditamos ser urgente organizar lutas coletivas e articuladas para denunciar e
 As nossas propostas e ferramentas pela transforma&ccedil;&atilde;o vem do campo, onde n&oacute;s mulheres possu&iacute;mos fortes ra&iacute;zes, na terra cultivada com agroecologia y na busca pela soberania alimentar. Bem como na luta coletiva pela constru&ccedil;&atilde;o de igualdade em nossos espa&ccedil;os e atua&ccedil;&atilde;o e estudo, com as mulheres participando nas lutas, como nas marchas. E na necessidade de construirmos uma nova mulher e um novo homem, com novas rela&ccedil;&otilde;es de g&ecirc;nero para cultivarmos uma nova sociedade.&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="afiche-es-web-finañ-189x300.png" height="317" src="//farm5.staticflickr.com/4814/45322706594_d99caae89a_b.jpg" width="200" />
-<figcaption>Cartaz campanha da Via Campesina</figcaption>
+<figcaption>Cartaz da campanha.</figcaption>
 </figure>
 
 <p><br />
