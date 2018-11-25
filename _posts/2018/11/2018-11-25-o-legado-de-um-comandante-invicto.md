@@ -133,7 +133,7 @@ Fidel foi capaz de elaborar um pensamento cr&iacute;tico que transformou Cuba nu
 <p>&nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="FB_IMG_1480158390889.jpg" height="273" src="//farm5.staticflickr.com/4838/45318621074_8775e8343a_b.jpg" width="400" />
+<figure class="image" style="display:inline-block"><img alt="FB_IMG_1480158390889.jpg" height="341" src="//farm5.staticflickr.com/4838/45318621074_8775e8343a_b.jpg" width="500" />
 <figcaption></figcaption>
 </figure>
 </div>
@@ -218,6 +218,8 @@ Estes internacionalistas, m&eacute;dicos extraordin&aacute;rios, agora retornam 
 
 <p><br />
 Homenagear Fidel &eacute; reivindic&aacute;-lo enquanto autoridade moral na luta pelo socialismo!</p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
