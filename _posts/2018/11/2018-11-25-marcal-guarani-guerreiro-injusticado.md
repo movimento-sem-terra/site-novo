@@ -4,23 +4,23 @@ tags: []
 title: "Marçal Guarani: guerreiro injustiçado"
 support_line: "Devido à luta pela demarcação das terras Guarani-nhadeva, Marçal Tupã-y foi assassinado a tiros em 25 de novembro de 1983"
 menu: direitos humanos
-images_hd: //farm5.staticflickr.com/4803/45134026215_e1b724e9fb_b.jpg
+images_hd: //farm5.staticflickr.com/4851/46047318951_954d0f9741_b.jpg
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4835/44229934840_23c756160f_b.jpg
-    original: //farm5.staticflickr.com/4835/44229934840_34aae2fa20_o.jpg
-    thumbnail: //farm5.staticflickr.com/4835/44229934840_23c756160f_t.jpg
-    medium: //farm5.staticflickr.com/4835/44229934840_23c756160f_z.jpg
-    small: //farm5.staticflickr.com/4835/44229934840_23c756160f_n.jpg
-    title: WhatsApp Image 2018-11-21 at 11.28.23.jpeg
-    $$hashKey: 0QP
-  - link: //farm5.staticflickr.com/4803/45134026215_e1b724e9fb_b.jpg
-    original: //farm5.staticflickr.com/4803/45134026215_e700d834d0_o.jpg
-    thumbnail: //farm5.staticflickr.com/4803/45134026215_e1b724e9fb_t.jpg
-    medium: //farm5.staticflickr.com/4803/45134026215_e1b724e9fb_z.jpg
-    small: //farm5.staticflickr.com/4803/45134026215_e1b724e9fb_n.jpg
-    title: ultimo indio.jpg
-    $$hashKey: 0QS
+  - link: //farm5.staticflickr.com/4901/44231240400_b896576c2d_b.jpg
+    original: //farm5.staticflickr.com/4901/44231240400_08ffb086e6_o.jpg
+    thumbnail: //farm5.staticflickr.com/4901/44231240400_b896576c2d_t.jpg
+    medium: //farm5.staticflickr.com/4901/44231240400_b896576c2d_z.jpg
+    small: //farm5.staticflickr.com/4901/44231240400_b896576c2d_n.jpg
+    title: WhatsApp Image 2018-11-25 at 17.03.55.jpeg
+    $$hashKey: 1M3
+  - link: //farm5.staticflickr.com/4851/46047318951_954d0f9741_b.jpg
+    original: //farm5.staticflickr.com/4851/46047318951_abbb01ab42_o.jpg
+    thumbnail: //farm5.staticflickr.com/4851/46047318951_954d0f9741_t.jpg
+    medium: //farm5.staticflickr.com/4851/46047318951_954d0f9741_z.jpg
+    small: //farm5.staticflickr.com/4851/46047318951_954d0f9741_n.jpg
+    title: marcal.jpg
+    $$hashKey: 1M6
 created_date: "2018-11-25T15:47:26-02:00"
 published: true
 releated_posts: []
@@ -28,12 +28,15 @@ releated_posts: []
 ---
 <div>
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-11-21 at 11.28.23.jpeg" height="600" src="//farm5.staticflickr.com/4835/44229934840_23c756160f_b.jpg" width="600" />
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-11-25 at 17.03.55.jpeg" height="500" src="//farm5.staticflickr.com/4901/44231240400_b896576c2d_b.jpg" width="500" />
 <figcaption></figcaption>
 </figure>
 </div>
-<br />
-&nbsp;</div>
+</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
 
 <div><em>Por Rafael Soriano</em></div>
 
