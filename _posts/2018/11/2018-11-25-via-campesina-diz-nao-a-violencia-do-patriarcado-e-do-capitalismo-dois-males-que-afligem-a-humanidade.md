@@ -2,7 +2,7 @@
 date: "2018-11-25T17:21:19-02:00"
 tags: []
 title: "Via Campesina diz não a violência do patriarcado e do capitalismo, dois males que afligem a humanidade"
-support_line: "Hoje dia 25 de novembro, dia internacional de combate da violência contra a mulher os movimentos da Via Campesina se comprometem a combater a violência e seguir na luta por igualdade"
+support_line: "Hoje dia 25 de novembro, dia internacional de combate da violência contra a mulher, as campesinas e campesinos se comprometem a combater a violência e seguir na luta por igualdade"
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4898/45997243362_3768789196_b.jpg
 layout: post
