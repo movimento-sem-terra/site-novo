@@ -35,8 +35,6 @@ releated_posts: []
 <br />
 &nbsp;</div>
 
-<div>&nbsp;</div>
-
 <div><em>Por Rafael Soriano</em></div>
 
 <div><em>Para P&aacute;gina do MST</em><br />
