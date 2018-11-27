@@ -96,6 +96,8 @@ releated_posts: []
 
 <div>Os agrot&oacute;xicos geram intoxica&ccedil;&otilde;es ao corpo humano, de curto, m&eacute;dio e longo prazo, as de m&eacute;dio e logo prazo s&atilde;o as mais dif&iacute;ceis de detectar, pois os sintomas s&atilde;o mais vagos e de longa dura&ccedil;&atilde;o, afetam todos os sistemas do organismo, podendo provocar diversos tipos de c&acirc;ncer. E o mais assustador &eacute; que j&aacute; s&atilde;o encontrados no leite materno, segundo pesquisas recentes!</div>
 
+<div>&nbsp;</div>
+
 <div>&nbsp;
 <figure class="image" style="float:left"><img alt="images (6).jpg" height="266" src="//farm5.staticflickr.com/4916/46028339112_fa792beba6_b.jpg" width="400" />
 <figcaption></figcaption>
@@ -121,8 +123,8 @@ releated_posts: []
 <div>&nbsp;</div>
 
 <div>
-<figure class="image" style="float:right"><img alt="download.jpg" height="301" src="//farm5.staticflickr.com/4819/32206890208_88beb58eba_b.jpg" width="400" />
-<figcaption>horta mandala agroecol&oacute;gica.</figcaption>
+<figure class="image" style="float:right"><img alt="download.jpg" height="226" src="//farm5.staticflickr.com/4819/32206890208_88beb58eba_b.jpg" width="300" />
+<figcaption>Horta mandala agroecol&oacute;gica.</figcaption>
 </figure>
 </div>
 
