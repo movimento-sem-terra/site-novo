@@ -99,7 +99,7 @@ releated_posts: []
 <div>&nbsp;</div>
 
 <div>&nbsp;
-<figure class="image" style="float:left"><img alt="images (6).jpg" height="266" src="//farm5.staticflickr.com/4916/46028339112_fa792beba6_b.jpg" width="400" />
+<figure class="image" style="float:left"><img alt="images (6).jpg" height="200" src="//farm5.staticflickr.com/4916/46028339112_fa792beba6_b.jpg" width="300" />
 <figcaption></figcaption>
 </figure>
 </div>
