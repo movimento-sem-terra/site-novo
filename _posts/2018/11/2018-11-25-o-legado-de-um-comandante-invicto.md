@@ -82,7 +82,7 @@ Para P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Neste 25 de novembro completam-se dois anos da partida f&iacute;sica do comandante Fidel Castro. Prestarmos nossa homenagem a este que foi sem d&uacute;vida, o maior dirigente revolucion&aacute;rio nessa quadra hist&oacute;rica em que vivemos.</p>
+<p>Neste 25 de novembro completam-se dois anos da partida f&iacute;sica do comandante Fidel Castro. Prestamos nossa homenagem a este que foi sem d&uacute;vida, o maior dirigente revolucion&aacute;rio nessa quadra hist&oacute;rica em que vivemos.</p>
 
 <p><br />
 Fidel Castro Ruz nasceu em 13 de agosto de 1926, no pequeno povoado de Bir&aacute;n, regi&atilde;o oriental de Cuba. Seu pai havia sido recruta do ex&eacute;rcito espanhol na luta contra a independ&ecirc;ncia de Cuba e depois retornou para instalar seu neg&oacute;cio e fazer sua vida na ilha, sua m&atilde;e era filha de camponeses pobres de Pinar del R&iacute;o, regi&atilde;o ocidental de Cuba. Don Angel Castro e Dona Lina Ruz se casaram em 1922 e tiveram 7 sete filhos, entre eles</p>
@@ -98,7 +98,7 @@ Ap&oacute;s o golpe de mar&ccedil;o de 1952, que levou ao governo o ditador Fulg
 O radicalismo do assalto ao quartel Moncada, em 26 de julho de 1953, evidencia o jovem Fidel determinado a organizar uma luta valente e audaciosa para libertar Cuba da tirania.</p>
 
 <p><br />
-Al&eacute;m de denunciar os crimes cometidos contra os assaltantes do quartel de Moncada, ele apresentou um consistente programa pol&iacute;tico do que viria a ser a Revolu&ccedil;&atilde;o Cubana. Fidel anunciou na &eacute;poca, &ldquo;condenem-me, n&atilde;o importa. A hist&oacute;ria me absolver&aacute;&rdquo;.</p>
+Al&eacute;m de denunciar os crimes cometidos contra os assaltantes do quartel Moncada, ele apresentou um consistente programa pol&iacute;tico do que viria a ser a Revolu&ccedil;&atilde;o Cubana. Fidel anunciou na &eacute;poca, &ldquo;condenem-me, n&atilde;o importa. A hist&oacute;ria me absolver&aacute;&rdquo;.</p>
 
 <p><br />
 Ap&oacute;s o fracasso do assalto ao quartel Moncada, Fidel cumpriu quase dois anos de reclus&atilde;o, etapa onde pode amadurecer com uma firmeza inabal&aacute;vel os prop&oacute;sitos da Revolu&ccedil;&atilde;o. Saiu da pris&atilde;o com a miss&atilde;o de fundar um movimento para dar continuidade ao processo revolucion&aacute;rio em Cuba, afirmando que a liberdade nada mais era do que o dever de seguir lutando. Assim, no dia 12 de junho de 1955, fundou o Movimento 26 de Julho, com a participa&ccedil;&atilde;o de Ayd&eacute;e Santamar&iacute;a, &Ntilde;ico L&oacute;pez e outros revolucion&aacute;rios cubanos.</p>
@@ -107,10 +107,10 @@ Ap&oacute;s o fracasso do assalto ao quartel Moncada, Fidel cumpriu quase dois a
 Logo parte para o ex&iacute;lio no M&eacute;xico e ali come&ccedil;a a organizar um grupo de combatentes que voltariam &agrave; Cuba para implementar a luta guerrilheira. No M&eacute;xico Fidel Castro conheceu Che Guevara e, desde ent&atilde;o, tornaram-se amigos com profundo afeto entre si e compromisso com a transforma&ccedil;&atilde;o social.</p>
 
 <p><br />
-Aos 30 anos de idade, Fidel Castro parte para Cuba, em um iate com 82 expedicion&aacute;rios a bordo, e desencadeiam a luta revolucionaria na Sierra Maestra, em dezembro de 1956. Surge assim, ao Ex&eacute;rcito Rebelde que triunfa em pouco mais de dois anos, em janeiro de 1959.</p>
+Aos 30 anos de idade, Fidel Castro parte para Cuba, em um iate com 82 expedicion&aacute;rios a bordo, que desencadeiam a luta revolucionaria na Sierra Maestra, em dezembro de 1956. Surge assim, o Ex&eacute;rcito Rebelde que triunfa em pouco mais de dois anos, em janeiro de 1959.</p>
 
 <p><br />
-Fidel Castro foi uma lideran&ccedil;a que deixou a sua marca na hist&oacute;ria. Ferrenho defensor da bandeira anti-imperialista, como l&iacute;der comunista jogou um papel fundamental e influente nos assuntos globais. Seu legado deve emanar na rebeldia, principalmente da juventude, do nosso tempo hist&oacute;rico em que vivemos a reascens&atilde;o conservadora sob forte amea&ccedil;a de uma nova forma fascista, com o aprofundamento da viol&ecirc;ncia, perda da soberania e uma crescente pauperiza&ccedil;&atilde;o da classe trabalhadora.</p>
+Fidel Castro foi uma lideran&ccedil;a que deixou a sua marca na hist&oacute;ria. Ferrenho defensor da bandeira anti-imperialista, como l&iacute;der comunista jogou um papel fundamental e influente nos assuntos globais. Seu legado deve emanar na rebeldia, principalmente da juventude, em um per&iacute;odo que vivemos a reascens&atilde;o conservadora sob forte amea&ccedil;a de uma nova forma fascista, com o aprofundamento da viol&ecirc;ncia, perda da soberania e a crescente pauperiza&ccedil;&atilde;o da classe trabalhadora.</p>
 
 <p><br />
 Neste sentido, recordamos Fidel como:</p>
@@ -125,7 +125,7 @@ Fidel foi um grande defensor da batalha das ideias, no momento mais dif&iacute;c
 Para os tempos atuais, &eacute; fundamental pensar na batalha ideol&oacute;gica como forma de enfrentar o rebaixamento da luta pol&iacute;tica que a direita ultraconservadora est&aacute; tentando nos impor. &Eacute; necess&aacute;rio que os instrumentos da classe trabalhadora, como partidos, sindicatos e movimentos sociais, tenham em conta a disputa pelo conte&uacute;do ideol&oacute;gico na luta de classes em seus programas para o pr&oacute;ximo per&iacute;odo.</p>
 
 <p><br />
-Fidel foi capaz de elaborar um pensamento cr&iacute;tico que transformou Cuba numa sociedade altiva e disposta a levar adiante a constru&ccedil;&atilde;o de uma nova de sociabilidade. O sil&ecirc;ncio que reinava em meio a uma multid&atilde;o durante as longas horas de discursos na Pra&ccedil;a da Revolu&ccedil;&atilde;o era uma prova do seu papel como educador do povo.&nbsp;</p>
+Fidel foi capaz de elaborar um pensamento cr&iacute;tico que transformou Cuba numa sociedade altiva e disposta a levar adiante a constru&ccedil;&atilde;o de uma nova sociabilidade. O sil&ecirc;ncio que reinava em meio a uma multid&atilde;o durante as longas horas de discursos na Pra&ccedil;a da Revolu&ccedil;&atilde;o era uma prova do seu papel como educador do povo.&nbsp;</p>
 
 <p><br />
 <strong>Comandante das massas</strong></p>
@@ -163,7 +163,7 @@ Desde o assalto ao quartel Moncada, Fidel Castro demonstrou ter a convic&ccedil;
 Depois veio o desembarque do iate Granma, surpreendido pelas for&ccedil;as do ex&eacute;rcito que quase acabou com a epopeia dos jovens revolucion&aacute;rios, e, logo, Sierra Maestra, onde provou sua capacidade como estrategista no Ex&eacute;rcito Rebelde. Cada combate, cada vit&oacute;ria assegurava que o caminho elegido levaria mais cedo ou mais tarde ao triunfo revolucion&aacute;rio.</p>
 
 <p><br />
-N&atilde;o foram dias f&aacute;ceis para o Movimento 26 de julho, os meses de guerrilha na Sierra Maestra, somada &agrave; luta clandestina de milhares de oper&aacute;rios, campesinos estudantes na cidade, tornou poss&iacute;vel a vit&oacute;ria estrat&eacute;gica. E ap&oacute;s, cinco anos e cinco meses, do Moncada, num 1&deg; de janeiro de 1959, o Ex&eacute;rcito Rebelde triunfou em Cuba. A luta estava s&oacute; come&ccedil;ando...</p>
+N&atilde;o foram dias f&aacute;ceis para o Movimento 26 de julho, os meses de guerrilha na Sierra Maestra, somada &agrave; luta clandestina de milhares de oper&aacute;rios, campesinos e estudantes na cidade, tornou poss&iacute;vel a vit&oacute;ria estrat&eacute;gica. E ap&oacute;s, cinco anos e cinco meses e cinco dias, do Moncada, num 1&deg; de janeiro de 1959, o Ex&eacute;rcito Rebelde triunfou em Cuba. A luta estava s&oacute; come&ccedil;ando...</p>
 
 <p><br />
 Fidel dirigiu a Revolu&ccedil;&atilde;o Cubana durante mais de 50 anos, sempre com a capacidade de olhar para frente, saber escutar e conversar. A revolu&ccedil;&atilde;o foi sem d&uacute;vida uma obra coletiva, mas sem a dire&ccedil;&atilde;o de Fidel e seus companheiros possivelmente n&atilde;o teria chegado aonde chegou. I&ccedil;ar a Revolu&ccedil;&atilde;o Cubana como parte fundamental do movimento revolucion&aacute;rio mundial foi um dos seus maiores m&eacute;ritos.&nbsp;</p>
@@ -205,7 +205,7 @@ A Revolu&ccedil;&atilde;o Cubana foi fundamental para a derrota do regime racist
 Para Fidel Castro, &ldquo;solidariedade n&atilde;o &eacute; dar o que nos sobra e sim o que nos faz falta&rdquo;, dessa maneira, o abnegado povo cubano apresentou ao mundo as qualidades humanas forjadas pela Revolu&ccedil;&atilde;o.&nbsp;Desde combatentes, m&eacute;dicos, professores, t&eacute;cnicos e muitas outras profiss&otilde;es, com Fidel sempre &agrave; frente, Cuba&nbsp;provou&nbsp;que era poss&iacute;vel combater o criminal bloqueio econ&ocirc;mico imposto pelos EUA e multiplicar-se de maneira fraterna e solid&aacute;ria no mundo, levando apoio e solidariedade aos povos mais necessitados.</p>
 
 <p><br />
-Cuba tamb&eacute;m abriu as portas para milhares de estudantes do mundo inteiro sem cobrar-lhes um centavo, a maioria proveniente dos pa&iacute;ses mais pobres. Hoje continuam enviando com m&eacute;dicos e profissionais da sa&uacute;de para prestar servi&ccedil;os em diferentes partes do mundo.</p>
+Cuba tamb&eacute;m abriu as portas para milhares de estudantes do mundo inteiro sem cobrar-lhes um centavo, a maioria proveniente dos pa&iacute;ses mais pobres. Hoje continuam enviando m&eacute;dicos e profissionais da sa&uacute;de para prestar servi&ccedil;os em diferentes partes do mundo.</p>
 
 <p><br />
 Certamente, Fidel estaria de bra&ccedil;os abertos para receber seu ex&eacute;rcito de batas brancas, que cumpriram seu mais nobre dever de salvar vidas aqui no Brasil, no Programa Mais M&eacute;dicos, e os chamaria novamente de &ldquo;verdadeiro guardi&atilde;o da sa&uacute;de e da vida, prestes a marchar para qualquer pa&iacute;s onde seja necess&aacute;rio, e convencido de que um mundo melhor &eacute; poss&iacute;vel&rdquo;.</p>
