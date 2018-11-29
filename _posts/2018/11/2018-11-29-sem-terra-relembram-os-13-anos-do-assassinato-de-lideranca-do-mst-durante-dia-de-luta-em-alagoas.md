@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: justiça
   - tag: direitos-humanos
-title: "Sem Terra relembram os 13 anos do assassinato de liderança do MST durante dia de luta em Alagoas\n\n"
+title: Sem Terra relembram os 13 anos do assassinato de liderança do MST durante dia de luta em Alagoas
 images_hd: //farm5.staticflickr.com/4914/44285608480_6f07481a6f_b.jpg
 support_line: "O ato político em memória do legado de Jaelson e em denúncia da violência e da impunidade no campo aconteceu no centro de Atalaia "
 menu: lutas e mobilizações
@@ -33,8 +33,16 @@ releated_posts:
   - _posts/2018/11/2018-11-09-organizacoes-denunciam-intimidacoes-durante-visita-da-cidh-em-santarem-pa.md
   - _posts/2018/11/2018-11-09-comissao-interamericana-de-direitos-humanos-inicia-visitas-a-estados-brasileiros.md
   - _posts/2018/11/2018-11-03-familias-produtoras-do-cafe-guaii-sofrem-ameaca-de-despejo.md
+section: cover
+sector: mass-front
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="29 de novembro.jpg" height="466" src="//farm5.staticflickr.com/4914/44285608480_6f07481a6f_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
 <p dir="ltr">&nbsp;</p>
 
 <p dir="ltr"><em>Por Gustavo Marinho&nbsp;<br />
