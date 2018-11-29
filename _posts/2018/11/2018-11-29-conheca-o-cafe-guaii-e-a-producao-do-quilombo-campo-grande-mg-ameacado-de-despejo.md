@@ -19,7 +19,7 @@ files:
     title: frtg.jpg
     $$hashKey: 0RO
 created_date: "2018-11-29T12:02:43-02:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/11/2018-11-14-mst-repudia-despejo-de-mais-de-200-familias-no-maranhao.md
   - _posts/2018/05/2018-05-02-mst-repudia-ofensiva-do-judiciario-contra-a-luta-pela-terra-no-rj.md
@@ -33,25 +33,15 @@ releated_posts:
 ---
 <header style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline;">
 <figure itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject" style="box-sizing: border-box; margin: 0px auto 20px; padding: 0px; border-width: 0px; border-style: initial; border-color: initial; font: inherit; vertical-align: baseline; display: block; max-width: 690px;">
-<div class="img-container" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; max-height: 500px; overflow: hidden;">
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Cerca de 450 famílias ocupam o terreno em Campo do Meio (MG) - Créditos: Foto: Divulgação " height="467" itemprop="url" src="https://farm5.staticflickr.com/4805/31060869267_ba4db6a642_z.jpg" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; height: inherit; width: 690px;" width="700" />
-<figcaption></figcaption>
-</figure>
-</div>
-</div>
+<div class="img-container" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; max-height: 500px; overflow: hidden;">&nbsp;</div>
 
 <figcaption itemprop="caption" style="box-sizing: border-box; margin: 10px 0px 0px; padding: 0px; border: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 1rem; line-height: normal; font-family: Merriweather, &quot;Times New Roman&quot;; vertical-align: baseline; color: rgb(102, 102, 102); text-align: right;">
-<p>&nbsp;</p>
+<p style="text-align: left;">&ldquo;Um grande diferencial &eacute; que nosso caf&eacute; &eacute; um roduto puro. N&atilde;o existe mistura no nosso caf&eacute;. N&oacute;s realizamos o processo de classifica&ccedil;&atilde;o do nosso caf&eacute;, separamos por lote, por qualidade do nosso produto. N&atilde;o existe mistura: &eacute; um caf&eacute; 100% ar&aacute;bico sem nenhum produto que venha descaracterizar seu sabor original&rdquo;, conta Roberto Carlos do Nascimento, um dos centenas de moradores do acampamento&nbsp;<a href="https://www.brasildefato.com.br/2018/11/06/acampadas-ha-duas-decadas-familias-produtoras-do-cafe-guaii-sofrem-ameaca-de-despejo/">Quilombo Campo Grande, que re&uacute;ne 450 fam&iacute;lias sem-terra no munic&iacute;pio de Campo do Meio, localizado no sul de Minas Gerais.</a></p>
 </figcaption>
 </figure>
 </header>
 
 <div itemprop="articleBody">
-<p dir="ltr">&nbsp;</p>
-
-<p dir="ltr">&ldquo;Um grande diferencial &eacute; que nosso caf&eacute; &eacute; um produto puro. N&atilde;o existe mistura no nosso caf&eacute;. N&oacute;s realizamos o processo de classifica&ccedil;&atilde;o do nosso caf&eacute;, separamos por lote, por qualidade do nosso produto. N&atilde;o existe mistura: &eacute; um caf&eacute; 100% ar&aacute;bico sem nenhum produto que venha descaracterizar seu sabor original&rdquo;, conta Roberto Carlos do Nascimento, um dos centenas de moradores do acampamento&nbsp;<a href="https://www.brasildefato.com.br/2018/11/06/acampadas-ha-duas-decadas-familias-produtoras-do-cafe-guaii-sofrem-ameaca-de-despejo/">Quilombo Campo Grande, que re&uacute;ne 450 fam&iacute;lias sem-terra no munic&iacute;pio de Campo do Meio, localizado no sul de Minas Gerais.</a></p>
-
 <p dir="ltr"><br />
 A regi&atilde;o, conhecida por ser a maior produtora de caf&eacute; do Brasil, &eacute; ber&ccedil;o do&nbsp;<a href="https://www.brasildefato.com.br/2018/02/23/cafe-agroecologico-guaii-transforma-a-vida-de-assentados-no-sul-de-minas-gerais/">caf&eacute; org&acirc;nico e agroecol&oacute;gico Guai&iacute;</a>, fruto do trabalho das fam&iacute;lias que ocupam o terreno desde 1998. Roberto Carlos &eacute; diretor da Cooperativa Camponesa, que assina a marca do&nbsp;<a href="http://www.guaii.com.br/produtos/cafe/" rel="external" target="_blank">caf&eacute; Guai&iacute;</a>, e, com muito orgulho, relata que h&aacute; oito anos os agricultores passaram a fazer a transi&ccedil;&atilde;o para produtos sem insumos qu&iacute;micos, livres de agrot&oacute;xicos e sementes transg&ecirc;nicas.</p>
 
