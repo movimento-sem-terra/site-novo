@@ -1,6 +1,8 @@
 ---
 date: "2018-11-25T12:19:30-02:00"
-tags: []
+tags:
+  - tag: "#Revolução-Cubana"
+  - tag: "#Internacionalismo-#FidelCastro"
 title: O legado de um comandante invicto
 support_line: "Fidel estaria de braços abertos para receber seu exército de batas brancas, que cumpriram seu mais nobre dever de salvar vidas aqui no Brasil, no Programa Mais Médicos"
 menu: lutas e mobilizações
