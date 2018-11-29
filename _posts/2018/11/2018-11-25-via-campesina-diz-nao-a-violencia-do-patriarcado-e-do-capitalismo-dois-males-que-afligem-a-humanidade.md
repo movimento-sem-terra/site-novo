@@ -1,6 +1,8 @@
 ---
 date: "2018-11-25T17:21:19-02:00"
-tags: []
+tags:
+  - tag: mulheres
+  - tag: lutas-e-mobilizações
 title: "Via Campesina diz não a violência do patriarcado e do capitalismo, dois males que afligem a humanidade"
 support_line: "Hoje dia 25 de novembro, dia internacional de combate da violência contra as mulheres, as campesinas e campesinos se comprometem a combater a violência e seguir na luta por igualdade"
 menu: lutas e mobilizações
@@ -30,7 +32,18 @@ files:
     $$hashKey: 0CR
 created_date: "2018-11-25T17:26:13-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/05/2018-05-19-mulheres-do-mst-resistem-contra-o-despejo-em-macae-rj.md
+  - _posts/2018/03/2018-03-12-mulheres-sem-terra-ocupam-base-da-petrobras-em-sao-sebastiao-do-passe-ba.md
+  - _posts/2018/03/2018-03-20-mulheres-ocupam-nestle-contra-a-privatizacao-das-aguas.md
+  - _posts/2018/03/2018-03-20-em-defesa-da-agua-mulheres-sem-terra-ocupam-a-chesf-e-usina-de-xingo-na-regiao-nordeste.md
+  - _posts/2018/03/2018-03-20-carta-de-sao-lourenco-fora-nestle-a-agua-e-nossa.md
+  - _posts/2018/09/2018-09-20-em-minas-gerais-mulheres-realizam-manifestacao-cultural-contra-o-fascismo.md
+  - _posts/2018/09/2018-09-18-e-a-nossa-coragem-e-ousadia-que-construirao-um-mundo-onde-todas-nos-possamos-viver.md
+  - _posts/2018/09/2018-09-28-mulheres-unidas-contra-bolsonaro-lancam-manifesto-sobre-as-mobilizacoes-deste-sabado-29.md
+  - _posts/2018/09/2018-09-28-mulheres-lgbts-e-juventude-do-mst-se-juntam-a-mobilizacao-elenao.md
+  - _posts/2018/09/2018-09-28-e-pela-vida-das-mulheres-descriminalizacao-do-aborto-e-uma-bandeira-de-luta-de-todas.md
+  - _posts/2018/11/2018-11-01-lei-que-pode-tachar-movimentos-como-terroristas-retorna-ao-debate.md
 
 ---
 <div style="text-align:center">
