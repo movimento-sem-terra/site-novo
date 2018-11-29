@@ -1,8 +1,8 @@
 ---
 date: "2018-11-25T12:19:30-02:00"
 tags:
-  - tag: "#Revolução-Cubana"
-  - tag: "#Internacionalismo-#FidelCastro"
+  - tag: internacionalismo
+  - tag: cuba
 title: O legado de um comandante invicto
 support_line: "Fidel estaria de braços abertos para receber seu exército de batas brancas, que cumpriram seu mais nobre dever de salvar vidas aqui no Brasil, no Programa Mais Médicos"
 menu: lutas e mobilizações
@@ -67,20 +67,27 @@ files:
     $$hashKey: 03G
 created_date: "2018-11-25T13:35:48-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/07/2018-07-18-resistencia-unidade-e-dialogo-tres-chaves-para-o-24o-encontro-do-forum-de-sao-paulo.md
+  - _posts/2018/07/2018-07-18-foro-de-sao-paulo-tem-espaco-inedito-para-escuta-de-redes-e-movimentos-populares.md
+  - _posts/2018/07/2018-07-26-cuba-comemora-65-anos-do-26-de-julho-o-dia-da-rebeldia-nacional.md
+  - _posts/2018/06/2018-06-21-o-que-a-eleicao-do-ivan-duque-na-colombia-significa-para-a-america-latina-e-o-caribe.md
+  - _posts/2018/06/2018-06-21-novo-presidente-e-entrada-na-otan-consolidam-interesses-dos-eua-na-colombia.md
+  - _posts/2018/07/2018-07-05-mst-repudia-ordem-de-prisao-ao-ex-presidente-do-equador-rafael-correa.md
+  - _posts/2018/07/2018-07-15-em-ato-que-antecedeu-o-foro-de-sao-paulo-militantes-pedem-a-liberdade-de-lula.md
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="FB_IMG_1480157202866.jpg" height="400" src="//farm5.staticflickr.com/4854/31104153967_5dc6cbece9_b.jpg" width="400" />
-<figcaption>H&aacute; dois anos perdemos a presen&ccedil;a f&iacute;sica do comandante Fidel.<br />
-Foto: Divulga&ccedil;&atilde;o</figcaption>
+<figcaption><em>H&aacute; dois anos perdemos a presen&ccedil;a f&iacute;sica do comandante Fidel.<br />
+Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 </div>
 
 <p>&nbsp;</p>
 
 <p><em>Por Judite Santos<br />
-Para P&aacute;gina do MST</em></p>
+Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
@@ -225,6 +232,6 @@ Homenagear Fidel &eacute; reivindic&aacute;-lo enquanto autoridade moral na luta
 
 <p>&nbsp;</p>
 
-<p><em>*Editado por Solange Engelmann</em></p>
+<p><em>*Editado por Solange Engelmann.</em></p>
 
 <p>&nbsp;</p>
