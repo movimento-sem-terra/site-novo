@@ -1,6 +1,8 @@
 ---
 date: "2018-11-27T16:55:08-02:00"
-tags: []
+tags:
+  - tag: agroecologia-é-o-caminho
+  - tag: bahia
 title: O quintal de Gilberto e a Agroecologia na saúde das camponesas e camponeses
 support_line: "Com a Agroecologia podemos fazer com que a “nossa comida seja nosso remédio, que nossa cozinha seja nossa farmácia e nossa casa seja nosso hospital!”"
 menu: reforma agrária
@@ -37,7 +39,13 @@ files:
     $$hashKey: 02Y
 created_date: "2018-11-27T17:44:05-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/06/2018-06-15-1o-encontro-territorial-de-agroecologia-acontece-no-extremo-sul-da-bahia.md
+  - _posts/2018/11/2018-11-20-importancia-da-agroecologia-no-curriculo-das-escola-do-campo.md
+  - _posts/2018/06/2018-06-22-a-cultura-popular-e-a-construcao-de-agroecologia-no-campo.md
+  - _posts/2018/08/2018-08-01-quanto-custa-comer-organicos-em-porto-alegre.md
+  - _posts/2018/09/2018-09-22-no-rio-candidatos-assinam-documento-e-se-comprometem-com-a-agroecologia.md
+  - _posts/2018/06/2018-06-15-artistas-do-interior-e-da-capital-baiana-animam-as-noites-da-4o-feira-estadual-da-reforma-agraria.md
 
 ---
 <div>&nbsp;</div>
@@ -45,15 +53,15 @@ releated_posts: []
 <div>
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="43816030000_840097f3af_b.jpg" height="360" src="//farm5.staticflickr.com/4874/45166476705_e2f9c43a27_b.jpg" width="600" />
-<figcaption>O alimento que cura e gera sa&uacute;de!</figcaption>
+<figcaption><em>O alimento que cura e gera sa&uacute;de!</em></figcaption>
 </figure>
 </div>
 <br />
 &nbsp;</div>
 
-<div><em>Por Danilo Ara&uacute;jo</em></div>
+<div><em>Por Danilo Ara&uacute;jo*</em></div>
 
-<div><em>Para P&aacute;gina do MST</em><br />
+<div><em>Da P&aacute;gina do MST</em><br />
 &nbsp;</div>
 
 <div>&nbsp;</div>
@@ -124,7 +132,7 @@ releated_posts: []
 
 <div>
 <figure class="image" style="float:right"><img alt="download.jpg" height="226" src="//farm5.staticflickr.com/4819/32206890208_88beb58eba_b.jpg" width="300" />
-<figcaption>Horta mandala agroecol&oacute;gica.</figcaption>
+<figcaption><em>Horta mandala agroecol&oacute;gica.</em></figcaption>
 </figure>
 </div>
 
@@ -154,6 +162,6 @@ releated_posts: []
 
 <div>&nbsp;</div>
 
-<div>&nbsp;</div>
+<div><em>*Danilo Ara&uacute;jo &eacute; militante Sem Terra,&nbsp;m&eacute;dico popular e integra o coletivo de Sa&uacute;de do MST no estado da Bahia.</em></div>
 
-<div><em>*Editado por Solange Engelmann</em></div>
+<div><em>**Editado por Solange Engelmann.</em></div>
