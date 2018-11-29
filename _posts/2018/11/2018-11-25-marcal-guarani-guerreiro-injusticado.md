@@ -1,6 +1,8 @@
 ---
 date: "2018-11-25T15:43:03-02:00"
-tags: []
+tags:
+  - tag: indigenas
+  - tag: lutas-e-mobilizações
 title: "Marçal Guarani: guerreiro injustiçado"
 support_line: "Devido à luta pela demarcação das terras Guarani-nhadeva, Marçal Tupã-y foi assassinado a tiros em 25 de novembro de 1983"
 menu: direitos humanos
@@ -23,7 +25,12 @@ files:
     $$hashKey: 1M6
 created_date: "2018-11-25T15:47:26-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/04/2018-04-11-cimi-regional-sul-divulga-nota-sobre-o-contexto-da-politica-indigenista-no-brasil.md
+  - _posts/2018/04/2018-04-08-policia-ira-despejar-acampamentos-guarani-e-kaiowa-nesta-segunda-em-caarapo-ms.md
+  - _posts/2018/04/2018-04-19-eu-vim-a-onu-pedir-ajuda-para-que-nao-ocorra-um-massacre-contra-o-meu-povo.md
+  - _posts/2018/04/2018-04-25-acampamento-terra-livre-reune-tres-mil-indigenas-em-brasilia.md
+  - _posts/2018/04/2018-04-25-participacao-na-politica-e-luta-pela-terra-mulheres-indigenas-abrem-atl-2018.md
 
 ---
 <div>
