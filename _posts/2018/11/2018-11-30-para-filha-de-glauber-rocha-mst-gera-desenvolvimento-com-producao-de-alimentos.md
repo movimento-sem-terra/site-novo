@@ -36,10 +36,7 @@ A filosofa, cineasta e produtora independente, de 58 anos, Paloma Rocha, filha d
 
 <p><br />
 A cineasta avalia que a quest&atilde;o da Reforma Agr&aacute;ria &eacute; um problema antigo na sociedade brasileira e fundamental para evoluirmos a uma sociedade desenvolvida. Na sua vis&atilde;o, o fato do MST ocupar latif&uacute;ndios improdutivos e transform&aacute;-los em terras que produzem alimentos e respeitam o meio ambiente, torna os assentamentos<br />
-&ldquo;uma por&ccedil;&atilde;o expressiva que o desenvolvimento do pa&iacute;s carece: o combate &agrave; fome.</p>
-
-<p><br />
-Meu contato com o MST durante as filmagens deixou claro que se trata de uma organiza&ccedil;&atilde;o social com valores humanos que precisam ser resgatados na nossa sociedade&rdquo;, argumenta.</p>
+&ldquo;uma por&ccedil;&atilde;o expressiva que o desenvolvimento do pa&iacute;s carece: o combate &agrave; fome. Meu contato com o MST durante as filmagens deixou claro que se trata de uma organiza&ccedil;&atilde;o social com valores humanos que precisam ser resgatados na nossa sociedade&rdquo;, argumenta.</p>
 
 <p><br />
 Veja entrevista na &iacute;ntegra:</p>
@@ -60,7 +57,9 @@ Estamos dirigindo um filme que aborda quest&otilde;es pol&iacute;ticas atuais e 
 <p><br />
 <strong>Qual a import&acirc;ncia em abordar a luta do MST pela Reforma Agr&aacute;ria no cinema?</strong><br />
 <br />
-A quest&atilde;o da Reforma Agr&aacute;ria &eacute; antiga e fundamental para a uma sociedade desenvolvida. O MST, na medida que torna terras improdutivas em terras que produzem alimentos e respeitam o meio ambiente, protagoniza uma por&ccedil;&atilde;o expressiva que o desenvolvimento do pa&iacute;s carece: o combate &agrave; fome. Meu contato com o MST durante as filmagens deixou claro que se trata de uma organiza&ccedil;&atilde;o social com valores humanos que precisam ser resgatados na nossa sociedade.</p>
+A quest&atilde;o da Reforma Agr&aacute;ria &eacute; antiga e fundamental para uma sociedade desenvolvida. O MST, na medida que torna terras improdutivas em terras que produzem alimentos e respeitam o meio ambiente, protagoniza uma por&ccedil;&atilde;o expressiva que o desenvolvimento do pa&iacute;s carece: o combate &agrave; fome. Meu contato com o MST durante as filmagens deixou claro que se trata de uma organiza&ccedil;&atilde;o social com valores humanos que precisam ser resgatados na nossa sociedade.</p>
+
+<p>&nbsp;</p>
 
 <p><strong>Qual o papel do cinema hoje, em um momento de avan&ccedil;o do conservadorismo com a elei&ccedil;&atilde;o de Bolsonaro no Brasil?</strong></p>
 
@@ -73,17 +72,16 @@ E como sempre resistiremos!</p>
 <strong>Quem foi Glauber Rocha?</strong></p>
 
 <p><br />
-O baiano, nascido em Vit&oacute;ria da Conquista na Bahia, Glauber de Andrade Rocha (1939-1981) foi cineasta, ator e escritor brasileiro. Se tornou uma refer&ecirc;ncia do movimento Cinema Novo, que surge no Brasil entre 1960<br />
-e 1970, incorporando &agrave; cr&iacute;tica da realidade social ao cinema e a busca pela igualdade social.</p>
+O baiano, nascido em Vit&oacute;ria da Conquista na Bahia, Glauber de Andrade Rocha (1939-1981) foi cineasta, ator e escritor brasileiro. Se tornou refer&ecirc;ncia do movimento Cinema Novo, que surge no Brasil entre 1960 e 1970, incorporando &agrave; cr&iacute;tica da realidade social ao cinema e a busca pela igualdade social.</p>
 
 <p><br />
-Com o princ&iacute;pio de uma c&acirc;mera na m&atilde;o e uma ideia na cabe&ccedil;a, Glauber cria uma identidade nova no cinema brasileiro e produz filmes de grande repercuss&atilde;o. Se tornando reconhecido com o filme Terra em Transe (1967), ao conquistar o Pr&ecirc;mio da Cr&iacute;tica do&nbsp; Festival de Cannes , o Pr&ecirc;mio&nbsp; Luis Bu&ntilde;uel&nbsp; na&nbsp; Espanha , o Pr&ecirc;mio de Melhor Filme do&nbsp; Locarno International Film Festival , e o&nbsp; Golfinho de Ouro&nbsp; de melhor filme do ano, no&nbsp; Rio de Janeiro.</p>
+Com o princ&iacute;pio de uma c&acirc;mera na m&atilde;o e uma ideia na cabe&ccedil;a, Glauber cria uma identidade nova no cinema brasileiro e produz filmes de grande repercuss&atilde;o. Se tornou reconhecido com o filme <em>Terra em Transe</em> (1967), ao conquistar o Pr&ecirc;mio da Cr&iacute;tica do&nbsp; Festival de Cannes, o Pr&ecirc;mio&nbsp; Luis Bu&ntilde;uel&nbsp; na&nbsp; Espanha, o Pr&ecirc;mio de Melhor Filme do&nbsp; Locarno International Film Festival e o&nbsp; Golfinho de Ouro&nbsp; de melhor filme do ano, no&nbsp; Rio de Janeiro.</p>
 
 <p><br />
-Outros filmes importantes e premiados do autor s&atilde;o seu primeiro longa-metragem Barravento (1961), premiado na Checoslov&aacute;quia. Com Deus e o Diabo na Terra do Sol&nbsp; (1963), recebeu o pr&ecirc;mio do Festival de Cinema Livre, de Porretta, na It&aacute;lia e ganhou a Palma de Ouro, do Festival de Cannes. E O Drag&atilde;o da Maldade contra o Santo Guerreiro&nbsp; ( 1969 ), tamb&eacute;m indicado para Palma de Ouro. Nos filmes Glauber alia a cr&iacute;tica social do momento pol&iacute;tico vivido pela ditadura militar &agrave; forma das filmagens, rompendo com o estilo hollywoodiano, importado dos Estados Unidos.</p>
+Outros filmes importantes e premiados do autor s&atilde;o seu primeiro longa-metragem <em>Barravento</em> (1961), premiado na Checoslov&aacute;quia. Com <em>Deus e o Diabo na Terra do Sol</em>&nbsp; (1963), recebeu o pr&ecirc;mio do Festival de Cinema Livre, de Porretta, na It&aacute;lia e ganhou a Palma de Ouro, do Festival de Cannes. E <em>O Drag&atilde;o da Maldade contra o Santo Guerreiro&nbsp;</em>(1969), tamb&eacute;m indicado para Palma de Ouro. Nos filmes Glauber alia a cr&iacute;tica social do momento pol&iacute;tico vivido pela ditadura militar &agrave;s formas de&nbsp;filmagens, rompendo com o estilo hollywoodiano, importado dos Estados Unidos.</p>
 
 <p>&nbsp;</p>
 
-<p><strong>Assista abaixo o filme Terra em Transe completo:</strong><br />
+<p><strong>Assista abaixo o filme <em>Terra em Transe</em> completo:</strong><br />
 <br />
 <iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/zYQecb9C0g4" width="640"></iframe>.</p>
