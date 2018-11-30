@@ -4,7 +4,7 @@ tags:
   - tag: syngenta
   - tag: lutas-e-mobilizações
   - tag: justiça
-title: "Tribunal de Justiça do Paraná condena Syngenta pelo assassinato de Keno\n"
+title: "Tribunal de Justiça do Paraná condena Syngenta pelo assassinato de dirigente do MST \n"
 support_line: "Empresa transnacional já havia sido responsabilizada pela morte de Valmir Mota de Oliveira, o Keno, em 2015\n\n"
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4864/45392286144_b3c4cbf7b3_b.jpg
