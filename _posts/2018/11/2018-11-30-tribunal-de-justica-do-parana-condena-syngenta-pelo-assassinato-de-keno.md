@@ -46,7 +46,11 @@ releated_posts:
 <div dir="ltr">
 <div dir="ltr">
 <div>
-<p style="text-align:center"><img alt="Arquivo MST (2).jpeg" src="//farm5.staticflickr.com/4896/46066687932_6cd7705356_b.jpg" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Arquivo MST (2).jpeg" src="//farm5.staticflickr.com/4896/46066687932_6cd7705356_b.jpg" />
+<figcaption>Foto: Arquivo MST/PR</figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
