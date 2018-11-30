@@ -4,7 +4,7 @@ tags:
   - tag: palestina
   - tag: internacionalismo
   - tag: solidariedade-internacional
-title: "O MST e a causa palestina: uma homenagem em comemoração ao Dia Internacional de Solidariedade ao Povo Palestino"
+title: O MST e a causa palestina
 support_line: "Em 29 de novembro de 1947 a ONU foi artíficie e cúmplice de uma ilegalidade de graves consequências quando o chanceler brasileiro Osvaldo Aranha coordenou a votação do chamado Plano de Partilha da Palestina. "
 menu: solidariedade
 section: featured-news
