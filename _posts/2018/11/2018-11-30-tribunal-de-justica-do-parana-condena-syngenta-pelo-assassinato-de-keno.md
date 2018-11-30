@@ -17,6 +17,20 @@ files:
     small: //farm5.staticflickr.com/4864/45392286144_b3c4cbf7b3_n.jpg
     title: Screenshot_1.png
     $$hashKey: "030"
+  - link: //farm5.staticflickr.com/4810/32245286398_092b37936e_b.jpg
+    original: //farm5.staticflickr.com/4810/32245286398_d9d4b9376e_o.jpg
+    thumbnail: //farm5.staticflickr.com/4810/32245286398_092b37936e_t.jpg
+    medium: //farm5.staticflickr.com/4810/32245286398_092b37936e_z.jpg
+    small: //farm5.staticflickr.com/4810/32245286398_092b37936e_n.jpg
+    title: Card (1).jpg
+    $$hashKey: 0OH
+  - link: //farm5.staticflickr.com/4896/46066687932_6cd7705356_b.jpg
+    original: //farm5.staticflickr.com/4896/46066687932_3634c8a8cf_o.jpg
+    thumbnail: //farm5.staticflickr.com/4896/46066687932_6cd7705356_t.jpg
+    medium: //farm5.staticflickr.com/4896/46066687932_6cd7705356_z.jpg
+    small: //farm5.staticflickr.com/4896/46066687932_6cd7705356_n.jpg
+    title: Arquivo MST (2).jpeg
+    $$hashKey: 0OK
 created_date: "2018-11-30T11:55:32-02:00"
 published: true
 releated_posts:
@@ -32,6 +46,8 @@ releated_posts:
 <div dir="ltr">
 <div dir="ltr">
 <div>
+<p style="text-align:center"><img alt="Arquivo MST (2).jpeg" src="//farm5.staticflickr.com/4896/46066687932_6cd7705356_b.jpg" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Por Ednubia Ghisi e Franciele Petry<br />
@@ -42,15 +58,16 @@ Da P&aacute;gina do MST</em></p>
 <p dir="ltr">A empresa su&iacute;&ccedil;a transnacional Syngenta S.A foi condenada pelo Tribunal de Justi&ccedil;a do Paran&aacute;, na tarde desta quinta-feira (29), pelo assassinato do agricultor sem-terra Valmir Mota de Oliveira, conhecido como Keno, e pela tentativa de assassinato da agricultora Isabel Nascimento de Souza. A decis&atilde;o dos desembargadores da 9&ordf; C&acirc;mara do Tribunal de Justi&ccedil;a do Paran&aacute; confirmou a senten&ccedil;a de primeira inst&acirc;ncia, tomada em 2015, quando a 1&ordf; Vara C&iacute;vel da Comarca de Cascavel determinou que a empresa tem responsabilidade pelo assassinato, e deveria indenizar a fam&iacute;lia das v&iacute;timas pelos danos morais e materiais.</p>
 
 <p dir="ltr"><br />
-Keno, que integrava o &nbsp;Movimento dos Trabalhadores Rurais Sem Terra (MST), foi assassinado com um tiro no dia 21 de outubro de 2007, quando tinha 34 anos. Deixou a esposa &Iacute;ris Maraca&iacute;pe Oliveira e tr&ecirc;s filhos: Juan, Keno Jr e Carlos Eduardo. &ldquo;A justi&ccedil;a foi feita. Hoje a Syngenta &eacute; culpada. Eu estou muito emocionada [...]&rdquo;, disse a vi&uacute;va do agricultor, ao saber da condena&ccedil;&atilde;o em segunda inst&acirc;ncia. &ldquo;Eu s&oacute; tenho a agradecer a Deus, por que eu nunca perdi as esperan&ccedil;as de que a Syngenta seria condenada um dia por essa trag&eacute;dia. Eu preferia mil vezes ele aqui comigo do que longe, mas eu tenho certeza de que, onde ele estiver, ele est&aacute; feliz agora&rdquo;, completou &Iacute;ris.<br />
-<br />
-<br />
-O assassinato ocorreu em um campo de experimentos ilegais de transg&ecirc;nicos Syngenta, cidade de Santa Tereza do Oeste, oeste do Paran&aacute;, no entorno do Parque Nacional do Igua&ccedil;u. A &aacute;rea estava ocupada por cerca de 150 integrantes da Via Campesina - articula&ccedil;&atilde;o de movimentos sociais do campo, entre eles o MST -, que denunciava a ilegalidade das pesquisas realizados pela transnacional, gigante no setor de transg&ecirc;nicos e agrot&oacute;xicos.<br />
-<br />
-<br />
-Os militante foram atacados a tiros por cerca de 40 agentes da NF Seguran&ccedil;a, uma empresa privada contratada pela Syngenta. Al&eacute;m do assassinato de Keno, Isabel tamb&eacute;m foi baleada e perdeu a vis&atilde;o do olho direito. Ela foi posta de joelhos para ser executada, mas, no momento da a&ccedil;&atilde;o, ergueu a cabe&ccedil;a e foi atingida na altura do olho. Outros tr&ecirc;s agricultores ficaram feridos.<br />
-<br />
-<strong>Responsabiliza&ccedil;&atilde;o</strong></p>
+Keno, que integrava o &nbsp;Movimento dos Trabalhadores Rurais Sem Terra (MST), foi assassinado com um tiro no dia 21 de outubro de 2007, quando tinha 34 anos. Deixou a esposa &Iacute;ris Maraca&iacute;pe Oliveira e tr&ecirc;s filhos: Juan, Keno Jr e Carlos Eduardo. &ldquo;A justi&ccedil;a foi feita. Hoje a Syngenta &eacute; culpada. Eu estou muito emocionada [...]&rdquo;, disse a vi&uacute;va do agricultor, ao saber da condena&ccedil;&atilde;o em segunda inst&acirc;ncia. &ldquo;Eu s&oacute; tenho a agradecer a Deus, por que eu nunca perdi as esperan&ccedil;as de que a Syngenta seria condenada um dia por essa trag&eacute;dia. Eu preferia mil vezes ele aqui comigo do que longe, mas eu tenho certeza de que, onde ele estiver, ele est&aacute; feliz agora&rdquo;, completou &Iacute;ris.</p>
+
+<p dir="ltr"><br />
+O assassinato ocorreu em um campo de experimentos ilegais de transg&ecirc;nicos Syngenta, cidade de Santa Tereza do Oeste, oeste do Paran&aacute;, no entorno do Parque Nacional do Igua&ccedil;u. A &aacute;rea estava ocupada por cerca de 150 integrantes da Via Campesina - articula&ccedil;&atilde;o de movimentos sociais do campo, entre eles o MST -, que denunciava a ilegalidade das pesquisas realizados pela transnacional, gigante no setor de transg&ecirc;nicos e agrot&oacute;xicos.</p>
+
+<p dir="ltr"><br />
+Os militante foram atacados a tiros por cerca de 40 agentes da NF Seguran&ccedil;a, uma empresa privada contratada pela Syngenta. Al&eacute;m do assassinato de Keno, Isabel tamb&eacute;m foi baleada e perdeu a vis&atilde;o do olho direito. Ela foi posta de joelhos para ser executada, mas, no momento da a&ccedil;&atilde;o, ergueu a cabe&ccedil;a e foi atingida na altura do olho. Outros tr&ecirc;s agricultores ficaram feridos.</p>
+
+<p dir="ltr"><br />
+<strong>Respo​nsabiliza&ccedil;&atilde;o</strong></p>
 
 <p dir="ltr"><br />
 A decis&atilde;o do TJ ocorreu a partir do julgamento do recurso movido pela empresa que questionava a decis&atilde;o de primeira inst&acirc;ncia. O relator do processo, o Desembargador Jos&eacute; Augusto Aniceto, descartou a ilegitimidade passiva da Syngenta, uma vez que havia um contrato formal entre ela e a empresa de seguran&ccedil;a privada que atacou o movimento social. &ldquo;Os patr&otilde;es s&atilde;o respons&aacute;veis pelo ato de seus empregados&rdquo;, apontou.</p>
@@ -77,9 +94,9 @@ O caso ganhou ampla repercuss&atilde;o nacional e internacional. Em 2008, integr
 Advogado que acompanhou o julgamento, Manoel Caetano Ferreira Filho avalia que a decis&atilde;o do TJ foi uma grande vit&oacute;ria para os movimentos sociais, pois reconhece a responsabilidade da Syngenta. &ldquo;Acho Importante que, sendo a empresa do porte que &eacute;, tenha prevalecido no tribunal o julgamento favor&aacute;vel &agrave;s partes mais fracas, que foram v&iacute;timas da viol&ecirc;ncia&rdquo;, destaca.</p>
 
 <p dir="ltr"><br />
-Para Celso Ribeiro Barbosa, integrante da coordena&ccedil;&atilde;o estadual do MST e da Via Campesina, a decis&atilde;o &eacute; important&iacute;ssima por comprovar o uso de mil&iacute;cia armada por parte da Syngenta. &ldquo;Sabemos que n&atilde;o vai trazer o companheiro de volta, mas acho que vai reparar algum dano com rela&ccedil;&atilde;o &agrave; fam&iacute;lia dele [Keno] e para a Isabel, que foram os mais afetados. Por isso n&oacute;s ficamos muito contentes, &eacute; uma vit&oacute;ria para a classe. D&aacute; mais &acirc;nimo pra gente continuar a fazer a luta&rdquo;, diz o militante, morador do assentamento Sep&eacute; Tiaraju, em Santa Tereza do Oeste, que participava da ocupa&ccedil;&atilde;o e presenciou o ataque da mil&iacute;cia.<br />
-<br />
-<br />
+Para Celso Ribeiro Barbosa, integrante da coordena&ccedil;&atilde;o estadual do MST e da Via Campesina, a decis&atilde;o &eacute; important&iacute;ssima por comprovar o uso de mil&iacute;cia armada por parte da Syngenta. &ldquo;Sabemos que n&atilde;o vai trazer o companheiro de volta, mas acho que vai reparar algum dano com rela&ccedil;&atilde;o &agrave; fam&iacute;lia dele [Keno] e para a Isabel, que foram os mais afetados. Por isso n&oacute;s ficamos muito contentes, &eacute; uma vit&oacute;ria para a classe. D&aacute; mais &acirc;nimo pra gente continuar a fazer a luta&rdquo;, diz o militante, morador do assentamento Sep&eacute; Tiaraju, em Santa Tereza do Oeste, que participava da ocupa&ccedil;&atilde;o e presenciou o ataque da mil&iacute;cia.</p>
+
+<p dir="ltr"><br />
 Advogado popular da Terra de Direitos que acompanhou o caso, Fernando Prioste avalia que a condena&ccedil;&atilde;o da empresa &eacute; uma decis&atilde;o importante em um cen&aacute;rio de avan&ccedil;o de uma pauta conservadora no pa&iacute;s, quando &nbsp;&ldquo;o presidente eleito amea&ccedil;a armar fazendeiros contra movimentos sociais&rdquo;. &ldquo;O Tribunal decidiu, como n&atilde;o poderia ser diferente, que um ataque armado de mil&iacute;cia &eacute; ilegal. Quem agir de forma violenta e intolerante deve responder por isso&rdquo;, aponta.</p>
 
 <p dir="ltr"><br />
@@ -103,12 +120,12 @@ Desde 2009, a &aacute;rea onde Keno foi assassinado abriga o Centro de Pesquisas
 
 <div>&nbsp;</div>
 
-<div class="adL">&nbsp;</div>
+<div>&nbsp;</div>
 </div>
 </div>
 
-<div class="adL">&nbsp;</div>
+<div>&nbsp;</div>
 </div>
 </div>
 
-<div class="hq gt" id=":qn" style="margin: 15px 0px; clear: both; font-size: 12.8px; color: rgb(34, 34, 34); font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;">&nbsp;</div>
+<div id=":qn">&nbsp;</div>
