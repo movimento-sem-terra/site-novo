@@ -46,10 +46,9 @@ releated_posts:
 Da P&aacute;gina do MST&nbsp;&nbsp;</em><br />
 <br />
 <br />
-O Armaz&eacute;m do campo de&nbsp;Belo Horizonte completou no &uacute;ltimo domingo (25) seu primeiro ano com&nbsp;muita luta e resist&ecirc;ncia neste domingo e, para celebrar,&nbsp;na pr&oacute;xima sexta-feira&nbsp;(30) receber&aacute; no projeto&nbsp;Cultura na Cesta&nbsp;diversas interven&ccedil;&otilde;es art&iacute;sticas e culturais, entre elas,&nbsp;Davi da Figueira, que far&aacute; uma enorme roda de samba para comemorar a data.</p>
+O Armaz&eacute;m do campo de&nbsp;Belo Horizonte completou no &uacute;ltimo domingo (25) seu primeiro ano&nbsp;e, para celebrar,&nbsp;nesta sexta-feira, 30,&nbsp;receber&aacute; no projeto&nbsp;Cultura na Sexta, a roda de samba de Davi da Figueira.</p>
 
-<p><br />
-Cumprindo seu papel de oferecer a toda popula&ccedil;&atilde;o produtos org&acirc;nicos e agroecol&oacute;gicos, por um pre&ccedil;o que o trabalhador pode pagar, o Armaz&eacute;m do Campo BH acabou conquistando o cora&ccedil;&atilde;o dos mineiros, que chegam &agrave; casa do MST de Minas Gerais e s&atilde;o sempre recebidos com um bom caf&eacute;.&nbsp;</p>
+<p>Cumprindo seu papel de oferecer a toda popula&ccedil;&atilde;o produtos org&acirc;nicos e agroecol&oacute;gicos, por um pre&ccedil;o que o trabalhador pode pagar, o Armaz&eacute;m do Campo BH acabou conquistando o cora&ccedil;&atilde;o dos mineiros, que chegam &agrave; casa do MST de Minas Gerais e s&atilde;o sempre recebidos com um bom caf&eacute;.&nbsp;</p>
 
 <p><br />
 Ao longo de 2018, o local&nbsp;tornou-se ponto de encontro para reunir os amigos, realizar debates, desfrutar&nbsp;arte e&nbsp;cultura popular. O&nbsp;Armaz&eacute;m tamb&eacute;m recebeu&nbsp;visitas ilustres, como a do ex-presidente Luiz In&aacute;cio Lula da Silva e da ex-presidente Dilma Rousseff.<br />
