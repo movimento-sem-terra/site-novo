@@ -74,7 +74,7 @@ Essa pr&aacute;tica coletiva qualifica&nbsp;o trabalho de produ&ccedil;&atilde;o
 
 <div>&nbsp;</div>
 
-<div>Atualmente o coletivo comercializa para professores e estudantes do SEPE Volta Redonda e da Universidade Federal do Rio de Janeiro (UFRJ), al&eacute;m da Rede Ecol&oacute;gica. A produ&ccedil;&atilde;o tamb&eacute;m &eacute; entregue em espa&ccedil;os do pr&oacute;prio MST, como&nbsp;Terra Crioula e&nbsp;o Armaz&eacute;m do Campo.</div>
+<div>Atualmente o coletivo comercializa para professores e estudantes do SEPE Volta Redonda e da Universidade Federal do Rio de Janeiro (UFRRJ), al&eacute;m da Rede Ecol&oacute;gica. A produ&ccedil;&atilde;o tamb&eacute;m &eacute; entregue em espa&ccedil;os do pr&oacute;prio MST, como&nbsp;Terra Crioula e&nbsp;o Armaz&eacute;m do Campo.</div>
 
 <div><br />
 <br />
