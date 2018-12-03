@@ -31,7 +31,7 @@ files:
     title: IMG-20181123-WA0002 (380x400).jpg
     $$hashKey: 02V
 created_date: "2018-11-29T14:39:51-02:00"
-published: false
+published: true
 releated_posts: []
 
 ---
