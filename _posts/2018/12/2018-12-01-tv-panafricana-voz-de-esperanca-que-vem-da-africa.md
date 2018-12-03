@@ -44,7 +44,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="DSC_1314.JPG" height="466" src="//farm5.staticflickr.com/4868/45226571945_2fb8487fed_b.jpg" width="700" />
-<figcaption>Igor de Nadai</figcaption>
+<figcaption>Foto Igor de Nadai</figcaption>
 </figure>
 </div>
 
