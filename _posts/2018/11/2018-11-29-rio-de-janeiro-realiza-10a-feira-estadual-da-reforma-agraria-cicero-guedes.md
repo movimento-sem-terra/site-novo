@@ -1,12 +1,13 @@
 ---
 date: "2018-11-29T14:33:04-02:00"
 tags:
-  - tag: "#FeiraReformaAgrária-#RiodeJaneiro"
+  - tag: rio-de-janeiro
+  - tag: feira-reforma-agrária
 images_hd: //farm5.staticflickr.com/4877/45380478114_abb7a0e25f_b.jpg
 menu: reforma agrária
 section: featured-news
 title: Rio de Janeiro realiza 10ª Feira Estadual da Reforma Agrária Cícero Guedes
-support_line: "Em três dias de feira serão comercializadas mais de 150 toneladas de produtos e alimentos agroecológicos, com uma rica variedade de todo país"
+support_line: Em três dias de feira serão comercializadas mais de 150 toneladas de produtos e alimentos agroecológicos
 layout: post
 files:
   - link: //farm5.staticflickr.com/4815/44288199620_23af53fb9b_b.jpg
@@ -32,7 +33,13 @@ files:
     $$hashKey: 02V
 created_date: "2018-11-29T14:39:51-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/07/2018-07-04-sem-terras-vao-a-camara-de-macae-para-pedir-area-do-municipio.md
+  - _posts/2018/05/2018-05-02-mst-repudia-ofensiva-do-judiciario-contra-a-luta-pela-terra-no-rj.md
+  - _posts/2018/04/2018-04-24-no-rj-sem-terra-sofrem-ameaca-de-despejo.md
+  - _posts/2018/04/2018-04-20-filme-sobre-joao-pedro-teixeira-e-tema-de-debate-na-jura-da-universidade-fluminense.md
+  - _posts/2018/05/2018-05-19-mulheres-do-mst-resistem-contra-o-despejo-em-macae-rj.md
+  - _posts/2018/05/2018-05-04-formas-de-organizacao-presentes-na-feira-nacional-mudaram-a-realidade-de-familias-sem-terra.md
 
 ---
 <div style="text-align:center">
@@ -44,7 +51,7 @@ releated_posts: []
 <p><br />
 <br />
 <em>Por Pablo Vergara</em><br />
-<em><em>Para P&aacute;gina do MST</em></em></p>
+<em><em>Da P&aacute;gina do MST</em></em></p>
 
 <p>&nbsp;</p>
 
@@ -110,11 +117,4 @@ Al&eacute;m de importante lideran&ccedil;a na luta pela Reforma Agr&aacute;ria, 
 
 <p>&nbsp;</p>
 
-<p>#Feira&Eacute;Patrim&ocirc;nio<br />
-#10aFeiraCiceroGuedes<br />
-#Alimentar&Eacute;UmAtoPol&iacute;tico</p>
-
-<p><br />
-<br />
-<br />
-<em>*Editado por Solange Engelmann</em></p>
+<p><em>*Editado por Solange Engelmann.</em></p>
