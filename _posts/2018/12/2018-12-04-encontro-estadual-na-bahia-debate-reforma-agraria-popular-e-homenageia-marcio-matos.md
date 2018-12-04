@@ -57,7 +57,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>Com o objetivo de debater as perspectivas da luta pela Reforma Agr&aacute;ria Popular para o pr&oacute;ximo per&iacute;odo, a educa&ccedil;&atilde;o do campo e o desenvolvimento da agroecologia no estado da Bahia, cerca de 1.500 trabalhadores e trabalhadoras Sem Terra, de dez regi&otilde;es, realizam entre os dias 14 e 17/12 o 31&ordm; Encontro Estadual do MST na Bahia.</p>
 
-<figure class="image" style="float:right"><img alt="ESTADUAL 2018 BA FINALIZAÇÃO.jpg" height="353" src="//farm5.staticflickr.com/4871/45265298265_49387f6f0a_b.jpg" width="250" />
+<figure class="image" style="float:right"><img alt="ESTADUAL 2018 BA FINALIZAÇÃO.jpg" height="424" src="//farm5.staticflickr.com/4871/45265298265_49387f6f0a_b.jpg" width="300" />
 <figcaption><em>Encontro presta homenagem &agrave; M&aacute;rcio Matos.<br />
 Arte: Joatan Xavier</em></figcaption>
 </figure>
