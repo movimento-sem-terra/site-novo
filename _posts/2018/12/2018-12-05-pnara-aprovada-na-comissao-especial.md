@@ -5,7 +5,7 @@ tags:
   - tag: agrotoxicos
   - tag: agroecologia
 images_hd: //farm5.staticflickr.com/4839/32320017808_b5474b6eba_b.jpg
-title: "PNaRA aprovada na Comissão Especial\n"
+title: "PNaRA é aprovada na Comissão Especial da Câmara\n"
 support_line: "Vencendo todas as tentativas de obstrução, o texto foi votado nesta noite e aprovado por 18 votos"
 menu: reforma agrária
 layout: post
@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2018/06/2018-06-21-ruralistas-interditam-debate-sobre-agrotoxicos-na-camara.md
   - _posts/2018/07/2018-07-12-na-contramao-do-pacote-do-veneno-pnara-avanca-na-camara.md
   - _posts/2018/10/2018-10-19-e-preciso-equilibrar-o-consumo-a-producao-e-a-relacao-com-a-natureza-explica-dirigente-do-mst.md
+section: cover
 
 ---
 <p>&nbsp;</p>
