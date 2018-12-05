@@ -6,7 +6,7 @@ tags:
   - tag: agroecologia
 images_hd: //farm5.staticflickr.com/4839/32320017808_b5474b6eba_b.jpg
 title: "PNaRA é aprovada na Comissão Especial da Câmara\n"
-support_line: "Vencendo todas as tentativas de obstrução, o texto foi votado nesta noite e aprovado por 18 votos"
+support_line: "Vencendo todas as tentativas de obstrução, o texto foi votado na noite desta terça-feira e aprovado por 18 votos"
 menu: reforma agrária
 layout: post
 files:
