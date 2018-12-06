@@ -57,8 +57,10 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 Na manh&atilde; desta quinta-feira (6), cerca de 150 fam&iacute;lias integrantes do MST&nbsp;ocuparam a fazenda p&uacute;blica Jeca Martins. A &aacute;rea pertencente ao Instituto Ambiental do Paran&aacute; (IAP) e est&aacute; localizada na cidade de Castro, sul do Paran&aacute;. As fam&iacute;lias j&aacute; estavam acampadas desde agosto de 2015 na &aacute;rea da Fazenda Cap&atilde;o do Cip&oacute;, tamb&eacute;m em Castro, rebatizada de Acampamento Maria Rosa.</p>
 
 <p><br />
-A &aacute;rea pertence &agrave; Uni&atilde;o, mas que estava sendo usada pela Funda&ccedil;&atilde;o ABC, uma institui&ccedil;&atilde;o de car&aacute;ter particular que realiza pesquisas agr&iacute;colas e pecu&aacute;rias, atrav&eacute;s da filia&ccedil;&atilde;o com as cooperativas Castrolanda, Arapoti e<br />
-Batavo. O descolamento das ocupa&ccedil;&atilde;o tem como objetivo pressionar o Poder P&uacute;blico para o cumprimento de acordos firmados em 2015, quando o INCRA (Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria), a Cooperativa Castrolanda e o governo do Estado garantiram a realiza&ccedil;&atilde;o de uma permuta de &aacute;reas para assentar as fam&iacute;lias Sem Terra.</p>
+A &aacute;rea pertence &agrave; Uni&atilde;o, mas que estava sendo usada pela Funda&ccedil;&atilde;o ABC, uma institui&ccedil;&atilde;o de car&aacute;ter particular que realiza pesquisas agr&iacute;colas e pecu&aacute;rias, atrav&eacute;s da filia&ccedil;&atilde;o com as cooperativas Castrolanda, Arapoti e Batavo.</p>
+
+<p><br />
+O descolamento das ocupa&ccedil;&atilde;o tem como objetivo pressionar o Poder P&uacute;blico para o cumprimento de acordos firmados em 2015, quando o INCRA (Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria), a Cooperativa Castrolanda e o governo do Estado garantiram a realiza&ccedil;&atilde;o de uma permuta de &aacute;reas para assentar as fam&iacute;lias Sem Terra.</p>
 
 <p><br />
 Em novembro de 2017 o Acampamento Maria Rosa do Contestado recebeu uma Audi&ecirc;ncia P&uacute;blica com representantes da Comiss&atilde;o Parlamentar de Inqu&eacute;rito (CPI) de quest&otilde;es fundi&aacute;rias do Paran&aacute;, momento em que as autoridades presentes se comprometeram a efetivar a permuta das &aacute;reas e assentamento das fam&iacute;lias. No entanto, ap&oacute;s um ano, n&atilde;o houve nenhum avan&ccedil;o no processo.</p>
@@ -80,5 +82,7 @@ Apesar do uso ilegal da terra pela Funda&ccedil;&atilde;o, a ordem de despejo n&
 fam&iacute;lias sairiam do local e em troca seriam assentadas em outras tr&ecirc;s &aacute;reas: Fazenda Barra Bonita, Tabo&atilde;ozinho (ambas da Castrolanda) e Jeca Martins (do IAP), todas localizadas na cidade de Castro.</p>
 
 <p><br />
-Legalmente a permuta &eacute; de car&aacute;ter simples, em que o governo cederia a Fazenda Jeca Martins e a Castrolanda as outras duas &aacute;reas para o INCRA, assim come&ccedil;aria o processo de legaliza&ccedil;&atilde;o dos futuros assentamentos. O<br />
-acordo se baseia na equival&ecirc;ncia de valor da fazenda Cap&atilde;o do Cip&oacute; em rela&ccedil;&atilde;o &agrave;s demais e pela possibilidade de legalizar um maior n&uacute;mero de fam&iacute;lias cadastradas para o assentamento.</p>
+Legalmente a permuta &eacute; de car&aacute;ter simples, em que o governo cederia a Fazenda Jeca Martins e a Castrolanda as outras duas &aacute;reas para o INCRA, assim come&ccedil;aria o processo de legaliza&ccedil;&atilde;o dos futuros assentamentos.</p>
+
+<p><br />
+O acordo se baseia na equival&ecirc;ncia de valor da fazenda Cap&atilde;o do Cip&oacute; em rela&ccedil;&atilde;o &agrave;s demais e pela possibilidade de legalizar um maior n&uacute;mero de fam&iacute;lias cadastradas para o assentamento.</p>
