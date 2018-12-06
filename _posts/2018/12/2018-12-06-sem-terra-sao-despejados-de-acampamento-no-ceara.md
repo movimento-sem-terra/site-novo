@@ -49,13 +49,13 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<div id="m_2484620413430004921ymail_android_signature" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">Nesse momento cerca de 30 fam&iacute;lias est&atilde;o sendo despejadas do acampamento Z&eacute; Wilson, localizado no munic&iacute;pio de Lavras da Mangabeira, Regi&atilde;o Metropolitana do Cear&aacute;.&nbsp;</div>
+<div id="m_2484620413430004921ymail_android_signature">Nesse momento ce</div>
 
-<div id="m_2484620413430004921ymail_android_signature" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">&nbsp;</div>
+<div id="m_2484620413430004921ymail_android_signature">No local, onde tratores j&aacute; derrubam barracos e casa,&nbsp;encontram-se tr&ecirc;s&nbsp;viaturas da pol&iacute;cia militar, o advogado dos propriet&aacute;rios e representarca de 30 fam&iacute;lias est&atilde;o sendo despejadas do acampamento Z&eacute; Wilson, localizado no munic&iacute;pio de Lavras da Mangabeira, Regi&atilde;o Metropolitana do Cear&aacute;.&nbsp;</div>
 
-<div id="m_2484620413430004921ymail_android_signature" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">No local, onde tratores j&aacute; derrubam barracos e casa,&nbsp;encontram-se tr&ecirc;s&nbsp;viaturas da pol&iacute;cia militar, o advogado dos propriet&aacute;rios e representantes do Conselho Tutelar.</div>
+<div id="m_2484620413430004921ymail_android_signature">ntes do Conselho Tutelar.</div>
 
-<div style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">&nbsp;</div>
+<div>&nbsp;</div>
 
 <div style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">&nbsp;</div>
 
@@ -63,14 +63,14 @@ releated_posts:
 <br />
 &nbsp;</div>
 
-<div style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">A fazenda S&atilde;o Domingos foi ocupada em abril deste ano. A &aacute;rea&nbsp;j&aacute; est&aacute; em processo de desapropria&ccedil;&atilde;o pelo governo do&nbsp;Estado.</div>
+<div>A fazenda S&atilde;o Domingos foi ocupada em abril deste ano. A &aacute;rea&nbsp;j&aacute; est&aacute; em processo de desapropria&ccedil;&atilde;o pelo governo do&nbsp;Estado.</div>
 
-<div id="m_2484620413430004921ymail_android_signature" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">&nbsp;</div>
+<div id="m_2484620413430004921ymail_android_signature">&nbsp;</div>
 
-<div id="m_2484620413430004921yMail_cursorElementTracker_1544114138241" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">Segundo Rosi Lemos, acampada e assistente social, a&nbsp;situa&ccedil;&atilde;o &eacute; de&nbsp;desespero para as fam&iacute;lias que vivem em situa&ccedil;&otilde;es de vulnerabilidade e&nbsp;n&atilde;o tem para onde ir.&nbsp;</div>
+<div id="m_2484620413430004921yMail_cursorElementTracker_1544114138241">Segundo Rosi Lemos, acampada e assistente social, a&nbsp;situa&ccedil;&atilde;o &eacute; de&nbsp;desespero para as fam&iacute;lias que vivem em situa&ccedil;&otilde;es de vulnerabilidade e&nbsp;n&atilde;o tem para onde ir.&nbsp;</div>
 
-<div style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;"><br />
+<div><br />
 &quot;Nesse momento grande parte dos pertences dos acampados est&atilde;o&nbsp;sendo jogados em cima dos caminh&otilde;es, os animais&nbsp;est&atilde;o no mesmo processo, a tens&atilde;o s&oacute; aumenta, as fam&iacute;lias est&atilde;o tentando permanecer, mas s&atilde;o amea&ccedil;adas a cada instante&quot;, afirma.</div>
 
-<div id="m_2484620413430004921yMail_cursorElementTracker_1544114058697" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;"><br />
+<div id="m_2484620413430004921yMail_cursorElementTracker_1544114058697"><br />
 Em dois meses esse &eacute; o quarto processo de despejo que o&nbsp;MST sofre na regi&atilde;o. O&nbsp;acampamento Z&eacute; Maria do Tom&eacute;, em Limoeiro do Norte, est&aacute;&nbsp;com o pedido de reintegra&ccedil;&atilde;o de posse expedido, o acampamento 17 de Abril, em Santana do Acara&uacute;, foi despejado&nbsp;no &uacute;ltimo dia 28 e&nbsp;o acampamento Vida Nova, em Mauriti,&nbsp;est&aacute; com reintegra&ccedil;&atilde;o prevista&nbsp;para o pr&oacute;ximo dia (19).</div>
