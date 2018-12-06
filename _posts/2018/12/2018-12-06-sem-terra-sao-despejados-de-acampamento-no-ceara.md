@@ -49,17 +49,16 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<div id="m_2484620413430004921ymail_android_signature">Nesse momento ce</div>
+<div id="m_2484620413430004921ymail_android_signature">Nesse momento cerca&nbsp;de 30 fam&iacute;lias est&atilde;o sendo despejadas do acampamento Z&eacute; Wilson, localizado no munic&iacute;pio de Lavras da Mangabeira, Regi&atilde;o Metropolitana do Cear&aacute;.&nbsp;</div>
 
-<div id="m_2484620413430004921ymail_android_signature">No local, onde tratores j&aacute; derrubam barracos e casa,&nbsp;encontram-se tr&ecirc;s&nbsp;viaturas da pol&iacute;cia militar, o advogado dos propriet&aacute;rios e representarca de 30 fam&iacute;lias est&atilde;o sendo despejadas do acampamento Z&eacute; Wilson, localizado no munic&iacute;pio de Lavras da Mangabeira, Regi&atilde;o Metropolitana do Cear&aacute;.&nbsp;</div>
-
-<div id="m_2484620413430004921ymail_android_signature">ntes do Conselho Tutelar.</div>
+<div><br />
+No local, onde tratores j&aacute; derrubam barracos e casa,&nbsp;encontram-se tr&ecirc;s&nbsp;viaturas da pol&iacute;cia militar, o advogado dos propriet&aacute;rios e representantes do Conselho Tutelar.</div>
 
 <div>&nbsp;</div>
 
 <div style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">&nbsp;</div>
 
-<div style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;"><strong>Hist&oacute;rico</strong><br />
+<div><strong>Hist&oacute;rico</strong><br />
 <br />
 &nbsp;</div>
 
