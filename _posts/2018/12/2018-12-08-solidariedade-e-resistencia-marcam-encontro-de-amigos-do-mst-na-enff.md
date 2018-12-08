@@ -45,7 +45,7 @@ Da P&aacute;gina do MST</em></p>
 <p>&ldquo;Que seria deste mundo sem militantes? Como seria a condi&ccedil;&atilde;o humana se n&atilde;o houvesse militantes? N&atilde;o porque os militantes sejam perfeitos, porque tenham sempre a raz&atilde;o, porque sejam super-homens e n&atilde;o se equivoquem. N&atilde;o &eacute; isso. &Eacute; que os militantes n&atilde;o v&ecirc;m para buscar o seu, vem entregar a alma por um punhado de sonhos. Ao fim e ao cabo, o progresso da condi&ccedil;&atilde;o humana depende fundamentalmente de que exista gente que se sinta feliz em gastar sua vida a servi&ccedil;o do progresso humano. Ser militante n&atilde;o &eacute; carregar uma cruz de sacrif&iacute;cio. &Eacute; viver a gl&oacute;ria interior de lutar pela liberdade em seu sentido transcendente&rdquo;.</p>
 
 <p><br />
-Relembrando a fala do ex-presidente uruguaio, Pepe Mujica, cerca de 600 pessoas, representantes de movimentos populares, partidos pol&iacute;ticos, organiza&ccedil;&otilde;es da sociedade civil e militantes Sem Terra, reuniram-se na Escola Nacional Florestan Fernandes (ENFF), em Guararema - SP, na manh&atilde; deste s&aacute;bado (8) para o Encontro Anual de Amigos do MST.</p>
+Relembrando a fala do ex-presidente uruguaio, Pepe Mujica, mais de 700 pessoas, representantes de movimentos populares, partidos pol&iacute;ticos, organiza&ccedil;&otilde;es da sociedade civil e militantes Sem Terra, reuniram-se na Escola Nacional Florestan Fernandes (ENFF), em Guararema - SP, na manh&atilde; deste s&aacute;bado (8) para o Encontro Anual de Amigos do MST.</p>
 
 <p><br />
 A mesa de abertura contou com as falas de Jo&atilde;o Paulo Rodrigues e Gilmar Mauro, ambos da dire&ccedil;&atilde;o nacional do MST, e de Dilma Rousseff, ex-presidente do Brasil.</p>
