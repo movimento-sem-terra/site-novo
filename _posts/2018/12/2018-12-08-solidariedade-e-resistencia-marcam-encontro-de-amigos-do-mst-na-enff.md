@@ -72,7 +72,7 @@ Relembrando a fala do ex-presidente uruguaio, Pepe Mujica, cerca de 700 pessoas,
 A mesa de abertura contou com as falas de Jo&atilde;o Paulo Rodrigues e Gilmar Mauro, ambos da dire&ccedil;&atilde;o nacional do MST, e da ex-presidente do Brasil, Dilma Rousseff.</p>
 
 <p><br />
-Para Jo&atilde;o Paulo Rodrigues, mais do que uma confraterniza&ccedil;&atilde;o, a atividade representou um momento de consolida&ccedil;&atilde;o de lutas e discuss&otilde;es acerca dos rumos pr&oacute;ximo per&iacute;odo.</p>
+Para Jo&atilde;o Paulo Rodrigues, mais do que uma confraterniza&ccedil;&atilde;o, a atividade representou um momento de consolida&ccedil;&atilde;o de lutas e discuss&otilde;es acerca dos rumos do pr&oacute;ximo per&iacute;odo.</p>
 
 <p><br />
 Durante a sua fala Rodrigues tamb&eacute;m citou alguns n&uacute;meros do MST, que em 2018 ocupou 60 latif&uacute;ndios improdutivos e montou 800 acampamentos com 90 mil pessoas.</p>
