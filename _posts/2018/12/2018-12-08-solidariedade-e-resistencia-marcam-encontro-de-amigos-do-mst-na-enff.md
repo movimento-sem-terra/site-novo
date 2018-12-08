@@ -48,7 +48,7 @@ Da P&aacute;gina do MST</em></p>
 Relembrando a fala do ex-presidente uruguaio, Pepe Mujica, cerca de 600 pessoas, representantes de movimentos populares, partidos pol&iacute;ticos, organiza&ccedil;&otilde;es da sociedade civil e militantes Sem Terra, reuniram-se na Escola Nacional Florestan Fernandes (ENFF), em Guararema - SP, na manh&atilde; deste s&aacute;bado (8) para o Encontro Anual de Amigos do MST.</p>
 
 <p><br />
-A mesa de abertura contou com as falas de Jo&atilde;o Paulo Rodrigues e Gilmar Mauro, ambos da dire&ccedil;&atilde;o nacional do MST, e de Dilma Roussef, ex-presidente do Brasil.</p>
+A mesa de abertura contou com as falas de Jo&atilde;o Paulo Rodrigues e Gilmar Mauro, ambos da dire&ccedil;&atilde;o nacional do MST, e de Dilma Rousseff, ex-presidente do Brasil.</p>
 
 <p><br />
 Para Jo&atilde;o Paulo Rodrigues, mais do que uma confraterniza&ccedil;&atilde;o, a atividade representa um momento de consolida&ccedil;&atilde;o de lutas e discuss&atilde;o de rumos acerca do pr&oacute;ximo per&iacute;odo. &ldquo;Esse &eacute; o nosso momento de presta&ccedil;&atilde;o de contas para com a sociedade e com os amigos que nos apoiam&rdquo;.</p>
@@ -84,7 +84,7 @@ Gilmar Mauro&nbsp;citou o tempo hist&oacute;rico, a concentra&ccedil;&atilde;o d
 &ldquo;Momentos como esses abrem caminho para ascens&atilde;o de governos de extrema direita ultraliberais como vimos acontecer em diversos pa&iacute;ses e agora no Brasil. E, para enfrentar esse cen&aacute;rio, n&atilde;o podemos separar a teoria da pr&aacute;tica, do fazer. Transforma&ccedil;&otilde;es sociais dependem de muitas m&atilde;os e de muitas organiza&ccedil;&otilde;es, al&eacute;m de unidade com projeto politico e estabelecimento de a&ccedil;&otilde;es concretas&rdquo;, pontuou.</p>
 
 <p><br />
-J&aacute; Dilma Roussef:&nbsp;&ldquo;quando os governos e institui&ccedil;&otilde;es pararem de atender a demanda da classe trabalhadora, a pol&iacute;tica&nbsp;passa a ser irrelevante. Isso faz com que governos de extrema direita ganhem espa&ccedil;o como estamos vendo acontecer em todo mundo. Um pa&iacute;s n&atilde;o segura a democracia quando a mis&eacute;ria e a desigualdade crescem. Por isso, n&oacute;s devemos lutar para manter os processos democr&aacute;ticos, o que inclui a liberdade do ex-presidente Lula. Essa bandeira n&atilde;o deve ser levantada somente porque um inocente foi condenado, mas, sobretudo, porque a pris&atilde;o de Lula representa um processo contra todos aqueles que lutarem por justi&ccedil;a e igualdade nesse pa&iacute;s&rdquo;, finalizou.&nbsp;&nbsp;</p>
+J&aacute; Dilma Rousseff:&nbsp;&ldquo;quando os governos e institui&ccedil;&otilde;es pararem de atender a demanda da classe trabalhadora, a pol&iacute;tica&nbsp;passa a ser irrelevante. Isso faz com que governos de extrema direita ganhem espa&ccedil;o como estamos vendo acontecer em todo mundo. Um pa&iacute;s n&atilde;o segura a democracia quando a mis&eacute;ria e a desigualdade crescem. Por isso, n&oacute;s devemos lutar para manter os processos democr&aacute;ticos, o que inclui a liberdade do ex-presidente Lula. Essa bandeira n&atilde;o deve ser levantada somente porque um inocente foi condenado, mas, sobretudo, porque a pris&atilde;o de Lula representa um processo contra todos aqueles que lutarem por justi&ccedil;a e igualdade nesse pa&iacute;s&rdquo;, finalizou.&nbsp;&nbsp;</p>
 
 <p>&nbsp;</p>
 
