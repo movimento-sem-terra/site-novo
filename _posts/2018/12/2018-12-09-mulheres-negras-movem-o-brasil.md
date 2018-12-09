@@ -59,7 +59,7 @@ releated_posts:
 Al&eacute;m de debates, o Encontro possui uma diversificada programa&ccedil;&atilde;o formativa, art&iacute;stica, liter&aacute;ria e cultural e em homenagem ao legado de mulheres negras que contribu&iacute;ram na luta contra o racismo, as salas, audit&oacute;rios e espa&ccedil;os livres est&atilde;o sinalizados com os nomes dessas lideran&ccedil;as hist&oacute;ricas, como Luiza Bairros, L&eacute;lia Gonzalez, Carolina de Jesus, D. Ivone Lara, F&aacute;tima de Oliveira, Catarina Mina, S&iacute;lvia Catanhede e Francisca Poderosa.</p>
 
 <p><br />
-H&aacute; tamb&eacute;m, espa&ccedil;os de sa&uacute;de e uma grande feira com produtos das &ldquo;afroempreendedores&rdquo;.</p>
+H&aacute; tamb&eacute;m, espa&ccedil;os de sa&uacute;de e uma grande feira com produtos das &ldquo;afroempreendedoras&rdquo;.</p>
 
 <figure class="image" style="float:right"><img alt="IMG_0462-570x380.jpg" height="200" src="//farm5.staticflickr.com/4839/31304159687_e9d5f1a52b_b.jpg" width="300" />
 <figcaption><em>Feira de Produtos Afro movimenta o Encontro.<br />
