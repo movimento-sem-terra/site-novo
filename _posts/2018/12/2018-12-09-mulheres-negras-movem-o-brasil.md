@@ -63,7 +63,7 @@ H&aacute; tamb&eacute;m, espa&ccedil;os de sa&uacute;de e uma grande feira com p
 
 <figure class="image" style="float:right"><img alt="IMG_0462-570x380.jpg" height="200" src="//farm5.staticflickr.com/4839/31304159687_e9d5f1a52b_b.jpg" width="300" />
 <figcaption><em>Feira de Produtos Afro movimenta o Encontro.<br />
-F.oto: Ju Cordeiro</em></figcaption>
+Foto: Ju Cordeiro</em></figcaption>
 </figure>
 
 <p><br />
@@ -77,8 +77,6 @@ O Encontro &eacute; organizado por entidades do movimento de mulheres negras e, 
 
 <p><br />
 Cada participante est&aacute; mobilizada em seus territ&oacute;rios na luta pela amplia&ccedil;&atilde;o de parcerias e redes de fortalecimento, pela manuten&ccedil;&atilde;o e conquista de direitos e pela converg&ecirc;ncia de esfor&ccedil;os no embate a todas as formas de opress&atilde;o e submiss&atilde;o da mulher negra no Brasil.</p>
-
-<p>&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="DSC9528-570x380.jpg" height="400" src="//farm5.staticflickr.com/4886/46192629532_c0265e5a6d_b.jpg" width="600" />
