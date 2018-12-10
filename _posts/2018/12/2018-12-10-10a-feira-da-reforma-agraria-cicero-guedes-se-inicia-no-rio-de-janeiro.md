@@ -8,7 +8,7 @@ title: 10ª Feira da Reforma Agrária Cícero Guedes se inicia no Rio de Janeiro
 support_line: "O evento, organizado pelo MST, segue até  a próxima quarta-feira no Largo da Carioca"
 menu: reforma agrária
 section: featured-news
-images_hd: //farm5.staticflickr.com/4848/46215252802_d995fe2b14_b.jpg
+images_hd: //farm5.staticflickr.com/4830/45542265294_9df28aaba1_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4848/46215252802_d995fe2b14_b.jpg
@@ -18,6 +18,13 @@ files:
     small: //farm5.staticflickr.com/4848/46215252802_d995fe2b14_n.jpg
     title: Feira Cicero Guedes 01 FOTO Jhuan de Brito.jpg
     $$hashKey: 05L
+  - link: //farm5.staticflickr.com/4830/45542265294_9df28aaba1_b.jpg
+    original: //farm5.staticflickr.com/4830/45542265294_b249def5a1_o.jpg
+    thumbnail: //farm5.staticflickr.com/4830/45542265294_9df28aaba1_t.jpg
+    medium: //farm5.staticflickr.com/4830/45542265294_9df28aaba1_z.jpg
+    small: //farm5.staticflickr.com/4830/45542265294_9df28aaba1_n.jpg
+    title: Feira Cicero Guedes 02 fotos_Linda_soares_editadas-10-12-0957.jpg
+    $$hashKey: 0O9
 created_date: "2018-12-10T21:19:13-02:00"
 published: true
 releated_posts:
@@ -30,7 +37,7 @@ releated_posts:
   - _posts/2018/09/2018-09-06-seu-luiz-o-homem-de-mil-abacaxis.md
 
 ---
-<p><img alt="Feira Cicero Guedes 01 FOTO Jhuan de Brito.jpg" height="467" src="//farm5.staticflickr.com/4848/46215252802_d995fe2b14_b.jpg" width="700" /></p>
+<p><img alt="Feira Cicero Guedes 02 fotos_Linda_soares_editadas-10-12-0957.jpg" height="467" src="//farm5.staticflickr.com/4830/45542265294_9df28aaba1_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
@@ -62,8 +69,13 @@ A abertura do evento trouxe a refer&ecirc;ncia dos 70 anos da Declara&ccedil;&at
 <p><br />
 Durante os tr&ecirc;s dias de Feira, acontece muito mais do que a comercializa&ccedil;&atilde;o dos alimentos e a materializa&ccedil;&atilde;o da luta pela terra para o p&uacute;blico urbano. Uma sess&atilde;o de debates chamada &ldquo;Di&aacute;logos da Terra&rdquo; traz temas importantes em rodas de conversas todas as tardes. Todos os dias, ao cair da tarde, s&atilde;o esperadas apresenta&ccedil;&otilde;es culturais de grupos populares, como Apafunk e o Maracatu Baque Mulher.</p>
 
-<p><br />
-Na tarde desta ter&ccedil;a-feira (11), ser&aacute; realizado o Ato Pol&iacute;tico em Defesa da Reforma Agr&aacute;ria e dos Direitos Humanos. Al&eacute;m da representa&ccedil;&atilde;o da dire&ccedil;&atilde;o nacional do MST, a militante Kelli Mafort, s&atilde;o esperadas autoridades pol&iacute;ticas e parceiros da luta pela terra, movimentos populares e sindicatos.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Feira Cicero Guedes 01 FOTO Jhuan de Brito.jpg" height="233" src="//farm5.staticflickr.com/4848/46215252802_d995fe2b14_b.jpg" width="350" />
+<figcaption></figcaption>
+</figure>
+
+<p>Na tarde desta ter&ccedil;a-feira (11), ser&aacute; realizado o Ato Pol&iacute;tico em Defesa da Reforma Agr&aacute;ria e dos Direitos Humanos. Al&eacute;m da representa&ccedil;&atilde;o da dire&ccedil;&atilde;o nacional do MST, a militante Kelli Mafort, s&atilde;o esperadas autoridades pol&iacute;ticas e parceiros da luta pela terra, movimentos populares e sindicatos.</p>
 
 <p><br />
 Para alimentar o corpo, mas tamb&eacute;m a alma, os visitantes da Feira podem encontrar uma tenda da Editora Express&atilde;o Popular, que traz publica&ccedil;&otilde;es liter&aacute;rias,&nbsp; pol&iacute;tico-filos&oacute;ficas e obras sobre agroecologia.</p>
