@@ -31,7 +31,11 @@ releated_posts:
 <div>
 <p>&nbsp;</p>
 
-<p style="text-align:center"><img alt="123.jpeg" height="466" src="//farm5.staticflickr.com/4864/44430513440_95b9b7610a_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="123.jpeg" height="466" src="//farm5.staticflickr.com/4864/44430513440_95b9b7610a_b.jpg" width="700" />
+<figcaption><em>Foto: Maxwell Vilela</em></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
