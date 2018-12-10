@@ -25,7 +25,7 @@ files:
     title: 8236191472_a73f8d5647_c.jpg
     $$hashKey: 08F
 created_date: "2018-12-06T17:06:53-02:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/07/2018-07-04-com-um-governo-a-esquerda-mexico-tem-a-chance-de-reverter-indices-de-violencia.md
   - _posts/2018/12/2018-12-01-tv-panafricana-voz-de-esperanca-que-vem-da-africa.md
