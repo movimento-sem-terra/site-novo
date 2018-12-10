@@ -17,8 +17,15 @@ files:
     small: //farm5.staticflickr.com/4904/46153333412_735917d9c1_n.jpg
     title: 38994424112_4c771f9dfb_b.jpg
     $$hashKey: 0AK
+  - link: //farm5.staticflickr.com/4890/31319898737_5dfd13a175_b.jpg
+    original: //farm5.staticflickr.com/4890/31319898737_ba32e7256d_o.jpg
+    thumbnail: //farm5.staticflickr.com/4890/31319898737_5dfd13a175_t.jpg
+    medium: //farm5.staticflickr.com/4890/31319898737_5dfd13a175_z.jpg
+    small: //farm5.staticflickr.com/4890/31319898737_5dfd13a175_n.jpg
+    title: WhatsApp Image 2018-12-10 at 11.29.10 DH.jpeg
+    $$hashKey: "075"
 created_date: "2018-12-06T12:44:34-02:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/11/2018-11-09-organizacoes-denunciam-intimidacoes-durante-visita-da-cidh-em-santarem-pa.md
   - _posts/2018/11/2018-11-08-justica-a-servico-de-quem.md
@@ -31,7 +38,11 @@ releated_posts:
 </style>
 </p>
 
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">&nbsp;</p>
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;"><img alt="WhatsApp Image 2018-12-10 at 11.29.10 DH.jpeg" height="700" src="//farm5.staticflickr.com/4890/31319898737_5dfd13a175_b.jpg" width="700" /></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <p><em>Por Maura Silva<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
