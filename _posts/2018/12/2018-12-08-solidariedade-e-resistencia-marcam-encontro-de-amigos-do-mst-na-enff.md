@@ -7,7 +7,7 @@ tags:
 title: Solidariedade e resistência marcam encontro de amigos do MST na ENFF
 support_line: "“Hoje, 152 acampamentos do MST estão com ameaça de despejo, apesar disso, saímos de 2018 com a certeza de que aumentamos a nossa base de luta”"
 menu: projeto popular
-section: cover
+section: featured-news
 images_hd: //farm5.staticflickr.com/4809/32361526188_7bc7315e6c_b.jpg
 layout: post
 files:
