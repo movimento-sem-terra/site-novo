@@ -52,7 +52,7 @@ Foto de Capa de Jhuan de Brito</em></p>
 A realiza&ccedil;&atilde;o da Feira &eacute; uma produ&ccedil;&atilde;o do MST, que h&aacute; mais de seis meses se organiza junto a parceiros e &oacute;rg&atilde;os p&uacute;blicos para efetivar este momento de encontro entre campo e cidade. Entretanto, uma parte significativa do recurso j&aacute; liberado por emendas parlamentares n&atilde;o foi empenhado pelo Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), &oacute;rg&atilde;o respons&aacute;vel pela opera&ccedil;&atilde;o da rubrica.</p>
 
 <p><br />
-Para garantir a realiza&ccedil;&atilde;o da 10&ordf; edi&ccedil;&atilde;o da Feira C&iacute;cero Guedes, o MST criou uma campanha de financiamento coletivo na plataforma Catarse. Atrav&eacute;s do link http://bit.ly/catarse-feirareformaagraria qualquer pessoa pode doar a partir de R$ 10,00 e ajudar o Movimento a atingir uma meta de R$ 17.000,00 para arcar com os custos estruturais e de log&iacute;stica do evento.</p>
+Para garantir a realiza&ccedil;&atilde;o da 10&ordf; edi&ccedil;&atilde;o da Feira C&iacute;cero Guedes, o MST criou uma campanha de financiamento coletivo na plataforma Catarse. Atrav&eacute;s do link <a href="http://bit.ly/catarse-feirareformaagraria">http://bit.ly/catarse-feirareformaagraria</a> qualquer pessoa pode doar a partir de R$ 10,00 e ajudar o Movimento a atingir uma meta de R$ 17.000,00 para arcar com os custos estruturais e de log&iacute;stica do evento.</p>
 
 <p><br />
 <strong>Dia internacional dos Direitos Humanos</strong></p>
