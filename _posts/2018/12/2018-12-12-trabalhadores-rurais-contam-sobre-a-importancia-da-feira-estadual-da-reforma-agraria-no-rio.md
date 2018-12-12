@@ -4,7 +4,7 @@ tags:
   - tag: feira-reforma-agrária
   - tag: produção
   - tag: agroecologia
-title: "Trabalhadores rurais contam sobre a importância da Feira Estadual da Reforma Agrária, no Rio\n"
+title: "Trabalhadores rurais falam sobre a importância da Feira Estadual da Reforma Agrária, no Rio\n"
 support_line: "Toda organização do evento, que neste ano comercializa cerca de 150 toneladas de alimentos, só é possível por conta dos trabalhadores rurais que a estruturam\n"
 menu: agricultura camponesa
 images_hd: //farm5.staticflickr.com/4823/32418205178_7102de1f75_b.jpg
