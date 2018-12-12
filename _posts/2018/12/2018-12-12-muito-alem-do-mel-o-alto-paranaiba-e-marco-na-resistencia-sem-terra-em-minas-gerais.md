@@ -56,7 +56,7 @@ releated_posts:
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-O MST na regi&atilde;o do Alto Parana&iacute;ba EM 2008 e, contrariando o cen&aacute;rio adverso de grandes latifundi&aacute;rios e agroneg&oacute;cio, &nbsp;ao longo dos 10 anos de hist&oacute;ria&nbsp;a regional foi foco de resist&ecirc;ncia.</p>
+O MST nasceu na regi&atilde;o do Alto Parana&iacute;ba em&nbsp;2008 e, contrariando o cen&aacute;rio adverso de grandes latifundi&aacute;rios e do agroneg&oacute;cio, ao longo dos 10 anos de hist&oacute;ria&nbsp;a regional foi foco de resist&ecirc;ncia.</p>
 
 <p><br />
 Hoje, o Movimento mant&eacute;m&nbsp;dois&nbsp;acampamentos e um&nbsp;assentamento, mas Wilson Leonel, um dos coordenadores da regi&atilde;o, conta que j&aacute; foram mais de 20 ocupa&ccedil;&otilde;es realizadas. Para ele, o que faz o povo do Alto Parana&iacute;ba seguir resistindo &eacute; a organicidade do Movimento dos Trabalhadores Rurais Sem Terra: &ldquo;A constru&ccedil;&atilde;o do MST n&atilde;o &eacute; somente pela terra, mas &eacute; de uma forma&ccedil;&atilde;o grandiosa. A gente entende a luta e como se organizar&rdquo;, afirma.</p>
