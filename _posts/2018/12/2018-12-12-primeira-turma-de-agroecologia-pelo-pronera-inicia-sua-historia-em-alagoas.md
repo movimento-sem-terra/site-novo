@@ -20,6 +20,12 @@ files:
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
+  - link: //farm5.staticflickr.com/4844/44473123640_caa93e4089_b.jpg
+    original: //farm5.staticflickr.com/4844/44473123640_a0937855a3_o.jpg
+    thumbnail: //farm5.staticflickr.com/4844/44473123640_caa93e4089_t.jpg
+    medium: //farm5.staticflickr.com/4844/44473123640_caa93e4089_z.jpg
+    small: //farm5.staticflickr.com/4844/44473123640_caa93e4089_n.jpg
+    title: 44443590890_f0a2605948_o.jpg
 created_date: "2018-12-12T16:40:42-02:00"
 published: true
 releated_posts:
