@@ -28,7 +28,8 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
+<p><em>Do Coletivo de Comunica&ccedil;&atilde;o do MST/RJ<br />
+Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
