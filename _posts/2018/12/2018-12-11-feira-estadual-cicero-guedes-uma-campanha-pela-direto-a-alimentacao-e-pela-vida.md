@@ -4,7 +4,7 @@ tags:
   - tag: nossa-produção
   - tag: reforma-agrária
   - tag: feira-reforma-agrária
-title: "Feira Estadual Cícero Guedes: Uma campanha pela direto à alimentação e pela vida"
+title: "Feira Estadual Cícero Guedes: Uma campanha pela direito à alimentação e pela vida"
 support_line: "Esta 10º edição reforça então o caráter de organização popular da Feira, que conta com mais de 100 feirantes de vários coletivos das quatro regiões do estado do Rio"
 menu: reforma agrária
 images_hd: //farm5.staticflickr.com/4853/46229760142_0b490230ba_b.jpg
