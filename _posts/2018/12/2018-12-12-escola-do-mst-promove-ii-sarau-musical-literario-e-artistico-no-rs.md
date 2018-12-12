@@ -93,3 +93,7 @@ Representantes da etnia ind&iacute;gena Mbya Guarani, atrav&eacute;s da Escola d
 <figcaption>Participa&ccedil;&atilde;o do Povo Indigena Mby&aacute; no Sarau&nbsp; Foto: Artemio Soares</figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva&nbsp;&nbsp;</em></p>
