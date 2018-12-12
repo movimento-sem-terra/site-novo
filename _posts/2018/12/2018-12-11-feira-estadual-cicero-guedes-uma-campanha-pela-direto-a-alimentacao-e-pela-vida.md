@@ -4,8 +4,8 @@ tags:
   - tag: nossa-produção
   - tag: reforma-agrária
   - tag: feira-reforma-agrária
-title: "Feira Estadual Cícero Guedes: Uma campanha pela direito à alimentação e pela vida"
-support_line: "Esta 10º edição reforça então o caráter de organização popular da Feira, que conta com mais de 100 feirantes de vários coletivos das quatro regiões do estado do Rio"
+title: "Feira Estadual Cícero Guedes: Uma campanha pelo direito à alimentação e pela vida"
+support_line: "Esta 10º edição reforça o caráter de organização popular da Feira, que conta com mais de 100 feirantes"
 menu: reforma agrária
 images_hd: //farm5.staticflickr.com/4853/46229760142_0b490230ba_b.jpg
 section: cover
@@ -26,6 +26,12 @@ releated_posts:
   - _posts/2018/07/2018-07-02-mst-produz-mais-de-50-variedades-de-feijao-organico-no-rio-grande-do-sul.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="feira.jpg" height="468" src="//farm5.staticflickr.com/4853/46229760142_0b490230ba_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>Do Coletivo de Comunica&ccedil;&atilde;o do MST/RJ<br />
