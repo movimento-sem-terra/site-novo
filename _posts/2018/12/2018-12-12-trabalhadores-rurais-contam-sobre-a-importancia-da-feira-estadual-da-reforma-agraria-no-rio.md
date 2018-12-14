@@ -43,6 +43,7 @@ releated_posts:
   - _posts/2018/10/2018-10-19-e-preciso-equilibrar-o-consumo-a-producao-e-a-relacao-com-a-natureza-explica-dirigente-do-mst.md
   - _posts/2018/06/2018-06-17-feira-reafirma-a-luta-antirracista-como-central-na-defesa-da-alimentacao-saudavel.md
   - _posts/2018/06/2018-06-11-4o-feira-estadual-da-reforma-agraria-e-realizada-no-centro-de-salvador.md
+section: featured-news
 
 ---
 <div dir="auto">&nbsp;</div>
