@@ -30,6 +30,7 @@ releated_posts:
   - _posts/2018/11/2018-11-29-apos-13-anos-do-assassinato-de-sem-terra-em-alagoas-dirigente-do-mst-comenta-o-caso-e-os-desafios-da-luta-pela-terra.md
   - _posts/2018/11/2018-11-29-sem-terra-relembram-os-13-anos-do-assassinato-de-lideranca-do-mst-durante-dia-de-luta-em-alagoas.md
   - _posts/2018/12/2018-12-09-ministerio-publico-federal-repudia-assassinato-de-trabalhadores-sem-terra-na-paraiba.md
+section: featured-news
 
 ---
 <p><br />
