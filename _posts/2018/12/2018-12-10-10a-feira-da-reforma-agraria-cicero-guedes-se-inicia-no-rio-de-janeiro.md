@@ -7,7 +7,7 @@ tags:
 title: "Começa no Rio de Janeiro 10ª Feira da Reforma Agrária Cícero Guedes "
 support_line: "O evento, organizado pelo MST, segue até  a próxima quarta-feira no Largo da Carioca"
 menu: reforma agrária
-section: featured-news
+section: null
 images_hd: //farm5.staticflickr.com/4830/45542265294_9df28aaba1_b.jpg
 layout: post
 files:
