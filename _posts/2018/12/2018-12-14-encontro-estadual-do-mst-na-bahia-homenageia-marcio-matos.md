@@ -104,7 +104,9 @@ Sobre o desafio da luta e da organiza&ccedil;&atilde;o dos trabalhadores e traba
 Confira o texto escrito em homenagem a M&aacute;rcio Matos no Ato de Abertura do 31&ordm; Encontro Estadual do MST na Bahia.</p>
 
 <p><br />
-N&atilde;o tive tempo para ter medo. Bradou Carlos Marighela e assim dizia M&aacute;rcio Matos, nosso Marcinho.&nbsp;<br />
+&quot;N&atilde;o tive tempo para ter medo&quot;, bradou Carlos Marighela e assim dizia M&aacute;rcio Matos, nosso Marcinho.&nbsp;</p>
+
+<p><br />
 Perdeu seu pai logo cedo, tendo que enfrentar a dureza da vida ao lado de sua m&atilde;e. Ele escolheu a luta de classes, ele escolheu o sonho revolucion&aacute;rio e foi abra&ccedil;ado pela luta e pelas fam&iacute;lias que fazem ela acontecer.</p>
 
 <p><br />
