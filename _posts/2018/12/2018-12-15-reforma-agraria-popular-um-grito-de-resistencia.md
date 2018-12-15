@@ -54,7 +54,7 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 &ldquo;O Festival Estadual de Arte e Cultura do MST &eacute; um grito de resist&ecirc;ncia aos desmontes que v&ecirc;m sendo orquestrados pelo governo com o intuito de tentar criminalizar e deslegitimar &agrave; luta pela terra e por Reforma Agr&aacute;ria&rdquo;, destaca Jahia do assentamento Irm&atilde; Dorothy, no Tri&acirc;ngulo Mineiro.&nbsp;</p>
 
 <p><br />
-O evento &eacute; organizado e viabilizado pelo MST e re&uacute;ne produtores de v&aacute;rias regi&otilde;es de Minas Gerais e Esp&iacute;rito Santo no Parque Municipal Am&eacute;rico Renn&eacute; Giannetti em Belo Horizonte.&nbsp;</p>
+O evento &eacute; organizado e viabilizado pelo MST e re&uacute;ne produtores de v&aacute;rias regi&otilde;es de Minas Gerais e Esp&iacute;rito Santo no Parque Municipal Am&eacute;rico Renn&eacute; Giannetti, em Belo Horizonte.&nbsp;</p>
 
 <p><br />
 O trabalho de Jahia consiste em trabalhar exclusivamente com a terra. Desse modo, ela produz da terra produtos livres de venenos, saud&aacute;veis &agrave; sa&uacute;de e com pre&ccedil;os baixos. Este &uacute;ltimo fator, ela ressalta, faz com que produtos agroecol&oacute;gicos ou em transi&ccedil;&atilde;o agroecol&oacute;gica possam ser comprados por pessoas de baixa renda, j&aacute; que esses alimentos nos supermercados e sacol&otilde;es t&ecirc;m um alto custo e assim tornam-se restritos &agrave;s pessoas com alto poder aquisitivo.&nbsp;</p>
