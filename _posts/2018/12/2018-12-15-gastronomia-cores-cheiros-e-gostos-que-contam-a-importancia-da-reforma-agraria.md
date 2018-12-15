@@ -64,19 +64,26 @@ A riqueza do Estado de Minas Gerais contribui com a possibilidade de entre as ce
 <p><br />
 O MST &eacute; conhecido por lutar pela agroecologia enquanto forma de produ&ccedil;&atilde;o e rela&ccedil;&atilde;o entre o povo e a natureza. Esta perspectiva traz as bananas, farinha de mandioca, mel entre outros alimentos um sabor pr&oacute;prio sem explora&ccedil;&atilde;o do trabalho, compromisso com o meio ambiente e com as rela&ccedil;&otilde;es de g&ecirc;nero e sexualidade.</p>
 
-<p><br />
-A agroecologia tamb&eacute;m est&aacute; presente na educa&ccedil;&atilde;o para o consumo e ao longo do festival ela se expressa no pre&ccedil;o justo que diferencia-se do mercado privado, e no carinho das rela&ccedil;&otilde;es entre consumidores e produtores dos diversos pratos t&iacute;picos.</p>
-
-<p>&nbsp;</p>
-
 <figure class="image" style="float:left"><img alt="IMG_20181215_191441_646.jpg" height="300" src="//farm5.staticflickr.com/4863/44513720800_4ff68ed329_b.jpg" width="450" />
 <figcaption></figcaption>
 </figure>
 
-<p>O card&aacute;pio varia entre a Carne de Sol com Mandioca para um tira-gosto entre amigos e familiares, como tamb&eacute;m do pir&atilde;o ou o arroz com pequi para almo&ccedil;ar. Cada um destes pratos al&eacute;m de bonitos, s&atilde;o forma de mostrar a resist&ecirc;ncia dos quatro biomas presentes no territ&oacute;rio mineiro. Al&eacute;m da rela&ccedil;&atilde;o com os povos e comunidades tradicionais e popula&ccedil;&otilde;es&nbsp; espec&iacute;ficas.</p>
+<p><br />
+A agroecologia tamb&eacute;m est&aacute; presente na educa&ccedil;&atilde;o para o consumo e ao longo do festival ela se expressa no pre&ccedil;o justo que diferencia-se do mercado privado, e no carinho das rela&ccedil;&otilde;es entre consumidores e produtores dos diversos pratos t&iacute;picos.</p>
+
+<p><br />
+O card&aacute;pio varia entre a Carne de Sol com Mandioca para um tira-gosto entre amigos e familiares, como tamb&eacute;m do pir&atilde;o ou o arroz com pequi para almo&ccedil;ar. Cada um destes pratos al&eacute;m de bonitos, s&atilde;o forma de mostrar a resist&ecirc;ncia dos quatro biomas presentes no territ&oacute;rio mineiro. Al&eacute;m da rela&ccedil;&atilde;o com os povos e comunidades tradicionais e popula&ccedil;&otilde;es&nbsp; espec&iacute;ficas.</p>
 
 <p><br />
 &Eacute; importante tamb&eacute;m falar da cacha&ccedil;a Veredas da Terra e da pasta da Castanha de Baru. Produtos da reforma agr&aacute;ria que voc&ecirc; s&oacute; encontrar&aacute; neste final de semana ou no Armaz&eacute;m do Campo: Produtos da Terra que se localiza na avenida Augusto de Lima 2136 no Barro Preto.</p>
 
 <p><br />
 Para quem quer conhecer mais desses significados, quer ouvir uma boa m&uacute;sica, comer bem e lutar, o festival acontece at&eacute; este domingo (16/12) no Parque Municipal Am&eacute;rico Renn&eacute; Giannetti no Centro da capital mineira.</p>
+
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG_20181215_191453_250.jpg" height="466" src="//farm5.staticflickr.com/4890/31391374067_d37387164a_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
