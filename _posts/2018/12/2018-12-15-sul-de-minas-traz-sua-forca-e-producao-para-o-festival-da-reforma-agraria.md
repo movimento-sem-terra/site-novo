@@ -46,7 +46,7 @@ releated_posts:
 
 <p><br />
 <em>Por Lourdes Rieiro e Matheus Teixeira<br />
-Da p&aacute;gina do MST</em></p>
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 O Sul de Minas traz uma grande diversidade de produ&ccedil;&atilde;o agroecol&oacute;gica e agro-industrializados para o II Festival Estadual de Arte e Cultura da Reforma Agr&aacute;ria, que acontece em Belo Horizonte nos dias 14 a 16 no Parque Municipal Am&eacute;rico Renn&eacute; Giannetti. Inclusive, o famoso caf&eacute; Guai&iacute;, s&iacute;mbolo de resist&ecirc;ncia contra as multinacionais, um caf&eacute; sustent&aacute;vel e popular.&nbsp;</p>
