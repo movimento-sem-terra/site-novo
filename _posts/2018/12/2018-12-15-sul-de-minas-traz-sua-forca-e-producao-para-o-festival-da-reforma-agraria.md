@@ -78,3 +78,6 @@ Com mais de 450 fam&iacute;lias o acampamento passou recentemente por uma limina
 
 <p><br />
 Como a luta n&atilde;o para, em 2006 mais um acampamento foi criado em Guap&eacute;, com 49 fam&iacute;lias hoje assentadas e construindo uma outra perspectiva de vida. Em 2009 uma nova &aacute;rea da Uni&atilde;o foi ocupada no munic&iacute;pio de Campo do Meio, agora com 13 fam&iacute;lias assentadas que tamb&eacute;m produzem e garantem sua sobreviv&ecirc;ncia.</p>
+
+<p><br />
+<em>*Editado por Iris Pacheco</em></p>
