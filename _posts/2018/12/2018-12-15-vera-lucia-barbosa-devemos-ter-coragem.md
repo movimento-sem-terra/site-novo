@@ -31,7 +31,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="DSC_6828.JPG" height="467" src="//farm5.staticflickr.com/4902/45418040845_a18df81155_b.jpg" width="700" />
-<figcaption><em>Para Lucinha, debater o aumento de assassinatos no campo &eacute; urgente. Foto: Adelvan Banto</em></figcaption>
+<figcaption><em>Para Lucinha, debater o aumento de assassinatos no campo &eacute; urgente. Foto: Adelvan Bantu</em></figcaption>
 </figure>
 </div>
 
