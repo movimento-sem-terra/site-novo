@@ -83,7 +83,7 @@ O Deputado Federal eleito, Rog&eacute;rio Corr&ecirc;a, lembrou a luta por Lula 
 
 <figure class="image" style="float:right"><img alt="photo4945407941310261240.jpg" height="300" src="//farm5.staticflickr.com/4846/31391692467_79e4d4d4a2_b.jpg" width="450" />
 <figcaption><em>Ap&oacute;s o ato Aline Calixto abriu a noite&nbsp;<br />
-&quot;N&atilde;o deixe o samba morrer. Foto: Isabelle Medeiros</em></figcaption>
+&quot;N&atilde;o deixe o samba morrer&quot;. Foto: Isabelle Medeiros</em></figcaption>
 </figure>
 
 <p><br />
