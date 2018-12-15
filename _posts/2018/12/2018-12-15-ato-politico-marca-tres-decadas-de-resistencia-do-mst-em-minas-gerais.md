@@ -63,7 +63,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-No entardecer desta sexta-feira, 14, come&ccedil;ou o II Festival Estadual de Arte e Cultura da Reforma Agr&aacute;ria, no parque municipal de Belo Horizonte. Durante o Ato Pol&iacute;tico pelo Direito a Terra, o MST recebeu convidados que contribuem na sua constru&ccedil;&atilde;o desde sua origem.&nbsp;</p>
+No entardecer desta sexta-feira, 14, come&ccedil;ou o II Festival Estadual de Arte e Cultura da Reforma Agr&aacute;ria, no Parque Municipal Am&eacute;rico Renn&eacute; Giannetti, em Belo Horizonte. Durante o Ato Pol&iacute;tico pelo Direito a Terra, o MST recebeu convidados que contribuem na sua constru&ccedil;&atilde;o desde sua origem.&nbsp;</p>
 
 <p><br />
 Do legado da luta dos posseiros em Te&oacute;filo Otoni, em 1945, nasce o MST de Minas Gerais. A primeira ocupa&ccedil;&atilde;o no Estado foi realizada em 1988, com 400 fam&iacute;lias que constru&iacute;ram o assentamento Aruega, que leva o nome da fazenda ocupada, no Munic&iacute;pio de Novo Cruzeiro. Essa mesma regi&atilde;o sofreu o Massacre de Felisbugo, no qual cinco Sem Terra foram assassinados por Adriano Chafik, que est&aacute; preso desde o ano passado pelo crime.</p>
