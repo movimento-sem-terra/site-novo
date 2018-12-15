@@ -58,7 +58,7 @@ Al&eacute;m disso, trouxemos&nbsp;a cozinha da terra com muita comida gostosa do
 &Eacute; poss&iacute;vel ter acesso a uma grande diversidade de produtos saud&aacute;veis e sem veneno, como mel, amendoim, milho de pipoca, farinha, legumes, tub&eacute;rculos, entre outros.&nbsp;</p>
 
 <p><br />
-&quot;O festival &eacute; sin&ocirc;nimo de muita luta, &eacute; onde n&oacute;s podemos trazer a nossa produ&ccedil;&atilde;o para toda a sociedade mineira, &eacute; importante estar aqui, mostrar nossa grande conquista que &eacute; o apoio do povo, mostrar que mesmos em tempos dif&iacute;ceis seguimos produzindo fazendo arte e resistindo.&quot; Conta Tuira Tule do setor de produ&ccedil;&atilde;o</p>
+&quot;O festival &eacute; sin&ocirc;nimo de muita luta, &eacute; onde n&oacute;s podemos trazer a nossa produ&ccedil;&atilde;o para toda a sociedade mineira, &eacute; importante estar aqui, mostrar nossa grande conquista que &eacute; o apoio do povo, mostrar que mesmos em tempos dif&iacute;ceis seguimos produzindo fazendo arte e resistindo&quot;, conta Tu&iacute;ra Tule do setor de produ&ccedil;&atilde;o.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="photo4947681765716240415.jpg" height="300" src="//farm5.staticflickr.com/4854/31387830717_723601fdec_b.jpg" width="450" />
 <figcaption><em>Foto: Tassio Lopes - Ninja</em></figcaption>
