@@ -45,7 +45,7 @@ releated_posts:
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Neste s&aacute;bado (15, o MST realizar&aacute; a abertura oficial da I Copa da Reforma Agr&aacute;ria. O evento acontecer&aacute; no Est&aacute;dio Carneir&atilde;o, no munic&iacute;pio de Quixeramobim no sert&atilde;o central do Cear&aacute;, com p&uacute;blico esperado de 5 mil participantes.</p>
+Neste s&aacute;bado 15, o MST realizar&aacute; a abertura oficial da I Copa da Reforma Agr&aacute;ria. O evento acontecer&aacute; no Est&aacute;dio Carneir&atilde;o, no munic&iacute;pio de Quixeramobim no sert&atilde;o central do Cear&aacute;, com p&uacute;blico esperado de 5 mil participantes.</p>
 
 <p><br />
 A primeira copa estadual da Reforma Agr&aacute;ria &eacute; uma realiza&ccedil;&atilde;o da Associa&ccedil;&atilde;o de Coopera&ccedil;&atilde;o Agr&iacute;cola do Estado do Cear&aacute; (ACACE), Governo do Estado do Cear&aacute;, atrav&eacute;s da Secretaria de Esporte com o apoio do Movimento dos Trabalhadores/as Rurais Sem Terra (MST).&nbsp;</p>
@@ -61,3 +61,6 @@ A abertura que est&aacute; prevista para iniciar a partir das 16:00 horas, com u
 
 <p><br />
 O evento seguir&aacute; durante os pr&oacute;ximos tr&ecirc;s meses, com disputas nas regionais em seguida a final que tem como indicativo acontecer em mar&ccedil;o de 2019 no est&aacute;dio Castel&atilde;o em Fortaleza.</p>
+
+<p><br />
+<em>*Editado por Iris Pacheco</em></p>
