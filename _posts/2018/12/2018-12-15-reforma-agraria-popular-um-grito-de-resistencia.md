@@ -35,6 +35,7 @@ releated_posts:
   - _posts/2018/08/2018-08-12-comer-bem-para-caminhar-ainda-melhor.md
   - _posts/2018/08/2018-08-12-marcha-lula-livre-doa-alimentos-saudaveis-para-instituicoes-de-valparaiso.md
   - _posts/2018/11/2018-11-07-acampamento-gabriel-pimenta-tambem-pode-ser-despejado-em-minas-gerais.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
