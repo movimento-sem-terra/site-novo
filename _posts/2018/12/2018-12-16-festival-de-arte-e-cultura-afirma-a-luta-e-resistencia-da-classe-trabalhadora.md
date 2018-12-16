@@ -76,7 +76,8 @@ Nesse sentido, o Festival se insere dentro de uma conjuntura adversa, que imp&ot
 &quot;O festival vem como uma forma de enfrentamento e resist&ecirc;ncia que busca dialogar com toda sociedade a partir da produ&ccedil;&atilde;o de alimentos saud&aacute;veis, cultura camponesa e urbana, escolas que nos ensine a pensar, medicina tradicional e popular feita pelo povo e para o povo&quot;, conta Ester Hoffmann, da Dire&ccedil;&atilde;o Nacional do MST.</p>
 
 <figure class="image" style="float:right"><img alt="photo4952256739110135830.jpg" height="300" src="//farm5.staticflickr.com/4811/46344334601_7038965a92_b.jpg" width="450" />
-<figcaption><em>Moqueca capixaba na cozinha Culin&aacute;ria da Terra. Foto: Joyce Fonseca</em></figcaption>
+<figcaption><em>Moqueca capixaba na cozinha Culin&aacute;ria da Terra.<br />
+Foto: Joyce Fonseca</em></figcaption>
 </figure>
 
 <p><br />
