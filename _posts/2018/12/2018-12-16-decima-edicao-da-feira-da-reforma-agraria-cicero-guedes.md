@@ -4,7 +4,7 @@ tags:
   - tag: rio-de-janeiro
   - tag: feira-da-reforma-agrária
   - tag: nossa-produção
-title: Décima edição da Feira da Reforma Agrária Cícero Guedes
+title: "Décima edição da Feira da Reforma Agrária Cícero Guedes: solidariedade entre campo e cidade"
 images_hd: //farm5.staticflickr.com/4803/31391796277_50b1ec7b71_b.jpg
 support_line: "Nos três dias, foram comercializadas cerca de 100 toneladas de produtos e alimentos e circularam mais de 6 mil pessoas."
 menu: reforma agrária
