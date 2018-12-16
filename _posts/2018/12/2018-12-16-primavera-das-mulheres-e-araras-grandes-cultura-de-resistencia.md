@@ -68,7 +68,7 @@ A tarde do segundo dia do&nbsp; Festival&nbsp; de Arte e Cultura da Reforma Agr&
 Priscila Magela destacou a riqueza e import&acirc;ncia do evento sobretudo no atual contexto que assombra pelo obscurantismo. &ldquo;&Eacute; uma for&ccedil;a muito grande, estamos tomando o lugar que &eacute; nosso apesar do cen&aacute;rio. Representar a m&uacute;sica &ldquo;barraqueira&rdquo; &eacute; uma honra. Me senti em casa, ainda mais por estar ao lado dessas mulheres t&atilde;o guerreiras.&rdquo;&nbsp;</p>
 
 <p><br />
-&ldquo;N&oacute;s somos porque somos&rdquo;, sintetiza Andr&eacute;ia Roseno sobre o significado do MST. Segundo Roseno, a uni&atilde;o das pessoas e protagonismo das mulheres &eacute; fundamental para que a estrutura opressora do machismo seja destru&iacute;da. O evento, vem para refor&ccedil;ar que a luta &eacute; conjunta e precisamos estar unidos para nos fortalecer. &ldquo;O movimento vem agregando essas vozes, agregando esses corpos e os colocando em luta e marcha.&rdquo;&nbsp;</p>
+&ldquo;N&oacute;s somos porque somos&rdquo;, sintetiza Andr&eacute;ia Roseno sobre o significado do MST. Segundo Roseno, a uni&atilde;o das pessoas e protagonismo das mulheres &eacute; fundamental para que a estrutura opressora do machismo seja destru&iacute;da. O evento, vem para refor&ccedil;ar que a luta &eacute; conjunta e precisamos estar unidos para nos fortalecer. &ldquo;O movimento vem agregando essas vozes, agregando esses corpos e os colocando em luta e marcha&quot;, afirma.</p>
 
 <figure class="image" style="float:left"><img alt="photo4949895228651841554.jpg" height="318" src="//farm5.staticflickr.com/4857/45617910324_eeed73758c_b.jpg" width="450" />
 <figcaption><em>Foto: Isabelle Medeiros</em></figcaption>
