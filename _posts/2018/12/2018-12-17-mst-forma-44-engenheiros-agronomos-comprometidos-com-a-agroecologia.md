@@ -54,6 +54,7 @@ releated_posts:
   - _posts/2018/11/2018-11-22-uma-educadora-revolucionaria-presente-hoje-e-sempre.md
   - _posts/2018/11/2018-11-06-escola-latino-americana-de-agroecologia-forma-militantes-educadores-da-reforma-agraria-popular.md
   - _posts/2018/11/2018-11-05-comunidades-escolares-lutam-pela-manutencao-de-escolas-do-campo-em-abelardo-luz-santa-catarina.md
+section: cover
 
 ---
 <div style="text-align:center">
