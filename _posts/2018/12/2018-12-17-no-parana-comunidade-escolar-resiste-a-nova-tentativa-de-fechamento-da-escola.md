@@ -4,7 +4,7 @@ tags:
   - tag: escola-do-campo
   - tag: formação
   - tag: educação
-title: "No Paraná, comunidade escolar resiste a nova tentativa de fechamento da escola"
+title: Em Santa Catarina comunidade escolar resiste a nova tentativa de fechamento da escola
 images_hd: //farm5.staticflickr.com/4844/44537313750_dfe1d687c8_b.jpg
 menu: "educação, cultura e comunicação"
 support_line: "A comunidade escolar se mobilizou e obteve liminar judicial para que a escola continuasse funcionando até dezembro de 2018. Contudo, a luta segue, pois ainda não há decisão definitiva acerca do processo "
