@@ -85,7 +85,7 @@ Muito mais que um espa&ccedil;o de comercializa&ccedil;&atilde;o, a Feira Estadu
 Apesar da negativa repentina do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) em n&atilde;o executar um or&ccedil;amento j&aacute; liberado destinado &agrave; Feira, o engajamento coletivo garantiu a realiza&ccedil;&atilde;o do evento. &ldquo;A contribui&ccedil;&atilde;o das pessoas que foram &agrave; Feira somou cerca de 3 mil reais, nos dois dias em que foi organizada uma caixinha&rdquo;, informa Raoni.</p>
 
 <p><br />
-O Movimento segue em campanha de arrecada&ccedil;&atilde;o por meio de um financiamento coletivo na plataforma Catarse. A campanha do Catarse j&aacute; arrecadou mais de 10 mil reais de uma meta de 17 mil e segue ate o pr&oacute;ximo dia 22. Atrav&eacute;s do link<a href="http://www.bit.ly.com/catarse-feirareformaagraria"> www.bit.ly.com/catarse-feirareformaagraria</a> qualquer apoiador pode doar a partir de R$ 10,00 para fortalecer a luta pela alimenta&ccedil;&atilde;o saud&aacute;vel.</p>
+O Movimento segue em campanha de arrecada&ccedil;&atilde;o por meio de um financiamento coletivo na plataforma Catarse. A campanha do Catarse j&aacute; arrecadou mais de 10 mil reais de uma meta de 17 mil e segue ate o pr&oacute;ximo dia 22. Atrav&eacute;s do link<a href="http://www.bit.ly/catarse-feirareformaagraria"> www.bit.ly/catarse-feirareformaagraria</a> qualquer apoiador pode doar a partir de R$ 10,00 para fortalecer a luta pela alimenta&ccedil;&atilde;o saud&aacute;vel.</p>
 
 <p><br />
 <strong>Sucesso de vendas</strong></p>
@@ -104,7 +104,7 @@ Estima-se que circularam cerca de 6 mil pessoas no espa&ccedil;o de mil metros q
 Parlamentares veteranos e rec&eacute;m-eleitos tamb&eacute;m estivera presentes, como o vereador pelo PSOL Renato Cinco, apoiador do evento. A Feira foi inclu&iacute;da na lei municipal 5.999/2015 como Patrim&ocirc;nio Cultural e tamb&eacute;m parte do calend&aacute;rio da cidade.</p>
 
 <p><br />
-O conjunto da sociedade deve contribuir para materializar e efetivar estes ganhos&rdquo;, explica o dirigente em refer&ecirc;ncia ao Catarse. A campanha est&aacute; inscrita na modalidade &ldquo;Tudo ou Nada&rdquo; e precisa atingir a meta de 17 mil reais para efetivar as doa&ccedil;&otilde;es feitas. (Acesse no link: <a href="http://www.bit.ly.com/catarse-feirareformaagraria">www.bit.ly.com/catarse-feirareformaagraria</a>)</p>
+O conjunto da sociedade deve contribuir para materializar e efetivar estes ganhos&rdquo;, explica o dirigente em refer&ecirc;ncia ao Catarse. A campanha est&aacute; inscrita na modalidade &ldquo;Tudo ou Nada&rdquo; e precisa atingir a meta de 17 mil reais para efetivar as doa&ccedil;&otilde;es feitas. (Acesse no link: <a href="http://www.bit.ly/catarse-feirareformaagraria">www.bit.ly/catarse-feirareformaagraria</a>)</p>
 
 <p><br />
 A Feira contou tamb&eacute;m com a participa&ccedil;&atilde;o de diversos parceiros. Estiveram presentes o Movimento dos Pequenos Agricultores (MPA), com a produ&ccedil;&atilde;o agroecol&oacute;gica das fam&iacute;lias camponesa do estado de outras regi&otilde;es do pais, a Rede Carioca de Agricultura Urbana, com as experi&ecirc;ncias de produ&ccedil;&atilde;o em diversas regi&otilde;es da cidade, assim como a Feira da Ro&ccedil;a de Nova Igua&ccedil;u, um importante espa&ccedil;o popular da regi&atilde;o.</p>
