@@ -6,7 +6,7 @@ tags:
   - tag: bahia
 title: "Auto-organizar para formar e transformar\n"
 images_hd: //farm5.staticflickr.com/4897/46330350682_4bac3f4c0b_b.jpg
-support_line: "Patriarcado, machismo, LGBTfobia foram os temas discutidos durante o  31º Encontro Estadual do MST na Bahia"
+support_line: "Patriarcado, machismo, LGBTfobia foram alguns dos temas discutidos no  31º Encontro Estadual do MST na Bahia"
 menu: lutas e mobilizações
 layout: post
 files:
@@ -39,7 +39,7 @@ releated_posts:
 <div>
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2018-12-19 at 11.48.28.jpeg" height="525" src="//farm5.staticflickr.com/4897/46330350682_4bac3f4c0b_b.jpg" width="700" />
-<figcaption>Fotos: Cadu Silva</figcaption>
+<figcaption><em>Assembleia da Juventude Sem Terra. Foto: Cadu Silva</em></figcaption>
 </figure>
 </div>
 </div>
@@ -50,15 +50,17 @@ releated_posts:
 
 <div><em>Por Wesley Lima<br />
 Da P&aacute;gina do MST</em></div>
-</div>
 
 <div>&nbsp;</div>
 
-<div>Patriarcado, machismo, LGBTfobia e a participa&ccedil;&atilde;o da juventude na luta popular foram alguns dos temas discutidos nos espa&ccedil;os auto-organizados&nbsp;durante o 31&ordm; Encontro Estadual do MST na Bahia, que aconteceu aconteceu no Parque de Exposi&ccedil;&otilde;es de Salvador, entre os dias 14 e 17 de dezembro.&nbsp;</div>
+<div>&nbsp;</div>
+
+<div>Patriarcado, machismo, LGBTfobia e a participa&ccedil;&atilde;o da juventude na luta popular foram alguns dos temas discutidos nos espa&ccedil;os auto-organizados&nbsp;durante o 31&ordm; Encontro Estadual do MST na Bahia, que aconteceu&nbsp;no Parque de Exposi&ccedil;&otilde;es de Salvador, entre os dias 14 e 17 de dezembro.&nbsp;</div>
+</div>
 
 <div><br />
 <br />
-Os espa&ccedil;os da atividade levaram o nome de assembleias e foram realizadas com a participa&ccedil;&atilde;o massiva das mulheres, da juventude e das LGBT Sem Terra. J&aacute; para&nbsp;os homens, os debates tiveram como objetivo principal provocar uma reflex&atilde;o acerca&nbsp;das posturas machistas que interferem na constru&ccedil;&atilde;o coletiva da Reforma Agr&aacute;ria Popular.</div>
+Os espa&ccedil;os levaram o nome de assembleias e foram realizadas com a participa&ccedil;&atilde;o massiva das mulheres, da juventude e das LGBT Sem Terra. J&aacute; para&nbsp;os homens, os debates tiveram como objetivo principal provocar uma reflex&atilde;o acerca&nbsp;das posturas machistas que interferem na constru&ccedil;&atilde;o coletiva da Reforma Agr&aacute;ria Popular.</div>
 
 <div><br />
 <br />
@@ -66,7 +68,7 @@ O m&eacute;todo dos debates auto-organizados est&aacute; sendo experimentado no 
 
 <div><br />
 <br />
-Elaine Fritz, da dire&ccedil;&atilde;o estadual do MST, participou da &#39;Assembleia das Mulheres&#39;, e ela afirma que o processo tem qualificado e a forma&ccedil;&atilde;o e incidido na transforma&ccedil;&atilde;o social.&nbsp;</div>
+Elaine Fritz, da dire&ccedil;&atilde;o estadual do MST, participou da &#39;Assembleia das Mulheres&#39;&nbsp;e ela afirma que o processo tem qualificado&nbsp;a forma&ccedil;&atilde;o e incidido na transforma&ccedil;&atilde;o social.&nbsp;</div>
 
 <div><br />
 <br />
@@ -74,26 +76,36 @@ Fritz explica tamb&eacute;m que o espa&ccedil;o &eacute; muito importante, &ldqu
 
 <div><br />
 <br />
-Com a juventude, a assembleia centralizou-se no &#39;ouvir&#39;, destaca Jobson Passos, do coletivo de Juventude do MST. &ldquo;Como a Bahia &eacute; muito extensa temos uma variedade de juventude e a assembleia possibilitou isso: ouvir uma parcela da juventude e saber como &eacute; a viv&ecirc;ncia nas &aacute;reas.</div>
+Com a juventude, a assembleia centralizou-se no &quot;ouvir&quot;, segundo&nbsp;Jobson Passos, do coletivo de Juventude do MST. &ldquo;Como a Bahia &eacute; muito extensa temos uma variedade de juventude e a assembleia possibilitou isso: ouvir uma parcela da juventude e saber como &eacute; a viv&ecirc;ncia nas &aacute;reas&quot;.</div>
 
 <div><br />
 <br />
-Ele comenta tamb&eacute;m que ao ouvir os relatos, &ldquo;a gente consegue entender, minimamente, como &eacute; as lutas da juventude na base [assentamentos e acampamentos], como &eacute; que essa juventude se insere e cresce dentro do Movimento. A gente precisa entender essa realidade para que possamos procurar reivindicar os direitos da pr&oacute;pria juventude&rdquo;.&nbsp;</div>
+Ele comenta tamb&eacute;m que ao ouvir os relatos, &ldquo;a gente consegue entender, minimamente, como s&atilde;o&nbsp;as lutas da juventude na base [assentamentos e acampamentos], como &eacute; que essa juventude se insere e cresce dentro do Movimento. A gente precisa entender essa realidade para que possamos procurar reivindicar os direitos da pr&oacute;pria juventude&rdquo;.&nbsp;</div>
 
 <div><br />
 <br />
 E continua: &ldquo;ter esse espa&ccedil;o, onde a juventude pode falar dos anseios, medos e o que esperam para o futuro &eacute; primordial para luta do MST&rdquo;.&nbsp;</div>
 
+<div>&nbsp;</div>
+
 <div>
-<p style="text-align:center"><img alt="Assembleia das Mulheres.jpg" height="450" src="//farm5.staticflickr.com/4816/46330350662_f5b4094ae3_b.jpg" width="600" /></p>
-<br />
-<br />
-Ingrid Assun&ccedil;&atilde;o, l&eacute;sbica e residente do assentamento Terra Vista, localizado em Arataca, no Sul da Bahia, participou pela primeira vez de um espa&ccedil;o auto-organizado com as LGBT Sem Terra e acredita que esse m&eacute;todo precisa ser constru&iacute;do nos assentamentos e acampamentos, ou seja, extrapolando as estruturas dos encontros estaduais.&nbsp;</div>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Assembleia das Mulheres.jpg" height="450" src="//farm5.staticflickr.com/4816/46330350662_f5b4094ae3_b.jpg" width="600" />
+<figcaption><em>Assembl&eacute;ia das Mulheres reuniu militantes de dez regi&otilde;es da Bahia. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+</figure>
+</div>
 
-<div><br />
-<br />
-Assun&ccedil;&atilde;o fala tamb&eacute;m que discutir o que &eacute; ser LGBT Sem Terra tem contribu&iacute;do na forma&ccedil;&atilde;o e inser&ccedil;&atilde;o desses sujeitos na luta pol&iacute;tica do MST. Ao relembrar sobre os debates e as m&iacute;sticas realizadas durante a Assembleia das LGBT, comenta: &ldquo;Eu chorei do in&iacute;cio at&eacute; o final. Me senti acolhida&rdquo;.&nbsp;</div>
+<p>&nbsp;</p>
 
-<div><br />
-<br />
-&ldquo;&Eacute; muito dif&iacute;cil ser LGBT no campo, ainda temos pessoas que n&atilde;o entendem e muitos com um discurso fundamentalista n&atilde;o se prop&otilde;e aceitar a diversidade que envolve nossas rela&ccedil;&otilde;es. Por&eacute;m, temos tamb&eacute;m pessoas mais engajadas, que perguntam sobre e querem entender&rdquo;, explica e continua: &ldquo;&eacute; muito importante esses sujeitos estarem ocupando esses espa&ccedil;os. &Eacute; uma visibilidade maior para gente e pretendo ver daqui para frente a gente estar ocupando o m&aacute;ximo de espa&ccedil;os poss&iacute;veis, dando a cara a tapa. Estamos em luta constante, inclusive, com n&oacute;s mesmos&rdquo;, finaliza.</div>
+<p>Ingrid Assun&ccedil;&atilde;o, l&eacute;sbica e moradora&nbsp;do assentamento Terra Vista, localizado em Arataca, no Sul da Bahia, participou pela primeira vez de um espa&ccedil;o auto-organizado com as LGBT Sem Terra e acredita que esse m&eacute;todo precisa ser constru&iacute;do nos assentamentos e acampamentos, ou seja, extrapolando as estruturas dos encontros estaduais.&nbsp;</p>
+
+<p><br />
+Assun&ccedil;&atilde;o fala tamb&eacute;m que discutir o que &eacute; ser LGBT Sem Terra tem contribu&iacute;do na forma&ccedil;&atilde;o e inser&ccedil;&atilde;o desses sujeitos na luta pol&iacute;tica do MST. Ao relembrar sobre os debates e as m&iacute;sticas realizadas durante a Assembleia das LGBT, comenta: &ldquo;Eu chorei do in&iacute;cio at&eacute; o final. Me senti acolhida&rdquo;.&nbsp;</p>
+
+<p><br />
+&ldquo;&Eacute; muito dif&iacute;cil ser LGBT no campo, ainda temos pessoas que n&atilde;o entendem e muitos com um discurso fundamentalista n&atilde;o se prop&otilde;e aceitar a diversidade que envolve nossas rela&ccedil;&otilde;es. Por&eacute;m, temos tamb&eacute;m pessoas mais engajadas, que perguntam sobre e querem entender&rdquo;, explica e continua: &ldquo;&eacute; muito importante esses sujeitos estarem ocupando esses espa&ccedil;os. &Eacute; uma visibilidade maior para gente e pretendo ver daqui para frente a gente estar ocupando o m&aacute;ximo de espa&ccedil;os poss&iacute;veis, dando a cara a tapa. Estamos em luta constante, inclusive, com n&oacute;s mesmos&rdquo;, finaliza.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</div>
