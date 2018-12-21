@@ -35,13 +35,17 @@ releated_posts:
   - _posts/2018/11/2018-11-12-familias-sofrem-ameaca-de-despejo-no-maranhao.md
   - _posts/2018/11/2018-11-30-para-filha-de-glauber-rocha-mst-gera-desenvolvimento-com-producao-de-alimentos.md
   - _posts/2018/11/2018-11-08-novembro-negro-e-tempo-de-reafirmar-a-resistencia-do-povo-brasileiro.md
+  - _posts/2018/12/2018-12-01-tv-panafricana-voz-de-esperanca-que-vem-da-africa.md
+  - _posts/2018/12/2018-12-06-sem-terra-sao-despejados-de-acampamento-no-ceara.md
+  - _posts/2018/11/2018-11-12-depois-de-sobrevivermos-a-450-anos-de-escravidao-nao-cabemos-em-apenas-30-dias.md
+sector: education
 
 ---
 <p>&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="photo_2018-12-18_12-08-07.jpg" height="525" src="//farm5.staticflickr.com/4806/31467614017_4010bf3aee_b.jpg" width="700" />
-<figcaption>Fotos: Divulga&ccedil;&atilde;o MST</figcaption>
+<figcaption><em>Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 </div>
 
@@ -114,4 +118,8 @@ Durante ao Encontro, algumas quest&otilde;es se apresentaram na centralidade das
 
 <div><br />
 Nesse sentido, Vargas apontou que, nos &uacute;ltimos anos, ocorreu diversos fechamentos de escolas do campo. &ldquo;Nessa totalidade, mais de 37 mil escolas em todo pa&iacute;s foram fechadas. O estado da Bahia encontra-se entre os maiores n&uacute;meros num total de 5 mil escolas. Esse &eacute; o nosso maior desafio. N&atilde;o devemos aceitar nenhum fechamento de escolas em nossas &aacute;reas, mas sim ampliar e abrir novas escolas do campo&rdquo;, finalizou.</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
 </div>
