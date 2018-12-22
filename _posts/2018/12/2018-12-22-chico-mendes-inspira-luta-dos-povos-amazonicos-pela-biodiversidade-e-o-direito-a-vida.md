@@ -2,7 +2,7 @@
 date: "2018-12-22T17:54:23-02:00"
 tags:
   - tag: "#ChicoMendes--#LutaAmbiental-#Biodiversidade-#Amazônia"
-title: "Chico Mendes inspira luta dos povos amazônicos pela biodiversidade e o direito à vida "
+title: "Chico Mendes inspira luta pela biodiversidade e direito à vida "
 support_line: "Reafirmamos o legado e a memória de luta desse caboclo amazônico, que cedo compreendeu seu papel diante da vida, da luta pela preservação da floresta e por condições mais dignas aos sujeitos que nela vivem "
 menu: meio ambiente
 images_hd: //farm8.staticflickr.com/7815/44606203000_8c6fc8ec73_b.jpg
