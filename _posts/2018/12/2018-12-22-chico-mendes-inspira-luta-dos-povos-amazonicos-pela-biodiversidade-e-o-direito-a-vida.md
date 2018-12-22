@@ -84,7 +84,7 @@ Ao longo dos anos as disputas se intensificaram. As pessoas continuaram sendo as
 
 <p>&nbsp;<br />
 <br />
-No entanto, n&atilde;o pretendo encerrar com o pessimismo do tempo presente. Reivindico e compartilho o Chico Mendes irm&atilde;o da solidariedade e da utopia, que apostava no poder transformador da juventude. A eles dedicou o seguinte bilhete &ldquo;Aten&ccedil;&atilde;o jovens do futuro! 06 de setembro do ano de 2120, anivers&aacute;rio do primeiro centen&aacute;rio da revolu&ccedil;&atilde;o socialista mundial, que unificou todos os povos do planeta, num s&oacute; ideal e num s&oacute; pensamento de unidade socialista e que p&ocirc;s fim a todos os inimigos da nova sociedade. Aqui fica somente a lembran&ccedil;a de um triste passado de dor, sofrimento e morte. Desculpem. Eu estava sonhando quando escrevi estes acontecimentos, que eu mesmo n&atilde;o verei, mas tenho o prazer de ter sonhado...&rdquo;</p>
+No entanto, n&atilde;o pretendo encerrar com o pessimismo do tempo presente. Reivindico e compartilho o Chico Mendes irm&atilde;o da solidariedade e da utopia, que apostava no poder transformador da juventude. A eles dedicou o seguinte bilhete <em>&ldquo;Aten&ccedil;&atilde;o jovens do futuro! 06 de setembro do ano de 2120, anivers&aacute;rio do primeiro centen&aacute;rio da revolu&ccedil;&atilde;o socialista mundial, que unificou todos os povos do planeta, num s&oacute; ideal e num s&oacute; pensamento de unidade socialista e que p&ocirc;s fim a todos os inimigos da nova sociedade. Aqui fica somente a lembran&ccedil;a de um triste passado de dor, sofrimento e morte. Desculpem. Eu estava sonhando quando escrevi estes acontecimentos, que eu mesmo n&atilde;o verei, mas tenho o prazer de ter sonhado...&rdquo;</em></p>
 
 <p><br />
 <br />
