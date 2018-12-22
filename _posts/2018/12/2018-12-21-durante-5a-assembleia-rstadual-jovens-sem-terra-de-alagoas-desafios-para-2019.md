@@ -4,7 +4,7 @@ tags:
   - tag: juventude
   - tag: lutas
   - tag: encontro-estadual
-title: "Durante 5ª assembleia estadual, jovens Sem Terra de Alagoas desafios para 2019\n\n"
+title: "Durante 5ª assembleia estadual, jovens Sem Terra de Alagoas apontam os desafios para 2019\n\n"
 images_hd: //farm5.staticflickr.com/4873/45683137624_ac49d15558_b.jpg
 support_line: "Resgatando as lutas do ano de 2018, os jovens Sem Terra lançaram uma carta compromisso, destacando as principais tarefas e desafios para a juventude do MST"
 menu: lutas e mobilizações
