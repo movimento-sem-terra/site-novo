@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Festival de filmes apresenta olhares periféricos do Distrito Federal</title>
+				<description>A 2ª Mostra de Vídeos Populares acontece em Águas Lindas (GO) com produções audiovisuais de oficinas realizadas nas periferias do DF</description>
+				<pubDate>Sat, 22 Dec 2018 15:05:34 -0200</pubDate>
+				<link>http://www.mst.org.br/2018/12/22/festival-de-filmes-apresenta-olhares-perifericos-do-distrito-federal.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2018/12/22/festival-de-filmes-apresenta-olhares-perifericos-do-distrito-federal.html</guid>
+			</item>
+		
+			<item>
 				<title>Confira um pouco do que aconteceu na 10ª Feira Estadual da Reforma Agrária Cícero Guedes!</title>
 				<description>A feira aconteceu do dia 10 ao 12/12 no Largo da Carioca, coração do Rio de Janeiro. Contou com mais de 100 toneladas de alimentos que foram comercializados, oriundos das 04 regiões onde o MST está organizado no estado.</description>
 				<pubDate>Fri, 21 Dec 2018 19:12:34 -0200</pubDate>
@@ -83,14 +91,6 @@
 				<pubDate>Wed, 19 Dec 2018 12:40:35 -0200</pubDate>
 				<link>http://www.mst.org.br/2018/12/19/jovens-do-mst-lancam-coletanea-de-poesias-no-27o-encontro-estadual-em-alagoas.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2018/12/19/jovens-do-mst-lancam-coletanea-de-poesias-no-27o-encontro-estadual-em-alagoas.html</guid>
-			</item>
-		
-			<item>
-				<title>No Ceará, MST realiza 31º Encontro Estadual</title>
-				<description>Com o lema, “MST Ceará: 30 anos de lutas, conquistas e resistência”, a militância Sem Terra discutiu temáticas ligadas a conjuntura política</description>
-				<pubDate>Wed, 19 Dec 2018 12:39:39 -0200</pubDate>
-				<link>http://www.mst.org.br/2018/12/19/no-ceara-mst-realiza-31o-encontro-estadual.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2018/12/19/no-ceara-mst-realiza-31o-encontro-estadual.html</guid>
 			</item>
 		
 	</channel>
