@@ -7,8 +7,8 @@ tags:
 menu: lutas e mobilizações
 section: cover
 images_hd: //farm8.staticflickr.com/7815/32653672238_e85bcddc57_b.jpg
-title: "\"2019 será ser sinônimo de luta e resistência\""
-support_line: "Em entrevista, Kelli Mafort da direção nacional do MST, fala sobre o ano que chega ao fim e analisa as projeções para o próximo "
+title: "\"2019 será sinônimo de luta e resistência\""
+support_line: "Em entrevista, Kelli Mafort da direção nacional do MST, fala sobre o ano que chega ao fim e analisa as projeções para o próximo período"
 layout: post
 files:
   - link: //farm8.staticflickr.com/7862/45613408635_4e25bd4202_b.jpg
