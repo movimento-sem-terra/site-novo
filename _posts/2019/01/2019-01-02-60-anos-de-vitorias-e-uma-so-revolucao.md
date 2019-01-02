@@ -61,7 +61,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Com a consigna heroica&nbsp; &ldquo;Patria o&nbsp;Muerte, Venceremos&rdquo;, o povo cubano tomou a pra&ccedil;a Manoel de Cespedes, em Santiago de Cuba, na madrugada desta &uacute;ltima ter&ccedil;a-feira, 1&ordm; de janeiro de 2019, para acompanhar o hist&oacute;rico ato da troca da bandeira em comemora&ccedil;&atilde;o aos 60 anos da Revolu&ccedil;&atilde;o Cubana.&nbsp;</p>
+<p>Com a consigna heroica&nbsp; &ldquo;Patria o&nbsp;Muerte, Venceremos&rdquo;, o povo cubano tomou a pra&ccedil;a Manoel de Cespedes, em Santiago de Cuba, na madrugada desta &uacute;ltima ter&ccedil;a-feira, 1&ordm; de janeiro de 2019, para acompanhar o hist&oacute;rico ato de&nbsp;troca da bandeira em comemora&ccedil;&atilde;o aos 60 anos da Revolu&ccedil;&atilde;o Cubana.&nbsp;</p>
 
 <p><br />
 Envolvidos na m&iacute;stica do glorioso e vitorioso 1&ordm; de janeiro de 1959, com o sentimento de que o processo revolucion&aacute;rio cubano &eacute;&nbsp;de uma s&oacute; revolu&ccedil;&atilde;o, relembrada nas palavras do comandante Fidel Castro, que dizia: &ldquo;em Cuba s&oacute; foi poss&iacute;vel uma revolu&ccedil;&atilde;o, que teve in&iacute;cio com Carlos Manuel de Cespedes, em 10 de outubro de 1968, porque o povo a leva adiante neste momento&rdquo;.&nbsp;</p>
@@ -70,7 +70,7 @@ Envolvidos na m&iacute;stica do glorioso e vitorioso 1&ordm; de janeiro de 1959,
 Durante o ato foi destacado a entrada dos Manbises liderada por Fidel Castro, em Santiago, momento que Cuba e o mundo conhecem o triunfo da revolu&ccedil;&atilde;o. Resgatando o papel do povo junto aos Manbises, na primeira guerra pela independ&ecirc;ncia, pelo que fez o povo na gera&ccedil;&atilde;o do centen&aacute;rio e o que segue fazendo os Manbises deste tempo, o ato aponta o povo como defensores da revolu&ccedil;&atilde;o e do Socialismo.&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="95163fc2-bc79-4450-8f0f-a50e5f3f1886.jpg" height="169" src="//farm5.staticflickr.com/4817/31634452577_199bdc0a8b_b.jpg" width="300" />
-<figcaption><i>Foto: Divulga&ccedil;&atilde;o MST</i></figcaption>
+<figcaption>Foto: Divulga&ccedil;&atilde;o MST</figcaption>
 </figure>
 
 <p><br />
