@@ -40,8 +40,8 @@ Do Brasil de Fato</em><br />
 <p>O ano de 2019 mal come&ccedil;ou e a quest&atilde;o fundi&aacute;ria no Brasil j&aacute; foi alvo de duros ataques do novo presidente Jair Bolsonaro. Poucas horas depois de ser empossado, o capit&atilde;o reformado passou para o Minist&eacute;rio da Agricultura a responsabilidade pela demarca&ccedil;&atilde;o de terras ind&iacute;genas e quilombolas.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="agronegócio-e-industria-cultural.png" height="376" src="//farm5.staticflickr.com/4915/45893817334_055eb63535_b.jpg" width="250" />
-<figcaption>Livro&nbsp;Agroneg&oacute;cio e Ind&uacute;stria Cultural - Estrat&eacute;gias das empresas para a constru&ccedil;&atilde;o da hegemonia</figcaption>
+<figure class="image" style="float:right"><img alt="agronegócio-e-industria-cultural.png" height="301" src="//farm5.staticflickr.com/4915/45893817334_055eb63535_b.jpg" width="200" />
+<figcaption></figcaption>
 </figure>
 
 <p>Em outra decis&atilde;o, Bolsonaro extinguiu o Conselho Nacional de Seguran&ccedil;a Alimentar e Nutricional (Consea). O &oacute;rg&atilde;o era formado por 60 pessoas, entre representantes da sociedade civil e do governo, e tinha como objetivo, entre outras tarefas, defender uma alimenta&ccedil;&atilde;o saud&aacute;vel e sem agrot&oacute;xico.<br />
@@ -76,6 +76,12 @@ Do Brasil de Fato</em><br />
 
 <p>Tudo isso se d&aacute; atrav&eacute;s desses mecanismos, digamos assim de forma simplificada, da ind&uacute;stria cultural e dos meios de comunica&ccedil;&atilde;o de massa. No entanto, em anos mais recentes, mais ou menos na &uacute;ltima d&eacute;cada, o agroneg&oacute;cio tem tamb&eacute;m constru&iacute;do esse seu discurso, essa sua imagem como algo muito positivo para o pa&iacute;s tamb&eacute;m no meio rural. Em geral, no meio rural eles tem buscado fazer uma a&ccedil;&atilde;o no campo da educa&ccedil;&atilde;o, da cultura e da arte. Eles est&atilde;o nas escolas, nas pequenas comunidades, em pequenos munic&iacute;pios patrocinando via Lei Rouanet, com dinheiro p&uacute;blico, grandes shows de m&uacute;sica sertaneja, patrocinando tamb&eacute;m shows de orquestra sinf&ocirc;nica, mas patrocinando tamb&eacute;m projetos educativos nas comunidades para crian&ccedil;as, jovens e adolescentes na sua maioria e que, fundamentalmente, buscam fazer essa publicidade, ainda que de forma velada de seu projeto.&nbsp;<br />
 &nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="31991244700_f2054f2913_b.jpg" height="267" src="//farm5.staticflickr.com/4860/31676860097_2c269221ec_b.jpg" width="400" />
+<figcaption><em>Ana Ch&atilde;, do Coletivo de Cultura do MST</em></figcaption>
+</figure>
+</div>
 
 <p><strong>Quando o agroneg&oacute;cio come&ccedil;ou a utilizar a ind&uacute;stria cultural para disseminar sua ideologia?</strong><br />
 &nbsp;</p>
