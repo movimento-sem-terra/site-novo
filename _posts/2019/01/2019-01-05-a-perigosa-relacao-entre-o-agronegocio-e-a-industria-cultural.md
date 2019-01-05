@@ -78,7 +78,7 @@ Do Brasil de Fato</em><br />
 &nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="31991244700_f2054f2913_b.jpg" height="267" src="//farm5.staticflickr.com/4860/31676860097_2c269221ec_b.jpg" width="400" />
+<figure class="image" style="display:inline-block"><img alt="31991244700_f2054f2913_b.jpg" height="300" src="//farm5.staticflickr.com/4860/31676860097_2c269221ec_b.jpg" width="450" />
 <figcaption><em>Ana Ch&atilde;, do Coletivo de Cultura do MST</em></figcaption>
 </figure>
 </div>
