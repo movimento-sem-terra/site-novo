@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: reforma-agrária
   - tag: governo
-title: "Bolsonaro dá primeiro passo em direção a extinção da Reforma Agrária "
+title: "Bolsonaro dá primeiro passo em direção à extinção da Reforma Agrária "
 support_line: Memorandos enviados às superintendências do Incra determinam interrupção da compra e demarcação de terras por tempo indeterminado
 menu: reforma agrária
 images_hd: //farm5.staticflickr.com/4858/39698369643_4cc08b4c80_b.jpg
