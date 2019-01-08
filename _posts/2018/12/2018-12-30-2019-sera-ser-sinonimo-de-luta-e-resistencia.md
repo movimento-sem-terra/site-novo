@@ -5,7 +5,7 @@ tags:
   - tag: resistência
   - tag: reforma-agrária
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 images_hd: //farm8.staticflickr.com/7815/32653672238_e85bcddc57_b.jpg
 title: "\"2019 será sinônimo de luta e resistência\""
 support_line: "Em entrevista, Kelli Mafort da direção nacional do MST, fala sobre o ano que chega ao fim e analisa as projeções para o próximo período"
@@ -43,7 +43,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="kelli.JPG" height="466" src="//farm8.staticflickr.com/7862/45613408635_4e25bd4202_b.jpg" width="700" />
-<figcaption>Kelli Mafort, dire&ccedil;&atilde;o nacional do MST&nbsp;</figcaption>
+<figcaption><em>Kelli Mafort, dire&ccedil;&atilde;o nacional do MST.</em></figcaption>
 </figure>
 </div>
 
