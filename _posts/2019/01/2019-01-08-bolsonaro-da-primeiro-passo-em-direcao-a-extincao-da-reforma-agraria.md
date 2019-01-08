@@ -25,7 +25,7 @@ files:
     title: ChargeBessinha_BancadaruralistaCongresso.jpg
     $$hashKey: 05E
 created_date: "2019-01-08T12:39:53-02:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/07/2018-07-04-sem-terras-vao-a-camara-de-macae-para-pedir-area-do-municipio.md
   - _posts/2018/08/2018-08-22-acampamento-maria-rosa-do-contestado-realiza-1a-feira-da-semente-crioula-no-parana.md
@@ -34,11 +34,12 @@ releated_posts:
   - _posts/2018/11/2018-11-25-via-campesina-diz-nao-a-violencia-do-patriarcado-e-do-capitalismo-dois-males-que-afligem-a-humanidade.md
   - _posts/2019/01/2019-01-07-stedile-a-militancia-nao-pode-ter-medo-algum-porque-estamos-lutando-por-justica.md
   - _posts/2018/12/2018-12-30-2019-sera-ser-sinonimo-de-luta-e-resistencia.md
+section: cover
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-01-08 at 12.28.02.jpeg" height="667" src="//farm5.staticflickr.com/4866/46663211331_f01abe3765_b.jpg" width="500" />
-<figcaption>O Incra informou que a medida &eacute; tempor&aacute;ria, mas n&atilde;o detalhou o prazo de dura&ccedil;&atilde;o</figcaption>
+<figcaption><em>O Incra informou que a medida &eacute; tempor&aacute;ria, mas n&atilde;o detalhou o prazo de dura&ccedil;&atilde;o.</em></figcaption>
 </figure>
 </div>
 
@@ -62,7 +63,7 @@ Segundo Alexandre Concei&ccedil;&atilde;o da dire&ccedil;&atilde;o nacional do M
 
 <blockquote>
 <p><br />
-&ldquo;O Brasil &eacute; o segundo maior pa&iacute;s em concentra&ccedil;&atilde;o de terra, ficando atr&aacute;s apenas do Paraguai, logo, atitudes como essa tem como principal objetivo proteger esses latifundi&aacute;rios em detrimento das mais de 120 mil fam&iacute;lias acampadas. &Eacute; uma op&ccedil;&atilde;o do atual governo&rdquo;, afirma.</p>
+&ldquo;O Brasil &eacute; o segundo maior pa&iacute;s em concentra&ccedil;&atilde;o de terra, ficando atr&aacute;s apenas do Paraguai, logo, atitudes como essa&nbsp;tem como principal objetivo proteger esses latifundi&aacute;rios em detrimento das mais de 120 mil fam&iacute;lias acampadas. &Eacute; uma op&ccedil;&atilde;o do atual governo&rdquo;, afirma.</p>
 
 <p><br />
 <strong>&nbsp;</strong></p>
@@ -75,7 +76,7 @@ Segundo Alexandre Concei&ccedil;&atilde;o da dire&ccedil;&atilde;o nacional do M
 Um segundo documento, tamb&eacute;m enviado no dia 3 de janeiro e assinado por Cardoso, determinou que as superintend&ecirc;ncias regionais disponibilizem, at&eacute; amanh&atilde; (9), a rela&ccedil;&atilde;o de todos os im&oacute;veis que podem ser destinados para a reforma agr&aacute;ria. A exig&ecirc;ncia se escora na vincula&ccedil;&atilde;o do &oacute;rg&atilde;o ao Minist&eacute;rio da Agricultura, chefiado por Tereza Cristina (DEM-MS)</p>
 
 <p><br />
-Em 2008 Cl&oacute;vis Figueiredo Cardoso, que foi exonerado logo ap&oacute;s a veicula&ccedil;&atilde;o dos documentos, foi indiciado pelo Minist&eacute;rio P&uacute;blico&nbsp;suspeito de participar de um esquema que fraudava a desapropria&ccedil;&atilde;o de terras. A fraude, que ficou conhecida como: &ldquo;a farra com terras da Uni&atilde;o&rdquo;, era operada da sede do Incra de Mato Grosso, na ocasi&atilde;o 30 pessoas foram condenadas no caso, exceto Cardoso que, anos mais tarde, indicado pelo deputado federal Carlos Bezerra (PMDB-MT), esteve no comando do &oacute;rg&atilde;o.</p>
+Em 2008, Cl&oacute;vis Figueiredo Cardoso, que foi exonerado logo ap&oacute;s a veicula&ccedil;&atilde;o dos documentos, foi indiciado pelo Minist&eacute;rio P&uacute;blico&nbsp;suspeito de participar de um esquema que fraudava a desapropria&ccedil;&atilde;o de terras. A fraude, que ficou conhecida como: &ldquo;a farra com terras da Uni&atilde;o&rdquo;, era operada da sede do Incra de Mato Grosso.&nbsp;Na ocasi&atilde;o, 30 pessoas foram condenadas no caso, exceto Cardoso que, anos mais tarde, indicado pelo deputado federal Carlos Bezerra (PMDB-MT), esteve no comando do &oacute;rg&atilde;o.</p>
 
 <p><br />
 Para fechar a primeira semana de desmandos do novo governo, um terceiro memorando&nbsp;dessa vez assinado pelo agora diretor de Ordenamento da Estrutura Fundi&aacute;ria Cletho Muniz de Brito, refor&ccedil;a o pedido para suspender os processos de compra e de desapropria&ccedil;&atilde;o de terras, com exce&ccedil;&atilde;o daqueles que tramitam na Justi&ccedil;a, e detalha que a determina&ccedil;&atilde;o tamb&eacute;m vale para as &aacute;reas da Amaz&ocirc;nia Legal.</p>
@@ -93,4 +94,8 @@ Ainda segundo Concei&ccedil;&atilde;o, ao contr&aacute;rio do que se propaga, a 
 <p>Ele completa:</p>
 
 <p><br />
-Ainda assim, a luta pela terra n&atilde;o vai cessar por conta dessa medida. N&oacute;s repudiamos veementemente essa atitude do atual governo que, embora n&atilde;o nos surpreenda, ser&aacute; combatida. De nossa parte vamos continuar organizados, lutando e denunciando no Brasil e no mundo a situa&ccedil;&atilde;o agraria no pa&iacute;s. &nbsp;&nbsp;</p>
+&quot;Ainda assim, a luta pela terra n&atilde;o vai cessar por conta dessa medida. N&oacute;s repudiamos veementemente essa atitude do atual governo que, embora n&atilde;o nos surpreenda, ser&aacute; combatida. De nossa parte vamos continuar organizados, lutando e denunciando no Brasil e no mundo a situa&ccedil;&atilde;o agr&aacute;ria no pa&iacute;s&quot;.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Wesley Lima.</em></p>
