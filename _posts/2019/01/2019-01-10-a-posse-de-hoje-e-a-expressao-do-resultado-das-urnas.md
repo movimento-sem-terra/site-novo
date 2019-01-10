@@ -4,8 +4,8 @@ tags:
   - tag: venezuela
   - tag: eleição
   - tag: solidariedade-internacional
-title: "\"A posse de hoje é a expressão do resultado das urnas\""
-support_line: "Na embaixada da Venezuela, em São Paulo, o cônsul-adjunto do país, Robert Torrealba, fala sobre recuperação econômica e o processo democrático do país"
+title: "Robert Torrealba: \"A posse de hoje é a expressão do resultado das urnas\""
+support_line: "Na embaixada da Venezuela, em São Paulo, o cônsul-adjunto do país, fala sobre recuperação econômica e o processo democrático do país"
 menu: solidariedade
 images_hd: //farm5.staticflickr.com/4842/31750647817_9bdd236ec8_b.jpg
 layout: post
@@ -32,7 +32,7 @@ files:
     title: 20170512_venezuela.constituinte.jpg
     $$hashKey: 07W
 created_date: "2019-01-10T16:49:21-02:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/05/2018-05-24-mst-respalda-eleicoes-e-rechaca-declaracoes-contrarias-a-revolucao-bolivariana.md
   - _posts/2018/05/2018-05-31-os-interesses-dos-eua-na-regiao-e-as-eleicoes-na-venezuela.md
