@@ -41,6 +41,7 @@ releated_posts:
   - _posts/2018/10/2018-10-26-organizacao-que-premiou-o-mst-com-o-nobel-alternativo-repudia-declaracoes-de-bolsonaro.md
   - _posts/2018/05/2018-05-20-neste-domingo-venezuela-elege-um-novo-presidente-e-deputados-regionais.md
 section: cover
+label: interviews
 
 ---
 <p>
