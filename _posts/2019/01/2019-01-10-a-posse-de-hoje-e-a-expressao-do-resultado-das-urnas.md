@@ -55,10 +55,8 @@ label: interviews
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p><em>Por Maura Silva<br />
-Da P&aacute;gina do MST&nbsp;</em></p>
+<p><br />
+<em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 Nesta quinta-feira (10), em meio &agrave; uma grande crise pol&iacute;tica e econ&ocirc;mica, que assola o pa&iacute;s h&aacute; mais de quatro anos,&nbsp;Nicol&aacute;s Maduro, reeleito em maio de 2018, com 68% dos votos, foi empossado.</p>
