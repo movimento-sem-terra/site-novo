@@ -75,7 +75,7 @@ Alguns pa&iacute;ses, entre eles o Brasil, na figura do atual presidente eleito,
 Vale ressaltar que na Venezuela, a Constitui&ccedil;&atilde;o define que a cada seis anos devam ser realizadas elei&ccedil;&otilde;es democr&aacute;ticas no pa&iacute;s. Essa mesma Constitui&ccedil;&atilde;o n&atilde;o estipula uma data, logo, em meio ao aprofundamento da crise, o pleito que tradicionalmente acontece no &uacute;ltimo trimestre no ano, foi antecipado para maio.</p>
 
 <p><br />
-Para falar sobre esse processo e sobre as expectativas, conversamos com o c&ocirc;nsul-adjunto da Venezuela em S&atilde;o Paulo, Robert Torrealba. Para ele o mais importante agora &eacute; que a vontade do povo possa ser respeitada: &ldquo;A &uacute;nica coisa que a Venezuela exige de qualquer pa&iacute;s no mundo &eacute; respeito. Respeito a nossa soberania e as decis&otilde;es populares do governo&rdquo;.</p>
+Para falar sobre esse processo e&nbsp;as expectativas, conversamos com o c&ocirc;nsul-adjunto da Venezuela em S&atilde;o Paulo, Robert Torrealba. Para ele o mais importante agora &eacute; que a vontade do povo possa ser respeitada: &ldquo;A &uacute;nica coisa que a Venezuela exige de qualquer pa&iacute;s no mundo &eacute; respeito. Respeito a nossa soberania e as decis&otilde;es populares do governo&rdquo;.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_2226.jpg" height="467" src="//farm8.staticflickr.com/7821/46639192532_27797275b1_b.jpg" width="700" />
