@@ -50,6 +50,10 @@ section: cover
 </style>
 </p>
 
+<p style="text-align:center"><img alt="20170512_venezuela.constituinte.jpg" height="412" src="//farm5.staticflickr.com/4842/31750647817_9bdd236ec8_b.jpg" width="600" /></p>
+
+<p>&nbsp;</p>
+
 <p>&nbsp;</p>
 
 <p><em>Por Maura Silva<br />
@@ -75,7 +79,7 @@ Para falar sobre esse processo e sobre as expectativas, conversamos com o c&ocir
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_2226.jpg" height="467" src="//farm8.staticflickr.com/7821/46639192532_27797275b1_b.jpg" width="700" />
-<figcaption><em>Robert Torrealba,&nbsp;c&ocirc;nsul-adjunto da Venezuela em S&atilde;o Paulo. Foto: Yuri Simeon</em></figcaption>
+<figcaption><em>Robert Torrealba,&nbsp;c&ocirc;nsul-adjunto da Venezuela em S&atilde;o Paulo Foto: Yuri Simeon</em></figcaption>
 </figure>
 </div>
 
@@ -91,7 +95,7 @@ A posse de hoje &eacute; a express&atilde;o do resultado das urnas. Uma elei&cce
 <p>&nbsp;</p>
 
 <blockquote>
-<p>Uma elei&ccedil;&atilde;o que contou com a participa&ccedil;&atilde;o massiva da popula&ccedil;&atilde;o, s&oacute; pode ser&nbsp;resultado de um processo democr&aacute;tico e livre.</p>
+<p>&quot;Uma elei&ccedil;&atilde;o que contou com a participa&ccedil;&atilde;o massiva da popula&ccedil;&atilde;o, s&oacute; pode ser&nbsp;resultado de um processo democr&aacute;tico e livre&quot;</p>
 
 <p>&nbsp;</p>
 </blockquote>
@@ -106,7 +110,7 @@ O Grupo de Lima se constituiu com um &uacute;nico objetivo: desenvolver atividad
 <strong>Mesmo diante da prerrogativa de melhora social e econ&ocirc;mica do &uacute;ltimo per&iacute;odo, a Venezuela ainda sofre com as san&ccedil;&otilde;es aplicadas pelo Estados Unidos. Como isso afeta a recupera&ccedil;&atilde;o do pa&iacute;s?</strong></p>
 
 <p><br />
-Hoje, o resultado dessas san&ccedil;&otilde;es econ&ocirc;micas s&atilde;o evidentes.&nbsp;Em todas as oportunidades, o presidente Nicol&aacute;s Maduro tem denunciado o impacto disso sobre o crescimento econ&ocirc;mico do pa&iacute;s. Tudo isso faz parte de um roteiro muito bem desenhado desde o in&iacute;cio do primeiro mandado para impedir a continuidade do governo bolivariano na Venezuela. N&oacute;s acreditamos que isso vai continuar, o pr&oacute;prio governo dos Estados Unidos afirmou que vai continuar por esse caminho. De nossa parte, estamos preparados para resistir, com o apoio da popula&ccedil;&atilde;o e de nossa estrutura de governo.</p>
+Hoje, o resultado dessas san&ccedil;&otilde;es econ&ocirc;micas s&atilde;o evidentes.&nbsp;Em todas as oportunidades, o presidente&nbsp;tem denunciado o impacto disso sobre o crescimento econ&ocirc;mico do pa&iacute;s. Tudo isso faz parte de um roteiro muito bem desenhado desde o in&iacute;cio do primeiro mandado para impedir a continuidade do governo bolivariano na Venezuela. N&oacute;s acreditamos que isso vai continuar, o pr&oacute;prio governo dos Estados Unidos afirmou que vai continuar por esse caminho. De nossa parte, estamos preparados para resistir, com o apoio da popula&ccedil;&atilde;o e de nossa estrutura de governo.</p>
 
 <p><br />
 <strong>Como Maduro pretende lidar com a oposi&ccedil;&atilde;o a partir de agora? </strong></p>
@@ -123,7 +127,7 @@ A &uacute;nica coisa que a Venezuela exige de qualquer pa&iacute;s no mundo &eac
 <p>&nbsp;</p>
 
 <blockquote>
-<p><span style="font-family: Georgia, Times, &quot;Times New Roman&quot;, serif; font-style: italic;">A &uacute;nica coisa que a Venezuela exige de qualquer pa&iacute;s no mundo &eacute; respeito.&nbsp;</span><br style="font-family: Georgia, Times, &quot;Times New Roman&quot;, serif; font-style: italic;" />
+<p><span style="font-family: Georgia, Times, &quot;Times New Roman&quot;, serif; font-style: italic;">&quot;A &uacute;nica coisa que a Venezuela exige de qualquer pa&iacute;s no mundo &eacute; respeito&quot;</span><br style="font-family: Georgia, Times, &quot;Times New Roman&quot;, serif; font-style: italic;" />
 &nbsp;</p>
 </blockquote>
 
