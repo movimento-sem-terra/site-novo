@@ -66,8 +66,6 @@ Segundo Alexandre Concei&ccedil;&atilde;o da dire&ccedil;&atilde;o nacional do M
 <p>&nbsp;</p>
 </blockquote>
 
-<p>&nbsp;</p>
-
 <p><strong>Jogo de interesses</strong></p>
 
 <p><br />
