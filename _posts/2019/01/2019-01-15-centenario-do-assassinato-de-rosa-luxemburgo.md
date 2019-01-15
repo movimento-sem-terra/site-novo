@@ -33,7 +33,7 @@ releated_posts: []
 </div>
 
 <p><br />
-<em>Por Iris Pacheco*<br />
+<em>Por Lucineia Miranda*<br />
 Para P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
@@ -74,7 +74,7 @@ Para P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p><em>*Coordenadora do Setor de Comunica&ccedil;&atilde;o do MST.</em></p>
+<p><em>*Integrante do setor de G&ecirc;nero e militante do MST.</em></p>
 
 <p>&nbsp;</p>
 
