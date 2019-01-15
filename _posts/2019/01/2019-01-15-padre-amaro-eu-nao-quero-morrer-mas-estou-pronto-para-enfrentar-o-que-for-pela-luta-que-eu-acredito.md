@@ -7,17 +7,17 @@ tags:
 label: interviews
 menu: direitos humanos
 support_line: "Considerado o sucessor da missionária Dorothy Stang, assassinada em 12 de fevereiro, aos 73 anos, José Amaro Lopes da Silva, vive uma hoje uma vida de ameaça e resistência"
-images_hd: //farm8.staticflickr.com/7812/46703289622_c081ba4c3c_b.jpg
+images_hd: //farm5.staticflickr.com/4855/46756876701_fece77a684_b.jpg
 title: "Padre Amaro: \"Eu não quero morrer, mas estou pronto para enfrentar o que for pela luta que eu acredito\""
 layout: post
 files:
-  - link: //farm8.staticflickr.com/7812/46703289622_c081ba4c3c_b.jpg
-    original: //farm8.staticflickr.com/7812/46703289622_6fb22f63e1_o.jpg
-    thumbnail: //farm8.staticflickr.com/7812/46703289622_c081ba4c3c_t.jpg
-    medium: //farm8.staticflickr.com/7812/46703289622_c081ba4c3c_z.jpg
-    small: //farm8.staticflickr.com/7812/46703289622_c081ba4c3c_n.jpg
-    title: 40164881825_4314fe0bdc_o.jpg
-    $$hashKey: 068
+  - link: //farm5.staticflickr.com/4855/46756876701_fece77a684_b.jpg
+    original: //farm5.staticflickr.com/4855/46756876701_c01a537f4e_o.jpg
+    thumbnail: //farm5.staticflickr.com/4855/46756876701_fece77a684_t.jpg
+    medium: //farm5.staticflickr.com/4855/46756876701_fece77a684_z.jpg
+    small: //farm5.staticflickr.com/4855/46756876701_fece77a684_n.jpg
+    title: WhatsApp Image 2019-01-15 at 18.21.23.jpeg
+    $$hashKey: "067"
 created_date: "2019-01-15T18:22:35-02:00"
 published: true
 releated_posts:
@@ -34,6 +34,13 @@ releated_posts:
   - _posts/2018/12/2018-12-14-dois-sem-terras-mortos-no-70o-aniversario-da-declaracao-universal-dos-direitos-humanos.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-01-15 at 18.21.23.jpeg" height="409" src="//farm5.staticflickr.com/4855/46756876701_fece77a684_b.jpg" width="700" />
+<figcaption>Defensor da distribui&ccedil;&atilde;o justa de terras e da preserva&ccedil;&atilde;o dos povos e da floresta, padre Amaro conheceu o trabalho da americana Dorothy Stang na d&eacute;cada de 90<br />
+</figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>Por Maura Silva<br />
@@ -118,9 +125,11 @@ N&oacute;s sempre tivemos uma boa rela&ccedil;&atilde;o com o MST, rela&ccedil;&
 
 <p>&nbsp;</p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p style="margin-bottom: 0cm; line-height: 100%">&nbsp;</p>
-</p>
+
+<p>&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%"><strong>Acompanhe abaixo entrevista em v&iacute;deo:&nbsp;</strong></p>
 
