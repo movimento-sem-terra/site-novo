@@ -33,7 +33,7 @@ releated_posts: []
 </div>
 
 <p><br />
-<em>Por Lucineia Miranda*<br />
+<em>Por Lucineia Freitas​*<br />
 Para P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
