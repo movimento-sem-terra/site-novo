@@ -1,6 +1,9 @@
 ---
 date: "2019-01-15T18:11:17-02:00"
-tags: []
+tags:
+  - tag: rosa-luxemburgo
+  - tag: Centenário
+  - tag: lutas
 title: "Centenário do assassinato de Rosa Luxemburgo "
 support_line: "“Quem não se movimenta, não sente as correntes que o prendem” (Rosa Luxemburgo)"
 menu: lutas e mobilizações
@@ -23,7 +26,13 @@ files:
     $$hashKey: "033"
 created_date: "2019-01-15T18:17:22-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/05/2018-05-11-ja-esta-no-ar-a-webserie-sobre-o-pensamento-de-rosa-luxemburgo.md
+  - _posts/2018/12/2018-12-06-sem-terra-sao-despejados-de-acampamento-no-ceara.md
+  - _posts/2018/12/2018-12-06-31-anos-atras-comecava-a-primeira-intifada.md
+  - _posts/2018/12/2018-12-17-judiciario-autorizou-150-acoes-de-despejo-contra-mst-em-2018-veja-numeros-por-estado.md
+  - _posts/2018/12/2018-12-21-durante-5a-assembleia-rstadual-jovens-sem-terra-de-alagoas-desafios-para-2019.md
+  - _posts/2018/12/2018-12-21-herdeiros-da-luta-uma-homenagem-a-revolta-de-porecatu.md
 
 ---
 <div style="text-align:center">
