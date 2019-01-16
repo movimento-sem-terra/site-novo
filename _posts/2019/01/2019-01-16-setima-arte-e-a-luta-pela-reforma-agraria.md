@@ -42,7 +42,7 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><em>Por Solange&nbsp;Engel<br />
+<p><em>Por Solange&nbsp;Engelmann<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
@@ -104,8 +104,7 @@ A cineasta explica ainda que durante as experi&ecirc;ncias vivenciadas junto ao 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Camila Freitas - arquivo pessoal.jpg" height="532" src="//farm5.staticflickr.com/4877/32892277238_aed036b4a1_b.jpg" width="700" />
-<figcaption>&nbsp;Camila Freitas &agrave; esquerda. A direita Camila Machado (parceira de som) e Nelson, Sem Terra do MST em Goi&aacute;s<br />
-</figcaption>
+<figcaption>&nbsp;Camila Freitas &agrave; esquerda. A direita Camila Machado (parceira de som) e Nelson, Sem Terra do MST em Goi&aacute;s</figcaption>
 </figure>
 </div>
 
