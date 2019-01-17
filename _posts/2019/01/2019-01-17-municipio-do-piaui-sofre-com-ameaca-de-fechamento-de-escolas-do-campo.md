@@ -49,29 +49,31 @@ releated_posts:
 <p style="text-align:center"><img alt="49896486_2338336143068489_2575696916817903616_n.jpg" height="394" src="//farm8.staticflickr.com/7916/31835429847_bc23d5a836_b.jpg" width="700" /></p>
 </div>
 
+<div>&nbsp;</div>
+
 <div><em>Por&nbsp;Setor de comunica&ccedil;&atilde;o MST/PI<br />
 Da P&aacute;gina do MST&nbsp;</em></div>
 
 <div>&nbsp;</div>
 
-<div>Nesta ter&ccedil;a-feira (15) cerca de duzentas pessoas entre&nbsp;representantes e l&iacute;deres comunit&aacute;rios da&nbsp;regi&atilde;o&nbsp;de S&atilde;o Jo&atilde;o do Piau&iacute;,&nbsp;reuniram-se com o prefeito Gil Carlos Modesto Alves*,&nbsp;no assentamento Lisboa, para falar sobre a amea&ccedil;a de fechamento&nbsp;das escolas do campo no munic&iacute;pio.</div>
+<div>Nesta ter&ccedil;a-feira (15), cerca de 200&nbsp;pessoas, entre&nbsp;representantes e l&iacute;deres comunit&aacute;rios da&nbsp;regi&atilde;o&nbsp;de S&atilde;o Jo&atilde;o do Piau&iacute;,&nbsp;reuniram-se com o prefeito Gil Carlos Modesto Alves*,&nbsp;no assentamento Lisboa, para falar sobre a amea&ccedil;a de fechamento&nbsp;das escolas do campo no munic&iacute;pio.</div>
 
 <div><br />
 <br />
-A proposta apresentada prev&ecirc; o fechamento de nove das onde escolas e,&nbsp;al&eacute;m da super lota&ccedil;&atilde;o em salas de aula, a medida acarretaria um aumento na evas&atilde;o escolar uma vez que a maioria das escolas est&aacute; em territ&oacute;rios quilombolas.</div>
+A proposta apresentada prev&ecirc; o fechamento de nove das onze escolas e,&nbsp;al&eacute;m da super lota&ccedil;&atilde;o em salas de aula, a medida acarretaria um aumento na evas&atilde;o escolar uma vez que a maioria das escolas est&atilde;o&nbsp;em territ&oacute;rios quilombolas.</div>
 
 <div><br />
 <br />
-Uma das justificativas apresentadas pelo prefeito &eacute; de acabar com as classes multisseriadas, justificativa que n&atilde;o se sustenta se levarmos em conta o n&uacute;mero de alunos matriculados no munic&iacute;pio.&nbsp;</div>
+Uma das justificativas apresentadas pelo prefeito &eacute; a de acabar com as classes multisseriadas, justificativa que n&atilde;o se sustenta se levarmos em conta o n&uacute;mero de alunos matriculados no munic&iacute;pio.&nbsp;</div>
 
 <div><br />
 <br />
-Al&eacute;m disso, ao reduzir o n&uacute;mero de escolas a prefeitura n&atilde;o est&aacute; levando em conta o deslocamento dos estudantes. As estradas est&atilde;o em p&eacute;ssimas condi&ccedil;&otilde;es, o pr&oacute;prio prefeito em percurso pela regi&atilde;o em um &ocirc;nibus escolar, j&aacute; p&ocirc;de constatar. Ainda assim,&nbsp;ap&oacute;s mais de tr&ecirc;s&nbsp;horas de reuni&atilde;o&nbsp;n&atilde;o houve recuo e nada foi resolvido.&nbsp;</div>
+Al&eacute;m disso, ao reduzir o n&uacute;mero de escolas a prefeitura n&atilde;o est&aacute; levando em conta o deslocamento dos estudantes. As estradas est&atilde;o em p&eacute;ssimas condi&ccedil;&otilde;es, o pr&oacute;prio prefeito em percurso pela regi&atilde;o em um &ocirc;nibus escolar, j&aacute; p&ocirc;de constatar. Ainda assim,&nbsp;ap&oacute;s mais de tr&ecirc;s&nbsp;horas de reuni&atilde;o&nbsp;n&atilde;o houve recuo, mas&nbsp;nada foi resolvido.&nbsp;</div>
 
 <div>&nbsp;
 <p style="text-align:center"><img alt="49898841_2338335316401905_1602837234581504000_n.jpg" height="394" src="//farm8.staticflickr.com/7909/39811805933_23698a4855_b.jpg" width="700" /></p>
 <br />
-&quot;Resistiremos, n&atilde;o vamos&nbsp;permitir que nenhuma escola seja fechada, n&oacute;s temos nossas escolas nas portas das nossas casas, n&atilde;o vamos&nbsp;permitir que sejam fechadas e que mandem nossas crian&ccedil;as&nbsp;percorrer quase 30km todos os dias por estradas em p&eacute;ssimas condi&ccedil;&otilde;es, al&eacute;m disso, temos muitas crian&ccedil;as com necessidades especiais nessas escolas, como&nbsp;podemos permitir que elas sejam fechadas?&quot;, questionou&nbsp;Ednaldo de Sousa, coordenador da&nbsp;juventude Sem Terra no estado.</div>
+&quot;Resistiremos, n&atilde;o vamos&nbsp;permitir que nenhuma escola seja fechada. N&oacute;s temos nossas escolas nas portas das nossas casas, n&atilde;o vamos&nbsp;permitir que sejam fechadas e que mandem nossas crian&ccedil;as&nbsp;percorrer quase 30 km todos os dias por estradas em p&eacute;ssimas condi&ccedil;&otilde;es. Al&eacute;m disso, temos muitas crian&ccedil;as com necessidades especiais nessas escolas, como&nbsp;podemos permitir que elas sejam fechadas?&quot;, questionou&nbsp;Ednaldo de Sousa, coordenador da&nbsp;juventude Sem Terra no estado.</div>
 
 <div><br />
 <br />
