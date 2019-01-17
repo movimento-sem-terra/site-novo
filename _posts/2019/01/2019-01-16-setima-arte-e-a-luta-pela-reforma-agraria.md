@@ -82,7 +82,7 @@ J&aacute; o document&aacute;rio &#39;<a href="https://vimeo.com/223314747">Do Co
 sa&uacute;de e a rela&ccedil;&atilde;o com o pr&oacute;prio corpo. Julia conta que foi uma experi&ecirc;ncia muito interessante. &ldquo;Os membros do Coletivo de Sa&uacute;de tem muito conhecimento de medicina tradicional popular. A rela&ccedil;&atilde;o que estabelecem com os Postos de Sa&uacute;de (SUS) locais tamb&eacute;m &eacute; muito importante&rdquo;.</p>
 
 <p><br />
-A cineasta Camila est&aacute; produzindo o filme &ldquo;Ch&atilde;o&rdquo;. O longo metragem documental come&ccedil;ou a ser gravado em 2014, a partir da viv&ecirc;ncia da diretora com o MST e as ocupa&ccedil;&otilde;es de terra na regi&atilde;o Centro-Oeste: Goi&aacute;s, Bras&iacute;lia e Mato Grosso. Segundo ela,&nbsp;o projeto &eacute; chamado no audiovisual como &ldquo;filme de processo&rdquo;, pois envolve os processos de conviv&ecirc;ncia, pesquisa e filmagem que se confundem e se transformam junto com o pr&oacute;prio objeto do filme.&nbsp;</p>
+A cineasta Camila est&aacute; produzindo o filme &ldquo;Ch&atilde;o&rdquo;. O longa&nbsp;metragem documental come&ccedil;ou a ser gravado em 2014, a partir da viv&ecirc;ncia da diretora com o MST e as ocupa&ccedil;&otilde;es de terra na regi&atilde;o Centro-Oeste: Goi&aacute;s, Bras&iacute;lia e Mato Grosso. Segundo ela,&nbsp;&eacute; o que chamado &agrave;s vezes de &ldquo;filme de processo&rdquo;, pois envolve os processos de conviv&ecirc;ncia, pesquisa e filmagem que se confundem e se transformam junto com o pr&oacute;prio objeto do filme.&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Screen Shot 2018-12-05 at 22.14.08 (1).png" height="438" src="//farm8.staticflickr.com/7840/39802521953_100fefb33c_b.jpg" width="700" />
@@ -91,8 +91,9 @@ A cineasta Camila est&aacute; produzindo o filme &ldquo;Ch&atilde;o&rdquo;. O lo
 </div>
 
 <p><br />
-&ldquo;O filme lan&ccedil;a um olhar pr&oacute;ximo sobre esse organismo complexo e multifacetado que &eacute; o Movimento Sem Terra e sobre a luta por reforma agr&aacute;ria a partir de um ponto de vista interno e com aten&ccedil;&atilde;o ao tecido micropol&iacute;tico das rela&ccedil;&otilde;es entre as pessoas e a terra ocupada&rdquo;, ressalta.<br />
-<br />
+&ldquo;O filme busca&nbsp;pensar a luta por reforma agr&aacute;ria a partir das novas rela&ccedil;&otilde;es que se estabelecem entre as pessoas e a terra ocupada, em que elas se reinventam junto com a paisagem. Tentamos lan&ccedil;ar um olhar pr&oacute;ximo e, claro, parcial, sobre esse organismo complexo que &eacute; o MST&rdquo;, ressalta.</p>
+
+<p><br />
 A cineasta explica ainda que durante as experi&ecirc;ncias vivenciadas junto ao MST e as fam&iacute;lias acampadas pode perceber &ldquo;o qu&atilde;o complexa, extensa e imprevis&iacute;vel &eacute; a luta, e o qu&atilde;o batalhada &eacute; cada conquista.&rdquo; Diante disso, o foco do filme foi deslocado dos resultados de uma ou outra disputa espec&iacute;fica na luta pela terra para elementos mais sutis acerca da experi&ecirc;ncia de luta e da resist&ecirc;ncia cotidiana em uma ocupa&ccedil;&atilde;o de terra. A equipe iniciou as grava&ccedil;&otilde;es no acampamento Dom Tom&aacute;s Baldu&iacute;no, com 450 fam&iacute;lias, no munic&iacute;pio de Formosa (GO), que obteve a conquista do pr&eacute;-assentamento. Em seguida, passou a filmar na ocupa&ccedil;&atilde;o Leonir Orbak, em Santa Helena de Goi&aacute;s, onde 600 fam&iacute;lias acampam desde 2015 as terras da usina Santa Helena, em recupera&ccedil;&atilde;o judicial h&aacute; dez anos e uma das dez maiores devedoras da Uni&atilde;o.</p>
 
 <p><br />
