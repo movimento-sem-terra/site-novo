@@ -114,11 +114,9 @@ Para a diretora Camila, o cinema &eacute; uma alternativa importante para renova
 &ldquo;Acredito fortemente que o cinema possa provocar empatia e identifica&ccedil;&atilde;o de outros indiv&iacute;duos e setores da sociedade que desconhecem o MST ou o conhecem apenas atrav&eacute;s de vis&otilde;es estigmatizadas da m&iacute;dia e discursos hegem&ocirc;nicos ligados ao agroneg&oacute;cio&rdquo;, defende Camila.</p>
 
 <p><br />
-Ou seja, o audiovisual, ainda que seja um meio massivo como o jornalismo, pode ir al&eacute;m, na medida em que consegue trabalhar com a dimens&atilde;o da experi&ecirc;ncia, da fabula&ccedil;&atilde;o e da cria&ccedil;&atilde;o art&iacute;stica. Em tempos de extrema polariza&ccedil;&atilde;o e crescimento de pol&iacute;ticas fascistas na sociedade brasileira, na vis&atilde;o de Camila, o cinema passa a ter um papel importante na disputa quanto ao direito dos trabalhadores e das minorias sociais, atacadas pelo governo de Jair Bolsonaro, em contar as suas pr&oacute;prias hist&oacute;rias e resguardar a mem&oacute;ria, que se encontra amea&ccedil;ada e sujeita &agrave; apagamentos.</p>
+O cinema e o audiovisual podem ir al&eacute;m de meios massivos como o jornalismo, na medida em que conseguem trabalhar com a dimens&atilde;o da experi&ecirc;ncia, da fabula&ccedil;&atilde;o e da cria&ccedil;&atilde;o art&iacute;stica.&nbsp;</p>
 
 <p><br />
-&ldquo;O cinema pode ser um reservat&oacute;rio de mem&oacute;ria e pensamento cr&iacute;tico imprescind&iacute;vel em tempos em que tantas conquistas que pareciam consolidadas parecem se relativizar, e em que cresce uma onda de revisionismos hist&oacute;ricos perigosos, por exemplo em rela&ccedil;&atilde;o ao golpe militar e &agrave; tortura&rdquo;, conclui a cineasta Camila.</p>
-
-<p>&nbsp;</p>
+&quot;Em tempos de relativiza&ccedil;&atilde;o de conquistas sociais que pareciam consolidadas, &quot;fake news&quot; e revisionismos perigosos, por exemplo em rela&ccedil;&atilde;o ao golpe militar e &agrave; tortura, o cinema &eacute; um instrumento poderoso de auto-reflex&atilde;o e mem&oacute;ria&rdquo;, conclui a cineasta Camila.</p>
 
 <p>&nbsp;</p>
