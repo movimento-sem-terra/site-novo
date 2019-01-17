@@ -4,8 +4,8 @@ tags:
   - tag: educação
   - tag: escola-do-campo
   - tag: mobilizações
-title: "Município do Piauí sofre com ameaça de fechamento de escolas do campo \n"
-support_line: "Das 11 escolas, 9 estão sob ameaça "
+title: "Município do Piauí sofre com ameaça de fechamento de escolas\n"
+support_line: "Das onze escolas do campo, nove estão sob ameaça "
 menu: "educação, cultura e comunicação"
 images_hd: //farm8.staticflickr.com/7848/32901483368_09e5e518f0_b.jpg
 layout: post
@@ -72,6 +72,8 @@ Al&eacute;m disso, ao reduzir o n&uacute;mero de escolas a prefeitura n&atilde;o
 
 <div>&nbsp;
 <p style="text-align:center"><img alt="49898841_2338335316401905_1602837234581504000_n.jpg" height="394" src="//farm8.staticflickr.com/7909/39811805933_23698a4855_b.jpg" width="700" /></p>
+<br />
+<br />
 <br />
 &quot;Resistiremos, n&atilde;o vamos&nbsp;permitir que nenhuma escola seja fechada. N&oacute;s temos nossas escolas nas portas das nossas casas, n&atilde;o vamos&nbsp;permitir que sejam fechadas e que mandem nossas crian&ccedil;as&nbsp;percorrer quase 30 km todos os dias por estradas em p&eacute;ssimas condi&ccedil;&otilde;es. Al&eacute;m disso, temos muitas crian&ccedil;as com necessidades especiais nessas escolas, como&nbsp;podemos permitir que elas sejam fechadas?&quot;, questionou&nbsp;Ednaldo de Sousa, coordenador da&nbsp;juventude Sem Terra no estado.</div>
 
