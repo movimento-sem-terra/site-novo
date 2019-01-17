@@ -76,32 +76,32 @@ Confira abaixo a entrevista concedida durante o lan&ccedil;amento do livro &quot
 <p><br />
 <strong>Qual a situa&ccedil;&atilde;o na luta pela terra no Par&aacute;?&nbsp;</strong></p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 Existe uma frase famosa no Par&aacute; que sempre carregamos nas&nbsp;faixas e mobiliza&ccedil;&otilde;es por sua&nbsp;simbologia: &#39;No Par&aacute; a impunidade mata e desmata&#39;. Para muitos l&aacute; n&atilde;o &eacute; terra de gente, a minha companheira de 15 anos de trabalho foi assassinada. Quando eu fui preso, fiquei junto com um dos mandantes do assassinato dela, pouco tempo depois da minha entrada na cadeia, ele recebeu um habeas corpus e hoje, 13 anos depois,&nbsp;reponde pelo crime em liberdade. L&aacute; quem manda, &eacute; quem tem dinheiro, o trabalhador e a trabalhadora rural s&atilde;o vistos como bandidos, que burlam a lei.&nbsp;Quando uma terra que &eacute; p&uacute;blica &eacute; ocupada, ele &eacute; amea&ccedil;ado, agredido e assassinado.<br />
 Esse &eacute; o cen&aacute;rio no qual resistimos.&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 100%"><br />
 <strong>Como ficou a persegui&ccedil;&atilde;o ao senhor depois da morte da irm&atilde;&nbsp;Dorothy?</strong></p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 Quando a Dorothy foi assassinada em 2005 a cabe&ccedil;a dela estava valendo 50 mil; &nbsp;a minha 25 mil reais. O objetivo deles&nbsp;(para a pol&iacute;cia, depoimentos na &eacute;poca refor&ccedil;am exist&ecirc;ncia de &quot;cons&oacute;rcio do crime &quot; na regi&atilde;o) era matar os dois, como n&atilde;o conseguiram, tombaram ela.&nbsp;A&nbsp;equipe da CPT se manteve e continuamos seguindo com o trabalho at&eacute; que o mesmo cons&oacute;rcio que encomendou as mortes, forjou provas contra mim para que eu pudesse ser incriminado e, consequentemente, afastado do trabalho que desenvolvo na regi&atilde;o. Eles querem a todo custo me tirar de Anapu, passei 92 dias preso no centro de recupera&ccedil;&atilde;o de Altamira, me prenderam, mas o povo continuou&nbsp;l&aacute;, sobrevivendo e lutando.</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 <strong>A perspectiva com o novo governo &eacute; de recrudescimento. Qual seu maior receio diante disso?&nbsp;</strong></p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 Uma das preocupa&ccedil;&otilde;es&nbsp;&eacute; que no estado temos muitas &aacute;reas em disputa, com a elei&ccedil;&atilde;o do novo governo que desde j&aacute; profere amea&ccedil;as, o medo &eacute; que&nbsp;isso se confirme. N&oacute;s sabemos&nbsp;que quando n&atilde;o d&aacute; pra matar, eles criminalizam. E criminalizam com o objetivo de anular todo um processo hist&oacute;rico de&nbsp;resist&ecirc;ncia.&nbsp;</p>
 
-<p style="margin-bottom: 0cm; line-height: 100%"><br />
+<p><br />
 <strong>Como &eacute; seguir em luta aiante da amea&ccedil;a e da viol&ecirc;ncia?&nbsp;</strong></p>
 
-<p>Em nome do trabalhador, em nome do Deus que eu acredito, que quer vida digna para todos e todas, &eacute; triste chegar em uma acampamento e sentir o cheiro da fuma&ccedil;a queimando o&nbsp;pouco&nbsp;daquelas fam&iacute;lias. Ver gente coberta&nbsp;de&nbsp;fuligem, sujo de cinza, dormindo no meio do capim com medo de ser morto. Essa gente n&atilde;o &eacute; bandida, a terra ocupada &eacute; p&uacute;blica, direito do trabalhador e dever do Estado.&nbsp;O que queremos&nbsp;&eacute; um peda&ccedil;o &iacute;nfimo de terra para trabalhar e viver. Como n&atilde;o se indignar? Como n&atilde;o lutar diante de tanta mis&eacute;ria e desigualdade? Eu n&atilde;o quero morrer, mas, depois de tudo o que passei, eu estou pronto para enfrentar o que for pela luta que eu acredito.<br />
-<br />
-<br />
-<br />
-<strong>Na sua opini&atilde;o, como devemos enfrentar o pr&oacute;ximo per&iacute;odo de criminaliza&ccedil;&atilde;o?&nbsp;</strong><br />
-<br />
-<br />
+<p><br />
+Em nome do trabalhador, em nome do Deus que eu acredito, que quer vida digna para todos e todas, &eacute; triste chegar em uma acampamento e sentir o cheiro da fuma&ccedil;a queimando o&nbsp;pouco&nbsp;daquelas fam&iacute;lias. Ver gente coberta&nbsp;de&nbsp;fuligem, sujo de cinza, dormindo no meio do capim com medo de ser morto. Essa gente n&atilde;o &eacute; bandida, a terra ocupada &eacute; p&uacute;blica, direito do trabalhador e dever do Estado.&nbsp;O que queremos&nbsp;&eacute; um peda&ccedil;o &iacute;nfimo de terra para trabalhar e viver. Como n&atilde;o se indignar? Como n&atilde;o lutar diante de tanta mis&eacute;ria e desigualdade? Eu n&atilde;o quero morrer, mas, depois de tudo o que passei, eu estou pronto para enfrentar o que for pela luta que eu acredito.</p>
+
+<p><br />
+<strong>Na sua opini&atilde;o, como devemos enfrentar o pr&oacute;ximo per&iacute;odo de criminaliza&ccedil;&atilde;o?&nbsp;</strong></p>
+
+<p><br />
 N&oacute;s sempre tivemos uma boa rela&ccedil;&atilde;o com o MST, rela&ccedil;&atilde;o de respeito e de solidariedade. Assim como a CPT, o MST tamb&eacute;m sofre com a criminaliza&ccedil;&atilde;o, com a falta de informa&ccedil;&atilde;o e com a intoler&acirc;ncia. &Eacute; tempo de recrudescimento, de amea&ccedil;a e de incertezas, mas, se n&oacute;s dermos a m&atilde;os, esse governo n&atilde;o se mant&eacute;m. O poder &eacute; popular, e&nbsp;deve vir do povo e para o povo. Quando isso acontecer&nbsp;nenhuma for&ccedil;a ser&aacute;&nbsp;capaz de destruir uma hist&oacute;ria inteira de luta pela terra e por dignidade.&nbsp;</p>
 
 <p><br />
