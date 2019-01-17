@@ -58,8 +58,7 @@ J&aacute; Camila teve informa&ccedil;&atilde;o da exist&ecirc;ncia dos Sem Terra
 &eacute;poca em que cursava cinema na Universidade de Bras&iacute;lia (UnB).</p>
 
 <p><br />
-&ldquo;Eu tinha acabado de entrar no curso de Cinema e, junto com outros companheiros, decidimos &lsquo;transferir&rsquo; o curso pro acampamento. Ent&atilde;o, decidimos fazer um filme. Film&aacute;vamos com o que t&iacute;nhamos&rdquo;, conta Camila. Ainda segundo ela, o grupo realizou algumas filmagens de marchas que o MST realizou pela Esplanada dos Minist&eacute;rios,<br />
-durante &agrave;quele per&iacute;odo de acampamento.</p>
+&ldquo;Eu tinha acabado de entrar no curso de Cinema e, durante uma greve, eu e outros companheiros decidimos &lsquo;transferir&rsquo; o curso pro acampamento. Tentamos fazer um filme. Film&aacute;vamos com o que t&iacute;nhamos&rdquo;, conta Camila. Ainda segundo ela, o grupo realizou algumas filmagens de marchas que o MST realizou pela Esplanada dos Minist&eacute;rios, durante &agrave;quele per&iacute;odo de acampamento.</p>
 
 <p><br />
 <strong>O que Camila e Julia t&ecirc;m em comum?</strong><br />
@@ -100,8 +99,7 @@ A cineasta explica ainda que durante as experi&ecirc;ncias vivenciadas junto ao 
 <strong>As contribui&ccedil;&atilde;o do cinema</strong><br />
 &nbsp;</p>
 
-<p>H&aacute; s&eacute;culos que a s&eacute;tima arte refor&ccedil;a determinados comportamentos sociais e inspira outras formas de ver, pensar e viver no mundo. Julia acredita que o cinema &eacute; um instrumento potente de comunica&ccedil;&atilde;o para o MST, j&aacute; que por meio dele &eacute; poss&iacute;vel mostrar os benef&iacute;cios da Reforma Agr&aacute;ria em diferentes narrativas e humanizar a luta.<br />
-&ldquo;&Eacute; uma pot&ecirc;ncia n&atilde;o apenas para a comunica&ccedil;&atilde;o externa, para aproximar o movimento das pessoas da cidade e desfazer pr&eacute;-conceitos, como tamb&eacute;m &eacute; superpotente para a comunica&ccedil;&atilde;o interna do movimento, em estabelecer v&iacute;nculos mais fortes entre os diversos assentamentos, acampamentos e regi&otilde;es de atua&ccedil;&atilde;o&rdquo;, aponta a diretora Julia.</p>
+<p>H&aacute; s&eacute;culos que a s&eacute;tima arte refor&ccedil;a determinados comportamentos sociais e inspira outras formas de ver, pensar e viver no mundo. Julia acredita que o cinema &eacute; um instrumento potente de comunica&ccedil;&atilde;o para o MST, j&aacute; que por meio dele &eacute; poss&iacute;vel mostrar os benef&iacute;cios da Reforma Agr&aacute;ria em diferentes narrativas e humanizar a luta. &ldquo;&Eacute; uma pot&ecirc;ncia n&atilde;o apenas para a comunica&ccedil;&atilde;o externa, para aproximar o movimento das pessoas da cidade e desfazer pr&eacute;-conceitos, como tamb&eacute;m &eacute; superpotente para a comunica&ccedil;&atilde;o interna do movimento, em estabelecer v&iacute;nculos mais fortes entre os diversos assentamentos, acampamentos e regi&otilde;es de atua&ccedil;&atilde;o&rdquo;, aponta a diretora Julia.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Camila Freitas - arquivo pessoal.jpg" height="532" src="//farm5.staticflickr.com/4877/32892277238_aed036b4a1_b.jpg" width="700" />
@@ -123,4 +121,4 @@ Ou seja, o audiovisual, ainda que seja um meio massivo como o jornalismo, pode i
 
 <p>&nbsp;</p>
 
-<p><b style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: small;">&quot;Em tempos de relativiza&ccedil;&atilde;o de conquistas sociais que pareciam consolidadas, &quot;fake news&quot; e revisionismos perigosos, por exemplo em rela&ccedil;&atilde;o ao golpe militar e &agrave; tortura, o cinema &eacute; um instrumento poderoso de auto-reflex&atilde;o e mem&oacute;ria</b><span style="color: rgb(255, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: small;">&rdquo;, conclui a cineasta Camila.</span></p>
+<p>&nbsp;</p>
