@@ -17,10 +17,44 @@ files:
     small: //farm5.staticflickr.com/4910/39826615563_e8e690a22b_n.jpg
     title: 50088514_2522789294460436_6264271399636959232_n.png
     $$hashKey: "035"
+  - link: //farm8.staticflickr.com/7846/45913878665_0469e5e814_b.jpg
+    original: //farm8.staticflickr.com/7846/45913878665_eb672ff5c3_o.jpg
+    thumbnail: //farm8.staticflickr.com/7846/45913878665_0469e5e814_t.jpg
+    medium: //farm8.staticflickr.com/7846/45913878665_0469e5e814_z.jpg
+    small: //farm8.staticflickr.com/7846/45913878665_0469e5e814_n.jpg
+    title: 20180315-mstarroz.jpg
+    $$hashKey: 0FN
+  - link: //farm8.staticflickr.com/7926/46776354402_c83e3ac3f7_b.jpg
+    original: //farm8.staticflickr.com/7926/46776354402_6b7ee8e55d_o.jpg
+    thumbnail: //farm8.staticflickr.com/7926/46776354402_c83e3ac3f7_t.jpg
+    medium: //farm8.staticflickr.com/7926/46776354402_c83e3ac3f7_z.jpg
+    small: //farm8.staticflickr.com/7926/46776354402_c83e3ac3f7_n.jpg
+    title: 3.jpg
+    $$hashKey: 0FQ
+  - link: //farm8.staticflickr.com/7862/46776354412_834e1c5ee7_b.jpg
+    original: //farm8.staticflickr.com/7862/46776354412_86394cf77b_o.jpg
+    thumbnail: //farm8.staticflickr.com/7862/46776354412_834e1c5ee7_t.jpg
+    medium: //farm8.staticflickr.com/7862/46776354412_834e1c5ee7_z.jpg
+    small: //farm8.staticflickr.com/7862/46776354412_834e1c5ee7_n.jpg
+    title: 4.jpeg
+    $$hashKey: 0FT
+  - link: //farm8.staticflickr.com/7926/45913904005_7eec7020f4_b.jpg
+    original: //farm8.staticflickr.com/7926/45913904005_2c0d392790_o.jpg
+    thumbnail: //farm8.staticflickr.com/7926/45913904005_7eec7020f4_t.jpg
+    medium: //farm8.staticflickr.com/7926/45913904005_7eec7020f4_z.jpg
+    small: //farm8.staticflickr.com/7926/45913904005_7eec7020f4_n.jpg
+    title: 5.jpg
+    $$hashKey: 0FW
+  - link: //farm5.staticflickr.com/4835/45913924565_820e840e30_b.jpg
+    original: //farm5.staticflickr.com/4835/45913924565_b04d0cfbd5_o.jpg
+    thumbnail: //farm5.staticflickr.com/4835/45913924565_820e840e30_t.jpg
+    medium: //farm5.staticflickr.com/4835/45913924565_820e840e30_z.jpg
+    small: //farm5.staticflickr.com/4835/45913924565_820e840e30_n.jpg
+    title: 6.jpg
+    $$hashKey: 0FZ
 created_date: "2019-01-18T17:43:44-02:00"
-published: false
+published: true
 releated_posts:
-  - _posts/2018/05/2018-05-12-carta-ao-povo-brasileiro.md
   - _posts/2018/10/2018-10-31-se-continuar-agredindo-movimentos-depois-de-empossado-bolsonaro-cometera-crime.md
   - _posts/2018/11/2018-11-13-muito-alem-da-ocupacao.md
   - _posts/2018/08/2018-08-10-marchas-em-busca-de-direitos-marcam-vidas-de-sem-terra.md
@@ -54,98 +88,106 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>O MST &eacute; um Movimento social organizado<br />
+<p>H&aacute; 35 anos o MST luta por uma sociedade mais justa e igualit&aacute;ria. Ao longo desse per&iacute;odo,&nbsp;al&eacute;m da Reforma Agr&aacute;ria Popular e da agroecologia,&nbsp;um&nbsp;caminho na luta por educa&ccedil;&atilde;o, cultura, sa&uacute;de e igualdade tamb&eacute;m foi tra&ccedil;ado.<br />
 <br />
-- Fruto dessa organiza&ccedil;&atilde;o s&atilde;o as cooperativas, associa&ccedil;&otilde;es e agroind&uacute;strias nos assentamentos. Atualmente, o MST organiza&nbsp;sete principais cadeias produtivas:&nbsp;feij&atilde;o, arroz, leite, caf&eacute;, sucos, sementes e mel.&nbsp; &nbsp;</p>
+Confira abaixo:</p>
 
 <p>&nbsp;</p>
 
 <p>1 - Ao&nbsp;longo desses 35 anos o MST tornou-se&nbsp;o maior produtor de arroz org&acirc;nico da Am&eacute;rica Latina<br />
 <em><strong>Somente na safra de 2017 foram produzidos 27 mil toneladas de arroz org&acirc;nico. Al&eacute;m disso, o Movimento exporta 30% de sua produ&ccedil;&atilde;o para pa&iacute;ses como Estados Unidos, Alemanha, Espanha, Nova Zel&acirc;ndia, Noruega, Chile e M&eacute;xico.</strong></em><br />
-<br />
-<br />
-2 - Segundo o &Iacute;ndice de Desenvolvimento na Educa&ccedil;&atilde;o B&aacute;sica (IDEB) duas escolas do MST obt&eacute;m maiores &iacute;ndices na educa&ccedil;&atilde;o b&aacute;sica<br />
-<em><strong>A Escola Amadeus Carvalho no Assentamento Marrecas, localizada no munic&iacute;pio de S&atilde;o Jo&atilde;o do Piau&iacute;, a Escola Sabino Bernardo, no Assentamento Palmares, munic&iacute;pio de Luzil&acirc;ndia, obtiveram no ensino fundamental notas consideradas acima da m&eacute;dia para modalidade.&nbsp;</strong></em><br />
-<br />
-3 -&nbsp;O MST n&atilde;o doutrina crian&ccedil;as, todas as nossas escolas cumprem as diretrizes&nbsp;aprovadas&nbsp;pelo Minist&eacute;rio da Educa&ccedil;&atilde;o (MEC)</p>
+&nbsp;</p>
+
+<p style="text-align:center"><img alt="20180315-mstarroz.jpg" height="463" src="//farm8.staticflickr.com/7846/45913878665_0469e5e814_b.jpg" width="700" /></p>
+
+<p>&nbsp;</p>
+
+<p style="line-height: 15.6px;">2 - Fruto dessa organiza&ccedil;&atilde;o s&atilde;o as cooperativas, associa&ccedil;&otilde;es e agroind&uacute;strias nos assentamentos. Atualmente, o MST organiza&nbsp;sete principais cadeias produtivas:&nbsp;feij&atilde;o, arroz, leite, caf&eacute;, sucos, sementes e mel.&nbsp; &nbsp;</p>
 
 <p><br />
-4 - O MST realiza feiras agroecol&oacute;gicas em todo Brasil<br />
+3 - O MST realiza feiras agroecol&oacute;gicas em todo Brasil<br />
 <em><strong>Atualmente s&atilde;o 17 feiras estaduais espalhadas por todo o pa&iacute;s, al&eacute;m da feira nacional que acontece anualmente na cidade de S&atilde;o Paulo.</strong></em></p>
 
 <p><br />
-5 - Ocupa&ccedil;&atilde;o do MST no Paran&aacute; ganha pr&ecirc;mio por recupera&ccedil;&atilde;o da Mata Atl&acirc;ntica<br />
+4 - Ocupa&ccedil;&atilde;o do MST no Paran&aacute; ganha pr&ecirc;mio por recupera&ccedil;&atilde;o da Mata Atl&acirc;ntica<br />
 <em><strong>O acampamento&nbsp;Jos&eacute; Lutzenberger, que fica no munic&iacute;pio de Antonina (PR) ocupa parte da &Aacute;rea de Prote&ccedil;&atilde;o Ambiental (APA) de Guaraque&ccedil;aba, no litoral norte do Paran&aacute;, e desde 2003 concilia a produ&ccedil;&atilde;o de alimentos livres de agrot&oacute;xicos - de couve &agrave; caf&eacute; - com a recupera&ccedil;&atilde;o da Mata Atl&acirc;ntica. Por isso, a comunidade foi contemplada no pr&ecirc;mio Juliana Santilli, na categoria amplia&ccedil;&atilde;o e conserva&ccedil;&atilde;o da agrobiodiversidade.</strong></em></p>
 
 <p><br />
-6 - Em 2018, assentamento do MST alcan&ccedil;a safra recorde de sementes<br />
+5 - Em 2018, assentamento do MST alcan&ccedil;a safra recorde de sementes<br />
 <em><strong>S&oacute; da variedade de milho criolo Sol da Manh&atilde;, o pr&eacute; assentamento Ana Ferreira, em parceria com o Movimento Campon&ecirc;s Popular (MCP), produziu 30 toneladas. J&aacute; comunidades camponesas organizadas no MCP geraram 120 toneladas de sementes. Destas, 20 toneladas s&atilde;o de 7 variedades de feij&atilde;o, 2 toneladas de arroz e 98 toneladas de 6 variedades de milho, todos crioulos.</strong></em><br />
 &nbsp;</p>
 
-<h4>7 - MST recebe pr&ecirc;mio em Guernica pela luta da Reforma Agr&aacute;ria<br />
+<h4>6 - MST recebe pr&ecirc;mio em Guernica pela luta da Reforma Agr&aacute;ria<br />
 <strong><em>O pr&ecirc;mio Guernica para a Paz e Reconcilia&ccedil;&atilde;o foi entregue em 2013, na cidade de Guernica, na Espanha.<br />
 Ao conceder o pr&ecirc;mio para o MST, o comit&ecirc; de jurados afirmou que o Movimento &eacute; uma &ldquo;organiza&ccedil;&atilde;o que luta pela paz e pela Reforma Agr&aacute;ria no Brasil.</em></strong><br />
 &nbsp;</h4>
 
-<p>8 - Em 1995, o MST ganhou pr&ecirc;mio por programa educacional<br />
+<p>7 - Em 1995, o MST ganhou pr&ecirc;mio por programa educacional<br />
 <em><strong>O programa educacional do Movimento feito nos assentamentos de Reforma Agr&aacute;ria, ganhou o Pr&ecirc;mio Ita&uacute;-Unicef Educa&ccedil;&atilde;o e Participa&ccedil;&atilde;o</strong></em></p>
 
 <p>&nbsp;</p>
 
-<p>9 - Em 2011, o MST recebeu pr&ecirc;mio por sua produ&ccedil;&atilde;o sustent&aacute;vel<br />
+<p>8 - Em 2011, o MST recebeu pr&ecirc;mio por sua produ&ccedil;&atilde;o sustent&aacute;vel<br />
 <em><strong>A Coaliz&atilde;o Comunidade Soberania Alimentar (Community Food Security Coalition -CFSC) escolheu o MST para receber o Terceiro Pr&ecirc;mio Anual de Soberania Alimentar . A entrega aconteceu durante a 15&ordm; Confer&ecirc;ncia Anual do CFSC, em Oakland, Calif&oacute;rnia, EUA.</strong></em><br />
 <br />
 &nbsp;</p>
 
-<p>10 - O Pr&ecirc;mio Ceci Melo de Participa&ccedil;&atilde;o Social do Governo da Para&iacute;ba, que anualmente homenageia mulheres que se destacam nas atua&ccedil;&otilde;es sociais, homenagueou na edi&ccedil;&atilde;o de 2018 a militante do Movimento dos Trabalhadores Rurais Sem Terra (MST) Dilei Aparecida Schiochet.</p>
+<p>9 - O Pr&ecirc;mio Ceci Melo de Participa&ccedil;&atilde;o Social do Governo da Para&iacute;ba, que anualmente homenageia mulheres que se destacam nas atua&ccedil;&otilde;es sociais, homenagueou na edi&ccedil;&atilde;o de 2018 a militante do Movimento dos Trabalhadores Rurais Sem Terra (MST) Dilei Aparecida Schiochet.</p>
 
 <p><br />
-11 - O&nbsp;MST, recebeu em dezembro em 2018 o Pr&ecirc;mio Santo Dias de Direitos Humanos, oferecido pela Assembleia Legislativa do Estado de S&atilde;o Paulo.</p>
+10&nbsp;- O&nbsp;MST, recebeu em dezembro em 2018 o Pr&ecirc;mio Santo Dias de Direitos Humanos, oferecido pela Assembleia Legislativa do Estado de S&atilde;o Paulo.</p>
 
 <p><br />
-12 - Escola do MST recebe pr&ecirc;mio em feira de ci&ecirc;ncia e tecnologia em Santa Catarina<br />
+11&nbsp;- Escola do MST recebe pr&ecirc;mio em feira de ci&ecirc;ncia e tecnologia em Santa Catarina<br />
 <em><strong>O projeto &quot;uso das caldas em sistemas agroecol&oacute;gicos&quot; da escola Vinte e Cinco de Maio venceu em 2018 o 3&ordm; lugar na XII Feira de Ci&ecirc;ncia e Tecnologia do estado.</strong></em></p>
 
 <p><br />
-13 - Em maio de 2016, o MST recebeu o pr&ecirc;mio Chapin Awards da organiza&ccedil;&atilde;o americana WhyHugre.</p>
+12&nbsp;- Em maio de 2016, o MST recebeu o pr&ecirc;mio Chapin Awards da organiza&ccedil;&atilde;o americana WhyHugre.</p>
+
+<p style="text-align:center"><img alt="6.jpg" height="483" src="//farm5.staticflickr.com/4835/45913924565_820e840e30_b.jpg" width="700" /></p>
 
 <p><br />
-14 - Escola do MST ganha pr&ecirc;mio com o tema Zumbi dos Palmares&nbsp;<br />
+13&nbsp;- Escola do MST ganha pr&ecirc;mio com o tema Zumbi dos Palmares&nbsp;<br />
 <em><strong>O Col&eacute;gio Estadual do Campo Contestado, situado no Assentamento Contestado na Lapa, estado do Paran&aacute;, ganhou o pr&ecirc;mio Orier&ecirc;- Cabe&ccedil;as Iluminadas, do Centro Cultural Humait&aacute;, com o tema Zumbi dos Palmares. O Pr&ecirc;mio&nbsp;foi criado em 2009 pelo Centro Cultural, com intuito de valorizar e evidenciar a heran&ccedil;a Africana e Afro-Brasileira no Paran&aacute;.</strong></em></p>
 
 <p><br />
-15 - Em 2002, um trabalho in&eacute;dito de conserva&ccedil;&atilde;o ambiental em assentamentos do MST no Pontal do Paranapanema, em S&atilde;o Paulo, ganhou o Whitley Gold Award, um dos mais importantes pr&ecirc;mios ambientais do mundo.</p>
+14&nbsp;- Em 2002, um trabalho in&eacute;dito de conserva&ccedil;&atilde;o ambiental em assentamentos do MST no Pontal do Paranapanema, em S&atilde;o Paulo, ganhou o Whitley Gold Award, um dos mais importantes pr&ecirc;mios ambientais do mundo.</p>
 
 <p><br />
-16 -&nbsp;O Movimento luta pelo acesso &agrave; educa&ccedil;&atilde;o p&uacute;blica, gratuita e de qualidade em todos os n&iacute;veis para suas crian&ccedil;as, jovens e adultos. J&aacute; conquistou mais de 2 mil escolas p&uacute;blicas e 320 cursos via Pronera em 40 institui&ccedil;&otilde;es, onde j&aacute; se formaram 165 mil educandos no ensino fundamental e m&eacute;dio e em cursos t&eacute;cnicos e de n&iacute;vel superior, como agronomia, agroecologia, medicina veterin&aacute;ria, hist&oacute;ria, direito, servi&ccedil;o social e cooperativismo.</p>
+15&nbsp;-&nbsp;O Movimento luta pelo acesso &agrave; educa&ccedil;&atilde;o p&uacute;blica, gratuita e de qualidade em todos os n&iacute;veis para suas crian&ccedil;as, jovens e adultos. J&aacute; conquistou mais de 2 mil escolas p&uacute;blicas e 320 cursos via Pronera em 40 institui&ccedil;&otilde;es, onde j&aacute; se formaram 165 mil educandos no ensino fundamental e m&eacute;dio e em cursos t&eacute;cnicos e de n&iacute;vel superior, como agronomia, agroecologia, medicina veterin&aacute;ria, hist&oacute;ria, direito, servi&ccedil;o social e cooperativismo.</p>
 
 <p><br />
-17 - Desde 2005, atrav&eacute;s do Projeto Escuela Latinoamericana de Medicina (ELAM), mais de 100 m&eacute;dicos Sem Terra j&aacute; se formaram em Cuba e na Venezuela. Eles atuam em 16 estados brasileiros, no Sistema &Uacute;nico de Sa&uacute;de (SUS) e no Programa Mais M&eacute;dicos, atendendo principalmente a popula&ccedil;&atilde;o mais pobre da zona rural, vilas e periferias.</p>
+16 - Segundo o &Iacute;ndice de Desenvolvimento na Educa&ccedil;&atilde;o B&aacute;sica (IDEB) duas escolas do MST obt&eacute;m maiores &iacute;ndices na educa&ccedil;&atilde;o b&aacute;sica<br />
+<em><strong>A Escola Amadeus Carvalho no Assentamento Marrecas, localizada no munic&iacute;pio de S&atilde;o Jo&atilde;o do Piau&iacute;, a Escola Sabino Bernardo, no Assentamento Palmares, munic&iacute;pio de Luzil&acirc;ndia, obtiveram no ensino fundamental notas consideradas acima da m&eacute;dia para modalidade.&nbsp;</strong></em><br />
+<br />
+<br />
+17 -&nbsp;O MST n&atilde;o doutrina crian&ccedil;as, todas as nossas escolas cumprem as diretrizes&nbsp;aprovadas&nbsp;pelo Minist&eacute;rio da Educa&ccedil;&atilde;o (MEC)</p>
+
+<p style="text-align:center"><img alt="4.jpeg" height="440" src="//farm8.staticflickr.com/7862/46776354412_834e1c5ee7_b.jpg" width="700" /></p>
 
 <p><br />
-18 - Atrav&eacute;s do m&eacute;todo cubano &#39;Sim eu Posso mais de 50 mil adultos j&aacute; foram alfabetizados<br />
+18&nbsp;- Desde 2005, atrav&eacute;s do Projeto Escuela Latinoamericana de Medicina (ELAM), mais de 100 m&eacute;dicos Sem Terra j&aacute; se formaram em Cuba e na Venezuela. Eles atuam em 16 estados brasileiros, no Sistema &Uacute;nico de Sa&uacute;de (SUS) e no Programa Mais M&eacute;dicos, atendendo principalmente a popula&ccedil;&atilde;o mais pobre da zona rural, vilas e periferias.</p>
+
+<p><br />
+19&nbsp;- Atrav&eacute;s do m&eacute;todo cubano &#39;Sim eu Posso mais de 50 mil adultos j&aacute; foram alfabetizados<br />
 &nbsp;</p>
 
-<p>19 - O MST n&atilde;o rouba terras, o MST ocupa terras improdutivas<br />
+<p>20 - O MST n&atilde;o rouba terras, o MST ocupa terras improdutivas<br />
 <em><strong>A pol&iacute;tica de Reforma Agr&aacute;ria somente desapropria terras que n&atilde;o cumpram sua fun&ccedil;&atilde;o social, ou seja, que n&atilde;o s&atilde;o utilizadas para moradia nem para plantio. Quem garante isso &eacute; a Constitui&ccedil;&atilde;o Federal de 1988, artigos 182 e subsequentes, bem como o Estatuto da Terra (Lei n&ordm;4.504/1964).&nbsp;</strong></em></p>
 
 <p><br />
-20 - O MST luta desde 1984 por Reforma Agr&aacute;ria e transforma&ccedil;&otilde;es sociais no pa&iacute;s. Conquistou assentamentos para mais de 1 milh&atilde;o de pessoas e ajudou a construir e/ou implementar o Programa Nacional de Habita&ccedil;&atilde;o Rural (PNHR), o Programa de Fortalecimento da Agricultura Familiar (Pronaf), o reconhecimento da profiss&atilde;o de agricultora, o Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (Pnae) e o Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (Pronera), entre outras pol&iacute;ticas.</p>
+21&nbsp;- O MST luta desde 1984 por Reforma Agr&aacute;ria e transforma&ccedil;&otilde;es sociais no pa&iacute;s. Conquistou assentamentos para mais de 1 milh&atilde;o de pessoas e ajudou a construir e/ou implementar o Programa Nacional de Habita&ccedil;&atilde;o Rural (PNHR), o Programa de Fortalecimento da Agricultura Familiar (Pronaf), o reconhecimento da profiss&atilde;o de agricultora, o Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (Pnae) e o Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (Pronera), entre outras pol&iacute;ticas.</p>
 
 <div><br />
-21 - Julia Kaiane Prates da Silva, nascida e criada no assentamento de S&atilde;o Virg&iacute;lio, na cidade de Herval (RS),&nbsp;chegou &agrave; final&nbsp; da 10&ordf; Olimp&iacute;ada Nacional em Hist&oacute;ria do Brasil. A olimp&iacute;ada aconteceu em agosto de 2018, em Campinas, no interior de S&atilde;o Paulo.</div>
+22&nbsp;- Julia Kaiane Prates da Silva, nascida e criada no assentamento de S&atilde;o Virg&iacute;lio, na cidade de Herval (RS),&nbsp;chegou &agrave; final&nbsp; da 10&ordf; Olimp&iacute;ada Nacional em Hist&oacute;ria do Brasil. A olimp&iacute;ada aconteceu em agosto de 2018, em Campinas, no interior de S&atilde;o Paulo.</div>
 
 <div>&nbsp;</div>
 
-<div>22 - Anualmente o MST realiza o&nbsp;Festival Estadual de Arte e Cultura da Reforma Agr&aacute;ria em Minas Gerais</div>
+<div>23&nbsp;- Ao&nbsp;todo mais de 600 mil pessoas passaram pela Feira Nacional da Reforma Agr&aacute;ria durante suas tr&ecirc;s edi&ccedil;&otilde;es em S&atilde;o Paulo</div>
 
 <div>&nbsp;</div>
 
-<div>23 - Ao&nbsp;todo mais de 600 mil pessoas passaram pela Feira Nacional da Reforma Agr&aacute;ria durante suas tr&ecirc;s edi&ccedil;&otilde;es em S&atilde;o Paulo</div>
-
-<div>&nbsp;</div>
-
-<div>24 - O MST tem uma vasta produ&ccedil;&atilde;o audiovisual tendo, aos longo desses 35 anos produzido e participado de dezenas de longas e curtas metragens, isso sem contar a produ&ccedil;&atilde;o musical que conta com &aacute;lbuns dedicados &agrave;&nbsp;produ&ccedil;&atilde;o musical do Movimento&nbsp;&nbsp;</div>
+<div>24&nbsp;- O MST tem uma vasta produ&ccedil;&atilde;o audiovisual tendo, aos longo desses 35 anos produzido e participado de dezenas de longas e curtas metragens, isso sem contar a produ&ccedil;&atilde;o musical que conta com &aacute;lbuns dedicados &agrave;&nbsp;produ&ccedil;&atilde;o musical do Movimento&nbsp;&nbsp;</div>
 
 <div>&nbsp;</div>
 
@@ -156,6 +198,12 @@ Ao conceder o pr&ecirc;mio para o MST, o comit&ecirc; de jurados afirmou que o M
 <div>&nbsp;</div>
 
 <div>27 -&nbsp;A Escola Nacional Florestan Fernandes (ENFF), localizada em Guararema,&nbsp;foi constru&iacute;da entre 2000 e 2005 &nbsp;por mais de 1.000 militantes do MST, que fabricaram at&eacute; os tijolos utilizados nas edifica&ccedil;&otilde;es.</div>
+
+<div>&nbsp;</div>
+
+<div>
+<p style="text-align:center"><img alt="5.jpg" height="438" src="//farm8.staticflickr.com/7926/45913904005_7eec7020f4_b.jpg" width="700" /></p>
+</div>
 
 <div>&nbsp;</div>
 
@@ -174,10 +222,18 @@ Ao conceder o pr&ecirc;mio para o MST, o comit&ecirc; de jurados afirmou que o M
 
 <div>&nbsp;</div>
 
-<p>32 - O MST comercializa alimentos&nbsp;institucionalmente para v&aacute;rias entidades, programas e organiza&ccedil;&otilde;es, entre elas o Ex&eacute;rcito, a Marinha Brasileira e o Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (PNAE). Os produtos do MST tamb&eacute;m s&atilde;o exportados e comercializados em mercados, feiras, grupos de consumo, Armaz&eacute;ns do Campo e lojas da Reforma Agr&aacute;ria.<br />
+<p>32 - O MST comercializa alimentos&nbsp;institucionalmente para v&aacute;rias entidades, programas e organiza&ccedil;&otilde;es, entre elas o Ex&eacute;rcito, a Marinha Brasileira e o Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (PNAE). Os produtos do MST tamb&eacute;m s&atilde;o exportados e comercializados em mercados, feiras, grupos de consumo, Armaz&eacute;ns do Campo e lojas da Reforma Agr&aacute;ria.</p>
+
+<p><br />
+33 -&nbsp;&nbsp;Escola do MST desenvolve embalagens sustent&aacute;veis de banana verde<br />
+<em><strong>O projeto &ldquo;Embalagens sustent&aacute;veis de banana verde&rdquo;, de autoria do professor Robson Almeida da Silva, do Centro Estadual de Educa&ccedil;&atilde;o Profissional (CEEP) da Floresta e Chocolate Milton Santos, no munic&iacute;pio de Arataca, no Sul da Bahia, foi um dos cinco vencedores do Nordeste indicados ao pr&ecirc;mio nacional &ldquo;Respostas para o amanh&atilde;&rdquo;.</strong></em></p>
+
+<p><br />
+34&nbsp;- O MST n&atilde;o tem l&iacute;deres, mas sim,&nbsp;inst&acirc;ncias organizativas.&nbsp;<br />
 &nbsp;</p>
 
-<p>33 - O MST n&atilde;o tem l&iacute;deres, mas sim,&nbsp;inst&acirc;ncias organizativas.&nbsp;<br />
-&nbsp;</p>
+<p>35&nbsp;- O MST n&atilde;o vai ocupar seu s&iacute;tio, o Movimento ocupa latif&uacute;ndios improdutivos e, atrav&eacute;s disso, cumpre com&nbsp;o compromisso de garantir a fun&ccedil;&atilde;o social da terra.&nbsp; &nbsp;</p>
 
-<p>34 - O MST n&atilde;o vai ocupar seu s&iacute;tio, o Movimento ocupa latif&uacute;ndios improdutivos e, atrav&eacute;s disso, cumpre com&nbsp;o compromisso de garantir a fun&ccedil;&atilde;o social da terra.&nbsp; &nbsp;</p>
+<p>&nbsp;</p>
+
+<p style="text-align:center"><img alt="3.jpg" height="467" src="//farm8.staticflickr.com/7926/46776354402_c83e3ac3f7_b.jpg" width="700" /></p>
