@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: mst
   - tag: lutas-e-mobilizações
-title: "35 coisas que talvez você sabe sobre o MST "
+title: "35 coisas que você talvez não saiba sobre o MST "
 support_line: "Ao longo de 35 anos o Movimento construiu uma longa trajetória de luta pela terra e por igualdade social  "
 images_hd: //farm5.staticflickr.com/4910/39826615563_e8e690a22b_b.jpg
 menu: lutas e mobilizações
@@ -88,8 +88,9 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>H&aacute; 35 anos o MST luta por uma sociedade mais justa e igualit&aacute;ria. Ao longo desse per&iacute;odo,&nbsp;al&eacute;m da Reforma Agr&aacute;ria Popular e da agroecologia,&nbsp;um&nbsp;caminho na luta por educa&ccedil;&atilde;o, cultura, sa&uacute;de e igualdade tamb&eacute;m foi tra&ccedil;ado.<br />
-<br />
+<p>H&aacute; 35 anos o MST luta por uma sociedade mais justa e igualit&aacute;ria. Ao longo desse per&iacute;odo,&nbsp;al&eacute;m da Reforma Agr&aacute;ria Popular e da agroecologia,&nbsp;um&nbsp;caminho na luta por educa&ccedil;&atilde;o, cultura, sa&uacute;de e igualdade tamb&eacute;m foi tra&ccedil;ado.</p>
+
+<p><br />
 Confira abaixo:</p>
 
 <p>&nbsp;</p>
