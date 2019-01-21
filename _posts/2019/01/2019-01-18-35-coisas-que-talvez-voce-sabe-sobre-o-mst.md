@@ -6,17 +6,10 @@ tags:
   - tag: lutas-e-mobilizações
 title: "35 coisas que você talvez não saiba sobre o MST "
 support_line: "Ao longo de 35 anos o Movimento construiu uma longa trajetória de luta pela terra e por igualdade social  "
-images_hd: //farm5.staticflickr.com/4910/39826615563_e8e690a22b_b.jpg
+images_hd: //farm8.staticflickr.com/7822/46829071761_87cc904106_b.jpg
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: //farm5.staticflickr.com/4910/39826615563_e8e690a22b_b.jpg
-    original: //farm5.staticflickr.com/4910/39826615563_8d735d396d_o.png
-    thumbnail: //farm5.staticflickr.com/4910/39826615563_e8e690a22b_t.jpg
-    medium: //farm5.staticflickr.com/4910/39826615563_e8e690a22b_z.jpg
-    small: //farm5.staticflickr.com/4910/39826615563_e8e690a22b_n.jpg
-    title: 50088514_2522789294460436_6264271399636959232_n.png
-    $$hashKey: "035"
   - link: //farm8.staticflickr.com/7846/45913878665_0469e5e814_b.jpg
     original: //farm8.staticflickr.com/7846/45913878665_eb672ff5c3_o.jpg
     thumbnail: //farm8.staticflickr.com/7846/45913878665_0469e5e814_t.jpg
@@ -52,6 +45,20 @@ files:
     small: //farm5.staticflickr.com/4835/45913924565_820e840e30_n.jpg
     title: 6.jpg
     $$hashKey: 0FZ
+  - link: //farm5.staticflickr.com/4830/46829067971_21897f8c1d_b.jpg
+    original: //farm5.staticflickr.com/4830/46829067971_3521bdf965_o.png
+    thumbnail: //farm5.staticflickr.com/4830/46829067971_21897f8c1d_t.jpg
+    medium: //farm5.staticflickr.com/4830/46829067971_21897f8c1d_z.jpg
+    small: //farm5.staticflickr.com/4830/46829067971_21897f8c1d_n.jpg
+    title: 13726586_388590244598449_5166707877088999959_n.png
+    $$hashKey: 0RG
+  - link: //farm8.staticflickr.com/7822/46829071761_87cc904106_b.jpg
+    original: //farm8.staticflickr.com/7822/46829071761_5d0e504680_o.png
+    thumbnail: //farm8.staticflickr.com/7822/46829071761_87cc904106_t.jpg
+    medium: //farm8.staticflickr.com/7822/46829071761_87cc904106_z.jpg
+    small: //farm8.staticflickr.com/7822/46829071761_87cc904106_n.jpg
+    title: 50088514_2522789294460436_6264271399636959232_n.png
+    $$hashKey: 0RJ
 created_date: "2019-01-18T17:43:44-02:00"
 published: true
 releated_posts:
