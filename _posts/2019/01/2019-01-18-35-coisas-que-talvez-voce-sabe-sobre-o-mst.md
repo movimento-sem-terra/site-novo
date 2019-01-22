@@ -126,7 +126,7 @@ Confira abaixo:</p>
 &nbsp;</p>
 
 <p>6 - MST recebe pr&ecirc;mio em Guernica pela luta da Reforma Agr&aacute;ria<br />
-<strong><em>O pr&ecirc;mio Guernica para a Paz e Reconcilia&ccedil;&atilde;o foi entregue em 2013, na cidade de Guernica, na Espanha. Ao conceder o pr&ecirc;mio para o MST, o comit&ecirc; de jurados afirmou que o Movimento &eacute; uma &ldquo;organiza&ccedil;&atilde;o que luta pela paz e pela Reforma Agr&aacute;ria no Brasil.</em></strong><br />
+<strong><em>O pr&ecirc;mio Guernica para a Paz e Reconcilia&ccedil;&atilde;o foi entregue em 2013, na cidade de Guernica, na Espanha. Ao conceder o pr&ecirc;mio para o MST, o comit&ecirc; de jurados afirmou que o Movimento &eacute; uma &ldquo;organiza&ccedil;&atilde;o que luta pela paz e pela Reforma Agr&aacute;ria no Brasil&quot;.</em></strong><br />
 &nbsp;</p>
 
 <p>7 - Em 1995, o MST ganhou pr&ecirc;mio por programa educacional<br />
@@ -149,7 +149,7 @@ Confira abaixo:</p>
 <em><strong>O projeto &quot;uso das caldas em sistemas agroecol&oacute;gicos&quot; da escola Vinte e Cinco de Maio venceu em 2018 o 3&ordm; lugar na XII Feira de Ci&ecirc;ncia e Tecnologia do estado.</strong></em></p>
 
 <p><br />
-12&nbsp;- Em maio de 2016, o MST recebeu o pr&ecirc;mio Chapin Awards da organiza&ccedil;&atilde;o americana WhyHugre.</p>
+12&nbsp;- Em maio de 2016, o MST recebeu o pr&ecirc;mio Chapin Awards da organiza&ccedil;&atilde;o americana WhyHunger.</p>
 
 <p style="text-align:center"><img alt="6.jpg" height="483" src="//farm5.staticflickr.com/4835/45913924565_820e840e30_b.jpg" width="700" /></p>
 
@@ -176,7 +176,7 @@ Confira abaixo:</p>
 18&nbsp;- Desde 2005, atrav&eacute;s do Projeto Escuela Latinoamericana de Medicina (ELAM), mais de 100 m&eacute;dicos Sem Terra j&aacute; se formaram em Cuba e na Venezuela. Eles atuam em 16 estados brasileiros, no Sistema &Uacute;nico de Sa&uacute;de (SUS) e no Programa Mais M&eacute;dicos, atendendo principalmente a popula&ccedil;&atilde;o mais pobre da zona rural, vilas e periferias.</p>
 
 <p><br />
-19&nbsp;- Atrav&eacute;s do m&eacute;todo cubano <a href="https://bit.ly/2FHJTUY">&#39;Sim eu Posso mais de 50 mil adultos j&aacute; foram alfabetizados</a><br />
+19&nbsp;- Atrav&eacute;s do m&eacute;todo cubano <a href="https://bit.ly/2FHJTUY">&#39;Sim eu Posso&#39; mais de 50 mil adultos j&aacute; foram alfabetizados</a><br />
 &nbsp;</p>
 
 <p>20 - O MST n&atilde;o rouba terras, o MST ocupa terras improdutivas<br />
