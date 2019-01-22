@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária
 title: Sétima arte e a luta pela Reforma Agrária
 images_hd: //farm5.staticflickr.com/4877/32892277238_aed036b4a1_b.jpg
-support_line: "A cineasta e diretora de fotografia, Camila Freitas e a diretora e produtora de documentários, Julia Mariano conheceram o MST em períodos diferentes, mas foi por meio do cinema que se aproximaram dos Sem Terra "
+support_line: Foi por meio do cinema que Camila Freitas e a diretora Julia Mariano se apaixonaram pelo MST
 menu: "educação, cultura e comunicação"
 layout: post
 files:
@@ -38,6 +38,7 @@ releated_posts:
   - _posts/2018/12/2018-12-03-festa-e-cavalgada-marcam-as-comemoracoes-de-aniversario-da-radio-camponesa.md
   - _posts/2018/09/2018-09-25-em-ribeirao-preto-documentario-apresenta-experiencia-agroflorestal-no-assentamento-mario-lago.md
   - _posts/2018/11/2018-11-30-para-filha-de-glauber-rocha-mst-gera-desenvolvimento-com-producao-de-alimentos.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
