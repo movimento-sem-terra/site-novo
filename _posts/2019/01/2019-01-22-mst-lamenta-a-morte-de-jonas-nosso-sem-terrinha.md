@@ -54,10 +54,10 @@ releated_posts:
 
 <div dir="auto">&nbsp;</div>
 
-<div dir="auto">As chuvas e raios t&ecirc;m sido recorrentes no munic&iacute;pio, por isso, o MST na regi&atilde;o&nbsp;est&aacute; tomando as provid&ecirc;ncias para que situa&ccedil;&otilde;es como essa n&atilde;o se repita.</div>
+<div dir="auto">As chuvas e raios t&ecirc;m sido recorrentes no munic&iacute;pio, por isso, o MST na regi&atilde;o&nbsp;est&aacute; tomando as provid&ecirc;ncias para que fatalidades como essa n&atilde;o voltem a acontecer.</div>
 
 <div dir="auto"><br />
-&quot;Al&eacute;m de orientar os acampados, n&oacute;s cobramos da prefeitura de Itatiaiu&ccedil;u a instala&ccedil;&atilde;o de p&aacute;ra-raios na escola da comunidade. Assim, evitamos fatalidades como essa&quot;, enfatizou Muniz.&nbsp;</div>
+&quot;Al&eacute;m de orientar os acampados, n&oacute;s cobramos da prefeitura de Itatiaiu&ccedil;u a instala&ccedil;&atilde;o de p&aacute;ra-raios na escola da comunidade. Assim, evitamos fatalidades como essa se repitam&quot;, enfatizou Muniz.&nbsp;</div>
 
 <div dir="auto">&nbsp;</div>
 
