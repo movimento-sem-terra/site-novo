@@ -5,7 +5,7 @@ tags:
   - tag: solidariedade
   - tag: sem-terrinha
 title: "MST lamenta a morte de Jonas, nosso Sem Terrinha \n"
-support_line: "No final da tarde desta segunda-feira (21) durante uma forte chuva, um raio atingiu o acampamento Maria da Conceição, em Itatiaiuçu, Minas Gerais\n"
+support_line: "No final da tarde desta segunda-feira (21), um raio atingiu o acampamento Maria da Conceição, em Itatiaiuçu, Minas Gerais\n"
 menu: lutas e mobilizações
 images_hd: //farm5.staticflickr.com/4910/46788204052_586b6ac0d3_b.jpg
 layout: post
@@ -23,6 +23,10 @@ releated_posts:
   - _posts/2018/05/2018-05-11-mst-solidariza-se-com-familiares-e-amigos-do-companheiro-ze-guilherme.md
   - _posts/2018/06/2018-06-13-o-mst-perdeu-uma-grande-amiga-militante-e-internacionalista.md
   - _posts/2018/05/2018-05-24-nota-de-solidariedade-do-mst-ceara.md
+  - _posts/2018/06/2018-06-13-entidades-lamentam-o-falecimento-da-lider-indigena-raquel-xukuru-kariri.md
+  - _posts/2018/08/2018-08-21-neli-stelet-presente-presente-presente.md
+  - _posts/2018/09/2018-09-13-mst-lamenta-o-falecimento-de-renee-de-carvalho.md
+  - _posts/2018/05/2018-05-18-sem-terra-soma-se-ao-mutirao-de-solidariedade-para-populacao-lgbt-do-df-e-entorno.md
 
 ---
 <p>&nbsp;</p>
@@ -62,15 +66,7 @@ releated_posts:
 <div dir="auto">&nbsp;</div>
 
 <div dir="auto">&nbsp;</div>
-
-<div dir="auto">&nbsp;</div>
-
-<div dir="auto">&nbsp;</div>
-
-<div dir="auto">&nbsp;</div>
 </div>
-
-<div class="yj6qo">&nbsp;</div>
 </div>
 </div>
 </div>
