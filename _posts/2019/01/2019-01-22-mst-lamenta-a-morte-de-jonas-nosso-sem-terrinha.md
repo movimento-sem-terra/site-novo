@@ -31,11 +31,11 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<div class="adn ads" data-legacy-message-id="168765f08ac5792a" data-message-id="#msg-f:1623378274485106986" style="border-left: none; padding: 0px; display: flex; color: rgb(34, 34, 34); font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: medium;">
-<div class="gs" style="margin: 0px; padding: 0px 0px 20px; width: 1183px;">
+<div data-legacy-message-id="168765f08ac5792a" data-message-id="#msg-f:1623378274485106986">
 <div>
-<div class="ii gt" id=":1bm" style="font-size: 12.8px; direction: ltr; margin: 8px 0px 0px; padding: 0px; position: relative;">
-<div class="a3s aXjCH " id=":1bl" style="overflow: hidden; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: small; line-height: 1.5; font-family: Arial, Helvetica, sans-serif;">
+<div>
+<div id=":1bm">
+<div id=":1bl">
 <div dir="auto">
 <div dir="auto">
 <div dir="auto">No final da tarde desta segunda-feira&nbsp;(21)&nbsp;durante uma forte chuva, um raio atingiu o acampamento Maria da Concei&ccedil;&atilde;o, em Itatiaiu&ccedil;u, Minas Gerais. A descarga el&eacute;trica atingiu&nbsp;Jonas, de 9 anos, que infelizmente n&atilde;o resistiu.&nbsp;</div>
@@ -53,7 +53,7 @@ releated_posts:
 <div dir="auto">As chuvas e raios t&ecirc;m sido recorrentes no munic&iacute;pio, por isso, o MST na regi&atilde;o&nbsp;est&aacute; tomando as provid&ecirc;ncias para que situa&ccedil;&otilde;es como essa n&atilde;o se repita.</div>
 
 <div dir="auto"><br />
-&quot;Al&eacute;m de orientar os acampados, n&oacute;s cobramos da prefeitura de Itatiaiu&ccedil;u a instala&ccedil;&atilde;o de p&aacute;ra-raios na escola da comunidade. Assim, evitamos fatalidades parecidas&quot;, enfatizou Muniz.&nbsp;</div>
+&quot;Al&eacute;m de orientar os acampados, n&oacute;s cobramos da prefeitura de Itatiaiu&ccedil;u a instala&ccedil;&atilde;o de p&aacute;ra-raios na escola da comunidade. Assim, evitamos fatalidades como essa&quot;, enfatizou Muniz.&nbsp;</div>
 
 <div dir="auto">&nbsp;</div>
 
