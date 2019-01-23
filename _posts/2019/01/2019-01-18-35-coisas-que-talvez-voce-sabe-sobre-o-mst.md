@@ -155,7 +155,7 @@ Confira abaixo:</p>
 
 <p><br />
 13&nbsp;- <a href="http://www.mst.org.br/2016/03/02/escolas-do-mst-recebem-premiacao-por-rememorar-a-luta-de-zumbi.html">Escola do MST ganha pr&ecirc;mio com o tema Zumbi dos Palmares</a>&nbsp;<br />
-<em><strong>O Col&eacute;gio Estadual do Campo Contestado, situado no Assentamento Contestado na Lapa, estado do Paran&aacute;, ganhou o pr&ecirc;mio Orier&ecirc;- Cabe&ccedil;as Iluminadas, do Centro Cultural Humait&aacute;, com o tema Zumbi dos Palmares. O Pr&ecirc;mio&nbsp;foi criado em 2009 pelo Centro Cultural, com intuito de valorizar e evidenciar a heran&ccedil;a Africana e Afro-Brasileira no Paran&aacute;.</strong></em></p>
+<em><strong>O Col&eacute;gio Estadual do Campo Contestado, situado no Assentamento Contestado na Lapa, estado do Paran&aacute;, ganhou o pr&ecirc;mio Orier&ecirc;-Cabe&ccedil;as Iluminadas, do Centro Cultural Humait&aacute;, com o tema Zumbi dos Palmares. O Pr&ecirc;mio&nbsp;foi criado em 2009 pelo Centro Cultural, com intuito de valorizar e evidenciar a heran&ccedil;a Africana e Afro-Brasileira no Paran&aacute;.</strong></em></p>
 
 <p><br />
 14&nbsp;- Em 2002, um trabalho in&eacute;dito de conserva&ccedil;&atilde;o ambiental em assentamentos do MST no Pontal do Paranapanema, em S&atilde;o Paulo, ganhou o Whitley Gold Award, um dos mais importantes pr&ecirc;mios ambientais do mundo.</p>
@@ -194,7 +194,7 @@ Confira abaixo:</p>
 
 <p>&nbsp;</p>
 
-<p>24&nbsp;- O MST tem uma vasta produ&ccedil;&atilde;o audiovisual tendo, aos longo desses 35 anos, produzido e participado de dezenas de longas e curtas-metragens, isso sem falar&nbsp;da produ&ccedil;&atilde;o musical que conta com &aacute;lbuns dedicados &agrave;&nbsp;produ&ccedil;&atilde;o musical do Movimento&nbsp;&nbsp;</p>
+<p>24&nbsp;- O MST tem uma vasta produ&ccedil;&atilde;o audiovisual tendo, ao&nbsp;longo desses 35 anos, produzido e participado de dezenas de longas e curtas-metragens, isso sem falar&nbsp;da produ&ccedil;&atilde;o musical que conta com &aacute;lbuns dedicados &agrave;&nbsp;produ&ccedil;&atilde;o musical do Movimento&nbsp;&nbsp;</p>
 
 <p>&nbsp;</p>
 
