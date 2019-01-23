@@ -190,7 +190,7 @@ Confira abaixo:</p>
 
 <p>&nbsp;</p>
 
-<p>23&nbsp;- Ao&nbsp;todo mais de 600 mil pessoas passaram pela Feira Nacional da Reforma Agr&aacute;ria durante suas tr&ecirc;s edi&ccedil;&otilde;es em S&atilde;o Paulo</p>
+<p>23&nbsp;- Ao&nbsp;todo, mais de 600 mil pessoas passaram pela Feira Nacional da Reforma Agr&aacute;ria durante suas tr&ecirc;s edi&ccedil;&otilde;es em S&atilde;o Paulo</p>
 
 <p>&nbsp;</p>
 
