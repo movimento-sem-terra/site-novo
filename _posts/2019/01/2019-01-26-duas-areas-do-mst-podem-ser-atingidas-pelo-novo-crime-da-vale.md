@@ -52,7 +52,7 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>No in&iacute;cio da tarde desta sexta-feira, 25/01, a sirene n&atilde;o soou novamente. Mais uma barragem da Vale, transnacional da minera&ccedil;&atilde;o privatizada, em 1997 pelo Partido da Social Democracia Brasileira (PSBD), se rompeu. Dessa vez o munic&iacute;pio de Brumadinho e outros 18 do estado de Minas Gerais ser&atilde;o afetados, comprometendo o abastecimento de &aacute;gua de cerca de um milh&atilde;o de pessoas.</p>
+<p>No in&iacute;cio da tarde desta sexta-feira, 25/01, mais uma barragem da Vale, transnacional da minera&ccedil;&atilde;o privatizada, em 1997 pelo Partido da Social Democracia Brasileira (PSBD), se rompeu. Dessa vez o munic&iacute;pio de Brumadinho e outros 18 do estado de Minas Gerais ser&atilde;o afetados, comprometendo o abastecimento de &aacute;gua de cerca de um milh&atilde;o de pessoas.</p>
 
 <p>&nbsp;</p>
 
@@ -113,10 +113,6 @@ Cr&eacute;dito: Corpo de Bombeiros/MG.</figcaption>
 
 <p>&nbsp;</p>
 
-<p>As declara&ccedil;&otilde;es dos novos governantes exp&otilde;em a rela&ccedil;&atilde;o umbilical entre a pol&iacute;tica e o capitalismo. No momento em que o mundo vive uma crise estrutural do sistema econ&ocirc;mico, vale tudo para recompor as taxas de lucro do capital.</p>
-
-<p>&nbsp;</p>
-
-<p>Quando estes projetos foram pensados, o valor do min&eacute;rio era um, ap&oacute;s o in&iacute;cio da crise esse lucro se reduz. Para n&atilde;o colocar suas margens de lucro em risco, outras margens s&atilde;o destru&iacute;das, aquelas onde vivem os ribeirinhos, os pescadores, os povos do campo e todos que se abastecem daquela &aacute;gua. Com um governo que apoia, declaradamente tais crimes.</p>
+<p>As declara&ccedil;&otilde;es dos novos governantes exp&otilde;em a rela&ccedil;&atilde;o umbilical entre a pol&iacute;tica e o capitalismo. Quando estes projetos foram pensados, o valor do min&eacute;rio era um, ap&oacute;s o in&iacute;cio da crise esse lucro se reduz. Para n&atilde;o colocar suas margens de lucro em risco, outras margens s&atilde;o destru&iacute;das, aquelas onde vivem os ribeirinhos, os pescadores, os povos do campo e todos que se abastecem daquela &aacute;gua. Com um governo que apoia, declaradamente tais crimes.</p>
 
 <p>&nbsp;</p>
