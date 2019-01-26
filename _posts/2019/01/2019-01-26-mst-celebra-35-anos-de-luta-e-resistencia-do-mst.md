@@ -4,7 +4,7 @@ tags:
   - tag: história
   - tag: mst
   - tag: reforma-agrária-popular
-title: "MST celebra 35 anos de luta e resistência do MST "
+title: "MST celebra 35 anos de luta e resistência!"
 support_line: Ato político em homenagem ao Movimento reuniu parlamentares e amigos do Movimento
 images_hd: //farm5.staticflickr.com/4815/31944307097_302e605722_b.jpg
 menu: reforma agrária
