@@ -17,13 +17,6 @@ files:
     small: //farm5.staticflickr.com/4824/46882741231_f46e73ca45_n.jpg
     title: WhatsApp Image 2019-01-26 at 09.56.34.jpeg
     $$hashKey: 04A
-  - link: //farm8.staticflickr.com/7892/33007515308_a262c58342_b.jpg
-    original: //farm8.staticflickr.com/7892/33007515308_935234ea00_o.jpg
-    thumbnail: //farm8.staticflickr.com/7892/33007515308_a262c58342_t.jpg
-    medium: //farm8.staticflickr.com/7892/33007515308_a262c58342_z.jpg
-    small: //farm8.staticflickr.com/7892/33007515308_a262c58342_n.jpg
-    title: rompimento-de-barragem-brumadinho-005.jpg
-    $$hashKey: 04D
   - link: //farm5.staticflickr.com/4836/33007520448_129ffa9d7b_b.jpg
     original: //farm5.staticflickr.com/4836/33007520448_1b4773bc6d_o.jpg
     thumbnail: //farm5.staticflickr.com/4836/33007520448_129ffa9d7b_t.jpg
@@ -31,12 +24,23 @@ files:
     small: //farm5.staticflickr.com/4836/33007520448_129ffa9d7b_n.jpg
     title: WhatsApp Image 2019-01-25 at 15.57.10.jpeg
     $$hashKey: 04G
+  - link: //farm5.staticflickr.com/4880/31941619717_b8e83093ed_b.jpg
+    original: //farm5.staticflickr.com/4880/31941619717_b85276a00f_o.jpg
+    thumbnail: //farm5.staticflickr.com/4880/31941619717_b8e83093ed_t.jpg
+    medium: //farm5.staticflickr.com/4880/31941619717_b8e83093ed_z.jpg
+    small: //farm5.staticflickr.com/4880/31941619717_b8e83093ed_n.jpg
+    title: WhatsApp Image 2019-01-25 at 15.57.02.jpeg
+    $$hashKey: 0CI
 created_date: "2019-01-26T13:23:02-02:00"
 published: true
 releated_posts: []
 
 ---
-<p><img alt="WhatsApp Image 2019-01-26 at 09.56.34.jpeg" height="600" src="//farm5.staticflickr.com/4824/46882741231_f46e73ca45_b.jpg" width="600" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-01-26 at 09.56.34.jpeg" height="600" src="//farm5.staticflickr.com/4824/46882741231_f46e73ca45_b.jpg" width="600" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
@@ -48,7 +52,7 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>No in&iacute;cio da tarde desta sexta-feira, 25/01, a sirene n&atilde;o soou novamente. Mais uma barragem da Vale, transnacional da minera&ccedil;&atilde;o privatizada, em 1997 pelo Partido da Social Democracia Brasileira (PSBD), se rompeu. Dessa vez o munic&iacute;pio de Brumadinho e outros 18 do estado de Minas Gerais ser&atilde;o afetados.</p>
+<p>No in&iacute;cio da tarde desta sexta-feira, 25/01, a sirene n&atilde;o soou novamente. Mais uma barragem da Vale, transnacional da minera&ccedil;&atilde;o privatizada, em 1997 pelo Partido da Social Democracia Brasileira (PSBD), se rompeu. Dessa vez o munic&iacute;pio de Brumadinho e outros 18 do estado de Minas Gerais ser&atilde;o afetados, comprometendo o abastecimento de &aacute;gua de cerca de um milh&atilde;o de pessoas.</p>
 
 <p>&nbsp;</p>
 
@@ -56,21 +60,26 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>S&atilde;o pelos menos 200 pessoas desaparecidas, 7 mortos registrados at&eacute; o momento, de acordo com a Defesa Civil. E in&uacute;meras incertezas sobre as consequ&ecirc;ncias do rompimento de uma barragem que n&atilde;o estava entre as 50 sob alerta de risco.<br />
-&nbsp;</p>
+<p>S&atilde;o pelos menos cerca de 300 a 350 pessoas desaparecidas, 9&nbsp;mortos confirmados&nbsp;at&eacute; o momento e 189 pessoas resgatadas com vida, de acordo com a Defesa Civil. E in&uacute;meras incertezas sobre as consequ&ecirc;ncias do rompimento de uma barragem que n&atilde;o estava entre as 50 sob alerta de risco. A Vale divulgou uma lista com 413 funcion&aacute;rios que ainda n&atilde;o teve contato.</p>
 
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="rompimento-de-barragem-brumadinho-005.jpg" height="333" src="//farm8.staticflickr.com/7892/33007515308_a262c58342_b.jpg" width="500" />
-<figcaption></figcaption>
-</figure>
-</div>
+<p>&nbsp;</p>
 
-<p><br />
-Em S&atilde;o Joaquim de Bicas, o acampamento P&aacute;tria Livre ser&aacute; afetado pelos rejeitos. J&aacute; no munic&iacute;pio de Esmeraldas, o assentamento 2 de Julho tamb&eacute;m est&aacute; sujeito &agrave; polui&ccedil;&atilde;o da mineradora, j&aacute; que os lotes beiram o Rio Paraopebas. As fam&iacute;lias e a aldeia ind&iacute;gena Patax&oacute; R&atilde; R&atilde; R&atilde; se retiraram para locais mais altos, para se protegerem.</p>
+<p>&nbsp;</p>
+
+<p>Em S&atilde;o Joaquim de Bicas, o acampamento P&aacute;tria Livre ser&aacute; afetado pelos rejeitos. J&aacute; no munic&iacute;pio de Esmeraldas, o assentamento 2 de Julho tamb&eacute;m foi atingido pela polui&ccedil;&atilde;o da mineradora, j&aacute; que os lotes beiram o Rio Paraopebas, inundado pelos rejeitos. As fam&iacute;lias e a aldeia ind&iacute;gena Patax&oacute; R&atilde; R&atilde; R&atilde; se retiraram para locais mais altos, para se protegerem.</p>
 
 <p>&nbsp;</p>
 
 <p>&Eacute; estarrecedora a postura do Presidente da Vale, Fabio Schvartsman, que afirma &ldquo;n&oacute;s n&atilde;o sabemos quantos est&atilde;o soterrados&rdquo;. Segundo ele, a barragem estava inativa e sem receber rejeitos h&aacute; tr&ecirc;s anos e os laudos apontavam um risco baixo de desabamento.</p>
+
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-01-25 at 15.57.02.jpeg" height="281" src="//farm5.staticflickr.com/4880/31941619717_b8e83093ed_b.jpg" width="500" />
+<figcaption>Lama da Barragem da Vale invade casa, em Brumadinho (MG)&nbsp;<br />
+Cr&eacute;dito: Corpo de Bombeiros/MG.</figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
