@@ -5,7 +5,7 @@ tags:
   - tag: meio-ambiente
   - tag: mineração
 title: Duas áreas do MST podem ser atingidas pelo novo crime da Vale
-support_line: "O MST repudia a ação predatória das mineradoras em Minas Gerais. Reafirmamos que a responsabilidade é da empresa e do Estado, que deixou de fiscalizar a mineração e cobrar devidamente os seus crimes"
+support_line: "O MST repudia a ação predatória das mineradoras em Minas Gerais e reafirma que a responsabilidade é da empresa e do Estado, que deixou de fiscalizar a mineração e cobrar devidamente os seus crimes"
 menu: meio ambiente
 images_hd: //farm5.staticflickr.com/4836/33007520448_129ffa9d7b_b.jpg
 layout: post
@@ -60,9 +60,7 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>S&atilde;o pelos menos cerca de 300 a 350 pessoas desaparecidas, 9&nbsp;mortos confirmados&nbsp;at&eacute; o momento e 189 pessoas resgatadas com vida, de acordo com a Defesa Civil. E in&uacute;meras incertezas sobre as consequ&ecirc;ncias do rompimento de uma barragem que n&atilde;o estava entre as 50 sob alerta de risco. A Vale divulgou uma lista com 413 funcion&aacute;rios que ainda n&atilde;o teve contato.</p>
-
-<p>&nbsp;</p>
+<p>A&nbsp;nova trag&eacute;dia provocou o desaparecimento de cerca de 300 a 350 pessoas, nove mortos confirmados&nbsp;at&eacute; o momento e 189 pessoas resgatadas com vida, de acordo com a Defesa Civil. E in&uacute;meras incertezas sobre as consequ&ecirc;ncias do rompimento de uma barragem que n&atilde;o estava entre as 50 sob alerta de risco. A Vale divulgou uma lista com 413 funcion&aacute;rios que ainda n&atilde;o teve contato.</p>
 
 <p>&nbsp;</p>
 
@@ -70,7 +68,7 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>&Eacute; estarrecedora a postura do Presidente da Vale, Fabio Schvartsman, que afirma &ldquo;n&oacute;s n&atilde;o sabemos quantos est&atilde;o soterrados&rdquo;. Segundo ele, a barragem estava inativa e sem receber rejeitos h&aacute; tr&ecirc;s anos e os laudos apontavam um risco baixo de desabamento.</p>
+<p>&Eacute; estarrecedora a postura do Presidente da Vale, Fabio Schvartsman, ao afirmar &ldquo;n&oacute;s n&atilde;o sabemos quantos est&atilde;o soterrados&rdquo;. Segundo ele, a barragem estava inativa e sem receber rejeitos h&aacute; tr&ecirc;s anos e os laudos apontavam um risco baixo de desabamento.</p>
 
 <p>&nbsp;</p>
 
@@ -83,15 +81,15 @@ Cr&eacute;dito: Corpo de Bombeiros/MG.</figcaption>
 
 <p>&nbsp;</p>
 
-<p>Pouco mais de tr&ecirc;s anos se passaram do crime da Vale sobre Mariana, com o rompimento da Barragem de Fund&atilde;o. Mas, h&aacute; dois dias, o governador Romeu Zema comemorou a amplia&ccedil;&atilde;o da extra&ccedil;&atilde;o de min&eacute;rio em Brumadinho. Ele tamb&eacute;m se pronunciou ap&oacute;s reuni&atilde;o com a Samarco. &quot;Conversamos sobre os cerca de 14.500 empregos que ser&atilde;o gerados com a retomada da atividade da empresa na regi&atilde;o de Mariana e Ouro Preto. (&hellip;) O desenvolvimento tem que ocorrer para a gera&ccedil;&atilde;o de empregos, mas sem tirar os olhos da quest&atilde;o ambiental. Assim teremos uma Minas Gerais eficiente.&quot;</p>
+<p>Pouco mais de tr&ecirc;s anos se passaram do crime da Vale sobre Mariana, com o rompimento da Barragem de Fund&atilde;o. Mas, h&aacute; dois dias, o governador Romeu Zema (Partido Novo) comemorou a amplia&ccedil;&atilde;o da extra&ccedil;&atilde;o de min&eacute;rio em Brumadinho. Ao se pronunciar ap&oacute;s reuni&atilde;o com a Samarco, argumentou: &quot;conversamos sobre os cerca de 14.500 empregos que ser&atilde;o gerados com a retomada da atividade da empresa na regi&atilde;o de Mariana e Ouro Preto. (&hellip;) O desenvolvimento tem que ocorrer para a gera&ccedil;&atilde;o de empregos, mas sem tirar os olhos da quest&atilde;o ambiental. Assim teremos uma Minas Gerais eficiente.&quot;</p>
 
 <p>&nbsp;</p>
 
-<p>Nesse momento, os olhos do novo &ldquo;gerente&rdquo;, dono das lojas de eletrodom&eacute;sticos Zema, estavam certamente &ldquo;de olho&rdquo; nos dividendos da retomada da explora&ccedil;&atilde;o dos recursos minerais. Ele sequer levou em conta que as mineradoras pouco t&ecirc;m a retornar para o Estado, j&aacute; que a lei Kandir libera os impostos de produtos prim&aacute;rios de exporta&ccedil;&atilde;o, como o min&eacute;rio.</p>
+<p>Os olhos do governador e dono das lojas de eletrodom&eacute;sticos Zema, estavam certamente&nbsp;nos dividendos da retomada da explora&ccedil;&atilde;o dos recursos minerais. Ele sequer levou em conta que as mineradoras pouco t&ecirc;m a retornar para o Estado, j&aacute; que a lei Kandir libera os impostos de produtos prim&aacute;rios de exporta&ccedil;&atilde;o, como o min&eacute;rio.</p>
 
 <p>&nbsp;</p>
 
-<p>Ainda em dezembro de 2018, sob protesto do Movimento das &Aacute;guas de Casa Branca contra o avan&ccedil;o da minera&ccedil;&atilde;o por ali, o Conselho Estadual de Pol&iacute;tica Ambiental aprovou a amplia&ccedil;&atilde;o em 88% de duas minas em Brumadinho e Sarzedo.</p>
+<p>Ainda em dezembro do ano passado, sob protesto do Movimento das &Aacute;guas de Casa Branca contra o avan&ccedil;o da minera&ccedil;&atilde;o por ali, o Conselho Estadual de Pol&iacute;tica Ambiental aprovou a amplia&ccedil;&atilde;o em 88% de duas minas em Brumadinho e Sarzedo.</p>
 
 <p>&nbsp;</p>
 
@@ -99,7 +97,7 @@ Cr&eacute;dito: Corpo de Bombeiros/MG.</figcaption>
 
 <p>&nbsp;</p>
 
-<p>De acordo com a apura&ccedil;&atilde;o do jornal Brasil de Fato, o plano de campanha do governador Romeu Zema (Partido Novo) n&atilde;o teve propostas espec&iacute;ficas para a &aacute;rea ambiental. A palavra &ldquo;ambiente&rdquo; apareceu treze vezes, quase sempre ao lado da express&atilde;o &ldquo;de neg&oacute;cios&rdquo;, e nunca se referindo &agrave; natureza. Apesar disso, Zema criticou de modo geral os licenciamentos feitos pelo estado, afirmando que &ldquo;desincentivam&rdquo;, &ldquo;criam burocracias&rdquo; e &ldquo;gastos&rdquo; aos empres&aacute;rios. Adicionou ainda que isso n&atilde;o evitou irregularidades.</p>
+<p>De acordo com apura&ccedil;&atilde;o do jornal Brasil de Fato, o plano de campanha do governador Romeu Zema n&atilde;o teve propostas espec&iacute;ficas para a &aacute;rea ambiental. A palavra &ldquo;ambiente&rdquo; apareceu treze vezes, quase sempre ao lado da express&atilde;o &ldquo;de neg&oacute;cios&rdquo;, e nunca se referindo &agrave; natureza. Apesar disso, Zema criticou de modo geral os licenciamentos feitos pelo estado, afirmando que &ldquo;desincentivam&rdquo;, &ldquo;criam burocracias&rdquo; e &ldquo;gastos&rdquo; aos empres&aacute;rios. Adicionou ainda que isso n&atilde;o evitou irregularidades.</p>
 
 <p>&nbsp;</p>
 
@@ -107,15 +105,11 @@ Cr&eacute;dito: Corpo de Bombeiros/MG.</figcaption>
 
 <p>&nbsp;</p>
 
-<p>Acabar com caprichos fiscais, para um presidente que com um m&ecirc;s de mandato j&aacute; est&aacute; ligado &agrave;s mil&iacute;cias no Rio de Janeiro e ao assassinato da vereadora Marielle Franco (PSOL), deve representar a isen&ccedil;&atilde;o de criminosos, seja de corpora&ccedil;&otilde;es locais vinculadas &agrave; assassinatos, seja &agrave;s grandes corpora&ccedil;&otilde;es que depredam o patrim&ocirc;nio de uma na&ccedil;&atilde;o.</p>
+<p>Ao mesmo tempo, o Ministro do Meio Ambiente de Bolsonaro, Ricardo Salles, foi condenado em dezembro por favorecer mineradoras no Plano de Manejo da &Aacute;rea de Prote&ccedil;&atilde;o Ambiental (APA) do Rio Tiet&ecirc;, quando era secret&aacute;rio de Meio Ambiente do ent&atilde;o governador de S&atilde;o Paulo, Geraldo Alckmin (PSDB).</p>
 
 <p>&nbsp;</p>
 
-<p>E mais, o Ministro do Meio Ambiente de Bolsonaro, Ricardo Salles, foi condenado em dezembro por favorecer mineradoras no Plano de Manejo da &Aacute;rea de Prote&ccedil;&atilde;o Ambiental (APA) do Rio Tiet&ecirc;, quando ele era secret&aacute;rio de Meio Ambiente do ent&atilde;o governador de S&atilde;o Paulo, Geraldo Alckmin (PSDB).</p>
-
-<p>&nbsp;</p>
-
-<p>Dessa maneira, podemos ver com facilidade o fim da corrup&ccedil;&atilde;o. Onde a investiga&ccedil;&atilde;o &eacute; restrita aos interesses pol&iacute;ticos e a justi&ccedil;a age a favor do crime organizado, infiltrado no Estado. Ou seja, a justi&ccedil;a real&ccedil;a sua propriedade de cegueira em rela&ccedil;&atilde;o &agrave;s necessidades do povo brasileiro.</p>
+<p>Pode-se perceber com facilidade o fim da corrup&ccedil;&atilde;o. Onde a investiga&ccedil;&atilde;o &eacute; restrita aos interesses pol&iacute;ticos e a justi&ccedil;a age a favor do crime organizado, infiltrado no Estado. Ou seja, a justi&ccedil;a real&ccedil;a sua cegueira em rela&ccedil;&atilde;o &agrave;s necessidades do povo brasileiro.</p>
 
 <p>&nbsp;</p>
 
@@ -124,9 +118,5 @@ Cr&eacute;dito: Corpo de Bombeiros/MG.</figcaption>
 <p>&nbsp;</p>
 
 <p>Quando estes projetos foram pensados, o valor do min&eacute;rio era um, ap&oacute;s o in&iacute;cio da crise esse lucro se reduz. Para n&atilde;o colocar suas margens de lucro em risco, outras margens s&atilde;o destru&iacute;das, aquelas onde vivem os ribeirinhos, os pescadores, os povos do campo e todos que se abastecem daquela &aacute;gua. Com um governo que apoia, declaradamente tais crimes.</p>
-
-<p>&nbsp;</p>
-
-<p>O MST segue na luta e intensifica a cobran&ccedil;a de todos os &oacute;rg&atilde;os e compet&ecirc;ncias do Estado. Exigimos que a verdadeira justi&ccedil;a seja feita, aquela determinada pelos povos atingidos. Este modelo de minera&ccedil;&atilde;o n&atilde;o serve ao povo brasileiro. Somente esse povo, &agrave; exemplo do povo Venezuelano, poder&aacute; ser o guardi&atilde;o soberano dos nossos recursos naturais.</p>
 
 <p>&nbsp;</p>
