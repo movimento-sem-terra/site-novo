@@ -108,11 +108,36 @@ A carta refor&ccedil;a ainda a solidariedade do Movimento ao Povo Venezuelano, n
 Confira a Carta ao Povo Brasileiro na &iacute;ntegra:<br />
 &nbsp;</p>
 
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="CartaAoPovoBrasileiroaA4-001.jpg" height="990" src="//farm8.staticflickr.com/7830/39920923153_229a40baa3_b.jpg" width="700" />
-<figcaption></figcaption>
-</figure>
-</div>
+<p style="text-align: center;"><em><strong>Carta ao povo brasileiro</strong></em><br />
+&nbsp;</p>
+
+<p style="text-align: center;"><em>O Movimento Sem Terra celebra seus 35 anos de luta pela reforma agr&aacute;ria e por justi&ccedil;a social. Nascemos no final&nbsp;</em><em>da ditadura civil-militar, junto com milhares de lutadores e lutadoras que defenderam a democracia e desafiaram o autoritarismo. Mais uma vez, reafirmamos nosso&nbsp;<strong>compromisso</strong>&nbsp;de lutar pela democratiza&ccedil;&atilde;o da terra, pela produ&ccedil;&atilde;o de alimentos saud&aacute;veis, pela soberania popular e por uma&nbsp;<strong>sociedade emancipada</strong>.</em></p>
+
+<p><em><img alt="" height="666" src="file:///C:/Users/HP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif" width="665" />Diante da crise estrutural do capital, com consequ&ecirc;ncias graves e destrutivas para a natureza e a humanidade, nossas tarefas pol&iacute;ticas se tornam ainda mais urgentes e necess&aacute;rias. As sa&iacute;das apresentadas pelo capital financeiro, nada tem a ver com as necessidades humanas, pois resultam em aumento da superexplora&ccedil;&atilde;o dos trabalhadores e trabalhadoras, atrav&eacute;s da precariza&ccedil;&atilde;o do trabalho, desmonte das pol&iacute;ticas p&uacute;blicas, agressiva retirada de direitos e expropria&ccedil;&otilde;es diversas, elevando de forma brutal, os n&iacute;veis de desigualdade social. Para execut&aacute;-las, o capital <strong>requer</strong> um Estado cada vez mais autorit&aacute;rio, voltado &agrave; repress&atilde;o, violentando e perseguindo os mais pobres, promovendo um cruel genoc&iacute;dio da juventude negra.</em></p>
+
+<p><em>Foi desta forma que os meios de comunica&ccedil;&atilde;o, o poder judici&aacute;rio, os bancos, os militares e o agroneg&oacute;cio, levaram ao poder, neofascista e ultraliberal, um capit&atilde;o reformado que atua pelas formas mais baixas e vulgares da pol&iacute;tica, para manter os privil&eacute;gios dos que historicamente saquearam o pa&iacute;s e atacar diretamente os direitos da classe trabalhadora, atrav&eacute;s de ajustes fiscais, privatiza&ccedil;&otilde;es e subordina&ccedil;&atilde;o da nossa economia ao capital internacional, principalmente dos EUA.</em></p>
+
+<p><em>A subordina&ccedil;&atilde;o das quest&otilde;es ind&iacute;genas, fundi&aacute;rias e ambientais aos interesses da bancada ruralista e do agrot&oacute;xico no Minist&eacute;rio da Agricultura; o desmonte da previd&ecirc;ncia social; a amea&ccedil;a da entrega das empresas e bancos nacionais, como Petrobr&aacute;s, Banco do Brasil e Caixa Econ&ocirc;mica Federal; a libera&ccedil;&atilde;o da posse de armas s&atilde;o algumas das pol&iacute;ticas mort&iacute;feras adotadas por esse (des)governo, que colocam em risco a nossa biodiversidade e acirram os conflitos no campo atingindo frontalmente os ind&iacute;genas, quilombolas, ribeirinhos, camponeses, assentados e acampados da Reforma Agr&aacute;ria e evidencia a caracter&iacute;stica&nbsp; antinacional e antipopular do atual governo.&nbsp;</em></p>
+
+<p><em>&Eacute; preciso ocupar as ruas e as pra&ccedil;as denunciando a voracidade dessas pol&iacute;ticas que aprofundam a expropria&ccedil;&atilde;o e explora&ccedil;&atilde;o capitalista<a name="_GoBack"></a>.</em></p>
+
+<p><em>Assim, nos comprometemos em lutar e defender todos e todas trabalhadores e trabalhadoras que tenham sua exist&ecirc;ncia amea&ccedil;ada. Seguiremos defendendo a soberania dos e povos e lutando contra qualquer tipo de inger&ecirc;ncia pol&iacute;tica e/ou intervencionismo militar em qualquer pa&iacute;s. Declaramos total solidariedades ao povo Venezuelano!</em></p>
+
+<p><em>Nos solidarizamos com as fam&iacute;lias atingidas pela barragem de Brumadinho, v&iacute;timas de mais uma a&ccedil;&atilde;o criminosa e reincidente da Vale, uma assassina protegida pelo poder judici&aacute;rio.</em></p>
+
+<p><em>Nos somaremos a mobiliza&ccedil;&atilde;o das mulheres trabalhadoras no 8 de mar&ccedil;o, seremos zeladores do legado e a mem&oacute;ria de Marielle Franco e de tantos outros companheiros e companheiras que tombaram, exigindo a puni&ccedil;&atilde;o dos seus assassinos e mandantes. Defenderemos a liberdade do companheiro Lula, cuja pris&atilde;o pol&iacute;tica foi utilizada para que esse projeto fosse vitorioso nas elei&ccedil;&otilde;es.</em></p>
+
+<p><em>Nos comprometemos em fortalecer a Frente Brasil Popular e todas as iniciativas de luta da classe trabalhadora que confrontem a explora&ccedil;&atilde;o, a subordina&ccedil;&atilde;o e a opress&atilde;o, nos somando na luta cotidiana das mulheres, da popula&ccedil;&atilde;o urbana e camponesa, dos negros e negras, dos povos ind&iacute;genas e dos sujeitos LGBT.</em></p>
+
+<p><em>Lutaremos pela democracia, pela justi&ccedil;a, pela igualdade, pela defesa dos bens da natureza, pela democratiza&ccedil;&atilde;o da terra e pela produ&ccedil;&atilde;o de alimentos saud&aacute;veis para alimentar o povo brasileiro.</em></p>
+
+<p>&nbsp;</p>
+
+<p align="center"><em><strong>Lutar, construir Reforma Agr&aacute;ria Popular!</strong></em></p>
+
+<p align="center"><em>Coordena&ccedil;&atilde;o Nacional do MST</em></p>
+
+<p><em>26 de janeiro de 2019</em></p>
 
 <p>&nbsp;</p>
 
