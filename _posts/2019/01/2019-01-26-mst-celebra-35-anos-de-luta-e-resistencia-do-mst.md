@@ -109,7 +109,7 @@ Confira a Carta ao Povo Brasileiro na &iacute;ntegra:<br />
 &nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="CartaAoPovoBrasileiroaA4-001.jpg" height="849" src="//farm8.staticflickr.com/7830/39920923153_229a40baa3_b.jpg" width="600" />
+<figure class="image" style="display:inline-block"><img alt="CartaAoPovoBrasileiroaA4-001.jpg" height="990" src="//farm8.staticflickr.com/7830/39920923153_229a40baa3_b.jpg" width="700" />
 <figcaption></figcaption>
 </figure>
 </div>
