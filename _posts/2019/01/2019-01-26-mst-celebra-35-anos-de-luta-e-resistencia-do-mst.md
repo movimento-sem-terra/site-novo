@@ -119,7 +119,7 @@ Confira a Carta ao Povo Brasileiro na &iacute;ntegra:<br />
 
 <p><em>A subordina&ccedil;&atilde;o das quest&otilde;es ind&iacute;genas, fundi&aacute;rias e ambientais aos interesses da bancada ruralista e do agrot&oacute;xico no Minist&eacute;rio da Agricultura; o desmonte da previd&ecirc;ncia social; a amea&ccedil;a da entrega das empresas e bancos nacionais, como Petrobr&aacute;s, Banco do Brasil e Caixa Econ&ocirc;mica Federal; a libera&ccedil;&atilde;o da posse de armas s&atilde;o algumas das pol&iacute;ticas mort&iacute;feras adotadas por esse (des)governo, que colocam em risco a nossa biodiversidade e acirram os conflitos no campo atingindo frontalmente os ind&iacute;genas, quilombolas, ribeirinhos, camponeses, assentados e acampados da Reforma Agr&aacute;ria e evidencia a caracter&iacute;stica&nbsp; antinacional e antipopular do atual governo.&nbsp;</em></p>
 
-<p><em>&Eacute; preciso ocupar as ruas e as pra&ccedil;as denunciando a voracidade dessas pol&iacute;ticas que aprofundam a expropria&ccedil;&atilde;o e explora&ccedil;&atilde;o capitalista<a name="_GoBack"></a>.</em></p>
+<p><em>&Eacute; preciso ocupar as ruas e as pra&ccedil;as denunciando a voracidade dessas pol&iacute;ticas que aprofundam a expropria&ccedil;&atilde;o e explora&ccedil;&atilde;o capitalista.</em></p>
 
 <p><em>Assim, nos comprometemos em lutar e defender todos e todas trabalhadores e trabalhadoras que tenham sua exist&ecirc;ncia amea&ccedil;ada. Seguiremos defendendo a soberania dos e povos e lutando contra qualquer tipo de inger&ecirc;ncia pol&iacute;tica e/ou intervencionismo militar em qualquer pa&iacute;s. Declaramos total solidariedades ao povo Venezuelano!</em></p>
 
@@ -137,7 +137,7 @@ Confira a Carta ao Povo Brasileiro na &iacute;ntegra:<br />
 
 <p align="center"><em>Coordena&ccedil;&atilde;o Nacional do MST</em></p>
 
-<p><em>26 de janeiro de 2019</em></p>
+<p style="text-align: center;"><em>26 de janeiro de 2019</em></p>
 
 <p>&nbsp;</p>
 
