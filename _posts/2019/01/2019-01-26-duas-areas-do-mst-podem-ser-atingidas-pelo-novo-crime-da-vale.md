@@ -5,7 +5,7 @@ tags:
   - tag: meio-ambiente
   - tag: mineração
 title: Duas áreas do MST podem ser atingidas pelo novo crime da Vale
-support_line: "O MST repudia a ação predatória das mineradoras em Minas Gerais e reafirma que a responsabilidade é da empresa e do Estado, que deixou de fiscalizar a mineração e cobrar devidamente os seus crimes"
+support_line: O MST repudia a ação predatória das mineradoras em Minas Gerais e reafirma que a responsabilidade é da empresa e do Estado
 menu: meio ambiente
 images_hd: //farm5.staticflickr.com/4836/33007520448_129ffa9d7b_b.jpg
 layout: post
@@ -33,7 +33,11 @@ files:
     $$hashKey: 0CI
 created_date: "2019-01-26T13:23:02-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/12/2018-12-14-em-mg-o-mst-comemora-30-anos-com-festival-da-reforma-agraria.md
+  - _posts/2018/12/2018-12-15-sul-de-minas-traz-sua-forca-e-producao-para-o-festival-da-reforma-agraria.md
+  - _posts/2018/12/2018-12-15-reforma-agraria-popular-um-grito-de-resistencia.md
+  - _posts/2018/06/2018-06-06-no-dia-mundial-do-meio-ambiente-a-ana-divulga-a-carta-do-iv-ena.md
 
 ---
 <div style="text-align:center">
