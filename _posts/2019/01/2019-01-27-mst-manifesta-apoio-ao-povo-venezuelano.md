@@ -5,7 +5,7 @@ tags:
   - tag: solidariedade-internacional
   - tag: soberania-nacional
 title: MST manifesta apoio ao povo venezuelano
-support_line: "Em nota, o MST se solidariza com o heróico povo venezuelano e ao seu presidente Nicolás Maduro, que mais uma vez são alvos de um brutal ataque contra sua democracia e soberania"
+support_line: "Em nota, o MST se solidariza com o heróico povo venezuelano e com o presidente Nicolás Maduro, alvo de um brutal ataque"
 menu: solidariedade
 images_hd: //farm8.staticflickr.com/7877/45978940725_19d9702481_b.jpg
 layout: post
@@ -41,7 +41,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Para P&aacute;gina do MST</em></p>
+<p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
 A Coordena&ccedil;&atilde;o Nacional do MST divulga nota de apoio e solidariedade ao povo da Venezuela e ao seu presidente Nicol&aacute;s Maduro, devido aos ataques que o pa&iacute;s vem enfrentando contra sua democracia e soberania.</p>
@@ -58,7 +58,7 @@ A Coordena&ccedil;&atilde;o Nacional do MST divulga nota de apoio e solidariedad
 
 <p><em>Veja nota na &iacute;ntegra:</em></p>
 
-<p><br />
+<p style="text-align: center;"><br />
 <strong>Mo&ccedil;&atilde;o de apoio ao povo venezuelano e ao Presidente Nicol&aacute;s Maduro</strong></p>
 
 <p>&nbsp;</p>
