@@ -40,14 +40,20 @@ files:
     $$hashKey: 04P
 created_date: "2019-01-26T18:41:20-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/08/2018-08-13-marchar-por-um-brasil-mais-justo-conheca-a-historia-da-coluna-prestes.md
+  - _posts/2018/07/2018-07-04-mst-participa-do-dia-da-independencia-na-bahia.md
+  - _posts/2018/12/2018-12-21-herdeiros-da-luta-uma-homenagem-a-revolta-de-porecatu.md
+  - _posts/2018/09/2018-09-18-apenas-dois-candidatos-falam-em-reforma-agraria-no-plano-de-governo.md
+  - _posts/2018/10/2018-10-10-na-batalha-das-ideias-nas-redes-sociais-stedile-adere-ao-twitter.md
+  - _posts/2018/10/2018-10-11-cadeia-para-a-cutrale-e-liberdade-aos-presos-politicos-do-mst.md
 
 ---
 <p>&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="cn_encerramento_26jan2019_por ju adriano (12).jpg" height="430" src="//farm8.staticflickr.com/7876/46885808381_5257b6501f_b.jpg" width="650" />
-<figcaption>O ato reafirmou a disposi&ccedil;&atilde;o dos Sem Terra na constru&ccedil;&atilde;o da resist&ecirc;ncia e no projeto de Reforma Agr&aacute;ria Popular</figcaption>
+<figcaption><em>O ato reafirmou a disposi&ccedil;&atilde;o dos Sem Terra na constru&ccedil;&atilde;o da resist&ecirc;ncia e no projeto de Reforma Agr&aacute;ria Popular.</em></figcaption>
 </figure>
 </div>
 
@@ -90,8 +96,8 @@ Representando a Dire&ccedil;&atilde;o Nacional do MST, Jo&atilde;o Pedro St&eacu
 <p>&nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="cn_encerramento_26jan2019_por ju adriano (5).jpg" height="331" src="//farm8.staticflickr.com/7817/39920915803_acdee48d1c_b.jpg" width="500" />
-<figcaption>MST recebe&nbsp;Men&ccedil;&atilde;o Honrosa da Assembleia Legislativa do Paran&aacute;</figcaption>
+<figure class="image" style="display:inline-block"><img alt="cn_encerramento_26jan2019_por ju adriano (5).jpg" height="397" src="//farm8.staticflickr.com/7817/39920915803_acdee48d1c_b.jpg" width="600" />
+<figcaption><em>MST recebe&nbsp;Men&ccedil;&atilde;o Honrosa da Assembleia Legislativa do Paran&aacute;.</em></figcaption>
 </figure>
 </div>
 
