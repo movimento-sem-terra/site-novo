@@ -6,7 +6,7 @@ tags:
   - tag: direitos-humanos
   - tag: lutas-e-mobilizações
 title: MST se manifesta sobre consequências do governo Bolsonaro
-support_line: "Os Sem Terra denunciam a violência contra os direitos sociais, exigem justiça para Marielle e repudiam o clima de terror instalado no país contra a luta popular e os defensores e defensoras dos direitos humanos"
+support_line: "Os Sem Terra denunciam a violência contra os direitos sociais, exigem justiça para Marielle e repudiam o clima de terror instalado no país "
 images_hd: //farm8.staticflickr.com/7883/46894118621_04b4697c11_b.jpg
 menu: lutas e mobilizações
 layout: post
@@ -29,7 +29,11 @@ releated_posts:
   - _posts/2018/12/2018-12-06-direitos-humanos-e-o-acesso-a-terra.md
 
 ---
-<p><em>Para P&aacute;gina do MST</em></p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
@@ -45,7 +49,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><strong>Sangue, mil&iacute;cia, corrup&ccedil;&atilde;o e persegui&ccedil;&atilde;o marcam o in&iacute;cio do governo Bolsonaro</strong></p>
+<p style="text-align: center;"><strong>Sangue, mil&iacute;cia, corrup&ccedil;&atilde;o e persegui&ccedil;&atilde;o marcam o in&iacute;cio do governo Bolsonaro</strong></p>
 
 <p>&nbsp;</p>
 
