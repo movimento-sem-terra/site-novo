@@ -4,7 +4,7 @@ tags:
   - tag: expressão-popular
   - tag: cultura
   - tag: formação
-title: Editora e Livraria Expressão Popular completa 20 anos  na batalha do saber
+title: Editora e Livraria Expressão Popular completam 20 anos  na batalha do saber
 support_line: Em duas décadas já foram publicados 600 títulos divididos em mais de 30 segmentos
 menu: "educação, cultura e comunicação"
 images_hd: //farm5.staticflickr.com/4847/31976662487_2f880b4ee6_b.jpg
@@ -60,13 +60,13 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 </style>
 </p>
 
-<p>O ano era 1999, per&iacute;odo de ascens&atilde;o do neoliberalismo e de suas consequ&ecirc;ncias para todo o mundo. Em meio ao recuo pol&iacute;tico e o aumento da desigualdade social em todo pa&iacute;s, nasce a <a href="https://www.expressaopopular.com.br/loja/">Livraria e Editora Express&atilde;o Popular</a>.</p>
+<p>O ano era 1999, per&iacute;odo de ascens&atilde;o do neoliberalismo e de suas consequ&ecirc;ncias para todo o mundo. Em meio ao recuo pol&iacute;tico e o aumento da desigualdade social em todo pa&iacute;s&nbsp;nasce a <a href="https://www.expressaopopular.com.br/loja/">Livraria e Editora Express&atilde;o Popular</a>.</p>
 
 <p><br />
 A editora surge atrav&eacute;s de uma rearticula&ccedil;&atilde;o de movimentos populares que viam na forma&ccedil;&atilde;o pol&iacute;tica e liter&aacute;ria a sa&iacute;da para reconstru&ccedil;&atilde;o da classe trabalhadora.</p>
 
 <p><br />
-&ldquo;A Express&atilde;o surge no sentido de produzir materiais para essa forma&ccedil;&atilde;o da milit&acirc;ncia social brasileira, que estava inconformada e resistia&rdquo;, diz Carlos Bell&eacute;, que comp&otilde;e a equipe da editora desde a sua cria&ccedil;&atilde;o.</p>
+Segundo Carlos Bell&eacute;, que comp&otilde;e a equipe da editora desde a sua cria&ccedil;&atilde;o, &ldquo;a&nbsp;Express&atilde;o surge no sentido de produzir materiais para essa forma&ccedil;&atilde;o da milit&acirc;ncia social brasileira, que estava inconformada e resistia&rdquo;, comenta.</p>
 
 <p><br />
 E assim aconteceu, duas d&eacute;cadas depois a Express&atilde;o j&aacute; publicou mais de 600 t&iacute;tulos, suas publica&ccedil;&otilde;es abarcam mais de 30 segmentos, entre eles, a agroecologia, estudos de g&ecirc;nero, as artes, cl&aacute;ssicos da pol&iacute;tica, hist&oacute;ria, economia, filosofia e educa&ccedil;&atilde;o.</p>
@@ -75,14 +75,18 @@ E assim aconteceu, duas d&eacute;cadas depois a Express&atilde;o j&aacute; publi
 A lista de autores e autoras conta com Paulo Freire, Florestan Fernandes, Augusto Boal, Ademar Bogo, Eduardo Galeano, Rosa Luxemburgo e tantos outros.</p>
 
 <p><br />
-Durante a trajet&oacute;ria da Express&atilde;o, tamb&eacute;m foram integradas ao trabalho da editora mais de tr&ecirc;s centenas de colaboradores, para indica&ccedil;&atilde;o e an&aacute;lise de textos, cess&atilde;o de direitos autorais, trabalhos de revis&atilde;o, tradu&ccedil;&atilde;o e diagrama&ccedil;&atilde;o.</p>
+Durante sua trajet&oacute;ria, tamb&eacute;m foram integradas ao trabalho da editora mais de 300&nbsp;colaboradores, para indica&ccedil;&atilde;o e an&aacute;lise de textos, cess&atilde;o de direitos autorais, trabalhos de revis&atilde;o, tradu&ccedil;&atilde;o e diagrama&ccedil;&atilde;o.</p>
 
 <p><br />
-Em 2010, a Editora ganha um espa&ccedil;o f&iacute;sico no centro de S&atilde;o Paulo, onde s&atilde;o realizados lan&ccedil;amentos, palestras e atividades em geral. Al&eacute;m disso, a Express&atilde;o tamb&eacute;m est&aacute; presente em grandes eventos e atividades itinerantes por todo pa&iacute;s.&nbsp;</p>
+Em 2010, a Editora ganha um espa&ccedil;o f&iacute;sico no centro de S&atilde;o Paulo, onde s&atilde;o realizados lan&ccedil;amentos, palestras e atividades em geral. Al&eacute;m disso,&nbsp;tamb&eacute;m est&aacute; presente em grandes eventos e atividades itinerantes por todo pa&iacute;s.&nbsp;</p>
 
 <p>&nbsp;</p>
 
-<p style="text-align:center"><img alt="kjjkkj,,.jpg" height="467" src="//farm5.staticflickr.com/4810/46192928324_43ae5312db_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="kjjkkj,,.jpg" height="400" src="//farm5.staticflickr.com/4810/46192928324_43ae5312db_b.jpg" width="600" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p><br />
 <strong>Incentivo &agrave; leitura</strong></p>
@@ -97,17 +101,17 @@ Essa mesma popula&ccedil;&atilde;o faz parte de outro dado alarmante, tr&ecirc;s
 Essa realidade nada mais &eacute; do que o retrato do descaso com a educa&ccedil;&atilde;o em pa&iacute;s. Para mudar esse cen&aacute;rio, a Express&atilde;o Popular tem o objetivo de fidelizar os seus leitores&nbsp;atrav&eacute;s de a&ccedil;&otilde;es como o <a href="https://www.expressaopopular.com.br/clubedolivro/">&ldquo;Clube do Livro&rdquo;</a>, que permite que cada pessoa se cadastre nas modalidades &ldquo;Leitor militante&rdquo;, &ldquo;Leitor solid&aacute;rio&rdquo; ou &ldquo;Leitor apoiador&rdquo; e, a partir disso, passe a receber em sua casa, mensalmente, um ou dois t&iacute;tulos catalogados pela editora.</p>
 
 <p><br />
-A produ&ccedil;&atilde;o de livros baratos e acess&iacute;veis, que fogem da l&oacute;gica de mercado faz com grande parte da popula&ccedil;&atilde;o possa sim comprar um livro.</p>
+A produ&ccedil;&atilde;o de livros baratos e acess&iacute;veis, que fogem da l&oacute;gica de mercado faz com que grande parte da popula&ccedil;&atilde;o possa sim comprar um livro.</p>
 
 <p><br />
-&ldquo;Nosso objetivo &eacute; fazer com que o pre&ccedil;o pago pelo livro, seja o valor do produto do trabalho, n&oacute;s n&atilde;o acumulamos lucro nesse processo, lembra Bell&eacute;.</p>
+&ldquo;Nosso objetivo &eacute; fazer com que o pre&ccedil;o pago pelo livro, seja o valor do produto do trabalho, n&oacute;s n&atilde;o acumulamos lucro nesse processo&quot;, lembra Bell&eacute;.</p>
 
 <p><br />
 Em meio a um momento em que o Minist&eacute;rio da Cultura foi extinto e o Ministro da Educa&ccedil;&atilde;o afirma que: &quot;a ideia de universidade para todos n&atilde;o existe&quot; e que devem ficar reservadas apenas &agrave; &quot;elite intelectual&quot;, lugares como a Express&atilde;o Popular tornam-se guardi&otilde;es do livre saber.</p>
 
 <p>&nbsp;</p>
 
-<p>O caminho tra&ccedil;ado na realiza&ccedil;&atilde;o de um projeto mais justo e igualit&aacute;rio de pa&iacute;s, &eacute; dif&iacute;cil de ser percorrido, fomentar a cultura e a educa&ccedil;&atilde;o em tempos como os que vivemos &eacute; tarefa dos grandes. Por isso, que&nbsp;venham mais d&eacute;cadas e d&eacute;cadas de batalha no campo das ideias e da forma&ccedil;&atilde;o.</p>
+<p>O caminho tra&ccedil;ado na realiza&ccedil;&atilde;o de um projeto mais justo e igualit&aacute;rio de pa&iacute;s&nbsp;&eacute; dif&iacute;cil de ser percorrido, pois fomentar a cultura e a educa&ccedil;&atilde;o em tempos como os que vivemos &eacute; tarefa dos grandes. Por isso, que&nbsp;venham mais d&eacute;cadas e d&eacute;cadas de batalha no campo das ideias e da forma&ccedil;&atilde;o.</p>
 
 <blockquote>
 <p style="text-align: right;"><br />
@@ -122,4 +126,4 @@ Vida longa &agrave; Editora Express&atilde;o Popular!</p>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><em>*Editado por Wesley Lima.</em></p>
