@@ -25,6 +25,7 @@ releated_posts:
   - _posts/2018/05/2018-05-24-frente-brasil-popular-lanca-manifesto-ao-povo-brasileiro.md
   - _posts/2018/06/2018-06-12-musica-lula-livre-composta-pelo-militante-do-mst-marquinhos-monteiro.md
   - _posts/2018/06/2018-06-14-leia-carta-de-juan-grabois-a-lula-apos-ser-impedido-de-entregar-o-terco-abencoado-pelo-papa.md
+section: cover
 
 ---
 <div style="text-align:center">
