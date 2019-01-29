@@ -1,6 +1,8 @@
 ---
 date: "2019-01-29T12:47:35-02:00"
-tags: []
+tags:
+  - tag: bahia
+  - tag: ocupação
 title: "MST ocupa prefeitura de Itamaraju, na BA"
 support_line: "Os trabalhadores Sem Terra reivindicam melhorias na infraestrutura, saúde, produção e principalmente, na educação nos assentamentos e acampamentos da região"
 menu: "educação, cultura e comunicação"
@@ -23,12 +25,18 @@ files:
     $$hashKey: 0FL
 created_date: "2019-01-29T13:00:38-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/11/2018-11-20-importancia-da-agroecologia-no-curriculo-das-escola-do-campo.md
+  - _posts/2018/11/2018-11-10-seminario-debate-os-proximos-passos-da-producao-de-cafe-agroecologico-na-bahia.md
+  - _posts/2018/11/2018-11-27-o-quintal-de-gilberto-e-a-agroecologia-na-saude-das-camponesas-e-camponeses.md
+  - _posts/2018/12/2018-12-04-encontro-estadual-na-bahia-debate-reforma-agraria-popular-e-homenageia-marcio-matos.md
+  - _posts/2018/12/2018-12-14-encontro-estadual-do-mst-na-bahia-homenageia-marcio-matos.md
+  - _posts/2018/08/2018-08-01-ocupacoes-de-terra-e-mobilizacao-de-assentados-marcam-a-jornada-nacional-de-lutas-em-sp.md
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="IMG_20190128_215459_444.jpg" height="304" src="//farm8.staticflickr.com/7920/46003113615_94333e079f_b.jpg" width="600" />
-<figcaption>Sem Terra ocupam a prefeitura de Itamaraju para reivindicar melhorias nos assentamentos.</figcaption>
+<figure class="image" style="display:inline-block"><img alt="IMG_20190128_215459_444.jpg" height="355" src="//farm8.staticflickr.com/7920/46003113615_94333e079f_b.jpg" width="700" />
+<figcaption><em>Sem Terra ocupam a prefeitura de Itamaraju para reivindicar melhorias nos assentamentos.</em></figcaption>
 </figure>
 </div>
 
@@ -53,16 +61,12 @@ Para a dirigente estadual do MST, Maristela Cunha a pauta j&aacute; e antiga e a
 <p><br />
 &ldquo;Os educandos das &aacute;reas de reforma agraria v&ecirc;m sofrendo com a falta de infraestrutura que tem dificultado muito, quando n&atilde;o s&atilde;o os &ocirc;nibus que n&atilde;o oferecem o conforto necess&aacute;rio, s&atilde;o as estradas que n&atilde;o contribuem para a chegada nas escolas, al&eacute;m das reformas que o senhor prefeito prometeu e n&atilde;o fez&rdquo;, cobra Maristela.</p>
 
-<p><br />
-Ainda segundo a dirigente, no grupo que se encontra em frente &agrave; prefeitura, al&eacute;m dos pais dos alunos, est&atilde;o tamb&eacute;m os alunos. Ou seja, quem &eacute; mais afetados pelo n&atilde;o atendimento da pauta da educa&ccedil;&atilde;o do campo pela prefeitura.</p>
-
-<p>&nbsp;</p>
-
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="IMG_20190128_172614_545.jpg" height="480" src="//farm8.staticflickr.com/7801/46003119825_fff61ed0a9_b.jpg" width="300" />
+<figure class="image" style="float:right"><img alt="IMG_20190128_172614_545.jpg" height="320" src="//farm8.staticflickr.com/7801/46003119825_fff61ed0a9_b.jpg" width="200" />
 <figcaption></figcaption>
 </figure>
-</div>
+
+<p><br />
+Ainda segundo a dirigente, no grupo que se encontra em frente &agrave; prefeitura, al&eacute;m dos pais dos alunos, est&atilde;o tamb&eacute;m os alunos. Ou seja, quem &eacute; mais afetados pelo n&atilde;o atendimento da pauta da educa&ccedil;&atilde;o do campo pela prefeitura.</p>
 
 <p><br />
 <strong>Pauta travada</strong></p>
