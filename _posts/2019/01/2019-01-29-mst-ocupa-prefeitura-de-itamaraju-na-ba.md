@@ -59,7 +59,7 @@ Ainda segundo a dirigente, no grupo que se encontra em frente &agrave; prefeitur
 <p>&nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="IMG_20190128_172614_545.jpg" height="640" src="//farm8.staticflickr.com/7801/46003119825_fff61ed0a9_b.jpg" width="400" />
+<figure class="image" style="display:inline-block"><img alt="IMG_20190128_172614_545.jpg" height="480" src="//farm8.staticflickr.com/7801/46003119825_fff61ed0a9_b.jpg" width="300" />
 <figcaption></figcaption>
 </figure>
 </div>
