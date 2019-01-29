@@ -5,7 +5,7 @@ tags:
   - tag: violência-no-campo
   - tag: latifúndio
 title: Chefe de milícia armada de fazendeiros é preso no PA
-support_line: "\"A quadrilha, contratada pelos fazendeiros simulava uma ação policial e com um arsenal de armas espancava pessoas, queimava barracos, e, em alguns casos, executava as lideranças\", denuncia nota"
+support_line: "\"A quadrilha, contratada pelos fazendeiros simulava uma ação policial e com um arsenal de armas espancava pessoas, queimava barracos, e, em alguns casos, executava as lideranças\", denuncia a nota"
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7920/33041562948_3d096b7a03_b.jpg
 layout: post
@@ -27,9 +27,9 @@ releated_posts:
   - _posts/2018/08/2018-08-01-titulacao-de-fazenda-onde-pistoleiros-atacaram-sem-terra-no-para-foi-resultado-de-fraude.md
 
 ---
-<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
-
 <p>&nbsp;</p>
+
+<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
