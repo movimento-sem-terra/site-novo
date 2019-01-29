@@ -38,4 +38,4 @@ Consideramos uma perda familiar irrepar&aacute;vel para Lula, que nesse grave mo
 <p>Nos colocamos em desagravo a todo tipo de acusa&ccedil;&atilde;o infundada contra ele, explicitamente por ser familiar do ex-presidente. A todos familiares um abra&ccedil;o afetuoso de for&ccedil;a e de luta da nossa grande fam&iacute;lia Sem Terra.&nbsp;<br />
 &nbsp;</p>
 
-<p><em>Dire&ccedil;&atilde;o Nacional do MST, 29 de janeiro de 2018.</em></p>
+<p><em>Dire&ccedil;&atilde;o Nacional do MST, 29 de janeiro de 2019.</em></p>
