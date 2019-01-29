@@ -5,7 +5,7 @@ tags:
   - tag: mst
   - tag: reforma-agrária-popular
 title: "MST celebra 35 anos de luta e resistência!"
-support_line: Ato político em homenagem ao Movimento reuniu parlamentares e amigos do Movimento
+support_line: Ato político em homenagem ao Movimento reuniu parlamentares e amigos
 images_hd: //farm5.staticflickr.com/4815/31944307097_302e605722_b.jpg
 menu: reforma agrária
 layout: post
@@ -47,6 +47,7 @@ releated_posts:
   - _posts/2018/09/2018-09-18-apenas-dois-candidatos-falam-em-reforma-agraria-no-plano-de-governo.md
   - _posts/2018/10/2018-10-10-na-batalha-das-ideias-nas-redes-sociais-stedile-adere-ao-twitter.md
   - _posts/2018/10/2018-10-11-cadeia-para-a-cutrale-e-liberdade-aos-presos-politicos-do-mst.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
