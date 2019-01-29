@@ -7,7 +7,7 @@ tags:
 title: Editora e Livraria Expressão Popular completam 20 anos  na batalha do saber
 support_line: Em duas décadas já foram publicados 600 títulos divididos em mais de 30 segmentos
 menu: "educação, cultura e comunicação"
-images_hd: //farm5.staticflickr.com/4847/31976662487_2f880b4ee6_b.jpg
+images_hd: //farm8.staticflickr.com/7803/31976970447_a545927521_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4810/46192928324_43ae5312db_b.jpg
@@ -24,20 +24,23 @@ files:
     small: //farm8.staticflickr.com/7900/33042379518_e854dbee0f_n.jpg
     title: banner-site.png
     $$hashKey: 05X
-  - link: //farm5.staticflickr.com/4847/31976662487_2f880b4ee6_b.jpg
-    original: //farm5.staticflickr.com/4847/31976662487_f3bfabc06b_o.jpg
-    thumbnail: //farm5.staticflickr.com/4847/31976662487_2f880b4ee6_t.jpg
-    medium: //farm5.staticflickr.com/4847/31976662487_2f880b4ee6_z.jpg
-    small: //farm5.staticflickr.com/4847/31976662487_2f880b4ee6_n.jpg
-    title: WhatsApp Image 2019-01-29 at 13.27.26.jpeg
-    $$hashKey: "060"
+  - link: //farm8.staticflickr.com/7803/31976970447_a545927521_b.jpg
+    original: //farm8.staticflickr.com/7803/31976970447_bb7072a16e_o.jpg
+    thumbnail: //farm8.staticflickr.com/7803/31976970447_a545927521_t.jpg
+    medium: //farm8.staticflickr.com/7803/31976970447_a545927521_z.jpg
+    small: //farm8.staticflickr.com/7803/31976970447_a545927521_n.jpg
+    title: 96868.jpg
+    $$hashKey: 0KI
 created_date: "2019-01-29T13:28:15-02:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/06/2018-06-27-a-leitura-desperta-os-sentidos-da-vida-diz-filha-de-assentados.md
   - _posts/2018/09/2018-09-08-no-dia-internacional-da-alfabetizacao-mst-reforca-compromisso-com-o-saber.md
   - _posts/2018/10/2018-10-10-ze-pinto-um-cantador-da-agroecologia.md
   - _posts/2018/12/2018-12-12-escola-do-mst-promove-ii-sarau-musical-literario-e-artistico-no-rs.md
+  - _posts/2018/05/2018-05-04-cafe-com-livros-saudaveis-para-a-luta.md
+  - _posts/2018/05/2018-05-05-ato-celebra-o-bicentenario-de-karl-marx-durante-feira-da-reforma-agraria.md
+  - _posts/2018/06/2018-06-19-expressao-popular-comemora-primeiro-ano-de-seu-clube-do-livro.md
 
 ---
 <p>&nbsp;</p>
