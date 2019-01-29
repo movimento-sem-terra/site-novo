@@ -60,7 +60,7 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 </style>
 </p>
 
-<p>O ano era 1999, per&iacute;odo de acens&atilde;o do neoliberalismo e de suas consequ&ecirc;ncias para todo o mundo. Em meio ao recuo pol&iacute;tico e o aumento da desigualdade social em todo pa&iacute;s, nasce a <a href="https://www.expressaopopular.com.br/loja/">Livraria e Editora Express&atilde;o Popular</a>.</p>
+<p>O ano era 1999, per&iacute;odo de ascens&atilde;o do neoliberalismo e de suas consequ&ecirc;ncias para todo o mundo. Em meio ao recuo pol&iacute;tico e o aumento da desigualdade social em todo pa&iacute;s, nasce a <a href="https://www.expressaopopular.com.br/loja/">Livraria e Editora Express&atilde;o Popular</a>.</p>
 
 <p><br />
 A editora surge atrav&eacute;s de uma rearticula&ccedil;&atilde;o de movimentos populares que viam na forma&ccedil;&atilde;o pol&iacute;tica e liter&aacute;ria a sa&iacute;da para reconstru&ccedil;&atilde;o da classe trabalhadora.</p>
@@ -94,7 +94,7 @@ Segundo dados da &uacute;ltima Pesquisa Retratos da Leitura no Brasil, publicada
 Essa mesma popula&ccedil;&atilde;o faz parte de outro dado alarmante, tr&ecirc;s em cada dez jovens e adultos de 15 a 64 anos no Pa&iacute;s - 29% do total, o equivalente a cerca de 38 milh&otilde;es de pessoas - s&atilde;o considerados analfabetos funcionais.</p>
 
 <p><br />
-Essa realidade nada mais &eacute; do que o retrato do descaso com a educa&ccedil;&atilde;o em pa&iacute;s. Para mudar esse cen&aacute;rio, a Express&atilde;o Popular tem o objetivo de fidelizar os seus leitores seus leitores atrav&eacute;s de a&ccedil;&otilde;es como o <a href="https://www.expressaopopular.com.br/clubedolivro/">&ldquo;Clube do Livro&rdquo;</a>, que permite que cada pessoa se cadastre nas modalidades &ldquo;Leitor militante&rdquo;, &ldquo;Leitor solid&aacute;rio&rdquo; ou &ldquo;Leitor apoiador&rdquo; e, a partir disso, passe a receber em sua casa, mensalmente, um ou dois t&iacute;tulos catalogados pela editora.</p>
+Essa realidade nada mais &eacute; do que o retrato do descaso com a educa&ccedil;&atilde;o em pa&iacute;s. Para mudar esse cen&aacute;rio, a Express&atilde;o Popular tem o objetivo de fidelizar os seus leitores&nbsp;atrav&eacute;s de a&ccedil;&otilde;es como o <a href="https://www.expressaopopular.com.br/clubedolivro/">&ldquo;Clube do Livro&rdquo;</a>, que permite que cada pessoa se cadastre nas modalidades &ldquo;Leitor militante&rdquo;, &ldquo;Leitor solid&aacute;rio&rdquo; ou &ldquo;Leitor apoiador&rdquo; e, a partir disso, passe a receber em sua casa, mensalmente, um ou dois t&iacute;tulos catalogados pela editora.</p>
 
 <p><br />
 A produ&ccedil;&atilde;o de livros baratos e acess&iacute;veis, que fogem da l&oacute;gica de mercado faz com grande parte da popula&ccedil;&atilde;o possa sim comprar um livro.</p>
@@ -107,7 +107,7 @@ Em meio a um momento em que o Minist&eacute;rio da Cultura foi extinto e o Minis
 
 <p>&nbsp;</p>
 
-<p>O caminho tra&ccedil;ado na realiza&ccedil;&atilde;o de um projeto mais justo e igualit&aacute;rio de pa&iacute;s, &eacute; dif&iacute;cil de ser percorrido, fomentar a cultura e a educa&ccedil;&atilde;o em tempos como os que vivemos &eacute; tarefa dos grandes. Por isso, quer venham mais d&eacute;cadas e d&eacute;cadas de batalha no campo das ideias e da forma&ccedil;&atilde;o.</p>
+<p>O caminho tra&ccedil;ado na realiza&ccedil;&atilde;o de um projeto mais justo e igualit&aacute;rio de pa&iacute;s, &eacute; dif&iacute;cil de ser percorrido, fomentar a cultura e a educa&ccedil;&atilde;o em tempos como os que vivemos &eacute; tarefa dos grandes. Por isso, que&nbsp;venham mais d&eacute;cadas e d&eacute;cadas de batalha no campo das ideias e da forma&ccedil;&atilde;o.</p>
 
 <blockquote>
 <p style="text-align: right;"><br />
