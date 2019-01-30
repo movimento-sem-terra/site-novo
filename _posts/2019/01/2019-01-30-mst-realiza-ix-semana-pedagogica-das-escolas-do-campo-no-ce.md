@@ -32,11 +32,18 @@ releated_posts:
   - _posts/2018/07/2018-07-28-comunidade-luta-contra-o-fechamento-da-escola-construindo-caminho-em-santa-catarina.md
   - _posts/2018/07/2018-07-30-acampamento-maria-da-conceicao-ira-erguer-mais-uma-escola-do-campo-na-regional-metropolitana.md
   - _posts/2018/07/2018-07-17-plantando-e-alimentando-a-ousadia-mst-de-minas-gerais-inaugura-1a-escola-itinerante.md
+  - _posts/2018/08/2018-08-11-mst-se-solidariza-com-estudantes-camponeses-no-piaui.md
+  - _posts/2018/08/2018-08-17-familias-barram-o-fechamento-da-escola-construindo-caminho.md
+  - _posts/2018/08/2018-08-22-sem-terra-conquistam-diploma-em-medicina-veterinaria.md
+  - _posts/2018/08/2018-08-27-sem-terra-ocupam-prefeitura-de-rio-bonito-e-reivindicam-melhorias-na-educacao.md
+  - _posts/2018/08/2018-08-30-mst-realiza-iii-festival-de-arte-cultura-das-escolas-do-campo.md
+  - _posts/2018/04/2018-04-23-movimentos-participam-de-audiencia-publica-em-defesa-da-educacao-do-campo.md
+sector: education
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="IMG_1840.JPG" height="377" src="//farm5.staticflickr.com/4884/46014124585_c225bd29ff_b.jpg" width="600" />
-<figcaption>Tema da atividade: &ldquo;Construindo a Escola P&uacute;blica, Popular e Camponesa na Resist&ecirc;ncia Ativa&rdquo;.</figcaption>
+<figure class="image" style="display:inline-block"><img alt="IMG_1840.JPG" height="440" src="//farm5.staticflickr.com/4884/46014124585_c225bd29ff_b.jpg" width="700" />
+<figcaption><em>Tema da atividade: &ldquo;Construindo a Escola P&uacute;blica, Popular e Camponesa na Resist&ecirc;ncia Ativa&rdquo;.</em></figcaption>
 </figure>
 </div>
 
