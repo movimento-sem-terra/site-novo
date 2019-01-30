@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: despejo
   - tag: tocantins
-title: "Famílias Sem Terra são sofrem com ameaça de despejo em Tocantis "
+title: "Em Tocantins, famílias Sem Terra sofrem ameaça de despejo "
 images_hd: //farm8.staticflickr.com/7921/31987160927_f2821f167e_b.jpg
 support_line: O pedido de demolição das moradias é uma continuidade a ação de reintegração de posse já efetuada em agosto de 2018
 menu: lutas e mobilizações
