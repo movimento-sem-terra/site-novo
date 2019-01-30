@@ -1,6 +1,7 @@
 ---
 date: "2019-01-29T16:42:57-02:00"
-tags: []
+tags:
+  - tag: nota-de-falecimento
 title: "MST lamenta a morte de Vavá, irmão de Lula"
 support_line: "Vavá que também foi metalúrgico em São Bernardo do Campo, enfrentava um um tipo raro de câncer que afeta os vasos sanguíneos "
 menu: direitos humanos
@@ -16,9 +17,18 @@ files:
     $$hashKey: 02P
 created_date: "2019-01-29T16:52:45-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/06/2018-06-13-o-mst-perdeu-uma-grande-amiga-militante-e-internacionalista.md
+  - _posts/2018/06/2018-06-13-entidades-lamentam-o-falecimento-da-lider-indigena-raquel-xukuru-kariri.md
+  - _posts/2018/07/2018-07-09-nota-de-pesar-do-mst-pelo-falecimento-do-padre-geraldo-lima.md
+  - _posts/2018/08/2018-08-06-a-morte-nao-e-verdade-quando-se-cumpre-bem-o-papel-da-vida.md
+  - _posts/2018/08/2018-08-15-nao-tive-tempo-para-ter-medo.md
 
 ---
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
