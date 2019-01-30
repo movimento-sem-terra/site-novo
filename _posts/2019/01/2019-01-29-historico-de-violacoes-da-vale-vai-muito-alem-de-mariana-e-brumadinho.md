@@ -34,14 +34,13 @@ releated_posts:
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="brumadinho_stuckert.jpg128717.jpg" height="393" src="//farm8.staticflickr.com/7897/31977181407_99d847895d_b.jpg" width="700" />
 <figcaption>Vale: crime ambiental e trag&eacute;dia humana no rompimento da barragem da Vale em Brumadinho.&nbsp;<br />
-Foto: Ricardo Stuckert/Fotos P&uacute;blicas<br />
-</figcaption>
+Foto: Ricardo Stuckert/Fotos P&uacute;blicas</figcaption>
 </figure>
 </div>
 
 <p>&nbsp;</p>
 
-<p><em>Leonardo Fernandes, Lu Sudr&eacute; e Rute Pina<br />
+<p><em>Por Leonardo Fernandes, Lu Sudr&eacute; e Rute Pina<br />
 Brasil de Fato | S&atilde;o Paulo (SP)</em></p>
 
 <p>&nbsp;</p>
@@ -74,7 +73,7 @@ Brasil de Fato | S&atilde;o Paulo (SP)</em></p>
 
 <p>&nbsp;</p>
 
-<p>Privatiza&ccedil;&atilde;o</p>
+<p><strong>Privatiza&ccedil;&atilde;o</strong></p>
 
 <p>&nbsp;</p>
 
@@ -126,7 +125,7 @@ Brasil de Fato | S&atilde;o Paulo (SP)</em></p>
 
 <p>&nbsp;</p>
 
-<p>&ldquo;Cuidado com o planeta&rdquo;: os impactos sociais e ambientais da Vale</p>
+<p><strong>&ldquo;Cuidado com o planeta&rdquo;: os impactos sociais e ambientais da Vale</strong></p>
 
 <p>&nbsp;</p>
 
@@ -174,7 +173,7 @@ Brasil de Fato | S&atilde;o Paulo (SP)</em></p>
 
 <p>&nbsp;</p>
 
-<p>&ldquo;Valorizar quem faz a nossa empresa&rdquo;</p>
+<p><strong>&ldquo;Valorizar quem faz a nossa empresa&rdquo;</strong></p>
 
 <p>&nbsp;</p>
 
@@ -198,6 +197,4 @@ Brasil de Fato | S&atilde;o Paulo (SP)</em></p>
 
 <p>&nbsp;</p>
 
-<p><em>Edi&ccedil;&atilde;o: Mauro Ramos/Brasil de Fato&nbsp;</em></p>
-
-<p>&nbsp;</p>
+<p><em>*Editado pelo Brasil de Fato.</em></p>
