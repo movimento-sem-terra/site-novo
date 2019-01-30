@@ -5,7 +5,7 @@ tags:
   - tag: escola-do-campo
   - tag: formação
 title: "MST realiza IX Semana Pedagógica das Escolas do Campo, no CE"
-support_line: "O propósito é criar uma estratégia coletiva de caráter político pedagógico, voltado um planejamento anual de formação continuada dos educadores/as e gestores/as "
+support_line: "O propósito é criar uma estratégia coletiva de caráter político pedagógico, voltada para um planejamento anual de formação continuada dos educadores/as e gestores/as "
 menu: "educação, cultura e comunicação"
 images_hd: //farm5.staticflickr.com/4817/31987273017_3f6bbb0a49_b.jpg
 layout: post
