@@ -59,6 +59,13 @@ files:
     small: //farm5.staticflickr.com/4892/32000126277_4d3ba4c68b_n.jpg
     title: WhatsApp Image 2019-01-31 at 17.27.37.jpeg
     $$hashKey: 1CU
+  - link: //farm5.staticflickr.com/4883/32000139437_c9bf7f9972_b.jpg
+    original: //farm5.staticflickr.com/4883/32000139437_73537c2d4e_o.jpg
+    thumbnail: //farm5.staticflickr.com/4883/32000139437_c9bf7f9972_t.jpg
+    medium: //farm5.staticflickr.com/4883/32000139437_c9bf7f9972_z.jpg
+    small: //farm5.staticflickr.com/4883/32000139437_c9bf7f9972_n.jpg
+    title: WhatsApp Image 2019-01-31 at 14.42.20.jpeg
+    $$hashKey: 1IL
 created_date: "2019-01-31T16:33:21-02:00"
 published: true
 releated_posts:
@@ -77,7 +84,7 @@ section: cover
 <p><br />
 &nbsp;</p>
 
-<p><em>Por &Aacute;gatha Oliveira e Maura Silva<br />
+<p><em>Por Maura Silva e Agatha Azevedo<br />
 Da P&aacute;gina do MST<br />
 Fotos Brasil de Fato&nbsp;&nbsp;</em></p>
 
@@ -111,6 +118,8 @@ Outra &aacute;rea do MST afetada pelo rompimento da barragem &eacute; o assentam
 
 <p><br />
 Jorge Borges, assentado no local, explica&nbsp;que a contamina&ccedil;&atilde;o da &aacute;gua afeta inclusive&nbsp;os&nbsp;animais,&nbsp;&ldquo;aqui tinha muitos pescadores, agora n&atilde;o vai dar para pescar mais, o rio morreu, o barro desceu e estancou o rio, al&eacute;m disso, o n&iacute;vel da &aacute;gua est&aacute; muito&nbsp;baixo,&nbsp;isso&nbsp;vai afetar muito a gente por aqui&rdquo;, conta o agricultor.</p>
+
+<p style="text-align:center"><img alt="WhatsApp Image 2019-01-31 at 14.42.20.jpeg" height="394" src="//farm5.staticflickr.com/4883/32000139437_c9bf7f9972_b.jpg" width="700" /></p>
 
 <p><br />
 <strong>A resist&ecirc;ncia do MST contra a privatiza&ccedil;&atilde;o</strong></p>
