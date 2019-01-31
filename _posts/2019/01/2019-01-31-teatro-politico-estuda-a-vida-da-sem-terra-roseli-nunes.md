@@ -34,7 +34,7 @@ files:
     title: Sem Terrinhas na oficina ministrada pelos artistas da cia Burlesca Foto - Cia Burlesca.jpg
     $$hashKey: 0AT
 created_date: "2019-01-31T15:16:38-02:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/08/2018-08-01-quanto-custa-comer-organicos-em-porto-alegre.md
   - _posts/2018/07/2018-07-27-justica-suspende-despejo-de-familias-sem-terra-em-sao-gabriel-no-rs.md
@@ -77,46 +77,52 @@ Para Lyvian Sena, integrante da Cia Burlesca, estar nesses locais &eacute; uma f
 <p><br />
 Lutas que se complementam. Esse &eacute; o foco da pr&oacute;xima hist&oacute;ria que o grupo de teatro busca produzir. Ainda na fase de pesquisa inicial, o projeto objetiva tratar no Sul do Brasil o legado de Roseli Nunes, lutadora pela Reforma Agr&aacute;ria e defensora dos direitos das mulheres. Tamb&eacute;m trar&aacute; uma hist&oacute;ria do Norte do pa&iacute;s sobre a resist&ecirc;ncia feminina na esfera sindical brasileira, a qual &eacute; a marca de Margarida Alves, primeira mulher presidenta do Sindicato dos Trabalhadores Rurais.</p>
 
-<p><br />
-A primeira etapa na produ&ccedil;&atilde;o de uma pe&ccedil;a &eacute; a pesquisa do seu objeto. Neste caso, s&atilde;o dois. Portanto, a Cia Burlesca escolheu iniciar seus estudos em &aacute;reas em que Roseli Nunes foi protagonista.</p>
-
 <figure class="image" style="float:right"><img alt="Sem Terrinhas na oficina ministrada pelos artistas da cia Burlesca Foto - Cia Burlesca.jpg" height="225" src="//farm8.staticflickr.com/7848/39975546863_de06166158_b.jpg" width="300" />
 <figcaption><em>Oficina ministrada pelos artistas.<br />
 Foto: Cia Burlesca</em></figcaption>
 </figure>
 
 <p><br />
-<em>Durante a ocupa&ccedil;&atilde;o da Fazenda Annoni, a maior j&aacute; realizada por fam&iacute;lias organizadas no MST no territ&oacute;rio ga&uacute;cho, a ent&atilde;o acampada se somou &agrave;s fileiras de uma marcha de 300 quil&ocirc;metros at&eacute; Porto Alegre. Em 1987, Roseli e mais dois camponeses foram assassinados e outros 14 ficaram feridos, em um protesto contra as altas taxas de juros e a indefini&ccedil;&atilde;o do governo em rela&ccedil;&atilde;o &agrave; pol&iacute;tica agr&aacute;ria que se estendeu por v&aacute;rios munic&iacute;pios.</em></p>
+A primeira etapa na produ&ccedil;&atilde;o de uma pe&ccedil;a &eacute; a pesquisa do seu objeto. Neste caso, s&atilde;o dois. Portanto, a Cia Burlesca escolheu iniciar seus estudos em &aacute;reas em que Roseli Nunes foi protagonista.</p>
 
 <p><br />
-<em>Para obter maior proveito nas pesquisas, os integrantes da Cia Burlesca, al&eacute;m de visitar a antiga Fazenda Annoni, conversaram com companheiros e companheiras de luta da acampada, com o intuito de relembrar as suas a&ccedil;&otilde;es marcantes.</em></p>
+Durante a ocupa&ccedil;&atilde;o da Fazenda Annoni, a maior j&aacute; realizada por fam&iacute;lias organizadas no MST no territ&oacute;rio ga&uacute;cho, a ent&atilde;o acampada se somou &agrave;s fileiras de uma marcha de 300 quil&ocirc;metros at&eacute; Porto Alegre. Em 1987, Roseli e mais dois camponeses foram assassinados e outros 14 ficaram feridos, em um protesto contra as altas taxas de juros e a indefini&ccedil;&atilde;o do governo em rela&ccedil;&atilde;o &agrave; pol&iacute;tica agr&aacute;ria que se estendeu por v&aacute;rios munic&iacute;pios.</p>
 
 <p><br />
-<em>Pedro Caroca, artista da companhia, destaca que sentiu nos relatos os ideais defendidos por Roseli. &ldquo;Todos diziam a mesma coisa sobre ela e todos continuaram com o que ela pregava. E isso foi genial, foi incr&iacute;vel&rdquo;, conta.&nbsp;</em></p>
+Para obter maior proveito nas pesquisas, os integrantes da Cia Burlesca, al&eacute;m de visitar a antiga Fazenda Annoni, conversaram com companheiros e companheiras de luta da acampada, com o intuito de relembrar as suas a&ccedil;&otilde;es marcantes.</p>
 
 <p><br />
-<em>Outro integrante do grupo teatral, Pedro Henrick, considerou essa uma experi&ecirc;ncia importante, tanto pessoal quanto para o espet&aacute;culo a ser produzido. &ldquo;Quando voc&ecirc; chega no local e as pessoas v&atilde;o te contando, voc&ecirc; v&ecirc; que elas todas s&atilde;o a Roseli, ela est&aacute; ali nelas&rdquo;, descreve. J&aacute; para Julie Wetzel, membro do Teatro Pol&iacute;tico, o estudo nos assentamentos se tornou um ac&uacute;mulo de hist&oacute;rias e de sensa&ccedil;&otilde;es.</em></p>
+Pedro Caroca, artista da companhia, destaca que sentiu nos relatos os ideais defendidos por Roseli. &ldquo;Todos diziam a mesma coisa sobre ela e todos continuaram com o que ela pregava. E isso foi genial, foi incr&iacute;vel&rdquo;, conta.&nbsp;</p>
 
 <p><br />
-<em><strong>Uma lideran&ccedil;a feminina silenciada pela hist&oacute;ria</strong></em></p>
+Outro integrante do grupo teatral, Pedro Henrick, considerou essa uma experi&ecirc;ncia importante, tanto pessoal quanto para o espet&aacute;culo a ser produzido. &ldquo;Quando voc&ecirc; chega no local e as pessoas v&atilde;o te contando, voc&ecirc; v&ecirc; que elas todas s&atilde;o a Roseli, ela est&aacute; ali nelas&rdquo;, descreve. J&aacute; para Julie Wetzel, membro do Teatro Pol&iacute;tico, o estudo nos assentamentos se tornou um ac&uacute;mulo de hist&oacute;rias e de sensa&ccedil;&otilde;es.</p>
 
 <p><br />
-<em>O principal objetivo do grupo ao chegar &agrave; regi&atilde;o Metropolitana de Porto Alegre foi buscar conhecimento em torno da hist&oacute;ria de Roseli Nunes. Contudo, a Cia Burlesca aproveitou para apresentar um de seus espet&aacute;culos e realizar oficinas teatrais nos locais em que passaram.</em></p>
+<strong>Uma lideran&ccedil;a feminina silenciada pela hist&oacute;ria</strong></p>
 
 <p><br />
-<em>A companhia esteve em dois assentamentos da Reforma Agr&aacute;ria. Mas antes, foram &agrave; Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Nova Santa Rita (Coopan) em Nova Santa Rita, na regi&atilde;o Metropolitana de Porto Alegre. De acordo com a assentada Reni Maria Rubenich, foi a primeira vez em que uma companhia de teatro esteve no assentamento.</em></p>
+O principal objetivo do grupo ao chegar &agrave; regi&atilde;o Metropolitana de Porto Alegre foi buscar conhecimento em torno da hist&oacute;ria de Roseli Nunes. Contudo, a Cia Burlesca aproveitou para apresentar um de seus espet&aacute;culos e realizar oficinas teatrais nos locais em que passaram.</p>
 
 <p><br />
-<em>Inicialmente, os integrantes realizaram entrevistas e falas com companheiras sobre seu objeto de pesquisa &ndash; Roseli Nunes-. Em seguida, os atores realizaram a apresenta&ccedil;&atilde;o da pe&ccedil;a Santa Dica. &ldquo;O teatro deles foi acima da nossa realidade&rdquo;, comenta Reni.</em></p>
+A companhia esteve em dois assentamentos da Reforma Agr&aacute;ria. Mas antes, foram &agrave; Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Nova Santa Rita (Coopan) em Nova Santa Rita, na regi&atilde;o Metropolitana de Porto Alegre. De acordo com a assentada Reni Maria Rubenich, foi a primeira vez em que uma companhia de teatro esteve no assentamento.</p>
 
 <p><br />
-<em>O espet&aacute;culo conta a vida de Santa Dica em 1920, uma lideran&ccedil;a pol&iacute;tica de Goi&aacute;s esquecida pela hist&oacute;ria. A Cia Burlesca resgata a luta dessa mulher, especialmente pela democratiza&ccedil;&atilde;o do acesso &agrave; terra. &Agrave; &eacute;poca, Dica criou uma rep&uacute;blica com princ&iacute;pios de solidariedade e de bem comum.</em></p>
+Inicialmente, os integrantes realizaram entrevistas e falas com companheiras sobre seu objeto de pesquisa &ndash; Roseli Nunes-. Em seguida, os atores realizaram a apresenta&ccedil;&atilde;o da pe&ccedil;a Santa Dica. &ldquo;O teatro deles foi acima da nossa realidade&rdquo;, comenta Reni.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Integrantes da Cia Burlesca no RS _Fotos  Lyvian.jpeg" height="338" src="//farm5.staticflickr.com/4904/46939967341_6997d533b0_b.jpg" width="600" />
+<figcaption><em>Integrantes da Cia Burlesca no RS. Foto: Lyvian</em></figcaption>
+</figure>
+</div>
 
 <p><br />
-<em>Os assentados se reconheceram na hist&oacute;ria da Santa Dica, pois trata sobre um grupo que se organizou em busca de terra e de igualdade social. &ldquo;Todo mundo trabalhava junto, n&atilde;o tinha comida, nem dinheiro. Ent&atilde;o nos identificamos muito com essa hist&oacute;ria&rdquo;, explica Reni.</em></p>
+O espet&aacute;culo conta a vida de Santa Dica em 1920, uma lideran&ccedil;a pol&iacute;tica de Goi&aacute;s esquecida pela hist&oacute;ria. A Cia Burlesca resgata a luta dessa mulher, especialmente pela democratiza&ccedil;&atilde;o do acesso &agrave; terra. &Agrave; &eacute;poca, Dica criou uma rep&uacute;blica com princ&iacute;pios de solidariedade e de bem comum.</p>
 
 <p><br />
-<em>J&aacute; em Pont&atilde;o, na regi&atilde;o Norte ga&uacute;cha, a Cia Burlesca finalizou suas pesquisas no RS na Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Cascata (Cooptar). O assentamento visitado est&aacute; localizado na antiga fazenda Annoni, tendo um significado diferente para os integrantes do Teatro Pol&iacute;tico. Como obra do destino, de acordo com Lyvian, o grupo acabou por realizar a cent&eacute;sima apresenta&ccedil;&atilde;o do espet&aacute;culo Santa Dica em um lugar historicamente marcado pela luta da terra.</em></p>
+Os assentados se reconheceram na hist&oacute;ria da Santa Dica, pois trata sobre um grupo que se organizou em busca de terra e de igualdade social. &ldquo;Todo mundo trabalhava junto, n&atilde;o tinha comida, nem dinheiro. Ent&atilde;o nos identificamos muito com essa hist&oacute;ria&rdquo;, explica Reni.</p>
+
+<p><br />
+J&aacute; em Pont&atilde;o, na regi&atilde;o Norte ga&uacute;cha, a Cia Burlesca finalizou suas pesquisas no RS na Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Cascata (Cooptar). O assentamento visitado est&aacute; localizado na antiga fazenda Annoni, tendo um significado diferente para os integrantes do Teatro Pol&iacute;tico. Como obra do destino, de acordo com Lyvian, o grupo acabou por realizar a cent&eacute;sima apresenta&ccedil;&atilde;o do espet&aacute;culo Santa Dica em um lugar historicamente marcado pela luta da terra.</p>
 
 <p>&nbsp;</p>
 
