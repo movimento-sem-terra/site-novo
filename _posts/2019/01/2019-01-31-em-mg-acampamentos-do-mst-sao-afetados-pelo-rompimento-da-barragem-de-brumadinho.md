@@ -93,7 +93,7 @@ Fotos Brasil de Fato&nbsp;&nbsp;</em></p>
 <p>Desde a tarde da &uacute;ltima sexta-feira, 25, quando a barragem da Vale se rompeu, atingindo a cidade de Brumadinho (MG), as mais de 600 fam&iacute;lias do acampamento P&aacute;tria Livre, localizado &agrave;s margens do Rio Paraopeba, sofrem com a falta de informa&ccedil;&atilde;o e com o descaso do poder p&uacute;blico.&nbsp;</p>
 
 <p><br />
-Enquanto a agonia aumenta a medida que as horas passam&nbsp;-&nbsp;at&eacute; o momento foram confirmadas&nbsp;99 mortes, e 259&nbsp;pessoas seguem desaparecidas&nbsp;- o Rio Paraopeba,&nbsp;que circunda&nbsp;o acampamento, vai lentamente sendo contaminado com os rejeitos de min&eacute;rios da barragem.&nbsp;</p>
+Enquanto a agonia aumenta a medida que as horas passam&nbsp;-&nbsp;at&eacute; o momento foram confirmadas&nbsp;99 mortes, e 259&nbsp;pessoas seguem desaparecidas&nbsp;- o Rio Paraopeba,&nbsp;que circunda&nbsp;o acampamento, vai lentamente sendo contaminado com os rejeitos de min&eacute;rios da barragem. O acampamento&nbsp;do MST divide&nbsp;espa&ccedil;o com a tribo Patax&oacute; H&atilde;-h&atilde;-h&atilde;e que tamb&eacute;m foi diretamente afetada.</p>
 
 <p><br />
 Desde o dia do rompimento da barragem, a orienta&ccedil;&atilde;o de seguran&ccedil;a que o Movimento deu&nbsp;aos acampados foi de&nbsp;que todas as pessoas saiam das&nbsp;casas localizadas nas partes baixas da &aacute;rea&nbsp;e se desloquem para o acampamento Zequinha, uma&nbsp;&aacute;rea tamb&eacute;m ocupada pelo&nbsp;MST e&nbsp;pr&oacute;xima ao acampamento P&aacute;tria Livre.</p>
@@ -101,8 +101,7 @@ Desde o dia do rompimento da barragem, a orienta&ccedil;&atilde;o de seguran&cce
 <p><br />
 &ldquo;Foi na comunidade do Tejuco&nbsp;que chorei pela primeira vez. Vi essa regi&atilde;o toda verde. Agora a Vale destruiu tudo. Minha planta&ccedil;&atilde;o t&aacute; seca, a gente n&atilde;o pode beber a &aacute;gua, n&atilde;o pode mais pescar. J&aacute; vimos muitos&nbsp;peixes boiando mortos sobre a &aacute;gua&rdquo;, lamenta&nbsp;Domingos, nascido em Brumadinho e acampado do MST.</p>
 
-<p><br />
-O acampamento divide espa&ccedil;o com a tribo Patax&oacute; H&atilde;-h&atilde;-h&atilde;e, a&nbsp;aldeia tamb&eacute;m foi desocupada por medidas de seguran&ccedil;a.&nbsp;</p>
+<p>&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-01-31 at 17.27.37.jpeg" height="525" src="//farm5.staticflickr.com/4892/32000126277_4d3ba4c68b_b.jpg" width="700" />
