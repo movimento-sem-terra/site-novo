@@ -52,6 +52,13 @@ files:
     small: //farm8.staticflickr.com/7903/33065203928_cd895df35d_n.jpg
     title: WhatsApp Image 2019-01-31 at 09.33.43.jpeg
     $$hashKey: 0UW
+  - link: //farm5.staticflickr.com/4892/32000126277_4d3ba4c68b_b.jpg
+    original: //farm5.staticflickr.com/4892/32000126277_0d34d9d19d_o.jpg
+    thumbnail: //farm5.staticflickr.com/4892/32000126277_4d3ba4c68b_t.jpg
+    medium: //farm5.staticflickr.com/4892/32000126277_4d3ba4c68b_z.jpg
+    small: //farm5.staticflickr.com/4892/32000126277_4d3ba4c68b_n.jpg
+    title: WhatsApp Image 2019-01-31 at 17.27.37.jpeg
+    $$hashKey: 1CU
 created_date: "2019-01-31T16:33:21-02:00"
 published: true
 releated_posts:
@@ -91,7 +98,7 @@ Desde o dia do rompimento da barragem, a orienta&ccedil;&atilde;o de seguran&cce
 O acampamento divide espa&ccedil;o com a tribo Patax&oacute; H&atilde;-h&atilde;-h&atilde;e, a&nbsp;aldeia tamb&eacute;m foi desocupada por medidas de seguran&ccedil;a.&nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-01-31 at 14.42.21.jpeg" height="394" src="//farm5.staticflickr.com/4879/46026612615_c0fa2cab2a_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-01-31 at 17.27.37.jpeg" height="525" src="//farm5.staticflickr.com/4892/32000126277_4d3ba4c68b_b.jpg" width="700" />
 <figcaption>Margens do Rio Paraopeba pr&oacute;ximo ao acampamento P&aacute;tria Livre, contaminado pela lama</figcaption>
 </figure>
 </div>
@@ -116,7 +123,7 @@ Com uma grande marcha que saiu&nbsp;de Governador Valadares e foi at&eacute;&nbs
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-01-31 at 14.42.24.jpeg" height="394" src="//farm5.staticflickr.com/4805/46216021164_cb3df1f807_b.jpg" width="700" />
-<figcaption>Cerca de 250 pessoas ocuparam uma base da empresa em Governador Valadares</figcaption>
+<figcaption>Cerca de 250 pessoas ocuparam uma base da empresa na regi&atilde;o de Brumadinho&nbsp;</figcaption>
 </figure>
 </div>
 
