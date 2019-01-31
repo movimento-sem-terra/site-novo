@@ -50,7 +50,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><strong>Confirma abaixo um compilado com as notas e posi&ccedil;&otilde;es do MTS</strong><br />
+<p><strong>Confirma abaixo um compilado com as notas e posi&ccedil;&otilde;es do MST</strong><br />
 &nbsp;</p>
 
 <p itemprop="name">&nbsp;</p>
