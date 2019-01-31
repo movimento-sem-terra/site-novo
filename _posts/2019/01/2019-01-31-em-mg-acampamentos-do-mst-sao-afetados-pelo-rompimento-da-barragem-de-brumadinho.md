@@ -91,7 +91,7 @@ O acampamento divide espa&ccedil;o com a tribo Patax&oacute; H&atilde;-h&atilde;
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-01-31 at 14.42.21.jpeg" height="394" src="//farm5.staticflickr.com/4879/46026612615_c0fa2cab2a_b.jpg" width="700" />
-<figcaption>Margens do Rio Paraopeba pr&oacute;ximo do acampamento P&aacute;tria Livre, contaminado pela lama</figcaption>
+<figcaption>Margens do Rio Paraopeba pr&oacute;ximo ao acampamento P&aacute;tria Livre, contaminado pela lama</figcaption>
 </figure>
 </div>
 
