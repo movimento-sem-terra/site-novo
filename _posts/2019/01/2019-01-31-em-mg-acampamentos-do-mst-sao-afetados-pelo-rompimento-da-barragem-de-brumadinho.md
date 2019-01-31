@@ -58,6 +58,7 @@ releated_posts:
   - _posts/2019/01/2019-01-31-protestos-contra-a-vale-marcam-o-7-dia-do-crime-de-brumadinho.md
   - _posts/2019/01/2019-01-25-a-vale-mais-uma-vez-vai-atuar-para-esconder-seu-crime-afirma-integrante-do-mab.md
   - _posts/2019/01/2019-01-31-frente-brasil-popular-paralisa-as-atividades-da-vale-em-governador-valadares.md
+section: cover
 
 ---
 <div style="text-align:center">
