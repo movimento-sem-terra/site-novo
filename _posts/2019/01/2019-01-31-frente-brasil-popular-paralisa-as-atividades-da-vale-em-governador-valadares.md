@@ -4,7 +4,7 @@ tags:
   - tag: vale
   - tag: mobilizações
   - tag: lutas
-title: "Frente Brasil Popular paralisa as atividades da Vale, em Governador Valadares\n"
+title: "Frente Brasil Popular paralisa as atividades da Vale em Governador Valadares, MG\n"
 images_hd: //farm8.staticflickr.com/7819/46023781055_3301b8f131_b.jpg
 menu: lutas e mobilizações
 support_line: A reincidência da Vale em crimes como este expressa o total desrespeito do sistema capitalista pela vida e pelo meio ambiente
