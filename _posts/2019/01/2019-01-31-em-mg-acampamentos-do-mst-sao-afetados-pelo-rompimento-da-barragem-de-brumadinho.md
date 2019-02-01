@@ -105,7 +105,7 @@ Desde o dia do rompimento da barragem, a orienta&ccedil;&atilde;o de seguran&cce
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-01-31 at 17.27.37.jpeg" height="525" src="//farm5.staticflickr.com/4892/32000126277_4d3ba4c68b_b.jpg" width="700" />
-<figcaption>Margens do Rio Paraopeba pr&oacute;ximo ao acampamento P&aacute;tria Livre, contaminado pela lama</figcaption>
+<figcaption>Margens do Rio Paraopeba pr&oacute;ximo ao acampamento P&aacute;tria Livre, contaminado pela lama/Foto&nbsp;Geanini Hackbardt</figcaption>
 </figure>
 </div>
 
@@ -113,7 +113,7 @@ Desde o dia do rompimento da barragem, a orienta&ccedil;&atilde;o de seguran&cce
 H&aacute; dias, Ana Cl&aacute;udia Silva vive o luto por conta da Vale:&nbsp;&ldquo;O nome do meu primo era&nbsp;Cl&aacute;udio Jos&eacute;, ele era engenheiro da Vale h&aacute; pouco tempo, entrou como Jovem Aprendiz, foi crescendo, fez faculdade&nbsp;e foi transferido para&nbsp;Brumadinho h&aacute;&nbsp;cerca de um&nbsp;ano e meio. Foi tudo muito r&aacute;pido, n&atilde;o sabemos se ele estava no refeit&oacute;rio ou na sala de reuni&otilde;es, ainda n&atilde;o tivemos&nbsp;tempo de entender o que aconteceu&quot;, Claudio &eacute; um dos 259 desaparecidos, ele deixou um filho de cinco anos.&nbsp;</p>
 
 <p><br />
-Outra &aacute;rea do MST afetada pelo rompimento da barragem &eacute; o assentamento 2 de julho, localizado em Betim, regi&atilde;o metropolitana de Belo Horizonte.&nbsp;No local, onde moram 50 fam&iacute;lias Sem Terra, divididas em 10 lotes tamb&eacute;m &agrave;s margens do Rio Paraopeba a qualidade da &aacute;gua est&aacute; impr&oacute;pria, segundo vistoria da&nbsp;Empresa de Assist&ecirc;ncia T&eacute;cnica e Extens&atilde;o Rural do Estado de Minas Gerais (Emater-MG)</p>
+Outra &aacute;rea do MST afetada pelo rompimento da barragem &eacute; o assentamento 2 de julho, localizado em Betim, regi&atilde;o metropolitana de Belo Horizonte.&nbsp;No local, onde moram 50 fam&iacute;lias Sem Terra, divididas em 64&nbsp;lotes,&nbsp;a qualidade da &aacute;gua est&aacute; impr&oacute;pria.&nbsp;A&nbsp;Empresa de Assist&ecirc;ncia T&eacute;cnica e Extens&atilde;o Rural do Estado de Minas Gerais (Emater-MG) est&aacute; fazendo cadastro de fam&iacute;lias que vivem no entorno para garantir o abastecimento de &aacute;gua.</p>
 
 <p><br />
 Jorge Borges, assentado no local, explica&nbsp;que a contamina&ccedil;&atilde;o da &aacute;gua afeta inclusive&nbsp;os&nbsp;animais,&nbsp;&ldquo;aqui tinha muitos pescadores, agora n&atilde;o vai dar para pescar mais, o rio morreu, o barro desceu e estancou o rio, al&eacute;m disso, o n&iacute;vel da &aacute;gua est&aacute; muito&nbsp;baixo,&nbsp;isso&nbsp;vai afetar muito a gente por aqui&rdquo;, conta o agricultor.</p>
@@ -142,7 +142,7 @@ Com uma grande marcha que saiu&nbsp;de Governador Valadares e foi at&eacute;&nbs
 Integrantes da Frente Brasil Popular realizaram na manh&atilde; desta quinta-feira (31) realizaram&nbsp;manifesta&ccedil;&otilde;es contra a Vale em todo o Brasil.</p>
 
 <p><br />
-Na cidade de Governador Valadares (MG), cerca de 250 pessoas ocuparam uma base da empresa.</p>
+Na cidade de Governador Valadares (MG), cerca de 300 pessoas ocuparam os trilhos da MRS e trancaram a via de acesso dos caminh&otilde;es que continuam levando min&eacute;rio da regi&atilde;o.</p>
 
 <p><br />
 Cristiano Meireles da dire&ccedil;&atilde;o estadual do MST, alerta que as fam&iacute;lias acampadas n&atilde;o receberam nenhum tipo de informa&ccedil;&atilde;o at&eacute; o momento, apenas que devem ser afastar das margens&nbsp;do rio.<br />
