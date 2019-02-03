@@ -85,7 +85,7 @@ Em novembro de 2018, ap&oacute;s in&uacute;meros informes no processo sobre a co
 As comunidades, representadas judicialmente pela Associa&ccedil;&atilde;o de Advogados/as de Trabalhadores/as Rurais (AATR), ingressaram com recurso desta decis&atilde;o junto ao Tribunal de Justi&ccedil;a no &uacute;ltimo dia 21 de janeiro. Na mesma semana, no dia 23, o desembargador suspendeu a decis&atilde;o do magistrado, voltando a vigorar a decis&atilde;o que protege 43 mil hectares do territ&oacute;rio. No recurso, as comunidades requerem ainda a declara&ccedil;&atilde;o da suspei&ccedil;&atilde;o do magistrado de Formosa do Rio Preto.</p>
 
 <p><br />
-<strong>Demarca&ccedil;&atilde;o e titula&ccedil;&atilde;o est&aacute; em curso</strong></p>
+<strong>Demarca&ccedil;&atilde;o e titula&ccedil;&atilde;o est&atilde;o&nbsp;em curso</strong></p>
 
 <p><br />
 A dr&aacute;stica redu&ccedil;&atilde;o da &aacute;rea da medida liminar, sem justificativa plaus&iacute;vel, n&atilde;o foi a &uacute;nica decis&atilde;o fora do padr&atilde;o prolatada pelo magistrado Sergio Humberto Quadros Sampaio. Dias antes, ele extinguiu sem julgar o m&eacute;rito a a&ccedil;&atilde;o discriminat&oacute;ria judicial interposta pela Procuradoria Geral do Estado da Bahia (PGE), que, ap&oacute;s trabalhos t&eacute;cnicos de identifica&ccedil;&atilde;o e delimita&ccedil;&atilde;o das terras, concluiu que se tratam de terras devolutas ocupadas tradicionalmente pelos geraizeiros, instaurando, por consequ&ecirc;ncia, procedimento para titula&ccedil;&atilde;o coletiva em nome das associa&ccedil;&otilde;es comunit&aacute;rias.</p>
