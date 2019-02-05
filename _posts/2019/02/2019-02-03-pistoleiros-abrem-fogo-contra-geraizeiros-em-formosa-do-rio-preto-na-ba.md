@@ -3,7 +3,7 @@ date: "2019-02-03T14:01:31-02:00"
 tags:
   - tag: bahia
   - tag: violência-no-campo
-title: "Pistoleiros abrem fogo contra geraizeiros em Formosa do Rio Preto, na BA"
+title: Pistoleiros abrem fogo contra geraizeiros em Formosa do Rio Preto (BA)
 support_line: "Jossinei Lopes, diretor da associação comunitária da Cachoeira, foi atingido com um tiro na perna"
 menu: direitos humanos
 images_hd: //farm8.staticflickr.com/7800/46919240092_1b9265c6c9_b.jpg
