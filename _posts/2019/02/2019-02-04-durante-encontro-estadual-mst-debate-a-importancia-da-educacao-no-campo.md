@@ -7,7 +7,7 @@ tags:
 title: "Durante encontro estadual, MST debate a importância da educação no campo "
 support_line: "A atividade acontece em meio a ameaças de fechamento de escolas em todo país "
 menu: "educação, cultura e comunicação"
-images_hd: //farm5.staticflickr.com/4832/46933490442_88c277e873_b.jpg
+images_hd: //farm5.staticflickr.com/4827/46079029465_46fdd04e1c_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4832/46933490442_88c277e873_b.jpg
@@ -17,8 +17,15 @@ files:
     small: //farm5.staticflickr.com/4832/46933490442_88c277e873_n.jpg
     title: 39175861391_b949231b5a_b.jpg
     $$hashKey: 0AX
+  - link: //farm5.staticflickr.com/4827/46079029465_46fdd04e1c_b.jpg
+    original: //farm5.staticflickr.com/4827/46079029465_34be9dc87e_o.jpg
+    thumbnail: //farm5.staticflickr.com/4827/46079029465_46fdd04e1c_t.jpg
+    medium: //farm5.staticflickr.com/4827/46079029465_46fdd04e1c_z.jpg
+    small: //farm5.staticflickr.com/4827/46079029465_46fdd04e1c_n.jpg
+    title: 33abf246-ddcf-4ddc-ab15-fc328b39396f.jpeg
+    $$hashKey: "055"
 created_date: "2019-02-04T17:48:58-02:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/12/2018-12-04-encontro-estadual-na-bahia-debate-reforma-agraria-popular-e-homenageia-marcio-matos.md
   - _posts/2018/12/2018-12-19-auto-organizar-para-formar-e-transformar.md
@@ -27,9 +34,15 @@ releated_posts:
   - _posts/2018/12/2018-12-15-vera-lucia-barbosa-devemos-ter-coragem.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="33abf246-ddcf-4ddc-ab15-fc328b39396f.jpeg" height="466" src="//farm5.staticflickr.com/4827/46079029465_46fdd04e1c_b.jpg" width="700" />
+<figcaption><em>Durante o encontro, foram feitos debates acerca da defesa das escolas do campo.</em>&nbsp;<em>Foto: Divulga&ccedil;&atilde;o/MST</em></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
-<p><em>Pelo coletivo de comunica&ccedil;&atilde;o do MST/SC<br />
+<p><em>Por&nbsp;coletivo de comunica&ccedil;&atilde;o do MST/SC<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
@@ -56,4 +69,4 @@ E, como parte do processo de di&aacute;logo sobre o tema com a cidade, o MST lan
 
 <p>&nbsp;</p>
 
-<div>&nbsp;</div>
+<div><em>*Editado por Maura Silva.</em></div>
