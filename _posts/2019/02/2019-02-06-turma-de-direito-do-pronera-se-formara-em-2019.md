@@ -26,19 +26,12 @@ releated_posts:
   - _posts/2018/12/2018-12-11-camponeses-se-formam-em-historia-pela-ufpb.md
 
 ---
-<p>Do&nbsp;</p>
-
-<div class="small-11 columns" style="box-sizing: inherit; margin: 0px; padding: 0px 0.9375rem; width: 1072.5px; float: left; color: rgb(10, 10, 10); font-family: &quot;Helvetica Neue&quot;, Helvetica, Roboto, Arial, sans-serif; font-size: 16px; background-color: rgb(229, 229, 229);">
-<h2 style="box-sizing: inherit; margin: 0px 0px 0.5rem; padding: 0px; color: rgb(255, 255, 255); text-rendering: optimizelegibility; line-height: 1.4; font-size: 2em; display: inline; text-shadow: rgb(0, 0, 0) 2px 2px 2px;">Universidade Federal do Paran&aacute;</h2>
-</div>
-
-<div class="large-1 medium-1 columns hide-for-small-only" style="box-sizing: inherit; margin: 0px; padding: 0px 0.9375rem; width: 97.4844px; float: right; color: rgb(10, 10, 10); font-family: &quot;Helvetica Neue&quot;, Helvetica, Roboto, Arial, sans-serif; font-size: 16px; background-color: rgb(229, 229, 229);">
-<div class="busca" style="box-sizing: inherit; margin: 0.5em auto; padding: 0px; float: right; background-image: url(&quot;../../images/caixa_pesquisa_1.png&quot;); background-size: 100% 100%; background-repeat: no-repeat; height: 1.6em; width: 13em;">&nbsp;</div>
-</div>
-
 <p>&nbsp;</p>
 
-<p>Criado por uma portaria do governo federal em 1998, o Programa Nacional de Educa&ccedil;&atilde;o da Reforma Agr&aacute;ria (Pronera), do governo federal, ter&aacute; seus primeiros formandos em Direito pela UFPR em 2019 &mdash; ou seja, no ano seguinte ao seu anivers&aacute;rio de 20 anos. S&atilde;o 47 alunos selecionados em 2014 pelo Sistema de Sele&ccedil;&atilde;o Unificada (SiSU), que usa a nota do Exame Nacional de Ensino M&eacute;dio (Enem), para vagas suplementares no curso de Direito.</p>
+<p><em>Do Portal da Universidade Federal do Paran&aacute;&nbsp;</em></p>
+
+<p><br />
+Criado por uma portaria do governo federal em 1998, o Programa Nacional de Educa&ccedil;&atilde;o da Reforma Agr&aacute;ria (Pronera), do governo federal, ter&aacute; seus primeiros formandos em Direito pela UFPR em 2019 &mdash; ou seja, no ano seguinte ao seu anivers&aacute;rio de 20 anos. S&atilde;o 47 alunos selecionados em 2014 pelo Sistema de Sele&ccedil;&atilde;o Unificada (SiSU), que usa a nota do Exame Nacional de Ensino M&eacute;dio (Enem), para vagas suplementares no curso de Direito.</p>
 
 <p><br />
 Esses novos formandos se somar&atilde;o aos cerca de 5,9 mil que acessaram o ensino superior (gradua&ccedil;&atilde;o e p&oacute;s-gradua&ccedil;&atilde;o) devido ao Pronera no pa&iacute;s, segundo dados recentes do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra). Pelo menos 49 institui&ccedil;&otilde;es p&uacute;blicas de ensino superior j&aacute; abrigaram turmas de educa&ccedil;&atilde;o superior amparadas no programa, em diversas &aacute;reas de conhecimento.&nbsp;</p>
