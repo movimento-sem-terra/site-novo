@@ -65,7 +65,7 @@ A entidade procura articular e fortalecer a blogosfera progressista, a radiodifu
 
 <p>&nbsp;</p>
 
-<p><strong>Apoio o Bar&atilde;o de Itarar&eacute;. Fa&ccedil;a sua doa&ccedil;&atilde;o!</strong></p>
+<p><strong>Apoie&nbsp;o Bar&atilde;o de Itarar&eacute;. Fa&ccedil;a sua doa&ccedil;&atilde;o!</strong></p>
 
 <p><br />
 Para manter sua sede em SP, o Bar&atilde;o precisa de R$ 50 mil para cobrir despesas como aluguel, condom&iacute;nio, limpeza e conta de luz at&eacute; o final deste ano.</p>
