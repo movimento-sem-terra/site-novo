@@ -93,4 +93,18 @@ A atividade teve a apresenta&ccedil;&atilde;o do Grupo Unamerica e uma palestra 
 <p style="text-align: right;"><br />
 <em>Comit&ecirc; Ga&uacute;cho em Solidariedade ao Povo Venezuelano</em></p>
 
+<p><br />
+&nbsp;</p>
+
+<p><strong>Confira abaixo as transmiss&otilde;es ao vivo do evento:</strong></p>
+
+<p><a href="https://bit.ly/2HTO2r1">Parte 1</a><br />
+<a href="https://bit.ly/2WNLrC6">Parte 2</a></p>
+
+<div class="yj6qo ajU" style="cursor: pointer; outline: none; padding: 10px 0px; width: 22px; margin: 2px 0px 0px; color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">&nbsp;</div>
+
+<p style="text-align: right;">&nbsp;</p>
+
+<p>&nbsp;</p>
+
 <p class="m_-5471316347230913343gmail-p2" style="color: rgb(34, 34, 34); font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Arial, Helvetica, sans-serif; margin: 0px; min-height: 13px; text-align: right;">&nbsp;</p>
