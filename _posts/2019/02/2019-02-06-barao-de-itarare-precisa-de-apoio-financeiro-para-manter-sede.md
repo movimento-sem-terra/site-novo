@@ -44,18 +44,28 @@ Ela explica que desde o surgimento da entidade o apoio financeiro de organiza&cc
 
 <p>&nbsp;</p>
 
-<p>Diante disso, para arrecadar fundos o Bar&atilde;o de Itarar&eacute; iniciou na &uacute;ltima semana uma <a href="https://www.catarse.me/a_sede_do_barao">vaquinha&nbsp;virtual</a>, a fim de manter sua&nbsp;sede em S&atilde;o Paulo, funcionando por mais um ano. &ldquo;No momento onde h&aacute; uma criminaliza&ccedil;&atilde;o intensa e um ataque &agrave; organiza&ccedil;&atilde;o sindical no pa&iacute;s, a vaquinha tem o objetivo de manter a sede, para que esse espa&ccedil;o continue sendo usando pelo movimento popular e sindical para produzir di&aacute;logo, debates e lutas no enfrentamento a essa onda conservadora&rdquo;, diz&nbsp;Mielli.</p>
+<p>Diante disso, para arrecadar fundos o Bar&atilde;o de Itarar&eacute; iniciou na &uacute;ltima semana uma <a href="https://www.catarse.me/a_sede_do_barao">vaquinha&nbsp;virtual</a>, a fim de manter sua&nbsp;sede em S&atilde;o Paulo, funcionando por mais um ano.</p>
+
+<p>&nbsp;</p>
+
+<p>&ldquo;No momento onde h&aacute; uma criminaliza&ccedil;&atilde;o intensa e um ataque &agrave; organiza&ccedil;&atilde;o sindical no pa&iacute;s, a vaquinha tem o objetivo de manter a sede, para que esse espa&ccedil;o continue sendo usando pelo movimento popular e sindical para produzir di&aacute;logo, debates e lutas no enfrentamento a essa onda conservadora&rdquo;, diz&nbsp;Mielli.</p>
 
 <p><br />
 <strong>Bar&atilde;o de Itarar&eacute; tamb&eacute;m &eacute; a casa dos movimentos sociais</strong></p>
 
 <p><br />
 V&aacute;rios movimentos sociais j&aacute; compartilharam do espa&ccedil;o da entidade para momentos de reflex&atilde;o e debates. Entre eles o MST, MTST, Frente Brasil Popular, UNE, UBES, UEE-SP, UJS, Levante Popular da Juventude, Cebrapaz,<br />
-v&aacute;rios sindicatos (Jornalistas, Arquitetos), federa&ccedil;&otilde;es e confedera&ccedil;&otilde;es. Este tamb&eacute;m &eacute; um local que abriga jornalistas, blogueiros e comunicados brasileiros, que lutam pela por uma comunica&ccedil;&atilde;o mais democr&aacute;tica.<br />
+v&aacute;rios sindicatos (Jornalistas, Arquitetos), federa&ccedil;&otilde;es e confedera&ccedil;&otilde;es. Este tamb&eacute;m &eacute; um local que abriga jornalistas, blogueiros e comunicados brasileiros, que lutam pela por uma comunica&ccedil;&atilde;o mais democr&aacute;tica.</p>
+
+<p><br />
 O Bar&atilde;o de Itarar&eacute; foi criado em 2010, ap&oacute;s a realiza&ccedil;&atilde;o da Confer&ecirc;ncia Nacional de Comunica&ccedil;&atilde;o (Confecom), com objetivo de se aliar &agrave; luta pela democratiza&ccedil;&atilde;o da comunica&ccedil;&atilde;o e em defesa da m&iacute;dia alternativa.</p>
 
 <p><br />
-A entidade procura articular e fortalecer a blogosfera progressista, a radiodifus&atilde;o p&uacute;blica, comunit&aacute;ria e independente. Apoio o Bar&atilde;o de Itarar&eacute;. Fa&ccedil;a sua doa&ccedil;&atilde;o!</p>
+A entidade procura articular e fortalecer a blogosfera progressista, a radiodifus&atilde;o p&uacute;blica, comunit&aacute;ria e independente.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Apoio o Bar&atilde;o de Itarar&eacute;. Fa&ccedil;a sua doa&ccedil;&atilde;o!</strong></p>
 
 <p><br />
 Para manter sua sede em SP, o Bar&atilde;o precisa de R$ 50 mil para cobrir despesas como aluguel, condom&iacute;nio, limpeza e conta de luz at&eacute; o final deste ano.</p>
