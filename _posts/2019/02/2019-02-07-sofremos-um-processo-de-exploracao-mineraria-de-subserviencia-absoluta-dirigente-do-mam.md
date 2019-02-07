@@ -4,8 +4,8 @@ tags:
   - tag: mam
   - tag: barragem
   - tag: mineração
-title: "“Sofremos um processo de exploração minerária de subserviência absoluta”, dirigente do MAM"
-support_line: "Para a dirigente do MAM, Karina Martins as populações atingidas pela mineração vivem um terror permanente e pânico generalizado, com o desmonte da sua cultura e ameaça cotidiana de morte"
+title: "“Sofremos um processo de exploração minerária de subserviência absoluta”, diz dirigente do MAM"
+support_line: "Para Karina Martins as populações atingidas pela mineração vivem um terror permanente, com o desmonte da sua cultura e ameaças cotidianas de morte"
 images_hd: //farm5.staticflickr.com/4886/40052342213_47e7540d98_b.jpg
 menu: lutas e mobilizações
 layout: post
@@ -17,6 +17,13 @@ files:
     small: //farm5.staticflickr.com/4886/40052342213_47e7540d98_n.jpg
     title: WhatsApp Image 2019-02-06 at 20.31.55 (2).jpeg
     $$hashKey: "030"
+  - link: //farm8.staticflickr.com/7803/40053282993_2cf90279ce_b.jpg
+    original: //farm8.staticflickr.com/7803/40053282993_0b95839781_o.jpg
+    thumbnail: //farm8.staticflickr.com/7803/40053282993_2cf90279ce_t.jpg
+    medium: //farm8.staticflickr.com/7803/40053282993_2cf90279ce_z.jpg
+    small: //farm8.staticflickr.com/7803/40053282993_2cf90279ce_n.jpg
+    title: 66d32467-ae3d-4066-8aff-cd84d9d05e77.jpeg
+    $$hashKey: 05R
 created_date: "2019-02-07T12:32:51-02:00"
 published: true
 releated_posts:
@@ -25,9 +32,15 @@ releated_posts:
   - _posts/2018/05/2018-05-18-mineracao-predatoria-e-tema-de-debate-no-para.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="66d32467-ae3d-4066-8aff-cd84d9d05e77.jpeg" height="500" src="//farm8.staticflickr.com/7803/40053282993_2cf90279ce_b.jpg" width="700" />
+<figcaption><em>&ldquo;A quest&atilde;o n&atilde;o &eacute; a minera&ccedil;&atilde;o em si, mas o seu modelo&quot;, afirma. Foto: Arquivo Pessoal</em></figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
-<p><em>Por&nbsp;Solange Engel<br />
+<p><em>Por&nbsp;Solange Engelmann<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
