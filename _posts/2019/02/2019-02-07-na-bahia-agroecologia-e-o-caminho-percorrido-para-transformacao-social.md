@@ -5,7 +5,7 @@ tags:
   - tag: bahia
   - tag: meio-ambiente
 images_hd: //farm8.staticflickr.com/7874/46104929935_95877ddecb_b.jpg
-title: Na Bahia agroecologia é o caminho percorrido para transformação social
+title: "Na Bahia, agroecologia é o caminho percorrido para transformação social"
 menu: agricultura camponesa
 support_line: "Se por um lado o agronegócio continua com sua investida na produção e disseminação de veneno, por outro, organizações populares, como o MST começaram a levantar a bandeira da agroecologia, como percussora da justiça social"
 layout: post
