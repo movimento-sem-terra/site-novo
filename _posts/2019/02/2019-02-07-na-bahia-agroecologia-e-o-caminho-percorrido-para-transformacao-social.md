@@ -114,5 +114,4 @@ Nessas regi&otilde;es, a agroecologia &eacute; parte integrante do curr&iacute;c
 <p><br />
 J&aacute; nessas regi&otilde;es o regime &eacute; como o das escolas, todos os dias os alunos v&atilde;o &agrave;s aulas, e a escola&nbsp;prov&ecirc; momentos de aprendizado, onde os alunos podem poder em pr&aacute;tica&nbsp;as novas t&eacute;cnicas adquiridas.</p>
 
-<p><br />
-Com essas experi&ecirc;ncias, o MST Estudar agroecologia e uma forma de conhecer e ser capaz de construir novos processos de produ&ccedil;&atilde;o que questionam a l&oacute;gica consumista do capitalismo, pois a agroecologia coloca a dimens&atilde;o ecol&oacute;gica da vida no &acirc;mbito familiar, nas rela&ccedil;&otilde;es internas e do seu fazer agricultura, sendo uma forma de reconstruir ecologicamente a agricultura e as rela&ccedil;&otilde;es sociais. Conclui</p>
+<p>&nbsp;</p>
