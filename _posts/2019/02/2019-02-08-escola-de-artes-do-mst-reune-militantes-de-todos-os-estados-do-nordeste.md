@@ -7,7 +7,7 @@ tags:
 title: "Escola de Artes do MST reúne militantes de todos os estados do Nordeste\n\n"
 support_line: "Socializando e potencializando as práticas artísticas nas áreas de Reforma Agrária, cerca de 80 Sem Terra realizam a 1ª Escola de Artes na região nordeste\n\n"
 menu: "educação, cultura e comunicação"
-images_hd: //farm8.staticflickr.com/7874/33155469948_ea093e7131_b.jpg
+images_hd: //farm8.staticflickr.com/7901/33155608798_79597933f3_b.jpg
 layout: post
 files:
   - link: //farm8.staticflickr.com/7868/46978623882_ae1cc2f042_b.jpg
@@ -31,6 +31,20 @@ files:
     small: //farm8.staticflickr.com/7807/40065914913_3c7881cf65_n.jpg
     title: IMG_20190208_125814_500.jpg
     $$hashKey: 039
+  - link: //farm8.staticflickr.com/7917/33155601268_cae71d5770_b.jpg
+    original: //farm8.staticflickr.com/7917/33155601268_5c538c1253_o.jpg
+    thumbnail: //farm8.staticflickr.com/7917/33155601268_cae71d5770_t.jpg
+    medium: //farm8.staticflickr.com/7917/33155601268_cae71d5770_z.jpg
+    small: //farm8.staticflickr.com/7917/33155601268_cae71d5770_n.jpg
+    title: IMG_20190208_125750_783.jpg
+    $$hashKey: 0CQ
+  - link: //farm8.staticflickr.com/7901/33155608798_79597933f3_b.jpg
+    original: //farm8.staticflickr.com/7901/33155608798_43ea797211_o.jpg
+    thumbnail: //farm8.staticflickr.com/7901/33155608798_79597933f3_t.jpg
+    medium: //farm8.staticflickr.com/7901/33155608798_79597933f3_z.jpg
+    small: //farm8.staticflickr.com/7901/33155608798_79597933f3_n.jpg
+    title: IMG_20190208_125733_545.jpg
+    $$hashKey: 0CT
 created_date: "2019-02-08T20:13:07-02:00"
 published: true
 releated_posts:
@@ -40,9 +54,8 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="IMG_20190208_125746_752.jpg" height="422" src="//farm8.staticflickr.com/7868/46978623882_ae1cc2f042_b.jpg" width="700" />
-<figcaption>Fotos: Cadu Souza<br />
-</figcaption>
+<figure class="image" style="display:inline-block"><img alt="IMG_20190208_125714_336.jpg" height="423" src="//farm8.staticflickr.com/7874/33155469948_ea093e7131_b.jpg" width="700" />
+<figcaption>Fotos: Cadu Souza</figcaption>
 </figure>
 </div>
 
@@ -77,8 +90,7 @@ A poesia, a m&uacute;sica, a dan&ccedil;a e as diversas express&otilde;es cultur
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_20190208_125814_500.jpg" height="439" src="//farm8.staticflickr.com/7807/40065914913_3c7881cf65_b.jpg" width="700" />
-<figcaption>Fotos: Cadu Souza<br />
-</figcaption>
+<figcaption>Fotos: Cadu Souza</figcaption>
 </figure>
 </div>
 
@@ -97,6 +109,10 @@ Assentada no litoral do Cear&aacute;, Amanda &eacute; emboladora de coco do grup
 <p><br />
 &ldquo;Cantamos e dan&ccedil;amos o nosso lugar, nossos sonhos, o que a gente sonha para nossa comunidade, cantamos nossa resist&ecirc;ncia&rdquo;.</p>
 
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG_20190208_125746_752.jpg" height="422" src="//farm8.staticflickr.com/7868/46978623882_ae1cc2f042_b.jpg" width="700" />
+<figcaption>Fotos: Cadu Souza</figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
