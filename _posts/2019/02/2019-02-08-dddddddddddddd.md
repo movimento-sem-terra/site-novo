@@ -4,7 +4,7 @@ tags:
   - tag: mst
   - tag: reforma-agrária
   - tag: sem-terra
-title: Movimento Sem Terra 35 anos
+title: 35 anos de Movimento Sem Terra
 images_hd: //farm8.staticflickr.com/7888/47027816171_9af5bd09e2_b.jpg
 support_line: "Um povo que não se esconde, que sabe qual é o seu lugar na busca por um pedaço de chão pra plantar."
 menu: lutas e mobilizações
