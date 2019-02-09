@@ -42,57 +42,46 @@ Da Pagina do MST</em></div>
 
 <div>&nbsp;</div>
 
-<div>Dia 9 de fevereiro &eacute; o&nbsp;nascimento de Apol&ocirc;nio de Carvalho, um dos maiores nomes&nbsp;da&nbsp;luta&nbsp;internacionalista. Se vivo estivesse, ele&nbsp;completaria em 2019&nbsp;seus 107 anos.</div>
+<p>Dia 9 de fevereiro &eacute; o&nbsp;nascimento de Apol&ocirc;nio de Carvalho, um dos maiores nomes&nbsp;da&nbsp;luta&nbsp;internacionalista. Se vivo estivesse, ele&nbsp;completaria em 2019&nbsp;seus 107 anos.</p>
 
-<div>&nbsp;</div>
+<p><br />
+Foram 93 anos bem vividos&nbsp;no Brasil e em muitos outros pa&iacute;ses, sempre conspirando a favor da liberdade dos povos.</p>
 
-<div>Foram 93 anos bem vividos&nbsp;no Brasil e em muitos outros pa&iacute;ses, sempre conspirando a favor da liberdade dos povos.</div>
+<p><br />
+O camarada Apol&ocirc;nio dedicou sua vida &agrave;s causas da classe trabalhadora, contribuindo para com a transforma&ccedil;&atilde;o social.&nbsp;</p>
 
-<div><br />
-<br />
-O camarada Apol&ocirc;nio dedicou sua vida &agrave;s causas da classe trabalhadora, contribuindo para com a transforma&ccedil;&atilde;o social.&nbsp;</div>
+<p><br />
+Por suas id&eacute;ias revolucion&aacute;rias foi expulso do ex&eacute;rcito brasileiro, seguindo fora do pa&iacute;s em v&aacute;rias frentes de lutas como na Guerra Civil Espanhola e na resist&ecirc;ncia francesa contra o nazismo na segunda guerra mundial.</p>
 
-<div><br />
-Por suas id&eacute;ias revolucion&aacute;rias foi expulso do ex&eacute;rcito brasileiro, seguindo fora do pa&iacute;s em v&aacute;rias frentes de lutas como na Guerra Civil Espanhola e na resist&ecirc;ncia francesa contra o nazismo na segunda guerra mundial.</div>
+<p><br />
+No seu retorno ao Brasil, j&aacute; no per&iacute;odo da ditadura militar foi um grande combatente contra a repress&atilde;o, foi&nbsp;perseguido, viveu&nbsp;clandestinamente, foi preso pelo regime e&nbsp;exilado&nbsp;posteriormente na Arg&eacute;lia.</p>
 
-<div>&nbsp;</div>
+<p><br />
+No final da d&eacute;cada de 1970, com a Promulga&ccedil;&atilde;o da Lei da Anistia, ele volta so Brasil,&nbsp;torna-se&nbsp;um dos fundadores do Partido dos Trabalhadores (PT).</p>
 
-<div><br />
-No seu retorno ao Brasil, j&aacute; no per&iacute;odo da ditadura militar foi um grande combatente contra a repress&atilde;o, foi&nbsp;perseguido, viveu&nbsp;clandestinamente, foi preso pelo regime e&nbsp;exilado&nbsp;posteriormente na Arg&eacute;lia.</div>
+<p>&nbsp;</p>
 
-<div><br />
-<br />
-No final da d&eacute;cada de 1970, com a Promulga&ccedil;&atilde;o da Lei da Anistia, ele volta so Brasil,&nbsp;torna-se&nbsp;um dos fundadores do Partido dos Trabalhadores (PT).</div>
+<p>Em meados do primeiro mandato do ex-presidente Luiz In&aacute;cio Lula da Silva, seu&nbsp;ciclo de&nbsp;vida se completa. Apol&ocirc;nio morre em&nbsp;&nbsp;23 de setembro de 2005. Na ocasi&atilde;o, Lula&nbsp;declara: &ldquo;Apol&ocirc;nio &eacute; um dos maiores exemplos de bravura, coragem e coer&ecirc;ncia que j&aacute; conheci. Um personagem absolutamente &iacute;mpar em nossa hist&oacute;ria. Lutou com o mesmo empenho, da resist&ecirc;ncia francesa ao nazismo e nas fileiras da redemocratiza&ccedil;&atilde;o no Brasil&rdquo;.&nbsp;</p>
 
-<div><br />
-<br />
-Em meados do primeiro mandato do ex-presidente Luiz In&aacute;cio Lula da Silva, seu&nbsp;ciclo de&nbsp;vida se completa. Apol&ocirc;nio morre em&nbsp;&nbsp;23 de setembro de 2005. Na ocasi&atilde;o, Lula&nbsp;declara: &ldquo;Apol&ocirc;nio &eacute; um dos maiores exemplos de bravura, coragem e coer&ecirc;ncia que j&aacute; conheci. Um personagem absolutamente &iacute;mpar em nossa hist&oacute;ria. Lutou com o mesmo empenho, da resist&ecirc;ncia francesa ao nazismo e nas fileiras da redemocratiza&ccedil;&atilde;o no Brasil&rdquo;.&nbsp;</div>
+<p><br />
+A aus&ecirc;ncia f&iacute;sica de Apol&ocirc;nio faz falta no atual contexto pol&iacute;tico brasileiro, mas acreditamos que a sua for&ccedil;a est&aacute; presente em cada mulher e em cada homem, em cada organiza&ccedil;&atilde;o popular que constr&oacute;i a resist&ecirc;ncia ativa contra um governo autorit&aacute;rio. Como ele mesmo disse&nbsp;no filme Utopia e Barb&aacute;rie: &ldquo;Se perdemos hoje, n&atilde;o quer dizer que n&atilde;o podemos vencer amanh&atilde;&rdquo;.</p>
 
-<div><br />
-<br />
-A aus&ecirc;ncia f&iacute;sica de Apol&ocirc;nio faz falta no atual contexto pol&iacute;tico brasileiro, mas acreditamos que a sua for&ccedil;a est&aacute; presente em cada mulher e em cada homem, em cada organiza&ccedil;&atilde;o popular que constr&oacute;i a resist&ecirc;ncia ativa contra um governo autorit&aacute;rio. Como ele mesmo disse&nbsp;no filme Utopia e Barb&aacute;rie: &ldquo;Se perdemos hoje, n&atilde;o quer dizer que n&atilde;o podemos vencer amanh&atilde;&rdquo;.</div>
+<p><br />
+Para o Movimento dos Trabalhadores Rurais Sem Terra, Apol&ocirc;nio &eacute; um lutador do povo, aguerrido, soube ouvir cr&iacute;ticas e proferir palavras de esperan&ccedil;a.</p>
 
-<div><br />
-<br />
-Para o Movimento dos Trabalhadores Rurais Sem Terra, Apol&ocirc;nio &eacute; um lutador do povo, aguerrido, soube ouvir cr&iacute;ticas e proferir palavras de esperan&ccedil;a.</div>
+<p><br />
+A vida de Apol&ocirc;nio nos serve de inspira&ccedil;&atilde;o para os processos de forma&ccedil;&atilde;o pol&iacute;tica ideol&oacute;gica, para a pr&aacute;tica da m&iacute;stica revolucion&aacute;ria e internacionalista.&nbsp; Vivenciar a m&iacute;stica revolucion&aacute;ria do internacionalismo &eacute; praticar a solidariedade para com&nbsp;todos os povos em luta.</p>
 
-<div><br />
-<br />
-A vida de Apol&ocirc;nio nos serve de inspira&ccedil;&atilde;o para os processos de forma&ccedil;&atilde;o pol&iacute;tica ideol&oacute;gica, para a pr&aacute;tica da m&iacute;stica revolucion&aacute;ria e internacionalista.&nbsp; Vivenciar a m&iacute;stica revolucion&aacute;ria do internacionalismo &eacute; praticar a solidariedade para com&nbsp;todos os povos em luta.</div>
+<p><br />
+O seu legado dever&aacute; sempre ser lembrado pelos jovens. &Eacute; importante resgatar o papel hist&oacute;rico que a juventude desempenhou em muitos processos revolucion&aacute;rios, como forma de estimul&aacute;-la para a luta, para a organiza&ccedil;&atilde;o do povo, buscando subverter a ordem burguesa estabelecida.</p>
 
-<div><br />
-<br />
-O seu legado dever&aacute; sempre ser lembrado pelos jovens. &Eacute; importante resgatar o papel hist&oacute;rico que a juventude desempenhou em muitos processos revolucion&aacute;rios, como forma de estimul&aacute;-la para a luta, para a organiza&ccedil;&atilde;o do povo, buscando subverter a ordem burguesa estabelecida.</div>
+<p><br />
+Diante da celebra&ccedil;&atilde;o de seu anivers&aacute;rio nos comprometemos a seguir lutando e construindo uma nova sociedade, onde haja igualdade, respeito, dignidade e liberdade!</p>
 
-<div><br />
-<br />
-Diante da celebra&ccedil;&atilde;o de seu anivers&aacute;rio nos comprometemos a seguir lutando e construindo uma nova sociedade, onde haja igualdade, respeito, dignidade e liberdade!</div>
+<p><br />
+Nossa homenagem &eacute; permanente em&nbsp;cada latif&uacute;ndio conquistado, em&nbsp;cada escola constru&iacute;da, em&nbsp;cada adulto alfabetizado, em&nbsp;cada festa da colheita realizada. Da semente plantada na terra brotar&aacute; mais gente, mais gente, mais gente.</p>
 
-<div><br />
-<br />
-Nossa homenagem &eacute; permanente em&nbsp;cada latif&uacute;ndio conquistado, em&nbsp;cada escola constru&iacute;da, em&nbsp;cada adulto alfabetizado, em&nbsp;cada festa da colheita realizada. Da semente plantada na terra brotar&aacute; mais gente, mais gente, mais gente.</div>
-
-<div>&nbsp;</div>
+<p>&nbsp;</p>
 
 <div>&nbsp;</div>
 
