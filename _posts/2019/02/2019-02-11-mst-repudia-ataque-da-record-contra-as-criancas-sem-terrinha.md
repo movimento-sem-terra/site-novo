@@ -4,7 +4,7 @@ tags:
   - tag: educação-do-campo
   - tag: nota-de-repudio
   - tag: direitos-humanos
-title: MST repudia ataque da Record contra as Crianças Sem Terrinha
+title: MST repudia ataque da Record contra as crianças Sem Terrinha
 support_line: "\"A Rede Record, ao disseminar mentiras, não leva em consideração critérios mínimos de apuração e imparcialidade, faltando, entre outras questões, com a ética jornalística.\""
 menu: reforma agrária
 section: cover
@@ -36,7 +36,7 @@ releated_posts:
 Na noite deste domingo, 10, o MST recebeu com rep&uacute;dio as informa&ccedil;&otilde;es veiculadas no Programa Domingo Espetacular da Rede Record de Televis&atilde;o. A reportagem envolveu o Encontro das Crian&ccedil;as Sem Terrinha e foi totalmente manipulada para &quot;fortalecer o processo de criminaliza&ccedil;&atilde;o de organiza&ccedil;&otilde;es populares, que lutam pela defesa de seus direitos&quot;.</p>
 
 <p><br />
-Em nota, &quot;reafirmamos que o Encontro, realizado em parceria com a organiza&ccedil;&atilde;o Aldeias Infantis SOS, uma das mais respeitadas entidades que trabalha com a inf&acirc;ncia no pa&iacute;s, teve as autoriza&ccedil;&otilde;es dos &oacute;rg&atilde;os respons&aacute;veis e respeitou todos os padr&otilde;es de seguran&ccedil;a exigidos pelo Estatuto da Crian&ccedil;a e do Adolescente (ECA). Destacamos ainda, que todas as crian&ccedil;as tiveram autoriza&ccedil;&atilde;o dos pais, conforme prev&ecirc; a legisla&ccedil;&atilde;o, e al&eacute;m disso, todos os alvar&aacute;s necess&aacute;rios foram emitidos pelos &oacute;rg&atilde;os competentes, incluindo a Vara da Inf&acirc;ncia e Juventude.</p>
+Em nota, &quot;reafirmamos que o Encontro teve as autoriza&ccedil;&otilde;es dos &oacute;rg&atilde;os respons&aacute;veis e respeitou todos os padr&otilde;es de seguran&ccedil;a exigidos pelo Estatuto da Crian&ccedil;a e do Adolescente (ECA). Destacamos ainda, que todas as crian&ccedil;as tiveram autoriza&ccedil;&atilde;o dos pais, conforme prev&ecirc; a legisla&ccedil;&atilde;o, e al&eacute;m disso, todos os alvar&aacute;s necess&aacute;rios foram emitidos pelos &oacute;rg&atilde;os competentes, incluindo a Vara da Inf&acirc;ncia e Juventude.</p>
 
 <p><br />
 A Rede Record, ao disseminar mentiras, n&atilde;o leva em considera&ccedil;&atilde;o crit&eacute;rios m&iacute;nimos de apura&ccedil;&atilde;o e imparcialidade, faltando, entre outras quest&otilde;es, com a &eacute;tica jornal&iacute;stica.&quot;&nbsp;</p>
@@ -51,7 +51,7 @@ O Movimento dos Trabalhadores Rurais Sem Terra vem a p&uacute;blico denunciar e 
 Em um pa&iacute;s, em que o n&uacute;mero de analfabetos supera a marca de 11 milh&otilde;es de pessoas e que 1 a cada 5 crian&ccedil;as est&aacute; fora da escola, nos surpreende que um Encontro Nacional de Crian&ccedil;as Sem Terrinha, onde foi discutido temas como os direitos das crian&ccedil;as e a produ&ccedil;&atilde;o de alimenta&ccedil;&atilde;o saud&aacute;vel, seja classificado como doutrin&aacute;rio.&nbsp;</p>
 
 <p><br />
-Reafirmamos que o Encontro, realizado em parceria com a organiza&ccedil;&atilde;o Aldeias Infantis SOS, uma das mais respeitadas entidades que trabalha com a inf&acirc;ncia no pa&iacute;s, teve as autoriza&ccedil;&otilde;es dos &oacute;rg&atilde;os respons&aacute;veis e respeitou todos os padr&otilde;es de seguran&ccedil;a exigidos pelo Estatuto da Crian&ccedil;a e do Adolescente (ECA). Destacamos ainda, que todas as crian&ccedil;as tiveram autoriza&ccedil;&atilde;o dos pais, conforme prev&ecirc; a legisla&ccedil;&atilde;o, e al&eacute;m disso, todos os alvar&aacute;s necess&aacute;rios foram emitidos pelos &oacute;rg&atilde;os competentes, incluindo a Vara da Inf&acirc;ncia e Juventude.</p>
+Reafirmamos que o Encontro teve as autoriza&ccedil;&otilde;es dos &oacute;rg&atilde;os respons&aacute;veis e respeitou todos os padr&otilde;es de seguran&ccedil;a exigidos pelo Estatuto da Crian&ccedil;a e do Adolescente (ECA). Destacamos ainda, que todas as crian&ccedil;as tiveram autoriza&ccedil;&atilde;o dos pais, conforme prev&ecirc; a legisla&ccedil;&atilde;o, e al&eacute;m disso, todos os alvar&aacute;s necess&aacute;rios foram emitidos pelos &oacute;rg&atilde;os competentes, incluindo a Vara da Inf&acirc;ncia e Juventude.</p>
 
 <p><br />
 A Rede Record, ao disseminar mentiras, n&atilde;o leva em considera&ccedil;&atilde;o crit&eacute;rios m&iacute;nimos de apura&ccedil;&atilde;o e imparcialidade, faltando, entre outras quest&otilde;es, com a &eacute;tica jornal&iacute;stica.</p>
