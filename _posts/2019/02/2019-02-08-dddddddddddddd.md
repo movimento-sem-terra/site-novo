@@ -35,7 +35,7 @@ releated_posts:
   - _posts/2018/11/2018-11-13-muito-alem-da-ocupacao.md
   - _posts/2019/01/2019-01-30-durante-as-comemoracoes-de-35-anos-o-mst-reiterou-uma-serie-de-posicionamentos-acerca-da-atual-conjuntura.md
   - _posts/2018/10/2018-10-31-se-continuar-agredindo-movimentos-depois-de-empossado-bolsonaro-cometera-crime.md
-section: cover
+section: featured-news
 
 ---
 <p style="text-align:center"><img alt="46885808381_5257b6501f_b.jpg" height="463" src="//farm8.staticflickr.com/7888/47027816171_9af5bd09e2_b.jpg" width="700" /></p>
