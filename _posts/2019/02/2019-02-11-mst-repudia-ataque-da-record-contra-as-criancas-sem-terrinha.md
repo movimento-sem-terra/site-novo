@@ -5,7 +5,7 @@ tags:
   - tag: nota-de-repudio
   - tag: direitos-humanos
 title: MST repudia ataque da Record contra as crianças Sem Terrinha
-support_line: "\"A Rede Record, ao disseminar mentiras, não leva em consideração critérios mínimos de apuração e imparcialidade, faltando, entre outras questões, com a ética jornalística.\""
+support_line: "\"A Rede Record, ao disseminar mentiras, não leva em consideração critérios mínimos de apuração e imparcialidade, faltando, entre outras questões, com a ética jornalística\""
 menu: reforma agrária
 section: cover
 images_hd: //farm8.staticflickr.com/7909/40095130933_99e28b17e2_b.jpg
