@@ -60,7 +60,7 @@ A educa&ccedil;&atilde;o transformadora e emancipat&oacute;ria &eacute; aquela e
 <strong>Onde est&aacute; o ECA?</strong></p>
 
 <p><br />
-Ao conhecer o ECA e as suas diretrizes com profundidade&nbsp;vemos que a educa&ccedil;&atilde;o n&atilde;o se restringe apenas ao contexto da educa&ccedil;&atilde;o formal, ela&nbsp;acontece intramuros escolares.&nbsp;O processo educacional acontece em todos os lugares,&nbsp;pode ser informal (na fam&iacute;lia), n&atilde;o formal (na comunidade) e formal (dentro da escola).&nbsp;</p>
+Ao conhecer o ECA e as suas diretrizes com profundidade&nbsp;vemos que a educa&ccedil;&atilde;o n&atilde;o se restringe apenas ao contexto da educa&ccedil;&atilde;o formal, ela&nbsp;acontece intramuros escolares, em casa com a fam&iacute;lia e na comunidade.</p>
 
 <p><br />
 O mesmo estatuto&nbsp;diz que educadores devem&nbsp;estar atentos&nbsp;em rela&ccedil;&atilde;o aos&nbsp;direitos fundamentais de toda a crian&ccedil;a e adolescente, ou seja, direito &agrave; vida, &agrave; sa&uacute;de, &agrave; liberdade, ao respeito, &agrave; dignidade, &agrave; conviv&ecirc;ncia familiar e comunit&aacute;ria, &agrave; fam&iacute;lia natural ou substituta, &agrave; tutela, &agrave; doa&ccedil;&atilde;o, ao direito fundamental &agrave; educa&ccedil;&atilde;o, &agrave; cultura, ao esporte, ao lazer, &agrave; profissionaliza&ccedil;&atilde;o, &agrave; prote&ccedil;&atilde;o no trabalho, e a todo o tipo de preven&ccedil;&atilde;o, prote&ccedil;&atilde;o e pol&iacute;ticas p&uacute;blicas de atendimento que a crian&ccedil;a e o adolescente exigem para serem.</p>
