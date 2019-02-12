@@ -53,34 +53,31 @@ Da P&aacute;gina do MST&nbsp;</em></div>
 
 <div dir="auto">&nbsp;</div>
 
-<div dir="auto">No &uacute;ltimo s&aacute;bado&nbsp;(9) cerca de 200 pessoas&nbsp;realizaram em Vit&oacute;ria da Conquista, sudoeste baiano, um culto ecum&ecirc;nico em mem&oacute;ria de M&aacute;rcio Matos, dirigente Sem Terra assassinado em 2018, dentro de sua casa,&nbsp;no munic&iacute;pio de Iramaia.</div>
+<p dir="auto">No &uacute;ltimo s&aacute;bado&nbsp;(9) cerca de 200 pessoas&nbsp;realizaram em Vit&oacute;ria da Conquista, sudoeste baiano, um culto ecum&ecirc;nico em mem&oacute;ria de M&aacute;rcio Matos, dirigente Sem Terra assassinado em 2018, dentro de sua casa,&nbsp;no munic&iacute;pio de Iramaia.</p>
 
-<div dir="auto"><br />
-<br />
-O ato em mem&oacute;ria de&nbsp;Marcinho, como era chamado pelos companheiros, contou&nbsp;com a presen&ccedil;a de representantes de diversas religi&otilde;es que se uniram para confortar a fam&iacute;lia, os amigos e os companheiros e companheiras ali presente.&nbsp;</div>
+<p dir="auto"><br />
+O ato em mem&oacute;ria de&nbsp;Marcinho, como era chamado pelos companheiros, contou&nbsp;com a presen&ccedil;a de representantes de diversas religi&otilde;es que se uniram para confortar a fam&iacute;lia, os amigos e os companheiros e companheiras ali presente.&nbsp;</p>
 
-<div dir="auto"><br />
-<br />
-O ato -&nbsp;que&nbsp;reviveu&nbsp;a memoria de&nbsp;Marcio e&nbsp;de todos as&nbsp;companheiras e companheiros tombados na luta - tamb&eacute;m exigiu&nbsp;justi&ccedil;a e celeridade no caso que um ano depois n&atilde;o tem nenhuma resposta do Judici&aacute;rio.</div>
+<p dir="auto"><br />
+A atividade -&nbsp;que&nbsp;reviveu&nbsp;a memoria de&nbsp;Marcio e&nbsp;de todos as&nbsp;companheiras e companheiros tombados na luta - tamb&eacute;m exigiu&nbsp;justi&ccedil;a e celeridade no caso que um ano depois n&atilde;o tem nenhuma resposta do Judici&aacute;rio.</p>
 
-<div dir="auto"><br />
-<br />
-&ldquo;N&atilde;o sei falar em p&uacute;blico, nunca fiz isso, mas acho que ele se orgulharia de mim&rdquo;, foi assim que Flavia Rezende, noiva de Marcinho come&ccedil;ou a sua fala, emocionada, ela trouxe detalhes sobre sua trajet&oacute;ria.&nbsp;&nbsp; &nbsp;</div>
+<p dir="auto"><br />
+&ldquo;N&atilde;o sei falar em p&uacute;blico, nunca fiz isso, mas acho que ele se orgulharia de mim&rdquo;, foi assim que Flavia Rezende, noiva de Marcinho come&ccedil;ou a sua fala, emocionada, ela trouxe detalhes sobre sua trajet&oacute;ria.&nbsp;&nbsp; &nbsp;</p>
 
 <div dir="auto">&nbsp;
 <p style="text-align:center"><img alt="2019-02-11 09.26.26 3.jpg" height="401" src="//farm8.staticflickr.com/7886/47019872232_c5db85e711_b.jpg" width="600" /></p>
-<br />
-Segundo dados da Comiss&atilde;o Pastoral da Terra (CPT) entre&nbsp;2013 e&nbsp;2017 o n&uacute;mero de mortes no campo aumentou cerca de 15%.&nbsp;</div>
 
-<div dir="auto"><br />
-<br />
-Esse reflexo&nbsp;mostra o quanto os trabalhadores e trabalhadoras do campo t&ecirc;m tido sua vida ceifada por&nbsp;lutar pelos&nbsp;seus direitos e pelo acesso &agrave; terra.</div>
+<p><br />
+Segundo dados da Comiss&atilde;o Pastoral da Terra (CPT) entre&nbsp;2013 e&nbsp;2017 o n&uacute;mero de mortes no campo aumentou cerca de 15%.&nbsp;</p>
 
-<div dir="auto"><br />
-<br />
-De acordo com&nbsp;Lucin&eacute;ia Dur&atilde;es da dire&ccedil;&atilde;o nacional do MST, falar de Marcinho &eacute; falar de resist&ecirc;ncia e de luta. &ldquo;Nossa indigna&ccedil;&atilde;o ser&aacute; mantida contra o sistema que quer a qualquer custo tirar a esperan&ccedil;a do povo.&nbsp;Esse, al&eacute;m de ser um momento de recorda&ccedil;&atilde;o, tamb&eacute;m &eacute; um momento de reafirmar que a luta de Marcinho e de todos os Sem Terra tombados ser&aacute; sempre repeitada continuada por n&oacute;s do MST&rdquo;, concluiu.&nbsp;</div>
+<p><br />
+Esse reflexo&nbsp;mostra o quanto os trabalhadores e trabalhadoras do campo t&ecirc;m tido sua vida ceifada por&nbsp;lutar pelos&nbsp;seus direitos e pelo acesso &agrave; terra.</p>
 
-<div>&nbsp;</div>
+<p><br />
+De acordo com&nbsp;Lucin&eacute;ia Dur&atilde;es da dire&ccedil;&atilde;o nacional do MST, falar de Marcinho &eacute; falar de resist&ecirc;ncia e de luta. &ldquo;Nossa indigna&ccedil;&atilde;o ser&aacute; mantida contra o sistema que quer a qualquer custo tirar a esperan&ccedil;a do povo.&nbsp;Esse, al&eacute;m de ser um momento de recorda&ccedil;&atilde;o, tamb&eacute;m &eacute; um momento de reafirmar que a luta de Marcinho e de todos os Sem Terra tombados ser&aacute; sempre repeitada continuada por n&oacute;s do MST&rdquo;, concluiu.&nbsp;</p>
+</div>
+
+<p>&nbsp;</p>
 </div>
 
 <div class="yj6qo">&nbsp;</div>
