@@ -54,7 +54,7 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 Ancorados no&nbsp;artigo 16 do Estatuto da Crian&ccedil;a e do Adolescente (ECA), que fala dos direitos &agrave; liberdade, sobretudo nos&nbsp;seus incisos II (opini&atilde;o e express&atilde;o), III (cren&ccedil;a e culto religioso), IV (brincar e praticar esportes e divertir-se), V (participar da vida familiar e comunit&aacute;ria, sem discrimina&ccedil;&atilde;o) e VI (participar da vida pol&iacute;tica), pode-se afirmar que a pergunta acima j&aacute; tem resposta.&nbsp;</p>
 
 <p><br />
-A educa&ccedil;&atilde;o transformadora e emancipat&oacute;ria &eacute; aquela em que as escolas, pa&iacute;s, docentes, autoridades p&uacute;blicas, profissionais,&nbsp;gestores e a sociedade em geral, primam pela constru&ccedil;&atilde;o de um olhar cr&iacute;tico e emancipat&oacute;rios de crian&ccedil;as e adolescentes.</p>
+A educa&ccedil;&atilde;o transformadora e emancipat&oacute;ria &eacute; aquela em que as escolas, pa&iacute;s, docentes, autoridades p&uacute;blicas, profissionais,&nbsp;gestores e a sociedade em geral, primam pela constru&ccedil;&atilde;o de um olhar cr&iacute;tico e emancipat&oacute;rio&nbsp;de crian&ccedil;as e adolescentes.</p>
 
 <p><br />
 <strong>Onde est&aacute; o ECA?</strong></p>
