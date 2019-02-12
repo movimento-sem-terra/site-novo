@@ -45,8 +45,16 @@ releated_posts:
 <p><br />
 Freitas&nbsp;explica que o document&aacute;rio, que reuniu cerca&nbsp;de 3500 pessoas no munic&iacute;pio de Corumb&aacute;, e mais&nbsp;600 fam&iacute;lias na&nbsp;ocupa&ccedil;&atilde;o Leonir Orbak, em Santa Helena de Goi&aacute;s, foi feito a partir&nbsp;do&nbsp;processo&nbsp;de conviv&ecirc;ncia com&nbsp;as fam&iacute;lias Sem Terra. &ldquo;O filme busca pensar a luta por Reforma Agr&aacute;ria a partir das novas rela&ccedil;&otilde;es que se estabelecem entre as pessoas e &agrave;&nbsp;terra ocupada. Tentamos lan&ccedil;ar um olhar pr&oacute;ximo e, claro, parcial, sobre esse organismo complexo que &eacute; o MST&rdquo;, ressalta.</p>
 
+<p>&nbsp;</p>
+
+<p>A coordenadora do setor de Educa&ccedil;&atilde;o do MST em Goi&aacute;s, Bet.&nbsp;Cerqueira, narra com alegria que a aceita&ccedil;&atilde;o do p&uacute;blico no festival foi muito boa. Segundo ela, muitas pessoas ficaram impressionados n&atilde;o somente com o document&aacute;rio, mas com a capacidade de persist&ecirc;ncia, perseveran&ccedil;a e o compromisso do MST com a classe trabalhadora e a Reforma Agr&aacute;ria.</p>
+
+<p>&nbsp;</p>
+
+<p>Para Bet., &ldquo;Ch&atilde;o&rdquo; &eacute; um trabalho muito sens&iacute;vel e muito humano, que teve o envolvimento das fam&iacute;lias Sem Terra, como sujeitos protagonistas. &ldquo;N&atilde;o &eacute; um filme que fala de n&oacute;s, mas um filme que a gente construiu junto. Por isso, tem essa sensibilidade, clareza da luta e relev&acirc;ncia nesse momento hist&oacute;rico t&atilde;o conturbado que vive a democracia, estrear o &quot;Ch&atilde;o&quot;, com casa lotada e um p&uacute;blico que ficou extasiado com o filme&rdquo;, conta a coordenadora.</p>
+
 <p><br />
-Em entrevista &agrave; Ag&ecirc;ncia EFE, a cineasta&nbsp;chamou aten&ccedil;&atilde;o para import&acirc;ncia pol&iacute;tica na estreia do document&aacute;rio&nbsp;sobre a luta do MST, em Berlim. &quot;A&nbsp;exibi&ccedil;&atilde;o no festival &eacute; fundamental para dar visibilidade ao momento t&atilde;o triste e delicado, que o Brasil vive, principalmente no que diz respeito aos&nbsp;movimentos populares. A situa&ccedil;&atilde;o para os Sem Terra nunca foi f&aacute;cil e nestes 35 anos de exist&ecirc;ncia, tiveram que enfrentar preconceitos, amea&ccedil;as, assassinatos e uma exclus&atilde;o sistem&aacute;tica&rdquo;, lamentou&nbsp;Camila.</p>
+Em entrevista &agrave; Ag&ecirc;ncia EFE, a cineasta Camila chamou aten&ccedil;&atilde;o acerca da import&acirc;ncia pol&iacute;tica na estreia do document&aacute;rio&nbsp;sobre a luta do MST, em Berlim. &quot;A&nbsp;exibi&ccedil;&atilde;o no festival &eacute; fundamental para dar visibilidade ao momento t&atilde;o triste e delicado, que o Brasil vive, principalmente no que diz respeito aos&nbsp;movimentos populares. A situa&ccedil;&atilde;o para os Sem Terra nunca foi f&aacute;cil e nestes 35 anos de exist&ecirc;ncia, tiveram que enfrentar preconceitos, amea&ccedil;as, assassinatos e uma exclus&atilde;o sistem&aacute;tica&rdquo;, lamentou&nbsp;Camila.</p>
 
 <p>&nbsp;</p>
 
