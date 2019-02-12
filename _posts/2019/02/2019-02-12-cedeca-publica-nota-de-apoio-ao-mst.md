@@ -4,7 +4,7 @@ tags:
   - tag: sem-terrinha
   - tag: lutas
   - tag: solidariedade
-title: "CEDECA publica nota de apoio ao MST "
+title: "CEDECA publica nota em apoio ao MST "
 support_line: "O texto atesta a segurança e a infraestrutura da atividade que recebeu 1200 crianças em Brasília "
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7809/47073092091_b4570b0e71_b.jpg
