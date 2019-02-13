@@ -4,7 +4,7 @@ tags:
   - tag: educação-no-campo
   - tag: lutas
   - tag: formação
-title: "Centro de formação é inaugurado em Santa Catarina "
+title: "Escola do campo é inaugurada em Santa Catarina "
 support_line: "O espaço vai atender estudantes de cinco assentamentos da região, do 5° ano ao 9° ano"
 menu: "educação, cultura e comunicação"
 images_hd: //farm8.staticflickr.com/7839/32140261577_eee7c8521e_b.jpg
@@ -57,7 +57,7 @@ Da P&aacute;gina do MST&nbsp;</em><br />
 
 <div dir="auto">&nbsp;</div>
 
-<div dir="auto">Nesta segunda-feira (11) foi inaugurado&nbsp;no assentamento 9 de novembro, munic&iacute;pio de &Aacute;gua Doce, Santa Catarina,&nbsp;o Centro de Educa&ccedil;&atilde;o Municipal Cultivando Saber. O espa&ccedil;o&nbsp;vai&nbsp;atender estudantes de cinco&nbsp;assentamentos da regi&atilde;o, do 5&deg; ano ao 9&deg; ano.</div>
+<div dir="auto">Nesta segunda-feira (11) foi inaugurado&nbsp;no assentamento 9 de novembro, munic&iacute;pio de &Aacute;gua Doce, Santa Catarina, a escola&nbsp;de educa&ccedil;&atilde;o municipal Cultivando Saber. O espa&ccedil;o&nbsp;vai&nbsp;atender estudantes de cinco&nbsp;assentamentos da regi&atilde;o, do 5&deg; ano ao 9&deg; ano.</div>
 
 <div dir="auto"><br />
 <br />
