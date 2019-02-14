@@ -38,6 +38,13 @@ files:
     small: //farm8.staticflickr.com/7882/40131950463_8ba8d8f057_n.jpg
     title: IMG_20190212_134754_475.jpg
     $$hashKey: 0D4
+  - link: //farm8.staticflickr.com/7812/33221540308_9a051bf377_b.jpg
+    original: //farm8.staticflickr.com/7812/33221540308_0dac893a28_o.jpg
+    thumbnail: //farm8.staticflickr.com/7812/33221540308_9a051bf377_t.jpg
+    medium: //farm8.staticflickr.com/7812/33221540308_9a051bf377_z.jpg
+    small: //farm8.staticflickr.com/7812/33221540308_9a051bf377_n.jpg
+    title: IMG_20190212_134852_010.jpg
+    $$hashKey: 0IL
 created_date: "2019-02-14T19:59:22-02:00"
 published: true
 releated_posts:
@@ -128,3 +135,9 @@ Entender a cultura como o modo de entender e reproduzir a nossa exist&ecirc;ncia
 <p>A arte, nesse per&iacute;odo hist&oacute;rico, nos torna mais sens&iacute;veis e criativos para pensar nossas formas de luta. Nossas formas de luta e de di&aacute;logo com a sociedade j&aacute; cabem na ordem do sistema capitalista e se queremos enfrent&aacute;-la, a gente tem que sair dessa ordem, sair dos marcos que o capital nos imp&otilde;e e a arte tem esse potencial.</p>
 
 <p>Voc&ecirc; n&atilde;o produz arte sem ser criativo e criatividade &eacute; fundamental para as nossas lutas nesse per&iacute;odo.</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center"><img alt="IMG_20190212_134852_010.jpg" height="382" src="//farm8.staticflickr.com/7812/33221540308_9a051bf377_b.jpg" width="600" /></p>
+
+<p>&nbsp;</p>
