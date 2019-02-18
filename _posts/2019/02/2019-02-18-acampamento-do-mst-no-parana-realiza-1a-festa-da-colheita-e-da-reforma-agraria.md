@@ -112,8 +112,12 @@ Entre os convidados da festa estava o escritor Eduardo Moreira, que est&aacute; 
 
 <div dir="auto">
 <p style="text-align:center"><img alt="Maria Francelino (3).jpeg" height="466" src="//farm8.staticflickr.com/7844/47086046972_16b9a63d86_b.jpg" width="700" /></p>
-<br />
-<strong>Hist&oacute;rico da &aacute;rea</strong></div>
+
+<p><br />
+&nbsp;</p>
+
+<p><strong>Hist&oacute;rico da &aacute;rea</strong></p>
+</div>
 
 <div dir="auto"><br />
 A diversidade e a produtividade s&atilde;o as marcas da agricultura e da pecu&aacute;ria no acampamento. No &uacute;ltimo ano foram 108 mil sacas de soja e milho; 3 mil sacas de feij&atilde;o; 286 toneladas de arroz, ab&oacute;bora, batata e legumes em geral; 900 toneladas de mandioca; 35 mil caixas de tomate, 8700 animais, entre bovinos, cabritos, cavalos e porcos.&nbsp;</div>
