@@ -50,6 +50,8 @@ releated_posts:
 
 <div dir="auto" style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 12.8px;">&nbsp;</div>
 
+<div dir="auto" style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 12.8px;">&nbsp;</div>
+
 <div dir="auto" style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 12.8px;"><em>Por Coletivo de comunica&ccedil;&atilde;o MST/SC<br />
 Da P&aacute;gina do MST&nbsp;</em><br />
 &nbsp;</div>
@@ -57,7 +59,7 @@ Da P&aacute;gina do MST&nbsp;</em><br />
 
 <div dir="auto">&nbsp;</div>
 
-<div dir="auto">Nesta segunda-feira (11) foi inaugurado&nbsp;no assentamento 9 de novembro, munic&iacute;pio de &Aacute;gua Doce, Santa Catarina, a escola&nbsp;de educa&ccedil;&atilde;o municipal Cultivando Saber. O espa&ccedil;o&nbsp;vai&nbsp;atender estudantes de cinco&nbsp;assentamentos da regi&atilde;o, do 5&deg; ano ao 9&deg; ano.</div>
+<div dir="auto">Nesta segunda-feira (11) foi inaugurado&nbsp;no assentamento 9 de novembro, munic&iacute;pio de &Aacute;gua Doce, Santa Catarina, a escola&nbsp;de educa&ccedil;&atilde;o municipal Cultivando Saber. O espa&ccedil;o, que&nbsp;vai atender crian&ccedil;as de cinco regi&otilde;es,&nbsp;<span style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">come&ccedil;a com&nbsp;ensino integral at&eacute; o 5.</span><span style="color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 16px;">&deg;</span><span style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">&nbsp;ano&nbsp;e, posteriormente, os assentados continuaram na batalha para que o per&iacute;odo se estenda&nbsp;at&eacute; o 9.</span><span style="color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 16px;">&deg;</span><span style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">&nbsp;ano.</span></div>
 
 <div dir="auto"><br />
 <br />
