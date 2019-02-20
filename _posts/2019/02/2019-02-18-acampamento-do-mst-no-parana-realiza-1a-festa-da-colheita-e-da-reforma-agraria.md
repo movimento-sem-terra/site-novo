@@ -59,7 +59,11 @@ releated_posts:
 
 ---
 <div dir="auto">
-<p style="text-align:center"><img alt="Maria Francelino (6) (1).jpeg" height="466" src="//farm8.staticflickr.com/7900/47086053862_446794cb5e_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Maria Francelino (6) (1).jpeg" height="466" src="//farm8.staticflickr.com/7900/47086053862_446794cb5e_b.jpg" width="700" />
+<figcaption>Foto: Maria Francelino</figcaption>
+</figure>
+</div>
 </div>
 
 <div dir="auto">&nbsp;</div>
@@ -99,7 +103,11 @@ Ap&oacute;s a cerim&ocirc;nia religiosa houve um ato pol&iacute;tico pela desapr
 <div dir="auto">&nbsp;</div>
 
 <div dir="auto">
-<p style="text-align:center"><img alt="Maria Francelino (2).jpeg" height="466" src="//farm8.staticflickr.com/7882/47086050712_f32c4e0ea5_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Maria Francelino (2).jpeg" height="466" src="//farm8.staticflickr.com/7882/47086050712_f32c4e0ea5_b.jpg" width="700" />
+<figcaption>Foto:&nbsp;Maria Francelino</figcaption>
+</figure>
+</div>
 <br />
 Um grande almo&ccedil;o foi oferecido gratuitamente a todos, como forma de apresentar o resultado da agricultura familiar e da luta pela Reforma Agr&aacute;ria. Durante toda tarde houve m&uacute;sica de viola raiz. O encerramento contou com um grande baile da cultura camponesa.</div>
 
@@ -111,7 +119,11 @@ Entre os convidados da festa estava o escritor Eduardo Moreira, que est&aacute; 
 <div dir="auto">&nbsp;</div>
 
 <div dir="auto">
-<p style="text-align:center"><img alt="Maria Francelino (3).jpeg" height="466" src="//farm8.staticflickr.com/7844/47086046972_16b9a63d86_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Maria Francelino (3).jpeg" height="466" src="//farm8.staticflickr.com/7844/47086046972_16b9a63d86_b.jpg" width="700" />
+<figcaption>Foto:&nbsp;Maria Francelino</figcaption>
+</figure>
+</div>
 
 <p><br />
 &nbsp;</p>
@@ -140,7 +152,11 @@ A &aacute;rea passou por quatro avalia&ccedil;&otilde;es de pre&ccedil;o e o don
 <div dir="auto">&nbsp;</div>
 
 <div dir="auto">
-<p style="text-align:center"><img alt="Maria Francelino (8).jpeg" height="466" src="//farm8.staticflickr.com/7815/47138337371_80bf61c8e0_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Maria Francelino (8).jpeg" height="466" src="//farm8.staticflickr.com/7815/47138337371_80bf61c8e0_b.jpg" width="700" />
+<figcaption>Foto:&nbsp;Maria Francelino</figcaption>
+</figure>
+</div>
 </div>
 
 <div dir="auto">&nbsp;</div>
