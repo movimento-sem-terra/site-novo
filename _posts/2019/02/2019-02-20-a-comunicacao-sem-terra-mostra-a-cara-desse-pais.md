@@ -45,6 +45,13 @@ files:
     small: //farm8.staticflickr.com/7803/40195053473_d03d8012e4_n.jpg
     title: 1ro Seminario Nacional da Comunicação do MST 2019- Fotos Fabio Virgilio MST-RJ-0767.jpg
     $$hashKey: 0WK
+  - link: //farm8.staticflickr.com/7817/46245884215_ae96193cc5_b.jpg
+    original: //farm8.staticflickr.com/7817/46245884215_237ea8a3af_o.jpg
+    thumbnail: //farm8.staticflickr.com/7817/46245884215_ae96193cc5_t.jpg
+    medium: //farm8.staticflickr.com/7817/46245884215_ae96193cc5_z.jpg
+    small: //farm8.staticflickr.com/7817/46245884215_ae96193cc5_n.jpg
+    title: 1ro Seminario Nacional da Comunicação do MST 2019- Fotos Fabio Virgilio MST-RJ-0959.jpg
+    $$hashKey: 05H
 created_date: "2019-02-20T18:12:33-03:00"
 published: true
 releated_posts:
@@ -58,7 +65,7 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="1ro Seminario Nacional da Comunicação do MST 2019- Fotos Fabio Virgilio MST-RJ-0781.jpg" height="467" src="//farm8.staticflickr.com/7849/47107836472_5d1ab69195_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="1ro Seminario Nacional da Comunicação do MST 2019- Fotos Fabio Virgilio MST-RJ-0959.jpg" height="467" src="//farm8.staticflickr.com/7817/46245884215_ae96193cc5_b.jpg" width="700" />
 <figcaption>Fotos Pablo Vergara&nbsp;</figcaption>
 </figure>
 </div>
@@ -90,7 +97,7 @@ A atividade contou com a participa&ccedil;&atilde;o de comunicadores do MST de t
 A comunica&ccedil;&atilde;o popular come&ccedil;a a ganhar for&ccedil;a no Brasil em meados&nbsp;dos anos 1970 e 1980. Ela surge para cumprir a demanda de uma comunica&ccedil;&atilde;o feita pelo povo e para o povo. Al&eacute;m disso, com a efervesc&ecirc;ncia das lutas sociais em toda Am&eacute;rica Latina, esse tipo de jornalismo tamb&eacute;m ganha um car&aacute;ter mobilizador e agitador. E, ao dar voz para as lutas sociais, confronta&nbsp;a hegemonia e a l&oacute;gica de&nbsp;domina&ccedil;&atilde;o&nbsp;da comunica&ccedil;&atilde;o tradicional.</p>
 
 <p><br />
-No caso do MST, essa comunica&ccedil;&atilde;o - que surgiu em 1981 com o boletim Sem Terra e consolidou-se em 1984 com o jornal Sem Terra -&nbsp;&eacute; feita por acampados, assentados e por pessoas que carregam em si o v&iacute;nculo com as lutas sociais. S&atilde;o pessoas que dias ap&oacute;s dia desafiam-se a construir novos meios, formas e modalidades de narrativas. &nbsp;</p>
+No caso do MST, essa comunica&ccedil;&atilde;o - que surgiu em 1981 com o boletim Sem Terra e consolidou-se em 1984 com o rrjornal Sem Tea -&nbsp;&eacute; feita por acampados, assentados e por pessoas que carregam em si o v&iacute;nculo com as lutas sociais. S&atilde;o pessoas que dias ap&oacute;s dia desafiam-se a construir novos meios, formas e modalidades de narrativas.&nbsp;&nbsp;</p>
 
 <p><br />
 Em um momento em que o&nbsp;olhar para o outro tem ficado cada vez mais escasso, a comunica&ccedil;&atilde;o popular surge como um respiro. Um f&ocirc;lego que nos mostra que o bom jornalismo pode e deve ter lado. No caso do setor de comunica&ccedil;&atilde;o do MST, o lado dos Sem Terra, o lado dos pobres e marginalizados. O lado&nbsp;dos esquecidos, dos julgados e condenados pela grande m&iacute;dia.&nbsp;&nbsp;</p>
