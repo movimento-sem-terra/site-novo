@@ -4,7 +4,7 @@ tags:
   - tag: solidariedade
   - tag: sem-terrinha
   - tag: lutas-e-mobilizações
-title: "RNPI se solidariza ao MST e aos Sem Terrinha "
+title: "RNPI se solidariza com MST e os Sem Terrinha "
 support_line: "Em nota, articulação composta por mais de 200 organizações em todo o Brasil, afirma que a reportagem de televisão passou ao público uma leitura equivocada e com forte distorção"
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7817/40191255013_251416d6bb_b.jpg
