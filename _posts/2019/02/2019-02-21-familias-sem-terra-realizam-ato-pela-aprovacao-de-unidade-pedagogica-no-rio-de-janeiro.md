@@ -4,7 +4,7 @@ tags:
   - tag: lutas
   - tag: agroecologia
   - tag: educação
-title: "Famílias Sem Terra realizam ato pela aprovação de Unidade Pedagógica no Rio de Janeiro "
+title: "Famílias Sem Terra comemoram a aprovação de Unidade Pedagógica no Rio de Janeiro "
 support_line: "Desde abril de 2018, data em o terreno foi ocupado, o objetivo das 80 famílias que moram no local é construir uma escola agroecológica"
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7911/32228048267_cf8a57cd00_b.jpg
