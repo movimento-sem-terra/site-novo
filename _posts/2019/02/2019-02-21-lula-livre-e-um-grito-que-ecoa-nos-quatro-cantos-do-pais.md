@@ -18,6 +18,13 @@ files:
     small: //farm8.staticflickr.com/7843/33293089908_3aa5e0663a_n.jpg
     title: 20984989_CME15.jpeg
     $$hashKey: 0GY
+  - link: //farm8.staticflickr.com/7914/32226975207_661701ae17_b.jpg
+    original: //farm8.staticflickr.com/7914/32226975207_13102879f0_o.jpg
+    thumbnail: //farm8.staticflickr.com/7914/32226975207_661701ae17_t.jpg
+    medium: //farm8.staticflickr.com/7914/32226975207_661701ae17_z.jpg
+    small: //farm8.staticflickr.com/7914/32226975207_661701ae17_n.jpg
+    title: WhatsApp Image 2019-02-20 at 18.46.20 (1).jpeg
+    $$hashKey: 0SY
 created_date: "2019-02-21T14:30:41-03:00"
 published: true
 releated_posts:
@@ -52,3 +59,9 @@ Baixe o <a href="http://bit.ly/KitCarnavalLULALIVRE">aqui</a> kit para agitar o 
 
 <p><br />
 Ou ou&ccedil;a <a href="https://soundcloud.com/imprensalulalivre/sets/no-carnaval-cante-a-liberdade-lula-livre">aqui</a> diretamente no <a href="https://soundcloud.com/">SoundCloud</a> a sele&ccedil;&atilde;o de marchinhas, frevos, sambarreages e sambas enredo que v&atilde;o estourar no Carnaval.</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center"><img alt="WhatsApp Image 2019-02-20 at 18.46.20 (1).jpeg" height="700" src="//farm8.staticflickr.com/7914/32226975207_661701ae17_b.jpg" width="700" /></p>
+
+<p>&nbsp;</p>
