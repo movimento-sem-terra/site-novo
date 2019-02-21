@@ -86,7 +86,7 @@ As crian&ccedil;as est&atilde;o presentes no MST desde o princ&iacute;pio, desde
 Segundo Maria Isabel, para o Movimento a crian&ccedil;a &eacute; hoje um ser social que tem a sua autonomia, que tem o direito de se organizar, de auto-organizar-se como crian&ccedil;a e ir construindo os seus espa&ccedil;os dentro da pr&oacute;pria organiza&ccedil;&atilde;o.</p>
 
 <p><br />
-<em>Construindo espa&ccedil;os</em></p>
+<strong>Construindo espa&ccedil;os</strong></p>
 
 <p><br />
 Deusamar Sales Matos, do setor de Educa&ccedil;&atilde;o do MST no Par&aacute;, informa que na regi&atilde;o Sudeste do estado &eacute; onde ficam os maiores assentamentos e acampamentos, e que cada um deles tem uma escola. &ldquo;Ent&atilde;o a escola tem sido pra n&oacute;s um espa&ccedil;o de constru&ccedil;&atilde;o do conhecimento, mas tamb&eacute;m um espa&ccedil;o de cultura&rdquo;. [...] &ldquo;&Eacute; tanto que quando n&oacute;s vamos selecionar as crian&ccedil;as pra participar das atividades da Jornada dos Sem Terrinha, o nosso primeiro contato &eacute; a escola&rdquo;.</p>
