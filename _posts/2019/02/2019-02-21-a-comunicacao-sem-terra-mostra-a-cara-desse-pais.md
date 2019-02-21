@@ -18,7 +18,7 @@ files:
     title: WhatsApp Image 2019-02-18 at 17.11.11.jpeg
     $$hashKey: "063"
 created_date: "2019-02-20T22:34:15-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2019/02/2019-02-20-a-comunicacao-sem-terra-mostra-a-cara-desse-pais.md
   - _posts/2018/12/2018-12-03-festa-e-cavalgada-marcam-as-comemoracoes-de-aniversario-da-radio-camponesa.md
