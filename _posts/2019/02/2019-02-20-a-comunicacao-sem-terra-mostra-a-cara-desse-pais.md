@@ -143,7 +143,7 @@ Diante deste cen&aacute;rio, <a href="http://www.mst.org.br/2016/10/22/a-luta-pe
 
 <p><br />
 <br />
-A comunica&ccedil;&atilde;o do MST &eacute; uma a&ccedil;&atilde;o pol&iacute;tica, fruto tanto da organiza&ccedil;&atilde;o do Movimento,&nbsp;serve como elemento de forma&ccedil;&atilde;o e cr&iacute;tica de seus militantes ao longo de nossa trajet&oacute;ria hist&oacute;rica. Ela &eacute; feita&nbsp;por mulheres, homens, LGBT&#39;s. &Eacute;&nbsp;feita por velhos e novos, brancos, negros, campesinos e perif&eacute;ricos. &Eacute; uma comunica&ccedil;&atilde;o plural, miscigenada e&nbsp;forte, assim como Brasil. Um comunica&ccedil;&atilde;o com&nbsp;erros e acertos, vit&oacute;rias e desafios, mas com a for&ccedil;a do povo Sem Terra.&nbsp;</p>
+A comunica&ccedil;&atilde;o do MST &eacute; uma a&ccedil;&atilde;o pol&iacute;tica, fruto tanto da organiza&ccedil;&atilde;o do Movimento,&nbsp;serve como elemento de forma&ccedil;&atilde;o e cr&iacute;tica de seus militantes ao longo de nossa trajet&oacute;ria hist&oacute;rica. Ela &eacute; feita&nbsp;por mulheres, homens, LGBT&#39;s. &Eacute;&nbsp;feita por velhos e novos, brancos, negros, campesinos e perif&eacute;ricos. &Eacute; uma comunica&ccedil;&atilde;o plural, e&nbsp;forte, assim como Brasil. Um comunica&ccedil;&atilde;o com&nbsp;erros e acertos, vit&oacute;rias e desafios, mas com a for&ccedil;a do povo Sem Terra.&nbsp;</p>
 
 <p>&nbsp;</p>
 
