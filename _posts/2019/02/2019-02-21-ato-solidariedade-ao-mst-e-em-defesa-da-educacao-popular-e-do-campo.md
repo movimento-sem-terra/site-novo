@@ -38,6 +38,16 @@ releated_posts:
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
+<p>&nbsp;</p>
+
+<p>Em solidariedade ao MST, ser&aacute; realizado um ato de desagravo, organizado pelo coletivo do mandato da vereadora Juliana Cardoso (PT). A atividade acontece&nbsp;nesta sexta-feira (22), a partir das 18h30, na C&acirc;mara Municipal de S&atilde;o Paulo.&nbsp;</p>
+
+<p><br />
+De acordo com o gabinete da vereadora, o novo governo &quot;pretende criminalizar e colocar na ilegalidade os movimentos sociais que nasceram e lutam por direitos b&aacute;sicos do povo brasileiro&quot;.</p>
+
+<p><br />
+<strong>Confira abaixo o release oficial</strong></p>
+
 <p><br />
 Os ataques aos movimentos sociais em geral, e em especial ao MST, se acentuaram no &uacute;ltimo per&iacute;odo em todos os n&iacute;veis. Mas &eacute; evidente para todos n&oacute;s que a campanha e a elei&ccedil;&atilde;o de Bolsonaro s&atilde;o um marco no processo de criminaliza&ccedil;&atilde;o dos movimentos sociais no Brasil.</p>
 
