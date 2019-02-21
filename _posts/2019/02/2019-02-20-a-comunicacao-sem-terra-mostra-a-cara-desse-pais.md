@@ -66,7 +66,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="1ro Seminario Nacional da Comunicação do MST 2019- Fotos Fabio Virgilio MST-RJ-0959.jpg" height="467" src="//farm8.staticflickr.com/7817/46245884215_ae96193cc5_b.jpg" width="700" />
-<figcaption>Fotos Pablo Vergara&nbsp;</figcaption>
+<figcaption>Fotos&nbsp;Fabio Virgilio</figcaption>
 </figure>
 </div>
 
@@ -86,7 +86,7 @@ A atividade contou com a participa&ccedil;&atilde;o de comunicadores do MST de t
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="1ro Seminario Nacional da Comunicação do MST 2019- Fotos Fabio Virgilio MST-RJ-0559.jpg" height="467" src="//farm8.staticflickr.com/7851/46436419784_b5df0bb5a5_b.jpg" width="700" />
-<figcaption>Fotos Pablo Vergara&nbsp;</figcaption>
+<figcaption>Fotos Fabio Virgilio&nbsp;</figcaption>
 </figure>
 </div>
 
@@ -104,7 +104,7 @@ Em um momento em que o&nbsp;olhar para o outro tem ficado cada vez mais escasso,
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="1ro Seminario Nacional da Comunicação do MST 2019- Fotos Fabio Virgilio MST-RJ-1044.jpg" height="467" src="//farm8.staticflickr.com/7825/32218060437_49d245e46b_b.jpg" width="700" />
-<figcaption>Fotos Pablo Vergara&nbsp;</figcaption>
+<figcaption>Fotos Fabio Virgilio&nbsp;</figcaption>
 </figure>
 </div>
 
@@ -134,7 +134,7 @@ Diante deste cen&aacute;rio, <a href="http://www.mst.org.br/2016/10/22/a-luta-pe
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="1ro Seminario Nacional da Comunicação do MST 2019- Fotos Fabio Virgilio MST-RJ-0767.jpg" height="467" src="//farm8.staticflickr.com/7803/40195053473_d03d8012e4_b.jpg" width="700" />
-<figcaption>Fotos Pablo Vergara&nbsp;</figcaption>
+<figcaption>Fotos Fabio Virgilio</figcaption>
 </figure>
 </div>
 
