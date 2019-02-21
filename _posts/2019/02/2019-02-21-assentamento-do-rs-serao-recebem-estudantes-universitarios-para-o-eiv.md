@@ -17,6 +17,34 @@ files:
     small: //farm8.staticflickr.com/7855/32227406937_a3fbe0c3f7_n.jpg
     title: 1800408_647028315332804_2097622887_n.jpg
     $$hashKey: 14S
+  - link: //farm8.staticflickr.com/7903/46255143235_64594c2c2a_b.jpg
+    original: //farm8.staticflickr.com/7903/46255143235_b35a2a17ee_o.jpg
+    thumbnail: //farm8.staticflickr.com/7903/46255143235_64594c2c2a_t.jpg
+    medium: //farm8.staticflickr.com/7903/46255143235_64594c2c2a_z.jpg
+    small: //farm8.staticflickr.com/7903/46255143235_64594c2c2a_n.jpg
+    title: Estágiarios do EIV nos assentamento em Jóia_RS.jpeg
+    $$hashKey: 1A1
+  - link: //farm8.staticflickr.com/7845/40204338253_23ce9a032e_b.jpg
+    original: //farm8.staticflickr.com/7845/40204338253_6d9cf30698_o.jpg
+    thumbnail: //farm8.staticflickr.com/7845/40204338253_23ce9a032e_t.jpg
+    medium: //farm8.staticflickr.com/7845/40204338253_23ce9a032e_z.jpg
+    small: //farm8.staticflickr.com/7845/40204338253_23ce9a032e_n.jpg
+    title: Atividade envolvendo estudantes do EIV. Jóia_RS.jpeg
+    $$hashKey: 1A4
+  - link: //farm8.staticflickr.com/7897/46445714414_9e63a189b6_b.jpg
+    original: //farm8.staticflickr.com/7897/46445714414_ee0e461221_o.jpg
+    thumbnail: //farm8.staticflickr.com/7897/46445714414_9e63a189b6_t.jpg
+    medium: //farm8.staticflickr.com/7897/46445714414_9e63a189b6_z.jpg
+    small: //farm8.staticflickr.com/7897/46445714414_9e63a189b6_n.jpg
+    title: "Estagiário Felipe, auxiliando na feira da Reforma Agrária em Nova Santa Rita_RS..jpeg"
+    $$hashKey: 1A7
+  - link: //farm8.staticflickr.com/7843/46255143205_3935bfcd19_b.jpg
+    original: //farm8.staticflickr.com/7843/46255143205_ef8d3a1c64_o.jpg
+    thumbnail: //farm8.staticflickr.com/7843/46255143205_3935bfcd19_t.jpg
+    medium: //farm8.staticflickr.com/7843/46255143205_3935bfcd19_z.jpg
+    small: //farm8.staticflickr.com/7843/46255143205_3935bfcd19_n.jpg
+    title: Estagiária na participação do plantio de hortas. .jpeg
+    $$hashKey: 1AA
 created_date: "2019-02-21T16:31:50-03:00"
 published: true
 releated_posts:
@@ -34,6 +62,12 @@ releated_posts:
   - _posts/2018/12/2018-12-17-no-parana-comunidade-escolar-resiste-a-nova-tentativa-de-fechamento-da-escola.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Estágiarios do EIV nos assentamento em Jóia_RS.jpeg" height="525" src="//farm8.staticflickr.com/7903/46255143235_64594c2c2a_b.jpg" width="700" />
+<figcaption>Estágiarios do EIV nos assentamento em Jóia</figcaption>
+</figure>
+</div>
+
 <p>&nbsp;</p>
 
 <p><em>Por Maiara Rauber<br />
@@ -50,6 +84,12 @@ A proposta das atividades se diferenciam dos projetos formais de extens&atilde;o
 
 <p><br />
 Em s&iacute;ntese a programa&ccedil;&atilde;o do EIV &eacute; dividida em tr&ecirc;s etapas, a prepara&ccedil;&atilde;o, com diversos espa&ccedil;os como: A Hist&oacute;ria do MST e a M&iacute;stica, Oficinas de Agita&ccedil;&atilde;o e Propaganda, Curso Como Funciona a Sociedade, Palestras entre outras discuss&otilde;es. A segunda etapa &eacute; a viv&ecirc;ncia em si, onde os participantes se deslocam aos assentamentos de fam&iacute;lias agricultoras da regi&atilde;o da Reforma Agr&aacute;ria e outras comunidades rurais. A terceira e ultima etapa, &eacute; a de avalia&ccedil;&atilde;o, onde os estagi&aacute;rios debatem suas experi&ecirc;ncia.&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Atividade envolvendo estudantes do EIV. Jóia_RS.jpeg" height="525" src="//farm8.staticflickr.com/7845/40204338253_23ce9a032e_b.jpg" width="700" />
+<figcaption>Atividade envolvendo estudantes do EIV em J&oacute;ia</figcaption>
+</figure>
+</div>
 
 <p><br />
 <strong>Mobiliza&ccedil;&atilde;o estudantil no assentamento Ceres</strong></p>
@@ -73,6 +113,12 @@ J&aacute; os Sem Terra, de acordo com Ad&iacute;lio Perin, ao acolherem os estag
 <p><br />
 Angelita Silva dos Santos Perin, tamb&eacute;m &eacute; uma das assentadas que recebe os estagi&aacute;rios em seu lote, e se disponibiliza para proporcionar uma experi&ecirc;ncia fora da realidade para tais. &ldquo;&Eacute; uma oportunidade que da visibilidade daquilo que &eacute; a vida no campo, em especial nos &aacute;reas de assentamento&rdquo; afirma Angelita. Para a assentada os estudantes passam a ter uma vis&atilde;o diferente do que a grande m&iacute;dia divulga sobre os Sem Terra. &ldquo;Dessa forma esses jovens acabam tamb&eacute;m se percebendo como sujeitos que podem lutar por aquilo que eles acreditam&rdquo;, declara.</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Estagiária na participação do plantio de hortas. .jpeg" height="394" src="//farm8.staticflickr.com/7843/46255143205_3935bfcd19_b.jpg" width="700" />
+<figcaption>Estagiária na participação do plantio de hortas</figcaption>
+</figure>
+</div>
+
 <p><br />
 <strong>Troca de experi&ecirc;ncias em assentamentos de Nova Santa Rita</strong></p>
 
@@ -85,3 +131,9 @@ As institui&ccedil;&otilde;es respons&aacute;veis pela organiza&ccedil;&atilde;o
 <p>&nbsp;</p>
 
 <p>A atividade permite, segundo o assentado S&eacute;rgio Reis Marques, uma troca de informa&ccedil;&otilde;es com um grupo de pessoas que tem uma no&ccedil;&atilde;o m&iacute;nima ou quase nada do MST. &ldquo;O interc&acirc;mbio permite uma rela&ccedil;&atilde;o direta com as fam&iacute;lias vendo as contradi&ccedil;&otilde;es e tamb&eacute;m as potencialidades dos assentamentos&rdquo; assinala. Jora Lima, assentada que recebe estagi&aacute;rios em seu lote, destaca que esse est&aacute;gio permite que os estudantes conhe&ccedil;am a realidade da vida do homem e da mulher do campo. Para a assentada esse espa&ccedil;o se mostra importante tamb&eacute;m para divulgar que a Reforma Agr&aacute;ria funciona.</p>
+
+<p>&nbsp;</p>
+
+<figure class="image"><img alt="Estagiário Felipe, auxiliando na feira da Reforma Agrária em Nova Santa Rita_RS..jpeg" height="525" src="//farm8.staticflickr.com/7897/46445714414_9e63a189b6_b.jpg" width="700" />
+<figcaption>Estagiário Felipe, auxiliando na feira da Reforma Agrária em Nova Santa Rita</figcaption>
+</figure>
