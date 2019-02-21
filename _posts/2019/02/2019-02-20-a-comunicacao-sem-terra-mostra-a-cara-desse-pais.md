@@ -76,10 +76,10 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>O que &eacute; um comunicador popular? Qual a centeia que faz pessoas de norte a sul caminharem em dire&ccedil;&atilde;o a uma comunica&ccedil;&atilde;o&nbsp;alternativa, participativa e&nbsp;participat&oacute;ria?</p>
+<p>Quem &eacute; o&nbsp;comunicador popular? Qual a centeia que faz pessoas de norte a sul caminharem em dire&ccedil;&atilde;o a uma comunica&ccedil;&atilde;o&nbsp;alternativa, participativa e&nbsp;participat&oacute;ria?</p>
 
 <p><br />
-Essas foram algumas das perguntas que direcionaram&nbsp;os debates do &#39;1&deg; Semin&aacute;rio de Comunica&ccedil;&atilde;o: O MST na batalha das ideias&#39;, foi realizado de 14 a 17 de fevereiro, na Escola Nacional Florestan Fernandes (ENFF), em Guararema.&nbsp;</p>
+Essas foram algumas das perguntas que direcionaram&nbsp;os debates do &#39;&deg; Semin&aacute;rio de Comunica&ccedil;&atilde;o: O MST na batalha das ideias&#39;, foi realizado de 14 a 17 de fevereiro, na Escola Nacional Florestan Fernandes (ENFF), em Guararema.&nbsp;</p>
 
 <p><br />
 A atividade contou com a participa&ccedil;&atilde;o de comunicadores do MST de todo pa&iacute;s, representantes de diversos setores, e parceiros do campo popular.&nbsp;</p>
