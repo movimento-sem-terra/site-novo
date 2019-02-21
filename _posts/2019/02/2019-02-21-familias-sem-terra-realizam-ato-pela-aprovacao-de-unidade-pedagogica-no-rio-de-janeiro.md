@@ -53,19 +53,16 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
-<p>Um ato p&uacute;blico est&aacute; marcado para essa sexta-feira (22) &agrave;s 14h, no audit&oacute;rio da prefeitura de Maca&eacute;, Regi&atilde;o dos Lagos, Rio de Janeiro.</p>
+<p>Um ato p&uacute;blico organizado por fam&iacute;lias Sem Terra, moradoras do acampamento Edson Nogueira, localizado em Maca&eacute;, na&nbsp;Regi&atilde;o dos Lagos, est&aacute; marcado para essa sexta-feira (22) &agrave;s 14h, no audit&oacute;rio da prefeitura do munic&iacute;pio.&nbsp;</p>
 
 <p><br />
-A atividade tem o objetivo de pressionar o prefeito da cidade,&nbsp;Aluizio&nbsp;dos Santos&nbsp;Junior, para&nbsp;aprova&ccedil;&atilde;o&nbsp;do projeto de constru&ccedil;&atilde;o da Unidade Pedag&oacute;gica no&nbsp;acampamento&nbsp;Edson Nogueira, tamb&eacute;m localizado em Maca&eacute;. O projeto contou com a aprova&ccedil;&atilde;o da maioria dos vereadores na C&acirc;mara Municipal este ano.</p>
-
-<p><br />
-Desde abril de 2018, data em o terreno foi ocupado, o objetivo das 80 fam&iacute;lias que moram no local &eacute; construir uma escola agroecol&oacute;gica.</p>
+A atividade tem o objetivo de refor&ccedil;ar&nbsp;a import&acirc;ncia&nbsp;da&nbsp;Unidade Pedag&oacute;gica&nbsp;no&nbsp;acampamento. Desde abril de 2018, data em o terreno foi ocupado, o objetivo das 80 fam&iacute;lias que moram no local &eacute; construir uma escola agroecol&oacute;gica. No in&iacute;cio deste ano, o&nbsp;projeto&nbsp;foi aprovado por&nbsp;vereadores na C&acirc;mara Municipal.</p>
 
 <p><br />
 Como parte das mobiliza&ccedil;&otilde;es, as fam&iacute;lias Sem Terra, entregaram uma carta p&uacute;blica aos vereadores da c&acirc;mara municipal da regi&atilde;o na&nbsp;&uacute;ltima ter&ccedil;a-feira&nbsp;(19) para agradecer pela aprova&ccedil;&atilde;o do projeto da&nbsp;&ldquo;Unidade Pedag&oacute;gica Para Desenvolvimento Agroecol&oacute;gico&rdquo;.</p>
 
 <p><br />
-O objetivo das fam&iacute;lias foi agradecer e conscientizar&nbsp;as autoridades, em especial o prefeito,&nbsp;acerca&nbsp;da import&acirc;ncia do projeto que j&aacute; vem realizando diversos trabalhos na regi&atilde;o como:&nbsp;aulas pr&aacute;ticas e te&oacute;ricas abertas sobre&nbsp;agroecologia, gest&atilde;o do trabalho cooperado, produ&ccedil;&atilde;o coletiva, comercializa&ccedil;&atilde;o dos produtos da Reforma Agraria, conserva&ccedil;&atilde;o ambiental dos bens naturais e&nbsp;produ&ccedil;&atilde;o agroecol&oacute;gica na regi&atilde;o.</p>
+O objetivo das fam&iacute;lias foi agradecer e conscientizar&nbsp;as autoridades acerca&nbsp;da import&acirc;ncia do projeto que j&aacute; vem realizando diversos trabalhos na regi&atilde;o como:&nbsp;aulas pr&aacute;ticas e te&oacute;ricas abertas sobre&nbsp;agroecologia, gest&atilde;o do trabalho cooperado, produ&ccedil;&atilde;o coletiva, comercializa&ccedil;&atilde;o dos produtos da Reforma Agraria, conserva&ccedil;&atilde;o ambiental dos bens naturais e&nbsp;produ&ccedil;&atilde;o agroecol&oacute;gica na regi&atilde;o.</p>
 
 <p><br />
 <strong>Moradia e cooperativismo</strong></p>
