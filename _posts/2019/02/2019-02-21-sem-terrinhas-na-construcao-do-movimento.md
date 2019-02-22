@@ -5,7 +5,7 @@ tags:
   - tag: educação-do-campo
   - tag: "educação,-cultura-e-comunicação"
 title: "Sem Terrinhas na construção do Movimento "
-support_line: "Na luta desde cedo: em meio a encontros e elementos do cotidiano, os filhos e filhas da lona preta, herdeiros da luta pela terra, seguem no presente, ajudando a construir o futuro!"
+support_line: "Na luta desde cedo: em meio a encontros e elementos do cotidiano, os filhos e filhas da lona preta, seguem ajudando a construir o futuro!"
 images_hd: //farm8.staticflickr.com/7898/47169546011_86579b472e_b.jpg
 menu: "educação, cultura e comunicação"
 layout: post
@@ -36,6 +36,8 @@ published: true
 releated_posts:
   - _posts/2018/07/2018-07-11-feira-regional-e-arrecadacao-de-livros-sao-atividades-do-mst-no-estado-do-rio.md
   - _posts/2018/07/2018-07-20-lancamento-da-campanha-contra-o-fechamento-de-escolas-do-campo.md
+section: featured-news
+label: special-stories
 
 ---
 <div style="text-align:center">
