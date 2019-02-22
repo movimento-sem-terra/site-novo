@@ -42,13 +42,14 @@ label: special-stories
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="2017 encontro preparatorio ao sem terrinha nacional - acampamento marcelino chiarello em faxinal dos guedes-sc - por julliana adriano (2) (800x533).jpg" height="466" src="//farm8.staticflickr.com/7810/46255471675_f71ba1ff7a_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption>Foto:&nbsp;Juliana Adriano</figcaption>
 </figure>
 </div>
 
 <p>&nbsp;</p>
 
-<p><em>Texto e imagens Juliana Adriano, de Florian&oacute;polis (SC), Reportagem especial *</em></p>
+<p><em>Por Juliana Adriano<br />
+Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
@@ -117,8 +118,8 @@ Outro elemento da dimens&atilde;o pol&iacute;tica &eacute; o momento de negocia&
 <p>&nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="criancada na feira de saberes- feira de saberes da escola paulo freire - abelardo luz - sc - 23ago2013 - por juliana adriano.jpg" height="333" src="//farm8.staticflickr.com/7830/47169564331_55b3cec838_b.jpg" width="500" />
-<figcaption></figcaption>
+<figure class="image" style="display:inline-block"><img alt="criancada na feira de saberes- feira de saberes da escola paulo freire - abelardo luz - sc - 23ago2013 - por juliana adriano.jpg" height="467" src="//farm8.staticflickr.com/7830/47169564331_55b3cec838_b.jpg" width="700" />
+<figcaption>Foto:&nbsp;Juliana Adriano</figcaption>
 </figure>
 </div>
 
