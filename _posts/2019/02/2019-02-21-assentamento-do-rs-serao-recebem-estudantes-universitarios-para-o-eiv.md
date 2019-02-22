@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: formação
   - tag: reforma-agrária
-title: "Assentamento do RS serão recebem estudantes universitários para o EIV  "
+title: "Assentamento do RS  recebem estudantes universitários para o EIV  "
 support_line: "A proposta desse estágio é proporcionar aos estudantes universitários contato direto com assentados e agricultores familiares organizados, para vivenciar na prática seus problemas, suas formas de organização e os desafios"
 menu: "educação, cultura e comunicação"
 images_hd: //farm8.staticflickr.com/7855/32227406937_a3fbe0c3f7_b.jpg
