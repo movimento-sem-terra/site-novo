@@ -4,7 +4,7 @@ tags:
   - tag: sem-terrinha
   - tag: lutas-e-mobilizações
   - tag: reforma-agrária
-title: "Ato em solidariedade ao MST é realizado na Câmara de São Paulo "
+title: "Ato em solidariedade ao MST é realizado na Câmara Municipal de São Paulo "
 support_line: "A atividade, realizada pelo gabinete da vereadora, Juliana Cardoso (PT) aconteceu em resposta aos ataques sofridos pelo MST durante matéria veiculada pela Rede Record de Televisão\n\n"
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7840/33307321288_7cef10bc48_b.jpg
@@ -71,7 +71,7 @@ A atividade, realizada pelo gabinete da vereadora, Juliana Cardoso (PT) acontece
 &ldquo;Devemos abrir essa casa em solidariedade ao MST e a educa&ccedil;&atilde;o popular. O MST que prega e luta por uma educa&ccedil;&atilde;o emancipadora, que faz com que as pessoas tenham consci&ecirc;ncia de sua pr&oacute;pria realidade. Num contexto de graves amea&ccedil;as &agrave; democracia no pa&iacute;s, com uma ofensiva conservadora de grupos autorit&aacute;rios, n&oacute;s temos que lutar contra opress&atilde;o e zelar pelas lutas sociais dos trabalhadores do campo e da cidade&rdquo;, afirmou a Cardoso.</p>
 
 <p><br />
-J&aacute; Gilmar Mauro da coordena&ccedil;&atilde;o nacional do MST, falou sobre a postura do povo Sem Terra frente as amea&ccedil;as sofridas por parte do atual governo e da m&iacute;dia.</p>
+J&aacute; Gilmar Mauro da coordena&ccedil;&atilde;o nacional do MST, falou sobre a postura do povo Sem Terra frente &agrave;s amea&ccedil;as sofridas por parte do atual governo e da m&iacute;dia.</p>
 
 <p><br />
 &ldquo;N&atilde;o foi o MST que produziu o Sem Terra, foram as desigualdades do mundo que fizeram com que o MST nascesse. Se quiserem acabar com o Movimento n&atilde;o precisa amea&ccedil;ar, basta fazer a Reforma Agr&aacute;ria Popular. A &uacute;nica coisa que temos de concreto para o campo, s&atilde;o algumas pol&iacute;ticas p&uacute;blicas que foram conseguidas atrav&eacute;s de muita luta e de muito suor de camponeses e camponesas&rdquo;.</p>
@@ -79,7 +79,7 @@ J&aacute; Gilmar Mauro da coordena&ccedil;&atilde;o nacional do MST, falou sobre
 <p style="text-align:center"><img alt="52550272_1064940816963128_6343497672049033216_n.jpg" height="467" src="//farm8.staticflickr.com/7927/46268312285_3cf24b3d24_b.jpg" width="700" /></p>
 
 <p><br />
-Na mesma linha, o promotor de Justi&ccedil;a da Inf&acirc;ncia e Juventude Eduardo Dias, do Minist&eacute;rio P&uacute;blico de S&atilde;o Paulo (MP-SP), atrelou o aumento da persegui&ccedil;&atilde;o ao MST com a onda conservadora e intoler&acirc;ncia que ganharam for&ccedil;a com a elei&ccedil;&atilde;o de Bolsonaro.</p>
+Na mesma linha, o promotor de Justi&ccedil;a da Inf&acirc;ncia e Juventude Eduardo Dias, do Minist&eacute;rio P&uacute;blico de S&atilde;o Paulo (MP-SP), atrelou o aumento da persegui&ccedil;&atilde;o ao MST com a onda conservadora e com a intoler&acirc;ncia que ganharam for&ccedil;a com a elei&ccedil;&atilde;o de Bolsonaro.</p>
 
 <p><br />
 &nbsp;&quot;Nesse momento em que estamos, em que est&atilde;o querendo &lsquo;decapitar&rsquo; Paulo Freire como patrono da educa&ccedil;&atilde;o, uma educa&ccedil;&atilde;o popular, com base na pedagogia do oprimido deve incomodar muito&rdquo;, reiterou.</p>
