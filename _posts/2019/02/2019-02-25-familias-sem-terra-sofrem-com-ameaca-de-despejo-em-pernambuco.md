@@ -36,7 +36,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>&Eacute; com&nbsp;preocupa&ccedil;&atilde;o que a dire&ccedil;&atilde;o do MST vem a p&uacute;blico denunciar o despejo de 450 fam&iacute;lias,&nbsp;do campamento localizado na usina Maravilha, munic&iacute;pio de Goiana, Mata Norte de Pernambuco.</p>
+<p>&Eacute; com&nbsp;preocupa&ccedil;&atilde;o que a dire&ccedil;&atilde;o do MST vem a p&uacute;blico denunciar o despejo de 450 fam&iacute;lias,&nbsp;do acampamento localizado na usina Maravilha, munic&iacute;pio de Goiana, Mata Norte de Pernambuco.</p>
 
 <p><br />
 Durante a semana os acampados foram&nbsp;surpreendidos com uma autoriza&ccedil;&atilde;o de despejo marcada para essa&nbsp;ter&ccedil;a-feira (26). O despejo, autorizado pelo juiz da comarca de Goiana, deve ser&nbsp;realizado com aux&iacute;lio da Pol&iacute;cia Militar do Estado.&nbsp;</p>
