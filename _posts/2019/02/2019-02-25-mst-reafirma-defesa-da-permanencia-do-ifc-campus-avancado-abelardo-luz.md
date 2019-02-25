@@ -31,37 +31,27 @@ releated_posts:
 
 <div>&nbsp;</div>
 
-<div>&nbsp;</div>
+<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
-<div><em><strong>Da P&aacute;gina do MST&nbsp;</strong></em></div>
+<p>&nbsp;</p>
 
-<div>&nbsp;</div>
+<p>Est&aacute; marcado para essa&nbsp;ter&ccedil;a-feira&nbsp;(26) uma audi&ecirc;ncia&nbsp;de concilia&ccedil;&atilde;o entre&nbsp;Instituto Federal Catarinense (IFC), o&nbsp;Minist&eacute;rio da Educa&ccedil;&atilde;o e prefeitura de Abelardo Luz. A audi&ecirc;ncia foi sugerida pelo Minist&eacute;rio P&uacute;blico Federal e convocada pelo Justi&ccedil;a Federal.</p>
 
-<div>&nbsp;</div>
+<p>&nbsp;</p>
 
-<div>&nbsp;</div>
+<p>Esse &eacute;&nbsp;mais um epis&oacute;dio que poder&aacute; levar a retirada campus do IFC, que hoje funciona no assentamento Jos&eacute; Maria, em Abelardo Luz/SC.</p>
 
-<div>Est&aacute; marcado para essa&nbsp;ter&ccedil;a-feira&nbsp;(26) uma audi&ecirc;ncia&nbsp;de concilia&ccedil;&atilde;o entre&nbsp;Instituto Federal Catarinense (IFC), o&nbsp;Minist&eacute;rio da Educa&ccedil;&atilde;o e prefeitura de Abelardo Luz. A audi&ecirc;ncia foi sugerida pelo Minist&eacute;rio P&uacute;blico Federal e convocada pelo Justi&ccedil;a Federal.</div>
+<p><br />
+Desde 2016, Instituto vem sofrendo com uma grave ofensiva jur&iacute;dica e pol&iacute;tica. Em 2017 o Minist&eacute;rio P&uacute;blico (MPF) e Pol&iacute;cia Federal, por meio de medida cautelar, afastaram dos coordenadores do campus e decretaram a quebra do sigilo telem&aacute;tica de funcion&aacute;rios e da reitoria.</p>
 
-<div>&nbsp;</div>
+<p><br />
+Nesse sentido, &eacute; importante o apoio de todos os cidad&atilde;os e organiza&ccedil;&otilde;es tanto no processo de&nbsp;divulga&ccedil;&atilde;o&nbsp;quanto na&nbsp;constru&ccedil;&atilde;o de cartas e v&iacute;deos de apoio &agrave; perman&ecirc;ncia do IFC/Abelardo Luz no campo.&nbsp;Os apoios podem ser enviados para o email:&nbsp;<a href="mailto:flordocampoeduca@gmail.com" target="_blank">flordocampoeduca@gmail.com</a>.&nbsp;</p>
 
-<div>&nbsp;</div>
+<p>&nbsp;</p>
 
-<div>Esse &eacute;&nbsp;mais um epis&oacute;dio que poder&aacute; levar a retirada campus do IFC, que hoje funciona no assentamento Jos&eacute; Maria, em Abelardo Luz/SC.<br />
-&nbsp;</div>
+<p>Abaixo confira a posi&ccedil;&atilde;o oficial do MST acerca da situa&ccedil;&atilde;o:</p>
 
-<div><br />
-Desde 2016, Instituto vem sofrendo com uma grave ofensiva jur&iacute;dica e pol&iacute;tica. Em 2017 o Minist&eacute;rio P&uacute;blico (MPF) e Pol&iacute;cia Federal, por meio de medida cautelar, afastaram dos coordenadores do campus e decretaram a quebra do sigilo telem&aacute;tica de funcion&aacute;rios e da reitoria.</div>
-
-<div><br />
-<br />
-Nesse sentido, &eacute; importante o apoio de todos os cidad&atilde;os e organiza&ccedil;&otilde;es tanto no processo de&nbsp;divulga&ccedil;&atilde;o&nbsp;quanto na&nbsp;constru&ccedil;&atilde;o de cartas e v&iacute;deos de apoio &agrave; perman&ecirc;ncia do IFC/Abelardo Luz no campo.&nbsp;Os apoios podem ser enviados para o email&nbsp;<a href="mailto:flordocampoeduca@gmail.com" target="_blank">flordocampoeduca@gmail.com</a>.&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div>Abaixo confira a posi&ccedil;&atilde;o oficial do MST acerca da situa&ccedil;&atilde;o:</div>
-
-<div>&nbsp;</div>
+<p>&nbsp;</p>
 
 <div>
 <p style="text-align: center;"><strong>CARTA EM DEFESA DO IFC/ABELARDO LUZ PERMANECER NO CAMPO</strong></p>
@@ -101,7 +91,7 @@ NENHUMA ESCOLA A MENOS: CAMPUS ABELARDO LUZ (IFC) FICA!</p>
 
 <p style="text-align: right;">Chapec&oacute;, 22 de fevereiro de 2019<br />
 Movimento dos Trabalhadores e Trabalhadoras Rurais Sem Terra</p>
-&nbsp;</div>
+</div>
 
 <div style="text-align: right;">&nbsp;</div>
 
