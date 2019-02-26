@@ -68,30 +68,24 @@ Da P&aacute;gina do MST&nbsp;&nbsp;</em></div>
 
 <div>&nbsp;</div>
 
-<div>&nbsp;</div>
+<p>&nbsp;</p>
 
-<div>No &uacute;ltimo s&aacute;bado (23)&nbsp;mulheres que integram a <a href="https://www.facebook.com/rededemulheresnegrasdeminasgerais/">Rede de Mulheres Negras de Minas Gerais</a>, realizaram a primeira plen&aacute;ria organizativa de&nbsp;2019.</div>
+<p>No &uacute;ltimo s&aacute;bado (23)&nbsp;mulheres que integram a <a href="https://www.facebook.com/rededemulheresnegrasdeminasgerais/">Rede de Mulheres Negras de Minas Gerais</a>, realizaram a primeira plen&aacute;ria organizativa de&nbsp;2019.</p>
 
-<div><br />
-<br />
-O objetivo do espa&ccedil;o foi retomar o processo iniciado em 2014, na ocasi&atilde;o da Marcha das Mulheres Negras em Bras&iacute;lia, essa movimenta&ccedil;&atilde;o avan&ccedil;ou e, posteriormente, culminou com&nbsp;o Encontro Nacional das Mulheres Negras, que aconteceu&nbsp;em Goi&acirc;nia, em dezembro de 2018.&nbsp;</div>
+<p><br />
+O objetivo do espa&ccedil;o foi retomar o processo iniciado em 2014, na ocasi&atilde;o da Marcha das Mulheres Negras em Bras&iacute;lia, essa movimenta&ccedil;&atilde;o avan&ccedil;ou e, posteriormente, culminou com&nbsp;o Encontro Nacional das Mulheres Negras, que aconteceu&nbsp;em Goi&acirc;nia, em dezembro de 2018.&nbsp;</p>
 
-<div><br />
-<br />
-Para Andreia Roseno, da Rede de Mulheres Negras de MG, &eacute; preciso mudar a l&oacute;gica sobre a qual a hist&oacute;ria nos foi contada e entender como o sistema colonial agiu para nos dividir desde a di&aacute;spora at&eacute; os dias atuais. Dessa forma, entender a atua&ccedil;&atilde;o das mulheres negras e como ela se coloca nesse cen&aacute;rio de constru&ccedil;&atilde;o de unidade e resist&ecirc;ncia contra o opressor, &eacute; fundamental.&nbsp;</div>
+<p><br />
+Para Andreia Roseno, da Rede de Mulheres Negras de MG, &eacute; preciso mudar a l&oacute;gica sobre a qual a hist&oacute;ria nos foi contada e entender como o sistema colonial agiu para nos dividir desde a di&aacute;spora at&eacute; os dias atuais. Dessa forma, entender a atua&ccedil;&atilde;o das mulheres negras e como ela se coloca nesse cen&aacute;rio de constru&ccedil;&atilde;o de unidade e resist&ecirc;ncia contra o opressor, &eacute; fundamental.&nbsp;</p>
 
-<div><br />
-<br />
-&quot;O acesso ao conhecimento, a educa&ccedil;&atilde;o para estar/disputar esse mundo burgu&ecirc;s foi colocado de forma enf&aacute;tica durante nosso encontro nacional.&nbsp;30 anos depois, qual &eacute; a estrategia de continua&ccedil;&atilde;o? Voltar para o conhecimento burgu&ecirc;s ou j&aacute; temos base para implantar de alguma forma a cosmovis&atilde;o ancestral africana?&quot;, questiona Roseno, ao falar desses processos.</div>
+<p><br />
+&quot;O acesso ao conhecimento, a educa&ccedil;&atilde;o para estar/disputar esse mundo burgu&ecirc;s foi colocado de forma enf&aacute;tica durante nosso encontro nacional.&nbsp;30 anos depois, qual &eacute; a estrategia de continua&ccedil;&atilde;o? Voltar para o conhecimento burgu&ecirc;s ou j&aacute; temos base para implantar de alguma forma a cosmovis&atilde;o ancestral africana?&quot;, questiona Roseno, ao falar desses processos.</p>
 
-<div>&nbsp;</div>
+<p><br />
+A resist&ecirc;ncia, &eacute; um dos apontamentos colocados para reflex&atilde;o ao discutir os desafios de nosso tempo. Esse tempo que opera para aprofundar as opress&otilde;es e o genoc&iacute;dio da popula&ccedil;&atilde;o negra.</p>
 
-<div><br />
-A resist&ecirc;ncia, &eacute; um dos apontamentos colocados para reflex&atilde;o ao discutir os desafios de nosso tempo. Esse tempo que opera para aprofundar as opress&otilde;es e o genoc&iacute;dio da popula&ccedil;&atilde;o negra.</div>
-
-<div><br />
-<br />
-Nesse sentido, ainda para Roseno, &quot;precisamos construir mecanismo de enfrentamento, de resist&ecirc;ncia para sobreviv&ecirc;ncias coletivas. &Eacute;&nbsp;fundamental dialogar com as nossas refer&ecirc;ncias comunit&aacute;rias negra.&nbsp;Precisamos romper com a base do pensamento euroc&ecirc;ntrico, com o silenciamento&nbsp; e a invisibilidade da nossa exist&ecirc;ncia&quot;, afirma.&nbsp;</div>
+<p><br />
+Nesse sentido, ainda para Roseno, &quot;precisamos construir mecanismo de enfrentamento, de resist&ecirc;ncia para sobreviv&ecirc;ncias coletivas. &Eacute;&nbsp;fundamental dialogar com as nossas refer&ecirc;ncias comunit&aacute;rias negra.&nbsp;Precisamos romper com a base do pensamento euroc&ecirc;ntrico, com o silenciamento&nbsp; e a invisibilidade da nossa exist&ecirc;ncia&quot;, afirma.&nbsp;</p>
 
 <div>
 <div style="text-align:center">
@@ -99,43 +93,35 @@ Nesse sentido, ainda para Roseno, &quot;precisamos construir mecanismo de enfren
 <figcaption>Fotos Iris Pacheco</figcaption>
 </figure>
 </div>
+
+<p><br />
 <br />
-<br />
-J&aacute; a deputada federal, &Aacute;urea Carolina, abordou o processo de flexibiliza&ccedil;&atilde;o ambiental e da minera&ccedil;&atilde;o secular em nosso pa&iacute;s, onde os&nbsp;corpos negros est&atilde;o nos bols&otilde;es dessa explora&ccedil;&atilde;o. A deputada tamb&eacute;m&nbsp;comentou&nbsp;sobre como o conhecimento ancestral africano nos foi usurpado para construir esse modelo violento.&nbsp;</div>
+J&aacute; a deputada federal, &Aacute;urea Carolina, abordou o processo de flexibiliza&ccedil;&atilde;o ambiental e da minera&ccedil;&atilde;o secular em nosso pa&iacute;s, onde os&nbsp;corpos negros est&atilde;o nos bols&otilde;es dessa explora&ccedil;&atilde;o. A deputada tamb&eacute;m&nbsp;comentou&nbsp;sobre como o conhecimento ancestral africano nos foi usurpado para construir esse modelo violento.&nbsp;</p>
 
-<div><br />
-<br />
-&quot;N&oacute;s que estamos nestes espa&ccedil;os temos a tarefa pesada de integrar agendas que s&atilde;o colocadas como fragmentadas, distintas, mas n&atilde;o s&atilde;o&quot;.&nbsp;</div>
+<p><br />
+&quot;N&oacute;s que estamos nestes espa&ccedil;os temos a tarefa pesada de integrar agendas que s&atilde;o colocadas como fragmentadas, distintas, mas n&atilde;o s&atilde;o&quot;.&nbsp;</p>
 
-<div><br />
-<br />
-Enquanto isso, no mesmo debate, a suplente a deputada estadual e ex-secret&aacute;ria de estado da educa&ccedil;&atilde;o, Maca&eacute; Evaristo, ressaltou&nbsp;o desmonte da educa&ccedil;&atilde;o nesse cen&aacute;rio conjuntural.</div>
+<p><br />
+Enquanto isso, no mesmo debate, a suplente a deputada estadual e ex-secret&aacute;ria de estado da educa&ccedil;&atilde;o, Maca&eacute; Evaristo, ressaltou&nbsp;o desmonte da educa&ccedil;&atilde;o nesse cen&aacute;rio conjuntural.</p>
 
-<div>&nbsp;</div>
+<p><br />
+&quot;A educa&ccedil;&atilde;o do povo negro sempre foi muito assustadora para a elite brasileira. N&oacute;s, a popula&ccedil;&atilde;o negra, para a elite branca deste pa&iacute;s n&atilde;o deveria ter se escolarizado&quot;, afirma.&nbsp;&nbsp;</p>
 
-<div><br />
-&quot;A educa&ccedil;&atilde;o do povo negro sempre foi muito assustadora para a elite brasileira. N&oacute;s, a popula&ccedil;&atilde;o negra, para a elite branca deste pa&iacute;s n&atilde;o deveria ter se escolarizado&quot;, afirma.&nbsp;&nbsp;</div>
+<p><br />
+Ainda segundo&nbsp;Maca&eacute;, o desmonte da Secretaria de Educa&ccedil;&atilde;o Continuada, Alfabetiza&ccedil;&atilde;o, Diversidade e Inclus&atilde;o (SECADI/MEC), que era transversal as demais unidades do Minist&eacute;rio de Educa&ccedil;&atilde;o (MEC), &eacute; um dos principais retrocessos quando falamos em garantia de uma&nbsp;educa&ccedil;&atilde;o p&uacute;blica de qualidade.</p>
 
-<div>&nbsp;</div>
+<p><br />
+&quot;Era essa pasta que assegurava o direito a educa&ccedil;&atilde;o do campo, ind&iacute;gena, quilombola, com a dimens&atilde;o de territ&oacute;rio em sua diversidade com um debate de inclus&atilde;o por interm&eacute;dio do processo popular e emancipat&oacute;rio da educa&ccedil;&atilde;o para os povos do campo&quot;, afirma.&nbsp;</p>
 
-<div><br />
-Ainda segundo&nbsp;Maca&eacute;, o desmonte da Secretaria de Educa&ccedil;&atilde;o Continuada, Alfabetiza&ccedil;&atilde;o, Diversidade e Inclus&atilde;o (SECADI/MEC), que era transversal as demais unidades do Minist&eacute;rio de Educa&ccedil;&atilde;o (MEC), &eacute; um dos principais retrocessos quando falamos em garantia de uma&nbsp;educa&ccedil;&atilde;o p&uacute;blica de qualidade.</div>
+<p><br />
+Maca&iacute; ressalta que o que ocorre &eacute; um processo onde a educa&ccedil;&atilde;o p&uacute;blica &eacute; colocada em detrimento da ampla privatiza&ccedil;&atilde;o do ensino, isso significa tamb&eacute;m&nbsp;um retorno ao ensino domiciliar.&nbsp;</p>
 
-<div>&nbsp;</div>
+<p><br />
+&quot;Esse &eacute;&nbsp;mais um mecanismo de controle dos corpos das mulheres. O&nbsp;debate que deve ser feito, n&atilde;o &eacute; um debate corporativo da educa&ccedil;&atilde;o, &eacute; um debate sobre o direito &aacute; educa&ccedil;&atilde;o p&uacute;blica&quot;, finalizou.&nbsp;</p>
 
-<div>&quot;Era essa pasta que assegurava o direito a educa&ccedil;&atilde;o do campo, ind&iacute;gena, quilombola, com a dimens&atilde;o de territ&oacute;rio em sua diversidade com um debate de inclus&atilde;o por interm&eacute;dio do processo popular e emancipat&oacute;rio da educa&ccedil;&atilde;o para os povos do campo&quot;, afirma.&nbsp;</div>
-
-<div><br />
-<br />
-Maca&iacute; ressalta que o que ocorre &eacute; um processo onde a educa&ccedil;&atilde;o p&uacute;blica &eacute; colocada em detrimento da ampla privatiza&ccedil;&atilde;o do ensino, isso significa tamb&eacute;m&nbsp;um retorno ao ensino domiciliar.&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div>&quot;Esse &eacute;&nbsp;mais um mecanismo de controle dos corpos das mulheres. O&nbsp;debate que deve ser feito, n&atilde;o &eacute; um debate corporativo da educa&ccedil;&atilde;o, &eacute; um debate sobre o direito &aacute; educa&ccedil;&atilde;o p&uacute;blica&quot;, finalizou.&nbsp;</div>
-
-<div><br />
-<br />
-Muitos s&atilde;o os impactos do atual processo em curso no pa&iacute;s.&nbsp;A&nbsp;popula&ccedil;&atilde;o negra est&aacute; no centro dos ataques, das privatiza&ccedil;&otilde;es e dos desmontes. Nesse sentido,&nbsp;discutiu-se muito sobre a perspectiva da resist&ecirc;ncia em territ&oacute;rio, como atuar com a&ccedil;&otilde;es&nbsp;locais, mas que garantam a unidade e di&aacute;logo do processo como rede.&nbsp;</div>
+<p><br />
+Muitos s&atilde;o os impactos do atual processo em curso no pa&iacute;s.&nbsp;A&nbsp;popula&ccedil;&atilde;o negra est&aacute; no centro dos ataques, das privatiza&ccedil;&otilde;es e dos desmontes. Nesse sentido,&nbsp;discutiu-se muito sobre a perspectiva da resist&ecirc;ncia em territ&oacute;rio, como atuar com a&ccedil;&otilde;es&nbsp;locais, mas que garantam a unidade e di&aacute;logo do processo como rede.&nbsp;</p>
+</div>
 
 <div><br />
 &nbsp;</div>
