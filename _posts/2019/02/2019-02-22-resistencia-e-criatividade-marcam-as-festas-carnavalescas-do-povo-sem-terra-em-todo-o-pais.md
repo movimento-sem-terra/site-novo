@@ -5,7 +5,7 @@ tags:
   - tag: cultura-popular
   - tag: carnaval
 title: "Resistência e criatividade marcam as festas carnavalescas do povo Sem Terra em todo o país\n\n"
-support_line: "Dos assentamentos e acampamentos Sem Terra aos povoados e capitais o carnaval trás a irreverência e a luta nos estandartes de 2019\n\n"
+support_line: Dos assentamentos e acampamentos Sem Terra aos povoados e capitais o carnaval trás a irreverência e a luta nos estandartes de 2019
 menu: "educação, cultura e comunicação"
 images_hd: //farm8.staticflickr.com/7855/40213366853_a6beaf5e06_b.jpg
 layout: post
@@ -31,6 +31,7 @@ releated_posts:
   - _posts/2019/01/2019-01-05-a-perigosa-relacao-entre-o-agronegocio-e-a-industria-cultural.md
   - _posts/2019/01/2019-01-29-editora-e-livraria-expressao-popular-completa-20-anos-na-batalha-do-saber.md
   - _posts/2019/01/2019-01-16-setima-arte-e-a-luta-pela-reforma-agraria.md
+section: featured-news
 
 ---
 <p style="text-align:center"><img alt="Carnaval MST 001.jpg" height="467" src="//farm8.staticflickr.com/7855/40213366853_a6beaf5e06_b.jpg" width="700" /></p>
