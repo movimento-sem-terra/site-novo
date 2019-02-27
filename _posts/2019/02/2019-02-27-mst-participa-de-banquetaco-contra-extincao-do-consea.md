@@ -7,7 +7,7 @@ tags:
 title: MST participa de banquetaço contra extinção do Consea
 support_line: "Ao todo, 22 estados do país confirmaram ações no dia de hoje "
 menu: agricultura camponesa
-images_hd: //farm8.staticflickr.com/7850/40263916033_1f599f5eee_b.jpg
+images_hd: //farm8.staticflickr.com/7855/46314633675_d8eaa1c363_b.jpg
 layout: post
 files:
   - link: //farm8.staticflickr.com/7850/40263916033_1f599f5eee_b.jpg
@@ -31,6 +31,20 @@ files:
     small: //farm8.staticflickr.com/7897/47228978541_130355db61_n.jpg
     title: WhatsApp Image 2019-02-27 at 12.08.31.jpeg
     $$hashKey: 05U
+  - link: //farm8.staticflickr.com/7855/46314633675_d8eaa1c363_b.jpg
+    original: //farm8.staticflickr.com/7855/46314633675_60a7066d74_o.jpg
+    thumbnail: //farm8.staticflickr.com/7855/46314633675_d8eaa1c363_t.jpg
+    medium: //farm8.staticflickr.com/7855/46314633675_d8eaa1c363_z.jpg
+    small: //farm8.staticflickr.com/7855/46314633675_d8eaa1c363_n.jpg
+    title: WhatsApp Image 2019-02-27 at 12.26.55.jpeg
+    $$hashKey: 05H
+  - link: //farm8.staticflickr.com/7925/46314633655_5cbcf18ed2_b.jpg
+    original: //farm8.staticflickr.com/7925/46314633655_7a22334eef_o.jpg
+    thumbnail: //farm8.staticflickr.com/7925/46314633655_5cbcf18ed2_t.jpg
+    medium: //farm8.staticflickr.com/7925/46314633655_5cbcf18ed2_z.jpg
+    small: //farm8.staticflickr.com/7925/46314633655_5cbcf18ed2_n.jpg
+    title: WhatsApp Image 2019-02-27 at 12.26.57.jpeg
+    $$hashKey: 05K
 created_date: "2019-02-27T12:24:18-03:00"
 published: true
 releated_posts:
@@ -86,13 +100,7 @@ Em Porto Alegre, o banqueta&ccedil;o acontecer&aacute;&nbsp;na Pra&ccedil;a da M
 
 <p>&nbsp;</p>
 
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-02-27 at 12.08.31.jpeg" height="525" src="//farm8.staticflickr.com/7897/47228978541_130355db61_b.jpg" width="700" />
-<figcaption>Foto Juca Guimar&atilde;es</figcaption>
-</figure>
-</div>
-
-<p>&nbsp;</p>
+<p style="text-align:center"><img alt="WhatsApp Image 2019-02-27 at 12.26.57.jpeg" height="525" src="//farm8.staticflickr.com/7925/46314633655_5cbcf18ed2_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
