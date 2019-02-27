@@ -63,10 +63,9 @@ releated_posts:
 
 <div>&nbsp;</div>
 
-<div><em>Por Iris Pacheco<br />
+<div><br />
+<em>Por Iris Pacheco<br />
 Da P&aacute;gina do MST&nbsp;&nbsp;</em></div>
-
-<div>&nbsp;</div>
 
 <p>&nbsp;</p>
 
@@ -79,7 +78,7 @@ O objetivo do espa&ccedil;o foi retomar o processo iniciado em 2014, na ocasi&at
 Para Andreia Roseno, da Rede de Mulheres Negras de MG, &eacute; preciso mudar a l&oacute;gica sobre a qual a hist&oacute;ria nos foi contada e entender como o sistema colonial agiu para nos dividir desde a di&aacute;spora at&eacute; os dias atuais. Dessa forma, entender a atua&ccedil;&atilde;o das mulheres negras e como ela se coloca nesse cen&aacute;rio de constru&ccedil;&atilde;o de unidade e resist&ecirc;ncia contra o opressor, &eacute; fundamental.&nbsp;</p>
 
 <p><br />
-&quot;O acesso ao conhecimento, a educa&ccedil;&atilde;o para estar/disputar esse mundo burgu&ecirc;s foi colocado de forma enf&aacute;tica durante nosso encontro nacional.&nbsp;30 anos depois, qual &eacute; a estrategia de continua&ccedil;&atilde;o? Voltar para o conhecimento burgu&ecirc;s ou j&aacute; temos base para implantar de alguma forma a cosmovis&atilde;o ancestral africana?&quot;, questiona Roseno, ao falar desses processos.</p>
+&quot;O acesso ao conhecimento, a educa&ccedil;&atilde;o para estar/disputar esse mundo burgu&ecirc;s foi colocado de forma enf&aacute;tica durante nosso encontro nacional.&nbsp;30 anos depois, qual &eacute; a estrategia de continua&ccedil;&atilde;o? Voltar para o conhecimento burgu&ecirc;s ou j&aacute; temos base para implantar de alguma forma a cosmovis&atilde;o ancestral africana?&quot;, questiona Roseno.</p>
 
 <p><br />
 A resist&ecirc;ncia, &eacute; um dos apontamentos colocados para reflex&atilde;o ao discutir os desafios de nosso tempo. Esse tempo que opera para aprofundar as opress&otilde;es e o genoc&iacute;dio da popula&ccedil;&atilde;o negra.</p>
@@ -95,7 +94,6 @@ Nesse sentido, ainda para Roseno, &quot;precisamos construir mecanismo de enfren
 </div>
 
 <p><br />
-<br />
 J&aacute; a deputada federal, &Aacute;urea Carolina, abordou o processo de flexibiliza&ccedil;&atilde;o ambiental e da minera&ccedil;&atilde;o secular em nosso pa&iacute;s, onde os&nbsp;corpos negros est&atilde;o nos bols&otilde;es dessa explora&ccedil;&atilde;o. A deputada tamb&eacute;m&nbsp;comentou&nbsp;sobre como o conhecimento ancestral africano nos foi usurpado para construir esse modelo violento.&nbsp;</p>
 
 <p><br />
@@ -124,30 +122,8 @@ Muitos s&atilde;o os impactos do atual processo em curso no pa&iacute;s.&nbsp;A&
 </div>
 
 <div><br />
-&nbsp;</div>
-</div>
-
-<div class="m_-3435861800340005626gmail_signature" data-smartmail="gmail_signature" dir="ltr">
-<div dir="ltr">
-<div dir="ltr">
-<div dir="ltr">
-<div dir="ltr">
-<div dir="ltr">
-<div dir="ltr">
-<div dir="ltr">&nbsp;</div>
+As propostas socializadas e afirmadas perpassam desde a luta pela liberdade religiosa, que se volta para o julgamento do STF sobre legalidade de sacrif&iacute;cios de animais em ritos religiosos, que entra novamente em pauta agora em mar&ccedil;o. E v&atilde;o at&eacute; o carnaval da resist&ecirc;ncia, onde em Belo Horizonte temos a Escola de Samba Raio de Sol homenageando Diva Moreira, mulher negra, cientista pol&iacute;tica e com uma trajet&oacute;ria de vida dedicada a transforma&ccedil;&atilde;o e igualdade social.&nbsp;</div>
 </div>
 </div>
 </div>
 </div>
-</div>
-</div>
-</div>
-</div>
-
-<div class="yj6qo">&nbsp;</div>
-
-<div class="adL">&nbsp;</div>
-</div>
-</div>
-
-<div class="hq gt" id=":o9" style="margin: 15px 0px; clear: both; font-size: 12.8px; color: rgb(34, 34, 34); font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;">&nbsp;</div>
