@@ -56,6 +56,7 @@ releated_posts:
   - _posts/2018/12/2018-12-27-produtos-organicos-podem-ser-pedidos-pelo-whatsapp-em-sao-paulo.md
   - _posts/2019/01/2019-01-15-primeiro-curso-de-especializacao-em-educacao-e-agroecologia-acontece-no-extremo-sul-da-bahia.md
   - _posts/2019/01/2019-01-23-o-semiarido-nos-desafios-para-o-desenvolvimento-agrario-em-pernambuco.md
+section: cover
 
 ---
 <div style="text-align:center">
