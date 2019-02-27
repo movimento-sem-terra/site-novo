@@ -36,7 +36,7 @@ published: true
 releated_posts:
   - _posts/2018/07/2018-07-11-feira-regional-e-arrecadacao-de-livros-sao-atividades-do-mst-no-estado-do-rio.md
   - _posts/2018/07/2018-07-20-lancamento-da-campanha-contra-o-fechamento-de-escolas-do-campo.md
-section: cover
+section: featured-news
 label: special-stories
 
 ---
