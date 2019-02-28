@@ -4,8 +4,8 @@ tags:
   - tag: lutas
   - tag: acampamento
   - tag: despejo
-title: Famílias Sem Terra lutam  pela construção de Unidade Pedagógica em Macaé
-support_line: "As famílias foram pegas de surpresa, uma vez que o prefeito sempre mostrou-se aberto ao diálogo e ao projeto realizado noa campamento\n\n"
+title: Sem Terra lutam pela construção de Unidade Pedagógica em Macaé
+support_line: "Após aprovação do projeto, as famílias foram pegas de surpresa com pedido de reintegração de posse da área \n\n"
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7830/46509565404_aa00a0e5e4_b.jpg
 layout: post
