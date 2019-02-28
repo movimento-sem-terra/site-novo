@@ -82,6 +82,12 @@ O conselho era composto por dois ter&ccedil;os de representantes da sociedade ci
 <p><br />
 A medida do governo Bolsonaro est&aacute; sendo&nbsp;duramente criticada por diversas organiza&ccedil;&otilde;es pol&iacute;ticas e sociais. At&eacute; o momento,&nbsp;541 emendas foram protocoladas por deputados federais e senadores. Peti&ccedil;&otilde;es e atividades de forma&ccedil;&atilde;o tamb&eacute;m est&atilde;o sendo organizadas.&nbsp;</p>
 
+<p><br />
+Segundo&nbsp;Carla Bueno, da Campanha Permanente Contra os Agrot&oacute;xicos e pela Vida, a defesa do Consea vai al&eacute;m da defesa de um simples conselho.</p>
+
+<p><br />
+&quot;N&oacute;s defendemos a pol&iacute;toca nacional de seguran&ccedil;a alimentar que temos no Brasil desde a d&eacute;cada de 90. Com o golpe n&oacute;s retrocedemos at&eacute; nesse tema, logo, a fome voltou a ser uma amea&ccedil;a no pa&iacute;s. Diante disso, entendemos que sem uma pol&iacute;tica de seguran&ccedil;a alimentar - que na verdade &eacute; bem abaixo dos que os movimentos populares exigem, pois lutamos pela soberania alimentar - n&atilde;o conseguiremos sequer pautar o assunto. O direito universal de acesso ao alimento j&aacute; est&aacute; sendo e deve ser cada vez mais restrito, por isso, toda essa mobiliza&ccedil;&atilde;o &eacute; t&atilde;o importante. Sa&iacute;mos do mapa da fome durante o governo Lula e n&atilde;o podemos retroceder ao ponto de ver a popula&ccedil;&atilde;o passando fome novamente&quot;, afirmou.</p>
+
 <p style="text-align:center"><img alt="WhatsApp Image 2019-02-27 at 11.25.27.jpeg" height="394" src="//farm8.staticflickr.com/7869/46314482755_c63733915f_b.jpg" width="700" /></p>
 
 <p><br />
