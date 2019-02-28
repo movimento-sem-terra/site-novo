@@ -137,7 +137,7 @@ O carnaval tamb&eacute;m &eacute; parte da cultura negra e funciona como instrum
 <strong>Lula Livre:&nbsp;</strong></p>
 
 <p><br />
-Diversos blocos homenagearam o ex-presidente Luiz In&aacute;cio Lula da Silva que segue arbitrariamente preso&nbsp;h&aacute; quase um ano. Al&eacute;m disso, foi montado e disponibilizado para impress&atilde;o, um kit oficial &quot;Lula Livre&quot; completo,&nbsp;com marchinhas, adesivos, m&aacute;scara e tatuagem. Para baixar o kit completo, clique <a href="https://pt.org.br/baixe-aqui-os-materiais-da-campanha-lula-livre-para-o-carnaval/">aqui</a>.&nbsp;&nbsp;&nbsp;</p>
+Diversos blocos homenagearam o ex-presidente Luiz In&aacute;cio Lula da Silva que segue arbitrariamente preso&nbsp;h&aacute; quase um ano. Al&eacute;m disso, foi montado e disponibilizado para impress&atilde;o, um kit oficial &quot;Lula Livre&quot; completo,&nbsp;com marchinhas, adesivos, m&aacute;scara e tatuagem. Para baixar o kit completo, clique <a href="https://www.bit.ly/KitCarnavalLULALIVRE">aqui</a>.&nbsp;&nbsp;&nbsp;</p>
 
 <p><br />
 <strong>Em terras nordestinas:</strong><br />
