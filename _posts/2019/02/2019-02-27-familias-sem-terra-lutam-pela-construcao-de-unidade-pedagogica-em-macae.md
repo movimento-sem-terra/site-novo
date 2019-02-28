@@ -17,6 +17,20 @@ files:
     small: //farm8.staticflickr.com/7830/46509565404_aa00a0e5e4_n.jpg
     title: AtoPrefeitura Macae 26-2_Pablo Vergara008.jpg
     $$hashKey: 0CO
+  - link: //farm8.staticflickr.com/7917/46514338104_96d6b91790_b.jpg
+    original: //farm8.staticflickr.com/7917/46514338104_79fc06a4f3_o.jpg
+    thumbnail: //farm8.staticflickr.com/7917/46514338104_96d6b91790_t.jpg
+    medium: //farm8.staticflickr.com/7917/46514338104_96d6b91790_z.jpg
+    small: //farm8.staticflickr.com/7917/46514338104_96d6b91790_n.jpg
+    title: AtoPrefeitura Macae 26-2_Pablo Vergara001.jpg
+    $$hashKey: 0DH
+  - link: //farm8.staticflickr.com/7880/33362255758_0876d79e19_b.jpg
+    original: //farm8.staticflickr.com/7880/33362255758_47917cdbf0_o.jpg
+    thumbnail: //farm8.staticflickr.com/7880/33362255758_0876d79e19_t.jpg
+    medium: //farm8.staticflickr.com/7880/33362255758_0876d79e19_z.jpg
+    small: //farm8.staticflickr.com/7880/33362255758_0876d79e19_n.jpg
+    title: AtoPrefeitura Macae 26-2_Pablo Vergara003.jpg
+    $$hashKey: 0DK
 created_date: "2019-02-27T21:48:57-03:00"
 published: true
 releated_posts:
@@ -30,16 +44,16 @@ releated_posts:
   - _posts/2018/08/2018-08-04-o-acampamento-nacional-tem-o-objetivo-de-inserir-a-juventude-sem-terra-na-luta-politica-da-classe-trabalhadora-destaca-dirigente-do-mst.md
 
 ---
+<div>&nbsp;</div>
+
 <div>
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="AtoPrefeitura Macae 26-2_Pablo Vergara008.jpg" data-image-whitelisted="" height="467" src="https://mail.google.com/mail/u/0?ui=2&amp;ik=a6302a855e&amp;attid=0.2&amp;permmsgid=msg-f:1626647440052101138&amp;th=1693033a771aa012&amp;view=fimg&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ8ynu_G_w0_2Ew6bzA0tWvPWZYcb16LOnqhI5mbOiN_flqjdY6YOIdoRMFfFKi8JSS5221VebRRKjfvcHaX1So09cEYcDpkRqgfLA3PfLwzf8JKDFX96G4ul4Q&amp;disp=emb&amp;realattid=ii_jsnim3xm4" tabindex="0" width="700" />
-<figcaption>Fam&iacute;lias acampadas reunidas no Pr&eacute;dio da Prefeitura de Maca&eacute;<br />
+<figure class="image" style="display:inline-block"><img alt="AtoPrefeitura Macae 26-2_Pablo Vergara001.jpg" height="467" src="//farm8.staticflickr.com/7917/46514338104_96d6b91790_b.jpg" width="700" />
+<figcaption>Doa&ccedil;&otilde;es de produ&ccedil;&atilde;o agroecol&oacute;gica na fachada da prefeitura de Maca&eacute;.<br />
 &nbsp;Foto: Pablo Vergara&nbsp;</figcaption>
 </figure>
 </div>
 </div>
-
-<div>&nbsp;</div>
 
 <div>&nbsp;</div>
 
@@ -83,16 +97,16 @@ O argumento utilizado foi o de que a &aacute;rea foi obtida por desapropria&cced
 
 <p>&nbsp;</p>
 
+<div>&nbsp;</div>
+
 <div>
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="AtoPrefeitura Macae 26-2_Pablo Vergara003.jpg" data-image-whitelisted="" height="467" src="https://mail.google.com/mail/u/0?ui=2&amp;ik=a6302a855e&amp;attid=0.3&amp;permmsgid=msg-f:1626647440052101138&amp;th=1693033a771aa012&amp;view=fimg&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ8kdzjy1UXGb72NNfqOZKgxjglcy8947XZirpBzoIR90ZWedhJEvNcgUMtJo6rbKKxXjWKO18nXd9N4IPZl46yeoWYbzb4rxWkx2gYE8eoZr3c23-m42P3WzXI&amp;disp=emb&amp;realattid=ii_jsnithxt5" tabindex="0" width="700" />
+<figure class="image" style="display:inline-block"><img alt="AtoPrefeitura Macae 26-2_Pablo Vergara003.jpg" height="467" src="//farm8.staticflickr.com/7880/33362255758_0876d79e19_b.jpg" width="700" />
 <figcaption>Reuni&atilde;o com o prefeito&nbsp;da cidade<br />
 Foto: Pablo Vergara&nbsp;</figcaption>
 </figure>
 </div>
 </div>
-
-<div>&nbsp;</div>
 
 <p><strong>Fun&ccedil;&atilde;o social da Terra</strong></p>
 
@@ -105,14 +119,7 @@ Diante disso, foi solicitado&nbsp;&agrave; justi&ccedil;a&nbsp;a reconsidera&cce
 <p><br />
 Diante da justificativa, a justi&ccedil;a&nbsp;aceitou&nbsp;a pondera&ccedil;&atilde;o das fam&iacute;lias e suspendeu a a&ccedil;&atilde;o por 15 dias para que a prefeitura apresente propostas de negocia&ccedil;&atilde;o.</p>
 
-<div>
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="AtoPrefeitura Macae 26-2_Pablo Vergara001.jpg" data-image-whitelisted="" height="467" src="https://mail.google.com/mail/u/0?ui=2&amp;ik=a6302a855e&amp;attid=0.1&amp;permmsgid=msg-f:1626647440052101138&amp;th=1693033a771aa012&amp;view=fimg&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ_djLLlS7HlqAYJlknNVVfN6Dn958-2GobGBymhuw8yjBXNiiEall4ozp0QSNUYP3ABRvI0CGIFcMSW1mO-gb-chS6R2xjX-UkQIns1lfGoERO3CIJHGCcE6NM&amp;disp=emb&amp;realattid=ii_jsnif6l41" tabindex="0" width="700" />
-<figcaption>Doa&ccedil;&otilde;es de produ&ccedil;&atilde;o agroecol&oacute;gica na fachada da prefeitura de Maca&eacute;.<br />
-&nbsp;Foto: Pablo Vergara&nbsp;</figcaption>
-</figure>
-</div>
-</div>
+<div>&nbsp;</div>
 
 <div>&nbsp;</div>
 
