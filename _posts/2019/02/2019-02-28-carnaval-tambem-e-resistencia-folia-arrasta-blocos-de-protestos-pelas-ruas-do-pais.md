@@ -131,18 +131,22 @@ O carnaval tamb&eacute;m &eacute; parte da cultura negra e funciona como instrum
 <strong>Protestos</strong></p>
 
 <p><br />
-<em>Em terras nordestinas</em></p>
-
-<p>Esse ano o tema do bloco &#39;Doido &eacute; Doido&#39;, de Jo&atilde;o Pessoa, na Para&iacute;ba, &eacute;: &ldquo;Doido &eacute; Doido - Apesar de tudo!&rdquo;.</p>
+<strong>Lula Livre:&nbsp;</strong></p>
 
 <p><br />
-O bloco prestou homenagem &agrave;&nbsp;ex-vereadora do Psol e ativista&nbsp;Marielle Franco, assassinada no Rio de Janeiro, em 14 de mar&ccedil;o do ano passado, ao motorista Anderson Gomes&nbsp;e ao&nbsp;artista e integrante do MST, Z&eacute; Guilherme.</p>
+Diversos blocos homenagearam o ex-presidente Luiz In&aacute;cio Lula da Silva que segue arbitrariamente preso&nbsp;h&aacute; quase um ano. Al&eacute;m disso, foi montado e disponibilizado para impress&atilde;o, um kit oficial &quot;Lula Livre&quot; completo,&nbsp;com marchinhas, adesivos, m&aacute;scara e tatuagem. Para baixar o kit completo, clique <a href="https://web.whatsapp.com/">aqui</a>.&nbsp;&nbsp;&nbsp;</p>
+
+<p><br />
+<strong>Em terras nordestinas:</strong><br />
+&nbsp;</p>
+
+<p>Esse ano o tema do bloco &#39;Doido &eacute; Doido&#39;, de Jo&atilde;o Pessoa, na Para&iacute;ba, &eacute;: &ldquo;Doido &eacute; Doido - Apesar de tudo!&rdquo;. O bloco prestou homenagem &agrave;&nbsp;ex-vereadora do Psol e ativista&nbsp;Marielle Franco, assassinada no Rio de Janeiro, em 14 de mar&ccedil;o do ano passado, ao motorista Anderson Gomes&nbsp;e ao&nbsp;artista e integrante do MST, Z&eacute; Guilherme.</p>
 
 <p><br />
 O bloco que sai no carnaval h&aacute; 12 anos &eacute; organizado por amigos e amigas que atuaram e atuam no movimento estudantil.&nbsp;Ara&uacute;jo, integrante do bloco, explica que o nome surgiu a partir da conota&ccedil;&atilde;o negativa dos advers&aacute;rios pol&iacute;ticos, que taxavam os integrantes do movimento estudantil de doidos e doidas. &ldquo;A gente gostou e assumiu a identidade. Pois, de fato, somos todos doidos e doidas por uma sociedade justa, igualit&aacute;ria e feliz&rdquo;.</p>
 
 <p><br />
-<strong>Na terra da garoa</strong></p>
+<strong>Na terra da garoa:</strong></p>
 
 <p><br />
 Em S&atilde;o Paulo, o Arrast&atilde;o dos Blocos, um coletivo pol&iacute;tico-carnavalesco que representa cerca de cem blocos e existe desde 2016, lan&ccedil;ou um manifesto sobre a &ldquo;domestica&ccedil;&atilde;o&rdquo; do carnaval de rua paulistano.</p>
@@ -200,3 +204,9 @@ A jornalista que tamb&eacute;m integra o Samba do Peleja, Mayra Lima, explica qu
 
 <p><br />
 &ldquo;Carregamos a resist&ecirc;ncia&nbsp;no nome, nas nossas express&otilde;es corporais, na m&uacute;sica, na escolha do repert&oacute;rio. Onde sempre &eacute; feita men&ccedil;&atilde;o ao feminismo e ao&nbsp;combate ao racismo... nos tornamos uma refer&ecirc;ncia na cidade, de um bloco politizado que est&aacute; ao lado dos trabalhadores e das pautas humanistas e progressistas&rdquo;, finaliza.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
