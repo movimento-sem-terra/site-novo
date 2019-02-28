@@ -68,7 +68,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Arrastao blocos SP_Foto Sergio Silva.jpg" height="467" src="//farm8.staticflickr.com/7801/47233477611_66ff4a5ed2_b.jpg" width="700" />
-<figcaption>Arrast&atilde;o dos blocos<br />
+<figcaption>Arrast&atilde;o dos blocos em S&atilde;o Paulo<br />
 Foto: Sergio Silva</figcaption>
 </figure>
 </div>
@@ -96,7 +96,8 @@ Para o jornalista e integrante do bloco do &#39;Samba do Peleja&#39;, de&nbsp;Br
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="bloco Samba do Peleja_Foto Bia Barbosa.jpeg" height="525" src="//farm8.staticflickr.com/7924/40268358593_edfd8a0a06_b.jpg" width="700" />
-<figcaption>Legenda</figcaption>
+<figcaption>Bloco Samba do Peleja pelas ruas de Bras&iacute;lia<br />
+Foto: Bia Barbosa</figcaption>
 </figure>
 </div>
 
@@ -104,7 +105,15 @@ Para o jornalista e integrante do bloco do &#39;Samba do Peleja&#39;, de&nbsp;Br
 Em governos repressores a cultura, geralmente &eacute; um dos primeiros elementos que sofre ataques, a exemplo do Brasil, em que Bolsonaro extinguiu o Minist&eacute;rio da Cultura, alegando a necessidade de corte de despesas. Ou seja, o estimulo &agrave; cultura &eacute; somente visto como gasto.</p>
 
 <p><br />
-<img alt="Bloco Doido é Doido_Foto Divulgação.jpeg" src="//farm8.staticflickr.com/7897/47233478371_356b9b3d08_b.jpg" />Urup&aacute; afirma que nos &uacute;ltimos anos v&aacute;rios blocos t&ecirc;m&nbsp;somado junto &agrave;s causas conjunturais do pa&iacute;s.&nbsp;O estudante de teatro e servidor p&uacute;blico, integrante do &#39;Doido &eacute; Doido&#39;, de Jo&atilde;o Pessoa-PB, Marcos de Ara&uacute;jo, considera isso um avan&ccedil;o e tamb&eacute;m chama aten&ccedil;&atilde;o para algumas escolas de sambas que t&ecirc;m atuado na resson&acirc;ncia da luta popular, como &eacute; o caso da Para&iacute;so do Tuiuti do Rio de Janeiro, que no desfile de 2018 denunciou o golpe contra a ex-presidente Dilma Rousseff e os ataques aos direitos trabalhistas.</p>
+&nbsp;</p>
+
+<figure class="image"><img alt="Bloco Doido é Doido_Foto Divulgação.jpeg" src="//farm8.staticflickr.com/7897/47233478371_356b9b3d08_b.jpg" />
+<figcaption>Bloco Doido &eacute; Doido&#39;, Jo&atilde;o Pessoa-PB.<br />
+Foto: Divulga&ccedil;&atilde;o</figcaption>
+</figure>
+
+<p><br />
+Urup&aacute; afirma que nos &uacute;ltimos anos v&aacute;rios blocos t&ecirc;m&nbsp;somado junto &agrave;s causas conjunturais do pa&iacute;s.&nbsp;O estudante de teatro e servidor p&uacute;blico, integrante do &#39;Doido &eacute; Doido&#39;, de Jo&atilde;o Pessoa-PB, Marcos de Ara&uacute;jo, considera isso um avan&ccedil;o e tamb&eacute;m chama aten&ccedil;&atilde;o para algumas escolas de sambas que t&ecirc;m atuado na resson&acirc;ncia da luta popular, como &eacute; o caso da Para&iacute;so do Tuiuti do Rio de Janeiro, que no desfile de 2018 denunciou o golpe contra a ex-presidente Dilma Rousseff e os ataques aos direitos trabalhistas.</p>
 
 <p><br />
 Com o enredo &ldquo;Meu Deus, meu Deus, est&aacute; extinta a escravid&atilde;o!&rdquo;, ano passado a Tuiuti levou para avenida um vampir&atilde;o com faixa presidencial, em refer&ecirc;ncia ao governo ileg&iacute;timo de Michel Temer. Esse ano a previs&atilde;o &eacute; de laranjas na avenida.</p>
@@ -122,7 +131,9 @@ O carnaval tamb&eacute;m &eacute; parte da cultura negra e funciona como instrum
 <strong>Protestos</strong></p>
 
 <p><br />
-Em terras nordestinas: Esse ano o tema do bloco &#39;Doido &eacute; Doido&#39;, de Jo&atilde;o Pessoa, na Para&iacute;ba, &eacute;: &ldquo;Doido &eacute; Doido - Apesar de tudo!&rdquo;.</p>
+<em>Em terras nordestinas</em></p>
+
+<p>Esse ano o tema do bloco &#39;Doido &eacute; Doido&#39;, de Jo&atilde;o Pessoa, na Para&iacute;ba, &eacute;: &ldquo;Doido &eacute; Doido - Apesar de tudo!&rdquo;.</p>
 
 <p><br />
 O bloco prestou homenagem &agrave;&nbsp;ex-vereadora do Psol e ativista&nbsp;Marielle Franco, assassinada no Rio de Janeiro, em 14 de mar&ccedil;o do ano passado, ao motorista Anderson Gomes&nbsp;e ao&nbsp;artista e integrante do MST, Z&eacute; Guilherme.</p>
@@ -130,10 +141,19 @@ O bloco prestou homenagem &agrave;&nbsp;ex-vereadora do Psol e ativista&nbsp;Mar
 <p><br />
 O bloco que sai no carnaval h&aacute; 12 anos &eacute; organizado por amigos e amigas que atuaram e atuam no movimento estudantil.&nbsp;Ara&uacute;jo, integrante do bloco, explica que o nome surgiu a partir da conota&ccedil;&atilde;o negativa dos advers&aacute;rios pol&iacute;ticos, que taxavam os integrantes do movimento estudantil de doidos e doidas. &ldquo;A gente gostou e assumiu a identidade. Pois, de fato, somos todos doidos e doidas por uma sociedade justa, igualit&aacute;ria e feliz&rdquo;.</p>
 
+<p>&nbsp;</p>
+
+<p><em>Na terra da garoa</em></p>
+
+<p>Em S&atilde;o Paulo, o Arrast&atilde;o dos Blocos, um coletivo pol&iacute;tico-carnavalesco que representa cerca de cem blocos e existe desde 2016, lan&ccedil;ou um manifesto sobre a &ldquo;domestica&ccedil;&atilde;o&rdquo; do carnaval de rua paulistano.</p>
+
+<p>O manifesto expressa a indigna&ccedil;&atilde;o dos blocos frente a uma tentativa de domesticar o carnaval de rua na capital de S&atilde;o Paulo. A integrante do bloco Vai Quem Qu&eacute; e membro do coletivo, Lira Alli, afirma que podem inventar leis, proibi&ccedil;&otilde;es e colocar a pol&iacute;cia, mas isso n&atilde;o ir&aacute; impedir a manifesta&ccedil;&atilde;o da cultura popular e o carnaval constru&iacute;do, comunitariamente pelos blocos.</p>
+
+<p>O coletivo surge durante o golpe de 2016, contra o governo Dilma, com a proposta de organizar os grupos de carnaval de rua na defesa da democracia. &ldquo;O Arrast&atilde;o dos Blocos, nasce justamente dessa necessidade que a gente tem das demandas pol&iacute;ticas influenciarem o carnaval&rdquo;, explica Lira.</p>
+
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Bloco samba do Peleja_ Foto Ubirajara Machado.jpeg" height="466" src="//farm8.staticflickr.com/7927/47181293832_2c2083855c_b.jpg" width="700" />
-<figcaption>Bloco Samba do Peleja<br />
-Foto: Bia Barbosa</figcaption>
+<figcaption></figcaption>
 </figure>
 </div>
 
@@ -160,7 +180,7 @@ O bloco Angola Janga desfila pelas ruas no&nbsp;dia 3 de mar&ccedil;o, &agrave;s
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Bloco Angola Janga_Foto Estudio Black's.jpg" height="467" src="//farm8.staticflickr.com/7907/46510031584_b931b2653d_b.jpg" width="700" />
-<figcaption>Bloco Angola Janga</figcaption>
+<figcaption>Bloco Angola Janga, BH.</figcaption>
 </figure>
 </div>
 
