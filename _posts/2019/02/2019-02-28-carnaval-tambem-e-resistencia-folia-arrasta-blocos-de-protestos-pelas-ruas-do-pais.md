@@ -79,7 +79,10 @@ Foto: Sergio Silva</figcaption>
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Se voc&ecirc; acha que carnaval n&atilde;o combina com luta pol&iacute;tica, ativismo social e protestos contra a opress&atilde;o contra a classe trabalhadora, se enganou!&nbsp;Ap&oacute;s o golpe de 2016 contra a democracia, a retirada de direitos, como os trabalhistas e o avan&ccedil;o da repress&atilde;o contra os trabalhadores e movimentos populares&nbsp;no Brasil, o carnaval se transformou em um&nbsp;irreverente e divertido momento de resist&ecirc;ncia, den&uacute;ncia&nbsp;e protesto.</p>
+Se voc&ecirc; acha que carnaval n&atilde;o combina com luta pol&iacute;tica, ativismo social e protestos contra a opress&atilde;o contra a classe trabalhadora, se enganou!&nbsp;</p>
+
+<p><br />
+Ap&oacute;s o golpe de 2016 contra a democracia, a retirada de direitos, como os trabalhistas e o avan&ccedil;o da repress&atilde;o contra os trabalhadores e movimentos populares&nbsp;no Brasil, o carnaval se transformou em um&nbsp;irreverente e divertido momento de resist&ecirc;ncia, den&uacute;ncia&nbsp;e protesto.</p>
 
 <p><br />
 Uma das principais festas da cultura popular brasileira, o carnaval est&aacute; sempre em movimento. Um movimento&nbsp;que se reinventa e se ressignifica&nbsp;mesmo diante&nbsp;da conjuntura pol&iacute;tica do pa&iacute;s.</p>
