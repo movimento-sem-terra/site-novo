@@ -32,7 +32,7 @@ releated_posts:
 <em>Da P&aacute;gina do MST&nbsp;</em><br />
 &nbsp;</p>
 
-<p>Na &uacute;ltima semana pol&iacute;cias sem ordem de busca e apreens&atilde;o invadiram o acampamento do MST localizado em Boa Vista do Tupiniquim, Bahia, e apreenderam dois acampados para averigua&ccedil;&atilde;o, nem causa e/ou justificativa aparente. Diante do ocorrido, o MST denuncia mais esse ato de criminaliza&ccedil;&atilde;o contra o Movimento.&nbsp;</p>
+<p>Na &uacute;ltima semana pol&iacute;cias sem ordem de busca e apreens&atilde;o invadiram o acampamento do MST localizado em Boa Vista do Tupiniquim, Bahia, e apreenderam dois acampados para averigua&ccedil;&atilde;o, sem causa e/ou justificativa aparente. Diante do ocorrido, o MST denuncia mais esse ato de criminaliza&ccedil;&atilde;o contra o Movimento.&nbsp;</p>
 
 <p><br />
 &quot;Fica evidente que esse epis&oacute;dio n&atilde;o passa de mais persegui&ccedil;&atilde;o ao MST. Movimento esse que no munic&iacute;pio de Boa Vista do Tupim conta com cerca de&nbsp;mil&nbsp;fam&iacute;lias beneficiadas pela Reforma Agr&aacute;ria Popular. Atualmente s&atilde;o oito assentamentos na regi&atilde;o&nbsp;que contribuem diretamente&nbsp;com a economia, a cultura, com a eleva&ccedil;&atilde;o da qualidade de vida da popula&ccedil;&atilde;o da regi&atilde;o atrav&eacute;s do cultivo de&nbsp;alimentos saud&aacute;veis&quot;.&nbsp;</p>
