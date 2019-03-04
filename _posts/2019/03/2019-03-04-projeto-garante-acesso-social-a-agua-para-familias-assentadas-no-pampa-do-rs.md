@@ -31,7 +31,6 @@ releated_posts:
   - _posts/2019/02/2019-02-21-assentamento-do-rs-serao-recebem-estudantes-universitarios-para-o-eiv.md
 
 ---
-<blockquote>
 <div data-legacy-message-id="16949c22040143a1" data-message-id="#msg-f:1627097035297604513">
 <div>
 <div>
@@ -58,9 +57,7 @@ Para G&ouml;rgen, cada fam&iacute;lia que passa a contar com uma cisterna instal
 
 <p>&nbsp;</p>
 
-<blockquote>
-<p>Interesse p&uacute;blico garante projeto</p>
-</blockquote>
+<p>&nbsp;</p>
 
 <div id="m_-3147494846032371878gmail-m_8956585778913425054m_-2152548435719661827gmail-attachment_1786">
 <div style="text-align:center">
@@ -75,7 +72,7 @@ Para G&ouml;rgen, cada fam&iacute;lia que passa a contar com uma cisterna instal
 Conforme explicou o prefeito, t&atilde;o importante quanto disponibilizar a estrutura da Cisterna e os equipamentos para acesso e tratamento da &aacute;gua para consumo, s&atilde;o as atividades de forma&ccedil;&atilde;o e informa&ccedil;&atilde;o que os beneficiados recebem. &ldquo;Assim se passa a compreender a respeito da preserva&ccedil;&atilde;o dos recursos h&iacute;dricos, procedimentos adequados para a utiliza&ccedil;&atilde;o da &aacute;gua na propriedade e cuidados necess&aacute;rios para manter a &aacute;gua armazenada na cisterna sempre dentro das melhores condi&ccedil;&otilde;es de qualidade para ser consumida pela fam&iacute;lia toda&rdquo;, completou.</p>
 </div>
 
-<p>Cisternas fomentam transforma&ccedil;&atilde;o social</p>
+<p>&nbsp;</p>
 
 <div id="m_-3147494846032371878gmail-m_8956585778913425054m_-2152548435719661827gmail-attachment_1787">
 <div style="text-align:center">
@@ -90,7 +87,7 @@ Conforme explicou o prefeito, t&atilde;o importante quanto disponibilizar a estr
 O projeto pioneiro est&aacute; em plena execu&ccedil;&atilde;o e teve a primeira etapa conclu&iacute;da h&aacute; cerca de um m&ecirc;s, finalizando o lote de 44 unidades inicialmente previstas. Mais 20 unidades devem estar conclu&iacute;das nos pr&oacute;ximos dias, j&aacute; integrando a segunda etapa da a&ccedil;&atilde;o. A efetividade e viabilidade do processo, que recebeu investimentos do Governo Federal atrav&eacute;s do Minist&eacute;rio da Cidade, j&aacute; est&atilde;o comprovadas. Nesta etapa ficou demonstrada a efic&aacute;cia do processo, otimizando o investimento de recursos p&uacute;blicos ao viabilizar uma infraestrutura de baixo custo e alta efici&ecirc;ncia. Conforme relatou G&ouml;rgen, o sistema j&aacute; poderia ter sido implantado na regi&atilde;o h&aacute; mais tempo, por&eacute;m houve resist&ecirc;ncia e desconfian&ccedil;a de &oacute;rg&atilde;os vinculados ao governo estadual passado, quanto &agrave; adequa&ccedil;&atilde;o da tecnologia que inicialmente foi desenvolvida visando atender as necessidades do povo nordestino.</p>
 </div>
 
-<p>&nbsp;Um &ldquo;reservat&oacute;rio&rdquo; de &aacute;gua, educa&ccedil;&atilde;o e informa&ccedil;&atilde;o</p>
+<p>&nbsp;</p>
 
 <div id="m_-3147494846032371878gmail-m_8956585778913425054m_-2152548435719661827gmail-attachment_1788">
 <div style="text-align:center">
@@ -106,7 +103,7 @@ A t&eacute;cnica do ICPJ Lara Rodrigues da Silveira, que atua junto &agrave;s fa
 </div>
 
 <div>
-<p>A&ccedil;&atilde;o que faz diferen&ccedil;a na vida das pessoas</p>
+<p>&nbsp;</p>
 
 <div id="m_-3147494846032371878gmail-m_8956585778913425054m_-2152548435719661827gmail-attachment_1789">
 <div style="text-align:center">
@@ -121,7 +118,7 @@ A t&eacute;cnica do ICPJ Lara Rodrigues da Silveira, que atua junto &agrave;s fa
 Visando a partilha de saberes, o projeto tamb&eacute;m contemplou a impress&atilde;o de folders e cartilhas explicativas, para que se possa ampliar e compartilhar a experi&ecirc;ncia do ICPJ e CIDEJA at&eacute; outras localidades que estejam expostas &agrave;s mesmas condi&ccedil;&otilde;es clim&aacute;ticas. At&eacute; o momento foram investidos R$ 193 mil de um recurso previsto de R$ 1 milh&atilde;o. Al&eacute;m de Candiota, outros munic&iacute;pios do cons&oacute;rcio poder&atilde;o ser beneficiados.&nbsp; No total ser&atilde;o constru&iacute;das 283 cisternas.</p>
 </div>
 
-<p>&Aacute;gua pot&aacute;vel &eacute; conquista para assentados</p>
+<p>&nbsp;</p>
 
 <div id="m_-3147494846032371878gmail-m_8956585778913425054m_-2152548435719661827gmail-attachment_1790">
 <div style="text-align:center">
@@ -136,7 +133,7 @@ Visando a partilha de saberes, o projeto tamb&eacute;m contemplou a impress&atil
 &ndash; A maior parte dos len&ccedil;&oacute;is subterr&acirc;neos podem ser acessados, mas vertem &aacute;gua salobra, impr&oacute;pria para o consumo humano -, explica Lara Silveira . Os cursos de &aacute;gua, a&ccedil;udes e reservat&oacute;rios na superf&iacute;cie, por sua vez, s&atilde;o sujeitos aos per&iacute;odos de seca, al&eacute;m de n&atilde;o contemplarem acesso a todos os que de fato tem necessidade. Tal situa&ccedil;&atilde;o faz com que n&atilde;o seja surpresa encontrar a regi&atilde;o fronteiri&ccedil;a entre Brasil e Uruguai o mesmo tipo de caminh&otilde;es pipa que percorrem as regi&otilde;es mais &aacute;ridas do nordeste para levar &aacute;gua at&eacute; os habitantes locais.</p>
 </div>
 
-<p>Construir dignidade, fortalecer a autonomia</p>
+<p>&nbsp;</p>
 
 <div id="m_-3147494846032371878gmail-m_8956585778913425054m_-2152548435719661827gmail-attachment_1791">
 <div style="text-align:center">
@@ -148,10 +145,10 @@ Visando a partilha de saberes, o projeto tamb&eacute;m contemplou a impress&atil
 <p>A import&acirc;ncia desse projeto para a regi&atilde;o &eacute; destacada pelo assentado de Hulha Negra, Ildo Lemes da Silva Pereira, integrante da dire&ccedil;&atilde;o nacional do MST: &ldquo;Proporcionar aos assentados a alternativa de uma cisterna, significa construir um instrumento para sua manuten&ccedil;&atilde;o no lote, &eacute; um incentivo para produzir e garantia da qualidade de vida da fam&iacute;lia&rdquo;. Relembrando a grande seca que atingiu todo o bioma Pampa em 2009 e a reincid&ecirc;ncia em 2016 e 2017, ele destaca que j&aacute; foi poss&iacute;vel buscar recursos para a constru&ccedil;&atilde;o de redes de &aacute;gua, mas que ainda se est&aacute; muito distante do n&uacute;mero ideal de beneficiados por esse tipo de a&ccedil;&atilde;o.<br />
 <br />
 <br />
-&ndash; A verdade &eacute; que nem todos os assentamentos conseguem ter acesso a &aacute;gua -, aponta Pereira. &ldquo;O projeto vem em hora boa, a dire&ccedil;&atilde;o do MST apoia e torce para que possa ser ampliado, viabilizando um n&uacute;mero cada vez maior de cisternas para as fam&iacute;lias que mais precisam&rdquo;. Para o dirigente sem-terra, o momento &eacute; ideal para garantir &aacute;gua pot&aacute;vel, uma vez que novos per&iacute;odos de estiagem n&atilde;o devem tardar. &ldquo;Nossa experi&ecirc;ncia aqui, desde os primeiros assentados, &eacute; de que a cada ciclo de dez anos temos apenas tr&ecirc;s em condi&ccedil;&otilde;es ideais de chuva&rdquo;, explicou.</p>
+&ndash; A verdade &eacute; que nem todos os assentamentos conseguem ter acesso a &aacute;gua -, aponta Pereira. &ldquo;O projeto vem em hora boa, a dire&ccedil;&atilde;o do MST apoia e torce para que possa ser ampliado, viabilizando um n&uacute;mero cada vez maior de cisternas para as fam&iacute;lias que mais precisam&rdquo;. Para o dirigente sem-terra, o momento &eacute; ideal para garantir &aacute;gua pot&aacute;vel, uma vez que novos per&iacute;odos de estiagem n&atilde;o devem tardar. &ldquo;Nossa experi&ecirc;ncia aqui, desde os primeiros assentados, &eacute; de que a cada ciclo de dez anos temos apenas tr&ecirc;s em condi&ccedil;&otilde;es ideais de chuva&rdquo;, explicou</p>
 </div>
 
-<p>&ldquo;A gente chegava a beber &aacute;gua do a&ccedil;ude&rdquo;</p>
+<p>&nbsp;</p>
 
 <div id="m_-3147494846032371878gmail-m_8956585778913425054m_-2152548435719661827gmail-attachment_1792">
 <div style="text-align:center">
@@ -163,11 +160,9 @@ Visando a partilha de saberes, o projeto tamb&eacute;m contemplou a impress&atil
 <p>O depoimento &eacute; de dona Fl&aacute;via da Luz, residente na comunidade de Companheiros de Jo&atilde;o Ant&ocirc;nio, munic&iacute;pio de Candiota. &ldquo;N&atilde;o precisava ser muito grande a estiagem, a &aacute;gua raleava e a gente tinha que bombear do a&ccedil;ude para tomar e fazer comida&rdquo;, relembra. &nbsp;&ldquo;Hoje &eacute; diferente, a &aacute;gua que fica na cisterna &eacute; boa, n&oacute;s usamos dela para todas as necessidades da fam&iacute;lia&rdquo;, conta a dona de casa. &ldquo;Esse projeto nem tem muito o que dizer de t&atilde;o bom que &eacute;, mudou a vida da gente!&rdquo;, arremata. Casos como o de dona Fl&aacute;via somam-se &agrave;s centenas na regi&atilde;o, ficando fam&iacute;lias inteiras submetidas por longos per&iacute;odos ao consumo de &aacute;gua impr&oacute;pria ou ao alcance dos programas sociais que levam o suficiente para a sobreviv&ecirc;ncia em caminh&otilde;es pipa.</p>
 
 <p><br />
-<br />
 N&atilde;o muito longe dali, outra assentada beneficiada, relembra de como era antes e contrasta do momento atual, onde o reservat&oacute;rio novo j&aacute; est&aacute; em uso pela fam&iacute;lia. Cleusa Peres da Silva, de Conquista do Cerro, tamb&eacute;m munic&iacute;pio de Candiota, diz que &ldquo;&aacute;gua &eacute; tudo, principalmente para a gente que j&aacute; sabe como &eacute; passar necessidade&rdquo;. A lembran&ccedil;a recente dela remete a &uacute;ltima estiagem, quando a fam&iacute;lia n&atilde;o teve &aacute;gua para si nem para o trato dos animais, prejudicando tamb&eacute;m a produ&ccedil;&atilde;o de leite que empreendem no lote. &ldquo;A gente at&eacute; custou a acreditar que o projeto fosse acontecer e fosse t&atilde;o r&aacute;pido, hoje n&oacute;s usamos a &aacute;gua da cisterna para todas as nossas necessidades dentro da casa, fazemos o tratamento direitinho como o pessoal do Instituto ensinou e temos essa &aacute;gua boa que voc&ecirc;s est&atilde;o vendo aqui&rdquo;, descreve com alegria ao alcan&ccedil;ar um copo de &aacute;gua limpa, pura, para a reportagem no final da visita.</p>
 
 <p><br />
-<br />
 Fam&iacute;lias de outros munic&iacute;pios participantes do CIDEJA&nbsp; j&aacute; buscam informa&ccedil;&otilde;es de como podem participar deste projeto j&aacute; que tamb&eacute;m sentem as mesmas necessidades.</p>
 </div>
 </div>
@@ -183,4 +178,3 @@ Fam&iacute;lias de outros munic&iacute;pios participantes do CIDEJA&nbsp; j&aacu
 <div class="ip iq" style="clear: both; margin: 0px; padding: 16px 0px; border-top: none;">&nbsp;</div>
 </div>
 </div>
-</blockquote>
