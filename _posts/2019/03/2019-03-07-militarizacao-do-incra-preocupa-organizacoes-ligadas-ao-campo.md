@@ -23,17 +23,19 @@ releated_posts:
   - _posts/2018/05/2018-05-16-sem-terras-desocupam-incra-em-imperatriz-no-maranhao.md
   - _posts/2018/06/2018-06-05-contra-os-desmonte-na-reforma-agraria-sem-terras-ocupam-incra-em-aracaju.md
   - _posts/2019/02/2019-02-28-movimentos-populares-realizam-ato-contra-a-privatizacao-do-parque-nacional-pau-brasil-na-bahia.md
+  - _posts/2018/11/2018-11-29-entidades-ligadas-ao-campo-denunciam-influencia-da-udr-no-futuro-governo-bolsonaro.md
 
 ---
-<p><em>Por Rafael Tatemoto</em></p>
+<p><br />
+<em>Por Rafael Tatemoto<br />
+Do Brasil de Fato</em></p>
 
-<p><em>Do Brasil de Fato</em></p>
+<p><br />
+<br />
+A presen&ccedil;a de militares no topo da estrutura burocr&aacute;tica do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) coloca as organiza&ccedil;&otilde;es populares ligadas &agrave; pauta agr&aacute;ria em sinal de alerta.</p>
 
-<p>A presen&ccedil;a de militares no topo da estrutura burocr&aacute;tica do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) coloca as organiza&ccedil;&otilde;es populares ligadas &agrave; pauta agr&aacute;ria em sinal de alerta.</p>
-
-<p>&nbsp;</p>
-
-<p>O &oacute;rg&atilde;o segue o mesmo padr&atilde;o de outras institui&ccedil;&otilde;es no governo Bolsonaro &ndash; um levantamento feito pelo Estad&atilde;o aponta que nos tr&ecirc;s primeiros escal&otilde;es do Executivo est&atilde;o presentes cerca de 130 integrantes egressos das For&ccedil;as Armadas.</p>
+<p><br />
+O &oacute;rg&atilde;o segue o mesmo padr&atilde;o de outras institui&ccedil;&otilde;es no governo Bolsonaro &ndash; um levantamento feito pelo Estad&atilde;o aponta que nos tr&ecirc;s primeiros escal&otilde;es do Executivo est&atilde;o presentes cerca de 130 integrantes egressos das For&ccedil;as Armadas.</p>
 
 <p>&nbsp;</p>
 
@@ -57,23 +59,20 @@ releated_posts:
 </figure>
 </div>
 
-<p><strong>Novo padr&atilde;o</strong></p>
+<p><br />
+<strong>Novo padr&atilde;o</strong></p>
 
-<p>&nbsp;</p>
+<p><br />
+Para Frederico Almeida, professor de Ci&ecirc;ncia Pol&iacute;tica na Universidade Estadual de Campinas (Unicamp), a presen&ccedil;a de militares no governo Bolsonaro, na verdade, d&aacute; continuidade a um processo iniciado em anos anteriores.</p>
 
-<p>Para Frederico Almeida, professor de Ci&ecirc;ncia Pol&iacute;tica na Universidade Estadual de Campinas (Unicamp), a presen&ccedil;a de militares no governo Bolsonaro, na verdade, d&aacute; continuidade a um processo iniciado em anos anteriores.</p>
+<p><br />
+&ldquo;N&atilde;o era s&oacute; o que viria depois da elei&ccedil;&atilde;o do Bolsonaro. Havia uma indica&ccedil;&atilde;o que vinha da presen&ccedil;a de [S&eacute;rgio] Etchegoyen no GSI [Gabinete de Seguran&ccedil;a Institucional] do Temer. Na quest&atilde;o da interven&ccedil;&atilde;o federal no Rio. Todas as declara&ccedil;&otilde;es p&uacute;blicas de [Eduardo] Villas Boas, de [Augusto] Heleno, de [Hamilton] Mour&atilde;o, antes mesmo de eles se engajarem na candidatura Bolsonaro&rdquo;, diz.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Obviamente, na gest&atilde;o Bolsonaro integrantes do Ex&eacute;rcito assumiram um protagonismo direto que rompe com os padr&otilde;es estabelecidos desde a redemocratiza&ccedil;&atilde;o. Na vis&atilde;o de Almeida, entretanto, ainda n&atilde;o &eacute; poss&iacute;vel afirmar que os militares assumiram o comando absoluto da pol&iacute;tica.</p>
 
-<p>&ldquo;N&atilde;o era s&oacute; o que viria depois da elei&ccedil;&atilde;o do Bolsonaro. Havia uma indica&ccedil;&atilde;o que vinha da presen&ccedil;a de [S&eacute;rgio] Etchegoyen no GSI [Gabinete de Seguran&ccedil;a Institucional] do Temer. Na quest&atilde;o da interven&ccedil;&atilde;o federal no Rio. Todas as declara&ccedil;&otilde;es p&uacute;blicas de [Eduardo] Villas Boas, de [Augusto] Heleno, de [Hamilton] Mour&atilde;o, antes mesmo de eles se engajarem na candidatura Bolsonaro&rdquo;, diz.</p>
-
-<p>&nbsp;</p>
-
-<p>Obviamente, na gest&atilde;o Bolsonaro integrantes do Ex&eacute;rcito assumiram um protagonismo direto que rompe com os padr&otilde;es estabelecidos desde a redemocratiza&ccedil;&atilde;o. Na vis&atilde;o de Almeida, entretanto, ainda n&atilde;o &eacute; poss&iacute;vel afirmar que os militares assumiram o comando absoluto da pol&iacute;tica.</p>
-
-<p>&nbsp;</p>
-
-<p>&ldquo;Dentro do pr&oacute;prio governo, n&atilde;o &eacute; poss&iacute;vel dizer que o governo est&aacute; submisso &agrave;s For&ccedil;as Armadas. Ele est&aacute; sob observa&ccedil;&atilde;o&rdquo;, avalia, lembrando que os militares, em muitos assuntos, t&ecirc;m diverg&ecirc;ncias com outros n&uacute;cleos do atual governo, incluindo os pr&oacute;prios familiares de Bolsonaro.</p>
+<p><br />
+&ldquo;Dentro do pr&oacute;prio governo, n&atilde;o &eacute; poss&iacute;vel dizer que o governo est&aacute; submisso &agrave;s For&ccedil;as Armadas. Ele est&aacute; sob observa&ccedil;&atilde;o&rdquo;, avalia, lembrando que os militares, em muitos assuntos, t&ecirc;m diverg&ecirc;ncias com outros n&uacute;cleos do atual governo, incluindo os pr&oacute;prios familiares de Bolsonaro.</p>
 
 <p>&nbsp;</p>
 
