@@ -4,7 +4,7 @@ tags:
   - tag: carnaval
   - tag: cultura
   - tag: história
-title: "Crônica: Brasil chegou a vez, de ouvir as Marias, Mahins, Marielles e Malês…"
+title: "Brasil chegou a vez, de ouvir as Marias, Mahins, Marielles e Malês"
 support_line: "Luana Carvalho, do Coletivo de Educação MST/RJ, fala sobre as lutas das mulheres refletidas no enredo da Estação Primeira da Mangueira"
 menu: "educação, cultura e comunicação"
 label: articles
@@ -21,23 +21,23 @@ files:
 created_date: "2019-03-07T15:09:02-03:00"
 published: true
 releated_posts:
-  - _posts/2019/02/2019-02-21-lula-livre-e-um-grito-que-ecoa-nos-quatro-cantos-do-pais.md
   - _posts/2019/02/2019-02-22-resistencia-e-criatividade-marcam-as-festas-carnavalescas-do-povo-sem-terra-em-todo-o-pais.md
   - _posts/2019/02/2019-02-28-carnaval-tambem-e-resistencia-folia-arrasta-blocos-de-protestos-pelas-ruas-do-pais.md
   - _posts/2019/03/2019-03-05-luiz-antonio-simas-os-carnavais-em-momentos-de-crise-sao-mais-potentes.md
 
 ---
+<p style="text-align:center"><img alt="Mangueira2019.jpeg" height="376" src="//farm8.staticflickr.com/7836/33435123148_871a064ea2_b.jpg" width="700" /></p>
+
 <p>&nbsp;</p>
 
-<p><em>Por Luana Carvalho &nbsp;<br />
+<p><em>Por Luana Carvalho*&nbsp;&nbsp;<br />
 Da P&aacute;gina do MST </em></p>
 
-<p><img alt="Mangueira2019.jpeg" src="//farm8.staticflickr.com/7836/33435123148_871a064ea2_b.jpg" /></p>
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
-<p>&Eacute; com garra, determina&ccedil;&atilde;o e ousadia que mulheres dos mais diferentes lugares e<br />
-espa&ccedil;os v&ecirc;m ganhando as avenidas e passarelas da vida. A cada dia que passa elas entoam mais seus gritos de liberdade e indigna&ccedil;&atilde;o com uma sociedade que, sob as bases alicer&ccedil;adas do patriarcado, imp&otilde;e ainda hoje um lugar espec&iacute;fico para mulher.</p>
+<p>&Eacute; com garra, determina&ccedil;&atilde;o e ousadia que mulheres dos mais diferentes lugares e espa&ccedil;os v&ecirc;m ganhando as avenidas e passarelas da vida. A cada dia que passa elas entoam mais seus gritos de liberdade e indigna&ccedil;&atilde;o com uma sociedade que, sob as bases alicer&ccedil;adas do patriarcado, imp&otilde;e ainda hoje um lugar espec&iacute;fico para mulher.</p>
 
 <p>&nbsp;</p>
 
@@ -49,12 +49,11 @@ espa&ccedil;os v&ecirc;m ganhando as avenidas e passarelas da vida. A cada dia q
 
 <p>&nbsp;</p>
 
-<p>Esta &eacute; a semente que plantamos no dia-a-dia de nossas a&ccedil;&otilde;es, que regamos com<br />
-nossas l&aacute;grimas e muito suor, e germinam, crescem e florescem num piscar de olhos. Com as sementes destas hist&oacute;rias, algumas delas contadas na Sapuca&iacute;, &eacute; poss&iacute;vel iniciar um novo plantio e assim construir um pomar de resist&ecirc;ncia e rebeldia que pulsa em nossos cora&ccedil;&otilde;es.</p>
+<p>Esta &eacute; a semente que plantamos no dia-a-dia de nossas a&ccedil;&otilde;es, que regamos com nossas l&aacute;grimas e muito suor, e germinam, crescem e florescem num piscar de olhos. Com as sementes destas hist&oacute;rias, algumas delas contadas na Sapuca&iacute;, &eacute; poss&iacute;vel iniciar um novo plantio e assim construir um pomar de resist&ecirc;ncia e rebeldia que pulsa em nossos cora&ccedil;&otilde;es.</p>
 
 <p>&nbsp;</p>
 
-<p>Mas enredo nenhum daria conta das muitas hist&oacute;rias desde a Aracruz at&eacute; a Nestl&eacute;, passando pela Globo, pelo laranjal do Temer, pela Vale, pelos latif&uacute;ndios desse Brasil t&atilde;o grande, pelas ruas e avenidas das cidades. Por estes lugares as mulheres denunciam a viol&ecirc;ncia de como o capital age sobre suas vidas e agride seus corpos diretamente. Em um mundo onde tudo se transforma em mercadoria, estas mulheres, negras, brancas, m&atilde;es, trabalhadoras, faveladas, camponesas e ind&iacute;genas, dentre outras, todos os dias precisam se levantar e lutar para garantir que seus direitos duramente conquistados sejam respeitados. Elas s&atilde;o obrigadas a lembrar e gritar que A NOSSA LUTA &Eacute; TODO DIA, SOMOS MULHERES E N&Atilde;O MERCADORIA!</p>
+<p>Mas enredo nenhum daria conta das muitas hist&oacute;rias desde a Aracruz at&eacute; a Nestl&eacute;, passando pela Globo, pelo laranjal do Temer, pela Vale, pelos latif&uacute;ndios desse Brasil t&atilde;o grande, pelas ruas e avenidas das cidades. Por estes lugares as mulheres denunciam a viol&ecirc;ncia de como o capital age sobre suas vidas e agride seus corpos diretamente. Em um mundo onde tudo se transforma em mercadoria, estas mulheres, negras, brancas, m&atilde;es, trabalhadoras, faveladas, camponesas e ind&iacute;genas, dentre outras, todos os dias precisam se levantar e lutar para garantir que seus direitos duramente conquistados sejam respeitados. Elas s&atilde;o obrigadas a lembrar e gritar que A&nbsp;LUTA &Eacute; TODO DIA, SOMOS MULHERES E N&Atilde;O MERCADORIA!</p>
 
 <p>&nbsp;</p>
 
@@ -70,13 +69,14 @@ nossas l&aacute;grimas e muito suor, e germinam, crescem e florescem num piscar 
 
 <p>&nbsp;</p>
 
+<p style="text-align: center;"><strong>Lutar, Construir Reforma Agr&aacute;ria Popular!&nbsp;</strong><br />
+<br />
+&nbsp;</p>
+
+<p><br />
+<em>* Luana Carvalho &eacute; do&nbsp;Coletivo de Educa&ccedil;&atilde;o - MST/RJ </em></p>
+
 <p>&nbsp;</p>
-
-<p style="text-align: center;"><strong>Lutar, Construir Reforma Agr&aacute;ria Popular!&nbsp;<br />
-Luana Carvalho &nbsp;<br />
-Coletivo de Educa&ccedil;&atilde;o - MST/RJ </strong></p>
-
-<p style="text-align: center;">&nbsp;</p>
 
 <p style="text-align: center;">&nbsp;</p>
 
