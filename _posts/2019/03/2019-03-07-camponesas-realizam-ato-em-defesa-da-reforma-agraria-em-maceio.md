@@ -140,4 +140,14 @@ Lutaremos pela democracia, pela justi&ccedil;a, pela igualdade, pela defesa dos 
 
 <p style="text-align: center;"><strong>CPT &ndash; MLST &ndash; MLT &ndash; MST &ndash; MVT</strong></p>
 
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p><em>* Editado por Fernanda Alc&acirc;ntara</em></p>
+
 <div style="text-align: center;">&nbsp;</div>
