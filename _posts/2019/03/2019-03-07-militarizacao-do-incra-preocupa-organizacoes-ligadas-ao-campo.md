@@ -26,6 +26,8 @@ releated_posts:
   - _posts/2018/11/2018-11-29-entidades-ligadas-ao-campo-denunciam-influencia-da-udr-no-futuro-governo-bolsonaro.md
 
 ---
+<p>&nbsp;</p>
+
 <p><br />
 <em>Por Rafael Tatemoto<br />
 Do Brasil de Fato</em></p>
