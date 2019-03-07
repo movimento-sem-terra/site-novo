@@ -4,7 +4,7 @@ tags:
   - tag: carnaval
   - tag: cultura
   - tag: história
-title: "[Crônica] Brasil chegou a vez, de ouvir as Marias, Mahins, Marielles e Malês…"
+title: "Crônica: Brasil chegou a vez, de ouvir as Marias, Mahins, Marielles e Malês…"
 support_line: "Luana Carvalho, do Coletivo de Educação MST/RJ, fala sobre as lutas das mulheres refletidas no enredo da Estação Primeira da Mangueira"
 menu: "educação, cultura e comunicação"
 label: articles
