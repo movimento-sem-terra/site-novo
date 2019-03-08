@@ -26,27 +26,28 @@ releated_posts:
   - _posts/2018/10/2018-10-01-mulheres-lideram-atos-contra-bolsonaro-no-brasil-e-no-mundo.md
 
 ---
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Carta Internacional Feminista.jpeg" height="467" src="//farm8.staticflickr.com/7917/33443241738_9c7c3662bb_b.jpg" width="700" />
-<figcaption>Mulheres preparam mobiliza&ccedil;&atilde;o global no dia 8 de mar&ccedil;o / Ag&ecirc;ncia Brasil</figcaption>
+<figcaption><em>Mulheres preparam mobiliza&ccedil;&atilde;o global no dia 8 de mar&ccedil;o. Foto: Ag&ecirc;ncia Brasil</em></figcaption>
 </figure>
 </div>
 
-<p><em>a P&aacute;gina do MST</em></p>
+<p>&nbsp;</p>
+
+<p><em>Da P&aacute;gina do MST</em></p>
+
+<p>&nbsp;</p>
 
 <p>Neste 8 de mar&ccedil;o, um texto de autoria de 24 autoras t&ecirc;m ganho a aten&ccedil;&atilde;o nas redes sociais por chamar a aten&ccedil;&atilde;o para as lutas das mulheres em todo o mundo. A&nbsp; composi&ccedil;&atilde;o fala sobre &ldquo;a nova onda feminista&rdquo; como uma ferramenta fundamental na defesa contra o fortalecimento da extrema direita. Segundo elas, as mulheres est&atilde;o liderando a resist&ecirc;ncia a governos reacion&aacute;rios em in&uacute;meros pa&iacute;ses.</p>
 
-<p>&nbsp;</p>
+<p><br />
+O texto ressalta que este &eacute; o terceiro ano consecutivo desta solidariedade internacional pelos direitos de todas as mulheres. Das 24 autoras do manifesto, como Angela Davis, fil&oacute;sofa socialista estadunidense, e Ver&oacute;nica Gago, lideran&ccedil;a do movimento Ni Una Menos na Argentina, destacam-se quatro brasileiras: a escritora e ativista Antonia Pellegrino; Jupiara Castro, integrante do N&uacute;cleo de Consci&ecirc;ncia Negra; a arquiteta M&ocirc;nica Ben&iacute;cio, vi&uacute;va de Marielle Franco; e S&ocirc;nia Guajajara, lideran&ccedil;a da Articula&ccedil;&atilde;o dos Povos Ind&iacute;genas do Brasil.</p>
 
-<p>O texto ressalta que este &eacute; o terceiro ano consecutivo desta solidariedade internacional pelos direitos de todas as mulheres. Das 24 autoras do manifesto, como Angela Davis, fil&oacute;sofa socialista estadunidense, e Ver&oacute;nica Gago, lideran&ccedil;a do movimento Ni Una Menos na Argentina, destacam-se quatro brasileiras: a escritora e ativista Antonia Pellegrino; Jupiara Castro, integrante do N&uacute;cleo de Consci&ecirc;ncia Negra; a arquiteta M&ocirc;nica Ben&iacute;cio, vi&uacute;va de Marielle Franco; e S&ocirc;nia Guajajara, lideran&ccedil;a da Articula&ccedil;&atilde;o dos Povos Ind&iacute;genas do Brasil.</p>
+<p><br />
+Outras notoriedades da luta pelo direitos das mulheres no Brasil tamb&eacute;m assinaram a carta, que prop&otilde;e a&ccedil;&otilde;es relacionadas a uma &ldquo;Internacional Feminista&rdquo;. Detacam-se nomes como Amara Moira, trans e doutora pela Unicamp, Gleisi Hoffman, presidente do Partido dos Trabalhadores (PT), Luiza Erundina, deputada estadual do PSOL e Sueli Carneiro, fundadora do Geled&eacute;s - Instituto da Mulher Negra. Para assinar o manifesto, &eacute; necess&aacute;rio informar o nome completo e as informa&ccedil;&otilde;es pelo site<a href="https://www.internacionalfeminista.org/"> internacionalfeminista.org</a>.</p>
 
-<p>&nbsp;</p>
-
-<p>Outras notoriedades da luta pelo direitos das mulheres no Brasil tamb&eacute;m assinaram a carta, que prop&otilde;e a&ccedil;&otilde;es relacionadas a uma &ldquo;Internacional Feminista&rdquo;. Detacam-se nomes como Amara Moira, trans e doutora pela Unicamp, Gleisi Hoffman, presidente do Partido dos Trabalhadores (PT), Luiza Erundina, deputada estadual do PSOL e Sueli Carneiro, fundadora do Geled&eacute;s - Instituto da Mulher Negra. Para assinar o manifesto, &eacute; necess&aacute;rio informar o nome completo e as informa&ccedil;&otilde;es pelo site internacionalfeminista.org. Leia a carta na &iacute;ntegra:</p>
+<p><br />
+Leia a carta na &iacute;ntegra:</p>
 
 <p>&nbsp;</p>
 
@@ -90,9 +91,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Diante da crise global de dimens&otilde;es hist&oacute;ricas, mulheres e pessoas LGBTQ+ est&atilde;o encarando o desafio e preparando uma resposta global. Depois do pr&oacute;ximo 8 de mar&ccedil;o, chegou a hora de levar nosso movimento um passo adiante e convocar reuni&otilde;es internacionais e assembleias dos movimentos: para tornar-se o freio de emerg&ecirc;ncia capaz de deter o trem do capitalismo global, que descamba a toda velocidade em dire&ccedil;&atilde;o &agrave; barb&aacute;rie, levando a bordo a humanidade e o planeta em que vivemos.<br />
-<br />
-<br />
-<br />
-<br />
-*Editado por Fernanda Alc&acirc;ntara</p>
+<p>Diante da crise global de dimens&otilde;es hist&oacute;ricas, mulheres e pessoas LGBTQ+ est&atilde;o encarando o desafio e preparando uma resposta global. Depois do pr&oacute;ximo 8 de mar&ccedil;o, chegou a hora de levar nosso movimento um passo adiante e convocar reuni&otilde;es internacionais e assembleias dos movimentos: para tornar-se o freio de emerg&ecirc;ncia capaz de deter o trem do capitalismo global, que descamba a toda velocidade em dire&ccedil;&atilde;o &agrave; barb&aacute;rie, levando a bordo a humanidade e o planeta em que vivemos.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
