@@ -45,12 +45,13 @@ O MST lamenta seu falecimento, em meio a tantas lutas que travamos atualmente. &
 No ano de 1994, Roque Pereira Paiva, o Paj&eacute;, faleceu. Depois disso, Ant&ocirc;nio Borges de Alvarenga, o Cacique, cantou com alguns outros &lsquo;Paj&eacute;s&rsquo; antes de se juntar a Geraldo Aparecido da Silva, seu parceiro at&eacute; hoje.</p>
 
 <p><br />
-O violeiro esteve junto ao MST compartilhando a arte de cantar a mata, a pesca e os rios quando convidado para estar presente em nossa Feira Nacional da Reforma Agr&aacute;ria, no Parque da &Aacute;gua Branca, em S&atilde;o Paulo. E tamb&eacute;m no Festival de Arte e Cultura da Reforma Agr&aacute;ria, em Minas Gerais. No repert&oacute;rio esteve algumas de suas m&uacute;sicas mais conhecidas, como Macaco Velho, o Boiadeiro e a Viola, Paran&aacute; do Norte, Pe&atilde;o Sabido, Viola Caipira, entre outras.</p>
+O violeiro esteve junto ao MST compartilhando a arte de cantar a mata, a pesca e os rios quando convidado para estar presente em nossa Feira Nacional da Reforma Agr&aacute;ria, no Parque da &Aacute;gua Branca, em S&atilde;o Paulo.&nbsp;No repert&oacute;rio esteve algumas de suas m&uacute;sicas mais conhecidas, como Macaco Velho, o Boiadeiro e a Viola, Paran&aacute; do Norte, Pe&atilde;o Sabido, Viola Caipira, entre outras.</p>
 
 <p><br />
 A dupla de violeiros &quot;Cacique e Paj&eacute;&quot; narraram a vida do povo em seus versos musicais. Juntos e orgulhosos de suas ra&iacute;zes ind&iacute;genas, cantaram as dores e alegrias deste povo, reafirmando seus direitos.</p>
 
 <p style="text-align: center;"><br />
+<br />
 <strong>Movimento dos Trabalhadores Rurais Sem Terra&nbsp;&ndash; MST</strong><br />
 08 de mar&ccedil;o de 2019, S&atilde;o Paulo - SP&nbsp;</p>
 
