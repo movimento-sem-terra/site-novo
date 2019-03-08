@@ -36,7 +36,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Suelen Gonçalves em sua manifestação no Painel - Foto Maiara Rauber - MST (1).jpg" height="466" src="//farm8.staticflickr.com/7859/46406521305_2bc64e1660_b.jpg" width="700" />
-<figcaption><em>Painel aborda o tema&nbsp;Soberania Alimentar e Defesa dos Territ&oacute;rios.&nbsp;Foto: Maiara Rauber - MST</em></figcaption>
+<figcaption><em>Painel aborda o tema &quot;Soberania Alimentar e Defesa dos Territ&oacute;rios&quot;.&nbsp;Foto: Maiara Rauber - MST</em></figcaption>
 </figure>
 </div>
 
