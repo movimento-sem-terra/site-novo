@@ -2,7 +2,7 @@
 date: "2019-03-08T15:23:29-03:00"
 tags: []
 hat: ""
-title: "Carta ressalta a importância da união das mulheres contra a exploração e a opressão "
+title: "A importância da união das mulheres contra a exploração e a opressão "
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7842/47320295511_37cf0cf5d4_b.jpg
 support_line: Via Campesina Internacional ressalta a luta das mulheres contra sistema capitalista e partriarcal
@@ -41,7 +41,7 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>Al&eacute;m de real&ccedil;ar a participa&ccedil;&atilde;o das mulheres nas conquistas e lutas dos campos, as autoras terminam apoiando o manifesto &ldquo;Para al&eacute;m do 8 de Mar&ccedil;o: rumo a uma Internacional Feminista&rdquo;, publicada hoje por 24 autoras do mundo todo entre intelectuais, artistas e feministas. Leia em portugu&ecirc;s a Carta da Via Campesina:&nbsp;</p>
+<p>Al&eacute;m de destacar a participa&ccedil;&atilde;o das mulheres nas conquistas e lutas dos campos, as autoras terminam apoiando o manifesto &ldquo;Para al&eacute;m do 8 de Mar&ccedil;o: rumo a uma Internacional Feminista&rdquo;, publicada hoje por 24 autoras do mundo todo entre intelectuais, artistas e feministas. Leia em portugu&ecirc;s a Carta da Via Campesina:&nbsp;</p>
 
 <p>&nbsp;</p>
 
