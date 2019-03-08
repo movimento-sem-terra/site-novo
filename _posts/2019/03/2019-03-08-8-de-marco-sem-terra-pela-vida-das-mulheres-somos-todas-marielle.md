@@ -5,9 +5,9 @@ tags:
   - tag: sem-terra
   - tag: lutas-e-mobilizações
 title: "8 de março:  Sem Terra, pela vida das mulheres, somos todas Marielle!\n"
-support_line: "Hoje (8) mulheres Sem Terra de todo o Brasil saem às ruas para defender seus direitos. As mobilizações são unificadas e contam com a participação de diferentes organizações do campo popular\n"
+support_line: "Hoje (8), mulheres Sem Terra de todo o Brasil saem às ruas para defender seus direitos"
 menu: lutas e mobilizações
-images_hd: //farm8.staticflickr.com/7868/33442663478_5d06f8f391_b.jpg
+images_hd: //farm8.staticflickr.com/7926/40353547513_dcb81d5f93_b.jpg
 layout: post
 files:
   - link: //farm8.staticflickr.com/7868/33442663478_5d06f8f391_b.jpg
@@ -24,6 +24,13 @@ files:
     small: //farm8.staticflickr.com/7906/46403447705_29bc80d689_n.jpg
     title: pp.jpeg
     $$hashKey: "066"
+  - link: //farm8.staticflickr.com/7926/40353547513_dcb81d5f93_b.jpg
+    original: //farm8.staticflickr.com/7926/40353547513_ce42607ee2_o.jpg
+    thumbnail: //farm8.staticflickr.com/7926/40353547513_dcb81d5f93_t.jpg
+    medium: //farm8.staticflickr.com/7926/40353547513_dcb81d5f93_z.jpg
+    small: //farm8.staticflickr.com/7926/40353547513_dcb81d5f93_n.jpg
+    title: mst.jpg
+    $$hashKey: 0F1
 created_date: "2019-03-08T11:46:46-03:00"
 published: true
 releated_posts:
