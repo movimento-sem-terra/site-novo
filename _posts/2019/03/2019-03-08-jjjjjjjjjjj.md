@@ -142,7 +142,7 @@ section: cover
 
 <p>&nbsp;</p>
 
-<p>Milhares de mulheres do campo e da cidade sa&iacute;ram &agrave;s ruas do pa&iacute;s nesta sexta-feira (8) para lutar contra o&nbsp;desmonte da Previd&ecirc;ncia, o aumento no n&uacute;mero de feminicidios no Brasil e os retrocessos do governo Bolsonaro.</p>
+<p>Milhares de mulheres do campo e da cidade sa&iacute;ram &agrave;s ruas do pa&iacute;s nesta sexta-feira (8) para lutar contra o&nbsp;desmonte da Previd&ecirc;ncia, o feminicidio&nbsp;no Brasil e os retrocessos do governo Bolsonaro.</p>
 
 <p>Sob o lema: <a href="http://www.mst.org.br/2019/02/28/hhhhhhhhh.html">&ldquo;Pela vida das mulheres, somos todas Marielle!&rdquo;</a>, as mulheres pautam a necessidade da luta permanente em unidade combativa com demais movimentos e organiza&ccedil;&otilde;es&nbsp; no atual momento em que vivemos.&nbsp;</p>
 
