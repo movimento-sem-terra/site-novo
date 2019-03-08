@@ -4,7 +4,7 @@ tags:
   - tag: mulheres
   - tag: lutas-e-mobilizações
   - tag: jornada-de-lutas
-title: "No Ceará, MST Realiza encontro Estadual das Mulheres Sem Terra "
+title: "No Ceará, MST realiza encontro Estadual das Mulheres Sem Terra"
 hat: ""
 support_line: Encontro marca o início da Jornada Nacional de Luta das Mulheres no estado
 menu: lutas e mobilizações
