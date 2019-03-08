@@ -3,7 +3,7 @@ date: "2019-03-08T09:17:08-03:00"
 tags:
   - tag: jornada-nacional-de-lutas
   - tag: mulheres-camponesas
-title: "MINUTO A MINUTO | No 08 de março mulheres ocupam às ruas do Brasil por direitos"
+title: "MINUTO A MINUTO | No 08 de março mulheres ocupam as ruas do Brasil por direitos"
 support_line: "O lema deste ano é \"Pela vida das mulheres, somos todas Marielle!\"; acompanhe os atos pelo país"
 menu: lutas e mobilizações
 section: cover
