@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: mulheres
   - tag: mulheres-camponesas
-title: "Mulheres do campo e da cidade saem às ruas de todo país "
+title: Mulheres do campo e da cidade saem às ruas de Belo Horizonte
 images_hd: //farm8.staticflickr.com/7825/40355058883_66b732737f_b.jpg
 support_line: "Mulheres da Frente Brasil Popular e da Frente Povo Sem cedo se unem hoje (8) na Praça da Estação "
 menu: lutas e mobilizações
