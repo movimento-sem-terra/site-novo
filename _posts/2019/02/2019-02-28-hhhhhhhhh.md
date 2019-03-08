@@ -47,7 +47,7 @@ releated_posts:
   - _posts/2018/09/2018-09-28-e-pela-vida-das-mulheres-descriminalizacao-do-aborto-e-uma-bandeira-de-luta-de-todas.md
   - _posts/2018/10/2018-10-04-o-voto-das-mulheres-e-decisivo-para-o-futuro-do-brasil-por-isso-nao-podemos-titubear.md
   - _posts/2018/12/2018-12-16-a-resistencia-que-vem-das-mulheres-camponesas-de-santa-catarina.md
-section: cover
+section: featured-news
 
 ---
 <p style="text-align:center"><img alt="pp.jpeg" height="500" src="//farm8.staticflickr.com/7851/47188968602_baa0cdedbd_b.jpg" width="500" /></p>
