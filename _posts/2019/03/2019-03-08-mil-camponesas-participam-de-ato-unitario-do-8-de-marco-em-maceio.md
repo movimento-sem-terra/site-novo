@@ -77,8 +77,8 @@ Participam das a&ccedil;&otilde;es na capital, as Sem Terra organizadas na Comis
 &ldquo;Esse &eacute; um momento important&iacute;ssimo para a luta das mulheres Sem Terra&rdquo;, afirma Diana Aleixo, do Movimento pela Liberta&ccedil;&atilde;o dos Sem Terra (MLST). &ldquo;Nossas a&ccedil;&otilde;es fortalecem nossa unidade, nossa identidade e convocam o conjunto das mulheres da classe trabalhadora &agrave; luta&rdquo;, completa.</p>
 
 <figure class="image" style="float:right"><img alt="LRM_EXPORT_81809194304132_20190307_202019708.jpeg" height="200" src="//farm8.staticflickr.com/7801/46595635724_e30fb749a3_b.jpg" width="300" />
-<figcaption>&nbsp;&ldquo;Construir a nossa unidade em luta e<br />
-em resist&ecirc;ncia &eacute; fundamental&quot;, afirma Diana.</figcaption>
+<figcaption><em>8 de mar&ccedil;o &eacute; um grande chamado de<br />
+unidade das mulheres do campo e da cidade.</em></figcaption>
 </figure>
 
 <p><br />
@@ -107,7 +107,8 @@ Com o lema &ldquo;Pela Vida das Mulheres, Somos Todas Marielle&rdquo;, as campon
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="LRM_EXPORT_81952664981029_20190307_202243178.jpeg" height="469" src="//farm8.staticflickr.com/7907/46403950855_f18c57c656_b.jpg" width="600" />
-<figcaption><em>Durante a Jornada, Sem Terra homenageiam o legado de Marielle Franco, assassinada no dia 14 de mar&ccedil;o de 2018.</em></figcaption>
+<figcaption><em>Durante a Jornada, Sem Terra homenageiam o legado de Marielle Franco,<br />
+assassinada no dia 14 de mar&ccedil;o de 2018.</em></figcaption>
 </figure>
 </div>
 
@@ -121,7 +122,7 @@ Com cruzes, placas, poesia, m&uacute;sica e muita for&ccedil;a, as camponesas re
 J&aacute; no per&iacute;odo da manh&atilde;, a a&ccedil;&atilde;o foi em defesa da Reforma Agr&aacute;ria, onde as camponesas foram &agrave; sede do Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA) em den&uacute;ncia aos ataques do governo Bolsonaro &agrave; pol&iacute;tica de Reforma Agr&aacute;ria e aos movimentos de luta pela terra.</p>
 
 <p><br />
-Tamb&eacute;m na manh&atilde; de ontem (07) foi lan&ccedil;ada a &ldquo;Carta das Mulheres Sem Terra &agrave; Sociedade&rdquo;, onde as camponesas expressam suas pautas pol&iacute;ticas de luta e sua posi&ccedil;&atilde;o diante do atual momento que vive a sociedade.</p>
+Tamb&eacute;m na manh&atilde; de ontem (07) foi lan&ccedil;ada a <a href="http://www.mst.org.br/2019/03/07/camponesas-realizam-ato-em-defesa-da-reforma-agraria-em-maceio.html">&ldquo;Carta das Mulheres Sem Terra &agrave; Sociedade&rdquo;</a>, onde as camponesas expressam suas pautas pol&iacute;ticas de luta e sua posi&ccedil;&atilde;o diante do atual momento que vive a sociedade.</p>
 
 <p><br />
 &ldquo;Para n&oacute;s, mulheres Sem Terra, pautar o fortalecimento da Reforma Agr&aacute;ria &eacute; pautar a defesa de nossas vidas, dos nossos filhos e da nossa comunidade&rdquo;, disse Daiana Oliveira, do Movimento Via do Trabalho. &ldquo;Estamos nas ruas na defesa da vida digna e da produ&ccedil;&atilde;o de alimentos saud&aacute;veis&rdquo;, finaliza.</p>
