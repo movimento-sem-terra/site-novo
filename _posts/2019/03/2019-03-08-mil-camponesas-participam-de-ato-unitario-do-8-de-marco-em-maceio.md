@@ -62,10 +62,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Com acampamento montado desde a manh&atilde; desta &uacute;ltima quinta-feira (07), cerca de mil camponesas de todas as regi&otilde;es de Alagoas ocupam Macei&oacute;, capital alagoana, com as bandeiras de luta das mulheres do campo durante a Jornada Nacional de Lutas das Mulheres Sem Terra.&nbsp;</p>
-
-<p><br />
-Ap&oacute;s diversas a&ccedil;&otilde;es no primeiro dia de atividade, as camponesas somam-se hoje (08) ao conjunto de trabalhadoras urbanas no ato que marca a passagem do Dia Internacional de Luta das Mulheres.</p>
+<p>Com acampamento montado desde a manh&atilde; desta &uacute;ltima quinta-feira (07), cerca de mil camponesas de todas as regi&otilde;es de Alagoas ocupam Macei&oacute;&nbsp;com as bandeiras de luta das mulheres do campo durante a Jornada Nacional de Lutas das Mulheres Sem Terra.&nbsp;Ap&oacute;s diversas a&ccedil;&otilde;es no primeiro dia de atividade, as camponesas somam-se hoje (08) ao conjunto de trabalhadoras urbanas no ato que marca a passagem do Dia Internacional de Luta das Mulheres.</p>
 
 <p><br />
 Com concentra&ccedil;&atilde;o &agrave;s 9 horas na Pra&ccedil;a Deodoro, no Centro da cidade, o ato percorrer&aacute; as ruas de Macei&oacute; dialogando com a sociedade na den&uacute;ncia da viol&ecirc;ncia contra as mulheres, contra a Reforma da Previd&ecirc;ncia, al&eacute;m da defesa da Reforma Agr&aacute;ria e da liberdade do ex-presidente Lula.</p>
