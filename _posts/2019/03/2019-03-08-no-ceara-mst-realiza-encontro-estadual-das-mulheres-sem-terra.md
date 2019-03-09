@@ -50,20 +50,23 @@ Da P&aacute;gina do MST </em></p>
 
 <p>&nbsp;</p>
 
-<p>Cerca de 300 mulheres Sem Terra iniciaram ontem (07/03) o Encontro Estadual das Mulheres Sem Terra. A atividade inaugurou as Jornada Nacional de Luta das Mulheres em Fortaleza, com o lema deste ano &ldquo;Pela Vida das Mulheres, Somos Todas Marielle&rdquo;. Realizado no Centro de Forma&ccedil;&atilde;o Capacita&ccedil;&atilde;o e Pesquisa Frei Humberto, o encontro anual serve de espa&ccedil;o de articula&ccedil;&atilde;o e reflex&atilde;o sobre temas ligados &agrave;s quest&otilde;es de g&ecirc;nero, como cultura, educa&ccedil;&atilde;o e pol&iacute;ticas p&uacute;blicas, dentre outros.</p>
+<p>Cerca de 300 mulheres Sem Terra iniciaram nesta &uacute;ltima quinta-feira&nbsp;(07), o Encontro Estadual das Mulheres Sem Terra. A atividade deu in&iacute;cio&nbsp;a&nbsp;Jornada Nacional de Lutas das Mulheres Sem Terra em Fortaleza, com o lema deste ano &ldquo;Pela Vida das Mulheres, Somos Todas Marielle&rdquo;.</p>
 
 <p><br />
-Para Nat&aacute;lia T&aacute;vora, da comunidade de resist&ecirc;ncia Hermano Magalh&atilde;es, os encontros ajudam a entender a tarefa enquanto mulher na Reforma Agr&aacute;ria a partir da conjuntura pol&iacute;tica atual. &ldquo;O debate nos faz refletir as mulheres e as principais bandeiras pelas quais lutamos, como a Reforma Agr&aacute;ria, a defesa dos territ&oacute;rios, privatiza&ccedil;&otilde;es e a Reforma da Previd&ecirc;ncia, al&eacute;m de abrir nossos olhos para a viol&ecirc;ncia contra as mulheres e o feminic&iacute;dio&rdquo;, segundo T&aacute;vora.</p>
+O encontro acontece&nbsp;no Centro de Forma&ccedil;&atilde;o,&nbsp;Capacita&ccedil;&atilde;o e Pesquisa Frei Humberto e tem como objetivo ser um&nbsp;espa&ccedil;o de articula&ccedil;&atilde;o e reflex&atilde;o sobre temas ligados &agrave;s quest&otilde;es de g&ecirc;nero, no &acirc;mbito da&nbsp;cultura, educa&ccedil;&atilde;o, pol&iacute;ticas p&uacute;blicas, dentre outros.</p>
+
+<p><br />
+Para Nat&aacute;lia T&aacute;vora, da comunidade de resist&ecirc;ncia Hermano Magalh&atilde;es, o espa&ccedil;o&nbsp;ajuda&nbsp;a entender a tarefa enquanto mulher na luta pela Reforma Agr&aacute;ria a partir da conjuntura pol&iacute;tica atual. &ldquo;O debate nos faz refletir sobre as mulheres e as principais bandeiras pelas quais lutamos, como a Reforma Agr&aacute;ria, a defesa dos territ&oacute;rios, as lutas contra as&nbsp;privatiza&ccedil;&otilde;es e a Reforma da Previd&ecirc;ncia.&nbsp;Al&eacute;m de abrir nossos olhos para a viol&ecirc;ncia, como o&nbsp;feminic&iacute;dio&rdquo;, explica.</p>
 
 <figure class="image" style="float:right"><img alt="20190307_150528.jpg" height="169" src="//farm8.staticflickr.com/7909/40354858453_6d449b6ff7_b.jpg" width="300" />
 <figcaption><em>Foto: Aline Oliveira</em></figcaption>
 </figure>
 
 <p><br />
-Durante o encontro, a militante do MST Iane Braga ressaltou a import&acirc;ncia de mostrar as v&aacute;rias formas de viol&ecirc;ncia contra as mulheres a partir da figura de Marielle Franco &ldquo;Em nossas forma&ccedil;&otilde;es sempre trazemos a discuss&atilde;o sobre o processo de criminaliza&ccedil;&atilde;o dos que lutam. O MST tem sido alvo desse atual governo e precisamos continuar a luta&rdquo; afirmou Iane Braga.</p>
+Nesse sentido, a militante do MST Iane Braga ressalta&nbsp;a import&acirc;ncia de mostrar as v&aacute;rias formas de viol&ecirc;ncia contra as mulheres a partir da figura de Marielle Franco. &ldquo;Em nossas forma&ccedil;&otilde;es sempre trazemos a discuss&atilde;o sobre o processo de criminaliza&ccedil;&atilde;o dos que lutam. O MST tem sido alvo desse atual governo e precisamos continuar a luta.&quot;</p>
 
 <p><br />
-Hoje o grupo de mulheres do Encontro Estadual Sem Terra deve se unir ao Ato pelo 8 de Mar&ccedil;o Mulheres na Pra&ccedil;a General Murilo Borges, conhecida como Pra&ccedil;a da Justi&ccedil;a a partir das 16 horas, denunciando desmonte da Previd&ecirc;ncia, o aumento no n&uacute;mero de feminic&iacute;dios no Brasil e os retrocessos que o governo Bolsonaro representa para todo o pa&iacute;s. A Jornada de Luta das Mulheres segue at&eacute; o dia 14, um ano ap&oacute;s o assassinato de Marielle Franco e o motorista Anderson Silva.</p>
+Hoje o grupo de mulheres que participa do&nbsp;Encontro Estadual&nbsp;deve se unir ao Ato pelo 8 de Mar&ccedil;o, que acontece na Pra&ccedil;a General Murilo Borges, conhecida como a Pra&ccedil;a da Justi&ccedil;a, a partir das 16 horas, denunciando o desmonte da Previd&ecirc;ncia, o&nbsp;feminic&iacute;dio&nbsp;no Brasil e os retrocessos que o governo Bolsonaro representa para o&nbsp;pa&iacute;s. A Jornada de Lutas das Mulheres segue at&eacute; o dia 14, um ano ap&oacute;s o assassinato de Marielle Franco e o motorista Anderson Silva.</p>
 
 <p>&nbsp;</p>
 
