@@ -119,4 +119,4 @@ Brasil de Fato/RS</em></p>
 
 <p>&ldquo;O que mais nos assusta &eacute; que as mulheres n&atilde;o t&ecirc;m consci&ecirc;ncia da viol&ecirc;ncia. Ela n&atilde;o &eacute; s&oacute; f&iacute;sica, mas tamb&eacute;m pode ser psicol&oacute;gica, atrav&eacute;s do dom&iacute;nio psicol&oacute;gico pelo homem, viol&ecirc;ncia patrimonial, ci&uacute;mes, possessividade, entre outras. &Eacute; importante que as mulheres saibam que a Defensoria P&uacute;blica est&aacute; sempre de portas abertas&rdquo;, conclui a coordenadora.</p>
 
-<p><img alt="Convidadas que participaram do painel na manhã desta sexta-feira, 8 de março no centro de Porto Alegre (1).jpg" src="//farm8.staticflickr.com/7837/33453876968_f4d9a54ce3_b.jpg" /></p>
+<p>&nbsp;</p>
