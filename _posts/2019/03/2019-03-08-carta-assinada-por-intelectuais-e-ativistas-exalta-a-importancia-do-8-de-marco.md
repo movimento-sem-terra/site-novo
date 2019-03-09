@@ -24,6 +24,12 @@ releated_posts:
   - _posts/2018/10/2018-10-30-declaracao-dos-direitos-dos-camponeses-e-apresentada-a-assembleia-geral-da-onu.md
   - _posts/2018/09/2018-09-29-minuto-a-minuto-or-ato-de-mulheres-elenao-no-brasil-e-no-mundo.md
   - _posts/2018/10/2018-10-01-mulheres-lideram-atos-contra-bolsonaro-no-brasil-e-no-mundo.md
+  - _posts/2018/11/2018-11-25-via-campesina-diz-nao-a-violencia-do-patriarcado-e-do-capitalismo-dois-males-que-afligem-a-humanidade.md
+  - _posts/2019/02/2019-02-09-ato-em-apoio-ao-povo-venezuelano-e-ao-governo-de-maduro-reune-dezenas-de-pessoas-em-sao-paulo.md
+  - _posts/2019/02/2019-02-06-ato-em-apoio-ao-povo-venezuelano-mobiliza-capital-gaucha.md
+  - _posts/2019/01/2019-01-27-mst-manifesta-apoio-ao-povo-venezuelano.md
+  - _posts/2019/01/2019-01-10-a-posse-de-hoje-e-a-expressao-do-resultado-das-urnas.md
+  - _posts/2018/11/2018-11-30-o-mst-e-a-causa-palestina-uma-homenagem-em-comemoracao-ao-dia-internacional-de-solidariedade-ao-povo-palestino.md
 
 ---
 <div style="text-align:center">
@@ -38,13 +44,13 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Neste 8 de mar&ccedil;o, um texto de autoria de 24 autoras t&ecirc;m ganho a aten&ccedil;&atilde;o nas redes sociais por chamar a aten&ccedil;&atilde;o para as lutas das mulheres em todo o mundo. A&nbsp; composi&ccedil;&atilde;o fala sobre &ldquo;a nova onda feminista&rdquo; como uma ferramenta fundamental na defesa contra o fortalecimento da extrema direita. Segundo elas, as mulheres est&atilde;o liderando a resist&ecirc;ncia a governos reacion&aacute;rios em in&uacute;meros pa&iacute;ses.</p>
+<p>Neste 8 de mar&ccedil;o, um texto escrito por&nbsp;24 autoras t&ecirc;m chamado&nbsp;aten&ccedil;&atilde;o nas redes sociais &aacute;s lutas das mulheres em todo o mundo. A&nbsp; composi&ccedil;&atilde;o fala sobre &ldquo;a nova onda feminista&rdquo; como uma ferramenta fundamental na luta&nbsp;contra o fortalecimento da extrema direita. Segundo elas, as mulheres est&atilde;o liderando a resist&ecirc;ncia&nbsp;em in&uacute;meros pa&iacute;ses.</p>
 
 <p><br />
-O texto ressalta que este &eacute; o terceiro ano consecutivo desta solidariedade internacional pelos direitos de todas as mulheres. Das 24 autoras do manifesto, como Angela Davis, fil&oacute;sofa socialista estadunidense, e Ver&oacute;nica Gago, lideran&ccedil;a do movimento Ni Una Menos na Argentina, destacam-se quatro brasileiras: a escritora e ativista Antonia Pellegrino; Jupiara Castro, integrante do N&uacute;cleo de Consci&ecirc;ncia Negra; a arquiteta M&ocirc;nica Ben&iacute;cio, vi&uacute;va de Marielle Franco; e S&ocirc;nia Guajajara, lideran&ccedil;a da Articula&ccedil;&atilde;o dos Povos Ind&iacute;genas do Brasil.</p>
+O texto ressalta tamb&eacute;m que este &eacute; o terceiro ano consecutivo desta solidariedade internacional pelos direitos de todas as mulheres. Das 24 autoras do manifesto, como Angela Davis, fil&oacute;sofa socialista estadunidense, e Ver&oacute;nica Gago, lideran&ccedil;a do movimento Ni Una Menos na Argentina, destacam-se quatro brasileiras: a escritora e ativista Antonia Pellegrino; Jupiara Castro, integrante do N&uacute;cleo de Consci&ecirc;ncia Negra; a arquiteta M&ocirc;nica Ben&iacute;cio, vi&uacute;va de Marielle Franco; e S&ocirc;nia Guajajara, lideran&ccedil;a da Articula&ccedil;&atilde;o dos Povos Ind&iacute;genas do Brasil.</p>
 
 <p><br />
-Outras notoriedades da luta pelo direitos das mulheres no Brasil tamb&eacute;m assinaram a carta, que prop&otilde;e a&ccedil;&otilde;es relacionadas a uma &ldquo;Internacional Feminista&rdquo;. Detacam-se nomes como Amara Moira, trans e doutora pela Unicamp, Gleisi Hoffman, presidente do Partido dos Trabalhadores (PT), Luiza Erundina, deputada estadual do PSOL e Sueli Carneiro, fundadora do Geled&eacute;s - Instituto da Mulher Negra. Para assinar o manifesto, &eacute; necess&aacute;rio enviar informa&ccedil;&otilde;es pelo site<a href="https://www.internacionalfeminista.org/"> internacionalfeminista.org</a>.</p>
+Outras notoriedades da luta pelo direitos das mulheres no Brasil tamb&eacute;m assinaram a carta, que prop&otilde;e a&ccedil;&otilde;es relacionadas a uma &ldquo;Internacional Feminista&rdquo;. Destacam-se nomes como Amara Moira, trans e doutora pela Unicamp, Gleisi Hoffman, presidente do Partido dos Trabalhadores (PT), Luiza Erundina, deputada estadual do PSOL e Sueli Carneiro, fundadora do Geled&eacute;s - Instituto da Mulher Negra. Para assinar o manifesto, &eacute; necess&aacute;rio enviar informa&ccedil;&otilde;es pelo site<a href="https://www.internacionalfeminista.org/"> internacionalfeminista.org</a>.</p>
 
 <p><br />
 Leia a carta na &iacute;ntegra:</p>
