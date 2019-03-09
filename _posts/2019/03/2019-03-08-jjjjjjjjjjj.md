@@ -4,8 +4,8 @@ tags:
   - tag: mulheres-camponesas
   - tag: lutas
   - tag: mobilizações
-title: "Neste 8 de março, Mulheres Sem Terra participam mobilizações em todas as regiões do país "
-support_line: Atos e ações unificadas foram realizados  contra a violência e os retrocessos do governo Bolsonaro
+title: "Neste 8 de março, Mulheres Sem Terra participam de mobilizações em todas as regiões do país "
+support_line: Ações unificadas foram realizados  contra a violência e os retrocessos do governo Bolsonaro
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7895/33445637318_c272d94ac0_b.jpg
 layout: post
