@@ -77,7 +77,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>As 170 fam&iacute;lias do assentamento Paulo Cunha, na cidade de Santo Amaro, localizado no Rec&ocirc;ncavo da Bahia, receberam na tarde de hoje (10), a visita do cantor e compositor Caetano Veloso. Cidade onde nasceu e cresceu Caetano, o m&uacute;sico destacou a vontade de, com aquela visita, poder aprender muito com os trabalhadores e trabalhadoras Sem Terra.</p>
+<p>As 170 fam&iacute;lias do assentamento Paulo Cunha, na cidade de Santo Amaro,&nbsp;no Rec&ocirc;ncavo da Bahia, receberam na tarde de hoje (10), a visita do cantor e compositor Caetano Veloso. Cidade onde nasceu e cresceu Caetano, o m&uacute;sico destacou a vontade de, com aquela visita, poder aprender muito com os trabalhadores e trabalhadoras Sem Terra.</p>
 
 <p><br />
 &quot;Eu nasci em Santo Amaro, me criei em Santo Amaro, eu sou daqui assim como voc&ecirc;s&rdquo;, relatou Veloso. &ldquo;Aqui meus olhos s&atilde;o mais de pergunta e de querer aprender junto com voc&ecirc;s&rdquo;.</p>
