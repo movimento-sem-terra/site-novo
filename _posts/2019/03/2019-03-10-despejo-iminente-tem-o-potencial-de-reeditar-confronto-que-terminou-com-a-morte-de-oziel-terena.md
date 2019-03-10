@@ -65,13 +65,15 @@ Da P&aacute;gina do CIMI</em><br />
 <p>O potencial, explica Lindomar Terena, &eacute; de que esta reintegra&ccedil;&atilde;o, se for posta adiante, termine como o despejo conduzido pelas pol&iacute;cias Federal e Militar na aldeia Buriti, Terra Ind&iacute;gena Buriti, munic&iacute;pio de Dois Irm&atilde;os do Buriti. Numa manh&atilde; do dia 30 de maio de 2013, a a&ccedil;&atilde;o policial terminou com tiros disparados contra os ind&iacute;genas, correria e o corpo de Oziel sendo carregado j&aacute; sem vida em rede nacional. &ldquo;Avaliamos que pode acontecer na Esperan&ccedil;a o que ocorreu na Buriti. E se acontecer? A comunidade vai reagir. Essas for&ccedil;as policiais passar&atilde;o pelas aldeias. As fam&iacute;lias das pessoas na retomada est&atilde;o nas aldeias. Pode causar uma viol&ecirc;ncia muito grande, assusta s&oacute; de pensar&rdquo;, explica Lindomar.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="cimi 2.jpg" height="205" src="//farm8.staticflickr.com/7871/33461650248_5ea3edc05c_b.jpg" width="350" />
+<p>O que as propriet&aacute;rias da Fazenda Esperan&ccedil;a, incidente sobre a Terra Ind&iacute;gena, n&atilde;o se preocupam &eacute; exatamente com aquilo que a Justi&ccedil;a deveria se preocupar, na opini&atilde;o dos Terena. &ldquo;Estamos &agrave; beira de um confronto com potencial de repetir o que aconteceu no Buriti. O discurso anti-ind&iacute;gena que hoje est&aacute; no governo federal os tornam incapazes de apresentar uma solu&ccedil;&atilde;o para acabar com a inseguran&ccedil;a jur&iacute;dica para ambas as partes. Jogam mais combust&iacute;vel, e ainda no Mato Grosso do Sul, que j&aacute; &eacute; um lugar com amplas viola&ccedil;&otilde;es de direitos humanos e epis&oacute;dios como o do Oziel, do Sime&atilde;o Guarani Kaiow&aacute; e tantos outros&rdquo;, analisa Lindomar Terena.<br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="cimi 2.jpg" height="205" src="//farm8.staticflickr.com/7871/33461650248_5ea3edc05c_b.jpg" width="350" />
 <figcaption><em>Oziel Terena, morto durante reintegra&ccedil;&atilde;o de posse em maio de 2013.<br />
 Foto: Acervo Povo Terena</em></figcaption>
 </figure>
-
-<p>O que as propriet&aacute;rias da Fazenda Esperan&ccedil;a, incidente sobre a Terra Ind&iacute;gena, n&atilde;o se preocupam &eacute; exatamente com aquilo que a Justi&ccedil;a deveria se preocupar, na opini&atilde;o dos Terena. &ldquo;Estamos &agrave; beira de um confronto com potencial de repetir o que aconteceu no Buriti. O discurso anti-ind&iacute;gena que hoje est&aacute; no governo federal os tornam incapazes de apresentar uma solu&ccedil;&atilde;o para acabar com a inseguran&ccedil;a jur&iacute;dica para ambas as partes. Jogam mais combust&iacute;vel, e ainda no Mato Grosso do Sul, que j&aacute; &eacute; um lugar com amplas viola&ccedil;&otilde;es de direitos humanos e epis&oacute;dios como o do Oziel, do Sime&atilde;o Guarani Kaiow&aacute; e tantos outros&rdquo;, analisa Lindomar Terena.<br />
-&nbsp;</p>
+</div>
 
 <p>Em canetada do presidente Jair Bolsonaro, na Medida Provis&oacute;ria 870, para a Secretaria Especial de Assuntos Fundi&aacute;rios (SEAF/MAPA) foi transferida a atribui&ccedil;&atilde;o de identificar, delimitar e demarcar terras ind&iacute;genas, antes responsabilidade da Funda&ccedil;&atilde;o Nacional do &Iacute;ndio (Funai). Lindomar Terena lembra que para a secretaria a advogada ruralista Luana Ruiz Silva Figueiredo foi convidada por Tereza Cristina, ocupando o cargo de secret&aacute;ria-adjunta. Por ela passar&aacute;os procedimentos demarcat&oacute;rios. A Procuradoria-Geral da Rep&uacute;blica (PGR) considera inconstitucional a MP 870.<br />
 &nbsp;</p>
