@@ -4,7 +4,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: ceará
   - tag: resistência
-title: "Unidade, solidariedade e compromisso no I Encontro dos Amigos/as do MST no Ceará"
+title: "Unidade, solidariedade e compromisso no 1º Encontro dos Amigos do MST no Ceará"
 support_line: Evento  marca os 30 anos de ações do MST no estado do Ceará e recebe diretores nacionais
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7831/33475792848_66dffd715a_b.jpg
