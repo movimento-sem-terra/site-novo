@@ -109,7 +109,7 @@ Da p&aacute;gina do MST</p>
 
 <p>&nbsp;</p>
 
-<p>No percurso, foram entregues of&iacute;cios a alguns &oacute;rg&atilde;os p&uacute;blicos como forma de reivindica&ccedil;&atilde;o dessas companheiras. Na Delegacia de Pol&iacute;cia foram solicitados alguns servi&ccedil;os como agilidade nos registros de Boletim de Ocorr&ecirc;ncia.; j&aacute; na Eletrobr&aacute;s as mulheres reivindicaram, al&eacute;m de outras coisas, o melhoramento da ilumina&ccedil;&atilde;o p&uacute;blica na sede dos assentamentos; no INSS, al&eacute;m de manifestar insatisfa&ccedil;&atilde;o com a discuss&atilde;o de uma nova reforma na previd&ecirc;ncia, foi reivindicado a realiza&ccedil;&atilde;o de per&iacute;cia m&eacute;dica no munic&iacute;pio.</p>
+<p>No percurso, foram entregues of&iacute;cios a alguns &oacute;rg&atilde;os p&uacute;blicos como forma de reivindica&ccedil;&atilde;o dessas companheiras. Na Delegacia de Pol&iacute;cia foram solicitados alguns servi&ccedil;os como agilidade nos registros de Boletim de Ocorr&ecirc;ncia; j&aacute; na Eletrobr&aacute;s as mulheres reivindicaram, al&eacute;m de outras coisas, o melhoramento da ilumina&ccedil;&atilde;o p&uacute;blica na sede dos assentamentos; no INSS, al&eacute;m de manifestar insatisfa&ccedil;&atilde;o com a discuss&atilde;o de uma nova reforma na previd&ecirc;ncia, foi reivindicado a realiza&ccedil;&atilde;o de per&iacute;cia m&eacute;dica no munic&iacute;pio.</p>
 
 <p>&nbsp;</p>
 
