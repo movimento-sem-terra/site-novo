@@ -7,7 +7,7 @@ tags:
   - tag: jornada-nacional-de-lutas
 title: "Contra a reforma da previdência somos resistência!"
 support_line: "Painel aborda impacto da reforma na vida das mulheres trabalhadoras do campo e da cidade, no centro de Porto Alegre"
-images_hd: //farm8.staticflickr.com/7875/46607488894_3e8b2046d2_b.jpg
+images_hd: //farm8.staticflickr.com/7856/47278033732_dee2f41878_b.jpg
 menu: lutas e mobilizações
 layout: post
 files:
@@ -43,7 +43,7 @@ releated_posts:
 
 <p><br />
 <em>Por Fabiana Reinholz<br />
-Brasil de Fato</em></p>
+Do Brasil de Fato</em></p>
 
 <p>&nbsp;</p>
 
@@ -88,3 +88,7 @@ A mesa foi composta pelas deputadas federais, Maria do Ros&aacute;rio (PT) e Fer
 <p>&nbsp;</p>
 
 <p>Bernadete Menezes tamb&eacute;m refor&ccedil;a que a reforma ataca o conjunto da classe, mas fundamentalmente as mulheres. &ldquo;Eles querem usar a for&ccedil;a de trabalho das mulheres para baratear o trabalho, &eacute; uma maneira para baratear esse custo de trabalho e aumentar a produtividade e a retirada de direitos. Para as mulheres &eacute; fazer trabalhar mais tempo. Para a mulher do campo &eacute; um esc&acirc;ndalo, elas come&ccedil;am desde cedo, al&eacute;m tem jornada dupla-tripla. Temos que lutar, n&atilde;o s&oacute; para resistir, mas apresentar uma sa&iacute;da para esse pa&iacute;s. N&atilde;o ser&aacute; um bando de homens de governo de direita que v&atilde;o dar a sa&iacute;da para o Brasil&rdquo;, conclui.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Solange Engelmann</em></p>
