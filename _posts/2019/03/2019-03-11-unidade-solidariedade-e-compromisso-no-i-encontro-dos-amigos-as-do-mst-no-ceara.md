@@ -4,8 +4,8 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: ceará
   - tag: resistência
-title: "Unidade, solidariedade e compromisso no 1º Encontro dos Amigos do MST no Ceará"
-support_line: Evento  marca os 30 anos de ações do MST no estado do Ceará e recebe diretores nacionais
+title: Unidade e solidariedade marcam o 1º Encontro dos Amigos do MST no Ceará
+support_line: O evento faz parte das celebrações dos 30 anos do MST no Ceará
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7831/33475792848_66dffd715a_b.jpg
 layout: post
@@ -42,52 +42,58 @@ releated_posts:
   - _posts/2019/02/2019-02-26-no-extremo-sul-da-bahia-sem-terra-recebem-a-imissao-de-posse.md
   - _posts/2018/07/2018-07-24-mst-ocupa-incra-no-ceara.md
   - _posts/2018/10/2018-10-31-acampamento-do-mst-e-incendiado-no-ceara.md
+  - _posts/2018/08/2018-08-30-mst-realiza-iii-festival-de-arte-cultura-das-escolas-do-campo.md
+  - _posts/2019/02/2019-02-28-movimentos-populares-realizam-ato-contra-a-privatizacao-do-parque-nacional-pau-brasil-na-bahia.md
+  - _posts/2019/02/2019-02-28-hhhhhhhhh.md
+  - _posts/2019/02/2019-02-28-romaria-da-terra-pauta-alimentacao-saudavel-em-assentamento-do-mst.md
+  - _posts/2019/02/2019-02-27-em-sp-cndh-e-defensoria-publica-intervem-contra-reintegracao-de-posse-de-acampamento-do-mst.md
+  - _posts/2019/02/2019-02-27-mst-participa-de-banquetaco-contra-extincao-do-consea.md
 
 ---
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p style="text-align:center"><img alt="facebook_1552260734754.jpg" height="427" src="//farm8.staticflickr.com/7874/40386447833_0c1819fe56_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="facebook_1552260734754.jpg" height="427" src="//farm8.staticflickr.com/7874/40386447833_0c1819fe56_b.jpg" width="700" />
+<figcaption><em>Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+</figure>
+</div>
 
 <p><br />
 <em>Por Aline Oliveira<br />
 Da p&aacute;gina do MST</em></p>
 
 <p><br />
-Cerca de 300 representantes de diferentes movimentos populares, sindicais, universit&aacute;rios, parlamentares e militantes, participaram do 1&ordm; Encontro dos Amigos/as do MST. A reuni&atilde;o aconteceu na noite deste s&aacute;bado (09/03), no Centro de Forma&ccedil;&atilde;o Frei Humberto, em Fortaleza/CE.</p>
+Cerca de 300 representantes de diferentes movimentos populares, sindicais, professores universit&aacute;rios e&nbsp;parlamentares, participaram do 1&ordm; Encontro dos Amigos/as do MST. A atividade&nbsp;aconteceu na noite deste &uacute;ltimo s&aacute;bado (09), no Centro de Forma&ccedil;&atilde;o Frei Humberto, em Fortaleza, capital cearense.</p>
+
+<p><br />
+A mesa de abertura contou com as fala de Jo&atilde;o Pedro Stedile e Alexandre Concei&ccedil;&atilde;o, ambos da dire&ccedil;&atilde;o nacional do MST. &ldquo;Me alegro em poder estar aqui com tantos companheiros e companheiras que s&atilde;o parte da constru&ccedil;&atilde;o do nosso movimento e da trajet&oacute;ria hist&oacute;rica da luta pela reforma agr&aacute;ria. Esta luta n&atilde;o se inicia com o MST, vem de muito longe, dos povos ind&iacute;genas, ligas camponesas, Canudos e tantas outras. O MST &eacute; apenas parte de todo esse processo hist&oacute;rico&rdquo;, afirmou&nbsp;Stedile.</p>
+
+<p><br />
+J&aacute; Alexandre Concei&ccedil;&atilde;o ressaltou a necessidade de se fazer uma resist&ecirc;ncia ativa no momento. &ldquo;Precisamos manter a nossa ess&ecirc;ncia de lutadores e lutadoras do povo na luta direta e ideol&oacute;gica, principalmente atrav&eacute;s da forma&ccedil;&atilde;o pol&iacute;tica e da produ&ccedil;&atilde;o de alimentos saud&aacute;veis. Esse &eacute; um momento hist&oacute;rico na luta pela reforma agr&aacute;ria e para isso precisamos manter a nossa unidade pol&iacute;tica e a defesa da classe trabalhadora&rdquo;, complementou.</p>
+
+<figure class="image" style="float:right"><img alt="FB_IMG_1552260719659.jpg" height="176" src="//farm8.staticflickr.com/7903/33475792838_df534559fa_b.jpg" width="300" />
+<figcaption><em>M&iacute;stica durante Encontro dos Amigos.<br />
+Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+</figure>
+
+<p><br />
+Nesse sentido, Neidinha Lopes, tamb&eacute;m da dire&ccedil;&atilde;o nacional do Movimento, diz que ao realizar o 1&ordm; encontro dos amigos e amigas do MST se materializa um&nbsp;motivo h&aacute; mais para&nbsp;celebrar o apoio e parceria ao longo destes 30 anos no Cear&aacute;. &quot;No encontro socializamos o que o movimento tem pensado sobre esse momento atual do pa&iacute;s e reafirmamos a contribui&ccedil;&atilde;o na constru&ccedil;&atilde;o e fortalecimento das organiza&ccedil;&otilde;es de esquerda em nosso pa&iacute;s&rdquo;, comentou.</p>
 
 <p>&nbsp;</p>
 
-<p>A mesa de abertura contou com as fala de Jo&atilde;o Pedro Stedille e Alexandre Concei&ccedil;&atilde;o, ambos da dire&ccedil;&atilde;o nacional do MST. &ldquo;Me alegro em poder estar aqui com tantos companheiros e companheiras que s&atilde;o parte da constru&ccedil;&atilde;o do nosso movimento e da trajet&oacute;ria hist&oacute;rica da luta pela reforma agr&aacute;ria. Esta luta n&atilde;o se inicia com o MST: vem de muito longe, dos povos ind&iacute;genas, ligas camponesas, Canudos e tantas outras. O MST &eacute; apenas parte de todo esse processo hist&oacute;rico&rdquo;, afirmou Jo&atilde;o Pedro St&eacute;dille, da dire&ccedil;&atilde;o nacional do MST.</p>
+<p>Ao falar sobre os desafios desse momento pol&iacute;tico,&nbsp;Valton Miranda, psicanalista e amigo do MST, diz que &ldquo;&eacute; fundamental que a luta ideol&oacute;gica seja desenvolvida em v&aacute;rias frentes, dentro da igreja, dos sindicatos, das universidades. A hegemonia da classe trabalhadora, que ocupam esses espa&ccedil;os, n&atilde;o pode ser constru&iacute;da sem esse conjunto que inclui a intelectualidade org&acirc;nica. &Eacute;&nbsp;preciso construir novos caminhos para a compreens&atilde;o de uma ampla hegemonia da classe trabalhadora&rdquo;, destacou.</p>
 
-<p>&nbsp;</p>
+<p><br />
+Diante dos desafios e com o sentimento de unidade e solidariedade foram reafirmados alguns&nbsp;compromissos na defesa da luta pela Reforma Agr&aacute;ria Popular pelos parlamentares, entre eles, o fortalecimento da luta da classe trabalhadora.</p>
 
-<p>J&aacute; Alexandre Concei&ccedil;&atilde;o ressaltou a necessidade de se fazer uma resist&ecirc;ncia ativa no momento. &ldquo;Precisamos manter a nossa ess&ecirc;ncia de lutadores/as do povo na luta direta e ideol&oacute;gica, principalmente atrav&eacute;s da forma&ccedil;&atilde;o pol&iacute;tica e na produ&ccedil;&atilde;o de alimentos saud&aacute;veis. Esse &eacute; um momento hist&oacute;rico na luta pela reforma agr&aacute;ria e para isso precisamos manter a nossa unidade pol&iacute;tica e defesa da classe trabalhadora&rdquo;, complementou.</p>
+<p><br />
+<strong>Hist&oacute;ria do MST Cear&aacute;</strong></p>
 
-<p style="text-align:center"><img alt="FB_IMG_1552260719659.jpg" height="410" src="//farm8.staticflickr.com/7903/33475792838_df534559fa_b.jpg" width="700" /></p>
+<p><br />
+O 1&ordm; Encontro Estadual dos Amigos e Amigas do MST no Cear&aacute; foi uma celebra&ccedil;&atilde;o dos 30 anos de lutas, conquistas e resist&ecirc;ncia popular. A primeira ocupa&ccedil;&atilde;o de terra no estado&nbsp;ocorreu em maio de 1989, na antiga fazenda Reunidos de S&atilde;o Joaquim, localizada nos munic&iacute;pios de Madalena, Quixeramobim e Boa Viagem. Nessas localidades&nbsp;foram implantadas a primeira r&aacute;dio comunit&aacute;ria&nbsp;e a primeira escola do campo de ensino m&eacute;dio, dentre outras conquistas.</p>
 
-<p>Segundo Neidinha Lopes, da dire&ccedil;&atilde;o Nacional do MST &ldquo;realizar o 1&ordm; encontro dos amigos e amigas do MST &eacute; motivo de celebrar o apoio e parceria ao longo destes 30 anos no Cear&aacute;, mas tamb&eacute;m &eacute; um espa&ccedil;o de leitura da conjuntura. Socializamos o que o movimento tem pensado sobre esse momento atual do pa&iacute;s e reafirmamos a contribui&ccedil;&atilde;o na constru&ccedil;&atilde;o e fortalecimento das organiza&ccedil;&otilde;es de esquerda brasileira&rdquo;, afirmou.</p>
-
-<p>&nbsp;</p>
-
-<p>Para Valton Miranda, Psicanalista e amigo do MST &ldquo;&eacute; fundamental que a luta ideol&oacute;gica seja desenvolvida em v&aacute;rias frentes, dentro da igreja, dos sindicatos, das universidades. A hegemonia da classe trabalhadora que ocupam esses espa&ccedil;os n&atilde;o pode ser constru&iacute;da sem esse conjunto que inclui a intelectualidade org&acirc;nica, &eacute; preciso construir novos caminhos para a compreens&atilde;o de uma ampla hegemonia da classe trabalhadora&rdquo;, completou.</p>
-
-<p>&nbsp;</p>
-
-<p>Durante a manh&atilde; de s&aacute;bado houve um encontro do MST com deputados(as) estaduais e federais, vereadores, e assessores. Com a presen&ccedil;a de Jo&atilde;o Pedro St&eacute;dille e Alexandre Concei&ccedil;&atilde;o, militantes e dirigentes do MST Cear&aacute; abriram um espa&ccedil;o de analise&nbsp; para a reafirma&ccedil;&atilde;o do compromissos dos parlamentares com o fortalecimento da luta da classe trabalhadora.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Hist&oacute;ria do MST Cear&aacute;</strong></p>
-
-<p>&nbsp;</p>
-
-<p>O 1&ordm; Encontro Estadual dos amigos e amigas do MST Cear&aacute; foi uma celebra&ccedil;&atilde;o dos 30 anos de lutas, conquistas e resist&ecirc;ncia popular. A primeira ocupa&ccedil;&atilde;o de terra no Cear&aacute; ocorreu em maio de 1989, na antiga fazenda Reunidos de S&atilde;o Joaquim, localizada nos munic&iacute;pios de Madalena, Quixeramobim e Boa Viagem. Ali foram implantadas a r&aacute;dio comunit&aacute;ria e a primeira Escola do Campo de ensino m&eacute;dio do Cear&aacute;, dentre outras conquistas trazidas pelo movimento.</p>
-
-<p>&nbsp;</p>
-
-<p>Atualmente chamado de assentamento 25 de Maio, o coletivo dever&aacute; realizar diferentes eventos em comemora&ccedil;&atilde;o aos 30 anos, como as feiras da Reforma Agr&aacute;ria, Copa Estadual da Reforma Agr&aacute;ria, Jornada Universit&aacute;ria e exposi&ccedil;&otilde;es fotogr&aacute;ficas, entre outras. A festa oficial que acontecer&aacute; de 23 a 25 de Maio, no assentamento 25 de Maio em Madalena/CE.</p>
+<p><br />
+As comemora&ccedil;&otilde;es acontecer&atilde;o no&nbsp;assentamento 25 de Maio, com a realiza&ccedil;&atilde;o de&nbsp;feiras da Reforma Agr&aacute;ria, Copa Estadual da Reforma Agr&aacute;ria, Jornada Universit&aacute;ria e exposi&ccedil;&otilde;es fotogr&aacute;ficas, entre outras atividades. A festa oficial que acontecer&aacute; de 23 a 25 de maio.</p>
 
 <p>&nbsp;</p>
 
