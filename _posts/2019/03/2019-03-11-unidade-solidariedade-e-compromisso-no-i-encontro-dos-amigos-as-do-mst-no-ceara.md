@@ -5,7 +5,7 @@ tags:
   - tag: ceará
   - tag: resistência
 title: Unidade e solidariedade marcam o 1º Encontro dos Amigos do MST no Ceará
-support_line: O evento faz parte das celebrações dos 30 anos do MST no Ceará
+support_line: O evento faz parte das celebrações dos 30 anos do MST no estado
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7831/33475792848_66dffd715a_b.jpg
 layout: post
