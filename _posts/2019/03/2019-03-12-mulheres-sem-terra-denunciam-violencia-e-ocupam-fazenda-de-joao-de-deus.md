@@ -68,7 +68,7 @@ Al&eacute;m disso, ao longo de sua atua&ccedil;&atilde;o, ele j&aacute; foi acus
 <p>Ningu&eacute;m sabe ao certo qual o valor da fortuna de Jo&atilde;o de&nbsp;&quot;Deus&quot;, entre aplica&ccedil;&otilde;es, empresas, carros,&nbsp;casas, fazendas e latif&uacute;ndios de monocultivo de gado e soja e um avi&atilde;o Seneca II de seis lugares,&nbsp;&nbsp;est&aacute; um garimpo de ouro em Nova Era, Minas Gerais.&nbsp;</p>
 
 <p><br />
-Jo&atilde;o de &quot;Deus&quot;&nbsp;tamb&eacute;m &eacute; conhecido por concentrar lotes, terras improdutivas e terrenos na cidade. Segundo levantamento realizado pela Folha de S&atilde;o Paulo em cart&oacute;rios da regi&atilde;o de Goi&aacute;s, s&atilde;o 27&nbsp;registros de im&oacute;veis em nome do &ldquo;Jo&atilde;o curador&rdquo;. Destes, 23 est&atilde;o na &aacute;rea urbana, totalizando&nbsp;19.725 m&sup2;, e quatro na zona rural, com 703 hectares, o equivalente a 985 campos de futebol.</p>
+Jo&atilde;o de &quot;Deus&quot;&nbsp;tamb&eacute;m &eacute; conhecido por concentrar lotes, terras improdutivas e terrenos na cidade. Segundo levantamento realizado pela Folha de S&atilde;o Paulo em cart&oacute;rios da regi&atilde;o de Goi&aacute;s, s&atilde;o 27&nbsp;registros de im&oacute;veis em nome do &ldquo;Jo&atilde;o curador&rdquo;. Destes, 23 est&atilde;o na &aacute;rea urbana, totalizando&nbsp;19.725 m&sup2;, e quatro na zona rural, com 703 hectares, o equivalente a 723&nbsp;campos de futebol.</p>
 
 <p><br />
 Em depoimento formal &agrave; pol&iacute;cia, o acusado afirmou ter seis fazendas em Goi&aacute;s: Crix&aacute;s,&nbsp;Itapaci, &nbsp;An&aacute;polis, &nbsp;S&atilde;o Miguel, Piren&oacute;polis e&nbsp;Abadi&acirc;nia.&nbsp;<br />
