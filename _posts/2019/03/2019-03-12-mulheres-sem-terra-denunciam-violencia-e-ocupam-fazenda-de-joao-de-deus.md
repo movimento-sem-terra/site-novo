@@ -55,7 +55,7 @@ Al&eacute;m das den&uacute;ncias no estado, mulheres de diferentes regi&otilde;e
 Na ocasi&atilde;o, o MP declarou ter registros de casos de ass&eacute;dio desde 2010, mas,&nbsp;em&nbsp;1980, j&aacute; haviam sido&nbsp;apresentadas acusa&ccedil;&otilde;es contra ele. Um dos primeiros&nbsp;relatos &eacute; o da pr&oacute;pria filha, Dalva Teixeira, de 45 anos, que declarou em um v&iacute;deo ter sofrido abuso&nbsp; sexual por parte do pai entre os 9 e 14 anos.</p>
 
 <p><br />
-Preso preventivamente desde dezembro de 2016, Jo&atilde;o de &quot;Deus&quot;&nbsp;&eacute; acusado de estupro, estupro de vulner&aacute;vel,&nbsp; viola&ccedil;&atilde;o sexual mediante fraude, estelionato, coa&ccedil;&atilde;o e corrup&ccedil;&atilde;o de testemunhas.&nbsp;</p>
+J&aacute; tendo sido preso preventivamente e depois liberado em dezembro de 2016, Jo&atilde;o de &quot;Deus&quot;&nbsp;&eacute; acusado de estupro, estupro de vulner&aacute;vel,&nbsp; viola&ccedil;&atilde;o sexual mediante fraude, estelionato, coa&ccedil;&atilde;o e corrup&ccedil;&atilde;o de testemunhas.&nbsp;</p>
 
 <p><br />
 Al&eacute;m disso, ao longo de sua atua&ccedil;&atilde;o, ele j&aacute; foi acusado de charlatanismo, sedu&ccedil;&atilde;o de&nbsp; menor, atentado ao pudor, contrabando de min&eacute;rio e at&eacute; assassinato. Influente entre autoridades, em&nbsp; nenhum dos casos o m&eacute;dium foi julgado culpado.</p>
