@@ -42,7 +42,7 @@ releated_posts:
 <br />
 &nbsp;</p>
 
-<p>Na manh&atilde; desta quinta-feira (14)&nbsp;as mulheres Sem Terra ocuparam uma das fazendas de &lsquo;Jo&atilde;o de Deus&rsquo;, em An&aacute;polis,&nbsp;interior de Goi&aacute;s.</p>
+<p>Na manh&atilde; desta quarta-feira (13)&nbsp;as mulheres Sem Terra ocuparam uma das fazendas de &lsquo;Jo&atilde;o de Deus&rsquo;, em An&aacute;polis,&nbsp;interior de Goi&aacute;s.</p>
 
 <p><br />
 A a&ccedil;&atilde;o faz parte da Jornada Nacional de Lutas das Mulheres Sem Terra que come&ccedil;ou na &uacute;ltima semana com mobiliza&ccedil;&otilde;es em todo pa&iacute;s.</p>
@@ -92,9 +92,9 @@ Al&eacute;m dessas e outras acusa&ccedil;&otilde;es, Jo&atilde;o de &quot;Deus&q
 <strong>9 -</strong> &ldquo;Jo&atilde;o de Deus&rdquo; possui 27 registros de im&oacute;veis em seu nome. Destes, 23 est&atilde;o na &aacute;rea urbana, totalizando 19.725 m&sup2;, e quatro na zona rural, com 703 hectares, equivalente a 985 campos de futebol (fonte: Folha de S&atilde;o Paulo)</p>
 
 <p><br />
-<strong>10 -</strong> &ldquo;Jo&atilde;o de Deus&rdquo; &eacute; dono da Fazenda Vista Alegre, em S&atilde;o Miguel do Araguaia (GO), na fronteira com o Mato Grosso. A propriedade de 2.893,10 hectares tem uma peculiaridade: 38,79% dela, mais precisamente 1.122,25 hectares, ficam na Floresta Estadual do Araguaia, uma &aacute;rea p&uacute;blica. (fonte: De Olho Nos Ruralistas)</p>
+10 - &ldquo;Jo&atilde;o de Deus&rdquo; &eacute; dono da Fazenda Vista Alegre, em S&atilde;o Miguel do Araguaia (GO), na fronteira com o Mato Grosso. A propriedade de 2.893,10 hectares tem uma peculiaridade: 38,79% dela, mais precisamente 1.122,25 hectares, ficam na Floresta Estadual do Araguaia, uma &aacute;rea p&uacute;blica. (fonte: De Olho Nos Ruralistas)</p>
 
-<p class="western" style="font-variant: normal; letter-spacing: normal; font-style: normal;"><br />
+<p><br />
 &nbsp;</p>
 
 <p>&nbsp;</p>
