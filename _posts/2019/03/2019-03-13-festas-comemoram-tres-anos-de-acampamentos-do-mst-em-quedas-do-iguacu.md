@@ -6,7 +6,7 @@ tags:
   - tag: assentamentos
 title: Festas comemoram três anos de acampamentos do MST em Quedas do Iguaçu
 support_line: Almoços foram distribuídos gratuitamente; 600kg de carne servidos no almoço foram frutos da produção dos próprios acampados
-menu: lutas e mobilizações
+menu: agricultura camponesa
 images_hd: //farm8.staticflickr.com/7836/32429599397_65205455a7_b.jpg
 layout: post
 files:
