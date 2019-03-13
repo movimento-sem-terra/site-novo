@@ -6,7 +6,7 @@ tags:
   - tag: mobilizações
 title: "10 fatos sobre João de \"Deus\""
 menu: lutas e mobilizações
-support_line: "Na manhã desta quinta-feira (14) mulheres Sem Terra ocuparam uma das fazendas de ‘João de Deus’, em Anápolis, interior de Goiás\n\n"
+support_line: "Na manhã desta quarta-feira (13) mulheres Sem Terra ocuparam uma das fazendas de ‘João de Deus’, em Anápolis, interior de Goiás\n\n"
 images_hd: //farm8.staticflickr.com/7910/47310349412_0299b93378_b.jpg
 layout: post
 files:
