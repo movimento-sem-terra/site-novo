@@ -39,7 +39,8 @@ releated_posts:
 </figure>
 </div>
 
-<p><em>Por Adriana Rodrigues Novais*</em></p>
+<p><br />
+<em>Por Adriana Rodrigues Novais e&nbsp;</em><em>Lucin&eacute;ia Freitas​*</em></p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
@@ -96,4 +97,6 @@ No caso das mulheres do campo, a situa&ccedil;&atilde;o se agrava ainda mais, um
 
 <p>De forma sint&eacute;tica, podemos dizer que o capitalismo no campo e na cidade se perpetua em uma simbiose racista patriarcal, e esta simbiose se manifesta na autoriza&ccedil;&atilde;o de agredir mulheres, negros/as, povos ind&iacute;genas e LGBTQ+. Dessa forma, pensar em Mar&ccedil;o como m&ecirc;s das mulheres &eacute; necessariamente pensar em luta pela supera&ccedil;&atilde;o de todas as formas de viol&ecirc;ncia que estas experimentam sobre seus corpos e territ&oacute;rios.&nbsp;&nbsp; Nesse Mar&ccedil;o, as mulheres em luta t&ecirc;m como objetivo ser a voz daquelas ainda silenciadas, isoladas pelos rinc&otilde;es do pa&iacute;s. Buscam denunciar a impunidade dos crimes contra as mulheres, entoar seus cantos de rebeldia, ocupar as ruas e os latif&uacute;ndios e gritar:&nbsp; basta de viola&ccedil;&atilde;o sobres corpos e vidas.</p>
 
-<p><em>*Adriana Rodrigues Novais</em>soci&oacute;loga e integrante do setor de G&ecirc;nero do MST e Lucin&eacute;ia Freitas, doutoranda em Sa&uacute;de P&uacute;blica e integrante do setor de G&ecirc;nero do MST.</p>
+<p>&nbsp;</p>
+
+<p><em>*Adriana Rodrigues Novais,&nbsp;</em>soci&oacute;loga e integrante do setor de G&ecirc;nero do MST e <em>Lucin&eacute;ia Freitas</em>, doutoranda em Sa&uacute;de P&uacute;blica e integrante do setor de G&ecirc;nero do MST.</p>
