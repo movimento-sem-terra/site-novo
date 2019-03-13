@@ -18,7 +18,7 @@ files:
     title: WhatsApp Image 2019-03-12 at 18.47.21.jpeg
     $$hashKey: 05M
 created_date: "2019-03-12T19:06:51-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/05/2018-05-14-a-abolicao-veio-mas-nao-libertou-e-nem-democratizou-o-pais.md
   - _posts/2018/05/2018-05-15-leonardo-boff-a-coisa-mais-importante-que-lula-conseguiu-foi-devolver-a-dignidade-aos-pobres.md
