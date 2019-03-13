@@ -19,7 +19,7 @@ files:
     title: WhatsApp Image 2019-03-12 at 18.47.21.jpeg
     $$hashKey: "065"
 created_date: "2019-03-12T19:06:23-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/03/2019-03-08-no-ceara-mst-realiza-encontro-estadual-das-mulheres-sem-terra.md
   - _posts/2019/03/2019-03-11-mulheres-se-organizam-contra-o-feminicidio-e-a-reforma-da-previdencia-no-piaui.md
@@ -37,7 +37,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Na manh&atilde; desta quarta-feira (13),&nbsp;mulheres do MST e do MCP (Movimento Campon&ecirc;s&nbsp;Popular)&nbsp;ocuparam uma das fazendas de Jo&atilde;o de &quot;Deus&quot;, em An&aacute;polis, entre os distritos de Interl&acirc;ndia e Souz&acirc;nia, no interior de Goi&aacute;s.</p>
+<p>Na manh&atilde; desta quarta-feira (13),&nbsp;mulheres do MST e do MCP (Movimento Campon&ecirc;s&nbsp;Popular)&nbsp;ocuparam a&nbsp; fazenda Agropastoril Dom&nbsp;In&aacute;cio,&nbsp;em An&aacute;polis, entre os distritos de Interl&acirc;ndia e Souz&acirc;nia, no interior de Goi&aacute;s.</p>
 
 <p><br />
 A &aacute;rea que est&aacute; sub judice tem em torno de 600 hectares&nbsp;e fica pr&oacute;xima &agrave; rodovia GO-433. A a&ccedil;&atilde;o faz&nbsp;parte da <a href="http://www.mst.org.br/2019/02/28/hhhhhhhhh.html">Jornada Nacional de Lutas das Mulheres Sem Terra </a>que come&ccedil;ou na &uacute;ltima semana com&nbsp;mobiliza&ccedil;&otilde;es em todo pa&iacute;s.</p>
