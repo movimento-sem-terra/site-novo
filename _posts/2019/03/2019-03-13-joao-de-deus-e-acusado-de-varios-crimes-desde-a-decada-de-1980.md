@@ -6,7 +6,7 @@ tags:
   - tag: mulheres
 title: "João de \"Deus\" é acusado de vários crimes desde a década de 1980"
 support_line: "Preso pela acusação de abuso sexual, o médium também concentra uma fortuna em fazendas, imóveis e garimpo"
-images_hd: //farm8.staticflickr.com/7864/46645606044_8e08f70051_b.jpg
+images_hd: //farm8.staticflickr.com/7839/33493226468_9bc28d9fd5_b.jpg
 menu: lutas e mobilizações
 layout: post
 files:
@@ -17,6 +17,13 @@ files:
     small: //farm8.staticflickr.com/7864/46645606044_8e08f70051_n.jpg
     title: photo_2019-03-12_21-59-41.jpg
     $$hashKey: 02P
+  - link: //farm8.staticflickr.com/7839/33493226468_9bc28d9fd5_b.jpg
+    original: //farm8.staticflickr.com/7839/33493226468_9d067b5d7f_o.jpg
+    thumbnail: //farm8.staticflickr.com/7839/33493226468_9bc28d9fd5_t.jpg
+    medium: //farm8.staticflickr.com/7839/33493226468_9bc28d9fd5_z.jpg
+    small: //farm8.staticflickr.com/7839/33493226468_9bc28d9fd5_n.jpg
+    title: 919dbfa3-358f-4793-9172-132a46c210ed.jpeg
+    $$hashKey: 0GA
 created_date: "2019-03-13T11:31:29-03:00"
 published: true
 releated_posts:
@@ -27,12 +34,6 @@ releated_posts:
 
 ---
 <p>&nbsp;</p>
-
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="photo_2019-03-12_21-59-41.jpg" height="600" src="//farm8.staticflickr.com/7864/46645606044_8e08f70051_b.jpg" width="600" />
-<figcaption></figcaption>
-</figure>
-</div>
 
 <p><br />
 <em>Da P&aacute;gina do MST</em></p>
@@ -46,6 +47,10 @@ releated_posts:
 
 <p><br />
 Preso no dia 16 de dezembro do ano passado, acusado de abuso sexual e venda de pedras falsas, ele se entregou &agrave; pol&iacute;cia ap&oacute;s dois dias foragidos, e em suas casas foram apreendidos cerca de R$ 1,6 milh&otilde;es em dinheiro, seis armas de fogo e pedras supostamente preciosas. Al&eacute;m da longa lista de fi&eacute;is que atraia &agrave;&nbsp;cidade, Jo&atilde;o de &ldquo;Deus&rdquo; &eacute; conhecido por um extenso n&uacute;mero de propriedades que est&atilde;o sendo investigadas pela pol&iacute;cia.</p>
+
+<figure class="image" style="float:right"><img alt="photo_2019-03-12_21-59-41.jpg" height="300" src="//farm8.staticflickr.com/7864/46645606044_8e08f70051_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 As den&uacute;ncia&nbsp;vieram a p&uacute;blico quando dez mulheres o acusaram de abuso sexual no final de 2018. Mas n&atilde;o era a primeira vez que ele era acusado por este mesmo crime. H&aacute; mais de dez anos, a advogada Camila Correia Ribeiro foi uma das primeiras mulheres a denunci&aacute;-lo por abuso sexual. Com a alega&ccedil;&atilde;o de que a menina estava acompanhada do pai e, assim sendo, poderia ter pedido ajuda, a ju&iacute;za o absolveu e o processo foi arquivado.</p>
