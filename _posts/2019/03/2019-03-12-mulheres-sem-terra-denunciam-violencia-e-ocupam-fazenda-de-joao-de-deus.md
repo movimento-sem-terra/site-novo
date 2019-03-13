@@ -37,7 +37,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Na manh&atilde; desta quinta-feira (14),&nbsp;mulheres do MST e do MCP (Movimento de Cultura Popular)&nbsp;ocuparam uma das fazendas de Jo&atilde;o de &quot;Deus&quot;, em An&aacute;polis, entre os distritos de Interl&acirc;ndia e Souz&acirc;nia, no interior de Goi&aacute;s.</p>
+<p>Na manh&atilde; desta quinta-feira (14),&nbsp;mulheres do MST e do MCP (Movimento Campon&ecirc;s&nbsp;Popular)&nbsp;ocuparam uma das fazendas de Jo&atilde;o de &quot;Deus&quot;, em An&aacute;polis, entre os distritos de Interl&acirc;ndia e Souz&acirc;nia, no interior de Goi&aacute;s.</p>
 
 <p><br />
 A &aacute;rea que est&aacute; sub judice tem em torno de 600 hectares&nbsp;e fica pr&oacute;xima &agrave; rodovia GO-433. A a&ccedil;&atilde;o faz&nbsp;parte da <a href="http://www.mst.org.br/2019/02/28/hhhhhhhhh.html">Jornada Nacional de Lutas das Mulheres Sem Terra </a>que come&ccedil;ou na &uacute;ltima semana com&nbsp;mobiliza&ccedil;&otilde;es em todo pa&iacute;s.</p>
