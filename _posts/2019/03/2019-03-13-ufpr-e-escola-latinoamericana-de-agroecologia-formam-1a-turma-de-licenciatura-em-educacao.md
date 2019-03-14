@@ -5,7 +5,7 @@ tags:
   - tag: paraná
   - tag: formação
 title: UFPR e Escola Latinoamericana de Agroecologia formam 1ª turma de Licenciatura em Educação
-support_line: "Estudantes de cinco estados brasileiros se formaram esta semana, na Lapa-PA"
+support_line: "Estudantes de cinco estados brasileiros se formaram esta semana, na Lapa-PR"
 menu: "educação, cultura e comunicação"
 images_hd: //farm8.staticflickr.com/7908/33495229318_8dd5349a16_b.jpg
 layout: post
