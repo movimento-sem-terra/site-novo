@@ -95,6 +95,13 @@ files:
     small: //farm8.staticflickr.com/7886/46657356684_62ef374a4b_n.jpg
     title: MG3.jpeg
     $$hashKey: 06J
+  - link: //farm8.staticflickr.com/7843/40415202313_d90262c549_b.jpg
+    original: //farm8.staticflickr.com/7843/40415202313_35c8047b67_o.jpg
+    thumbnail: //farm8.staticflickr.com/7843/40415202313_d90262c549_t.jpg
+    medium: //farm8.staticflickr.com/7843/40415202313_d90262c549_z.jpg
+    small: //farm8.staticflickr.com/7843/40415202313_d90262c549_n.jpg
+    title: ITABUNABA.jpeg
+    $$hashKey: 0D6
 created_date: "2019-03-14T17:56:22-03:00"
 published: true
 releated_posts:
@@ -165,9 +172,11 @@ Da P&aacute;gina do MST*</p>
 &mdash; Brasil de Fato (@Brasil_de_Fato) <a href="https://twitter.com/Brasil_de_Fato/status/1106280083755544576?ref_src=twsrc%5Etfw">14 de mar&ccedil;o de 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<p>&nbsp;</p>
+
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="MG2.jpeg" height="466" src="//farm8.staticflickr.com/7831/40415020703_2ba086beb4_b.jpg" width="700" />
-<figcaption>Legenda</figcaption>
+<figure class="image" style="display:inline-block"><img alt="ITABUNABA.jpeg" height="525" src="//farm8.staticflickr.com/7843/40415202313_d90262c549_b.jpg" width="700" />
+<figcaption>Fotos de Itabi&uacute;na (BA)</figcaption>
 </figure>
 </div>
 
