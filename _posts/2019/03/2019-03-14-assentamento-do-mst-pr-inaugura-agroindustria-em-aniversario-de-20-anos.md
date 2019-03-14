@@ -4,7 +4,7 @@ tags:
   - tag: agroecologia
   - tag: agroindústria
   - tag: paraná
-title: Assentamento do MST-PR inaugura Agroindústria em aniversário de 20 anos
+title: Assentamento do MST inaugura Agroindústria em aniversário de 20 anos
 support_line: "Festa do Assentamento Dorcelina Folador, localizado em Arapongas, vai acontecer nesta sexta-feira (15)"
 menu: agricultura camponesa
 sector: production
@@ -50,7 +50,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Assen. Dorcelina Folador_joka-madruga.gif" src="//farm8.staticflickr.com/7919/47378074601_a8254a2f0e_b.jpg" />
+<figure class="image" style="display:inline-block"><img alt="Assen. Dorcelina Folador_joka-madruga.gif" height="375" src="//farm8.staticflickr.com/7919/47378074601_a8254a2f0e_b.jpg" width="600" />
 <figcaption><em>Foto: Joka Madruga</em></figcaption>
 </figure>
 </div>
@@ -73,7 +73,7 @@ Da P&aacute;gina do MST</em></p>
 <p>&nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Agroindústria de Laticínio_Foto Joka Madruga  (1).jpg" height="467" src="//farm8.staticflickr.com/7857/40412624003_51610a0a5b_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="Agroindústria de Laticínio_Foto Joka Madruga  (1).jpg" height="401" src="//farm8.staticflickr.com/7857/40412624003_51610a0a5b_b.jpg" width="600" />
 <figcaption><em>Foto: Joka Madruga</em></figcaption>
 </figure>
 </div>
@@ -90,15 +90,14 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>A estrutura e os equipamentos foram adquiridos a partir de recursos pr&oacute;prio dos assentados, que integram a Cooperativa de Comercializa&ccedil;&atilde;o e Reforma Agr&aacute;ria Uni&atilde;o Camponesa (Copran), e por meio de um projeto vinculado &agrave; Secretaria de Agricultura do Estado. Atualmente a Copran atende 32 munic&iacute;pios e 500 escolas municipais e estaduais com o abastecimento de merenda escolar, por meio do Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (PNAE).&nbsp;</p>
-
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Agroindústria de Laticínio_Foto Joka Madruga  (3).jpg" height="467" src="//farm8.staticflickr.com/7873/47378074651_de2ea9c142_b.jpg" width="700" />
+<figure class="image" style="float:left"><img alt="Agroindústria de Laticínio_Foto Joka Madruga  (3).jpg" height="200" src="//farm8.staticflickr.com/7873/47378074651_de2ea9c142_b.jpg" width="300" />
 <figcaption><em>Foto: Joka Madruga</em></figcaption>
 </figure>
-</div>
 
-<p>Essa ser&aacute; a segunda agroind&uacute;stria conquistada pelo assentamento Dorcelina Folador. A primeira foi criada em 2013 e industrializa cerca de 40 mil litros de leite por dia, vinda da produ&ccedil;&atilde;o do assentamento e de aproximadamente 4 mil fam&iacute;lias de munic&iacute;pios da redondeza. A ind&uacute;stria possibilitada a pasteuriza&ccedil;&atilde;o do leite e a produ&ccedil;&atilde;o de derivados, como queijo mussarela, manteiga e iogurte. Os produtos est&atilde;o nas prateleiras de mercados de Londrina, Maring&aacute; e Curitiba, com a marca Campo Vivo.</p>
+<p>A estrutura e os equipamentos foram adquiridos a partir de recursos pr&oacute;prio dos assentados, que integram a Cooperativa de Comercializa&ccedil;&atilde;o e Reforma Agr&aacute;ria Uni&atilde;o Camponesa (Copran), e por meio de um projeto vinculado &agrave; Secretaria de Agricultura do Estado. Atualmente a Copran atende 32 munic&iacute;pios e 500 escolas municipais e estaduais com o abastecimento de merenda escolar, por meio do Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (PNAE).&nbsp;</p>
+
+<p><br />
+Essa ser&aacute; a segunda agroind&uacute;stria conquistada pelo assentamento Dorcelina Folador. A primeira foi criada em 2013 e industrializa cerca de 40 mil litros de leite por dia, vinda da produ&ccedil;&atilde;o do assentamento e de aproximadamente 4 mil fam&iacute;lias de munic&iacute;pios da redondeza. A ind&uacute;stria possibilitada a pasteuriza&ccedil;&atilde;o do leite e a produ&ccedil;&atilde;o de derivados, como queijo mussarela, manteiga e iogurte. Os produtos est&atilde;o nas prateleiras de mercados de Londrina, Maring&aacute; e Curitiba, com a marca Campo Vivo.</p>
 
 <p>&nbsp;</p>
 
@@ -106,9 +105,13 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p><img alt="Agroindústria de Laticínio_Foto Joka Madruga  (2).jpg" src="//farm8.staticflickr.com/7891/33501904218_55e2f066c2_b.jpg" /><strong>Vida comunit&aacute;ria</strong></p>
+<p><strong>Vida comunit&aacute;ria</strong></p>
 
 <p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Agroindústria de Laticínio_Foto Joka Madruga  (2).jpg" height="200" src="//farm8.staticflickr.com/7891/33501904218_55e2f066c2_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
 
 <p>Al&eacute;m do leite, das frutas e verduras, a produ&ccedil;&atilde;o do assentamento tamb&eacute;m &eacute; de gr&atilde;os e bicho da seda. Localizada a pouco mais de 30 quil&ocirc;metros de Londrina, no norte do estado, o assentamento Dorcelina Folador &eacute; formado por cerca de 430 pessoas. Das 130 fam&iacute;lias morando no local, 93 s&atilde;o assentadas.</p>
 
@@ -122,8 +125,4 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>*Editado por Fernanda Alc&acirc;ntara</p>
+<p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
