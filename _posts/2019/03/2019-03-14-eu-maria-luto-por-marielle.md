@@ -130,5 +130,10 @@ Flavia, Mara e Maria j&aacute; est&atilde;o nas ruas acompanhadas pelo coro que 
 <p><br />
 Mais do que um dia de tristeza, hoje &eacute; dia de exigir justi&ccedil;a e perguntar quem mandou matar Anderson e Marielle. A resposta dessa pergunta nos dir&aacute; tamb&eacute;m sobre n&oacute;s, sobre quem tamb&eacute;m nos mata para nos impedir de lutar.</p>
 
-<p style="margin-bottom: 0.29cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 115%; orphans: 2; widows: 2"><br />
-&nbsp;</p>
+<p style="margin-bottom: 0.29cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 115%; orphans: 2; widows: 2">&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Para ver mais fotos e v&iacute;deos sobre os atos em todo Brasil, acesse as nossas redes oficiais no&nbsp;<a href="https://www.facebook.com/MovimentoSemTerra/">Facebook</a>,&nbsp;<a href="https://twitter.com/mst_oficial">Twitter</a>&nbsp;e&nbsp;<a href="http://www.mst.org.br/2019/02/28/hhhhhhhhh.html">Instagram</a>.&nbsp;</em></p>
+
+<div>&nbsp;</div>
