@@ -4,7 +4,7 @@ tags:
   - tag: vale
   - tag: mulheres
   - tag: jornada-de-lutas
-title: Por justiça a Marielle e aos mortos da mineração mulheres paralisam o trem da Vale em MG
+title: "Por justiça a Marielle e aos mortos da mineração, mulheres paralisam o trem da Vale em MG"
 support_line: "No dia em que o assassinato de Marielle completa um ano, as mulheres do MST e do MAM prestam homenagem à memória da vereadora e encerram a jornada de lutas denunciando os crimes da Vale"
 menu: lutas e mobilizações
 section: cover
