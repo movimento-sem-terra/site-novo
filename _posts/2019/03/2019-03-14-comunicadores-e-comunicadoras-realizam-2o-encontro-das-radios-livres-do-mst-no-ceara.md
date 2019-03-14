@@ -43,7 +43,11 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p style="text-align:center"><img alt="Encontro rádio Ceará2.jpg" height="525" src="//farm8.staticflickr.com/7886/46464529495_bc05028ea7_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Encontro rádio Ceará1.jpg" height="333" src="//farm8.staticflickr.com/7825/46464529435_f10d928205_b.jpg" width="500" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p><em>Por Gustavo Marinho<br />
 Da P&aacute;gina do MST</em></p>
@@ -55,6 +59,10 @@ Da P&aacute;gina do MST</em></p>
 <p>&nbsp;</p>
 
 <p>&ldquo;Nosso objetivo &eacute; poder debater o papel da comunica&ccedil;&atilde;o para as organiza&ccedil;&otilde;es e movimentos populares na atual conjuntura, tra&ccedil;ando estrat&eacute;gias para fortalecer o debate da comunica&ccedil;&atilde;o como um direito&rdquo;, destacou Aline Oliveira, do Setor de Comunica&ccedil;&atilde;o do MST. Segundo ela, o 2&ordm; Encontro relaciona os desafios gerais do conjunto do MST e seus desdobramentos nas a&ccedil;&otilde;es em comunica&ccedil;&atilde;o, especialmente nas r&aacute;dios nos assentamentos.</p>
+
+<figure class="image" style="float:left"><img alt="Encontro rádio Ceará3.jpg" height="255" src="//farm8.staticflickr.com/7895/46464529415_d2f414551f_b.jpg" width="340" />
+<figcaption></figcaption>
+</figure>
 
 <p>&ldquo;O &uacute;ltimo per&iacute;odo tem nos apontado a necessidade imediata de discutirmos a comunica&ccedil;&atilde;o popular como tarefa do conjunto da nossa organiza&ccedil;&atilde;o, pois entendemos que esta tem um papel indispens&aacute;vel na forma&ccedil;&atilde;o, informa&ccedil;&atilde;o e organiza&ccedil;&atilde;o da nossa base e de todos os sujeitos que ousam lutar e acreditar na constru&ccedil;&atilde;o de uma nova sociedade&rdquo;, comentou Oliveira. &ldquo;Assim, nosso encontro se coloca nessa conjuntura como um espa&ccedil;o de fortalecimento das nossas a&ccedil;&otilde;es e organiza&ccedil;&atilde;o coletiva para potencializar a batalha das ideias atrav&eacute;s da r&aacute;dio&rdquo;, concluiu.</p>
 
@@ -68,8 +76,11 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>A jovem Lara Vit&oacute;ria, de 15 anos, &eacute; uma das comunicadoras que participam desta edi&ccedil;&atilde;o do Encontro de R&aacute;dio. Ela apresenta o programa &ldquo;Forroz&atilde;o da 87,9&rdquo; na R&aacute;dio Vozes do Campo, do Assentamento Santana, regi&atilde;o do Sert&atilde;o Central do Cear&aacute;, e relatou da grandiosidade da experi&ecirc;ncia no Coletivo de R&aacute;dio.<br />
-&ldquo;A experi&ecirc;ncia &eacute; grande no cotidiano da r&aacute;dio. Me ajudou a perder a timidez, desenvolver minha forma de comunica&ccedil;&atilde;o com as pessoas, al&eacute;m de conseguir influenciar a participa&ccedil;&atilde;o de outros jovens da comunidade na r&aacute;dio&rdquo;, relatou Lara Vit&oacute;ria.</p>
+<p>A jovem Lara Vit&oacute;ria, de 15 anos, &eacute; uma das comunicadoras que participam desta edi&ccedil;&atilde;o do Encontro de R&aacute;dio. Ela apresenta o programa &ldquo;Forroz&atilde;o da 87,9&rdquo; na R&aacute;dio Vozes do Campo, do Assentamento Santana, regi&atilde;o do Sert&atilde;o Central do Cear&aacute;, e relatou da grandiosidade da experi&ecirc;ncia no Coletivo de R&aacute;dio.</p>
+
+<p>&nbsp;</p>
+
+<p>&ldquo;A experi&ecirc;ncia &eacute; grande no cotidiano da r&aacute;dio. Me ajudou a perder a timidez, desenvolver minha forma de comunica&ccedil;&atilde;o com as pessoas, al&eacute;m de conseguir influenciar a participa&ccedil;&atilde;o de outros jovens da comunidade na r&aacute;dio&rdquo;, relatou Lara Vit&oacute;ria.</p>
 
 <p>&nbsp;</p>
 
@@ -77,7 +88,11 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>&ldquo;Tem dois programas que eu gosto muito na nossa grade: o programa A Hora da Bola e o programa Acorda Campon&ecirc;s&rdquo;, explicou Lara Vit&oacute;ria. &ldquo;O Acorda Campon&ecirc;s, que vai ao ar &agrave;s seis horas da manh&atilde;, &eacute; um programa dedicado ao resgate da cultura camponesa, em especial as cantorias populares, que a gente j&aacute; n&atilde;o encontra em outros lugares, muito menos nas r&aacute;dios tradicionais&rdquo;.<br />
+<p>&ldquo;Tem dois programas que eu gosto muito na nossa grade: o programa A Hora da Bola e o programa Acorda Campon&ecirc;s&rdquo;, explicou Lara Vit&oacute;ria. &ldquo;O Acorda Campon&ecirc;s, que vai ao ar &agrave;s seis horas da manh&atilde;, &eacute; um programa dedicado ao resgate da cultura camponesa, em especial as cantorias populares, que a gente j&aacute; n&atilde;o encontra em outros lugares, muito menos nas r&aacute;dios tradicionais&rdquo;.</p>
+
+<p>&nbsp;</p>
+
+<p><br />
 A apresentadora do Forroz&atilde;o da 87,9 &eacute; uma das comunicadoras mais entusiasmadas com a possibilidade de participar do Encontro de R&aacute;dios. &ldquo;Aqui a gente tem aprendido muitas coisas novas que v&atilde;o ajudar muito no nosso trabalho nas r&aacute;dios... Estamos reconhecendo e descobrindo nosso papel enquanto comunicadores&rdquo;, comentou.</p>
 
 <p>&nbsp;</p>
