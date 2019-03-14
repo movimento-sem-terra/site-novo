@@ -54,7 +54,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Dando continuidade ao processo de forma&ccedil;&atilde;o e organiza&ccedil;&atilde;o dos Coletivos de R&aacute;dios do MST no Cear&aacute;, acontece desde o dia quarta-feira (13/03) o 2&ordm; Encontro das R&aacute;dios Livres do MST. Diversos comunicadores e comunicadoras relatam experi&ecirc;ncias das sete r&aacute;dios livres do Movimento no estado. Com tr&ecirc;s dias de programa&ccedil;&atilde;o, o evento re&uacute;ne debates, troca de experi&ecirc;ncias e oficinas pr&aacute;ticas para potencializar o trabalho radiof&ocirc;nico nas &aacute;reas de Reforma Agr&aacute;ria.</p>
+<p>Dando continuidade ao processo de forma&ccedil;&atilde;o e organiza&ccedil;&atilde;o dos Coletivos de R&aacute;dios do MST no Cear&aacute;, acontece desde quarta-feira (13/03) o 2&ordm; Encontro das R&aacute;dios Livres do MST. Diversos comunicadores e comunicadoras relatam experi&ecirc;ncias das sete r&aacute;dios livres do Movimento no estado. Com tr&ecirc;s dias de programa&ccedil;&atilde;o, o evento re&uacute;ne debates, troca de experi&ecirc;ncias e oficinas pr&aacute;ticas para potencializar o trabalho radiof&ocirc;nico nas &aacute;reas de Reforma Agr&aacute;ria.</p>
 
 <p>&nbsp;</p>
 
@@ -88,7 +88,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>&ldquo;Tem dois programas que eu gosto muito na nossa grade: o programa A Hora da Bola e o programa Acorda Campon&ecirc;s&rdquo;, explicou Lara Vit&oacute;ria. &ldquo;O Acorda Campon&ecirc;s, que vai ao ar &agrave;s seis horas da manh&atilde;, &eacute; um programa dedicado ao resgate da cultura camponesa, em especial as cantorias populares, que a gente j&aacute; n&atilde;o encontra em outros lugares, muito menos nas r&aacute;dios tradicionais&rdquo;.</p>
+<p>&ldquo;Tem dois programas que eu gosto muito na nossa grade: o programa A Hora da Bola e o programa Acorda Campon&ecirc;s&rdquo;, explicou Lara Vit&oacute;ria sobre o Encontro, que termina nesta sexta (15/03). &ldquo;O Acorda Campon&ecirc;s, que vai ao ar &agrave;s seis horas da manh&atilde;, &eacute; um programa dedicado ao resgate da cultura camponesa, em especial as cantorias populares, que a gente j&aacute; n&atilde;o encontra em outros lugares, muito menos nas r&aacute;dios tradicionais&rdquo;.</p>
 
 <p>&nbsp;</p>
 
