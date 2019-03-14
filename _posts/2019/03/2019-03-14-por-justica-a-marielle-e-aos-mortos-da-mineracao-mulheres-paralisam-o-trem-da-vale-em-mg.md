@@ -5,7 +5,7 @@ tags:
   - tag: mulheres
   - tag: jornada-de-lutas
 title: "Por justiça a Marielle e aos mortos da mineração, mulheres paralisam o trem da Vale em MG"
-support_line: "No dia em que o assassinato de Marielle completa um ano, as mulheres do MST e do MAM prestam homenagem à memória da vereadora e encerram a jornada de lutas denunciando os crimes da Vale"
+support_line: "No dia em que o assassinato de Marielle completa um ano, as mulheres do MST e do MAM prestam homenagem e denunciam os crimes da Vale"
 menu: lutas e mobilizações
 section: cover
 images_hd: //farm8.staticflickr.com/7867/40410454023_4b15a5bea7_b.jpg
@@ -48,7 +48,11 @@ releated_posts:
   - _posts/2019/03/2019-03-09-contra-a-reforma-da-previdencia-somos-resistencia.md
 
 ---
-<p><img alt="WhatsApp Image 2019-03-14 at 06.10.24(3).jpeg" height="525" src="//farm8.staticflickr.com/7867/40410454023_4b15a5bea7_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-03-14 at 06.10.24(3).jpeg" height="525" src="//farm8.staticflickr.com/7867/40410454023_4b15a5bea7_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
@@ -81,8 +85,11 @@ Em Minas Gerais 1.7 milh&atilde;o de pessoas moram em cidades onde ao menos uma 
 <p><br />
 &ldquo;A VALE matou meu irm&atilde;o. Foi um crime que abalou nossa fam&iacute;lia e nossa comunidade. Matou o rio Paraopeba que era nossa fonte de sustento, onde meu irm&atilde;o e nossa fam&iacute;lia pescava. O nosso rio agora chora min&eacute;rio, chora &aacute;gua e chora sangue! Tem muito sangue humano no rio, &eacute; muita tristeza&rdquo;, lamenta Izabel Andr&eacute;, moradora do Tejuco, comunidade atingida.</p>
 
-<p><br />
-<img alt="WhatsApp Image 2019-03-14 at 06.10.24.jpeg" height="450" src="//farm8.staticflickr.com/7837/40410454073_387bac2a42_b.jpg" width="600" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-03-14 at 06.10.24.jpeg" height="450" src="//farm8.staticflickr.com/7837/40410454073_387bac2a42_b.jpg" width="600" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p><br />
 O que fica para as mulheres que vivem em territ&oacute;rios onde est&atilde;o instaladas mineradoras &eacute; a viol&ecirc;ncia, prostitui&ccedil;&atilde;o, explora&ccedil;&atilde;o do trabalho, expuls&atilde;o de territ&oacute;rios, contamina&ccedil;&atilde;o de rios, problemas de sa&uacute;de f&iacute;sica e psicol&oacute;gica pr&oacute;pria e dos filhos, jornadas extensas de trabalho, roubo da &aacute;gua e precariza&ccedil;&atilde;o da vida.</p>
