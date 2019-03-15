@@ -91,7 +91,7 @@ Para Ivair Juncoski, tamb&eacute;m morador do assentamento Marcos Freire, o MST 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="5 - Foto - Jaine Amorin.jpeg" height="467" src="//farm8.staticflickr.com/7811/46663177084_7733e0d9dc_b.jpg" width="700" />
-<figcaption>Legenda</figcaption>
+<figcaption>Foto: Jaine Amorin</figcaption>
 </figure>
 </div>
 
