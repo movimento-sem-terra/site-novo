@@ -40,13 +40,12 @@ releated_posts:
 </div>
 
 <p><br />
-<em>Por Adriana Rodrigues Novais e&nbsp;</em><em>Lucin&eacute;ia Freitas​*</em></p>
-
-<p><em>Da P&aacute;gina do MST</em></p>
+<em>Por Adriana Rodrigues Novais e&nbsp;</em><em>Lucin&eacute;ia Freitas​*<br />
+Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Durante o m&ecirc;s mar&ccedil;o as propagandas na televis&atilde;o mostram celebra&ccedil;&otilde;es e flores. Trata-se de uma cortina de fuma&ccedil;a para as reportagens veiculadas ao longo do ano sobre a permanente viol&ecirc;ncia contra mulher. Com objetivo de aquecer as vendas e garantir o lucro, festeja-se a data e homenageia-se as mulheres, destacando-as como vencedoras ou investidoras. A mesma televis&atilde;o busca esconder nos sorrisos fabricados do &ldquo;Feliz dia!&rdquo; as mulheres que, organizadas com suas pr&oacute;prias bandeiras, flores, cantos e tambores, denunciam as in&uacute;meras viola&ccedil;&otilde;es que uma sociedade patriarcal, racista e capitalista imp&otilde;es sobre seus corpos e territ&oacute;rios.</p>
+<p>Durante o m&ecirc;s o mar&ccedil;o as propagandas na televis&atilde;o mostram celebra&ccedil;&otilde;es e flores. Trata-se de uma cortina de fuma&ccedil;a para as reportagens veiculadas ao longo do ano sobre a permanente viol&ecirc;ncia contra mulher. Com objetivo de aquecer as vendas e garantir o lucro, festeja-se a data e homenageia-se as mulheres, destacando-as como vencedoras ou investidoras. A mesma televis&atilde;o busca esconder nos sorrisos fabricados do &ldquo;Feliz Dia!&rdquo;, as mulheres que, organizadas com suas pr&oacute;prias bandeiras, flores, cantos e tambores, denunciam as in&uacute;meras viola&ccedil;&otilde;es que uma sociedade patriarcal, racista e capitalista imp&otilde;em&nbsp;sobre seus corpos e territ&oacute;rios.</p>
 
 <p>&nbsp;</p>
 
