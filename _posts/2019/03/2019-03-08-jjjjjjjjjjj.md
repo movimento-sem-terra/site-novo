@@ -135,7 +135,7 @@ releated_posts:
   - _posts/2019/03/2019-03-08-minuto-a-minuto-or-no-08-de-marco-mulheres-ocupam-as-ruas-do-brasil-por-direitos.md
   - _posts/2019/03/2019-03-08-mil-camponesas-participam-de-ato-unitario-do-8-de-marco-em-maceio.md
   - _posts/2019/02/2019-02-22-direto-da-fronteira-movimentos-brasileiros-lancam-manifesto-pela-paz-na-venezuela.md
-section: cover
+section: featured-news
 
 ---
 <p>&nbsp;</p>
