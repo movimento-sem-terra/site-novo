@@ -181,18 +181,20 @@ Em muitas destas manifesta&ccedil;&otilde;es foram levantadas outras pautas que 
 
 <p>&nbsp;</p>
 
-<p>Acompanhe abaixo algumas das a&ccedil;&otilde;es em que as mulheres Sem Terra estiveram presentes:</p>
+<p style="text-align: center;">Acompanhe abaixo algumas das a&ccedil;&otilde;es em que as mulheres Sem Terra estiveram presentes:</p>
 
 <blockquote class="twitter-tweet" data-lang="pt">
-<p dir="ltr" lang="pt">&ldquo;Ser mulher negra &eacute; resistir e sobreviver o tempo todo&rdquo;, afirmou Marielle Franco em entrevista ao <a href="https://twitter.com/hashtag/BrasildeFato?src=hash&amp;ref_src=twsrc%5Etfw">#BrasildeFato</a> em 2017. Em ato pela vida das mulheres, ela &eacute; lembrada pela resist&ecirc;ncia di&aacute;ria que travava na defesa dos direitos dos grupos marginalizados. <a href="https://twitter.com/hashtag/QuemMandouMatarMarielle?src=hash&amp;ref_src=twsrc%5Etfw">#QuemMandouMatarMarielle</a> <a href="https://t.co/GszXRMj8zN">pic.twitter.com/GszXRMj8zN</a></p>
-&mdash; Brasil de Fato (@Brasil_de_Fato) <a href="https://twitter.com/Brasil_de_Fato/status/1106280083755544576?ref_src=twsrc%5Etfw">14 de mar&ccedil;o de 2019</a></blockquote>
+<p dir="ltr" lang="pt" style="text-align: center;">&ldquo;Ser mulher negra &eacute; resistir e sobreviver o tempo todo&rdquo;, afirmou Marielle Franco em entrevista ao <a href="https://twitter.com/hashtag/BrasildeFato?src=hash&amp;ref_src=twsrc%5Etfw">#BrasildeFato</a> em 2017. Em ato pela vida das mulheres, ela &eacute; lembrada pela resist&ecirc;ncia di&aacute;ria que travava na defesa dos direitos dos grupos marginalizados. <a href="https://twitter.com/hashtag/QuemMandouMatarMarielle?src=hash&amp;ref_src=twsrc%5Etfw">#QuemMandouMatarMarielle</a> <a href="https://t.co/GszXRMj8zN">pic.twitter.com/GszXRMj8zN</a></p>
+</blockquote>
+
+<blockquote class="twitter-tweet" data-lang="pt" style="text-align: center;">&mdash; Brasil de Fato (@Brasil_de_Fato) <a href="https://twitter.com/Brasil_de_Fato/status/1106280083755544576?ref_src=twsrc%5Etfw">14 de mar&ccedil;o de 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p>&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="ITABUNABA.jpeg" height="525" src="//farm8.staticflickr.com/7843/40415202313_d90262c549_b.jpg" width="700" />
-<figcaption>Fotos de Itabi&uacute;na (BA)</figcaption>
+<figcaption>Fotos de Itabuna (BA)</figcaption>
 </figure>
 </div>
 
