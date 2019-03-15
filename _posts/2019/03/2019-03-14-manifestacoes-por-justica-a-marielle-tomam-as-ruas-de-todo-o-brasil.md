@@ -176,7 +176,7 @@ Para dispersar a manifesta&ccedil;&atilde;o a pol&iacute;cia usou de&nbsp;viol&e
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="MG3.jpeg" height="466" src="//farm8.staticflickr.com/7886/46657356684_62ef374a4b_b.jpg" width="700" />
-<figcaption>Ato de mulheres do MST e MAM</figcaption>
+<figcaption>Ato de mulheres do MST e MAM em Minas Gerais (Foto: Geanini Hackbardt)</figcaption>
 </figure>
 </div>
 
@@ -184,7 +184,7 @@ Para dispersar a manifesta&ccedil;&atilde;o a pol&iacute;cia usou de&nbsp;viol&e
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Foto: Guilherme Gandolfi.jpeg" height="560" src="//farm8.staticflickr.com/7905/47334165802_267ef8a4ec_b.jpg" width="700" />
-<figcaption>Foto: Guilherme Gandolfi</figcaption>
+<figcaption>Ato pol&iacute;tico na Avenida Paulista, em S&atilde;o Paulo (Foto: Guilherme Gandolfi)</figcaption>
 </figure>
 </div>
 
@@ -192,7 +192,7 @@ Para dispersar a manifesta&ccedil;&atilde;o a pol&iacute;cia usou de&nbsp;viol&e
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Curitiba.jpeg" height="467" src="//farm8.staticflickr.com/7884/46663594924_b138238f1e_b.jpg" width="700" />
-<figcaption>Bosque Marielle Vive, em Curitiba.</figcaption>
+<figcaption>Bosque Marielle Vive, em Curitiba - PR</figcaption>
 </figure>
 </div>
 
@@ -210,8 +210,7 @@ A UEMASUL - Universidade Estadual do Sul do Maranh&atilde;o sediou uma plen&aacu
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Piauí-Maceió - Fotos: Josian Paulino.jpeg" height="525" src="//farm8.staticflickr.com/7893/47386899831_0a6a60dbcd_b.jpg" width="700" />
-<figcaption><em>Acampamento Dandara, em Macei&oacute;, capital do Alagoas<br />
-Fotos: Josian Paulino</em></figcaption>
+<figcaption>Acampamento Dandara, em Macei&oacute;, capital do Alagoas (Fotos: Josian Paulino)</figcaption>
 </figure>
 </div>
 
@@ -235,7 +234,7 @@ Em muitas destas manifesta&ccedil;&otilde;es foram levantadas outras pautas que 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="ITABUNABA.jpeg" height="525" src="//farm8.staticflickr.com/7843/40415202313_d90262c549_b.jpg" width="700" />
-<figcaption>Fotos de Itabuna (BA)</figcaption>
+<figcaption>Foto de Itabuna (BA)</figcaption>
 </figure>
 </div>
 
