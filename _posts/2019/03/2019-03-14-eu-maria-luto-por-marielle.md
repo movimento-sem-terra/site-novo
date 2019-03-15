@@ -77,17 +77,17 @@ Da P&aacute;gina do MST&nbsp;</em><br />
 Hoje, dia 14, um ano depois do assassinato da vereadora e de seu motorista Anderson Gomes, atos e mobiliza&ccedil;&otilde;es que exigem justi&ccedil;a para o caso, acontecem em diversas cidades do pa&iacute;s e do mundo.</p>
 
 <p><br />
-Marielle e Anderson viraram sin&ocirc;nimo de luta e resist&ecirc;ncia em um Brasil de justi&ccedil;a ausente.&nbsp; Assim, diante do peso dos dias, n&atilde;o basta fazer justi&ccedil;a &eacute; preciso ser a justi&ccedil;a. E Marielle - que antes tinha uma vida - agora tem milhares.</p>
+Marielle e Anderson viraram sin&ocirc;nimo de luta e resist&ecirc;ncia em um Brasil de retid&atilde;o&nbsp;ausente.&nbsp; Assim, diante do peso dos dias, n&atilde;o basta fazer justi&ccedil;a &eacute; preciso ser a justi&ccedil;a. E Marielle - que antes tinha uma vida - agora tem milhares.</p>
 
 <p><br />
-No acampamento, as faces de cada uma das mulheres era prova disso. Mulheres pol&iacute;ticas, de m&uacute;ltiplas identidades, encarna&ccedil;&atilde;o de um movimento que luta diariamente pelo desejo da terra.</p>
+No acampamento, as faces de cada uma das mulheres era prova disso. Mulheres pol&iacute;ticas, de m&uacute;ltiplas identidades, as encarna&ccedil;&otilde;es&nbsp;de um movimento que luta diariamente pelo desejo da terra.</p>
 
 <p><br />
 Mulheres como Flavia, que com seu companheiro e filha, busca por uma nova oportunidade do lado de dentro das cercas. &ldquo;Aqui a gente &eacute; uma fam&iacute;lia, um tenta suprir a necessidade do outro. Juntos produzimos, estudamos e nos cuidamos. O que conta aqui &eacute; o nosso tempo, nossa disponibilidade para o trabalho e para a luta&rdquo;, diz.</p>
 
 <p><br />
 <br />
-Luta de Marielle, que como lembrou a acampada Mara, &quot;era plural e n&atilde;o sucumbiu com a morte, ao contr&aacute;rio, brotou em cada mulher do campo e da cidade que segue lutando por democracia, por terra, trabalhos e p&atilde;o&quot;.</p>
+Luta de Marielle, que como lembrou a acampada Mara, &quot;era plural e n&atilde;o sucumbiu com a morte, pelo contr&aacute;rio, fez-se&nbsp;brotar em cada mulher do campo e da cidade que segue lutando por democracia, por terra, trabalhos e p&atilde;o&quot;.</p>
 
 <p><br />
 &ldquo;Eu sou porque somos&rdquo;, assim Maria, coordenadora do acampamento, falou sobre o consci&ecirc;ncia do abandonado povo sem terra, que ocupa a terra sem gente.</p>
