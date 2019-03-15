@@ -150,14 +150,10 @@ Ap&oacute;s um ano da execu&ccedil;&atilde;o da vereadora Marielle Franco e seu 
 Ind&iacute;cios apontam que assassinos de Marielle e Anderson est&atilde;o ligados a&nbsp;mil&iacute;cias do Rio de Janeiro&nbsp;e, mesmo com a pris&atilde;o de dois suspeitos na &uacute;ltima ter&ccedil;a-feira (12),&nbsp;ainda n&atilde;o foram divulgadas explica&ccedil;&otilde;es concretas sobre a motiva&ccedil;&atilde;o do crime.</p>
 
 <p><br />
-Diante disso, as mulheres Sem Terra realizam at&eacute; o final do m&ecirc;s de mar&ccedil;o,&nbsp;mais uma Jornada Nacional de Luta pelas Mulheres, cujo lema consiste em uma homenagem a&nbsp;vereadora: &ldquo;Pela vida das mulheres, somos todas Marielle!&rdquo;.</p>
+Diante disso, as mulheres Sem Terra realizam at&eacute; o final do m&ecirc;s de mar&ccedil;o,&nbsp;mais uma Jornada Nacional de Luta pelas Mulheres, cujo lema consiste em uma homenagem a&nbsp;vereadora: &ldquo;Pela vida das mulheres, somos todas Marielle!&rdquo;.<br />
+&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>#<strong>QuemMandouMatarMarielle</strong>?</p>
-
-<p><br />
-No final da tarde, organiza&ccedil;&otilde;es prometem voltar &agrave;s ruas com atos pol&iacute;ticos, principalmente no Rio de Janeiro, onde ocorreu o crime.</p>
+<p><strong>Rio de Janeiro&nbsp;</strong></p>
 
 <p><br />
 Manifestantes cobriram cal&ccedil;adas e paredes com imagens e flores em tr&ecirc;s principais pontos da cidade: no local do crime, no centro do Rio; nas escadarias da C&acirc;mara dos Vereadores e no Complexo da Mar&eacute;. Os Arcos da Lapa tamb&eacute;m amanheceram com uma faixa em mem&oacute;ria &agrave; vereadora, enquanto a igreja da Candel&aacute;ria realizou uma missa em sua mem&oacute;ria.</p>
@@ -169,7 +165,10 @@ Manifestantes cobriram cal&ccedil;adas e paredes com imagens e flores em tr&ecir
 </div>
 
 <p><br />
-J&aacute; em Minas Gerais, cerca de 400 mulheres do&nbsp;MST e do MAM (Movimento Pela Soberania Popular na Minera&ccedil;&atilde;o) pararam o trem que transporta &nbsp;min&eacute;rio de ferro pr&oacute;ximo a Sarzedo, cidade vizinha &agrave;&nbsp;Brumadinho.</p>
+<strong>Minas Gerais&nbsp;</strong></p>
+
+<p><br />
+Cerca de 400 mulheres do&nbsp;MST e do MAM (Movimento Pela Soberania Popular na Minera&ccedil;&atilde;o) pararam o trem que transporta &nbsp;min&eacute;rio de ferro pr&oacute;ximo a Sarzedo, cidade vizinha &agrave;&nbsp;Brumadinho.</p>
 
 <p><br />
 Para dispersar a manifesta&ccedil;&atilde;o a pol&iacute;cia usou de&nbsp;viol&ecirc;ncia atirando balas de borracha e bombas de g&aacute;s lacrimog&ecirc;nio.</p>
@@ -180,7 +179,11 @@ Para dispersar a manifesta&ccedil;&atilde;o a pol&iacute;cia usou de&nbsp;viol&e
 </figure>
 </div>
 
-<p>Em S&atilde;o Paulo, o dia amanheceu com a reuni&atilde;o de parte das 1.100 fam&iacute;lias do acampamento &lsquo;Marielle Vive!&rsquo;, em Valinhos (confira a reportagem completa <a href="http://www.mst.org.br/2019/03/14/manifestacoes-por-justica-a-marielle-tomam-as-ruas-de-todo-o-brasil.html">aqui</a>). Mulheres do campo popular, MST, MAM, Levante Popular da Juventude e Consulta Popular realizaram uma interven&ccedil;&atilde;o pol&iacute;tica com poesia e rebeldia &agrave; noite, no ato na Av. Paulista em mem&oacute;ria a um ano do brutal assassinato de Marielle Franco.</p>
+<p><br />
+<strong>S&atilde;o Paulo&nbsp;</strong></p>
+
+<p><br />
+O&nbsp;dia amanheceu com a reuni&atilde;o de parte das 1.100 fam&iacute;lias do acampamento &lsquo;Marielle Vive!&rsquo;, em Valinhos (confira a reportagem completa <a href="http://www.mst.org.br/2019/03/14/manifestacoes-por-justica-a-marielle-tomam-as-ruas-de-todo-o-brasil.html">aqui</a>). Mulheres do campo popular, MST, MAM, Levante Popular da Juventude e Consulta Popular realizaram uma interven&ccedil;&atilde;o pol&iacute;tica com poesia e rebeldia &agrave; noite, no ato na Av. Paulista em mem&oacute;ria a um ano do brutal assassinato de Marielle Franco.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Foto: Guilherme Gandolfi.jpeg" height="560" src="//farm8.staticflickr.com/7905/47334165802_267ef8a4ec_b.jpg" width="700" />
@@ -188,7 +191,11 @@ Para dispersar a manifesta&ccedil;&atilde;o a pol&iacute;cia usou de&nbsp;viol&e
 </figure>
 </div>
 
-<p>No Paran&aacute;, integrantes do MST desenvolveram no hemocentro do Hospital Universit&aacute;rio de Londrina uma campanha de doa&ccedil;&atilde;o de sangue como forma de protesto. Em Curitiba, camponeses do MST e militantes do Congresso do Povo realizaram limpeza e revitaliza&ccedil;&atilde;o de horta em uma creche e a&ccedil;&otilde;es dem v&aacute;rias comunidades da cidade, incluindo a inaugura&ccedil;&atilde;o do bosque Marielle Vive.</p>
+<p><br />
+<strong>Paran&aacute;&nbsp;</strong></p>
+
+<p><br />
+Integrantes do MST desenvolveram no hemocentro do Hospital Universit&aacute;rio de Londrina uma campanha de doa&ccedil;&atilde;o de sangue como forma de protesto. Em Curitiba, camponeses do MST e militantes do Congresso do Povo realizaram limpeza e revitaliza&ccedil;&atilde;o de horta em uma creche e a&ccedil;&otilde;es dem v&aacute;rias comunidades da cidade, incluindo a inaugura&ccedil;&atilde;o do bosque Marielle Vive.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Curitiba.jpeg" height="467" src="//farm8.staticflickr.com/7884/46663594924_b138238f1e_b.jpg" width="700" />
@@ -196,19 +203,21 @@ Para dispersar a manifesta&ccedil;&atilde;o a pol&iacute;cia usou de&nbsp;viol&e
 </figure>
 </div>
 
-<figure class="image" style="float:right"><img alt="Juazeiro.jpeg" height="339" src="//farm8.staticflickr.com/7860/47380368911_478e52dbd0_b.jpg" width="191" />
-<figcaption>Juazeiro da Bahia</figcaption>
-</figure>
+<p><br />
+<strong>Bahia</strong></p>
 
 <p><br />
-A Bahia tamb&eacute;m sediou diversos eventos: na cidade de Itaberaba, 250 mulheres de todas as regi&otilde;es da Chapada Diamantina caminharam&nbsp; pelas ruas do centro com faixas e cartazes; Juazeiro da Bahia tamb&eacute;m contou com cerca de 250 mulheres nas ruas reivindicando o direito pela vida das mulheres e lembraram de Marielle; em Eun&aacute;polis, no extremo sul da Bahia, Mulheres Sem Terra marcharam pelo centro da cidade demandando justi&ccedil;a; em Itabi&uacute;na, 100 mulheres de diversos movimentos e organiza&ccedil;&otilde;es populares ocuparam as ruas da cidade pela mem&oacute;ria de Marielle Franco e em denuncia a viol&ecirc;ncia contra mulher. No ano passado a cidade foi considerada a segunda cidade mais perigosa para as mulheres baianas.</p>
+Na cidade de Itaberaba, 250 mulheres de todas as regi&otilde;es da Chapada Diamantina caminharam&nbsp; pelas ruas do centro com faixas e cartazes; Juazeiro da Bahia tamb&eacute;m contou com cerca de 250 mulheres nas ruas reivindicando o direito pela vida das mulheres e lembraram de Marielle; em Eun&aacute;polis, no extremo sul da Bahia, Mulheres Sem Terra marcharam pelo centro da cidade demandando justi&ccedil;a; em Itabuna, 100 mulheres de diversos movimentos e organiza&ccedil;&otilde;es populares ocuparam as ruas da cidade pela mem&oacute;ria de Marielle Franco e em denuncia a viol&ecirc;ncia contra mulher. No ano passado a cidade foi considerada a segunda cidade mais perigosa para as mulheres baianas.</p>
 
 <p><br />
-A UEMASUL - Universidade Estadual do Sul do Maranh&atilde;o sediou uma plen&aacute;ria articulada pelo F&oacute;rum de Mulheres&nbsp; homegem a Marielle, na cidade Imperatriz, segunda maior cidade do estado.</p>
+<strong>Maranh&atilde;o</strong><br />
+<br />
+A&nbsp;Universidade Estadual do Sul do Maranh&atilde;o (UEMASUL) sediou uma plen&aacute;ria articulada pelo F&oacute;rum de Mulheres&nbsp;homenagem a Marielle, na cidade Imperatriz, segunda maior cidade do estado.</p>
 
-<p>&nbsp;</p>
-
-<p>Houveram manifesta&ccedil;&otilde;es em mem&oacute;ria a Marielle em Alagoas na cidade de Delmiro Gouveia, no sert&atilde;o do estado e no acampamento Dandara, na capital Macei&oacute;.</p>
+<p><br />
+<strong>Alagoas&nbsp;</strong><br />
+<br />
+Houveram manifesta&ccedil;&otilde;es em mem&oacute;ria a Marielle em Alagoas na cidade de Delmiro Gouveia, no sert&atilde;o do estado e no acampamento Dandara, na capital Macei&oacute;.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Piauí-Maceió - Fotos: Josian Paulino.jpeg" height="525" src="//farm8.staticflickr.com/7893/47386899831_0a6a60dbcd_b.jpg" width="700" />
@@ -216,26 +225,18 @@ A UEMASUL - Universidade Estadual do Sul do Maranh&atilde;o sediou uma plen&aacu
 </figure>
 </div>
 
-<p>O exemplo de luta de Marielle serviu de inspira&ccedil;&atilde;o n&atilde;o s&oacute; para relembrar seus projetos de um pa&iacute;s melhor, mas tamb&eacute;m abriu precedentes para a discuss&atilde;o de demandas atuais.</p>
+<p><br />
+O exemplo de luta de Marielle serviu de inspira&ccedil;&atilde;o n&atilde;o s&oacute; para relembrar seus projetos de um pa&iacute;s melhor, mas tamb&eacute;m abriu precedentes para a discuss&atilde;o de demandas atuais.</p>
 
 <p><br />
 Em muitas destas manifesta&ccedil;&otilde;es foram levantadas outras pautas que afetam as mulheres em todo o pa&iacute;s, principalmente as negras e perif&eacute;ricas, como o desmonte da Previd&ecirc;ncia, o feminic&iacute;dio no Brasil e os retrocessos do governo Bolsonaro.</p>
 
-<p>&nbsp;</p>
-
-<p>No Distrito Federal, parlamentares do PSOL organizaram um ato na C&acirc;mara dos Deputados para protestar junto &agrave; deputados de partidos como PT, PCdoB e PSB. Todos ressaltaram a import&acirc;ncia da a&ccedil;&atilde;o pelo fim da impunidade deste crime, al&eacute;m de destacar a conjuntura atual e debater sobre o futuro do campo democr&aacute;tico-popular.</p>
-
-<p>Acompanhe abaixo algumas das a&ccedil;&otilde;es em que as mulheres Sem Terra estiveram presentes:</p>
-
-<blockquote class="twitter-tweet" data-lang="pt">
-<p dir="ltr" lang="pt">&ldquo;Ser mulher negra &eacute; resistir e sobreviver o tempo todo&rdquo;, afirmou Marielle Franco em entrevista ao <a href="https://twitter.com/hashtag/BrasildeFato?src=hash&amp;ref_src=twsrc%5Etfw">#BrasildeFato</a> em 2017. Em ato pela vida das mulheres, ela &eacute; lembrada pela resist&ecirc;ncia di&aacute;ria que travava na defesa dos direitos dos grupos marginalizados. <a href="https://twitter.com/hashtag/QuemMandouMatarMarielle?src=hash&amp;ref_src=twsrc%5Etfw">#QuemMandouMatarMarielle</a> <a href="https://t.co/GszXRMj8zN">pic.twitter.com/GszXRMj8zN</a></p>
-</blockquote>
-
-<blockquote class="twitter-tweet" data-lang="pt">&mdash; Brasil de Fato (@Brasil_de_Fato) <a href="https://twitter.com/Brasil_de_Fato/status/1106280083755544576?ref_src=twsrc%5Etfw">14 de mar&ccedil;o de 2019</a></blockquote>
+<p><br />
+<strong>Bras&iacute;lia</strong><br />
+<br />
+No Distrito Federal, parlamentares do PSOL organizaram um ato na C&acirc;mara dos Deputados em conjunto com deputados de partidos como PT, PCdoB e PSB. Todos ressaltaram a import&acirc;ncia da a&ccedil;&atilde;o pelo fim da impunidade deste crime, al&eacute;m de destacar a conjuntura atual e debater sobre o futuro do campo democr&aacute;tico-popular.</p>
 
 <p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-
-<p>&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="ITABUNABA.jpeg" height="525" src="//farm8.staticflickr.com/7843/40415202313_d90262c549_b.jpg" width="700" />
