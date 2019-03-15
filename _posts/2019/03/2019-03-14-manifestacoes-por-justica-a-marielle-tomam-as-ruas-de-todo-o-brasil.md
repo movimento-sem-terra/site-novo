@@ -136,7 +136,7 @@ section: cover
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Amanhecer com Marielle_Pablo Vergara 003.jpg" height="467" src="//farm8.staticflickr.com/7806/46465311555_afe9e8e981_b.jpg" width="700" />
-<figcaption>Amanhecer com Marielle no Rio de Janeiro (Foto: Pablo Vergara)</figcaption>
+<figcaption>Amanhecer por Marielle no Rio de Janeiro (Foto: Pablo Vergara)</figcaption>
 </figure>
 </div>
 
