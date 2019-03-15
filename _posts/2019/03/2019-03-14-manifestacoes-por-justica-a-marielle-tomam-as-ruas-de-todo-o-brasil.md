@@ -206,6 +206,8 @@ A Bahia tamb&eacute;m sediou diversos eventos: na cidade de Itaberaba, 250 mulhe
 <p><br />
 A UEMASUL - Universidade Estadual do Sul do Maranh&atilde;o sediou uma plen&aacute;ria articulada pelo F&oacute;rum de Mulheres&nbsp; homegem a Marielle, na cidade Imperatriz, segunda maior cidade do estado.</p>
 
+<p>&nbsp;</p>
+
 <p>Houveram manifesta&ccedil;&otilde;es em mem&oacute;ria a Marielle em Alagoas na cidade de Delmiro Gouveia, no sert&atilde;o do estado e no acampamento Dandara, na capital Macei&oacute;.</p>
 
 <div style="text-align:center">
@@ -219,16 +221,19 @@ A UEMASUL - Universidade Estadual do Sul do Maranh&atilde;o sediou uma plen&aacu
 <p><br />
 Em muitas destas manifesta&ccedil;&otilde;es foram levantadas outras pautas que afetam as mulheres em todo o pa&iacute;s, principalmente as negras e perif&eacute;ricas, como o desmonte da Previd&ecirc;ncia, o feminic&iacute;dio no Brasil e os retrocessos do governo Bolsonaro.</p>
 
+<p>&nbsp;</p>
+
 <p>No Distrito Federal, parlamentares do PSOL organizaram um ato na C&acirc;mara dos Deputados para protestar junto &agrave; deputados de partidos como PT, PCdoB e PSB. Todos ressaltaram a import&acirc;ncia da a&ccedil;&atilde;o pelo fim da impunidade deste crime, al&eacute;m de destacar a conjuntura atual e debater sobre o futuro do campo democr&aacute;tico-popular.</p>
 
-<p style="text-align: center;">Acompanhe abaixo algumas das a&ccedil;&otilde;es em que as mulheres Sem Terra estiveram presentes:</p>
+<p>Acompanhe abaixo algumas das a&ccedil;&otilde;es em que as mulheres Sem Terra estiveram presentes:</p>
 
 <blockquote class="twitter-tweet" data-lang="pt">
-<p dir="ltr" lang="pt" style="text-align: center;">&ldquo;Ser mulher negra &eacute; resistir e sobreviver o tempo todo&rdquo;, afirmou Marielle Franco em entrevista ao <a href="https://twitter.com/hashtag/BrasildeFato?src=hash&amp;ref_src=twsrc%5Etfw">#BrasildeFato</a> em 2017. Em ato pela vida das mulheres, ela &eacute; lembrada pela resist&ecirc;ncia di&aacute;ria que travava na defesa dos direitos dos grupos marginalizados. <a href="https://twitter.com/hashtag/QuemMandouMatarMarielle?src=hash&amp;ref_src=twsrc%5Etfw">#QuemMandouMatarMarielle</a> <a href="https://t.co/GszXRMj8zN">pic.twitter.com/GszXRMj8zN</a></p>
+<p dir="ltr" lang="pt">&ldquo;Ser mulher negra &eacute; resistir e sobreviver o tempo todo&rdquo;, afirmou Marielle Franco em entrevista ao <a href="https://twitter.com/hashtag/BrasildeFato?src=hash&amp;ref_src=twsrc%5Etfw">#BrasildeFato</a> em 2017. Em ato pela vida das mulheres, ela &eacute; lembrada pela resist&ecirc;ncia di&aacute;ria que travava na defesa dos direitos dos grupos marginalizados. <a href="https://twitter.com/hashtag/QuemMandouMatarMarielle?src=hash&amp;ref_src=twsrc%5Etfw">#QuemMandouMatarMarielle</a> <a href="https://t.co/GszXRMj8zN">pic.twitter.com/GszXRMj8zN</a></p>
 </blockquote>
 
-<blockquote class="twitter-tweet" data-lang="pt" style="text-align: center;">&mdash; Brasil de Fato (@Brasil_de_Fato) <a href="https://twitter.com/Brasil_de_Fato/status/1106280083755544576?ref_src=twsrc%5Etfw">14 de mar&ccedil;o de 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="pt">&mdash; Brasil de Fato (@Brasil_de_Fato) <a href="https://twitter.com/Brasil_de_Fato/status/1106280083755544576?ref_src=twsrc%5Etfw">14 de mar&ccedil;o de 2019</a></blockquote>
+
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
 <p>&nbsp;</p>
 
