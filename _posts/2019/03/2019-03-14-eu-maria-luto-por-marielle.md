@@ -94,7 +94,7 @@ Luta de Marielle, que como lembrou a acampada Mara, &quot;era plural e n&atilde;
 
 <p><br />
 <br />
-Assim s&atilde;o as nossas Marias, assim &eacute; a for&ccedil;a de um acampamento que nasce da insurrei&ccedil;&atilde;o diante de tantas igualdades e injusti&ccedil;as.</p>
+Assim s&atilde;o as nossas Marias, gigantes na for&ccedil;a de um acampamento que nasce da insurrei&ccedil;&atilde;o diante de tantas igualdades e injusti&ccedil;as.</p>
 
 <p>&nbsp;</p>
 
@@ -106,7 +106,7 @@ Assim s&atilde;o as nossas Marias, assim &eacute; a for&ccedil;a de um acampamen
 
 <p><br />
 <br />
-Desde a funda&ccedil;&atilde;o, acampamento - que foi constru&iacute;do um m&ecirc;s depois do assassinato de Marielle e Anderson - resiste &agrave; especula&ccedil;&atilde;o imobili&aacute;ria e as ofensivas judiciais. Hoje no local, os Sem Terra d&atilde;o vida &agrave; &aacute;rea propondo um assentamento agroecol&oacute;gico para gera&ccedil;&atilde;o de trabalho, renda e alimentos saud&aacute;veis.</p>
+Desde a funda&ccedil;&atilde;o, o acampamento - que foi constru&iacute;do um m&ecirc;s depois do assassinato de Marielle e Anderson - resiste &agrave; especula&ccedil;&atilde;o imobili&aacute;ria e as ofensivas judiciais. Hoje no local, os Sem Terra d&atilde;o vida &agrave; &aacute;rea propondo um assentamento agroecol&oacute;gico para gera&ccedil;&atilde;o de trabalho, renda e alimentos saud&aacute;veis.</p>
 
 <p><br />
 <br />
