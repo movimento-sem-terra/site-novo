@@ -4,8 +4,8 @@ tags:
   - tag: marielle-vive
   - tag: lutas
   - tag: mobilizações
-title: "Eu Maria, luto por Marielle!\n\n"
-support_line: "Hoje, dia 14, um ano depois do assassinato da vereadora e de seu motorista Anderson Gomes, atos e mobilizações que exigem justiça para o caso, acontecem em diversas cidades do país e do mundo"
+title: "Eu Maria, luto por Marielle!"
+support_line: "Hoje, dia 14, um ano depois do assassinato da vereadora e de seu motorista Anderson Gomes, atos e mobilizações exigem justiça"
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7914/46465491665_b0b98079d7_b.jpg
 layout: post
@@ -59,7 +59,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-03-14 at 17.43.54 (1).jpeg" height="466" src="//farm8.staticflickr.com/7860/47380454401_5050087660_b.jpg" width="700" />
-<figcaption>Fotos texto e capa: Jos&eacute; Eduardo Bernardes&nbsp;/&nbsp;Brasil de Fato</figcaption>
+<figcaption><em>Fotos e capa: Jos&eacute; Eduardo Bernardes&nbsp;/&nbsp;Brasil de Fato</em></figcaption>
 </figure>
 </div>
 
