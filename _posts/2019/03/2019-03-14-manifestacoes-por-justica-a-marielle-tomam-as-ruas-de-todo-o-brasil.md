@@ -109,6 +109,20 @@ files:
     small: //farm8.staticflickr.com/7884/46663594924_b138238f1e_n.jpg
     title: Curitiba.jpeg
     $$hashKey: 12L
+  - link: //farm8.staticflickr.com/7893/47386899831_0a6a60dbcd_b.jpg
+    original: //farm8.staticflickr.com/7893/47386899831_fdbcd2e220_o.jpg
+    thumbnail: //farm8.staticflickr.com/7893/47386899831_0a6a60dbcd_t.jpg
+    medium: //farm8.staticflickr.com/7893/47386899831_0a6a60dbcd_z.jpg
+    small: //farm8.staticflickr.com/7893/47386899831_0a6a60dbcd_n.jpg
+    title: "Piauí-Maceió - Fotos: Josian Paulino.jpeg"
+    $$hashKey: "065"
+  - link: //farm8.staticflickr.com/7905/47334165802_267ef8a4ec_b.jpg
+    original: //farm8.staticflickr.com/7905/47334165802_7771607aff_o.jpg
+    thumbnail: //farm8.staticflickr.com/7905/47334165802_267ef8a4ec_t.jpg
+    medium: //farm8.staticflickr.com/7905/47334165802_267ef8a4ec_z.jpg
+    small: //farm8.staticflickr.com/7905/47334165802_267ef8a4ec_n.jpg
+    title: "SP - Fotos: Guilherme Gandolfi.jpeg"
+    $$hashKey: 068
 created_date: "2019-03-14T17:56:22-03:00"
 published: true
 releated_posts:
@@ -166,27 +180,47 @@ Para dispersar a manifesta&ccedil;&atilde;o a pol&iacute;cia usou de&nbsp;viol&e
 </figure>
 </div>
 
-<p><br />
-No Paran&aacute;, integrantes do MST desenvolveram no hemocentro do Hospital Universit&aacute;rio de Londrina uma campanha de doa&ccedil;&atilde;o de sangue como forma de protesto. Na capital Curitiba, camponeses do MST e militantes do Congresso do Povo realizaram limpeza e revitaliza&ccedil;&atilde;o de horta em uma creche, al&eacute;m de promover a&ccedil;&otilde;es de trabalho de base em v&aacute;rias comunidades da cidade, incluindo a inaugura&ccedil;&atilde;o do bosque Marielle Vive.</p>
+<p>Em S&atilde;o Paulo, o dia amanheceu com a reuni&atilde;o de parte das 1.100 fam&iacute;lias do acampamento &lsquo;Marielle Vive!&rsquo;, em Valinhos (confira a reportagem completa <a href="http://www.mst.org.br/2019/03/14/manifestacoes-por-justica-a-marielle-tomam-as-ruas-de-todo-o-brasil.html">aqui</a>). Mulheres do campo popular, MST, MAM, Levante Popular da Juventude e Consulta Popular realizaram uma interven&ccedil;&atilde;o pol&iacute;tica com poesia e rebeldia &agrave; noite, no ato na Av. Paulista em mem&oacute;ria a um ano do brutal assassinato de Marielle Franco.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Foto: Guilherme Gandolfi.jpeg" height="560" src="//farm8.staticflickr.com/7905/47334165802_267ef8a4ec_b.jpg" width="700" />
+<figcaption>Foto: Guilherme Gandolfi</figcaption>
+</figure>
+</div>
+
+<p>No Paran&aacute;, integrantes do MST desenvolveram no hemocentro do Hospital Universit&aacute;rio de Londrina uma campanha de doa&ccedil;&atilde;o de sangue como forma de protesto. Em Curitiba, camponeses do MST e militantes do Congresso do Povo realizaram limpeza e revitaliza&ccedil;&atilde;o de horta em uma creche e a&ccedil;&otilde;es dem v&aacute;rias comunidades da cidade, incluindo a inaugura&ccedil;&atilde;o do bosque Marielle Vive.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Curitiba.jpeg" height="467" src="//farm8.staticflickr.com/7884/46663594924_b138238f1e_b.jpg" width="700" />
+<figcaption>Bosque Marielle Vive, em Curitiba.</figcaption>
+</figure>
+</div>
 
 <figure class="image" style="float:right"><img alt="Juazeiro.jpeg" height="339" src="//farm8.staticflickr.com/7860/47380368911_478e52dbd0_b.jpg" width="191" />
 <figcaption>Juazeiro da Bahia</figcaption>
 </figure>
 
-<p><img alt="Curitiba.jpeg" src="//farm8.staticflickr.com/7884/46663594924_b138238f1e_b.jpg" /><br />
+<p><br />
 A Bahia tamb&eacute;m sediou diversos eventos: na cidade de Itaberaba, 250 mulheres de todas as regi&otilde;es da Chapada Diamantina caminharam&nbsp; pelas ruas do centro com faixas e cartazes; Juazeiro da Bahia tamb&eacute;m contou com cerca de 250 mulheres nas ruas reivindicando o direito pela vida das mulheres e lembraram de Marielle; em Eun&aacute;polis, no extremo sul da Bahia, Mulheres Sem Terra marcharam pelo centro da cidade demandando justi&ccedil;a; em Itabi&uacute;na, 100 mulheres de diversos movimentos e organiza&ccedil;&otilde;es populares ocuparam as ruas da cidade pela mem&oacute;ria de Marielle Franco e em denuncia a viol&ecirc;ncia contra mulher. No ano passado a cidade foi considerada a segunda cidade mais perigosa para as mulheres baianas.</p>
 
 <p><br />
-No Distrito Federal, parlamentares do PSOL organizaram um ato na C&acirc;mara dos Deputados para protestar junto &agrave; deputados de partidos como PT, PCdoB e PSB. Todos ressaltaram a import&acirc;ncia da a&ccedil;&atilde;o pelo fim da impunidade deste crime, al&eacute;m de destacar a conjuntura atual e debater sobre o futuro do campo democr&aacute;tico-popular.</p>
+A UEMASUL - Universidade Estadual do Sul do Maranh&atilde;o sediou uma plen&aacute;ria articulada pelo F&oacute;rum de Mulheres&nbsp; homegem a Marielle, na cidade Imperatriz, segunda maior cidade do estado.</p>
 
-<p>&nbsp;</p>
+<p>Houveram manifesta&ccedil;&otilde;es em mem&oacute;ria a Marielle em Alagoas na cidade de Delmiro Gouveia, no sert&atilde;o do estado e no acampamento Dandara, na capital Macei&oacute;.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Piauí-Maceió - Fotos: Josian Paulino.jpeg" height="525" src="//farm8.staticflickr.com/7893/47386899831_0a6a60dbcd_b.jpg" width="700" />
+<figcaption><em>Acampamento Dandara, em Macei&oacute;, capital do Alagoas<br />
+Fotos: Josian Paulino</em></figcaption>
+</figure>
+</div>
 
 <p>O exemplo de luta de Marielle serviu de inspira&ccedil;&atilde;o n&atilde;o s&oacute; para relembrar seus projetos de um pa&iacute;s melhor, mas tamb&eacute;m abriu precedentes para a discuss&atilde;o de demandas atuais.</p>
 
 <p><br />
 Em muitas destas manifesta&ccedil;&otilde;es foram levantadas outras pautas que afetam as mulheres em todo o pa&iacute;s, principalmente as negras e perif&eacute;ricas, como o desmonte da Previd&ecirc;ncia, o feminic&iacute;dio no Brasil e os retrocessos do governo Bolsonaro.</p>
 
-<p>&nbsp;</p>
+<p>No Distrito Federal, parlamentares do PSOL organizaram um ato na C&acirc;mara dos Deputados para protestar junto &agrave; deputados de partidos como PT, PCdoB e PSB. Todos ressaltaram a import&acirc;ncia da a&ccedil;&atilde;o pelo fim da impunidade deste crime, al&eacute;m de destacar a conjuntura atual e debater sobre o futuro do campo democr&aacute;tico-popular.</p>
 
 <p style="text-align: center;">Acompanhe abaixo algumas das a&ccedil;&otilde;es em que as mulheres Sem Terra estiveram presentes:</p>
 
