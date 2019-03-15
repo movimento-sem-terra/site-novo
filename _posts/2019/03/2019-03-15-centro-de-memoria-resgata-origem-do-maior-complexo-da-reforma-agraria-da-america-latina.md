@@ -18,6 +18,27 @@ files:
     small: //farm8.staticflickr.com/7883/46663151494_7fff8c73eb_n.jpg
     title: 11 - Foto - Histórica -Sebastio Salgado.jpg
     $$hashKey: 05Q
+  - link: //farm8.staticflickr.com/7811/46663177084_7733e0d9dc_b.jpg
+    original: //farm8.staticflickr.com/7811/46663177084_c2aa6da460_o.jpg
+    thumbnail: //farm8.staticflickr.com/7811/46663177084_7733e0d9dc_t.jpg
+    medium: //farm8.staticflickr.com/7811/46663177084_7733e0d9dc_z.jpg
+    small: //farm8.staticflickr.com/7811/46663177084_7733e0d9dc_n.jpg
+    title: 5 - Foto - Jaine Amorin.jpeg
+    $$hashKey: 0E3
+  - link: //farm8.staticflickr.com/7827/47386454091_78261d8b8b_b.jpg
+    original: //farm8.staticflickr.com/7827/47386454091_60a74c2869_o.jpg
+    thumbnail: //farm8.staticflickr.com/7827/47386454091_78261d8b8b_t.jpg
+    medium: //farm8.staticflickr.com/7827/47386454091_78261d8b8b_z.jpg
+    small: //farm8.staticflickr.com/7827/47386454091_78261d8b8b_n.jpg
+    title: 7 - Foto - Jaine Amorin.jpeg
+    $$hashKey: 0E6
+  - link: //farm8.staticflickr.com/7915/47386455181_7c5babe32a_b.jpg
+    original: //farm8.staticflickr.com/7915/47386455181_cac366ab6b_o.jpg
+    thumbnail: //farm8.staticflickr.com/7915/47386455181_7c5babe32a_t.jpg
+    medium: //farm8.staticflickr.com/7915/47386455181_7c5babe32a_z.jpg
+    small: //farm8.staticflickr.com/7915/47386455181_7c5babe32a_n.jpg
+    title: 8 - Foto - Jaine Amorin.jpeg
+    $$hashKey: 0EG
 created_date: "2019-03-15T11:47:23-03:00"
 published: false
 releated_posts:
@@ -46,6 +67,12 @@ Da P&aacute;gina do MST</em></p>
 
 <p>As fam&iacute;lias integrantes do Movimento dos Trabalhadores Rurais Sem Terra (MST) dos assentamentos Marcos Freire e Ireno Alves dos Santos reuniram suas fotografias, depoimentos, v&iacute;deos, not&iacute;cias de jornais locais e demais ferramentas com o objetivo de contar suas hist&oacute;rias nas paredes, estantes e mesas do Centro de Mem&oacute;ria.</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="7 - Foto - Jaine Amorin.jpeg" height="878" src="//farm8.staticflickr.com/7827/47386454091_78261d8b8b_b.jpg" width="700" />
+<figcaption>Foto: Jaine Amorin</figcaption>
+</figure>
+</div>
+
 <p><br />
 Os arquivos mostram a mudan&ccedil;a na realidade dessas fam&iacute;lias, que sem esperan&ccedil;a e apenas a roupa do corpo ousaram ocupar um latif&uacute;ndio. Elas resistiram ao frio, &agrave; chuva ou sol, e hoje colhem os frutos dos longos dias embaixo da lona preta.</p>
 
@@ -63,6 +90,12 @@ O assentado conta como ficou emocionado ao levantar estas recorda&ccedil;&otilde
 
 <p><br />
 Para Ivair Juncoski, tamb&eacute;m morador do assentamento Marcos Freire, o MST tem um papel fundamental na hist&oacute;ria dos brasileiros. &ldquo;N&atilde;o adianta a gente s&oacute; lutar pela reforma agr&aacute;ria e depois ficar descansado, temos que continuar a luta pelo pa&iacute;s. Temos que ficar atentos em tudo, n&atilde;o podemos esquecer que a nossa luta &eacute; uma luta de classe, do povo pobre&rdquo;, completa o agricultor.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="5 - Foto - Jaine Amorin.jpeg" height="467" src="//farm8.staticflickr.com/7811/46663177084_7733e0d9dc_b.jpg" width="700" />
+<figcaption>Legenda</figcaption>
+</figure>
+</div>
 
 <p><br />
 <strong>A Hist&oacute;ria rememorada</strong></p>
