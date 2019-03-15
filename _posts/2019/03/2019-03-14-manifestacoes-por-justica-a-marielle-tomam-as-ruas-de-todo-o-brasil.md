@@ -102,6 +102,13 @@ files:
     small: //farm8.staticflickr.com/7843/40415202313_d90262c549_n.jpg
     title: ITABUNABA.jpeg
     $$hashKey: 0D6
+  - link: //farm8.staticflickr.com/7884/46663594924_b138238f1e_b.jpg
+    original: //farm8.staticflickr.com/7884/46663594924_21e67bd7c7_o.jpg
+    thumbnail: //farm8.staticflickr.com/7884/46663594924_b138238f1e_t.jpg
+    medium: //farm8.staticflickr.com/7884/46663594924_b138238f1e_z.jpg
+    small: //farm8.staticflickr.com/7884/46663594924_b138238f1e_n.jpg
+    title: Curitiba.jpeg
+    $$hashKey: 12L
 created_date: "2019-03-14T17:56:22-03:00"
 published: true
 releated_posts:
@@ -153,20 +160,20 @@ J&aacute; em Minas Gerais, cerca de 400 mulheres do&nbsp;MST e do MAM (Movimento
 <p><br />
 Para dispersar a manifesta&ccedil;&atilde;o a pol&iacute;cia usou de&nbsp;viol&ecirc;ncia atirando balas de borracha e bombas de g&aacute;s lacrimog&ecirc;nio.</p>
 
-<p><br />
-No Paran&aacute;, integrantes do MST desenvolveram no hemocentro do Hospital Universit&aacute;rio de Londrina uma campanha de doa&ccedil;&atilde;o de sangue como forma de protesto.</p>
-
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="MG3.jpeg" height="466" src="//farm8.staticflickr.com/7886/46657356684_62ef374a4b_b.jpg" width="700" />
 <figcaption>Ato de mulheres do MST e MAM</figcaption>
 </figure>
 </div>
 
+<p><br />
+No Paran&aacute;, integrantes do MST desenvolveram no hemocentro do Hospital Universit&aacute;rio de Londrina uma campanha de doa&ccedil;&atilde;o de sangue como forma de protesto. Na capital Curitiba, camponeses do MST e militantes do Congresso do Povo realizaram limpeza e revitaliza&ccedil;&atilde;o de horta em uma creche, al&eacute;m de promover a&ccedil;&otilde;es de trabalho de base em v&aacute;rias comunidades da cidade, incluindo a inaugura&ccedil;&atilde;o do bosque Marielle Vive.</p>
+
 <figure class="image" style="float:right"><img alt="Juazeiro.jpeg" height="339" src="//farm8.staticflickr.com/7860/47380368911_478e52dbd0_b.jpg" width="191" />
 <figcaption>Juazeiro da Bahia</figcaption>
 </figure>
 
-<p><br />
+<p><img alt="Curitiba.jpeg" src="//farm8.staticflickr.com/7884/46663594924_b138238f1e_b.jpg" /><br />
 A Bahia tamb&eacute;m sediou diversos eventos: na cidade de Itaberaba, 250 mulheres de todas as regi&otilde;es da Chapada Diamantina caminharam&nbsp; pelas ruas do centro com faixas e cartazes; Juazeiro da Bahia tamb&eacute;m contou com cerca de 250 mulheres nas ruas reivindicando o direito pela vida das mulheres e lembraram de Marielle; em Eun&aacute;polis, no extremo sul da Bahia, Mulheres Sem Terra marcharam pelo centro da cidade demandando justi&ccedil;a; em Itabi&uacute;na, 100 mulheres de diversos movimentos e organiza&ccedil;&otilde;es populares ocuparam as ruas da cidade pela mem&oacute;ria de Marielle Franco e em denuncia a viol&ecirc;ncia contra mulher. No ano passado a cidade foi considerada a segunda cidade mais perigosa para as mulheres baianas.</p>
 
 <p><br />
