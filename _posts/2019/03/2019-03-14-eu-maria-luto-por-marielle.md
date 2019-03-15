@@ -59,7 +59,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-03-14 at 17.43.54 (1).jpeg" height="466" src="//farm8.staticflickr.com/7860/47380454401_5050087660_b.jpg" width="700" />
-<figcaption><em>Fotos e capa: Jos&eacute; Eduardo Bernardes&nbsp;/&nbsp;Brasil de Fato</em></figcaption>
+<figcaption><em>Fotos: Jos&eacute; Eduardo Bernardes&nbsp;/&nbsp;Brasil de Fato</em></figcaption>
 </figure>
 </div>
 
