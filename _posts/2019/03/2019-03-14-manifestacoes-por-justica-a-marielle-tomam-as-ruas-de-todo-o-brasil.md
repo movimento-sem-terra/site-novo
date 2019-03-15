@@ -129,7 +129,7 @@ Ap&oacute;s um ano da execu&ccedil;&atilde;o da vereadora Marielle Franco e seu 
 Ind&iacute;cios apontam que assassinos de Marielle e Anderson est&atilde;o ligados a&nbsp;mil&iacute;cias do Rio de Janeiro&nbsp;e, mesmo com a pris&atilde;o de dois suspeitos na &uacute;ltima ter&ccedil;a-feira (12),&nbsp;ainda n&atilde;o foram divulgadas explica&ccedil;&otilde;es concretas sobre a motiva&ccedil;&atilde;o do crime.</p>
 
 <p><br />
-Diante disso, as mulheres Sem Terra encerram mais uma Jornada Nacional de Luta pelas Mulheres, cujo lema consiste em uma homenagem a&nbsp;vereadora: &ldquo;Pela vida das mulheres, somos todas Marielle!&rdquo;.</p>
+Diante disso, as mulheres Sem Terra realizam at&eacute; o final do m&ecirc;s de mar&ccedil;o,&nbsp;mais uma Jornada Nacional de Luta pelas Mulheres, cujo lema consiste em uma homenagem a&nbsp;vereadora: &ldquo;Pela vida das mulheres, somos todas Marielle!&rdquo;.</p>
 
 <p>&nbsp;</p>
 
