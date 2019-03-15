@@ -7,16 +7,16 @@ tags:
 title: "Nota do MST em solidariedade à companheira Valéria, reitora da Ufal, e sua gestão"
 support_line: "Em texto, reafirmamos o papel fundamental da aproximação da Universidade com o meio popular"
 menu: "educação, cultura e comunicação"
-images_hd: //farm8.staticflickr.com/7820/46473021115_7240855c5f_b.jpg
+images_hd: //farm8.staticflickr.com/7914/33512041478_fefa39fa96_b.jpg
 layout: post
 files:
-  - link: //farm8.staticflickr.com/7820/46473021115_7240855c5f_b.jpg
-    original: //farm8.staticflickr.com/7820/46473021115_f25f5c3d40_o.jpg
-    thumbnail: //farm8.staticflickr.com/7820/46473021115_7240855c5f_t.jpg
-    medium: //farm8.staticflickr.com/7820/46473021115_7240855c5f_z.jpg
-    small: //farm8.staticflickr.com/7820/46473021115_7240855c5f_n.jpg
-    title: 12345428184_1368d2f6da_o.jpg
-    $$hashKey: 1BW
+  - link: //farm8.staticflickr.com/7914/33512041478_fefa39fa96_b.jpg
+    original: //farm8.staticflickr.com/7914/33512041478_315645848a_o.jpg
+    thumbnail: //farm8.staticflickr.com/7914/33512041478_fefa39fa96_t.jpg
+    medium: //farm8.staticflickr.com/7914/33512041478_fefa39fa96_z.jpg
+    small: //farm8.staticflickr.com/7914/33512041478_fefa39fa96_n.jpg
+    title: WhatsApp Image 2019-03-15 at 15.49.47.jpeg
+    $$hashKey: 1NH
 created_date: "2019-03-15T15:45:11-03:00"
 published: true
 releated_posts: []
