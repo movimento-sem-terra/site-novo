@@ -28,8 +28,8 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p>Por Jossier Bole&atilde;o/MCP<br />
-Da P&aacute;gina do MST</p>
+<p><em>Por Jossier Bole&atilde;o/MCP<br />
+Especial para P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
@@ -57,7 +57,7 @@ Para Lucilene Vit&oacute;ria, do Conselho Estadual de Mulheres do Goi&aacute;s e
 Sandra Alves, da coordena&ccedil;&atilde;o nacional do MCP, afirmou que essa luta &eacute; uma den&uacute;ncia contra a viol&ecirc;ncia e pauta a reforma agr&aacute;ria, enquanto Am&eacute;lia Franz, da coordena&ccedil;&atilde;o nacional do MST, ressaltou que o governo n&atilde;o conseguir&aacute; impedir a luta. &ldquo;Movimentos do campo e da cidade v&atilde;o continuar lutando. Essa ocupa&ccedil;&atilde;o tem o sentido de reafirmar que n&atilde;o nos calaremos diante de viol&ecirc;ncia. N&atilde;o somos comportadas nem princesas, somos guerreiras e lutadoras&quot;.</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Foto_Janelson Ferreira.jpg" height="467" src="//farm8.staticflickr.com/7821/33512451108_a0deedeb18_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="Foto_Janelson Ferreira.jpg" height="400" src="//farm8.staticflickr.com/7821/33512451108_a0deedeb18_b.jpg" width="600" />
 <figcaption><em>Foto: Janelson Ferreira</em></figcaption>
 </figure>
 </div>
@@ -76,3 +76,7 @@ Na regi&atilde;o, Jo&atilde;o de &quot;Deus&quot; tamb&eacute;m &eacute; conheci
 
 <p><br />
 Dos im&oacute;veis urbanos de Jo&atilde;o de &quot;Deus&quot; destaca-se a Casa Dom In&aacute;cio de Loyola, onde eram realizadas as supostas cirurgias e curas espirituais e local&nbsp; aonde, segundo as acusa&ccedil;&otilde;es, ocorreram os abusos sexuais praticadosJo&atilde;o de &ldquo;Deus&rdquo;. O MST reivindica a&nbsp; fazenda Agropastoril Dom In&aacute;cio, em An&aacute;polis, interior de Goi&aacute;s, para fins de Reforma Agr&aacute;ria.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
