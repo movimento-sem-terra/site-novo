@@ -59,9 +59,6 @@ releated_posts:
 <em>Por Jaine Amorin<br />
 Da P&aacute;gina do MST</em></p>
 
-<p>Por Jaine Amorin<br />
-Da P&aacute;gina do MST</p>
-
 <p><br />
 Aconteceu na ter&ccedil;a-feira (12)&nbsp; no assentamento Marcos Freire, em Rio Bonito do Igua&ccedil;u, Paran&aacute;, a inaugura&ccedil;&atilde;o do Centro de Mem&oacute;ria Terra e Povo.</p>
 
