@@ -42,7 +42,7 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Encontro rádio Ceará1.jpg" height="466" src="//farm8.staticflickr.com/7825/46464529435_f10d928205_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="Encontro rádio Ceará1.jpg" height="400" src="//farm8.staticflickr.com/7825/46464529435_f10d928205_b.jpg" width="600" />
 <figcaption><em>Com tr&ecirc;s dias de programa&ccedil;&atilde;o, o evento re&uacute;ne debates, troca de experi&ecirc;ncias e oficinas. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 </div>
