@@ -19,7 +19,7 @@ files:
     title: 11 - Foto - Histórica -Sebastio Salgado.jpg
     $$hashKey: 05Q
 created_date: "2019-03-15T11:47:23-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/07/2018-07-10-festa-no-acampamento-dom-tomas-balduino-comemora-3-anos-de-resistencia-no-parana.md
   - _posts/2018/12/2018-12-06-mst-pr-ocupa-fazenda-do-iap-para-cobrar-o-assentamento-de-150-familias-sem-terra.md
