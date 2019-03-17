@@ -4,7 +4,7 @@ tags:
   - tag: arroz
   - tag: rio-grande-do-sul
 title: A grande festa da colheita
-support_line: "Na safra 2018-2019, o MST colheu 16 mil toneladas de arroz agroecológico, reafirmando sua posição de maior produtor da América Latina"
+support_line: "Na safra 2018-2019, estima-se que seja colhido cerca 16 mil toneladas de arroz agroecológico, reafirmando sua posição de maior produtor da América Latina"
 menu: reforma agrária
 images_hd: //farm8.staticflickr.com/7800/32452361657_499bb46e6b_b.jpg
 layout: post
@@ -56,7 +56,7 @@ releated_posts:
 Participaram da festa lideran&ccedil;as pol&iacute;ticas como os deputados federais Dionilso Marcon e Elvino Bohn Gass; o deputado estadual Edegar Pretto; a prefeita do munic&iacute;pio, Margarete Simon Ferretti; representantes de prefeituras de S&atilde;o Paulo e do Rio de Janeiro; e o dirigente nacional do MST, Jo&atilde;o Pedro St&eacute;dile. Tamb&eacute;m marcaram presen&ccedil;a chefes de cozinha e compradores do arroz org&acirc;nico para a utiliza&ccedil;&atilde;o na merenda escolar.</p>
 
 <p><br />
-Atualmente, 363 fam&iacute;lias dedicam-se ao cultivo de arroz org&acirc;nico em 15 assentamentos e 13 munic&iacute;pios do estado, em pouco mais de tr&ecirc;s mil hectares de &aacute;rea de banhado. Na safra 2018-2019, o MST colheu 16 mil toneladas do cereal, reafirmando sua posi&ccedil;&atilde;o de maior produtor da Am&eacute;rica Latina.</p>
+Atualmente, 363 fam&iacute;lias dedicam-se ao cultivo de arroz org&acirc;nico em 15 assentamentos e 13 munic&iacute;pios do estado, em pouco mais de tr&ecirc;s mil hectares de &aacute;rea de banhado. Na safra 2018-2019, estima-se que seja colhida cerca de&nbsp;16 mil toneladas do cereal, reafirmando sua posi&ccedil;&atilde;o de maior produtor da Am&eacute;rica Latina.</p>
 
 <figure class="image" style="float:right"><img alt="Ato político reuniu lideranças populares, deputados, universitários, chefes de cozinha e representantes de prefeituras de SP e RJ. Foto - Leandro Molina.jpg" height="194" src="//farm8.staticflickr.com/7897/33518100608_9a81c331bf_b.jpg" width="300" />
 <figcaption><em>Ato pol&iacute;tico reuniu parceiros e amigos do MST.<br />
