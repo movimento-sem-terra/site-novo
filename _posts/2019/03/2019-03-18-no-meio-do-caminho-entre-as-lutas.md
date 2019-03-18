@@ -4,7 +4,7 @@ tags:
   - tag: lutadoras
   - tag: maranhão
   - tag: terras
-title: Me sinto parte da história do MST
+title: "\"Me sinto parte da história do MST\""
 support_line: "Conheça a história de Gilvânia Ferreira, a Vânia do MST"
 menu: "educação, cultura e comunicação"
 label: null
