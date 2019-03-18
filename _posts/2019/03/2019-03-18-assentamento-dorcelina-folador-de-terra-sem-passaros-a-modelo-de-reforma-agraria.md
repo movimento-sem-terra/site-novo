@@ -1,6 +1,8 @@
 ---
 date: "2019-03-18T15:38:16-03:00"
-tags: []
+tags:
+  - tag: agroecologia
+  - tag: reforma-agrária
 title: "Assentamento Dorcelina Folador: de terra sem pássaros a modelo de Reforma Agrária"
 support_line: "Cerca de 130 famílias vivem no local há 20 anos, em Arapongas, norte do Paraná. O assentamento tem duas agroindústrias e uma padaria comunitária"
 menu: agricultura camponesa
@@ -37,7 +39,15 @@ files:
     $$hashKey: 0N8
 created_date: "2019-03-18T16:37:25-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/06/2018-06-12-acampamento-produz-alimentos-organicos-e-livres-de-veneno.md
+  - _posts/2018/06/2018-06-13-comercializar-e-comunicar-e-dialogar-sobre-a-reforma-agraria-popular-explica-dirigente.md
+  - _posts/2018/06/2018-06-19-mst-investe-na-producao-agroecologica-de-norte-a-sul-da-bahia.md
+  - _posts/2018/07/2018-07-02-mst-produz-mais-de-50-variedades-de-feijao-organico-no-rio-grande-do-sul.md
+  - _posts/2018/07/2018-07-15-mst-leva-diversidade-de-producao-organica-em-eventos-de-economia-solidaria.md
+  - _posts/2019/02/2019-02-07-na-bahia-agroecologia-e-o-caminho-percorrido-para-transformacao-social.md
+  - _posts/2019/02/2019-02-18-acampamento-do-mst-no-parana-realiza-1a-festa-da-colheita-e-da-reforma-agraria.md
+  - _posts/2019/02/2019-02-26-mst-incentiva-producao-de-alimentos-saudaveis-em-associacao-de-moradores.md
 
 ---
 <p>&nbsp;</p>
@@ -48,6 +58,8 @@ releated_posts: []
 Foto: Wellington Lenon</em></figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
 
 <p><em>Por Ednubia Ghisi<br />
 Da P&aacute;gina do MST</em><br />
@@ -128,13 +140,13 @@ Foto: Wellington Lenon</em></figcaption>
 O bem-estar relatado por Roseli &eacute; regra entre os assentados, e faz parte da a&ccedil;&atilde;o do MST para efetivar a reforma agr&aacute;ria popular, como explica Jos&eacute; Damaceno, integrante da coordena&ccedil;&atilde;o estadual do MST e morador do assentamento: &ldquo;O nosso segredo &eacute; ter organiza&ccedil;&atilde;o, ter um sonho a ser realizado, um planejamento e equipes que tocam. Por isso n&oacute;s constru&iacute;mos esse assentamento e outros tantos&rdquo;.</p>
 
 <p><br />
-Damaceno relata que, ao longo dos anos, na constru&ccedil;&atilde;o conjunta com as fam&iacute;lias sem-terra o desejo passou a ser o de construir a &ldquo;comunidade camponesa&rdquo;, onde os serem humanos est&atilde;o em primeiro lugar, independente da religi&atilde;o, do partido pol&iacute;tico ou da orienta&ccedil;&atilde;o sexual. &ldquo;O importante era acreditar no projeto, e que as pessoas pudessem se sentir sujeitas do processo e serem protagonistas, cada um com o seu jeito, suas qualidades e limites, colocando o seu tijolinho&rdquo;.</p>
+Damaceno relata que, ao longo dos anos, na constru&ccedil;&atilde;o conjunta com as fam&iacute;lias Sem Terra o desejo passou a ser o de construir a &ldquo;comunidade camponesa&rdquo;, onde os serem humanos est&atilde;o em primeiro lugar, independente da religi&atilde;o, do partido pol&iacute;tico ou da orienta&ccedil;&atilde;o sexual. &ldquo;O importante era acreditar no projeto, e que as pessoas pudessem se sentir sujeitas do processo e serem protagonistas, cada um com o seu jeito, suas qualidades e limites, colocando o seu tijolinho&rdquo;.</p>
 
 <p><br />
-Para atingir esse objetivo, a educa&ccedil;&atilde;o foi identificada como primordial: &ldquo;Nossa primeira miss&atilde;o foi a erradica&ccedil;&atilde;o do analfabetismo. Aqui n&oacute;s defendemos a ideia de que cada pessoa deveria ter porte de um livro, e n&atilde;o de uma arma&rdquo;, garante Damaceno.</p>
+Para atingir esse objetivo, a educa&ccedil;&atilde;o foi primordial: &ldquo;Nossa primeira miss&atilde;o foi a erradica&ccedil;&atilde;o do analfabetismo. Aqui n&oacute;s defendemos a ideia de que cada pessoa deveria ter porte de um livro, e n&atilde;o de uma arma&rdquo;, garante Damaceno.</p>
 
 <p><br />
-A assentada Dirlete Dellazari fez parte da ocupa&ccedil;&atilde;o da &aacute;rea em 1999 e se orgulha em afirmar que o Dorcelina serve de refer&ecirc;ncia para a reforma agr&aacute;ria. &ldquo;N&atilde;o &eacute; apenas a distribui&ccedil;&atilde;o da terra. &Eacute; criar as condi&ccedil;&otilde;es para as pessoas viverem, terem educa&ccedil;&atilde;o, sa&uacute;de, estradas, terem as condi&ccedil;&otilde;es de desenvolver a produ&ccedil;&atilde;o e os seus conhecimentos&rdquo;.</p>
+A assentada Dirlete Dellazari fez parte da ocupa&ccedil;&atilde;o da &aacute;rea em 1999 e se orgulha em afirmar que&nbsp;assentamento serve de refer&ecirc;ncia para a Reforma Agr&aacute;ria. &ldquo;N&atilde;o &eacute; apenas a distribui&ccedil;&atilde;o da terra. &Eacute; criar as condi&ccedil;&otilde;es para as pessoas viverem, terem educa&ccedil;&atilde;o, sa&uacute;de, estradas, terem as condi&ccedil;&otilde;es de desenvolver a produ&ccedil;&atilde;o e os seus conhecimentos&rdquo;.</p>
 
 <p><br />
 A agricultura enfatiza a import&acirc;ncia das fam&iacute;lias assentadas terem mantido, ao longo dos 20 anos, a identidade de organiza&ccedil;&atilde;o social e popular: &ldquo;N&oacute;s somos MST, continuamos e continuaremos sendo MST, porque ele &eacute; a nossa fortaleza, para todas as fam&iacute;lias aqui do assentamento&rdquo;, concluiu Dellazari.</p>
