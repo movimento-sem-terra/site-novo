@@ -53,17 +53,11 @@ Da P&aacute;gina do MST </em></p>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p>V&acirc;nia foi recebida por muitos homens, mulheres, crian&ccedil;as e idosos.. As crian&ccedil;as com cabelos enfeitados, os homens com as camisetas vermelhas e as mulheres erguendo gritos de luta como &ldquo;lugar de mulher &eacute; na revolu&ccedil;&atilde;o&rdquo;.</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
+<p>&nbsp;
 <p>Ao descer do carro, a homenageada foi rodeada por militantes que a aguardavam para resolver problemas, contar uma novidade ou pedir um palpite sobre uma decis&atilde;o do grupo; e assim se passou mais de uma hora. Naquele momento, percebi a for&ccedil;a desta mulher Sem Terra, nordestina de raiz, camponesa e que escolheu o Maranh&atilde;o e a Amaz&ocirc;nia para atuar no MST.</p>
-
-<p>&nbsp;</p>
+</p>
 
 <p>&nbsp;</p>
 
