@@ -4,7 +4,7 @@ tags:
   - tag: lutadoras
   - tag: maranhão
   - tag: terras
-title: "No meio do caminho, entre as lutas"
+title: Me sinto parte da história do Movimento Sem Terra
 support_line: "Conheça a história de Gilvânia Ferreira, a Vânia do MST"
 menu: "educação, cultura e comunicação"
 label: null
@@ -26,7 +26,7 @@ files:
     title: 3 - Me sinto parte da história do Movimento Sem Terra.JPG
     $$hashKey: 0BD
 created_date: "2019-03-18T09:53:31-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/05/2018-05-15-com-pesar-mst-se-despede-de-marta-pernambuco.md
   - _posts/2018/12/2018-12-30-aos-97-anos-falece-irma-alberta-uma-lutadora-incansavel.md
@@ -110,7 +110,12 @@ Ainda aos 14 anos se tornou professora na escola onde foi alfabetizada, onde lia
 
 <p>Um ano depois ela retornou para a Para&iacute;ba, onde organizou outras ocupa&ccedil;&otilde;es. Em 2 de junho de 1992, foi convidada para chegar em Imperatriz, &ldquo;pois era onde ficava a secretaria estadual do MST no Maranh&atilde;o&rdquo;. Na cidade, participou de quase todas as ocupa&ccedil;&otilde;es na baixada maranhense, s&oacute; na primeira metade da d&eacute;cada de 90, ajudando posteriormente a consolidar o Movimento em diversos outras regi&otilde;es do estado.</p>
 
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="3 - Me sinto parte da história do Movimento Sem Terra.JPG" height="468" src="//farm8.staticflickr.com/7869/33535951318_78a8c97378_b.jpg" width="700" />
+<figcaption><em>V&acirc;nia do MST<br />
+Foto: Mariana CastroFoto: Mariana Castro</em></figcaption>
+</figure>
+</div>
 
 <p><strong>Um regi&atilde;o de conflitos</strong></p>
 
