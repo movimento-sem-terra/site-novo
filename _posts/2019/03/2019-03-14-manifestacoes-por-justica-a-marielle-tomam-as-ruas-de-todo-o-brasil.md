@@ -5,7 +5,7 @@ tags:
   - tag: justiça
   - tag: lutas-e-mobilizações
 title: Manifestações por justiça a Marielle tomam as ruas de todo o Brasil
-support_line: "Em Minas, mulheres do MST e do MAM prestaram homenagem à vereadora e denunciaram os crimes referentes à mineração; confira outras manifestações pelo país"
+support_line: "Em Minas, mulheres do MST e do MAM prestaram homenagem à vereadora e denunciaram os crimes da mineração; confira outras manifestações pelo país"
 images_hd: //farm8.staticflickr.com/7806/46465311555_afe9e8e981_b.jpg
 menu: lutas e mobilizações
 sector: mass-front
@@ -136,7 +136,7 @@ section: cover
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Amanhecer com Marielle_Pablo Vergara 003.jpg" height="467" src="//farm8.staticflickr.com/7806/46465311555_afe9e8e981_b.jpg" width="700" />
-<figcaption>Amanhecer por Marielle no Rio de Janeiro (Foto: Pablo Vergara)</figcaption>
+<figcaption><em>Amanhecer por Marielle no Rio de Janeiro. Foto: Pablo Vergara</em></figcaption>
 </figure>
 </div>
 
@@ -160,7 +160,7 @@ Manifestantes cobriram cal&ccedil;adas e paredes com imagens e flores em tr&ecir
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Ato Marielle_Misa na Candelaria_14-3_Pablo Vergara012.jpg" height="467" src="//farm8.staticflickr.com/7896/32438733717_a0abfdd3ac_b.jpg" width="700" />
-<figcaption>Missa na Candelaria (Foto: Pablo Vergara)</figcaption>
+<figcaption><em>Missa na Candelaria. Foto: Pablo Vergara</em></figcaption>
 </figure>
 </div>
 
@@ -175,7 +175,7 @@ Para dispersar a manifesta&ccedil;&atilde;o a pol&iacute;cia usou de&nbsp;viol&e
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="MG3.jpeg" height="466" src="//farm8.staticflickr.com/7886/46657356684_62ef374a4b_b.jpg" width="700" />
-<figcaption>Ato de mulheres do MST e MAM em Minas Gerais (Foto: Geanini Hackbardt)</figcaption>
+<figcaption><em>Ato de mulheres do MST e MAM em Minas Gerais. Foto: Geanini Hackbardt</em></figcaption>
 </figure>
 </div>
 
@@ -187,7 +187,7 @@ O&nbsp;dia amanheceu com a reuni&atilde;o de parte das 1.100 fam&iacute;lias do 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Foto: Guilherme Gandolfi.jpeg" height="560" src="//farm8.staticflickr.com/7905/47334165802_267ef8a4ec_b.jpg" width="700" />
-<figcaption>Ato pol&iacute;tico na Avenida Paulista, em S&atilde;o Paulo (Foto: Guilherme Gandolfi)</figcaption>
+<figcaption><em>Ato pol&iacute;tico na Avenida Paulista, em S&atilde;o Paulo. Foto: Guilherme Gandolfi</em></figcaption>
 </figure>
 </div>
 
@@ -199,7 +199,7 @@ Integrantes do MST desenvolveram no hemocentro do Hospital Universit&aacute;rio 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Curitiba.jpeg" height="467" src="//farm8.staticflickr.com/7884/46663594924_b138238f1e_b.jpg" width="700" />
-<figcaption>Bosque Marielle Vive, em Curitiba - PR</figcaption>
+<figcaption><em>Bosque Marielle Vive, em Curitiba - PR.</em></figcaption>
 </figure>
 </div>
 
@@ -221,7 +221,7 @@ Houveram manifesta&ccedil;&otilde;es em mem&oacute;ria a Marielle em Alagoas na 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Piauí-Maceió - Fotos: Josian Paulino.jpeg" height="525" src="//farm8.staticflickr.com/7893/47386899831_0a6a60dbcd_b.jpg" width="700" />
-<figcaption>Acampamento Dandara, em Macei&oacute;, capital do Alagoas (Fotos: Josian Paulino)</figcaption>
+<figcaption><em>Acampamento Dandara, em Macei&oacute;, capital do Alagoas. Foto: Josian Paulino</em></figcaption>
 </figure>
 </div>
 
@@ -240,7 +240,7 @@ No Distrito Federal, parlamentares do PSOL organizaram um ato na C&acirc;mara do
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="ITABUNABA.jpeg" height="525" src="//farm8.staticflickr.com/7843/40415202313_d90262c549_b.jpg" width="700" />
-<figcaption>Foto de Itabuna (BA)</figcaption>
+<figcaption><em>Itabuna (BA)</em></figcaption>
 </figure>
 </div>
 
