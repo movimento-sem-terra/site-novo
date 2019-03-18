@@ -55,9 +55,9 @@ Da P&aacute;gina do MST </em></p>
 
 <p>V&acirc;nia foi recebida por muitos homens, mulheres, crian&ccedil;as e idosos.. As crian&ccedil;as com cabelos enfeitados, os homens com as camisetas vermelhas e as mulheres erguendo gritos de luta como &ldquo;lugar de mulher &eacute; na revolu&ccedil;&atilde;o&rdquo;.</p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p>Ao descer do carro, a homenageada foi rodeada por militantes que a aguardavam para resolver problemas, contar uma novidade ou pedir um palpite sobre uma decis&atilde;o do grupo; e assim se passou mais de uma hora. Naquele momento, percebi a for&ccedil;a desta mulher Sem Terra, nordestina de raiz, camponesa e que escolheu o Maranh&atilde;o e a Amaz&ocirc;nia para atuar no MST.</p>
-</p>
 
 <p>&nbsp;</p>
 
@@ -65,9 +65,9 @@ Da P&aacute;gina do MST </em></p>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p>Paraibana de Canafistola, hoje Munic&iacute;pio Caldas Brand&atilde;o, V&acirc;nia conviveu desde pequena com conflitos de terra, pois aquela &eacute; uma regi&atilde;o cercada por cana de a&ccedil;&uacute;car, onde j&aacute; atuava um combativo sindicato de trabalhadores rurais. Aos 14 anos, j&aacute; participava das greves dos canavieiros. &ldquo;Me encantava a forma como as mulheres ficavam &agrave; frente das lutas. N&atilde;o entendia muito bem, mas j&aacute; achava que eles estavam certas por lutar&rdquo;.</p>
+
+<p>&nbsp;</p>
 
 <p>Cat&oacute;lica praticante, desde pequena ajudava nas reuni&otilde;es da igreja. V&acirc;nia foi animadora da comunidade e, a partir dos 14 anos, tornou-se membro da Pastoral da Juventude, onde iniciou seu processo de engajamento pol&iacute;tico.</p>
 
@@ -84,11 +84,7 @@ Ainda aos 14 anos se tornou professora na escola onde foi alfabetizada, onde lia
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p><strong>Tornando-se a V&acirc;nia do MST</strong></p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -96,11 +92,7 @@ Ainda aos 14 anos se tornou professora na escola onde foi alfabetizada, onde lia
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p>Ao concluir o ensino m&eacute;dio, em 1989, V&acirc;nia participou de um encontro nacional do MST, evento que viria a marcar definitivamente sua entrada movimento. Naquele momento, ela deixou suas outras atividades na Para&iacute;ba para se dedicar somente &agrave; luta pela terra e foi participar de sua primeira ocupa&ccedil;&atilde;o. &ldquo;Foi quando eu decidi que realmente era importante fazer a luta. Antes eu entendia o conflito, mas n&atilde;o tinha vivido na pele&rdquo;, lembra.</p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -108,11 +100,7 @@ Ainda aos 14 anos se tornou professora na escola onde foi alfabetizada, onde lia
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p>&ldquo;Eu dizia &agrave; minha m&atilde;e que ia a um encontro da igreja, mas a verdade &eacute; que depois ia para ocupa&ccedil;&atilde;o. Fiz todo o trabalho de base escondida da fam&iacute;lia. Foi a forma que encontrei pra participar.&rdquo;</p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -120,11 +108,7 @@ Ainda aos 14 anos se tornou professora na escola onde foi alfabetizada, onde lia
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p>Um ano depois ela retornou para a Para&iacute;ba, onde organizou outras ocupa&ccedil;&otilde;es. Em 2 de junho de 1992, foi convidada para chegar em Imperatriz, &ldquo;pois era onde ficava a secretaria estadual do MST no Maranh&atilde;o&rdquo;. Na cidade, participou de quase todas as ocupa&ccedil;&otilde;es na baixada maranhense, s&oacute; na primeira metade da d&eacute;cada de 90, ajudando posteriormente a consolidar o Movimento em diversos outras regi&otilde;es do estado.</p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -132,11 +116,7 @@ Ainda aos 14 anos se tornou professora na escola onde foi alfabetizada, onde lia
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p>A cidade de Imperatriz fica na divis&atilde;o geogr&aacute;fica do Maranh&atilde;o, chamada de Regi&atilde;o Tocantina, por ser banhada pelo Rio Tocantins. &Eacute; a &aacute;rea mundialmente conhecida como o Bico do Papagaio, que compreende o sudoeste do Maranh&atilde;o, norte do Tocantins e sul do Par&aacute;.</p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -144,11 +124,7 @@ Ainda aos 14 anos se tornou professora na escola onde foi alfabetizada, onde lia
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p>Al&eacute;m das revoltas no campo, outros conflitos tamb&eacute;m fazem parte da hist&oacute;ria da regi&atilde;o, como Renato Cortez Moreira, prefeito assassinado em 1993, e do deputado federal Davi Alves Silva, morto em 1998. Ainda nesta d&eacute;cada, a cidade entrou em ebuli&ccedil;&atilde;o quando a prefeitura e a c&acirc;mara municipal foram ocupadas por uma semana, resultando inclusive em uma interven&ccedil;&atilde;o estadual.</p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -156,11 +132,7 @@ Ainda aos 14 anos se tornou professora na escola onde foi alfabetizada, onde lia
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p>Nesta intermedia&ccedil;&atilde;o, V&acirc;nia conseguiu o respeito da imprensa na regi&atilde;o e nos espa&ccedil;os acad&ecirc;micos produzidos pelas universidades, al&eacute;m da pr&oacute;pria classe pol&iacute;tica, recebendo em 2015 o t&iacute;tulo de cidad&atilde; imperatrizense.</p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -168,17 +140,11 @@ Ainda aos 14 anos se tornou professora na escola onde foi alfabetizada, onde lia
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p>Como o guerrilheiro Che Guevara, V&acirc;nia acredita que &eacute; preciso ter pulso firme, mas sem perder a ternura: &ldquo;dizem que a luta embrutece, mas &eacute; no enfrentamento que vemos a crueldade e nos sensibilizamos com os desiguais. A luta me fez ver outra dimens&atilde;o da vida e ser mais sens&iacute;vel&rdquo;, afirmou.</p>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p>Antes professora substituta na Universidade Estadual do Sul do Maranh&atilde;o, V&acirc;nia &eacute; pedagoga formada pelo MST e atualmente coordenadora pedag&oacute;gica do Programa de Forma&ccedil;&atilde;o de Docentes &ldquo;Caminhos do Sert&atilde;o&rdquo;, nas unidades avan&ccedil;adas da universidade. &Eacute; uma militante m&uacute;ltipla, que vive intensamente as lutas sociais a partir da diversidade da vida e das causas.</p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
