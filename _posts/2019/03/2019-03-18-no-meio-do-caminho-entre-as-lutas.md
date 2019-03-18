@@ -45,7 +45,7 @@ Foto: Mariana Castro</em></figcaption>
 <p>&nbsp;</p>
 
 <p><em>Por Mariana Castro<br />
-Da P&aacute;gina do MST </em></p>
+Da P&aacute;gina do MST*</em></p>
 
 <p><br />
 Em novembro de 2012, Gilv&acirc;nia Ferreira &ndash; conhecida como V&acirc;nia do MST &ndash; era homenageada por sua luta pela Reforma Agr&aacute;ria e defesa dos acampados do Cip&oacute; Cortado, em Senador La Roque (MA). H&aacute; anos a regi&atilde;o &eacute; local de intenso conflito fundi&aacute;rio.</p>
@@ -128,5 +128,7 @@ Como o guerrilheiro Che Guevara, V&acirc;nia acredita que &eacute; preciso ter p
 <p><br />
 Antes professora substituta na Universidade Estadual do Sul do Maranh&atilde;o, V&acirc;nia &eacute; pedagoga formada pelo MST e atualmente coordenadora pedag&oacute;gica do Programa de Forma&ccedil;&atilde;o de Docentes &ldquo;Caminhos do Sert&atilde;o&rdquo;, nas unidades avan&ccedil;adas da universidade. &Eacute; uma militante m&uacute;ltipla, que vive intensamente as lutas sociais a partir da diversidade da vida e das causas.</p>
 
+<p>&nbsp;</p>
+
 <p><br />
-&nbsp;</p>
+<em>*Este perfil &eacute; parte das publica&ccedil;&otilde;es especiais da Jornada Nacional de Lutas das mulheres do MST.&nbsp;</em></p>
