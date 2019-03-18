@@ -18,6 +18,13 @@ files:
     small: //farm8.staticflickr.com/7848/47358972752_100cd9be6e_n.jpg
     title: 1 - Mulheres se destacam em áreas de conflito.JPG
     $$hashKey: "066"
+  - link: //farm8.staticflickr.com/7869/33535951318_78a8c97378_b.jpg
+    original: //farm8.staticflickr.com/7869/33535951318_2533d2b4b4_o.jpg
+    thumbnail: //farm8.staticflickr.com/7869/33535951318_78a8c97378_t.jpg
+    medium: //farm8.staticflickr.com/7869/33535951318_78a8c97378_z.jpg
+    small: //farm8.staticflickr.com/7869/33535951318_78a8c97378_n.jpg
+    title: 3 - Me sinto parte da história do Movimento Sem Terra.JPG
+    $$hashKey: 0BD
 created_date: "2019-03-18T09:53:31-03:00"
 published: false
 releated_posts:
@@ -68,24 +75,14 @@ Da P&aacute;gina do MST </em></p>
 
 <p>Paraibana de Canafistola, hoje Munic&iacute;pio Caldas Brand&atilde;o, V&acirc;nia conviveu desde pequena com conflitos de terra, pois aquela &eacute; uma regi&atilde;o cercada por cana de a&ccedil;&uacute;car, onde j&aacute; atuava um combativo sindicato de trabalhadores rurais. Aos 14 anos, j&aacute; participava das greves dos canavieiros. &ldquo;Me encantava a forma como as mulheres ficavam &agrave; frente das lutas. N&atilde;o entendia muito bem, mas j&aacute; achava que eles estavam certas por lutar&rdquo;.</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 <p>Cat&oacute;lica praticante, desde pequena ajudava nas reuni&otilde;es da igreja. V&acirc;nia foi animadora da comunidade e, a partir dos 14 anos, tornou-se membro da Pastoral da Juventude, onde iniciou seu processo de engajamento pol&iacute;tico.</p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
 <p>A menina ficava encantada com os serm&otilde;es de padres italianos da comunidade membros da Comiss&atilde;o Pastoral da Terra (CPT), tanto que nunca esqueceu os nomes. Eles, Cristiano e Lu&iacute;s, ensinavam sobre a B&iacute;blia e pregavam a necessidade de batalhar pelos seus direitos. &ldquo;Foi ali que despertei para a necessidade da luta por terra, pois na minha comunidade, eram poucos os que tinham um peda&ccedil;o para morar e produzir&rdquo;, lembra V&acirc;nia.</p>
 
-<p>&nbsp;</p>
-
 <p><br />
 Ainda aos 14 anos se tornou professora na escola onde foi alfabetizada, onde lia literatura de cordel para os moradores, fazia teatro na igreja e redigia cartas. Quando as pessoas da comunidade n&atilde;o sabiam o que dizer, pediam que V&acirc;nia contasse as novidades da regi&atilde;o aos amigos e familiares distantes.</p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
