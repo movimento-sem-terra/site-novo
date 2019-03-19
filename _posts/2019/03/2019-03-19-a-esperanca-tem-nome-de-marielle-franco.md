@@ -135,6 +135,8 @@ Desde o come&ccedil;o do acampamento realiza-se um grande esfor&ccedil;o entre o
 <p><br />
 Inicialmente os acampados constru&iacute;ram a escola com peda&ccedil;os de madeiras, palha e sacos. Hoje, cerca de 80 alunos j&aacute; est&atilde;o sendo atendidos pela Escola Paulo Freire, que funciona em todos os per&iacute;odos e atende tamb&eacute;m a jovens e adultos. Nesta segunda, (18), foi a vez do estabelecimento receber merenda escolar.</p>
 
+<p style="text-align:center"><img alt="IMG_0104.JPG" height="394" src="//farm8.staticflickr.com/7858/47422470731_a3d4eb7c75_b.jpg" width="700" /></p>
+
 <p><br />
 <strong>Amea&ccedil;a de despejo</strong></p>
 
@@ -149,6 +151,12 @@ Outra informa&ccedil;&atilde;o apresentada pelo o Incra &agrave;&nbsp; Alessandr
 
 <p><br />
 A liminar de despejo estava suspensa a pedido da Promotoria de Justi&ccedil;a de Itinga do Maranh&atilde;o que, observando a exist&ecirc;ncia de uma comunidade com n&uacute;mero grande de trabalhadores, solicitou uma vistoria afim de verificar a disponibilidade de &aacute;reas para cria&ccedil;&atilde;o de assentamentos.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG_0090.JPG" height="394" src="//farm8.staticflickr.com/7876/33546618398_5643a1077e_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p><br />
 Em novembro passado, ap&oacute;s concluir a vistoria, representantes dos &oacute;rg&atilde;os agr&aacute;rios estiveram presentes no acampamento. Eles informaram que ao menos 5 mil hectares da &aacute;rea ocupada n&atilde;o tem documento, o que possibilitaria a reapropria&ccedil;&atilde;o por parte da Uni&atilde;o para destin&aacute;-la ao Incra, com finalidade de criar de assentamentos.</p>
