@@ -50,7 +50,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-03-14 at 06.10.24(3).jpeg" height="525" src="//farm8.staticflickr.com/7867/40410454023_4b15a5bea7_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption><em>Foto: Agatha Azevedo</em></figcaption>
 </figure>
 </div>
 
@@ -67,7 +67,7 @@ Da P&aacute;gina do MST</em></p>
 &ldquo;A jornada deste ano denuncia toda a teia de rela&ccedil;&otilde;es que amea&ccedil;am a vida das mulheres. Por isso nosso tema &eacute; Pela Vida das mulheres, somos todas Marielle. Desde a execu&ccedil;&atilde;o de Marielle por um estado miliciano paralelo, que agora est&aacute; relacionado &agrave; fam&iacute;lia que assumiu a presid&ecirc;ncia, at&eacute; as atividades mais criminosas da minera&ccedil;&atilde;o, tudo isso faz parte do mesmo sistema capitalista. Quem manda no sistema n&atilde;o se importa com a vida ou com as pessoas, querem mais e mais lucro a qualquer custo. As primeiras a sofrer as consequ&ecirc;ncias disso somos n&oacute;s, mulheres&rdquo;, explica a Dirigente Nacional do MST, Ester Hoffmann.</p>
 
 <figure class="image" style="float:right"><img alt="WhatsApp Image 2019-03-14 at 06.10.24(2).jpeg" height="263" src="//farm8.staticflickr.com/7830/46652797914_930726fb59_b.jpg" width="350" />
-<figcaption></figcaption>
+<figcaption><em>Foto: Agatha Azevedo</em></figcaption>
 </figure>
 
 <p><br />
@@ -87,7 +87,7 @@ Em Minas Gerais 1.7 milh&atilde;o de pessoas moram em cidades onde ao menos uma 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-03-14 at 06.10.24.jpeg" height="450" src="//farm8.staticflickr.com/7837/40410454073_387bac2a42_b.jpg" width="600" />
-<figcaption></figcaption>
+<figcaption><em>Foto: Agatha Azevedo</em></figcaption>
 </figure>
 </div>
 
