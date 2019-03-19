@@ -5,7 +5,7 @@ tags:
   - tag: assentamentos
   - tag: reforma-agrária-popular
   - tag: paraná
-title: Assentamento do Paraná é referência na produção de orgânicos
+title: Assentamento do Paraná é referência na produção de agroecológicos
 support_line: "Com 20 anos recém-completados, o local é referência na produção de alimentos sem agrotóxico"
 images_hd: //farm8.staticflickr.com/7802/32478233757_fe78abb87a_b.jpg
 menu: reforma agrária
