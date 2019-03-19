@@ -34,7 +34,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Contestado_Luis-Clóvis-Schons_2-min-1024x683.jpg" height="467" src="//farm8.staticflickr.com/7876/46697056334_652aa19058_b.jpg" width="700" />
-<figcaption>​Deu certo. A reforma agr&aacute;ria tirou Schons e sua fam&iacute;lia da mis&eacute;ria. No Assentamento Contestado, a educa&ccedil;&atilde;o e a cultura tamb&eacute;m s&atilde;o motivos de orgulho.</figcaption>
+<figcaption>​Deu certo. A reforma agr&aacute;ria tirou Schons e sua fam&iacute;lia da mis&eacute;ria. No Assentamento Contestado, a educa&ccedil;&atilde;o e a cultura tamb&eacute;m s&atilde;o motivos de orgulho. Imagens: Carta Capital</figcaption>
 </figure>
 </div>
 
