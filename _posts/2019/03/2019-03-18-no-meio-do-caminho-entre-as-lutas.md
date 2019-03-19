@@ -63,7 +63,7 @@ Ao descer do carro, a homenageada foi rodeada por militantes que a aguardavam pa
 <strong>As diversas frentes de V&acirc;nia do MST</strong></p>
 
 <p><br />
-Paraibana de Canafistola, hoje Munic&iacute;pio Caldas Brand&atilde;o, V&acirc;nia conviveu desde pequena com conflitos de terra, pois aquela &eacute; uma regi&atilde;o cercada por cana-de-a&ccedil;&uacute;car, onde j&aacute; atuava um combativo sindicato de trabalhadores rurais. Aos 14 anos, ela j&aacute; participava das greves dos canavieiros. &ldquo;Me encantava a forma como as mulheres ficavam &agrave; frente das lutas. N&atilde;o entendia muito bem, mas j&aacute; achava que aquele era o caminho certo&rdquo;.</p>
+Paraibana de Canafistola, hoje Munic&iacute;pio Alagoa Grande, V&acirc;nia conviveu desde pequena com conflitos de terra, pois aquela &eacute; uma regi&atilde;o cercada por cana-de-a&ccedil;&uacute;car, onde j&aacute; atuava um combativo sindicato de trabalhadores rurais. Aos 14 anos, ela j&aacute; participava das greves dos canavieiros. &ldquo;Me encantava a forma como as mulheres ficavam &agrave; frente das lutas. N&atilde;o entendia muito bem, mas j&aacute; achava que aquele era o caminho certo&rdquo;.</p>
 
 <p><br />
 Cat&oacute;lica praticante, desde pequena ajudava nas reuni&otilde;es da igreja. V&acirc;nia foi animadora da comunidade e, a partir dos 14 anos, tornou-se membro da Pastoral da Juventude, onde iniciou seu processo de engajamento pol&iacute;tico.</p>
