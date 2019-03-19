@@ -4,7 +4,7 @@ tags:
   - tag: educação-do-campo
   - tag: livros
 title: Livro discute Pedagogia do Movimento Sem Terra e Relações de Gênero
-support_line: "Confira entrevista com Djacira Maria de Oliveira Araújo, autora do livro sobre incidências, contradições e perspectivas da Pedagogia do MST"
+support_line: "Confira entrevista com Djacira Araújo, autora do livro sobre incidências, contradições e perspectivas da Pedagogia do MST"
 menu: "educação, cultura e comunicação"
 images_hd: //farm8.staticflickr.com/7801/40455890323_41b65f6206_b.jpg
 layout: post
@@ -24,7 +24,7 @@ files:
     title: IMG_5202.jpg
     $$hashKey: 0GH
 created_date: "2019-03-19T14:43:42-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/08/2018-08-27-sem-terra-ocupam-prefeitura-de-rio-bonito-e-reivindicam-melhorias-na-educacao.md
   - _posts/2018/08/2018-08-30-mst-realiza-iii-festival-de-arte-cultura-das-escolas-do-campo.md
@@ -34,8 +34,7 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><br />
-<em>Por Fernanda Alc&acirc;ntara</em><br />
+<p><em>Por Fernanda Alc&acirc;ntara</em><br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
@@ -44,7 +43,7 @@ releated_posts:
 <figcaption><em>&nbsp;Djacira Maria de Oliveira </em></figcaption>
 </figure>
 
-<p>Diante do desafio de estudar a&nbsp; Pedagogia&nbsp; do&nbsp; MST&nbsp; numa perspectiva de g&ecirc;nero, Djacira Maria de Oliveira Araujo lan&ccedil;ou o livro &ldquo;Pedagogia do Movimento Sem Terra e Rela&ccedil;&otilde;es de G&ecirc;nero: incid&ecirc;ncias, contradi&ccedil;&otilde;es e perspectivas em movimento&rdquo;. Oriunda das lutas do campo, Djacira contribuiu por muitos anos com a educa&ccedil;&atilde;o no Brasil. Ela &eacute; pertencente e dirigente do&nbsp; MST, dirigindo tamb&eacute;m a Escola Nacional Florestan Fernandes por anos, e agora mostra os resultado de suas observa&ccedil;&otilde;es.</p>
+<p>Diante do desafio de estudar a&nbsp; Pedagogia&nbsp; do&nbsp; MST numa perspectiva de g&ecirc;nero, Djacira Maria de Oliveira Ara&uacute;jo lan&ccedil;ou o livro &ldquo;Pedagogia do Movimento Sem Terra e Rela&ccedil;&otilde;es de G&ecirc;nero: incid&ecirc;ncias, contradi&ccedil;&otilde;es e perspectivas em movimento&rdquo;. Oriunda das lutas do campo, Djacira contribuiu por muitos anos com a educa&ccedil;&atilde;o no Brasil. Ela &eacute; pertencente e dirigente do&nbsp; MST, coordena tamb&eacute;m a Escola Nacional Florestan Fernandes por anos, e agora mostra os resultado de suas observa&ccedil;&otilde;es.</p>
 
 <p><br />
 O livro &eacute; fruto&nbsp; da&nbsp; &aacute;rdua&nbsp; pesquisa de disserta&ccedil;&atilde;o defendida por Djacira no Programa de P&oacute;s-Gradua&ccedil;&atilde;o&nbsp; da Universidade Federal da Bahia (UFBA), e mostra um olhar acurado sobre a Pedagogia do MST e as quest&otilde;es de g&ecirc;nero, especialmente na&nbsp; forma&nbsp; como&nbsp; se&nbsp; articulam&nbsp; frente as&nbsp; quest&otilde;es&nbsp; de domina&ccedil;&atilde;o com a tem&aacute;tica de opress&atilde;o de g&ecirc;nero e ra&ccedil;a/etnia. Sua&nbsp; disserta&ccedil;&atilde;o,&nbsp; agora&nbsp; convertida&nbsp; em&nbsp; livro,&nbsp; exp&otilde;e&nbsp; de&nbsp; maneira&nbsp; clara e objetiva a luta pela emancipa&ccedil;&atilde;o da classe&nbsp; trabalhadora sob a &oacute;tica dos problemas enfrentados pelas&nbsp; mulheres.</p>
