@@ -107,7 +107,7 @@ Na cidade de Rio Bonito do Igua&ccedil;u (PR), tr&ecirc;s mil fam&iacute;lias Se
 &ldquo;Aquele acampamento &eacute; a prova de que a for&ccedil;a e uni&atilde;o do povo &eacute; vida!&rdquo;, afirmou Irm&atilde; Lia, em depoimento a alunos do Col&eacute;gio Estadual do Campo Iraci Salete, localizado no assentamento Marcos Freire. Ela, que dedicou sua vida &agrave; luta do povo, relatou as dificuldades vividas naquele per&iacute;odo: &ldquo;Crian&ccedil;as rec&eacute;m-nascidas totalmente desnutridas eram comuns. O alimento era escasso, pouco para muitos&rdquo;, relembrou.</p>
 
 <p><br />
-Questionada na &eacute;poca por um padre da cidade sobre o porqu&ecirc; suportar &agrave;quelas condi&ccedil;&otilde;es, Irm&atilde; Dulce respondeu: &quot;E onde o povo encontra for&ccedil;as para viver?&rdquo;. Segundo ela, era imposs&iacute;vel saber o momento de ir embora, &ldquo;e foi assim que o tempo passou&rdquo;.</p>
+Questionada na &eacute;poca por um padre da cidade sobre o porqu&ecirc; suportar &agrave;quelas condi&ccedil;&otilde;es, Irm&atilde; Lia respondeu: &quot;E onde o povo encontra for&ccedil;as para viver?&rdquo;. Segundo ela, era imposs&iacute;vel saber o momento de ir embora, &ldquo;e foi assim que o tempo passou&rdquo;.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="8 - Foto - Jaine Amorin.jpeg" height="459" src="//farm8.staticflickr.com/7915/47386455181_7c5babe32a_b.jpg" width="700" />
@@ -116,7 +116,7 @@ Questionada na &eacute;poca por um padre da cidade sobre o porqu&ecirc; suportar
 </div>
 
 <p><br />
-O Centro de Mem&oacute;ria Terra e Povo revive as dificuldades e conquistas das fam&iacute;lias Sem Terra para reafirmar a luta desse povo que resultou em dois assentamentos: o Marcos Freire, formado por 1.147 fam&iacute;lias em uma &aacute;rea de 9.400 hectares, a partir do decreto de agosto de 1998; e o assentamento Ireno Alves dos Santos, com nome em homenagem &agrave; principal lideran&ccedil;a da &eacute;poca que faleceu em 1996, com 1.300 fam&iacute;lias em uma &aacute;rea de 16.852 hectares, cujo decreto desapropriat&oacute;rio &eacute; datado de Janeiro de 1997.</p>
+O Centro de Mem&oacute;ria Terra e Povo revive as dificuldades e conquistas das fam&iacute;lias Sem Terra para reafirmar a luta desse povo que resultou em dois assentamentos: o Marcos Freire, formado por&nbsp;578 fam&iacute;lias em uma &aacute;rea de 9.400 hectares, a partir do decreto de agosto de 1998; e o assentamento Ireno Alves dos Santos, com nome em homenagem &agrave; principal lideran&ccedil;a da &eacute;poca que faleceu em 1996, com&nbsp;972 fam&iacute;lias em uma &aacute;rea de 16.852 hectares, cujo decreto desapropriat&oacute;rio &eacute; datado de Janeiro de 1997.</p>
 
 <p><br />
 J&aacute; o acampamento do Buraco sucedeu em outras ocupa&ccedil;&otilde;es de munic&iacute;pios vizinhos como Quedas do Igua&ccedil;u (tamb&eacute;m em terras da Giacomet-Marodin),&nbsp; Laranjeiras do Sul, Nova Laranjeiras e Espig&atilde;o Alto, dentre outros. Assim, o latif&uacute;ndio do territ&oacute;rio da Cantuquirigua&ccedil;u come&ccedil;ou a ser dilu&iacute;do e tornou-se a &aacute;rea do maior complexo da Reforma Agr&aacute;ria da Am&eacute;rica Latina.</p>
