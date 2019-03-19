@@ -99,7 +99,7 @@ A ocupa&ccedil;&atilde;o daquelas terras aconteceu em 9 de junho de 2018, mas de
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_0076.JPG" height="394" src="//farm8.staticflickr.com/7848/32480547957_5d4e867b34_b.jpg" width="700" />
-<figcaption>caught</figcaption>
+<figcaption></figcaption>
 </figure>
 </div>
 
@@ -115,7 +115,15 @@ A principal produ&ccedil;&atilde;o do acampamento Marielle Franco &eacute; o arr
 <p>Al&eacute;m do arroz, destaca-se a produ&ccedil;&atilde;o de verduras e legumes variados, como maxixe, quiabo e pepinos. Tamb&eacute;m &eacute; muito grande o cultivo de milho, ab&oacute;bora, melancia e pimentas, al&eacute;m das 11 esp&eacute;cies cultivadas de feij&atilde;o, identificados pelos trabalhadores. Todos estes produzidos sem uso de veneno, ou seja, apenas alimentos saud&aacute;veis nas lavouras do acampamento Marielle Franco.</p>
 
 <p><br />
-<strong>Solidariedade e alimentos saud&aacute;veis</strong></p>
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG_0043.JPG" height="394" src="//farm8.staticflickr.com/7812/40456880943_dc5428d89e_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
+<p><strong>Solidariedade e alimentos saud&aacute;veis</strong></p>
 
 <p><br />
 Atualmente, um dos acesso ao acampamento est&aacute; bloqueado pela empresa grileira, alterando em 25 quil&ocirc;metros a dist&acirc;ncia da cidade para o acampamento. Mesmo com as constantes ame&ccedil;as, os trabalhadores Sem Terras t&ecirc;m acolhido e doado alimentos aos vigilantes de uma empresa privada respons&aacute;vel pela seguran&ccedil;a da &aacute;rea.</p>
