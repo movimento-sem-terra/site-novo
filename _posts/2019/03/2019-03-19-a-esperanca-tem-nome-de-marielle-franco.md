@@ -65,6 +65,13 @@ files:
     small: //farm8.staticflickr.com/7848/32480547957_5d4e867b34_n.jpg
     title: IMG_0076.JPG
     $$hashKey: 08Z
+  - link: //farm8.staticflickr.com/7809/32485229597_7e804ca908_b.jpg
+    original: //farm8.staticflickr.com/7809/32485229597_62a9230b35_o.jpg
+    thumbnail: //farm8.staticflickr.com/7809/32485229597_7e804ca908_t.jpg
+    medium: //farm8.staticflickr.com/7809/32485229597_7e804ca908_z.jpg
+    small: //farm8.staticflickr.com/7809/32485229597_7e804ca908_n.jpg
+    title: IMG_0070.JPG
+    $$hashKey: 05K
 created_date: "2019-03-19T17:35:25-03:00"
 published: true
 releated_posts:
@@ -96,6 +103,12 @@ O acampamento de Sem Terra que leva o nome de Marielle Franco possui hoje cerca 
 
 <p><br />
 A ocupa&ccedil;&atilde;o daquelas terras aconteceu em 9 de junho de 2018, mas devido ao per&iacute;odo de seca, somente em novembro as fam&iacute;lias puderam come&ccedil;ar a prepara&ccedil;&atilde;o da terra e o plantio. Nas primeiras semanas, os trabalhadores come&ccedil;aram a colher alimentos como verduras e feij&atilde;o; mais algumas semanas a produ&ccedil;&atilde;o deslanchou e, quatro meses depois do in&iacute;cio das atividades, os camponeses j&aacute; levam para a cidade, para parentes e amigos e at&eacute; para comercializa&ccedil;&atilde;o o resultado do trabalho com a terra.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG_0076.JPG" height="394" src="//farm8.staticflickr.com/7848/32480547957_5d4e867b34_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p><br />
 <strong>Produ&ccedil;&atilde;o diversificada e sem veneno</strong></p>
@@ -156,10 +169,16 @@ A liminar de despejo estava suspensa a pedido da Promotoria de Justi&ccedil;a de
 Em novembro passado, ap&oacute;s concluir a vistoria, representantes dos &oacute;rg&atilde;os agr&aacute;rios estiveram presentes no acampamento. Eles informaram que ao menos 5 mil hectares da &aacute;rea ocupada n&atilde;o tem documento, o que possibilitaria a reapropria&ccedil;&atilde;o por parte da Uni&atilde;o para destin&aacute;-la ao Incra, com finalidade de criar de assentamentos.</p>
 
 <p><br />
-A empresa que grilou a &aacute;rea &eacute; uma das maiores sider&uacute;rgicas do Maranh&atilde;o. Viena Sider&uacute;rgica S/A &eacute; conhecida pelo uso de terras publicas, polui&ccedil;&atilde;o, crimes ambientais e at&eacute; trabalho escravo. No Par&aacute;, a empresa tamb&eacute;m j&aacute; sofreu den&uacute;ncias de beneficiar o min&eacute;rio de ferro extra&iacute;do da Serra dos Caraj&aacute;s em Parauapebas (PA).</p>
+A empresa que grilou a &aacute;rea &eacute; uma das maiores sider&uacute;rgicas do Maranh&atilde;o. Viena Sider&uacute;rgica S/A &eacute; conhecida pelo uso de terras publicas, polui&ccedil;&atilde;o, crimes ambientais e at&eacute; trabalho escravo.</p>
 
 <p><br />
 A partir da ocupa&ccedil;&atilde;o Marielle Franco, os Sem Terra chamam a aten&ccedil;&atilde;o da sociedade e das autoridades para um poss&iacute;vel uso irregular desta &aacute;rea p&uacute;blica pela empresa Viena Sider&uacute;rgica. A Empresa tamb&eacute;m em v&aacute;rias propriedades na regi&atilde;o com produ&ccedil;&atilde;o de eucaliptos para produ&ccedil;&atilde;o de carv&atilde;o usados nos fornos das empresas de siderurgias em A&ccedil;ail&acirc;ndia.</p>
 
 <p><br />
 Unidas e firmes na luta, as fam&iacute;lias do acampamento Marielle Franco prometem resistir e preparam para s&aacute;bado, dia 23, uma feira popular com alimentos saud&aacute;veis e baratos produzidos. O evento deve ser realizado na sede do munic&iacute;pio de Itinga do Maranh&atilde;o.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG_0070.JPG" height="394" src="//farm8.staticflickr.com/7809/32485229597_7e804ca908_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
