@@ -16,8 +16,22 @@ files:
     small: //farm8.staticflickr.com/7872/46512897485_64be5c54b5_n.jpg
     title: "Produção da Comunidade camponesa de Taboca (Foto: Bruno Alface | CPT).jpg"
     $$hashKey: 0MT
+  - link: //farm8.staticflickr.com/7823/46704944524_561479b5c7_b.jpg
+    original: //farm8.staticflickr.com/7823/46704944524_7b739b4f2b_o.jpg
+    thumbnail: //farm8.staticflickr.com/7823/46704944524_561479b5c7_t.jpg
+    medium: //farm8.staticflickr.com/7823/46704944524_561479b5c7_z.jpg
+    small: //farm8.staticflickr.com/7823/46704944524_561479b5c7_n.jpg
+    title: Taboca2.jpg
+    $$hashKey: 0ZL
+  - link: //farm8.staticflickr.com/7813/40462395943_f1bc729bd9_b.jpg
+    original: //farm8.staticflickr.com/7813/40462395943_f06da846b0_o.jpg
+    thumbnail: //farm8.staticflickr.com/7813/40462395943_f1bc729bd9_t.jpg
+    medium: //farm8.staticflickr.com/7813/40462395943_f1bc729bd9_z.jpg
+    small: //farm8.staticflickr.com/7813/40462395943_f1bc729bd9_n.jpg
+    title: taboca3.jpg
+    $$hashKey: 0ZO
 created_date: "2019-03-20T12:51:53-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/06/2018-06-04-democracia-agroecologia-e-educacao-unem-campo-e-cidade-nas-ruas-de-belo-horizonte.md
   - _posts/2018/06/2018-06-12-acampamento-produz-alimentos-organicos-e-livres-de-veneno.md
@@ -27,36 +41,49 @@ releated_posts:
   - _posts/2018/09/2018-09-03-mst-realiza-19a-feira-da-reforma-agraria-em-maceio.md
 
 ---
-<p><br />
-Da P&aacute;gina do MST<br />
+<p>&nbsp;</p>
+
+<p><em>Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <p>O&nbsp; acampamento de camponeses Taboca, localizado na cidade de Baba&ccedil;ul&acirc;ndia, norte do Estado de Tocantins est&aacute; amea&ccedil;ado de despejo ap&oacute;s nova determina&ccedil;&atilde;o da justi&ccedil;a. Esta medida desestabilizaria n&atilde;o somente os assentados que formam um total de mais de 70 fam&iacute;lias, mas tamb&eacute;m a comunidade local, uma vez que os alimentos abastecem o munic&iacute;pio de Baba&ccedil;ul&acirc;ndia.</p>
 
-<p>&nbsp;</p>
+<p><br />
+As fam&iacute;lias do Taboca trabalham h&aacute; anos naquelas terras, produzindo alimentos saud&aacute;veis e diversificados, gerando renda e trabalho a partir do campo. Os favorecidos pela decis&atilde;o n&atilde;o utilizavam a terra quando ela foi ocupada e n&atilde;o moram no Brasil.</p>
 
-<p>As fam&iacute;lias do Taboca trabalham h&aacute; anos naquelas terras, produzindo alimentos saud&aacute;veis e diversificados, gerando renda e trabalho a partir do campo. Os favorecidos pela decis&atilde;o n&atilde;o utilizavam a terra quando ela foi ocupada e n&atilde;o moram no Brasil. Confira a nota publicada pela Comiss&atilde;o Pastoral da Terra Araguaia - Tocantins.</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="taboca3.jpg" height="354" src="//farm8.staticflickr.com/7813/40462395943_f1bc729bd9_b.jpg" width="700" />
+<figcaption>Comunidade camponesa de Taboca&nbsp;(Foto:&nbsp;Bruno Alface | CPT)</figcaption>
+</figure>
+</div>
 
-<p>&nbsp;</p>
+<p style="text-align: center;"><strong>Nota publicada pela Comiss&atilde;o Pastoral da Terra Araguaia - Tocantins</strong></p>
 
-<p>Uma decis&atilde;o da ju&iacute;za Wanessa Lorena Martins de Sousa Motta, da Comarca de Wanderl&acirc;ndia, prev&ecirc; o despejo de mais de 70 fam&iacute;lias da comunidade camponesa Taboca na pr&oacute;xima quarta-feira (20), em Baba&ccedil;ul&acirc;ndia (TO). A ordem de reintegra&ccedil;&atilde;o de posse &eacute; favor&aacute;vel a especuladores de terras que nunca exerceram posse naquela regi&atilde;o e, inclusive, sequer vivem no Brasil.</p>
+<p><br />
+Uma decis&atilde;o da ju&iacute;za Wanessa Lorena Martins de Sousa Motta, da Comarca de Wanderl&acirc;ndia, prev&ecirc; o despejo de mais de 70 fam&iacute;lias da comunidade camponesa Taboca na pr&oacute;xima quarta-feira (20), em Baba&ccedil;ul&acirc;ndia (TO). A ordem de reintegra&ccedil;&atilde;o de posse &eacute; favor&aacute;vel a especuladores de terras que nunca exerceram posse naquela regi&atilde;o e, inclusive, sequer vivem no Brasil.</p>
 
-<p>&nbsp;</p>
+<p><br />
+As &aacute;reas reivindicadas no processo judicial movido por Markus Max Wirth e outros, em desfavor das fam&iacute;lias que ocupam o im&oacute;vel h&aacute; cerca de sete anos, s&atilde;o arrecadadas e matriculadas em nome da Uni&atilde;o.</p>
 
-<p>As &aacute;reas reivindicadas no processo judicial movido por Markus Max Wirth e outros, em desfavor das fam&iacute;lias que ocupam o im&oacute;vel h&aacute; cerca de sete anos, s&atilde;o arrecadadas e matriculadas em nome da Uni&atilde;o.</p>
+<p><br />
+A ju&iacute;za determinou, em outubro de 2018, o despejo das fam&iacute;lias em uma senten&ccedil;a baseada em poss&iacute;veis provas carregadas de v&iacute;cios e apenas testemunhas dos requerentes foram ouvidas em audi&ecirc;ncia de justifica&ccedil;&atilde;o. Ou seja, provas produzidas unilateralmente cerceando a ampla defesa dos agricultores e agricultoras familiares que ali vivem.</p>
 
-<p>A ju&iacute;za determinou, em outubro de 2018, o despejo das fam&iacute;lias em uma senten&ccedil;a baseada em poss&iacute;veis provas carregadas de v&iacute;cios e apenas testemunhas dos requerentes foram ouvidas em audi&ecirc;ncia de justifica&ccedil;&atilde;o. Ou seja, provas produzidas unilateralmente cerceando a ampla defesa dos agricultores e agricultoras familiares que ali vivem.</p>
+<p><br />
+Em julho de 2016, a Uni&atilde;o ingressou no processo manifestando interesse no im&oacute;vel com possibilidade de destin&aacute;-lo a interesse social para cria&ccedil;&atilde;o de assentamento ou regulariza&ccedil;&atilde;o fundi&aacute;ria para as fam&iacute;lias camponesas.</p>
 
-<p>Em julho de 2016, a Uni&atilde;o ingressou no processo manifestando interesse no im&oacute;vel com possibilidade de destin&aacute;-lo a interesse social para cria&ccedil;&atilde;o de assentamento ou regulariza&ccedil;&atilde;o fundi&aacute;ria para as fam&iacute;lias camponesas.</p>
+<p><br />
+Desde 2014, o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) cadastrou parte das fam&iacute;lias e instaurou processo administrativo para cria&ccedil;&atilde;o de Projeto de Assentamento. No entanto, apesar das in&uacute;meras cobran&ccedil;as das fam&iacute;lias e por morosidade do &oacute;rg&atilde;o, o procedimento nunca caminhou conforme previsto.&lt;</p>
 
-<p>Desde 2014, o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) cadastrou parte das fam&iacute;lias e instaurou processo administrativo para cria&ccedil;&atilde;o de Projeto de Assentamento. No entanto, apesar das in&uacute;meras cobran&ccedil;as das fam&iacute;lias e por morosidade do &oacute;rg&atilde;o, o procedimento nunca caminhou conforme previsto.</p>
+<p><br />
+Na sexta-feira (8), o Minist&eacute;rio P&uacute;blico Federal de Aragua&iacute;na instaurou inqu&eacute;rito civil p&uacute;blico para apurar as irregularidades das matr&iacute;culas da &aacute;rea em lit&iacute;gio.</p>
 
-<p>Na sexta-feira (8), o Minist&eacute;rio P&uacute;blico Federal de Aragua&iacute;na instaurou inqu&eacute;rito civil p&uacute;blico para apurar as irregularidades das matr&iacute;culas da &aacute;rea em lit&iacute;gio.</p>
+<p><br />
+As fam&iacute;lias da comunidade Taboca j&aacute; est&atilde;o completamente estabelecidas na regi&atilde;o. Parte da produ&ccedil;&atilde;o de suas ro&ccedil;as &ndash; arroz, feij&atilde;o, mandioca, farinha de puba, ab&oacute;bora entre outros - abastece o munic&iacute;pio de Baba&ccedil;ul&acirc;ndia; h&aacute; um projeto de pesquisa na linha da agroecologia da comunidade em parceria com a Universidade Federal do Tocantins h&aacute; cerca de um ano; crian&ccedil;as e adolescentes estudam nas escolas da cidade e ser&atilde;o diretamente afetadas pela expuls&atilde;o da comunidade.</p>
 
-<p>As fam&iacute;lias da comunidade Taboca j&aacute; est&atilde;o completamente estabelecidas na regi&atilde;o. Parte da produ&ccedil;&atilde;o de suas ro&ccedil;as &ndash; arroz, feij&atilde;o, mandioca, farinha de puba, ab&oacute;bora entre outros - abastece o munic&iacute;pio de Baba&ccedil;ul&acirc;ndia; h&aacute; um projeto de pesquisa na linha da agroecologia da comunidade em parceria com a Universidade Federal do Tocantins h&aacute; cerca de um ano; crian&ccedil;as e adolescentes estudam nas escolas da cidade e ser&atilde;o diretamente afetadas pela expuls&atilde;o da comunidade.</p>
+<p><br />
+&Eacute; fato que despejar as mais de 70 fam&iacute;lias de suas casas criar&aacute; um imensur&aacute;vel problema social. Diante de tudo isso, o regional Araguaia-Tocantins da Comiss&atilde;o Pastoral da Terra declara total apoio &agrave;s fam&iacute;lias da comunidade Taboca que h&aacute; anos produzem alimentos saud&aacute;veis e diversificados, gerando renda e trabalho a partir do campo, criam seus filhos e filhas e vivem pacificamente na &aacute;rea.</p>
 
-<p>&Eacute; fato que despejar as mais de 70 fam&iacute;lias de suas casas criar&aacute; um imensur&aacute;vel problema social. Diante de tudo isso, o regional Araguaia-Tocantins da Comiss&atilde;o Pastoral da Terra declara total apoio &agrave;s fam&iacute;lias da comunidade Taboca que h&aacute; anos produzem alimentos saud&aacute;veis e diversificados, gerando renda e trabalho a partir do campo, criam seus filhos e filhas e vivem pacificamente na &aacute;rea.</p>
-
-<p>Comiss&atilde;o Pastoral da Terra Araguaia-Tocantins<br />
+<p><br />
+<em>Comiss&atilde;o Pastoral da Terra Araguaia-Tocantins<br />
 Aragua&iacute;na, 18 de mar&ccedil;o de 2019<br />
-Alternativas</p>
+Alternativas</em></p>
