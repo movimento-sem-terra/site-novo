@@ -56,16 +56,21 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Na semana da 16&ordf; Festa da Colheita do Arroz Agroecol&oacute;gico, o Movimento de Trabalhadores Rurais Sem Terra no Rio Grande do Sul promoveu uma visita nos assentamentos da Reforma Agr&aacute;ria, na regi&atilde;o Metropolitana de Porto Alegre. O objetivo da visita&ccedil;&atilde;o foi apresentar a produ&ccedil;&atilde;o de arroz e sucos org&acirc;nicos, al&eacute;m de leite em p&oacute;, tudo de fabrica&ccedil;&atilde;o dos assentados da regi&atilde;o.</p>
+<p>Na semana da 16&ordf; Festa da Colheita do Arroz Agroecol&oacute;gico, assentamentos do MST na regi&atilde;o Metropolitana de Porto Alegre, no Rio Grande do Sul, receberam a visita de alguns dos maiores chefes de cozinha do pa&iacute;s.</p>
 
 <p><br />
-Chefes de cozinha e representantes de algumas prefeituras compartilharam v&aacute;rios compromissos nos assentamentos. As cidades representadas adquirem os alimentos cultivados pelas fam&iacute;lias assentadas por meio do Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (PNAE).</p>
+O objetivo da visita&ccedil;&atilde;o, que tamb&eacute;m contou com&nbsp;representantes das prefeituras de Itabora&iacute;, Itagua&iacute;, Campinas, S&atilde;o Paulo, Ilha Bela e Maric&aacute; no Rio de Janeiro,&nbsp;foi apresentar a produ&ccedil;&atilde;o de arroz, sucos org&acirc;nicos e&nbsp;leite em p&oacute; feita pelos assentados.&nbsp;</p>
 
 <p><br />
-A agenda reuniu representantes das prefeituras de Itabora&iacute;, Itagua&iacute;, Campinas e da capital de S&atilde;o Paulo, al&eacute;m de Ilha Bela e Maric&aacute;, ambas do Rio de Janeiro. A programa&ccedil;&atilde;o iniciou na manh&atilde; da quarta-feira (13) com a apresenta&ccedil;&atilde;o do processo de cria&ccedil;&atilde;o do Grupo Gestor do Arroz Agroecol&oacute;gico e exposi&ccedil;&atilde;o das variedades de arroz que s&atilde;o produzidas pelos Sem Terra.</p>
+Essas cidades recebem os alimentos cultivados pelas fam&iacute;lias assentadas por meio do Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (PNAE).</p>
 
 <p><br />
-Os nutricionistas e coordenadores de alimenta&ccedil;&atilde;o realizaram visitas aos assentados e conheceram as unidades de armazenagem e a ind&uacute;stria de beneficiamento da Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Nova Santa Rita (Coopan), em Nova Santa Rita. Na quinta-feira (14), o itiner&aacute;rio levou-os a conhecer os sucos org&acirc;nicos da Cooperativa Monte V&ecirc;neto, em Cotipor&atilde;, na Serra Ga&uacute;cha. &nbsp;</p>
+A programa&ccedil;&atilde;o do encontro, que durou dois dias,&nbsp;contou com a apresenta&ccedil;&atilde;o do processo de cria&ccedil;&atilde;o do Grupo Gestor do Arroz Agroecol&oacute;gico e exposi&ccedil;&atilde;o das variedades de arroz que s&atilde;o produzidas pelos Sem Terra.</p>
+
+<p><br />
+Al&eacute;m disso, os visitantes puderem&nbsp;conhecer&nbsp;os assentados e ver de perto&nbsp;as unidades de armazenagem e a ind&uacute;stria de beneficiamento da Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Nova Santa Rita (Coopan), em Nova Santa Rita.<br />
+<br />
+J&aacute; na&nbsp;quinta-feira (14), o itiner&aacute;rio levou-os a conhecer os sucos org&acirc;nicos da Cooperativa Monte V&ecirc;neto, em Cotipor&atilde;, na Serra Ga&uacute;cha. &nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Primeiro dia de visitação na semana da 16ª Festa da Colheita do Arroz Agroecológio. Foto - Maiara Rauber.jpg" height="420" src="//farm8.staticflickr.com/7886/46706457314_ae5c83cec3_b.jpg" width="700" />
@@ -109,4 +114,4 @@ Nelson Luiz Krupinski, do setor comercial da Terra Livre e produtor de arroz org
 
 <p>&nbsp;</p>
 
-<p>Editado por Fernanda Alc&acirc;ntara</p>
+<p><em>Editado por Fernanda Alc&acirc;ntara</em></p>
