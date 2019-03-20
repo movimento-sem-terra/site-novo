@@ -5,7 +5,7 @@ tags:
   - tag: marielle-vive
 images_hd: //farm8.staticflickr.com/7926/32480547987_fb9c2bc3e2_b.jpg
 title: A esperança tem nome de Marielle Franco
-support_line: "No Maranhão, Sem Terra produzem alimentos em vez de eucalipto e soja em acampamento"
+support_line: "No Maranhão, Sem Terra produzem alimentos saudáveis em acampamento e homenageiam vereadora assassinada"
 menu: lutas e mobilizações
 layout: post
 files:
