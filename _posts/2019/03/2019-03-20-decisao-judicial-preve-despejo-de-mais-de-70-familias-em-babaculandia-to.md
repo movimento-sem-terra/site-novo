@@ -46,7 +46,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>O&nbsp; acampamento de camponeses Taboca, localizado na cidade de Baba&ccedil;ul&acirc;ndia, norte do Estado de Tocantins est&aacute; amea&ccedil;ado de despejo ap&oacute;s nova determina&ccedil;&atilde;o da justi&ccedil;a. Esta medida desestabilizaria n&atilde;o somente os assentados que formam um total de mais de 70 fam&iacute;lias, mas tamb&eacute;m a comunidade local, uma vez que os alimentos abastecem o munic&iacute;pio de Baba&ccedil;ul&acirc;ndia.</p>
+<p>O&nbsp; acampamento de camponeses Taboca, localizado na cidade de Baba&ccedil;ul&acirc;ndia, norte do Estado de Tocantins, est&aacute; amea&ccedil;ado de despejo ap&oacute;s nova determina&ccedil;&atilde;o da justi&ccedil;a. Esta medida desestabiliza n&atilde;o somente os assentados, um total de mais de 70 fam&iacute;lias, mas tamb&eacute;m a comunidade local, uma vez que os alimentos abastecem o munic&iacute;pio de Baba&ccedil;ul&acirc;ndia.</p>
 
 <p><br />
 As fam&iacute;lias do Taboca trabalham h&aacute; anos naquelas terras, produzindo alimentos saud&aacute;veis e diversificados, gerando renda e trabalho a partir do campo. Os favorecidos pela decis&atilde;o n&atilde;o utilizavam a terra quando ela foi ocupada e n&atilde;o moram no Brasil.</p>
