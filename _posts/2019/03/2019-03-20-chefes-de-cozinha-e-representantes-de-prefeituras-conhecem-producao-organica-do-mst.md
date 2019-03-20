@@ -65,7 +65,7 @@ O objetivo da visita&ccedil;&atilde;o, que tamb&eacute;m contou com&nbsp;represe
 Essas cidades recebem os alimentos cultivados pelas fam&iacute;lias assentadas por meio do Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (PNAE).</p>
 
 <p><br />
-A programa&ccedil;&atilde;o do encontro, que durou dois dias,&nbsp;contou com a apresenta&ccedil;&atilde;o do processo de cria&ccedil;&atilde;o do Grupo Gestor do Arroz Agroecol&oacute;gico e exposi&ccedil;&atilde;o das variedades de arroz que s&atilde;o produzidas pelos Sem Terra.</p>
+A programa&ccedil;&atilde;o do encontro, que come&ccedil;ou na quarta-feira (13) contou com a apresenta&ccedil;&atilde;o do processo de cria&ccedil;&atilde;o do Grupo Gestor do Arroz Agroecol&oacute;gico e exposi&ccedil;&atilde;o das variedades de arroz que s&atilde;o produzidas pelos Sem Terra.</p>
 
 <p><br />
 Al&eacute;m disso, os visitantes puderem&nbsp;conhecer&nbsp;os assentados e ver de perto&nbsp;as unidades de armazenagem e a ind&uacute;stria de beneficiamento da Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Nova Santa Rita (Coopan), em Nova Santa Rita.<br />
