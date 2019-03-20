@@ -83,7 +83,8 @@ As fam&iacute;lias da comunidade Taboca j&aacute; est&atilde;o completamente est
 <p><br />
 &Eacute; fato que despejar as mais de 70 fam&iacute;lias de suas casas criar&aacute; um imensur&aacute;vel problema social. Diante de tudo isso, o regional Araguaia-Tocantins da Comiss&atilde;o Pastoral da Terra declara total apoio &agrave;s fam&iacute;lias da comunidade Taboca que h&aacute; anos produzem alimentos saud&aacute;veis e diversificados, gerando renda e trabalho a partir do campo, criam seus filhos e filhas e vivem pacificamente na &aacute;rea.</p>
 
-<p><br />
-<em>Comiss&atilde;o Pastoral da Terra Araguaia-Tocantins<br />
-Aragua&iacute;na, 18 de mar&ccedil;o de 2019<br />
-Alternativas</em></p>
+<p style="text-align: center;"><br />
+<em>Comiss&atilde;o Pastoral da Terra Araguaia-Tocantins</em></p>
+
+<p style="text-align: right;"><br />
+<em>Aragua&iacute;na, 18 de mar&ccedil;o de 2019</em></p>
