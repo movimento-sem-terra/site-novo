@@ -56,10 +56,10 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Na semana da 16&ordf; Festa da Colheita do Arroz Agroecol&oacute;gico, assentamentos do MST na regi&atilde;o Metropolitana de Porto Alegre, no Rio Grande do Sul, receberam a visita de alguns dos maiores chefes de cozinha do pa&iacute;s.</p>
+<p>Na semana da <a href="http://www.mst.org.br/2019/03/16/a-grande-festa-da-colheita.html">16&ordf; Festa da Colheita do Arroz Agroecol&oacute;gico</a>, assentamentos do MST na regi&atilde;o Metropolitana de Porto Alegre, no Rio Grande do Sul, receberam a visita de alguns dos maiores chefes de cozinha do pa&iacute;s.</p>
 
 <p><br />
-O objetivo da visita&ccedil;&atilde;o, que tamb&eacute;m contou com&nbsp;representantes das prefeituras de Itabora&iacute;, Itagua&iacute;, Campinas, S&atilde;o Paulo, Ilha Bela e Maric&aacute; no Rio de Janeiro,&nbsp;foi apresentar a produ&ccedil;&atilde;o de arroz, sucos org&acirc;nicos e&nbsp;leite em p&oacute; feita pelos assentados.&nbsp;</p>
+O objetivo da visita&ccedil;&atilde;o, que tamb&eacute;m contou com&nbsp;representantes das prefeituras de Itabora&iacute;, Itagua&iacute;, Campinas, S&atilde;o Paulo, Ilha Bela e Maric&aacute; no Rio de Janeiro,&nbsp;foi apresentar a produ&ccedil;&atilde;o de arroz, sucos&nbsp;e&nbsp;leite em p&oacute; feita pelos assentados.&nbsp;</p>
 
 <p><br />
 Essas cidades recebem os alimentos cultivados pelas fam&iacute;lias assentadas por meio do Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (PNAE).</p>
