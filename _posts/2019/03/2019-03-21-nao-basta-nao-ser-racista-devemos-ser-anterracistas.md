@@ -4,7 +4,7 @@ tags:
   - tag: racismo
   - tag: direitos-humanos
   - tag: população-negra
-title: "Não basta não ser racista, devemos ser anterracistas"
+title: "Não basta não ser racista, devemos ser antirracistas"
 support_line: Dia Internacional pela Eliminação da Discriminação Racial e a importância da data no Brasil
 menu: lutas e mobilizações
 label: articles
