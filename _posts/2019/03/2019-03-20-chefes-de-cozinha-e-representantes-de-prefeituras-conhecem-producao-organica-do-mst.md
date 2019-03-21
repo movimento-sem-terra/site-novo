@@ -7,7 +7,7 @@ tags:
 title: Chefes de cozinha e representantes de prefeituras conhecem produção orgânica do MST
 support_line: Visita de profissionais de três estados ocorreu em assentamentos da Reforma Agrária no Rio Grande do Sul
 menu: agricultura camponesa
-images_hd: //farm8.staticflickr.com/7850/46706458054_b7732ef2a8_b.jpg
+images_hd: //farm8.staticflickr.com/7805/32493443077_38b0a3242f_b.jpg
 layout: post
 files:
   - link: //farm8.staticflickr.com/7892/46706457304_9e13d62fee_b.jpg
@@ -31,6 +31,13 @@ files:
     small: //farm8.staticflickr.com/7850/46706458054_b7732ef2a8_n.jpg
     title: Profissionais conheceram a produção de arroz orgânico do MST. Foto - Maiara Rauber.jpg
     $$hashKey: 1EI
+  - link: //farm8.staticflickr.com/7805/32493443077_38b0a3242f_b.jpg
+    original: //farm8.staticflickr.com/7805/32493443077_6029072a7a_o.jpg
+    thumbnail: //farm8.staticflickr.com/7805/32493443077_38b0a3242f_t.jpg
+    medium: //farm8.staticflickr.com/7805/32493443077_38b0a3242f_z.jpg
+    small: //farm8.staticflickr.com/7805/32493443077_38b0a3242f_n.jpg
+    title: WhatsApp Image 2019-03-21 at 12.40.32.jpeg
+    $$hashKey: 05D
 created_date: "2019-03-20T17:03:30-03:00"
 published: true
 releated_posts:
@@ -41,12 +48,9 @@ releated_posts:
   - _posts/2019/03/2019-03-16-a-grande-festa-da-colheita.md
 
 ---
-<p>&nbsp;</p>
-
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Profissionais conheceram a produção de arroz orgânico do MST. Foto - Maiara Rauber.jpg" height="466" src="//farm8.staticflickr.com/7850/46706458054_b7732ef2a8_b.jpg" width="700" />
-<figcaption><em>Profissionais conheceram a produ&ccedil;&atilde;o de arroz org&acirc;nico do MST.<br />
-Foto - Maiara Rauber</em></figcaption>
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-03-21 at 12.40.32.jpeg" height="466" src="//farm8.staticflickr.com/7805/32493443077_38b0a3242f_b.jpg" width="700" />
+<figcaption>&nbsp;<a href="https://www.instagram.com/carmemvirginia/?hl=pt-br">Carmem&nbsp;Virginia</a>, do Altar Cozinha Ancestral,&nbsp;<a href="https://www.instagram.com/botecodojb/?hl=pt-br">Julio Bernardo</a>, do Boteco do JB e&nbsp;<a href="https://www.instagram.com/checho_gonzales/?hl=pt-br">Checho Gonzales</a>, da Comedoria Gonzales, puderam ver de perto a produ&ccedil;&atilde;o agroecol&oacute;gica dos assentados</figcaption>
 </figure>
 </div>
 
