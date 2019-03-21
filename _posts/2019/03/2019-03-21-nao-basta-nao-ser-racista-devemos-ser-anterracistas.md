@@ -4,7 +4,7 @@ tags:
   - tag: racismo
   - tag: direitos-humanos
   - tag: população-negra
-title: "Não basta não ser racista, devemos ser antirracistas"
+title: "Não basta não ser racista, devemos ser anti-racistas"
 support_line: Dia Internacional pela Eliminação da Discriminação Racial e a importância da data no Brasil
 menu: lutas e mobilizações
 label: articles
@@ -57,4 +57,4 @@ Essas lutas t&ecirc;m trazido grandes li&ccedil;&otilde;es. Dentre elas, vale de
 No entanto, nos &uacute;ltimos anos podemos observar um intenso avan&ccedil;o do racismo em suas variadas vertentes e, consequentemente, o aumento da discrimina&ccedil;&atilde;o racial da popula&ccedil;&atilde;o negra, explicitada no aumento de atitudes fascistas em nosso pa&iacute;s e no mundo.</p>
 
 <p><br />
-Esse processo hist&oacute;rico recente nos desafia a fortalecer o debate e a compreens&atilde;o das quest&otilde;es &eacute;tnico-raciais, al&eacute;m dar unidade &agrave; luta de classe e &agrave; lutas antirracistas. Que as mulheres e homens negros da classe trabalhadora possam, junto aos demais setores, empunhar bandeiras de resist&ecirc;ncias e de constru&ccedil;&atilde;o de um pa&iacute;s soberano e popular. E, como disse a fil&oacute;sofa Angela Davis &ldquo;Numa sociedade racista n&atilde;o basta n&atilde;o ser racista. &Eacute; necess&aacute;rio ser antirracista&rdquo;.</p>
+Esse processo hist&oacute;rico recente nos desafia a fortalecer o debate e a compreens&atilde;o das quest&otilde;es &eacute;tnico-raciais, al&eacute;m dar unidade &agrave; luta de classe e &agrave; lutas anti-racistas. Que as mulheres e homens negros da classe trabalhadora possam, junto aos demais setores, empunhar bandeiras de resist&ecirc;ncias e de constru&ccedil;&atilde;o de um pa&iacute;s soberano e popular. E, como disse a fil&oacute;sofa Angela Davis &ldquo;Numa sociedade racista n&atilde;o basta n&atilde;o ser racista. &Eacute; necess&aacute;rio ser anti-racista&rdquo;.</p>
