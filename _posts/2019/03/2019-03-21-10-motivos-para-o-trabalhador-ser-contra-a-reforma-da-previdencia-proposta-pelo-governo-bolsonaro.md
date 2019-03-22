@@ -18,7 +18,7 @@ files:
     title: Reforma-Previdência.png
     $$hashKey: 05O
 created_date: "2019-03-21T18:02:43-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/11/2018-11-01-aos-lutadores-e-lutadoras-das-causas-do-povo-o-unico-caminho-e-resistir.md
   - _posts/2019/02/2019-02-25-a-cruel-demolicao-da-previdencia-social.md
