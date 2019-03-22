@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Terreiro Cultural em Minas Gerais!</title>
+				<description>Confira o que rolou lá na Zona da Mata.</description>
+				<pubDate>Fri, 22 Mar 2019 14:07:26 -0300</pubDate>
+				<link>http://www.mst.org.br/2019/03/22/terreiro-cultural-em-minas-gerais.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2019/03/22/terreiro-cultural-em-minas-gerais.html</guid>
+			</item>
+		
+			<item>
 				<title>Vem aí a IV Feira Nacional da Reforma Agrária!</title>
 				<description>Confira o que já teve nas outras. ;)</description>
 				<pubDate>Fri, 22 Mar 2019 12:47:18 -0300</pubDate>
@@ -81,14 +89,6 @@
 				<pubDate>Wed, 20 Mar 2019 16:42:33 -0300</pubDate>
 				<link>http://www.mst.org.br/2019/03/20/comunidades-lutam-contra-precarizacao-de-escolas-em-assentamentos-do-rs.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2019/03/20/comunidades-lutam-contra-precarizacao-de-escolas-em-assentamentos-do-rs.html</guid>
-			</item>
-		
-			<item>
-				<title>Chefes de cozinha e representantes de prefeituras conhecem produção orgânica do MST</title>
-				<description>Visita de profissionais de três estados ocorreu em assentamentos da Reforma Agrária no Rio Grande do Sul</description>
-				<pubDate>Wed, 20 Mar 2019 16:16:30 -0300</pubDate>
-				<link>http://www.mst.org.br/2019/03/20/chefes-de-cozinha-e-representantes-de-prefeituras-conhecem-producao-organica-do-mst.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2019/03/20/chefes-de-cozinha-e-representantes-de-prefeituras-conhecem-producao-organica-do-mst.html</guid>
 			</item>
 		
 	</channel>
