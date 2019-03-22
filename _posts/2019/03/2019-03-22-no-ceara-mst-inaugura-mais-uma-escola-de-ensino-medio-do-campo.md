@@ -82,6 +82,13 @@ Da P&aacute;gina do MST</em></p>
 <p>Com a inaugura&ccedil;&atilde;o da escola do campo Paulo Freire, o Cear&aacute; passa a contar com 9&nbsp; unidades funcionado em assentamento de Reforma Agr&aacute;ria: a escola Jo&atilde;o dos Santos de Oliveira, no assentamento 25 de Maio, na cidade de Madalena; a Florestan Fernandes, no assentamento Santana, em Monsenhor Tabosa; a Nazar&eacute; Flor, no assentamento Macei&oacute;, em Itapipoca; a Francisco Barros, no assentamento Lagoa do Mineiro, em Itarema; a Jos&eacute; Fideles, no assentamento Bonfim Concei&ccedil;&atilde;o, em Santana do Acara&uacute;; a Francisca Pinto, no assentamento Ant&ocirc;nio Conselheiro, em Ocara; a Patativa do Assar&eacute;, no assentamento Santana da Cal, em Canind&eacute;; e a Padre Jos&eacute; Augusto, no assentamento Pedra e Cal, em Jaguaretama.<br />
 &nbsp;</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG_0780.JPG" height="467" src="//farm8.staticflickr.com/7883/40477550973_8b74df1b3f_b.jpg" width="700" />
+<figcaption><em>Inaugura&ccedil;&atilde;o da escola Paulo Freire, no Cear&aacute;</em><br />
+<em>Foto:Aline Oliveira &nbsp;</em></figcaption>
+</figure>
+</div>
+
 <p>&ldquo;Agrade&ccedil;o o MST por ter tornado o nosso sonho em realidade&rdquo;, afirma a educanda da escola do campo Paulo freire, J&eacute;ssica Rosineidi. &ldquo;O movimento protagoniza lutas e mobiliza&ccedil;&otilde;es para conquistar as escolas do campo, procurando sempre a melhoria da educa&ccedil;&atilde;o nos assentamentos&rdquo;, completou.</p>
 
 <p><br />
