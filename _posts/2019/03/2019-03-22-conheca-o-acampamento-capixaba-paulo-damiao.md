@@ -1,6 +1,8 @@
 ---
 date: "2019-03-22T11:53:53-03:00"
-tags: []
+tags:
+  - tag: agroecologia
+  - tag: acampamento
 support_line: "Com resistência, perseverança e muita disposição, famílias produzem alimentos sem o uso de agrotóxicos"
 title: Conheça o acampamento capixaba Paulo Damião
 menu: agricultura camponesa
@@ -71,8 +73,12 @@ files:
     title: Produção de legumes orgânicos.jpg
     $$hashKey: 0EY
 created_date: "2019-03-22T12:48:46-03:00"
-published: false
-releated_posts: []
+published: true
+releated_posts:
+  - _posts/2019/02/2019-02-26-mst-incentiva-producao-de-alimentos-saudaveis-em-associacao-de-moradores.md
+  - _posts/2019/02/2019-02-19-papa-defende-desenvolvimento-rural-para-combater-a-fome-no-mundo.md
+  - _posts/2019/02/2019-02-27-mst-participa-de-banquetaco-contra-extincao-do-consea.md
+  - _posts/2018/08/2018-08-07-acampamento-nacional-da-juventude-da-inicio-a-marcha-historica-do-mst.md
 
 ---
 <p>&nbsp;</p>
@@ -82,7 +88,7 @@ Fotos: Edin&eacute;ia Neves, Vanuza Rodrigues e Vadeilson Francisco<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Antes um deserto verde com a monocultura do Eucalipto, a &aacute;rea aonde est&aacute; localizado o acampamento Paulo Dami&atilde;o, localizado no norte capixaba, cultiva lavouras dos mais variados tipos.<br />
+Antes um deserto verde com a monocultura do Eucalipto, a &aacute;rea aonde est&aacute; localizado o acampamento Paulo Dami&atilde;o, no norte capixaba, cultiva lavouras dos mais variados tipos.<br />
 &nbsp;</p>
 
 <div style="text-align:center">
@@ -94,46 +100,49 @@ Antes um deserto verde com a monocultura do Eucalipto, a &aacute;rea aonde est&a
 <p>As v&aacute;rias fam&iacute;lias ali acampadas deixaram a cidade para viverem da agroecologia, acreditando no processo de produ&ccedil;&atilde;o de alimentos saud&aacute;veis.<br />
 &nbsp;</p>
 
-<p>&ldquo;Desde que chegamos aqui as coisas n&atilde;o foram f&aacute;ceis. Ainda teremos que resistir e lutar contra a opress&atilde;o desse Governo, mas vamos continuar na luta e pela Reforma Agr&aacute;ria&rdquo;, ressaltaram os acampados.<br />
+<p>&ldquo;Desde que chegamos aqui, as coisas n&atilde;o foram f&aacute;ceis. Ainda teremos que resistir e lutar contra a opress&atilde;o desse Governo, mas vamos continuar na luta pela Reforma Agr&aacute;ria&rdquo;, ressaltaram os acampados.<br />
 &nbsp;</p>
 
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Cana para produção de garapa.jpg" height="525" src="//farm8.staticflickr.com/7824/33566322838_344965f217_b.jpg" width="700" />
+<figure class="image" style="float:right"><img alt="Cana para produção de garapa.jpg" height="225" src="//farm8.staticflickr.com/7824/33566322838_344965f217_b.jpg" width="300" />
 <figcaption>Cana para produ&ccedil;&atilde;o de garapa</figcaption>
 </figure>
-</div>
 
-<p>Segundo a coordena&ccedil;&atilde;o do acampamento e o setor de produ&ccedil;&atilde;o, o objetivo principal &eacute; diversificar ao m&aacute;ximo as lavouras para promover a autossufici&ecirc;ncia dos entre<img alt="Quem acredita na Terra produz.jpg" src="//farm8.staticflickr.com/7874/47442325011_1e0a686182_b.jpg" /> os acampados.</p>
+<p>Segundo a coordena&ccedil;&atilde;o do acampamento e o setor de produ&ccedil;&atilde;o, o objetivo principal &eacute; diversificar ao m&aacute;ximo as lavouras para promover a autossufici&ecirc;ncia dos entre os acampados.<br />
+&nbsp;</p>
 
 <p>As fam&iacute;lias fazem quest&atilde;o de trabalhar juntas na produ&ccedil;&atilde;o, sempre lembrando da necessidade da preserva&ccedil;&atilde;o do recursos naturais, especialmente as &aacute;reas que s&atilde;o consideradas de prote&ccedil;&atilde;o permanentes, as APPs.<br />
 &nbsp;</p>
 
-<p>Um dos destaques do acampamento &eacute; o cultivo de frutas, entre elas o abacaxi. Com forte aceita&ccedil;&atilde;o na mesa do brasileiro, o consumo de abacaxi&nbsp; varia entre suco, o consumo in natura e produ&ccedil;&atilde;o de doces na comunidade.<br />
+<p>Um dos destaques do acampamento &eacute; o cultivo de frutas, entre elas o abacaxi. Com forte aceita&ccedil;&atilde;o na mesa do brasileiro, a fruta &eacute; apreciada entre sucos, o consumo <em>in natura</em> e produ&ccedil;&atilde;o de doces.<br />
 &nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Banana.jpg" height="302" src="//farm8.staticflickr.com/7845/47442324991_895d90dffa_b.jpg" width="170" />
+<figcaption></figcaption>
+</figure>
 
 <p>Outra cultura em destaque no acampamento Paulo Dami&atilde;o &eacute; a produ&ccedil;&atilde;o de banana das mais variadas esp&eacute;cies, como Nanica, Prata, Ouro e da Terra.<br />
 &nbsp;</p>
 
-<p>A produ&ccedil;&atilde;o de mandioca, tamb&eacute;m conhecida pelo pa&iacute;s como macaxeira, possibilita a produ&ccedil;&atilde;o de farinhas e bolos, normalmente fornecidos ao comercio local de Linhares.<br />
-&nbsp;</p>
-
-<p>J&aacute; a produ&ccedil;&atilde;o de gr&atilde;os tornou-se fundamental para quem decidiu produzir galinhas e ovos caipira.<br />
+<p>A mandioca, tamb&eacute;m conhecida pelo pa&iacute;s com o nome de &quot;macaxeira&quot;, possibilita a produ&ccedil;&atilde;o de farinhas e bolos, normalmente fornecidos ao comercio local de Linhares. J&aacute; a produ&ccedil;&atilde;o de gr&atilde;os tornou-se fundamental para quem decidiu produzir galinhas e ovos caipira.<br />
 &nbsp;</p>
 
 <p>Segundo os acampados, um dos momentos mais gratificantes do processo &eacute;&nbsp; preparar a terra para fazer o cultivo e&nbsp; ver a semente germinar.<br />
 &nbsp;</p>
 
-<p>Desafios<br />
-&nbsp;</p>
-
-<p>A falta de energia el&eacute;trica no acampamento &eacute; hoje um dos maiores desafios dos acampados, que t&ecirc;m dificuldades para armazenas e conservar os alimentos que produzem.<br />
+<p>A falta de energia el&eacute;trica no acampamento &eacute; hoje um dos maiores desafios dos acampados, que t&ecirc;m dificuldades para armazenar e conservar os alimentos que produzem.<br />
 &nbsp;</p>
 
 <p>Al&eacute;m disso, a dificuldade de irrigar as plantas faz com que muitos precisem transportar &aacute;gua e gelo de outros lugares, atrasando o processo de produ&ccedil;&atilde;o de alimentos.<br />
 &nbsp;</p>
 
-<p>Outros desafios relatados pelas fam&iacute;lias s&atilde;o a falta de coleta de lixo, a falta de ambul&acirc;ncias no munic&iacute;pio e&nbsp; aus&ecirc;ncia de transportes de f&aacute;cil acesso no percurso do acampamento at&eacute; o centro de Linhares.<br />
+<figure class="image" style="float:right"><img alt="milho.jpg" height="167" src="//farm8.staticflickr.com/7818/33566323008_9d0d3071fc_b.jpg" width="296" />
+<figcaption></figcaption>
+</figure>
+
+<p>Outros desafios relatados pelas fam&iacute;lias est&atilde;o relacionados &agrave; falta de coleta de lixo, &agrave; inexist&ecirc;ncia de ambul&acirc;ncias no munic&iacute;pio e &agrave; aus&ecirc;ncia de transportes de f&aacute;cil acesso no percurso do acampamento at&eacute; o centro de Linhares.<br />
 &nbsp;</p>
 
-<p>Mesmo com esses dos desafios, acampamento Paulo Dami&atilde;oconseguiu muitas conquistas tamb&eacute;m, como o atendimento de sa&uacute;de na UBSF, da comunidade de Perobas, onde muitas fam&iacute;lias j&aacute; est&atilde;o cadastradas.&nbsp; Com o lema &quot;Liberdade, Igualdade, Fraternidade&rdquo;, eles seguem promovendo a conscientiza&ccedil;&atilde;o da import&acirc;ncia da agroecologia.<br />
-&nbsp;</p>
+<p>Mesmo com esses dos desafios, acampamento Paulo Dami&atilde;o realizou muitas conquistas, como o atendimento de sa&uacute;de na UBSF, da comunidade de Perobas, onde muitas fam&iacute;lias j&aacute; est&atilde;o cadastradas.&nbsp; Com o lema &quot;Liberdade, Igualdade, Fraternidade&rdquo;, eles seguem promovendo a conscientiza&ccedil;&atilde;o da import&acirc;ncia da agroecologia.<br />
+<br />
+<br />
+<em>Editado por Fernanda Alc&acirc;ntara</em></p>
