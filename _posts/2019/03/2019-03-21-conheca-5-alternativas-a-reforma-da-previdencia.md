@@ -55,7 +55,7 @@ As d&iacute;vidas com o INSS quase triplicaram entre 2008 e 2018, passando de R$
 <strong>2) Contribui&ccedil;&atilde;o social sobre grandes fortunas</strong></p>
 
 <p dir="ltr"><br />
-A taxa&ccedil;&atilde;o das grandes fortunas &eacute; o &uacute;nico dos sete tributos federais previstos nas Constitui&ccedil;&atilde;o que ainda n&atilde;o foram regulamentados por nenhuma lei.&nbsp;A Contribui&ccedil;&atilde;o Social Sobre Grandes Fortunas alcan&ccedil;aria 50 mil brasileiros e renderia aos cofres p&uacute;blicos mais de R$ 14 bilh&otilde;es</p>
+A taxa&ccedil;&atilde;o das grandes fortunas &eacute; o &uacute;nico dos sete tributos federais previstos nas Constitui&ccedil;&atilde;o que ainda n&atilde;o foram regulamentados por nenhuma lei.&nbsp;A Contribui&ccedil;&atilde;o Social Sobre Grandes Fortunas alcan&ccedil;aria 50 mil brasileiros e renderia aos cofres p&uacute;blicos mais de R$ 14 bilh&otilde;es.</p>
 
 <p dir="ltr"><br />
 <strong>3) Rever a Reforma Trabalhista de 2017, que jogou milh&otilde;es na informalidade</strong></p>
