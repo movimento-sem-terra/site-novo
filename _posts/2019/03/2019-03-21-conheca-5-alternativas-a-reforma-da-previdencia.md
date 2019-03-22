@@ -18,7 +18,7 @@ files:
     title: imagem_plugin_babf237f-9853-466e-810d-c0cb48645b3b.jpg
     $$hashKey: 0G3
 created_date: "2019-03-21T16:50:26-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/11/2018-11-01-aos-lutadores-e-lutadoras-das-causas-do-povo-o-unico-caminho-e-resistir.md
   - _posts/2019/02/2019-02-25-a-cruel-demolicao-da-previdencia-social.md
@@ -56,7 +56,7 @@ As d&iacute;vidas com o INSS quase triplicaram entre 2008 e 2018, passando de R$
 A taxa&ccedil;&atilde;o das grandes fortunas &eacute; o &uacute;nico dos sete tributos federais previstos nas Constitui&ccedil;&atilde;o que ainda n&atilde;o foram regulamentados por nenhuma lei.&nbsp;A Contribui&ccedil;&atilde;o Social Sobre Grandes Fortunas alcan&ccedil;aria 50 mil brasileiros e renderia aos cofres p&uacute;blicos mais de R$ 14 bilh&otilde;es</p>
 
 <p dir="ltr"><br />
-<strong>3) Rever a Reforma Trabalhista de 2017, que jogou milh&otilde;es na informalidade;</strong></p>
+<strong>3) Rever a Reforma Trabalhista de 2017, que jogou milh&otilde;es na informalidade</strong></p>
 
 <p dir="ltr"><br />
 Depois de aprovada a Reforma Trabalhista, em 2017, o n&uacute;mero de trabalhadores empregados sem carteira assinada aumentou de 10,979 milh&otilde;es para 11,511 milh&otilde;es, o que significa 532 mil pessoas a mais sem direitos trabalhistas e sem contribui&ccedil;&atilde;o para a Previd&ecirc;ncia. Segundo o Instituto Brasileiro de Geografia e Estat&iacute;stica (IBGE), foi a primeira vez na hist&oacute;ria que o n&uacute;mero de trabalhadores sem carteira assinada superou o conjunto de empregados formais.</p>
