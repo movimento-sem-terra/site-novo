@@ -24,6 +24,8 @@ releated_posts:
   - _posts/2019/02/2019-02-25-a-cruel-demolicao-da-previdencia-social.md
   - _posts/2019/01/2019-01-09-terra-trabalho-e-dinheiro-na-mira-da-mercadorizacao-total-do-novo-governo-a-revelia-do-estado-de-direito.md
   - _posts/2019/01/2019-01-08-bolsonaro-da-primeiro-passo-em-direcao-a-extincao-da-reforma-agraria.md
+  - _posts/2019/03/2019-03-09-contra-a-reforma-da-previdencia-somos-resistencia.md
+  - _posts/2019/03/2019-03-19-por-que-trabalhadoras-terao-mais-dificuldades-para-se-aposentar.md
 
 ---
 <p dir="ltr" id="x_gmail-docs-internal-guid-f245301a-7fff-077d-4996-4b09f9834002"><br />
@@ -41,7 +43,7 @@ O envelhecimento da popula&ccedil;&atilde;o &eacute; um fato, mas ser&aacute; qu
 
 <p dir="ltr"><br />
 <br />
-Abaixo confira algumas alternativas para o a reforma da Previd&ecirc;ncia</p>
+Hoje, Dia Nacional de Lutas em Defesa da Previd&ecirc;ncia, listamos&nbsp;algumas coisas que poderiam ser feitas para manter esse benef&iacute;cio intacto.&nbsp;</p>
 
 <p dir="ltr"><br />
 <strong>1) Reaver as d&iacute;vidas bilion&aacute;rias que v&aacute;rias empresas t&ecirc;m com o INSS</strong></p>
