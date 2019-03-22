@@ -31,7 +31,8 @@ releated_posts:
 
 <p>O Movimento dos Atingidos por Barragens (MAB) divulgou uma Nota P&uacute;blica onde denuncia a morte de pessoas relacionadas &agrave; barragem de Tucuru&iacute;, no estado do Par&aacute;. Segundo informa&ccedil;&otilde;es, entre as pessoas assassinadas estaria Dilma Ferreira Silva, da coordena&ccedil;&atilde;o regional de Tucuru&iacute; (PA).</p>
 
-<p>Ainda n&atilde;o h&aacute; a confirma&ccedil;&atilde;o do n&uacute;mero de mortos na a&ccedil;&atilde;o, nem os motivos dos assassinatos.&nbsp; A constru&ccedil;&atilde;o da usina hidrel&eacute;trica de Tucuru&iacute; deslocou cerca de 32 mil pessoas, h&aacute; mais de 30 anos as fam&iacute;lias lutam para garantir seus direitos na regi&atilde;o.</p>
+<p><br />
+Ainda n&atilde;o h&aacute; a confirma&ccedil;&atilde;o do n&uacute;mero de mortos na a&ccedil;&atilde;o, nem os motivos dos assassinatos.&nbsp; A constru&ccedil;&atilde;o da usina hidrel&eacute;trica de Tucuru&iacute; deslocou cerca de 32 mil pessoas, h&aacute; mais de 30 anos as fam&iacute;lias lutam para garantir seus direitos na regi&atilde;o.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Dilma Ferreira Silva ao lado da então presidenta Dilma Rousseff (PT) DivulgaçãoMAB.jpg" height="462" src="//farm8.staticflickr.com/7869/40477074913_f37d2639e4_b.jpg" width="700" />
@@ -58,4 +59,4 @@ O assassinato de Dilma &eacute; mais um momento triste para a hist&oacute;ria do
 <p>O MAB exige das autoridades a apura&ccedil;&atilde;o r&aacute;pida deste crime e medidas de seguran&ccedil;a para os atingidos por barragens em todo o Brasil.<br />
 &nbsp;</p>
 
-<p>Queremos &aacute;guas pra a vida, e n&atilde;o para a Morte!</p>
+<p style="text-align: right;"><strong>Queremos &aacute;guas pra a vida, e n&atilde;o para a Morte!</strong></p>
