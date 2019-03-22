@@ -32,7 +32,9 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>A&nbsp;proposta de Reforma da Previd&ecirc;ncia apresentada pelo governo de Jair Bolsonaro (PSL) tem como objetivo atrasar&nbsp;e&nbsp;inviabilizar&nbsp;o acesso ao benef&iacute;cio. A proposta que j&aacute; tinha sido apresentada no governo Temer foi remodulada e surge ainda mais danosa para classe trabalhadora.</p>
+<p>Hoje (22) mobiliza&ccedil;&otilde;es est&atilde;o marcadas em todo pa&iacute;s como parte do Dia Nacional de Luta em Defesa da Previd&ecirc;ncia.&nbsp;<br />
+<br />
+Em todo o pa&iacute;s, com o apoio de&nbsp;movimentos populares, entidades e centrais sindicais, ser&atilde;o realizados atos para alertar a popula&ccedil;&atilde;o sobre as mudan&ccedil;as propostas pelo Governo Bolsonaro (PSL), que&nbsp;&nbsp;tem como objetivo atrasar&nbsp;e&nbsp;inviabilizar&nbsp;o acesso ao benef&iacute;cio. A proposta que j&aacute; tinha sido apresentada no governo Temer foi remodulada e surge ainda mais danosa para classe trabalhadora.</p>
 
 <p><br />
 Diante disso,&nbsp;&eacute; preciso organizar uma a&ccedil;&atilde;o de resist&ecirc;ncia no Congresso e construir um amplo processo de debate com a sociedade.</p>
