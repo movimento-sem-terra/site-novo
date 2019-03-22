@@ -84,7 +84,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por Adeilson Francisco<br />
-Fotos: Edin&eacute;ia Neves, Vanuza Rodrigues e Vadeilson Francisco<br />
+Fotos: Edin&eacute;ia Neves, Vanuza Rodrigues e Adeilson Francisco<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
