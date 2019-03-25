@@ -73,8 +73,8 @@ Na tarde desta quinta-feira (21), MST&nbsp;em parceria com o Governo do Estado d
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_0798.JPG" height="467" src="//farm8.staticflickr.com/7833/40477550613_ea692ea814_b.jpg" width="700" />
-<figcaption><em>GovernaInaugura&ccedil;&atilde;o da escola Paulo Freire, no Cear&aacute;</em><br />
-<em>Foto:Aline Oliveira &nbsp;</em></figcaption>
+<figcaption><em>Inaugura&ccedil;&atilde;o da escola Paulo Freire, no Cear&aacute;</em><br />
+<em>Foto: Aline Oliveira &nbsp;</em></figcaption>
 </figure>
 </div>
 
