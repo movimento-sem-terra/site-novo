@@ -4,8 +4,8 @@ tags:
   - tag: educação-do-campo
   - tag: ceará
   - tag: educação
-title: MST inaugura mais uma escola do campo no Ceará
-support_line: Espaço determina a importância da formação e auto-organização no campo
+title: MST conquista mais uma escola do campo no Ceará
+support_line: Espaço ressalta a importância da formação e auto-organização no campo
 menu: "educação, cultura e comunicação"
 images_hd: //farm8.staticflickr.com/7904/40477550623_f5ec1fcb4e_b.jpg
 layout: post
@@ -60,8 +60,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na tarde desta quinta-feira (21), MST&nbsp;em parceria com o Governo do Estado do Cear&aacute;, inaugurou a escola Paulo Freire, a 9a escola do campo de ensino m&eacute;dio no estado, localizada no assentamento Sal&atilde;o, em Momba&ccedil;a (CE).<br />
-&nbsp;</p>
+Na tarde desta quinta-feira (21), MST&nbsp;em parceria com o Governo do Estado do Cear&aacute;, &nbsp;atrav&eacute;s da Secretaria de Educa&ccedil;&atilde;o (SEDUC), inaugurou a escola Paulo Freire, a 9a escola do campo de ensino m&eacute;dio no estado, localizada no assentamento Sal&atilde;o, em Momba&ccedil;a (CE).</p>
 
 <p>O nome da escola &eacute; uma homenagem ao pedagogo e fil&oacute;sofo brasileiro Paulo Freire, considerado um dos pensadores mais not&aacute;veis na hist&oacute;ria da pedagogia mundial e o patrono da educa&ccedil;&atilde;o brasileira.<br />
 &nbsp;</p>
