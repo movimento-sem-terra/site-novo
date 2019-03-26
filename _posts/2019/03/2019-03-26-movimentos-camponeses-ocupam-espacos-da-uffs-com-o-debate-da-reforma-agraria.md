@@ -46,7 +46,7 @@ files:
     title: "JURA [1].jpeg"
     $$hashKey: "031"
 created_date: "2019-03-26T11:56:58-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/03/2019-03-22-sem-terra-participam-de-mutirao-para-construcao-do-centro-de-referencia-socioambiental-na-ufal.md
   - _posts/2018/06/2018-06-18-ufes-realiza-jornada-universitaria-em-defesa-da-reforma-agraria.md
@@ -58,6 +58,13 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="JURA [4].jpeg" height="467" src="//farm5.staticflickr.com/4887/32530254627_0ca33818ba_b.jpg" width="700" />
+<figcaption><em>Jornada Universit&aacute;ria em Defesa da Reforma Agr&aacute;ria (JURA)<br />
+Fotos:&nbsp;Jaine Amorin e Juliana Bavuzo</em></figcaption>
+</figure>
+</div>
+
 <p><br />
 <em>Por Jaine Amorin<br />
 Da P&aacute;gina do MST</em></p>
@@ -67,7 +74,7 @@ Da P&aacute;gina do MST</em></p>
 <p><br />
 As JURA&rsquo;s foram criadas a partir da necessidade dos movimentos sociais camponeses em ocupar os espa&ccedil;os nas universidades. Atualmente s&atilde;o organizadas em todas as regi&otilde;es do Brasil, debatendo a Reforma Agr&aacute;ria no meio acad&ecirc;mico e apresentando o que vem sendo constru&iacute;do pelos movimentos do campo.</p>
 
-<figure class="image" style="float:right"><img alt="JURA [2].jpeg" height="317" src="//farm8.staticflickr.com/7893/32530254657_b6b0657102_b.jpg" width="211" />
+<figure class="image" style="float:right"><img alt="JURA [2].jpeg" height="361" src="//farm8.staticflickr.com/7893/32530254657_b6b0657102_b.jpg" width="240" />
 <figcaption><em>Jornada Universit&aacute;ria em Defesa<br />
 da Reforma Agr&aacute;ria (JURA)<br />
 Fotos:&nbsp;Jaine Amorin e Juliana Bavuzo</em></figcaption>
@@ -84,6 +91,13 @@ Com o objetivo de atender as demandas da Regi&atilde;o de Fronteira Sul do Brasi
 
 <p><br />
 O campus aonde foi realizada a Jornada destaca-se por ser o &uacute;nico de uma universidade federal dentro de um assentamento de reforma agr&aacute;ria organizado pelo MST, que leva o nome de 8 de Junho (data de ocupa&ccedil;&atilde;o da &aacute;rea).</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="JURA [5].jpeg" height="467" src="//farm8.staticflickr.com/7882/40505884453_6b1bffbb84_b.jpg" width="700" />
+<figcaption><em>Jornada Universit&aacute;ria em Defesa da Reforma Agr&aacute;ria (JURA)<br />
+Fotos:&nbsp;Jaine Amorin e Juliana Bavuzo</em></figcaption>
+</figure>
+</div>
 
 <p><br />
 <strong>Programa&ccedil;&atilde;o</strong></p>
