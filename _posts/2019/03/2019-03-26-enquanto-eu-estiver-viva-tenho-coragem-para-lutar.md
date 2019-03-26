@@ -5,7 +5,7 @@ tags:
   - tag: mulheres
   - tag: agroecologia
 title: "\"Enquanto eu estiver viva, tenho coragem para lutar\""
-support_line: "Com 14 anos de MST, Dona Francisca conta sua trajetória de mulher Sem Terra\n"
+support_line: "Com 14 anos de MST, Dona Francisca conta sua trajetória de mulher Sem Terra"
 menu: agricultura camponesa
 images_hd: //farm5.staticflickr.com/4829/46748103874_57b158a7c1_b.jpg
 layout: post
@@ -27,16 +27,10 @@ releated_posts:
   - _posts/2019/03/2019-03-13-a-invisibilidade-da-violencia-contra-as-mulheres-do-campo-e-das-florestas.md
   - _posts/2018/12/2018-12-16-a-resistencia-que-vem-das-mulheres-camponesas-de-santa-catarina.md
   - _posts/2019/03/2019-03-11-mulheres-se-organizam-contra-o-feminicidio-e-a-reforma-da-previdencia-no-piaui.md
+sector: mass-front
 
 ---
 <p>&nbsp;</p>
-
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Dona Francisca.jpg" height="463" src="//farm5.staticflickr.com/4829/46748103874_57b158a7c1_b.jpg" width="700" />
-<figcaption><em>Dona Francisca, aos 49 anos, revela sua hist&oacute;ria de luta pela terra<br />
-Foto: Janes Ferreira&nbsp;</em></figcaption>
-</figure>
-</div>
 
 <p><br />
 <em>Por Thaina Regina<br />
