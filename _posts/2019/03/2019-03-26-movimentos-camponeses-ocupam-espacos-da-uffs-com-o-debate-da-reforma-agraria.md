@@ -58,13 +58,6 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="JURA [1].jpeg" height="467" src="//farm8.staticflickr.com/7905/46748798034_044bd9d0f9_b.jpg" width="700" />
-<figcaption><em>Jornada Universit&aacute;ria em Defesa da Reforma Agr&aacute;ria (JURA)<br />
-Fotos:&nbsp;Jaine Amorin e Juliana Bavuzo</em></figcaption>
-</figure>
-</div>
-
 <p><br />
 <em>Por Jaine Amorin<br />
 Da P&aacute;gina do MST</em></p>
@@ -74,9 +67,10 @@ Da P&aacute;gina do MST</em></p>
 <p><br />
 As JURA&rsquo;s foram criadas a partir da necessidade dos movimentos sociais camponeses em ocupar os espa&ccedil;os nas universidades. Atualmente s&atilde;o organizadas em todas as regi&otilde;es do Brasil, debatendo a Reforma Agr&aacute;ria no meio acad&ecirc;mico e apresentando o que vem sendo constru&iacute;do pelos movimentos do campo.</p>
 
-<figure class="image" style="float:right"><img alt="JURA [2].jpeg" height="381" src="//farm8.staticflickr.com/7893/32530254657_b6b0657102_b.jpg" width="254" />
-<figcaption>Le<em>Jornada Universit&aacute;ria em Defesa da Reforma Agr&aacute;ria (JURA)<br />
-Fotos:&nbsp;Jaine Amorin e Juliana Bavuzo</em>genda</figcaption>
+<figure class="image" style="float:right"><img alt="JURA [2].jpeg" height="317" src="//farm8.staticflickr.com/7893/32530254657_b6b0657102_b.jpg" width="211" />
+<figcaption><em>Jornada Universit&aacute;ria em Defesa<br />
+da Reforma Agr&aacute;ria (JURA)<br />
+Fotos:&nbsp;Jaine Amorin e Juliana Bavuzo</em></figcaption>
 </figure>
 
 <p><br />
