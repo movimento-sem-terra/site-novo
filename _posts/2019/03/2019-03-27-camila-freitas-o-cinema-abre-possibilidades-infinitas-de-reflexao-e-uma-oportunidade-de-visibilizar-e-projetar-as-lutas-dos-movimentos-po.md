@@ -128,4 +128,6 @@ Sem d&uacute;vida a maneira como as acampadas e acampados conseguem se organizar
 <p><br />
 <strong>Como o document&aacute;rio retrata a multidimensionalidade da Reforma Agr&aacute;ria Popular e da Agroecologia?</strong><br />
 <br />
-A ideia &eacute; que o filme traga o espectador pro centro do debate sobre outros modos de exist&ecirc;ncia no campo, que permeia a luta e o dia a dia das ocupa&ccedil;&otilde;es do Movimento Sem Terra. Tentamos olhar para esse aspecto n&atilde;o apenas acompanhando discuss&otilde;es dos militantes, mas tamb&eacute;m olhando para a maneira como o Movimento se reapropria e reinventa o espa&ccedil;o a partir dessas outras pr&aacute;ticas &ndash; que v&atilde;o al&eacute;m das t&eacute;cnicas agr&iacute;colas e se espraiam para a vida no cotidiano da resist&ecirc;ncia.</p>
+A ideia &eacute; que o filme traga o espectador pro centro do debate sobre outros modos de exist&ecirc;ncia no campo, que permeia a luta e o dia a dia das ocupa&ccedil;&otilde;es do Movimento Sem Terra. Tentamos olhar para esse aspecto n&atilde;o apenas acompanhando discuss&otilde;es dos militantes, mas tamb&eacute;m olhando para a maneira como o Movimento se reapropria e reinventa o espa&ccedil;o a partir dessas outras pr&aacute;ticas &ndash; que v&atilde;o al&eacute;m das t&eacute;cnicas agr&iacute;colas e se espraiam para a vida no cotidiano da resist&ecirc;ncia.<br />
+<br />
+Editado por Fernanda Alc&acirc;ntara</p>
