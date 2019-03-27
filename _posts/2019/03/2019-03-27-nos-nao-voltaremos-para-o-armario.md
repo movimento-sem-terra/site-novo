@@ -1,8 +1,11 @@
 ---
 date: "2019-03-27T12:13:46-03:00"
-tags: []
+tags:
+  - tag: lgbt
+  - tag: lutas-e-mobilizações
+  - tag: diversidade
 hat: ""
-support_line: " LGBT Sem Terra, com luta e resistência coletiva, falam sobre os desafios da luta pela terra, alinhada a construção da liberdade sexual"
+support_line: "LGBT Sem Terra, com luta e resistência coletiva, fala sobre os desafios da luta pela terra, alinhada a construção da liberdade sexual"
 title: “Nós não voltaremos para o armário”
 label: articles
 menu: "educação, cultura e comunicação"
@@ -45,8 +48,13 @@ files:
     title: Foto Dowglas Silva.jpg
     $$hashKey: 0BX
 created_date: "2019-03-27T13:12:02-03:00"
-published: false
-releated_posts: []
+published: true
+releated_posts:
+  - _posts/2018/10/2018-10-21-eles-tem-a-sensacao-de-que-a-violencia-contra-nossos-corpos-e-algo-legitimado-diz-presidenta-da-abglt.md
+  - _posts/2018/08/2018-08-29-tem-existido-resistencia-das-mulheres-negras-lesbicas-das-quebradas-diz-ativista.md
+  - _posts/2018/08/2018-08-29-dia-da-visibilidade-lesbica-existir-e-resistir-pelo-direito-de-amar.md
+  - _posts/2018/10/2018-10-18-nossa-existencia-e-resistencia.md
+  - _posts/2018/07/2018-07-02-3a-turma-do-curso-de-formacao-politica-para-lgbts-sem-terra-ocorre-em-fortaleza.md
 
 ---
 <p>&nbsp;</p>
@@ -87,17 +95,29 @@ Guedes explica que esse processo teve in&iacute;cio um pouco antes de 2014, quan
 <p>&ldquo;O semin&aacute;rio foi o primeiro passo de auto-organiza&ccedil;&atilde;o destes sujeitos no interior do movimento, se afirmando como LGBT Sem Terra. Eles apontaram uma s&eacute;rie de desafios que a organiza&ccedil;&atilde;o como um todo deveria enfrentar, como a amplia&ccedil;&atilde;o da participa&ccedil;&atilde;o pol&iacute;tica das LGBT e o combate &agrave;s atitudes discriminat&oacute;rias nos diversos espa&ccedil;os&rdquo;, pontua.<br />
 &nbsp;</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="A identidade LGBT Sem Terra é referência de luta. Foto Dowglas Silva.jpg" height="466" src="//farm8.staticflickr.com/7905/46756473864_ea6a2fbe01_b.jpg" width="700" />
+<figcaption><em>A identidade LGBT Sem Terra &eacute; refer&ecirc;ncia de luta.<br />
+Foto: Dowglas Silva</em></figcaption>
+</figure>
+</div>
+
 <p><strong>Uma identidade de luta</strong><br />
 &nbsp;</p>
 
 <p>A identidade LGBT Sem Terra &eacute; refer&ecirc;ncia de luta. A sua constru&ccedil;&atilde;o passa por diversas perspectivas de cunho te&oacute;rico, a partir do ac&uacute;mulo que a classe trabalhadora tem tido nos debates de g&ecirc;nero e diversidade sexual, e principalmente no sentido pr&aacute;tico, pois &eacute; a partir da viv&ecirc;ncia pol&iacute;tica na luta em defesa da reforma agr&aacute;ria que essa quest&atilde;o &eacute; reafirmada.<br />
-<img alt="A identidade LGBT Sem Terra é referência de luta. Foto Dowglas Silva.jpg" src="//farm8.staticflickr.com/7905/46756473864_ea6a2fbe01_b.jpg" /></p>
+&nbsp;</p>
 
 <p>Em entrevista para P&aacute;gina do MST, em 2017, Agnaldo Cordeiro, gay, educador do campo em Santa Catarina e sujeito LGBT Sem Terra, disse que essa identidade &eacute; intr&iacute;nseca h&aacute; um sujeito que, al&eacute;m de sonhar com uma sociedade justa economicamente, almeja a liberdade. E enfatiza: &ldquo;N&atilde;o se trata s&oacute; de r&oacute;tulos, mas de se amar, de se viver, de lutar e de experimentar sua sexualidade&rdquo;.<br />
 &nbsp;</p>
 
 <p>Para ele o debate em torno da afetividade &eacute; necess&aacute;rio para o MST. &ldquo;O LGBT Sem Terra n&atilde;o se define em palavras, mas pela exist&ecirc;ncia no movimento e na luta&rdquo;, concluiu Cordeiro.<br />
 &nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Kelvin Nícolas. Foto Joyce Fonseca.jpg" height="200" src="//farm8.staticflickr.com/7902/47426923012_0ccd6fa74d_b.jpg" width="300" />
+<figcaption><em>Kelvin N&iacute;colas<br />
+Foto: Joyce Fonseca</em></figcaption>
+</figure>
 
 <p>Pensando nisso, Kelvin N&iacute;colas, gay, jovem militante e integrante do Coletivo LGBT Sem Terra, acredita que hoje existe uma necessidade concreta de aprofundar o debate sobre a diversidade sexual no MST. Segundo ele, no atual momento pol&iacute;tico, onde se aprofunda conservadorismo e a retirada de direitos dos trabalhadores e trabalhadoras: &ldquo;devemos estar organizadas&rdquo;.<br />
 &nbsp;</p>
