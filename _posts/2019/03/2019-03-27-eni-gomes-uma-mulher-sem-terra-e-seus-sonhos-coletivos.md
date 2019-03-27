@@ -116,6 +116,10 @@ Foto: Arquivo pessoal</em></figcaption>
 
 <p>Ao ser perguntada sobre eles, responde sem titubear: &quot;Meu maior sonho &eacute; ver essa terra desapropriada e todas as fam&iacute;lias tranquilas. N&atilde;o s&oacute; essa terra, mas ver a reforma agr&aacute;ria acontecer.&quot;</p>
 
-<p><img alt="BDF [5].jpg" src="//farm8.staticflickr.com/7896/40512714473_29e4f8c502_b.jpg" />No Acampamento Terra Prometida, as trabalhadoras e trabalhadores plantam milho, feij&atilde;o, mandioca, batata, hortali&ccedil;as, entre outras variedades. Tudo sem agrot&oacute;xicos. Hoje, o acampamento &eacute; respons&aacute;vel por 80% da produ&ccedil;&atilde;o da Feira de Felisburgo, mostrando que, embora o Estado brasileiro n&atilde;o assegure a reforma agr&aacute;ria, a luta das mulheres sem-terra j&aacute; colhe seus frutos.</p>
+<figure class="image"><img alt="BDF [5].jpg" height="441" src="//farm8.staticflickr.com/7896/40512714473_29e4f8c502_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+
+<p>No Acampamento Terra Prometida, as trabalhadoras e trabalhadores plantam milho, feij&atilde;o, mandioca, batata, hortali&ccedil;as, entre outras variedades. Tudo sem agrot&oacute;xicos. Hoje, o acampamento &eacute; respons&aacute;vel por 80% da produ&ccedil;&atilde;o da Feira de Felisburgo, mostrando que, embora o Estado brasileiro n&atilde;o assegure a reforma agr&aacute;ria, a luta das mulheres sem-terra j&aacute; colhe seus frutos.</p>
 
 <p>Edi&ccedil;&atilde;o: Mauro Ramos</p>
