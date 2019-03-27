@@ -15,24 +15,14 @@ files:
     thumbnail: //farm8.staticflickr.com/7849/40515365323_11619accf3_t.jpg
     medium: //farm8.staticflickr.com/7849/40515365323_11619accf3_z.jpg
     small: //farm8.staticflickr.com/7849/40515365323_11619accf3_n.jpg
-    title: 14ago2018---protesto-organizado-pelo-mst-tem-mascaras-com-o-rosto-do-ex-presidente-luiz-inacio-lula-da-silva-em-brasilia-1534265696312_615x300.jpg
-    $$hashKey: 0SJ
-created_date: "2019-03-27T17:46:06-03:00"
+    title: 14ago2018
+    $$hashKey: "030"
+created_date: "2019-03-27T18:06:08-03:00"
 published: true
 releated_posts:
-  - _posts/2018/07/2018-07-10-movimentos-populares-apresentarao-representacao-contra-moro-no-cnj.md
-  - _posts/2018/07/2018-07-20-quero-consertar-o-brasil-reafirma-lula.md
-  - _posts/2018/09/2018-09-12-paulista-recebe-festival-lula-livre-no-proximo-domingo.md
-  - _posts/2018/05/2018-05-23-para-denuncia-da-relacao-estreita-entre-empresas-e-judiciario-organizacoes-sociais-realizam-em-maceio-al-atividades-sobre-justica-e-dir.md
-  - _posts/2018/05/2018-05-24-criancas-de-todo-o-pais-ja-estao-mobilizadas-para-o-i-encontro-nacional-das-criancas-sem-terrinha.md
-  - _posts/2018/06/2018-06-19-a-frei-sergio-gorgen-lula-afirma-que-encara-periodo-no-carcere-como-uma-provacao.md
-  - _posts/2018/06/2018-06-21-chico-buarque-e-martinho-da-vila-convocam-para-o-festival-lula-livre.md
-  - _posts/2018/06/2018-06-28-cartas-para-lula-marcam-o-inicio-da-caravana-sem-terra-em-alagoas.md
-  - _posts/2018/07/2018-07-13-lula-e-inocentado-em-processo-por-obstrucao-de-justica.md
-  - _posts/2018/10/2018-10-27-vigilia-lula-livre-faz-homenagem-ao-aniversario-de-73-anos-do-ex-presidente.md
-  - _posts/2018/11/2018-11-13-liderancas-e-movimentos-acompanham-depoimento-de-lula-em-curitiba.md
-  - _posts/2018/12/2018-12-25-mais-de-500-pessoas-celebram-natal-na-vigilia-lula-livre.md
   - _posts/2019/01/2019-01-01-duas-mil-pessoas-de-todo-o-pais-celebram-2019-na-vigilia-lula-livre.md
+  - _posts/2018/11/2018-11-13-liderancas-e-movimentos-acompanham-depoimento-de-lula-em-curitiba.md
+  - _posts/2018/10/2018-10-27-vigilia-lula-livre-faz-homenagem-ao-aniversario-de-73-anos-do-ex-presidente.md
 
 ---
 <p>&nbsp;</p>
