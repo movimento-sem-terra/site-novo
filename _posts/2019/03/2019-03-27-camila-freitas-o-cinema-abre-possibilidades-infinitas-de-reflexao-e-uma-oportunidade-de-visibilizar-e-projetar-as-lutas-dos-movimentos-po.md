@@ -4,7 +4,7 @@ tags:
   - tag: filme
   - tag: assentamentos
   - tag: história
-title: "Camila Freitas: “O cinema abre possibilidades infinitas de reflexão. É uma oportunidade de visibilizar e projetar as lutas dos movimentos po"
+title: "“O cinema abre possibilidades infinitas de reflexão\""
 support_line: "Diretora do Filme “Chão”, que retrata luta do MST na Usina Santa Helena, em Goiás, fala sobre a importância de dar voz à luta pela Reforma Agrária pelo estado da arte cinematográfica  "
 menu: "educação, cultura e comunicação"
 images_hd: //farm8.staticflickr.com/7918/40513315713_66b889fe6b_b.jpg
