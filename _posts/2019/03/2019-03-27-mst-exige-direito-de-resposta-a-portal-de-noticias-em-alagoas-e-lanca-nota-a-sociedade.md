@@ -4,8 +4,8 @@ tags:
   - tag: nota
   - tag: comunicação
   - tag: esclarecimento
-title: MST exige direito de resposta a portal de notícias em Alagoas e lança nota à sociedade
-support_line: Vídeo faz afirmações infundadas sobre líderes e ocupação do Movimento dos Sem Terra
+title: "Em Alagoas, MST exige direito de resposta e lança nota à sociedade"
+support_line: "Vídeo do portal BR 104 faz afirmações infundadas sobre ocupação "
 menu: "educação, cultura e comunicação"
 images_hd: //farm8.staticflickr.com/7901/47427861012_3b0bcd16a6_b.jpg
 layout: post
