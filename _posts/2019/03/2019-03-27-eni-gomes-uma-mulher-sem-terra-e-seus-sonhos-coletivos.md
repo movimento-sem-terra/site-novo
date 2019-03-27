@@ -120,6 +120,7 @@ Foto: Arquivo pessoal</em></figcaption>
 <figcaption></figcaption>
 </figure>
 
-<p>No Acampamento Terra Prometida, as trabalhadoras e trabalhadores plantam milho, feij&atilde;o, mandioca, batata, hortali&ccedil;as, entre outras variedades. Tudo sem agrot&oacute;xicos. Hoje, o acampamento &eacute; respons&aacute;vel por 80% da produ&ccedil;&atilde;o da Feira de Felisburgo, mostrando que, embora o Estado brasileiro n&atilde;o assegure a reforma agr&aacute;ria, a luta das mulheres sem-terra j&aacute; colhe seus frutos.</p>
+<p>No Acampamento Terra Prometida, as trabalhadoras e trabalhadores plantam milho, feij&atilde;o, mandioca, batata, hortali&ccedil;as, entre outras variedades. Tudo sem agrot&oacute;xicos. Hoje, o acampamento &eacute; respons&aacute;vel por 80% da produ&ccedil;&atilde;o da Feira de Felisburgo, mostrando que, embora o Estado brasileiro n&atilde;o assegure a reforma agr&aacute;ria, a luta das mulheres sem-terra j&aacute; colhe seus frutos.<br />
+&nbsp;</p>
 
-<p>Edi&ccedil;&atilde;o: Mauro Ramos</p>
+<p>Edi&ccedil;&atilde;o: Mauro Ramos/ Brasil de Fato</p>
