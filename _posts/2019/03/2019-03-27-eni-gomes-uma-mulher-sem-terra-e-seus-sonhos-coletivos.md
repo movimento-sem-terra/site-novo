@@ -31,7 +31,7 @@ files:
     title: "BDF [6].jpg"
     $$hashKey: 08I
 created_date: "2019-03-27T13:12:19-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/02/2019-02-28-hhhhhhhhh.md
   - _posts/2019/03/2019-03-08-mulheres-do-campo-e-da-cidade-saem-as-ruas-de-todo-pais.md
