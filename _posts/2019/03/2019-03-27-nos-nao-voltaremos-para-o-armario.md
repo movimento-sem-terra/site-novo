@@ -132,3 +132,8 @@ Foto: Joyce Fonseca</em></figcaption>
 <br />
 &nbsp;<br />
 &ldquo;Ao afirmar a liberdade sexual como elemento que deve estar presente para a efetiva&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular, o Coletivo LGBT Sem Terra expande sua atua&ccedil;&atilde;o com o conjunto da organiza&ccedil;&atilde;o e n&atilde;o s&oacute; com as LGBT [...]. Cabe agora a tarefa de contribuir com a consolida&ccedil;&atilde;o deste coletivo e alinhar a compreens&atilde;o de que esta &eacute; uma luta geral da classe e importante para a derrotar o projeto do capital&rdquo;, finaliza.</p>
+
+<p>&nbsp;</p>
+
+<p><br />
+Editado por Fernanda Alc&acirc;ntara</p>
