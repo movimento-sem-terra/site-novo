@@ -85,7 +85,7 @@ A&nbsp; &aacute;rea da Usina Santa Helena onde se passa o filme, localizada na f
 <p><br />
 Em Berlim, durante a exibi&ccedil;&atilde;o do filme, estavam presentes boa parte da equipe e Elizabett Concei&ccedil;&atilde;o, representante do MST e personagem do filme. Al&eacute;m das apresenta&ccedil;&otilde;es e conversas, ap&oacute;s cinco sess&otilde;es do filme no festival houve um debate organizado pela funda&ccedil;&atilde;o Rosa Luxemburgo, em que ex-deputado federal Jean Wyllys esteve presente.</p>
 
-<p>No Brasil, o filme deve ser lan&ccedil;ado na Jornada Universit&aacute;ria em defesa da Reforma Agr&aacute;ria (JURA) da UnB, em Bras&iacute;lia, e tamb&eacute;m na Feira Nacional da Reforma Agr&aacute;ria. Acompanhe abaixo a entrevista na &iacute;ntegra.</p>
+<p>Acompanhe abaixo a entrevista na &iacute;ntegra.</p>
 
 <p><br />
 <strong>Como voc&ecirc; se aproximou do MST e o que a motivou fazer um filme sobre o processo de luta pela terra?</strong><br />
