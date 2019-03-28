@@ -7,7 +7,7 @@ tags:
 hat: ""
 support_line: "LGBT Sem Terra, com luta e resistência coletiva, fala sobre os desafios da luta pela terra, alinhada a construção da liberdade sexual"
 title: “Nós não voltaremos para o armário”
-label: articles
+label: null
 menu: "educação, cultura e comunicação"
 images_hd: //farm8.staticflickr.com/7925/47426923022_9e8b7a5b5b_b.jpg
 layout: post
@@ -55,6 +55,7 @@ releated_posts:
   - _posts/2018/10/2018-10-18-nossa-existencia-e-resistencia.md
   - _posts/2018/07/2018-07-02-3a-turma-do-curso-de-formacao-politica-para-lgbts-sem-terra-ocorre-em-fortaleza.md
   - _posts/2018/10/2018-10-21-eles-tem-a-sensacao-de-que-a-violencia-contra-nossos-corpos-e-algo-legitimado-diz-presidenta-da-abglt.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
