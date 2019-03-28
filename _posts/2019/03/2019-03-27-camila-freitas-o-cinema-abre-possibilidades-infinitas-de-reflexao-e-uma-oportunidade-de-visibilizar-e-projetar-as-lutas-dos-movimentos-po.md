@@ -46,6 +46,8 @@ releated_posts:
   - _posts/2018/07/2018-07-10-festa-no-acampamento-dom-tomas-balduino-comemora-3-anos-de-resistencia-no-parana.md
   - _posts/2019/03/2019-03-19-assentamento-do-parana-e-referencia-na-producao-de-organicos.md
   - _posts/2019/01/2019-01-26-mst-celebra-35-anos-de-luta-e-resistencia-do-mst.md
+section: featured-news
+label: interviews
 
 ---
 <p>&nbsp;</p>
@@ -55,6 +57,8 @@ releated_posts:
 <figcaption></figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
 
 <p><em>Por Iris Pacheco e Pablo Vergara<br />
 Da P&aacute;gina do MST</em><br />
@@ -85,7 +89,8 @@ A&nbsp; &aacute;rea da Usina Santa Helena onde se passa o filme, localizada na f
 <p><br />
 Em Berlim, durante a exibi&ccedil;&atilde;o do filme, estavam presentes boa parte da equipe e Elizabett Concei&ccedil;&atilde;o, representante do MST e personagem do filme. Al&eacute;m das apresenta&ccedil;&otilde;es e conversas, ap&oacute;s cinco sess&otilde;es do filme no festival houve um debate organizado pela funda&ccedil;&atilde;o Rosa Luxemburgo, em que ex-deputado federal Jean Wyllys esteve presente.</p>
 
-<p>Acompanhe abaixo a entrevista na &iacute;ntegra.</p>
+<p><br />
+<em>Acompanhe abaixo a entrevista na &iacute;ntegra.</em></p>
 
 <p><br />
 <strong>Como voc&ecirc; se aproximou do MST e o que a motivou fazer um filme sobre o processo de luta pela terra?</strong><br />
@@ -104,7 +109,7 @@ Buscar respaldo internacional foi algo que desenhamos como estrat&eacute;gia jun
 Entre fevereiro e mar&ccedil;o de 2019, exibimos <em>Ch&atilde;o</em>&nbsp; oito vezes em dois festivais (Berlinale/ Festival de Berlim, na Alemanha; e no True/False, festival de document&aacute;rios em Columbia, Missouri, nos EUA), sempre em sess&otilde;es com debate. Fiquei impressionada com a recep&ccedil;&atilde;o calorosa do p&uacute;blico, com pessas t&atilde;o diversas se dizendo emocionadas e sensibilizadas, muitas sem conhecimento pr&eacute;vio da quest&atilde;o agr&aacute;ria no Brasil, outras tra&ccedil;ando paralelos com as suas realidades, como por exemplo em rela&ccedil;&atilde;o &agrave; quest&atilde;o das grandes corpora&ccedil;&otilde;es e dos agrot&oacute;xicos, muito presentes nos dois pa&iacute;ses. Tamb&eacute;m foi impressionante ver a quantidade de pessoas que perguntavam : &ldquo;como podemos ajudar daqui?&rdquo;. Isso me pareceu uma importante confirma&ccedil;&atilde;o da pot&ecirc;ncia dessas exibi&ccedil;&otilde;es.</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="[2].JPG" height="394" src="//farm8.staticflickr.com/7876/40513315673_4ecc11fbdf_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="[2].JPG" height="338" src="//farm8.staticflickr.com/7876/40513315673_4ecc11fbdf_b.jpg" width="600" />
 <figcaption></figcaption>
 </figure>
 </div>
@@ -128,6 +133,8 @@ Sem d&uacute;vida a maneira como as acampadas e acampados conseguem se organizar
 <p><br />
 <strong>Como o document&aacute;rio retrata a multidimensionalidade da Reforma Agr&aacute;ria Popular e da Agroecologia?</strong><br />
 <br />
-A ideia &eacute; que o filme traga o espectador pro centro do debate sobre outros modos de exist&ecirc;ncia no campo, que permeia a luta e o dia a dia das ocupa&ccedil;&otilde;es do Movimento Sem Terra. Tentamos olhar para esse aspecto n&atilde;o apenas acompanhando discuss&otilde;es dos militantes, mas tamb&eacute;m olhando para a maneira como o Movimento se reapropria e reinventa o espa&ccedil;o a partir dessas outras pr&aacute;ticas &ndash; que v&atilde;o al&eacute;m das t&eacute;cnicas agr&iacute;colas e se espraiam para a vida no cotidiano da resist&ecirc;ncia.<br />
+A ideia &eacute; que o filme traga o espectador pro centro do debate sobre outros modos de exist&ecirc;ncia no campo, que permeia a luta e o dia a dia das ocupa&ccedil;&otilde;es do Movimento Sem Terra. Tentamos olhar para esse aspecto n&atilde;o apenas acompanhando discuss&otilde;es dos militantes, mas tamb&eacute;m olhando para a maneira como o Movimento se reapropria e reinventa o espa&ccedil;o a partir dessas outras pr&aacute;ticas &ndash; que v&atilde;o al&eacute;m das t&eacute;cnicas agr&iacute;colas e se espraiam para a vida no cotidiano da resist&ecirc;ncia.</p>
+
+<p><br />
 <br />
-Editado por Fernanda Alc&acirc;ntara</p>
+<em>*Editado por Fernanda Alc&acirc;ntara</em></p>
