@@ -50,23 +50,27 @@ files:
 created_date: "2019-03-27T13:12:02-03:00"
 published: true
 releated_posts:
-  - _posts/2018/10/2018-10-21-eles-tem-a-sensacao-de-que-a-violencia-contra-nossos-corpos-e-algo-legitimado-diz-presidenta-da-abglt.md
   - _posts/2018/08/2018-08-29-tem-existido-resistencia-das-mulheres-negras-lesbicas-das-quebradas-diz-ativista.md
   - _posts/2018/08/2018-08-29-dia-da-visibilidade-lesbica-existir-e-resistir-pelo-direito-de-amar.md
   - _posts/2018/10/2018-10-18-nossa-existencia-e-resistencia.md
   - _posts/2018/07/2018-07-02-3a-turma-do-curso-de-formacao-politica-para-lgbts-sem-terra-ocorre-em-fortaleza.md
+  - _posts/2018/10/2018-10-21-eles-tem-a-sensacao-de-que-a-violencia-contra-nossos-corpos-e-algo-legitimado-diz-presidenta-da-abglt.md
 
 ---
 <p>&nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Bandeira LGBT é hasteada durante o 6º Congresso Nacional do MST..jpg" src="//farm8.staticflickr.com/7814/40513671723_60c7365fac_b.jpg" />
+<figure class="image" style="display:inline-block"><img alt="Bandeira LGBT é hasteada durante o 6º Congresso Nacional do MST..jpg" height="398" src="//farm8.staticflickr.com/7814/40513671723_60c7365fac_b.jpg" width="600" />
 <figcaption><em>Bandeira LGBT &eacute; hasteada durante o 6&ordm; Congresso Nacional do MST</em></figcaption>
 </figure>
 </div>
 
+<p>&nbsp;</p>
+
 <p><em>Por Wesley Lima<br />
 Da P&aacute;gina do MST</em></p>
+
+<p>&nbsp;</p>
 
 <p>H&aacute; tr&ecirc;s anos, l&eacute;sbicas, gays, bissexuais, travestis e transexuais (LGBT) militantes Sem Terra deram unidade a luta contra a LGBTfobia nos assentamentos e acampamentos do MST, mas tamb&eacute;m ocupado &agrave;s ruas diante dos desafios da conjuntura pol&iacute;tica.<br />
 &nbsp;</p>
@@ -78,7 +82,8 @@ Da P&aacute;gina do MST</em></p>
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Foto Dowglas Silva.jpg" height="208" src="//farm8.staticflickr.com/7811/46564521435_b50e4e9284_b.jpg" width="312" />
-<figcaption><em>Foto Dowglas Silva</em></figcaption>
+<figcaption><em>Participa&ccedil;&atilde;o das LGBT Sem Terra em mobiliza&ccedil;&atilde;o<br />
+na capital paulistana. Foto: Dowglas Silva</em></figcaption>
 </figure>
 
 <p>Lizandra Guedes, bissexual, educadora popular e militante do MST, acompanha desde 2015 as a&ccedil;&otilde;es realizadas pelo Coletivo LGBT no enfrentamento ao preconceito e &agrave; discrimina&ccedil;&atilde;o. Ela conta que duas coisas s&atilde;o importantes serem reafirmadas quando tratamos desta quest&atilde;o.</p>
@@ -96,16 +101,15 @@ Guedes explica que esse processo teve in&iacute;cio um pouco antes de 2014, quan
 &nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="A identidade LGBT Sem Terra é referência de luta. Foto Dowglas Silva.jpg" height="466" src="//farm8.staticflickr.com/7905/46756473864_ea6a2fbe01_b.jpg" width="700" />
-<figcaption><em>A identidade LGBT Sem Terra &eacute; refer&ecirc;ncia de luta.<br />
-Foto: Dowglas Silva</em></figcaption>
+<figure class="image" style="display:inline-block"><img alt="A identidade LGBT Sem Terra é referência de luta. Foto Dowglas Silva.jpg" height="399" src="//farm8.staticflickr.com/7905/46756473864_ea6a2fbe01_b.jpg" width="600" />
+<figcaption><em>A identidade LGBT Sem Terra &eacute; refer&ecirc;ncia de luta. Foto: Dowglas Silva</em></figcaption>
 </figure>
 </div>
 
 <p><strong>Uma identidade de luta</strong><br />
 &nbsp;</p>
 
-<p>A identidade LGBT Sem Terra &eacute; refer&ecirc;ncia de luta. A sua constru&ccedil;&atilde;o passa por diversas perspectivas de cunho te&oacute;rico, a partir do ac&uacute;mulo que a classe trabalhadora tem tido nos debates de g&ecirc;nero e diversidade sexual, e principalmente no sentido pr&aacute;tico, pois &eacute; a partir da viv&ecirc;ncia pol&iacute;tica na luta em defesa da reforma agr&aacute;ria que essa quest&atilde;o &eacute; reafirmada.<br />
+<p>Durante o semin&aacute;rio, a&nbsp;identidade LGBT Sem Terra foi pautada enquanto&nbsp;refer&ecirc;ncia de luta. A sua constru&ccedil;&atilde;o passa por diversas perspectivas de cunho te&oacute;rico, a partir do ac&uacute;mulo que a classe trabalhadora tem tido nos debates de g&ecirc;nero e diversidade sexual, e principalmente no sentido pr&aacute;tico, pois &eacute; a partir da viv&ecirc;ncia pol&iacute;tica na luta em defesa da reforma agr&aacute;ria que essa quest&atilde;o &eacute; reafirmada.<br />
 &nbsp;</p>
 
 <p>Em entrevista para P&aacute;gina do MST, em 2017, Agnaldo Cordeiro, gay, educador do campo em Santa Catarina e sujeito LGBT Sem Terra, disse que essa identidade &eacute; intr&iacute;nseca h&aacute; um sujeito que, al&eacute;m de sonhar com uma sociedade justa economicamente, almeja a liberdade. E enfatiza: &ldquo;N&atilde;o se trata s&oacute; de r&oacute;tulos, mas de se amar, de se viver, de lutar e de experimentar sua sexualidade&rdquo;.<br />
@@ -115,8 +119,7 @@ Foto: Dowglas Silva</em></figcaption>
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Kelvin Nícolas. Foto Joyce Fonseca.jpg" height="200" src="//farm8.staticflickr.com/7902/47426923012_0ccd6fa74d_b.jpg" width="300" />
-<figcaption><em>Kelvin N&iacute;colas<br />
-Foto: Joyce Fonseca</em></figcaption>
+<figcaption><em>Kelvin N&iacute;colas. Foto: Joyce Fonseca</em></figcaption>
 </figure>
 
 <p>Pensando nisso, Kelvin N&iacute;colas, gay, jovem militante e integrante do Coletivo LGBT Sem Terra, acredita que hoje existe uma necessidade concreta de aprofundar o debate sobre a diversidade sexual no MST. Segundo ele, no atual momento pol&iacute;tico, onde se aprofunda conservadorismo e a retirada de direitos dos trabalhadores e trabalhadoras: &ldquo;devemos estar organizadas&rdquo;.<br />
@@ -136,4 +139,4 @@ Foto: Joyce Fonseca</em></figcaption>
 <p>&nbsp;</p>
 
 <p><br />
-Editado por Fernanda Alc&acirc;ntara</p>
+<em>*Editado por Fernanda Alc&acirc;ntara</em></p>
