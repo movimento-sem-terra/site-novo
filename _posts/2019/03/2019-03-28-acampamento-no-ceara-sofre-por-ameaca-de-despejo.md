@@ -4,7 +4,7 @@ tags:
   - tag: despejo
   - tag: lutas-e-mobilizações
   - tag: ceará
-title: Acampamento no Ceará sofre por ameaça de despejo
+title: Acampamento no Ceará sofre ameaça de despejo
 support_line: Mais de 30 famílias seguem no local e podem ser despejadas a qualquer momento
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7868/40519918863_fd37cf665d_b.jpg
@@ -30,30 +30,35 @@ releated_posts:
   - _posts/2018/12/2018-12-17-judiciario-autorizou-150-acoes-de-despejo-contra-mst-em-2018-veja-numeros-por-estado.md
   - _posts/2018/11/2018-11-23-pm-suspende-despejo-no-acampamento-ze-maria-do-tome-e-familias-seguem-na-resistencia.md
   - _posts/2019/03/2019-03-13-a-invisibilidade-da-violencia-contra-as-mulheres-do-campo-e-das-florestas.md
+sector: mass-front
 
 ---
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Mauriti.jpeg" height="525" src="//farm8.staticflickr.com/7868/40519918863_fd37cf665d_b.jpg" width="700" />
-<figcaption><em>As fam&iacute;lias apelam para que o Governo do Estado do Cear&aacute; n&atilde;o execute o despejo<br />
+<figcaption><em>MSTAs fam&iacute;lias apelam para que o Governo do Estado do Cear&aacute; n&atilde;o execute o despejo<br />
 Foto: Aline Oliveira</em></figcaption>
 </figure>
 </div>
 
-<p><em>Por Aline Oliveira e </em>amanda sampaio<em>Da P&aacute;gina do MST</em></p>
+<p>&nbsp;</p>
 
-<p>As 30 fam&iacute;lias do acampamento Nova Vida, localizado em Mauriti (CE), correm o risco de despejo a qualquer momento, caso o pedido de reintegra&ccedil;&atilde;o de posse seja cumprida nesta quinta-feira (28).<br />
+<p><em>Por Aline Oliveira e A</em>manda Sampaio<br />
+<em>Da P&aacute;gina do MST</em></p>
+
+<p>&nbsp;</p>
+
+<p>As 30 fam&iacute;lias do acampamento Nova Vida, localizado em Mauriti, no interior do Cear&aacute;, correm o risco de despejo a qualquer momento, caso um&nbsp;pedido de reintegra&ccedil;&atilde;o de posse seja cumprida nesta quinta-feira (28).</p>
+
+<p><br />
+Ocupada h&aacute; 8 anos,&nbsp; a &aacute;rea est&aacute; cercada neste momento com 12 viaturas da pol&iacute;cia militar prontas para efetuar o despejo. Tamb&eacute;m se deslocam para o local um aparato de maquin&aacute;rios, tratores, ambul&acirc;ncia, conselho tutelar, assist&ecirc;ncia social, caminh&otilde;es e &ocirc;nibus, para for&ccedil;ar a sa&iacute;da dos trabalhadores e trabalhadoras.</p>
+
+<p><br />
+O&nbsp; no Cear&aacute; emitiu uma nota p&uacute;blica solicitando ao Governo do Estado, organiza&ccedil;&otilde;es, entidades e movimentos populares para que n&atilde;o seja executada a ordem de despejo.<br />
 &nbsp;</p>
 
-<p>Ocupada h&aacute; 8 anos,&nbsp; a &aacute;rea est&aacute; cercada neste momento com 12 viaturas da pol&iacute;cia militar prontas para efetuar o despejo. Tamb&eacute;m se deslocam para o local um aparato de maquin&aacute;rios, tratores, ambul&acirc;ncia, conselho tutelar, assist&ecirc;ncia social, caminh&otilde;es e &ocirc;nibus, para for&ccedil;ar a sa&iacute;da dos trabalhadores e trabalhadoras.<br />
-&nbsp;</p>
-
-<p>O Movimento dos Trabalhadores Rurais Sem Terra no Cear&aacute; emitiu uma nota p&uacute;blica solicitando ao Governo do Estado, organiza&ccedil;&otilde;es, entidades e movimentos populares para que n&atilde;o seja executada a ordem de despejo.<br />
-&nbsp;</p>
-
-<p>Confira a &iacute;ntegra da nota do Movimento dos Trabalhadores Rurais Sem Terra (MST):<br />
+<p>Confira a &iacute;ntegra da nota:<br />
 &nbsp;</p>
 
 <p style="text-align: center;"><strong>Nota de den&uacute;ncia &nbsp;</strong></p>
