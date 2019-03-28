@@ -48,7 +48,7 @@ Foto: Aline Oliveira</em></figcaption>
 <p>As 30 fam&iacute;lias do acampamento Nova Vida, localizado em Mauriti (CE), correm o risco de despejo a qualquer momento, caso o pedido de reintegra&ccedil;&atilde;o de posse seja cumprida nesta quinta-feira (28).<br />
 &nbsp;</p>
 
-<p>Ocupada h&aacute; 8 anos,&nbsp; a &aacute;rea est&aacute; cercada neste momento com 12 viaturas da pol&iacute;cia militar pronta para efetuar o despejo. Tamb&eacute;m se deslocam para o local existe um aparato de maquin&aacute;rios, tratores, ambul&acirc;ncia, conselho tutelar, assist&ecirc;ncia social, caminh&otilde;es e &ocirc;nibus para for&ccedil;ar a sa&iacute;da dos trabalhadores e trabalhadoras.<br />
+<p>Ocupada h&aacute; 8 anos,&nbsp; a &aacute;rea est&aacute; cercada neste momento com 12 viaturas da pol&iacute;cia militar prontas para efetuar o despejo. Tamb&eacute;m se deslocam para o local um aparato de maquin&aacute;rios, tratores, ambul&acirc;ncia, conselho tutelar, assist&ecirc;ncia social, caminh&otilde;es e &ocirc;nibus, para for&ccedil;ar a sa&iacute;da dos trabalhadores e trabalhadoras.<br />
 &nbsp;</p>
 
 <p>O Movimento dos Trabalhadores Rurais Sem Terra no Cear&aacute; emitiu uma nota p&uacute;blica solicitando ao Governo do Estado, organiza&ccedil;&otilde;es, entidades e movimentos populares para que n&atilde;o seja executada a ordem de despejo.<br />
