@@ -95,7 +95,7 @@ na capital paulistana. Foto: Dowglas Silva</em></figcaption>
 Guedes explica que esse processo teve in&iacute;cio um pouco antes de 2014, quando o MST discutiu o projeto de Reforma Agr&aacute;ria Popular, reafirmado com a realiza&ccedil;&atilde;o do 6&ordm; Congresso Nacional do MST, em Bras&iacute;lia, e tendo como perspectiva a constru&ccedil;&atilde;o de novas rela&ccedil;&otilde;es com a natureza e entre os seres humanos.<br />
 &nbsp;</p>
 
-<p>Nesse sentido, ela destaca que a quest&atilde;o da liberdade sexual tamb&eacute;m &eacute; problematizada como elemento de emancipa&ccedil;&atilde;o, dando base para o Semin&aacute;rio Nacional &ldquo;O MST e a Diversidade Sexual&rdquo;, realizado em agosto de 2015.<br />
+<p>Nesse sentido, ela destaca que a quest&atilde;o da liberdade sexual tamb&eacute;m &eacute; colocada como elemento de emancipa&ccedil;&atilde;o, dando base para o Semin&aacute;rio Nacional &ldquo;O MST e a Diversidade Sexual&rdquo;, realizado em agosto de 2015.<br />
 &nbsp;</p>
 
 <p>&ldquo;O semin&aacute;rio foi o primeiro passo de auto-organiza&ccedil;&atilde;o destes sujeitos no interior do movimento, se afirmando como LGBT Sem Terra. Eles apontaram uma s&eacute;rie de desafios que a organiza&ccedil;&atilde;o como um todo deveria enfrentar, como a amplia&ccedil;&atilde;o da participa&ccedil;&atilde;o pol&iacute;tica das LGBT e o combate &agrave;s atitudes discriminat&oacute;rias nos diversos espa&ccedil;os&rdquo;, pontua.<br />
