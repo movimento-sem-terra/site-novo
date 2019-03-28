@@ -37,7 +37,7 @@ sector: mass-front
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Mauriti.jpeg" height="525" src="//farm8.staticflickr.com/7868/40519918863_fd37cf665d_b.jpg" width="700" />
-<figcaption><em>MSTAs fam&iacute;lias apelam para que o Governo do Estado do Cear&aacute; n&atilde;o execute o despejo<br />
+<figcaption><em>As fam&iacute;lias apelam para que o Governo do Estado do Cear&aacute; n&atilde;o execute o despejo<br />
 Foto: Aline Oliveira</em></figcaption>
 </figure>
 </div>
