@@ -44,7 +44,7 @@ Foto: Aline Oliveira</em></figcaption>
 
 <p>&nbsp;</p>
 
-<p><em>Por Aline Oliveira e A</em>manda Sampaio<br />
+<p><em>Por Aline Oliveira e Amanda Sampaio</em><br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
