@@ -42,8 +42,7 @@ Foto: Aline Oliveira</em></figcaption>
 </figure>
 </div>
 
-<p><em>Da P&aacute;gina do MST</em><br />
-&nbsp;</p>
+<p><em>Por Aline Oliveira e </em>amanda sampaio<em>Da P&aacute;gina do MST</em></p>
 
 <p>As 30 fam&iacute;lias do acampamento Nova Vida, localizado em Mauriti (CE), correm o risco de despejo a qualquer momento, caso o pedido de reintegra&ccedil;&atilde;o de posse seja cumprida nesta quinta-feira (28).<br />
 &nbsp;</p>
