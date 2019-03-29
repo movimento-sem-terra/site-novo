@@ -4,8 +4,8 @@ tags:
   - tag: prêmio
   - tag: Rio-Grande-do-Norte
   - tag: mulheres
-title: "Maria Francineide Cordeiro, do MST no Rio Grande do Norte, é homenageada com prêmio Ana Floriana"
-support_line: Prêmio foi concedido em Mossoró (RN) ressalta importância das mulheres na luta por direitos
+title: Militante do MST no Rio Grande do Norte é homenageada com prêmio Ana Floriana
+support_line: Maria Francineide Cordeiro recebeu prêmio  concedido em Mossoró (RN) sobre importância das mulheres na luta por direitos
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7873/47493036271_724ec9361c_b.jpg
 layout: post
