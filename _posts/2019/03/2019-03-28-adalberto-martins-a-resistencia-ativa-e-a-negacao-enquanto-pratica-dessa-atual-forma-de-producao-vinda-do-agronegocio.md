@@ -7,7 +7,7 @@ tags:
 images_hd: //farm8.staticflickr.com/7859/46573208335_b6a3d2ed2b_b.jpg
 sector: production
 menu: agricultura camponesa
-title: "Adalberto Martins: \"A resistência ativa é a negação de produção vinda do agronegócio\""
+title: "Adalberto Martins: \"A resistência ativa é a negação desse modelo de produção promovido pelo agronegócio\""
 support_line: Militante fala em livro sobre a produção ecológica de arroz dentro do MST
 layout: post
 files:
@@ -78,7 +78,7 @@ Hoje, cerca de 500 fam&iacute;lias produzem anualmente cinco mil sacas de arroz 
 <strong>Nesse sentido, a resist&ecirc;ncia ativa se d&aacute; na consolida&ccedil;&atilde;o de alternativas &agrave; agricultura do agroneg&oacute;cio?</strong></p>
 
 <p><br />
-A resist&ecirc;ncia ativa &eacute; a nega&ccedil;&atilde;o enquanto pr&aacute;tica&nbsp;dessa atual forma de produ&ccedil;&atilde;o vinda do agroneg&oacute;cio. N&atilde;o s&oacute; do ponto de vista de sustenta&ccedil;&atilde;o e experi&ecirc;ncia, mas, sobretudo, pelas rela&ccedil;&otilde;es que ali se reproduzem. Essas fam&iacute;lias estabeleceram em seu cotidiano uma op&ccedil;&atilde;o pela produ&ccedil;&atilde;o agroecol&oacute;gica &mdash; elas poderiam produzir convencionalmente, arrendar &agrave; terra &mdash; mas elas decidiram plantar, assumir o processo de gest&atilde;o participativa e compartilhada com as outras fam&iacute;lias. Com essa escolha elas afirmam condutas e um caminho societ&aacute;rio que nos remete ao que existe de melhor no g&ecirc;nero humano. Ela extrapola, rompe a mesquinhez do pequeno burgues, isso gera uma nova &eacute;tica que se expressa pela satisfa&ccedil;&atilde;o que as fam&iacute;lias t&ecirc;m de oferecer para sociedade um produto agroecol&oacute;gico de auto valor nutritivo e de qualidade.&nbsp;</p>
+A resist&ecirc;ncia ativa &eacute; a nega&ccedil;&atilde;o desse modelo de produ&ccedil;&atilde;o promovido pelo agroneg&oacute;cio. N&atilde;o s&oacute; do ponto de vista de sustenta&ccedil;&atilde;o e experi&ecirc;ncia, mas, sobretudo, pelas rela&ccedil;&otilde;es que ali se reproduzem. Essas fam&iacute;lias estabeleceram em seu cotidiano uma op&ccedil;&atilde;o pela produ&ccedil;&atilde;o agroecol&oacute;gica &mdash; elas poderiam produzir convencionalmente, arrendar &agrave; terra &mdash; mas elas decidiram plantar, assumir o processo de gest&atilde;o participativa e compartilhada com as outras fam&iacute;lias. Com essa escolha elas afirmam condutas e um caminho societ&aacute;rio que nos remete ao que existe de melhor no g&ecirc;nero humano. Ela extrapola, rompe a mesquinhez do pequeno burgues, isso gera uma nova &eacute;tica que se expressa pela satisfa&ccedil;&atilde;o que as fam&iacute;lias t&ecirc;m de oferecer para sociedade um produto agroecol&oacute;gico de auto valor nutritivo e de qualidade.&nbsp;</p>
 
 <p><br />
 <strong>Logo, podemos afirmar que todo o processo produtivo do Movimento est&aacute; orientado por um processo pol&iacute;tico?&nbsp;</strong></p>
@@ -92,3 +92,9 @@ Desde a semente, passando pela discuss&atilde;o do manejo de condu&ccedil;&atild
 
 <p><br />
 Com esse conjunto de retrocessos vividos nos &uacute;ltimos tr&ecirc;s anos n&atilde;o podemos dizer que est&aacute; dada uma perspectiva de avan&ccedil;o. Esse &eacute; um projeto em disputa, e, como tal, existem outras for&ccedil;as sociais que trabalham para negar esse processo. N&oacute;s disputamos esse projeto atrav&eacute;s da resist&ecirc;ncia ativa e isso &eacute; feito com um conglomerado de base popular, democr&aacute;tico, equitativo, dirigido por uma organiza&ccedil;&atilde;o que tem base pol&iacute;tica, por isso, temos for&ccedil;a, mas, s&oacute; isso, n&atilde;o nos d&aacute; a certeza de &ecirc;xito porque existem nesse mesmo territ&oacute;rio as for&ccedil;as do capital operando. Ent&atilde;o veja, n&oacute;s podemos avan&ccedil;ar, no entanto, existem for&ccedil;as sociais que tamb&eacute;m tentam desestruturar e bloquear essas experi&ecirc;ncias. Seja no terreno econ&ocirc;mico, pol&iacute;tico ou ideol&oacute;gico. Ainda assim, todo esse processo nos indica que esse &eacute; o caminho de di&aacute;logo com a sociedade brasileira e qual a fun&ccedil;&atilde;o que &agrave; terra tem que cumprir.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Confira a entrevista em v&iacute;deo:</strong></p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/6iR0LQkEALk" width="640"></iframe></p>
