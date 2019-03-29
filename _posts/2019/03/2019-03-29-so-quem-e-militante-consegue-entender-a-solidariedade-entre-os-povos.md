@@ -40,7 +40,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Formatura Turma Agronomia_-164.jpg" height="460" src="//farm8.staticflickr.com/7856/47494618121_0867398126_b.jpg" width="700" />
-<figcaption><em>Maria Salete Campigotto &eacute; coordenadora no Instituto Educar, escola t&eacute;cnica do MST em Pont&atilde;o (RS) -<br />
+<figcaption><em>Maria Salete Campigotto &eacute; coordenadora no Instituto Educar, escola t&eacute;cnica do MST em Pont&atilde;o (RS)<br />
 Foto: Arquivo Pessoal</em></figcaption>
 </figure>
 </div>
