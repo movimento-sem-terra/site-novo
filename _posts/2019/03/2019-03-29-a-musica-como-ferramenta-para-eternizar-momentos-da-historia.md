@@ -1,6 +1,9 @@
 ---
 date: "2019-03-29T17:47:40-03:00"
-tags: []
+tags:
+  - tag: música
+  - tag: arte-e-cultura
+  - tag: lula-livre
 title: A música como ferramenta para eternizar momentos da história
 support_line: MST encerra hoje oficina nacional de música com Cantoria Lula Livre
 menu: "educação, cultura e comunicação"
@@ -36,8 +39,12 @@ files:
     title: "Oficina [4].png"
     $$hashKey: 0NV
 created_date: "2019-03-29T18:07:12-03:00"
-published: false
-releated_posts: []
+published: true
+releated_posts:
+  - _posts/2018/10/2018-10-10-ze-pinto-um-cantador-da-agroecologia.md
+  - _posts/2018/12/2018-12-14-em-mg-o-mst-comemora-30-anos-com-festival-da-reforma-agraria.md
+  - _posts/2018/12/2018-12-15-sul-de-minas-traz-sua-forca-e-producao-para-o-festival-da-reforma-agraria.md
+  - _posts/2018/12/2018-12-15-reforma-agraria-popular-um-grito-de-resistencia.md
 
 ---
 <p><br />
@@ -78,7 +85,8 @@ Segundo &Ecirc;nio Bonhenberger , as composi&ccedil;&otilde;es que acompanharam 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Oficina [3].png" height="466" src="//farm8.staticflickr.com/7907/47495202911_66aa7be3da_b.jpg" width="700" />
-<figcaption><strong>ATIVIDADE PEDAG&Oacute;GICA NO ARMAZ&Eacute;M DO CAMPO BH, DURANTE A QUARTA INVIOLADA, COM PEREIRA DA VIOLA E CONVIDADOS. FOTO: JOYCE FONSECA</strong></figcaption>
+<figcaption><em>Atividade pedag&oacute;gica durante a Quarta Inviolada, com Pereira da Viola e convidados.<br />
+Foto: Joyce Fonseca</em></figcaption>
 </figure>
 </div>
 
@@ -110,6 +118,16 @@ Luana ressaltou ainda dizeres Brecht: &ldquo;Em tempos de caos cruento como esse
 Ap&oacute;s anos tentando compreender uma contradi&ccedil;&atilde;o entre o fazer individual art&iacute;stico e o fazer coletivo, a Frente de M&uacute;sica do MST come&ccedil;a a se reorganizar para dar vaz&atilde;o &agrave;s necessidades que a conjuntura imp&otilde;e.</p>
 
 <p><br />
-Hoje muitas can&ccedil;&otilde;es continuam sendo criadas sem deixar de lado sobre os objetivos do movimento e a cultura camponesa, muitas vezes acrescentando utras quest&otilde;es como g&ecirc;nero, racismo, etc. Um exemplo &eacute; a composi&ccedil;&atilde;o do assentado Raumi Souza, que foi categ&oacute;rico: &ldquo;Sou sem terra, sou pobre, sou neg&atilde;o, sou revolu&ccedil;&atilde;o&rdquo;. &nbsp;</p>
+Hoje muitas can&ccedil;&otilde;es continuam sendo criadas sem deixar de lado sobre os objetivos do movimento e a cultura camponesa, muitas vezes acrescentando utras quest&otilde;es como g&ecirc;nero, racismo, etc. Um exemplo &eacute; a composi&ccedil;&atilde;o do assentado Raumi Souza, que foi categ&oacute;rico: &ldquo;Sou sem terra, sou pobre, sou neg&atilde;o, sou revolu&ccedil;&atilde;o&rdquo;.&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Oficina [4].png" height="700" src="//farm8.staticflickr.com/7839/46579728545_3913c6cf2e_b.jpg" width="700" />
+<figcaption><em>Jornada de Luta Lula Livre, em Belo Horizonte, Minas Gerais</em></figcaption>
+</figure>
+</div>
+
+<p><br />
+<em>*Editado por Fernanda Alc&acirc;ntara</em></p>
