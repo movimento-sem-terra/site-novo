@@ -44,24 +44,28 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Fotos, crédito: Edilberto Barros.jpg" height="466" src="//farm8.staticflickr.com/7826/47440194662_e02d4ab316_b.jpg" width="700" />
-<figcaption><em>&nbsp;Foto: Edilberto Barros</em></figcaption>
+<figcaption><em>Neide tem sua hist&oacute;ria de luta reconhecida e recebe um dos principais t&iacute;tulos de Mossor&oacute;. Foto: Edilberto Barros</em></figcaption>
 </figure>
 </div>
 
+<p>&nbsp;</p>
+
 <p><em>Por Jailma Lopes<br />
 Da P&aacute;gina do MST</em></p>
+
+<p>&nbsp;</p>
 
 <p>Maria Francineide Cordeiro, popularmente conhecida como &ldquo;Neide&rdquo;, da dire&ccedil;&atilde;o estadual do MST no Rio Grande do Norte, recebeu na manh&atilde; desta quinta feira (28) o pr&ecirc;mio de &ldquo;Honraria de M&eacute;rito Feminino Ana Floriana&rdquo;, em reconhecimento a sua hist&oacute;ria de vida e luta dedicada a luta pela reforma agr&aacute;ria popular na regi&atilde;o.</p>
 
 <p><br />
 A honraria de m&eacute;rito Ana Floriana &eacute; considerada um dos t&iacute;tulos mais importantes da casa legislativa e &eacute; destinada a mulheres que contribu&iacute;ram para o desenvolvimento pol&iacute;tico, social, cultural ou econ&ocirc;mico da cidade. A indica&ccedil;&atilde;o foi realizada pelo vereador Gilberto Di&oacute;genes (PT), em sess&atilde;o solene ao Dia Internacional da Mulheres, e ratificada por unanimidade por toda a casa.</p>
 
-<figure class="image" style="float:left"><img alt="Fotos, crédito: Edilberto Barros [2].jpg" height="467" src="//farm8.staticflickr.com/7887/47493036261_7d7ba37789_b.jpg" width="700" />
-<figcaption><em>&nbsp;Foto: Edilberto Barros</em></figcaption>
-</figure>
-
 <p><br />
 Para Di&oacute;genes, na conjuntura em que a reforma agr&aacute;ria &eacute; atacada e a luta do MST &eacute; criminalizada, &eacute; preciso reconhecer a luta das pessoas que lutam pela terra, e desenvolvimento que o campo promove para a regi&atilde;o.</p>
+
+<figure class="image" style="float:right"><img alt="Fotos, crédito: Edilberto Barros [2].jpg" height="200" src="//farm8.staticflickr.com/7887/47493036261_7d7ba37789_b.jpg" width="300" />
+<figcaption><em>&nbsp;Foto: Edilberto Barros</em></figcaption>
+</figure>
 
 <p><br />
 &ldquo;A hist&oacute;ria de luta de Neide, que veio para regi&atilde;o contribuir na constru&ccedil;&atilde;o do movimento,&nbsp; simboliza as lutas travadas pelas mulheres sem terra. Ela tem por todos esses anos lutado pela reforma agr&aacute;ria e mostra a import&acirc;ncia que o MST tem para a sociedade&rdquo;, afirma.</p>
@@ -82,6 +86,8 @@ Ana Floriano liderou uma rebeli&atilde;o feminina mossoroense ainda na &eacute;p
 Essa ordem gerou v&aacute;rios motins e revoltas pelo pa&iacute;s, e em Mossor&oacute; foi organizado e protagonizado pelas mulheres, que denunciavam a piora das condi&ccedil;&otilde;es de vida que a convoca&ccedil;&atilde;o provocaria em suas fam&iacute;lias. &nbsp;</p>
 
 <p><br />
-Assim, em pouco tempo, cerca de 300 mulheres, lideradas por Ana Floriano, organizaram um movimento com caracter&iacute;sticas semelhantes ao movimento Quebra-Quilos, segundo historiadores. O&nbsp; esquadr&atilde;o&nbsp; feminino&nbsp; destruiu editais de convoca&ccedil;&otilde;es nas igrejas, realizaram marcha &agrave; casa do juiz e destru&iacute;am livros e documentos relativos ao assunto.<br />
-<br />
-Editado por Fernanda Alc&acirc;ntara</p>
+Assim, em pouco tempo, cerca de 300 mulheres, lideradas por Ana Floriano, organizaram um movimento com caracter&iacute;sticas semelhantes ao movimento Quebra-Quilos, segundo historiadores. O&nbsp; esquadr&atilde;o&nbsp; feminino&nbsp; destruiu editais de convoca&ccedil;&otilde;es nas igrejas, realizaram marcha &agrave; casa do juiz e destru&iacute;am livros e documentos relativos ao assunto.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
