@@ -82,3 +82,7 @@ Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <p>O desfecho do processo de execu&ccedil;&atilde;o fiscal, assim como o processo de adjudica&ccedil;&atilde;o da Fazenda Martin&oacute;polis, resultar&aacute; no assentamento dessas fam&iacute;lias, proporcionando condi&ccedil;&atilde;o dignas de exist&ecirc;ncia e acesso &agrave; pol&iacute;ticas p&uacute;blicas. Segundo o MST em S&atilde;o Paulo, &eacute; preciso resistir e lutar: &ldquo;N&atilde;o desistiremos de construir o assentamento e cultivar agroecologia no local.&nbsp; Exigimos uma decis&atilde;o imediata pela ju&iacute;za Dr. Lucilene Aparecida Canella de Melo&rdquo;.</p>
+
+<p>&nbsp;</p>
+
+<p>Editado por Fernanda Alc&acirc;ntara</p>
