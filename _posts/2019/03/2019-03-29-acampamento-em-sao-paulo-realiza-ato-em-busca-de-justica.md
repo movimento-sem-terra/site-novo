@@ -64,7 +64,7 @@ releated_posts:
 </figure>
 </div>
 
-<p><em>Por Coletivo de Comunica&ccedil;&atilde;o MST/SP<br />
+<p><em>Por Coletivo de Comunica&ccedil;&atilde;o MST em S&atilde;o Paulo<br />
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
