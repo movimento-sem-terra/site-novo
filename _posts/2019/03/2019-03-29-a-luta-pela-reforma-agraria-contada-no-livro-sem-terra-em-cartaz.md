@@ -64,7 +64,7 @@ Da P&aacute;gina do MST</em></p>
 <p>A hist&oacute;ria do MST est&aacute; presente em jornais, livros e nos assentamentos e acampamentos espalhados por todo pa&iacute;s. Para completar a lista de documentos hist&oacute;ricos que mostram a luta pela terra nas &uacute;ltimas tr&ecirc;s d&eacute;cadas, a editora <a href="https://www.expressaopopular.com.br/loja/">Express&atilde;o Popular</a> lan&ccedil;a o livro &quot;Sem Terra em cartaz&quot;.</p>
 
 <p><br />
-Organizado pelo pesquisador e jornalista Vladimir Sacchetta, a publica&ccedil;&atilde;o resgata os 35 anos de experi&ecirc;ncias e viv&ecirc;ncias do MST na luta pela Reforma Agr&aacute;ria atrav&eacute;s de cartazes. S&atilde;o mais de 400 imagens de diversos momentos hist&oacute;ricos e arquivos de assentados, educadores, t&eacute;cnicos e a pr&oacute;pria milit&acirc;ncia do Movimento.</p>
+Organizado pelo pesquisador e jornalista&nbsp;Vladimir Sacchetta, a publica&ccedil;&atilde;o resgata os 35 anos de experi&ecirc;ncias e viv&ecirc;ncias do MST na luta pela Reforma Agr&aacute;ria atrav&eacute;s de cartazes. S&atilde;o mais de 400 imagens de diversos momentos hist&oacute;ricos e arquivos de assentados, educadores, t&eacute;cnicos e a pr&oacute;pria milit&acirc;ncia do Movimento.</p>
 
 <p><br />
 A publica&ccedil;&atilde;o re&uacute;ne o &ldquo;legado documental para a constru&ccedil;&atilde;o da mem&oacute;ria hist&oacute;rica das lutas por uma sociedade mais justa, baseada na liberdade, igualdade e felicidade&rdquo;, descreve Vladimir Sacchetta.</p>
@@ -111,11 +111,16 @@ Sobre o que destacaria do levantamento, Rog&eacute;rio Chaves afirma&nbsp; tamb&
 <p><br />
 Vladimir Sacchetta &eacute; mais categ&oacute;rico: &ldquo;A sele&ccedil;&atilde;o revela que, apesar das muitas d&eacute;cadas passadas, a luta dos trabalhadores e do MST n&atilde;o se encerrou . A mem&oacute;ria e a cultura presentes neste livro servir&atilde;o, certamente, de encorajamento para o enfrentar os novos desafios&rdquo;, conclui.</p>
 
+<p><br />
+Adquira seu exemplar no site da Express&atilde;o Popular <a href="https://www.expressaopopular.com.br/loja/produto/sem-terra-em-cartaz/"><strong>aqui</strong></a>.</p>
+
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="mockuplivro2.png" height="471" src="//farm8.staticflickr.com/7833/47439761302_2e6341f567_b.jpg" width="600" />
 <figcaption><em>&quot;Sem Terra em cartaz&quot; pretende manter viva na mem&oacute;ria dos brasileiros a luta do MST.<br />
 Foto: Divulga&ccedil;&atilde;o</em></figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
 
 <p><em>*Editado por Wesley Lima</em></p>
