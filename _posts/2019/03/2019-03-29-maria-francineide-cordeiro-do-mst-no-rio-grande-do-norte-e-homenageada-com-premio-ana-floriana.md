@@ -55,7 +55,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Maria Francineide Cordeiro, popularmente conhecida como &ldquo;Neide&rdquo;, da dire&ccedil;&atilde;o estadual do MST no Rio Grande do Norte, recebeu na manh&atilde; desta quinta feira (28) o pr&ecirc;mio de &ldquo;Honraria de M&eacute;rito Feminino Ana Floriana&rdquo;, em reconhecimento a sua hist&oacute;ria de vida e luta dedicada a luta pela reforma agr&aacute;ria popular na regi&atilde;o.</p>
+<p>Maria Francineide Cordeiro, popularmente conhecida como &ldquo;Neide&rdquo;, da dire&ccedil;&atilde;o estadual do MST no Rio Grande do Norte, recebeu na manh&atilde; desta quinta feira (28) o pr&ecirc;mio de &ldquo;Honraria de M&eacute;rito Feminino Ana Floriana&rdquo;, em reconhecimento a sua hist&oacute;ria de vida e luta dedicada &agrave; reforma agr&aacute;ria popular na regi&atilde;o.</p>
 
 <p><br />
 A honraria de m&eacute;rito Ana Floriana &eacute; considerada um dos t&iacute;tulos mais importantes da casa legislativa e &eacute; destinada a mulheres que contribu&iacute;ram para o desenvolvimento pol&iacute;tico, social, cultural ou econ&ocirc;mico da cidade. A indica&ccedil;&atilde;o foi realizada pelo vereador Gilberto Di&oacute;genes (PT), em sess&atilde;o solene ao Dia Internacional da Mulheres, e ratificada por unanimidade por toda a casa.</p>
