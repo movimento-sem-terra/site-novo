@@ -4,8 +4,8 @@ tags:
   - tag: prêmio
   - tag: Rio-Grande-do-Norte
   - tag: mulheres
-title: "No Rio Grande do Norte, Maria Francineide Cordeiro é homenageada com prêmio Ana Floriana"
-support_line: Prêmio foi concedido em Mossoró (RN) e ressalta importância das mulheres na luta por direitos
+title: "Maria Francineide Cordeiro, do MST no Rio Grande do Norte, é homenageada com prêmio Ana Floriana"
+support_line: Prêmio foi concedido em Mossoró (RN) ressalta importância das mulheres na luta por direitos
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7873/47493036271_724ec9361c_b.jpg
 layout: post
@@ -44,7 +44,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Fotos, crédito: Edilberto Barros.jpg" height="466" src="//farm8.staticflickr.com/7826/47440194662_e02d4ab316_b.jpg" width="700" />
-<figcaption><em>&nbsp;Edilberto Barros</em></figcaption>
+<figcaption><em>&nbsp;Foto: Edilberto Barros</em></figcaption>
 </figure>
 </div>
 
@@ -57,7 +57,7 @@ Da P&aacute;gina do MST</em></p>
 A honraria de m&eacute;rito Ana Floriana &eacute; considerada um dos t&iacute;tulos mais importantes da casa legislativa e &eacute; destinada a mulheres que contribu&iacute;ram para o desenvolvimento pol&iacute;tico, social, cultural ou econ&ocirc;mico da cidade. A indica&ccedil;&atilde;o foi realizada pelo vereador Gilberto Di&oacute;genes (PT), em sess&atilde;o solene ao Dia Internacional da Mulheres, e ratificada por unanimidade por toda a casa.</p>
 
 <figure class="image" style="float:left"><img alt="Fotos, crédito: Edilberto Barros [2].jpg" height="467" src="//farm8.staticflickr.com/7887/47493036261_7d7ba37789_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption><em>&nbsp;Foto: Edilberto Barros</em></figcaption>
 </figure>
 
 <p><br />
