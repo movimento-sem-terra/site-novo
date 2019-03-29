@@ -64,10 +64,10 @@ Da P&aacute;gina do MST</em></p>
 <p>A hist&oacute;ria do MST est&aacute; presente em jornais, livros e nos assentamentos e acampamentos espalhados por todo pa&iacute;s. Para completar a lista de documentos hist&oacute;ricos que mostram a luta pela terra nas &uacute;ltimas tr&ecirc;s d&eacute;cadas, a editora <a href="https://www.expressaopopular.com.br/loja/">Express&atilde;o Popular</a> lan&ccedil;a o livro &quot;Sem Terra em cartaz&quot;.</p>
 
 <p><br />
-Organizado pelo pesquisador e jornalista&nbsp;Vladimir Sacchetta, a publica&ccedil;&atilde;o resgata os 35 anos de experi&ecirc;ncias e viv&ecirc;ncias do MST na luta pela Reforma Agr&aacute;ria atrav&eacute;s de cartazes. S&atilde;o mais de 400 imagens de diversos momentos hist&oacute;ricos e arquivos de assentados, educadores, t&eacute;cnicos e a pr&oacute;pria milit&acirc;ncia do Movimento.</p>
+A publica&ccedil;&atilde;o resgata, entre outras coisas,&nbsp;os 35 anos de experi&ecirc;ncias e viv&ecirc;ncias do MST na luta pela Reforma Agr&aacute;ria atrav&eacute;s de cartazes. S&atilde;o mais de 400 imagens de diversos momentos hist&oacute;ricos e arquivos de assentados, educadores, t&eacute;cnicos e a pr&oacute;pria milit&acirc;ncia do Movimento.</p>
 
 <p><br />
-A publica&ccedil;&atilde;o re&uacute;ne o &ldquo;legado documental para a constru&ccedil;&atilde;o da mem&oacute;ria hist&oacute;rica das lutas por uma sociedade mais justa, baseada na liberdade, igualdade e felicidade&rdquo;, descreve Vladimir Sacchetta.</p>
+O livro re&uacute;ne o &ldquo;legado documental para a constru&ccedil;&atilde;o da mem&oacute;ria hist&oacute;rica das lutas por uma sociedade mais justa, baseada na liberdade, igualdade e felicidade&rdquo;, descreve o jornalista e pesquisador&nbsp;Vladimir Sacchetta, um dos organizadores.</p>
 
 <p><br />
 Rog&eacute;rio Chaves, coordenador editorial da Funda&ccedil;&atilde;o Perseu Abramo e membro do coletivo editorial do livro, lembra o delicado processo de sele&ccedil;&atilde;o dos cartazes. &ldquo;Para chegar ao material, a equipe contou com acervos de diversas fontes prim&aacute;rias, al&eacute;m do pr&oacute;prio coletivo de mem&oacute;ria do MST. Pessoas como o Camilo Monteiro do Amaral &Aacute;lvarez e Meire Barreto, nominadas no texto da dire&ccedil;&atilde;o nacional que abre o livro, foram essenciais para este documento, al&eacute;m do trabalho delicado de Marina Tavares, respons&aacute;vel pelo projeto gr&aacute;fico e editora&ccedil;&atilde;o da obra&rdquo;, explica Chaves.</p>
@@ -76,7 +76,7 @@ Rog&eacute;rio Chaves, coordenador editorial da Funda&ccedil;&atilde;o Perseu Ab
 <strong>O tempo hist&oacute;rico</strong></p>
 
 <p><br />
-A longo prazo, muitos desses cartazes se tornaram &iacute;cones poderosos na luta pela Reforma Agr&aacute;ria. Eles foram (e s&atilde;o at&eacute; hoje) instrumentos eficazes para a difus&atilde;o de ideias, enfrentamentos, resist&ecirc;ncias e frequentemente, s&atilde;o apropriados e reapropriados por diferentes grupos e coletivos.</p>
+A longo prazo, muitos desses cartazes se tornaram &iacute;cones poderosos na luta pela Reforma Agr&aacute;ria. Eles foram (e s&atilde;o at&eacute; hoje) instrumentos eficazes para a difus&atilde;o de ideias, enfrentamentos, resist&ecirc;ncias e, frequentemente, s&atilde;o apropriados e reapropriados por diferentes grupos e coletivos.</p>
 
 <figure class="image" style="float:right"><img alt="mockuplivro3.png" height="236" src="//farm8.staticflickr.com/7815/32550598357_093b020c16_b.jpg" width="300" />
 <figcaption><em>Mais do que texto e est&eacute;tica, os cartazes<br />
@@ -106,7 +106,7 @@ O jornalista lembra ainda o car&aacute;ter inclusivo dos personagens ao longo da
 &quot;Sem Terra em cartaz&quot; pretende manter viva na mem&oacute;ria dos brasileiros a luta do MST, em cartazes as den&uacute;ncias e solidariedade frente &agrave; situa&ccedil;&atilde;o no Brasil e em pa&iacute;ses vizinhos, unidos pela mesma bandeira de luta. Nesse sentido, &ldquo;para o momento que vivemos hoje, sob governo Bolsonaro, isso diz muito. E diz muito com poucas palavras e centenas de imagens. Faz toda a diferen&ccedil;a para os lutadores de hoje, pois motiva, sensibiliza e enaltece a pr&oacute;pria luta social&rdquo;, ressalta Chaves.</p>
 
 <p><br />
-Sobre o que destacaria do levantamento, Rog&eacute;rio Chaves afirma&nbsp; tamb&eacute;m que o livro &eacute; uma s&iacute;ntese da luta de milhares de brasileiros e brasileiras que, a partir da terra, forjaram o pa&iacute;s. &ldquo;&#39;Sem Terra em Cartaz&#39; &eacute; imprescind&iacute;vel aos lutadores e lutadoras sociais de ontem e de hoje, aos amigos e amigas do MST, para o&nbsp; pessoal de pesquisa acad&ecirc;mica em &aacute;reas como Hist&oacute;ria, Comunica&ccedil;&atilde;o e Ci&ecirc;ncias Sociais. Enfim, &eacute; para todos que sabem a import&acirc;ncia deste processo&rdquo;.</p>
+Sobre o que destacaria do levantamento, Rog&eacute;rio Chaves afirma&nbsp;tamb&eacute;m que o livro &eacute; uma s&iacute;ntese da luta de milhares de brasileiros e brasileiras que, a partir da terra, forjaram o pa&iacute;s. &ldquo;&#39;Sem Terra em Cartaz&#39; &eacute; imprescind&iacute;vel aos lutadores e lutadoras sociais de ontem e de hoje, aos amigos e amigas do MST, para o&nbsp; pessoal de pesquisa acad&ecirc;mica em &aacute;reas como Hist&oacute;ria, Comunica&ccedil;&atilde;o e Ci&ecirc;ncias Sociais. Enfim, &eacute; para todos que sabem a import&acirc;ncia deste processo&rdquo;.</p>
 
 <p><br />
 Vladimir Sacchetta &eacute; mais categ&oacute;rico: &ldquo;A sele&ccedil;&atilde;o revela que, apesar das muitas d&eacute;cadas passadas, a luta dos trabalhadores e do MST n&atilde;o se encerrou . A mem&oacute;ria e a cultura presentes neste livro servir&atilde;o, certamente, de encorajamento para o enfrentar os novos desafios&rdquo;, conclui.</p>
