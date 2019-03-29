@@ -7,7 +7,7 @@ tags:
 images_hd: //farm8.staticflickr.com/7859/46573208335_b6a3d2ed2b_b.jpg
 sector: production
 menu: agricultura camponesa
-title: "Adalberto Martins: \"A resistência ativa é a negação enquanto prática dessa atual forma de produção vinda do agronegócio\""
+title: "Adalberto Martins: \"A resistência ativa é a negação dessa atual forma de produção vinda do agronegócio\""
 support_line: Militante fala em livro sobre a produção ecológica de arroz dentro do MST
 layout: post
 files:
@@ -38,8 +38,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-03-28 at 17.32.42.jpeg" height="466" src="//farm8.staticflickr.com/7859/46573208335_b6a3d2ed2b_b.jpg" width="700" />
-<figcaption>Adalberto Martins:&nbsp;Esse &eacute; um processo democr&aacute;tico e popular que tem todo esfor&ccedil;o coletivo balizado<br />
-Foto: Barbara Vida</figcaption>
+<figcaption>Adalberto Martins:&nbsp;Esse &eacute; um processo democr&aacute;tico e popular - Foto: Barbara Vida</figcaption>
 </figure>
 </div>
 
