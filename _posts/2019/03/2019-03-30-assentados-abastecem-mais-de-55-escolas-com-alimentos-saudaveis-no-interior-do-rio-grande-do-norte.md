@@ -4,7 +4,7 @@ tags:
   - tag: alimentos-saudáveis
   - tag: agroecologia-é-o-caminho
   - tag: rio-grande-do-norte
-title: Assentados abastecem mais de 55 escolas com alimentos saudáveis no interior do Rio Grande do Norte
+title: Assentados abastecem mais de 55 escolas com alimentos saudáveis no RN
 support_line: A ameaça de extinção do PAA e do PNAE pelo atual governo deve piorar as condições de vida das famílias Sem Terra
 menu: reforma agrária
 images_hd: //farm8.staticflickr.com/7802/32558157927_406be7115a_b.jpg
