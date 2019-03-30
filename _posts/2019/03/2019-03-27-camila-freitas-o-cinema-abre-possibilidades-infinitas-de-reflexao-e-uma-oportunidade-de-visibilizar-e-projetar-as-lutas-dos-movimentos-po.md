@@ -64,16 +64,16 @@ label: interviews
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>Em fevereiro deste ano de 2019, a luta pela terra promovida pelo MST no estado de Goi&aacute;s chegou &agrave;s telas do 69&ordm; Festival Internacional de Cinema de Berlim como um dos 12 filmes brasileiros selecionados para a mostra.</p>
+<p>Em fevereiro deste ano de 2019, a luta pela terra promovida pelo MST no estado de Goi&aacute;s chegou &agrave;s telas do 69&ordm; Festival Internacional de Cinema de Berlim como um dos 12 filmes brasileiros selecionados para o festival em diferentes mostras.</p>
 
 <p><br />
-Sob a dire&ccedil;&atilde;o de Camila Freitas, o document&aacute;rio <em>Ch&atilde;o</em> mostra a ocupa&ccedil;&atilde;o de uma usina de cana, em Santa Helena (GO), e acompanha o cotidiano da luta pela Reforma Agr&aacute;ria, que &eacute; de longo prazo, mas cuja resist&ecirc;ncia &eacute; permeada de valores e afetos da viv&ecirc;ncia coletiva.&nbsp; &nbsp;</p>
+Sob a dire&ccedil;&atilde;o de Camila Freitas, o document&aacute;rio &quot;Ch&atilde;o&quot; mostra a ocupa&ccedil;&atilde;o de uma usina de cana, em Santa Helena (GO), e acompanha o cotidiano da luta pela Reforma Agr&aacute;ria, de longo prazo,&nbsp; em que a resist&ecirc;ncia &eacute; permeada de valores e afetos da viv&ecirc;ncia coletiva.&nbsp; &nbsp;</p>
 
 <p><br />
-Freitas comenta sobre o aprendizado permanente de construir um processo como esse. &quot;Uma das coisas mais importantes tem sido entender, na pr&aacute;tica, que um filme assim n&atilde;o se faz sobre, s&oacute; se faz com, junto ao movimento, em rela&ccedil;&atilde;o muito pr&oacute;xima. E acho que a rela&ccedil;&atilde;o que se estabelece com as pessoas filmadas precisa ser pensada e repensada o tempo todo por quem faz filmes.&quot;</p>
+Camila comenta sobre o aprendizado permanente de construir um processo como esse. &quot;Uma das coisas mais importantes tem sido entender, na pr&aacute;tica, que um filme assim n&atilde;o se faz sobre, s&oacute; se faz com, junto ao movimento, em rela&ccedil;&atilde;o muito pr&oacute;xima. E acho que a rela&ccedil;&atilde;o que se estabelece com as pessoas filmadas precisa ser pensada e repensada o tempo todo por quem faz filmes.&quot;<br />
+&nbsp;</p>
 
-<p><br />
-A&nbsp; &aacute;rea da Usina Santa Helena onde se passa o filme, localizada na fazenda Santa Helena, possui aproximadamente 15 mil hectares e acumula aproximadamente R$ 1 bilh&atilde;o em d&iacute;vidas &agrave; Uni&atilde;o. Cerca de 4 mil pessoas ocuparam a terra em 2015, o que culminou em uma persegui&ccedil;&atilde;o ao MST pelo juiz da Comarca de Santa Helena e pelo Minist&eacute;rio P&uacute;blico Estadual e na pris&atilde;o de dois militantes por forma&ccedil;&atilde;o de organiza&ccedil;&atilde;o criminosa.</p>
+<p>A Fazenda Santa Helena, &aacute;rea da Usina de mesmo nome, onde se passa o filme, possui cerca de 15 mil hectares e acumula aproximadamente R$ 1 bilh&atilde;o em d&iacute;vidas com a Uni&atilde;o. Cerca de 4 mil pessoas ocuparam a terra em 2015, o que culminou em uma persegui&ccedil;&atilde;o ao MST pelo juiz da Comarca de Santa Helena e pelo Minist&eacute;rio P&uacute;blico Estadual, e na pris&atilde;o de dois militantes por forma&ccedil;&atilde;o de organiza&ccedil;&atilde;o criminosa.</p>
 
 <p>&nbsp;</p>
 
@@ -81,24 +81,26 @@ A&nbsp; &aacute;rea da Usina Santa Helena onde se passa o filme, localizada na f
 <figcaption></figcaption>
 </figure>
 
-<p>Segundo a diretora, no cen&aacute;rio atual de criminaliza&ccedil;&atilde;o da luta popular no Brasil, h&aacute; uma disputa tanto pol&iacute;tica quanto ideol&oacute;gica. Portanto, usar de diversos mecanismos para travar essa batalha &eacute; fundamental. O cinema se configura em uma trincheira a ser explorada para dialogar com outros setores da sociedade.</p>
+<p>Nesse cen&aacute;rio de criminaliza&ccedil;&atilde;o da luta popular no Brasil, h&aacute; uma disputa pol&iacute;tica, mas tamb&eacute;m ideol&oacute;gica. Portanto, usar de diversos mecanismos para travar essa batalha &eacute; fundamental. O cinema se configura em uma trincheira a ser explorada para dialogar com outros setores da sociedade.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>A arte proporciona conex&otilde;es sens&iacute;veis muito especiais e distintas de outros meios de comunica&ccedil;&atilde;o, com a pot&ecirc;ncia de alcan&ccedil;ar p&uacute;blicos muito diversos&quot;, afirma Camila</p>
 
 <p><br />
-&quot;Acredito que o cinema abre possibilidades infinitas de reflex&atilde;o, cria&ccedil;&atilde;o, fabula&ccedil;&atilde;o a partir do real e uma oportunidade de visibilizar e projetar as lutas dos movimentos populares para fora de um &acirc;mbito j&aacute; engajado. A arte proporciona conex&otilde;es sens&iacute;veis muito especiais e distintas de outros meios de comunica&ccedil;&atilde;o, com a pot&ecirc;ncia de alcan&ccedil;ar p&uacute;blicos muito diversos&quot;, afirma Freitas.</p>
+Em Berlim, durante o a exibi&ccedil;&atilde;o do filme, havia uma boa parte da equipe, majoritariamente feminina, e uma representante do MST, tamb&eacute;m personagem do filme, Elizabett Concei&ccedil;&atilde;o. Al&eacute;m de todas as apresenta&ccedil;&otilde;es e debates ap&oacute;s as cinco sess&otilde;es do filme no festival, houve um debate organizado pela funda&ccedil;&atilde;o Rosa Luxemburgo, em que o ex-deputado federal Jean Wyllys e Elizabett falaram do atual momento pol&iacute;tico e da criminaliza&ccedil;&atilde;o dos movimentos sociais e da esquerda no Brasil.&nbsp;<br />
+&nbsp;</p>
 
-<p><br />
-Em Berlim, durante a exibi&ccedil;&atilde;o do filme, estavam presentes boa parte da equipe e Elizabett Concei&ccedil;&atilde;o, representante do MST e personagem do filme. Al&eacute;m das apresenta&ccedil;&otilde;es e conversas, ap&oacute;s cinco sess&otilde;es do filme no festival houve um debate organizado pela funda&ccedil;&atilde;o Rosa Luxemburgo, em que ex-deputado federal Jean Wyllys esteve presente.</p>
-
-<p><br />
-<em>Acompanhe abaixo a entrevista na &iacute;ntegra.</em></p>
+<p><em>Acompanhe abaixo a entrevista na &iacute;ntegra.</em></p>
 
 <p><br />
 <strong>Como voc&ecirc; se aproximou do MST e o que a motivou fazer um filme sobre o processo de luta pela terra?</strong><br />
 <br />
 Eu cresci no interior de Goi&aacute;s, onde a quest&atilde;o agr&aacute;ria &eacute; algo muito central e est&aacute; presente em todas as rela&ccedil;&otilde;es sociais do meu entorno. A admira&ccedil;&atilde;o pelo movimento veio bem cedo, adolescente. Lembro de ficar rodeando o acampamento na Esplanada em 1997 e tirando fotos de longe, sem ainda conseguir entrar. J&aacute; na Universidade de Bras&iacute;lia, em 2001, eu e outros estudantes de cinema e bat&iacute;amos ponto num novo acampamento nacional, onde fizemos amigos. Come&ccedil;amos a entender o MST mais de perto e tentamos fazer um filme a partir desta experi&ecirc;ncia. Foi muito importante esse momento na minha forma&ccedil;&atilde;o, talvez um pequeno ensaio para o que viria.</p>
 
-<p><br />
-Nesse in&iacute;cio no audiovisual tamb&eacute;m tive o <em>Passarim</em>, primeiro curta que fiz l&aacute; na regi&atilde;o onde cresci [Alex&acirc;nia/ Corumb&aacute; (GO)], sobre uma comunidade camponesa desmantelada pela press&atilde;o de um grande latifundi&aacute;rio cujo objetivo maior era possuir toda a regi&atilde;o, &agrave; custa de amea&ccedil;as aos moradores, grilagem, tr&aacute;fico de influ&ecirc;ncias e etc. Esse latifundi&aacute;rio &eacute; ningu&eacute;m menos que Eun&iacute;cio Oliveira, dono da Santa M&ocirc;nica, que o MST ocupou em 2014 com 3.500 fam&iacute;lias. Logo ap&oacute;s a ocupa&ccedil;&atilde;o, fui contatada pelo Movimento para mostrar o filme no rec&eacute;m formado acampamento Dom Tom&aacute;s Baldu&iacute;no, e dar um depoimento &agrave; <a href="http://www.mst.org.br/2014/10/13/a-boiada-de-eunicio.html">Carta Capital</a>*. Foi como um chamado, e muito rapidamente entendemos que tinha um filme a ser feito ali. Come&ccedil;amos pouco tempo depois a pesquisar e a filmar por conta pr&oacute;pria, ao mesmo tempo em que inscrev&iacute;amos o projeto em editais.</p>
+<p>&nbsp;</p>
+
+<p>Nesse in&iacute;cio de vida audiovisual tamb&eacute;m teve o Passarim, primeiro curta que fiz l&aacute; na regi&atilde;o onde cresci (Alex&acirc;nia/ Corumb&aacute; &ndash; Goi&aacute;s) sobre uma comunidade camponesa desmantelada pela press&atilde;o de um grande latifundi&aacute;rio que desde os anos 80 passou a adquirir todas as terras da regi&atilde;o &agrave; custa de amea&ccedil;as aos moradores, grilagem, tr&aacute;fico de influ&ecirc;ncias etc. Esse latifundi&aacute;rio &eacute; ningu&eacute;m menos que Eun&iacute;cio Oliveira, dono da Santa M&ocirc;nica, que o MST ocupou em 2014 com mais de 3.500 fam&iacute;lias. Logo ap&oacute;s a ocupa&ccedil;&atilde;o, fui contatada pelo Movimento para mostrar o filme no rec&eacute;m formado acampamento Dom Tom&aacute;s Baldu&iacute;no, e tamb&eacute;m dar um depoimento &agrave; Carta Capital*. Foi como um chamado, e muito rapidamente entendemos que tinha um filme a ser feito ali. Eu e amigos pr&oacute;ximos come&ccedil;amos pouco tempo depois a pesquisar e a filmar por conta pr&oacute;pria ao mesmo tempo em que inscrev&iacute;amos o projeto em editais.</p>
 
 <p><br />
 <strong>O que significa lan&ccedil;ar um filme em uma mostra internacional, enquanto no Brasil a luta popular &eacute; criminalizada?</strong><br />
