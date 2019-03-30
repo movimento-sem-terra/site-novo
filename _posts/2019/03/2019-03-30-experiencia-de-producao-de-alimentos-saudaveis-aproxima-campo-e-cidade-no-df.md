@@ -5,7 +5,7 @@ tags:
   - tag: assentamentos
   - tag: distrito-federal
   - tag: agroecologia-é-o-caminho
-title: "Experiência de produção de alimentos saudáveis aproxima campo e cidade, no DF"
+title: "Experiência com produção de alimentos saudáveis aproxima campo e cidade, no DF"
 support_line: "​Procurando aproximar a trocar experiências entre campo e cidade, o MST do Distrito Federal e Entorno realiza visita de campo com grupos urbanos de consumo responsáveis de cestas agroecológicas da Reforma Agrária e as famílias assentadas"
 menu: reforma agrária
 images_hd: //farm8.staticflickr.com/7853/47448618902_b8b32cfd03_b.jpg
