@@ -89,7 +89,7 @@ Al&eacute;m dos militantes do MST que se deslocaram para a cidade, moradores de 
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="WhatsApp Image 2019-03-30 at 18.42.00 (2).jpeg" height="250" src="//farm8.staticflickr.com/7877/47450369382_0971d91e43_b.jpg" width="500" />
-<figcaption>Trabalhadores do MST doam alimentos &agrave; popula&ccedil;&atilde;o de Sarandi-PR.</figcaption>
+<figcaption>Trabalhadores do MST doam alimentos &agrave; popula&ccedil;&atilde;o de Sarandi.</figcaption>
 </figure>
 
 <p>&quot;Buscamos debater com os trabalhadores sobre a necessidade e a urg&ecirc;ncia de se avan&ccedil;ar na Reforma Agr&aacute;ria como sa&iacute;da para a crise social e econ&ocirc;mica que aflige o povo pobre no Brasil. O MST aposta na organiza&ccedil;&atilde;o do povo, a partir de suas f&oacute;rmulas pr&oacute;prias, para a busca da supera&ccedil;&atilde;o da atual crise. Assembleias populares, semin&aacute;rios e o Congresso do Povo, dentre outros, s&atilde;o fundamentais para isso&rdquo;, garante Jo&atilde;o Fl&aacute;vio Borba.&nbsp;</p>
