@@ -51,7 +51,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por Solange Engelmann<br />
-Da P&aacute;gina do MST</em></p>
+Da&nbsp;P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
