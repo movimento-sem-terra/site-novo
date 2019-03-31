@@ -47,23 +47,29 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-03-30 at 18.41.58.jpeg" height="279" src="//farm8.staticflickr.com/7805/40537167963_fe26e45cc9_b.jpg" width="700" />
-<figcaption>Popula&ccedil;&atilde;o participou de&nbsp;atos ecum&ecirc;nicos antes da distribui&ccedil;&atilde;o dos alimentos.</figcaption>
+<figcaption>A popula&ccedil;&atilde;o participou de&nbsp;atos ecum&ecirc;nicos antes da distribui&ccedil;&atilde;o dos alimentos.</figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
 
 <p><em>Por reda&ccedil;&atilde;o/Setor de Comunica&ccedil;&atilde;o MST-PR (texto e fotos)<br />
 D&aacute; P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Entre arroz, mandioca, a&ccedil;&uacute;car mascavo, frutas e derivados de leite, cerca de 4 toneladas de alimentos foram doados pelo MST para a popula&ccedil;&atilde;o da periferia do munic&iacute;pio de Sarandi, na regi&atilde;o noroeste do Paran&aacute;, neste s&aacute;bado (30).&nbsp;</p>
+Entre arroz, mandioca, a&ccedil;&uacute;car mascavo, frutas e derivados de leite, cerca de 4 toneladas de alimentos foram doados pelo MST para a popula&ccedil;&atilde;o da periferia do munic&iacute;pio de Sarandi, na regi&atilde;o noroeste do Paran&aacute;, neste s&aacute;bado (30).&nbsp;<br />
+&nbsp;</p>
 
 <p>A organiza&ccedil;&atilde;o do mutir&atilde;o batizou a atividade de &quot;Jornada Solid&aacute;ria da Reforma Agr&aacute;ria Popular&quot;, que envolveu cerca de 40 comunidades de assentamentos e acampamentos na regi&atilde;o, de mais de 15 munic&iacute;pios.&nbsp;</p>
 
-<p>O integrante da coordena&ccedil;&atilde;o do MST no Paran&aacute;, Jo&atilde;o Fl&aacute;vio Borba, conta que o objetivo do mutir&atilde;o &eacute; dialogar com o povo por meio da produ&ccedil;&atilde;o diversificada de alimentos e tratar da import&acirc;ncia da alimenta&ccedil;&atilde;o para atender as necessidades das pessoas. &ldquo;Um ato de solidariedade, seja na forma de distribui&ccedil;&atilde;o de alimentos, seja de outras tantas maneiras, n&atilde;o &eacute; fruto de milagre, &eacute; resultado das diversas formas de organiza&ccedil;&atilde;o dos trabalhadores e das trabalhadoras&quot;, afirma.</p>
+<p><br />
+O integrante da coordena&ccedil;&atilde;o do MST no Paran&aacute;, Jo&atilde;o Fl&aacute;vio Borba, conta que o objetivo do mutir&atilde;o &eacute; dialogar com o povo por meio da produ&ccedil;&atilde;o diversificada de alimentos e tratar da import&acirc;ncia da alimenta&ccedil;&atilde;o para atender as necessidades das pessoas. &ldquo;Um ato de solidariedade, seja na forma de distribui&ccedil;&atilde;o de alimentos, seja de outras tantas maneiras, n&atilde;o &eacute; fruto de milagre, &eacute; resultado das diversas formas de organiza&ccedil;&atilde;o dos trabalhadores e das trabalhadoras&quot;, afirma.</p>
 
-<p>Lideran&ccedil;as de associa&ccedil;&otilde;es de bairro e de outras organiza&ccedil;&otilde;es ligadas &agrave;s par&oacute;quias organizaram e cadastraram as fam&iacute;lias que receberam as cerca de 600 cestas doadas pelo MST. A distribui&ccedil;&atilde;o atingiu todos os bairros de Sarandi, com cerca de 100 mil habitantes e localizada na regi&atilde;o metropolitana de Maring&aacute;.&nbsp;</p>
+<p><br />
+Lideran&ccedil;as de associa&ccedil;&otilde;es de bairro e de outras organiza&ccedil;&otilde;es ligadas &agrave;s par&oacute;quias organizaram e cadastraram as fam&iacute;lias que receberam as cerca de 600 cestas doadas pelo MST. A distribui&ccedil;&atilde;o atingiu todos os bairros de Sarandi, com cerca de 100 mil habitantes e localizada na regi&atilde;o metropolitana de Maring&aacute;.&nbsp;</p>
 
-<p>Antes da distribui&ccedil;&atilde;o foram realizados dois atos ecum&ecirc;nicos. O primeiro ocorreu pela manh&atilde;, na Par&oacute;quia S&atilde;o Paulo Ap&oacute;stolo e tamb&eacute;m envolveu a Par&oacute;quia Santa Terezinha do Menino Jesus. No per&iacute;odo da tarde a cerim&ocirc;nia ocorreu na Par&oacute;quia Nossa Senhora da Esperan&ccedil;a, e contou com a participa&ccedil;&atilde;o da Par&oacute;quia Nossa Senhora das Gra&ccedil;as.<br />
+<p><br />
+Antes da distribui&ccedil;&atilde;o foram realizados dois atos ecum&ecirc;nicos. O primeiro ocorreu pela manh&atilde;, na Par&oacute;quia S&atilde;o Paulo Ap&oacute;stolo e tamb&eacute;m envolveu a Par&oacute;quia Santa Terezinha do Menino Jesus. No per&iacute;odo da tarde a cerim&ocirc;nia ocorreu na Par&oacute;quia Nossa Senhora da Esperan&ccedil;a, e contou com a participa&ccedil;&atilde;o da Par&oacute;quia Nossa Senhora das Gra&ccedil;as.<br />
 &nbsp;</p>
 
 <div style="text-align:center">
