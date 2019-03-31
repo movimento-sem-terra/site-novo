@@ -54,7 +54,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por reda&ccedil;&atilde;o/Setor de Comunica&ccedil;&atilde;o MST-PR (texto e fotos)<br />
-D&aacute; P&aacute;gina do MST&nbsp;</em></p>
+Da&nbsp;P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 Entre arroz, mandioca, a&ccedil;&uacute;car mascavo, frutas e derivados de leite, cerca de 4 toneladas de alimentos foram doados pelo MST para a popula&ccedil;&atilde;o da periferia do munic&iacute;pio de Sarandi, na regi&atilde;o noroeste do Paran&aacute;, neste s&aacute;bado (30).&nbsp;<br />
