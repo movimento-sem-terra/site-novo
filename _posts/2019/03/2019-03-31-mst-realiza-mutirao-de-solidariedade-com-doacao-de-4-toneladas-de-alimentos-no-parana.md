@@ -88,7 +88,7 @@ Al&eacute;m dos militantes do MST que se deslocaram para a cidade, moradores de 
 <p>O mutir&atilde;o de solidariedade integrou as a&ccedil;&otilde;es do Congresso do Povo, uma proposta de sa&iacute;da popular para crise pela qual o Brasil passa. Em meio ao cen&aacute;rio de fragilidade da democracia, de crise econ&ocirc;mica e pol&iacute;tica, essa iniciativa pretende promover junto &agrave; popula&ccedil;&atilde;o processos de organiza&ccedil;&atilde;o, forma&ccedil;&atilde;o e mobiliza&ccedil;&atilde;o.&nbsp;<br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="WhatsApp Image 2019-03-30 at 18.42.00 (2).jpeg" height="225" src="//farm8.staticflickr.com/7877/47450369382_0971d91e43_b.jpg" width="450" />
+<figure class="image" style="float:right"><img alt="WhatsApp Image 2019-03-30 at 18.42.00 (2).jpeg" height="250" src="//farm8.staticflickr.com/7877/47450369382_0971d91e43_b.jpg" width="500" />
 <figcaption>Trabalhadores do MST doam alimentos &agrave; popula&ccedil;&atilde;o de Sarandi-PR.</figcaption>
 </figure>
 
