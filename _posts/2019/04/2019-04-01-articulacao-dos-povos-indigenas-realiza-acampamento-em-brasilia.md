@@ -105,4 +105,8 @@ Para o ATL 2019 que j&aacute; &eacute; a principal e a maior Assembleia dos povo
 APOINME &ndash; ARPIN SUDESTE &ndash; ARPINSUL &ndash; COMISS&Atilde;O GUARANI YVYRUPA &ndash; CONSELHO DO POVO TERENA &ndash; ATY GUASU &ndash; COIAB<br />
 &nbsp;</p>
 
-<p style="text-align: right;">Bras&iacute;lia, 1 de abril de 2019</p>
+<p style="text-align: right;">Bras&iacute;lia, 1 de abril de 2019<br />
+<br />
+&nbsp;</p>
+
+<p>Editado por Fernanda Alc&acirc;ntara</p>
