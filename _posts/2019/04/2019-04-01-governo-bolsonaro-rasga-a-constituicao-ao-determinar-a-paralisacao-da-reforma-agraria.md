@@ -63,14 +63,14 @@ Desta vez, o texto exige a &ldquo;expressa suspens&atilde;o&rdquo; das vistorias
 
 <p><br />
 <br />
-Essa &eacute; a segunda vez neste ano que o Incra lan&ccedil;a m&atilde;o de memorandos para suspender procedimentos de Reforma Agr&aacute;ria em todo pa&iacute;s, a primeira, que aconteceu tr&ecirc;s dias ap&oacute;s a posse de Jair Bolsonaro (PSL),&nbsp; determinava a <a href="http://www.mst.org.br/2019/01/08/bolsonaro-da-primeiro-passo-em-direcao-a-extincao-da-reforma-agraria.html">interrup&ccedil;&atilde;o tempor&aacute;ria de todos os processos de aquisi&ccedil;&atilde;o, desapropria&ccedil;&atilde;o ou outra forma de obten&ccedil;&atilde;o de terras para o programa nacional de reforma agr&aacute;ria</a>.&nbsp;</p>
+Essa &eacute; a segunda vez neste ano que o Incra lan&ccedil;a m&atilde;o de memorandos para suspender procedimentos de Reforma Agr&aacute;ria em todo pa&iacute;s. A primeira, que aconteceu tr&ecirc;s dias ap&oacute;s a posse de Jair Bolsonaro (PSL), determinava a <a href="http://www.mst.org.br/2019/01/08/bolsonaro-da-primeiro-passo-em-direcao-a-extincao-da-reforma-agraria.html">interrup&ccedil;&atilde;o tempor&aacute;ria de todos os processos de aquisi&ccedil;&atilde;o, desapropria&ccedil;&atilde;o ou outra forma de obten&ccedil;&atilde;o de terras para o programa nacional de reforma agr&aacute;ria</a>.&nbsp;</p>
 
 <p style="line-height: 15.6px;"><br />
 <br />
 Sem as vistorias do Incra n&atilde;o &eacute; poss&iacute;vel realizar a desapropria&ccedil;&atilde;o de terras para cria&ccedil;&atilde;o de novos assentamentos.</p>
 
 <p style="line-height: 15.6px;"><br />
-Para Kelli Mafort da dire&ccedil;&atilde;o nacional do MST, a posi&ccedil;&atilde;o do governo expressa no documento &eacute; de &ldquo;extrema&nbsp;irresponsabilidade&rdquo; uma vez que se apoia em incoer&ecirc;ncias para paralisar uma pol&iacute;tica p&uacute;blica constitucional.</p>
+Para Kelli Mafort, da dire&ccedil;&atilde;o nacional do MST, a posi&ccedil;&atilde;o do governo expressa no documento &eacute; de &ldquo;extrema&nbsp;irresponsabilidade&rdquo; uma vez que se apoia em incoer&ecirc;ncias para paralisar uma pol&iacute;tica p&uacute;blica constitucional.</p>
 
 <p><br />
 <br />
@@ -78,19 +78,19 @@ Para Kelli Mafort da dire&ccedil;&atilde;o nacional do MST, a posi&ccedil;&atild
 
 <p><br />
 <br />
-O documento cita ainda &agrave; redu&ccedil;&atilde;o prevista na <a href="https://www2.camara.leg.br/orcamento-da-uniao/leis-orcamentarias/loa">Lei Or&ccedil;ament&aacute;ria Anual</a> (LOA) de 2019 como um dos motivos para a suspens&atilde;o, o n&atilde;o cumprimento, segundo o &oacute;rg&atilde;o, acarretaria em &ldquo;responsabiliza&ccedil;&atilde;o por parte de &oacute;rg&atilde;os de controle&rdquo;.</p>
+O documento cita ainda &agrave; redu&ccedil;&atilde;o prevista na <a href="https://www2.camara.leg.br/orcamento-da-uniao/leis-orcamentarias/loa">Lei Or&ccedil;ament&aacute;ria Anual</a> (LOA) de 2019 como um dos motivos para a suspens&atilde;o. O n&atilde;o cumprimento, segundo o &oacute;rg&atilde;o, acarretaria em &ldquo;responsabiliza&ccedil;&atilde;o por parte de &oacute;rg&atilde;os de controle&rdquo;.</p>
 
 <p><br />
 <br />
-Vale ressaltar que entre 2018 e 2019, o or&ccedil;amento destinado &agrave; aquisi&ccedil;&atilde;o de im&oacute;veis rurais para a reforma agr&aacute;ria reduziu 50%, saindo de R$ 83,7 milh&otilde;es para R$ 42 milh&otilde;es. Em 2015, o valor destinado a aquisi&ccedil;&atilde;o de im&oacute;veis era de R$ 800 milh&otilde;es.</p>
+Vale ressaltar que entre 2018 e 2019 o or&ccedil;amento destinado &agrave; aquisi&ccedil;&atilde;o de im&oacute;veis rurais para a reforma agr&aacute;ria reduziu 50%, saindo de R$ 83,7 milh&otilde;es para R$ 42 milh&otilde;es. Em 2015, o valor destinado a aquisi&ccedil;&atilde;o de im&oacute;veis era de R$ 800 milh&otilde;es.</p>
 
 <p><br />
 <br />
-Alexandre Concei&ccedil;&atilde;o tamb&eacute;m da dire&ccedil;&atilde;o nacional do MST chama aten&ccedil;&atilde;o para a posi&ccedil;&atilde;o do atual governo de p&ocirc;r fim &agrave; Reforma Agr&aacute;ria.</p>
+Alexandre Concei&ccedil;&atilde;o, tamb&eacute;m da dire&ccedil;&atilde;o nacional do MST, chama aten&ccedil;&atilde;o para a posi&ccedil;&atilde;o do atual governo de p&ocirc;r fim &agrave; Reforma Agr&aacute;ria.</p>
 
 <p><br />
 <br />
-A proposta do governo para a Reforma Agr&aacute;ria &eacute; justamente n&atilde;o fazer a Reforma Agr&aacute;ria. Isso pode ser observado, quando ele coloca para presidir a pasta de regulariza&ccedil;&atilde;o fundi&aacute;ria, Nabhan Garcia, que &eacute; ningu&eacute;m menos do que um dos maiores latifundi&aacute;rios do Brasil. Al&eacute;m disso, ao nomear generais, ele transforma o Incra em um quartel. A Reforma Agr&aacute;ria n&atilde;o &eacute; uma quest&atilde;o militar, &eacute; de justi&ccedil;a social e de desenvolvimento.</p>
+&quot;A proposta do governo para a Reforma Agr&aacute;ria &eacute; justamente n&atilde;o fazer a Reforma Agr&aacute;ria. Isso pode ser observado, quando ele coloca para presidir a pasta de regulariza&ccedil;&atilde;o fundi&aacute;ria, Nabhan Garcia, que &eacute; ningu&eacute;m menos do que um dos maiores latifundi&aacute;rios do Brasil. Al&eacute;m disso, ao nomear generais, ele transforma o Incra em um quartel. A Reforma Agr&aacute;ria n&atilde;o &eacute; uma quest&atilde;o militar, &eacute; de justi&ccedil;a social e de desenvolvimento.&quot;</p>
 
 <p><br />
 <br />
