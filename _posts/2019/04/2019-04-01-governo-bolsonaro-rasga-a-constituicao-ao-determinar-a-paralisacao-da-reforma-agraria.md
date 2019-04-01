@@ -94,7 +94,7 @@ A proposta do governo para a Reforma Agr&aacute;ria &eacute; justamente n&atilde
 
 <p><br />
 <br />
-J&aacute; sobre a alega&ccedil;&atilde;o de falta de recursos ele completa: &ldquo;&Eacute; falta a afirma&ccedil;&atilde;o de que n&atilde;o existe dinheiro para Reforma Agr&aacute;ria no Brasil. Por que que ao inv&eacute;s de perdoar a d&iacute;vida de 17 bilh&otilde;es dos latifundi&aacute;rios, o governo n&atilde;o usa esse dinheiro, que seria mas do que suficiente, para fazer a Reforma Agr&aacute;ria?&rdquo;</p>
+J&aacute; sobre a alega&ccedil;&atilde;o de falta de recursos Concei&ccedil;&atilde;o&nbsp;completa: &ldquo;&Eacute; falta a afirma&ccedil;&atilde;o de que n&atilde;o existe dinheiro para Reforma Agr&aacute;ria no Brasil. Por que que ao inv&eacute;s de perdoar a d&iacute;vida de 17 bilh&otilde;es dos latifundi&aacute;rios, o governo n&atilde;o usa esse dinheiro, que seria mas do que suficiente, para fazer a Reforma Agr&aacute;ria?&rdquo;</p>
 
 <p><br />
 <br />
