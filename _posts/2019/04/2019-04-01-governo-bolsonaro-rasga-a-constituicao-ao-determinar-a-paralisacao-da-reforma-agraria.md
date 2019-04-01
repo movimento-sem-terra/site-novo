@@ -59,19 +59,18 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 <br />
-Desta vez, o texto exige a &ldquo;expressa suspens&atilde;o&rdquo; das vistorias nos im&oacute;veis rurais, sob alega&ccedil;&atilde;o de &ldquo;insufici&ecirc;ncia de recursos or&ccedil;ament&aacute;rios&rdquo;. Dentre outras coisas, o texto fala em &ldquo;inconsist&ecirc;ncias&rdquo; nos dados do Sistema de Informa&ccedil;&otilde;es de Projetos de Reforma Agr&aacute;ria (SIPRA) para a paralisa&ccedil;&atilde;o.</p>
+Desta vez, o texto exige a &ldquo;expressa suspens&atilde;o&rdquo; das vistorias nos im&oacute;veis rurais, sob alega&ccedil;&atilde;o de &ldquo;insufici&ecirc;ncia de recursos or&ccedil;ament&aacute;rios&rdquo;. O&nbsp;documento&nbsp;fala em &ldquo;inconsist&ecirc;ncias&rdquo; nos dados do Sistema de Informa&ccedil;&otilde;es de Projetos de Reforma Agr&aacute;ria (SIPRA) para a paralisa&ccedil;&atilde;o.</p>
 
 <p><br />
+<br />
+Essa &eacute; a segunda vez neste ano que o Incra lan&ccedil;a m&atilde;o de memorandos para suspender procedimentos de Reforma Agr&aacute;ria em todo pa&iacute;s, a primeira, que aconteceu tr&ecirc;s dias ap&oacute;s a posse de Jair Bolsonaro (PSL),&nbsp; determinava a <a href="http://www.mst.org.br/2019/01/08/bolsonaro-da-primeiro-passo-em-direcao-a-extincao-da-reforma-agraria.html">interrup&ccedil;&atilde;o tempor&aacute;ria de todos os processos de aquisi&ccedil;&atilde;o, desapropria&ccedil;&atilde;o ou outra forma de obten&ccedil;&atilde;o de terras para o programa nacional de reforma agr&aacute;ria</a>.&nbsp;</p>
+
+<p style="line-height: 15.6px;"><br />
 <br />
 Sem as vistorias do Incra n&atilde;o &eacute; poss&iacute;vel realizar a desapropria&ccedil;&atilde;o de terras para cria&ccedil;&atilde;o de novos assentamentos.</p>
 
-<p><br />
-<br />
-Essa &eacute; a segunda vez neste ano que o Incra lan&ccedil;a m&atilde;o de memorandos para suspender procedimentos de Reforma Agr&aacute;ria em todo pa&iacute;s, a primeira, que aconteceu tr&ecirc;s dias ap&oacute;s a posse de Jair Bolsonaro (PSL), determinava a <a href="http://www.mst.org.br/2019/01/08/bolsonaro-da-primeiro-passo-em-direcao-a-extincao-da-reforma-agraria.html">interrup&ccedil;&atilde;o tempor&aacute;ria de todos os processos de aquisi&ccedil;&atilde;o, desapropria&ccedil;&atilde;o ou outra forma de obten&ccedil;&atilde;o de terras para o programa nacional de reforma agr&aacute;ria</a>.</p>
-
-<p>&nbsp;</p>
-
-<p>Para Kelli Mafort da dire&ccedil;&atilde;o nacional do MST, a posi&ccedil;&atilde;o do governo expressa no documento &eacute; de &ldquo;extrema&nbsp;irresponsabilidade&rdquo; uma vez que se apoia em incoer&ecirc;ncias para paralisar uma pol&iacute;tica p&uacute;blica constitucional.</p>
+<p style="line-height: 15.6px;"><br />
+Para Kelli Mafort da dire&ccedil;&atilde;o nacional do MST, a posi&ccedil;&atilde;o do governo expressa no documento &eacute; de &ldquo;extrema&nbsp;irresponsabilidade&rdquo; uma vez que se apoia em incoer&ecirc;ncias para paralisar uma pol&iacute;tica p&uacute;blica constitucional.</p>
 
 <p><br />
 <br />
