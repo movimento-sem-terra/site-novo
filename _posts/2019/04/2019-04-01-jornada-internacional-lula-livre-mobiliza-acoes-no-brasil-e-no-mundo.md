@@ -23,6 +23,8 @@ releated_posts:
   - _posts/2019/01/2019-01-29-nobel-da-paz-para-lula-tem-500-mil-assinaturas-a-dois-dias-do-encerramento.md
   - _posts/2019/02/2019-02-08-apos-condenacao-injusta-atos-por-lula-livre-acontecem-em-todo-pais.md
   - _posts/2019/02/2019-02-21-mais-de-600-mil-pessoas-ja-apoiam-lula-como-nobel-da-paz.md
+section: featured-news
+special-page: marcha-nacional-lula-livre
 
 ---
 <p>A data em que a pris&atilde;o pol&iacute;tica de Luiz In&aacute;cio Lula da Silva completa um ano ser&aacute; motivo de protestos no Brasil e no mundo. Atos em defesa da liberdade de Lula v&atilde;o acontecer em todo Brasil e em mais de 15 pa&iacute;ses. O dia 7 de abril marca o in&iacute;cio dos atos do movimento Lula Livre.<br />
