@@ -29,6 +29,7 @@ created_date: "2019-03-31T20:10:34-03:00"
 published: true
 releated_posts:
   - _posts/2019/03/2019-03-30-em-conferencia-movimentos-debatem-pauta-e-repensam-atuacao-em-novo-ciclo-politico.md
+section: cover
 
 ---
 <div style="text-align:center">
@@ -74,7 +75,7 @@ O chamado &ldquo;Pacote Anticrime de Moro&rdquo; significa o aumento das medidas
 Trata-se de recolocar no centro da luta pol&iacute;tica a necessidade de um projeto popular, feminista, antihomof&oacute;bico e antirracista, que garanta o desenvolvimento e soberania nacional e hegemonia das for&ccedil;as populares. Um projeto centrado na sustentabilidade da vida, e n&atilde;o no lucro. Isto exige uma for&ccedil;a, um ac&uacute;mulo no debate program&aacute;tico e, ao mesmo tempo, ac&uacute;mulo de for&ccedil;as populares organizadas.</p>
 
 <p><br />
-Os desafios da FBP na atual conjuntura</p>
+<strong>Os desafios da FBP na atual conjuntura</strong></p>
 
 <p><br />
 O fortalecimento da Frente Brasil Popular e de a&ccedil;&atilde;o das Frentes, dos partidos pol&iacute;ticos, centrais sindicais e movimentos sociais que a comp&otilde;em s&atilde;o elementos essenciais.</p>
