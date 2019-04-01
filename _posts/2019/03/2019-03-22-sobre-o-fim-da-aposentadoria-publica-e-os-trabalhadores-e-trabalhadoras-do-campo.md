@@ -8,7 +8,7 @@ title: Sobre o fim da aposentadoria pública e os trabalhadores e trabalhadoras 
 images_hd: //farm8.staticflickr.com/7915/47441805351_f2a55ec414_b.jpg
 support_line: Querem criar a ideia de que existe um rombo na previdência e que os trabalhadores rurais são os grandes culpados
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm8.staticflickr.com/7915/47441805351_f2a55ec414_b.jpg
@@ -26,6 +26,7 @@ releated_posts:
   - _posts/2019/02/2019-02-25-a-cruel-demolicao-da-previdencia-social.md
   - _posts/2019/03/2019-03-21-conheca-5-alternativas-a-reforma-da-previdencia.md
   - _posts/2019/03/2019-03-21-10-motivos-para-o-trabalhador-ser-contra-a-reforma-da-previdencia-proposta-pelo-governo-bolsonaro.md
+label: articles
 
 ---
 <p>&nbsp;</p>
