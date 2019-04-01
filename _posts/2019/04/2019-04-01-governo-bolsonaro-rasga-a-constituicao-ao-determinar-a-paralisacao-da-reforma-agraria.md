@@ -101,3 +101,5 @@ J&aacute; sobre a alega&ccedil;&atilde;o de falta de recursos Concei&ccedil;&ati
 O dirigente tamb&eacute;m lembra o papel constitucional do Incra. Esse memorando &eacute; mais uma medida inconstitucional, fruto de um governo despreparado. O papel da ocupa&ccedil;&atilde;o &eacute; identificar os latif&uacute;ndios, j&aacute; o do Incra &eacute; realizar vistorias e determinar ou n&atilde;o a fun&ccedil;&atilde;o da terra. A n&atilde;o realiza&ccedil;&atilde;o desse processo s&oacute; nos mostra o quanto ainda teremos que lutar para conseguir assentar todas as fam&iacute;lias Sem Terra dese pa&iacute;s&rdquo;, finaliza.</p>
 
 <p>&nbsp;</p>
+
+<p>Editado por Fernanda Alc&acirc;ntara</p>
