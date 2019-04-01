@@ -27,6 +27,13 @@ section: featured-news
 special-page: marcha-nacional-lula-livre
 
 ---
+<p>&nbsp;</p>
+
+<p><em>Por Comit&ecirc; Nacional Lula Livre<br />
+Da P&aacute;gina do MST</em></p>
+
+<p>&nbsp;</p>
+
 <p>A data em que a pris&atilde;o pol&iacute;tica de Luiz In&aacute;cio Lula da Silva completa um ano ser&aacute; motivo de protestos no Brasil e no mundo. Atos em defesa da liberdade de Lula v&atilde;o acontecer em todo Brasil e em mais de 15 pa&iacute;ses. O dia 7 de abril marca o in&iacute;cio dos atos do movimento Lula Livre.<br />
 &nbsp;</p>
 
@@ -185,143 +192,143 @@ No exterior</p>
 - Ato do Coletivo pelos Direitos no Brasil<br />
 Dia 7 de Abril<br />
 Hor&aacute;rio: 13:30h<br />
-Plaza Tirso de Molina, Madri, 🇪🇸<br />
+Plaza Tirso de Molina, Madri<br />
 &nbsp;</p>
 
 <p><strong>2. Deutsche Initiative Lula Livre</strong><br />
 Ato Mundial pela liberdade de Lula<br />
 Dia: 7 de Abril<br />
 Hor&aacute;rio:&nbsp; 15h &agrave;s 17h.<br />
-Local: Marienplatz - Munique 🇩🇪<br />
+Local: Marienplatz - Munique<br />
 &nbsp;</p>
 
 <p><strong>3. Comit&ecirc; parisiense de Solidariedade a Lula</strong><br />
 - Ato pela liberdade de Lula<br />
 Dia: 7 de abril, domingo<br />
-Hor&aacute;rio: 15h a 18h👊🏼✊🏼<br />
-Local: Esplanada do Trocad&eacute;ro, Paris 🇫🇷<br />
+Hor&aacute;rio: 15h a 18h<br />
+Local: Esplanada do Trocad&eacute;ro, Paris<br />
 &nbsp;</p>
 
 <p><strong>4. Deutsche Initiative Lula Livre -</strong><br />
 - Kundgebung Freiheit f&uuml;r Lula (Ato Lula Livre)<br />
 Dia: 7 de Abril, domingo<br />
 Hor&aacute;rio: 16h a 18 h<br />
-Local: Herrmannplatz, 10967, Neuk&ouml;lln, Berlim 🇩🇪<br />
+Local: Herrmannplatz, 10967, Neuk&ouml;lln, Berlim<br />
 &nbsp;</p>
 
 <p><strong>5. Jornada Mundial Lula Livre/Marielle Presente</strong><br />
 - Dill: Deutsche Initiative Lula Livre<br />
 Dia: 7/4<br />
 Hor&aacute;rio: 15h &agrave;s 18h<br />
-Local: Ecke Poststr/An der Suerst, Bonn 🇩🇪<br />
+Local: Ecke Poststr/An der Suerst, Bonn<br />
 &nbsp;</p>
 
 <p><strong>6. N&uacute;cleo PT Lisboa</strong><br />
 - 365 dias de injusti&ccedil;a<br />
 Data: 7/04<br />
 Hor&aacute;rio: 16 hr.<br />
-Local: Largo Luiz Cam&otilde;es , 1200-234, Lisboa&nbsp; 🇵🇹<br />
+Local: Largo Luiz Cam&otilde;es , 1200-234, Lisboa&nbsp;<br />
 &nbsp;</p>
 
 <p><strong>7. Vozes do Mundo</strong><br />
 - Ato por Lula Livre<br />
 Data: 7/04<br />
 Hor&aacute;rio: 16 hr. as 19 hr.<br />
-Local: Pra&ccedil;a 8 de Maio, 8, 3000-300, Coimbra 🇵🇹<br />
+Local: Pra&ccedil;a 8 de Maio, 8, 3000-300, Coimbra<br />
 &nbsp;</p>
 
 <p><strong>8. Deutsche Initiative Lula Livre</strong><br />
 - Ato Mundial Lula Livre<br />
 Data: 07/04<br />
 Hor&aacute;rio: 16h &agrave;s 18h<br />
-Local: R&ouml;merberg, Frankfurt&nbsp; 🇩🇪<br />
+Local: R&ouml;merberg, Frankfurt&nbsp;<br />
 &nbsp;</p>
 
 <p><strong>9. Comit&ecirc; Lula Livre UK</strong><br />
 - FREE LULA &lsquo;Free Lula London Tour&rsquo;<br />
 Data: 07/04<br />
 Hor&aacute;rio: 13h30 hr<br />
-Local: Embaixada do Brasil em Londres 🇬🇧<br />
+Local: Embaixada do Brasil em Londres<br />
 &nbsp;</p>
 
 <p><strong>10. Lula Livre em K&ouml;ln</strong><br />
 Brasil em Debate Col&ocirc;nia<br />
 Data: 7/4<br />
 Hor&aacute;rio: 13h &agrave;s 15h<br />
-Local: K&ouml;ln Domplatte, Col&ocirc;nia 🇩🇪<br />
+Local: K&ouml;ln Domplatte, Col&ocirc;nia<br />
 &nbsp;</p>
 
 <p><strong>11. Rassemblement pour Lula</strong><br />
 Comit&ecirc; Lula Livre Genebra<br />
 Data: 7/04<br />
 Hor&aacute;rio: 15h &agrave;s 17h<br />
-Local: Place des Nations, 1202, Genebra&nbsp; 🇨🇭<br />
+Local: Place des Nations, 1202, Genebra&nbsp;<br />
 &nbsp;</p>
 
 <p><strong>12. Coletivo Bologna per la Democrazia in Brasile</strong><br />
 Ato Mundial Lula Livre<br />
 Data: 7/04<br />
 Horario: 17:00 horas<br />
-Local: Piazza Nettuno, 40123, Bolonha&nbsp; 🇮🇹<br />
+Local: Piazza Nettuno, 40123, Bolonha&nbsp;<br />
 &nbsp;</p>
 
 <p><strong>13. Lula livre- The fight to free Lula and regain democracy in Brazil</strong><br />
 Coletivos BRADO/DDB/Mulheres da resist&ecirc;ncia no Exterior/<br />
 Dia: 6/04<br />
 Horario: 6:30pm<br />
-Local: 320W 37th ST NY, 🇺🇸<br />
+Local: 320W 37th ST NY,<br />
 &nbsp;</p>
 
 <p><strong>14. Coletivo Amsterdam pela Democracia no Brasil</strong><br />
 Ato Mundial Lula Livre<br />
 Data: 7/04<br />
 Hor&aacute;rio: 14:00 horas<br />
-Local: Praca De Dam, Amsterd&atilde; 🇳🇱<br />
+Local: Praca De Dam, Amsterd&atilde;<br />
 &nbsp;</p>
 
 <p><strong>15. Deutsche Initiative Lula Livre</strong><br />
 Zusammen f&uuml;r Lula Livre Hamburg<br />
 Dia 7/4<br />
 Hor&aacute;rio: 11h &agrave;s 12h<br />
-Local: Landungsbr&uuml;cke, Hamburg 🇩🇪<br />
+Local: Landungsbr&uuml;cke, Hamburg<br />
 &nbsp;</p>
 
 <p><strong>16. Komitee Freiheit f&uuml;r Lula</strong><br />
 Pris&atilde;o de Lula e a Lava Jato - Palestra com Jess&eacute; de Souza<br />
 Data:09/04<br />
 Hor&aacute;rio: 18h-21h.<br />
-Kleine Alessandrstr, 28, 10178, Berlim 🇩🇪<br />
+Kleine Alessandrstr, 28, 10178, Berlim<br />
 &nbsp;</p>
 
 <p><strong>17. Ato Mundial Lula Lula Livre Barcelona</strong><br />
 Data: 7/4<br />
 Hor&aacute;rio: 12h &agrave;s 14h.<br />
-Local: Cascada Del Parque De La Ciudadela, Barcelona 🇪🇸<br />
+Local: Cascada Del Parque De La Ciudadela, Barcelona<br />
 &nbsp;</p>
 
 <p><strong>18. Comitato Italiano Lula Livre</strong><br />
 Atto di solidariet&agrave; per Lula<br />
 Data: 4/7<br />
 Hor&aacute;rio: 18h &agrave;s 20 h.<br />
-Local: Corso Italia, Roma 🇮🇹<br />
+Local: Corso Italia, Roma<br />
 &nbsp;</p>
 
 <p><strong>19. Pela Democracia, Lula Livre e pela vida de Marielle</strong><br />
 Data:07/04<br />
 Hor&aacute;rio: 15 &agrave;s 17<br />
-Local:&nbsp; Jens Kofods Gade 1, st th, 1268 Embaixada do Brasil em Copenhague 🇩🇰<br />
+Local:&nbsp; Jens Kofods Gade 1, st th, 1268 Embaixada do Brasil em Copenhague<br />
 &nbsp;</p>
 
 <p><strong>20. Jornada Mundial Lula Livre Melbourne</strong><br />
 Data: 7/4<br />
 Hor&aacute;rio: 17:15h &agrave;s 19h<br />
-Local: State Librabry of Victoria, 328 Swanston Street, Melbourne3000&nbsp; (Austr&aacute;lia) 🇦🇺<br />
+Local: State Librabry of Victoria, 328 Swanston Street, Melbourne3000&nbsp; (Austr&aacute;lia)<br />
 &nbsp;</p>
 
 <p><strong>21. Acto por Lula Livre Montevideo</strong><br />
 Data: 05/04<br />
 Hor&aacute;rio: 18h<br />
-Local: Plaza De La Bandera, Montevideo 🇺🇾<br />
+Local: Plaza De La Bandera, Montevideo<br />
 &nbsp;</p>
 
 <p><strong>23. Freedom for Lula, a politica prisoner</strong><br />
@@ -329,13 +336,13 @@ Estocolmo<br />
 Data: 06/04<br />
 Hor&aacute;rio: 17:00 as 20:00 horas<br />
 Local: Kungsgatan 84, Kungsholmen Stockholm, Sverige<br />
-Su&eacute;cia 🇸🇪<br />
+Su&eacute;cia<br />
 &nbsp;</p>
 
 <p><strong>24. Lula Livre - Free Lula Saint Louis</strong><br />
 Data: 07/04<br />
 Hor&aacute;rio: 14h &agrave;s 15 h.<br />
-6600 Delmar Blvd, University City, Mo 63130-4503 , Saint Louis 🇺🇸<br />
+6600 Delmar Blvd, University City, Mo 63130-4503 , Saint Louis<br />
 &nbsp;</p>
 
 <p><strong>25. Acto por la liberdad</strong><br />
@@ -343,14 +350,14 @@ Hor&aacute;rio: 14h &agrave;s 15 h.<br />
 - Coletivo Regina de Sena M&eacute;xico Brasil contra o Golpe<br />
 Data: 7/4<br />
 Hor&aacute;rio: 12h &agrave;s 13h<br />
-Local: &Aacute;ngel de la Independencia 06500 Cidade do M&eacute;xico 🇲🇽<br />
+Local: &Aacute;ngel de la Independencia 06500 Cidade do M&eacute;xico<br />
 &nbsp;</p>
 
 <p><strong>26.Ato Mundial Lula Livre</strong><br />
 Committe FreeLula &Aacute;ustria<br />
 Data: 7/4<br />
 Hor&aacute;rio: 15h &agrave;s 18h<br />
-Local: Stephansplatz, em frente &agrave; Vigilkapelle da Stephansdom - Viena 🇦🇹<br />
+Local: Stephansplatz, em frente &agrave; Vigilkapelle da Stephansdom - Viena<br />
 &nbsp;</p>
 
 <p><strong>27. &lsquo;Free Lula! For Democracy in Brazil&rsquo;</strong><br />
@@ -358,7 +365,7 @@ Brazi Liberation Front - Manchester UK<br />
 Data: 07/04<br />
 Hor&aacute;rio: 15h<br />
 Local: Picadilly Gardens<br />
-Manchester UK 🇬🇧<br />
+Manchester UK<br />
 &nbsp;</p>
 
 <p><strong>28. Pris&atilde;o de Lula e a Lava Jato c/ Jess&eacute; de Souza</strong><br />
@@ -366,7 +373,7 @@ Manchester UK 🇬🇧<br />
 Data: 9/7<br />
 Hor&aacute;rio: 18h &agrave;s 21:00<br />
 Local: Kleine Alexanderstr. 28, 10178<br />
-Berlim 🇩🇪<br />
+Berlim<br />
 &nbsp;</p>
 
 <p><strong>29. Cola&ccedil;&atilde;o Coletiva dos adesivos Lula Livre em Berlim</strong><br />
@@ -374,7 +381,7 @@ Berlim 🇩🇪<br />
 Data: 03-06/04<br />
 Hor&aacute;rio: &agrave; confirmar<br />
 Concentra&ccedil;&atilde;o: Port&atilde;o de Brandenburg<br />
-Berlim 🇩🇪 Kassel 🇩🇪 Frankfurt 🇩🇪<br />
+Berlim&nbsp; Kassel Frankfurt<br />
 &nbsp;</p>
 
 <p><strong>30.&nbsp; Aula aberta, show e exposi&ccedil;&atilde;o: Lula livre- The fight to free Lula and regain democracy in Brazil</strong><br />
@@ -382,13 +389,13 @@ Com o lan&ccedil;amento do Comit&ecirc; Lula Livre EUA - Free Lula Committee USA
 Organiza&ccedil;&atilde;o: The People&rsquo;s Forum, Comit&ecirc; Defend Democracy in Brazil, Coletivos Alerta, BRADO, Humanas e Mulheres da resist&ecirc;ncia no Exterior<br />
 Dia: 6/04<br />
 Horario: 18:30- 23hs<br />
-Local: 320 W. 37th ST , Nova York&nbsp; 🇺🇸<br />
+Local: 320 W. 37th ST , Nova York&nbsp;<br />
 &nbsp;</p>
 
 <p><strong>31. &lsquo;Ato Free Lula&rsquo;</strong><br />
 Data: 10/04<br />
 Hor&aacute;rio: 5h30<br />
-Local: Embaixada do BRASIL em Londres 🇬🇧<br />
+Local: Embaixada do BRASIL em Londres<br />
 &nbsp;</p>
 
 <p><strong>32. Exibi&ccedil;&atilde;o de Filme:</strong><br />
@@ -396,7 +403,7 @@ Local: Embaixada do BRASIL em Londres 🇬🇧<br />
 Data: 13/04<br />
 Hor&aacute;rio: 6pm<br />
 Local: Calders Bookshop,<br />
-51, The Cut, SE1 8LF Londres 🇬🇧<br />
+51, The Cut, SE1 8LF Londres<br />
 &nbsp;</p>
 
 <p><strong>33. Ato e Passeata Lula Livre</strong><br />
@@ -406,3 +413,7 @@ Hor&aacute;rio: 14hs<br />
 Local: Union Square &amp; 14th Street, Nova York</p>
 
 <p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Editado por Fernanda Alc&acirc;ntara</p>
