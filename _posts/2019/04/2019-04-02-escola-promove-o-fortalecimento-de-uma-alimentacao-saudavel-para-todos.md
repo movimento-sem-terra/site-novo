@@ -4,7 +4,7 @@ tags:
   - tag: agroecologia-é-o-caminho
   - tag: escola-do-campo
   - tag: bahia
-title: Escola promove o fortalecimento de uma alimentação saudável para todos
+title: Escola promove o fortalecimento de alimentação saudável para todos
 support_line: "A Escola do campo Estrela do Che, no extremo sul da Bahia incentiva a produção de alimento sem agrotóxico"
 menu: reforma agrária
 images_hd: //farm8.staticflickr.com/7832/33647673078_638eb9db0f_b.jpg
