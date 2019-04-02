@@ -34,17 +34,15 @@ releated_posts:
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="A_Localizacao_Ponta_abuna.png" height="457" src="//farm8.staticflickr.com/7828/33645758738_db896f0988_b.jpg" width="700" />
 <figcaption>A Ponta do Abun&atilde; fica pr&oacute;xima &agrave; tr&iacute;pice fronteira dos estados do Acre, Amazonas e Rond&ocirc;nia. Cr&eacute;dito: Google Maps<br />
-<br />
-</figcaption>
+&nbsp;</figcaption>
 </figure>
 </div>
 
 <p>&nbsp;</p>
 
 <p><em>Fonte: Assessoria de Comunica&ccedil;&atilde;o da CPT<br />
-Imagem: Reprodu&ccedil;&atilde;o/Internet</em></p>
-
-<p>&nbsp;</p>
+Imagem: Reprodu&ccedil;&atilde;o/Internet</em><br />
+&nbsp;</p>
 
 <p>Desde o &uacute;ltimo s&aacute;bado (30), informa&ccedil;&otilde;es sobre um massacre na regi&atilde;o de Ponta do Abun&atilde; come&ccedil;aram a circular nas redes sociais e aplicativos de troca de mensagens. A imprensa local noticia pelo menos quatro pessoas assassinadas, o que tamb&eacute;m &eacute; denunciado por algumas fam&iacute;lias de posseiros. Moradores da &aacute;rea tamb&eacute;m relatam o desaparecimento de v&aacute;rias pessoas.&nbsp;</p>
 
@@ -73,7 +71,8 @@ Devido as amea&ccedil;as de morte recentes e o longo hist&oacute;rico de conflit
 Na viol&ecirc;ncia do &uacute;ltimo s&aacute;bado, os posseiros denunciam a aus&ecirc;ncia do Estado no local do crime, o que aumenta, ainda mais a inseguran&ccedil;a de quem permanece no Seringal S&atilde;o Domingos ap&oacute;s o ataque dos pistoleiros. H&aacute; tamb&eacute;m v&aacute;rios relatos de pessoas desaparecidas que se abrigaram em matas para fugirem dos pistoleiros.</p>
 
 <p><br />
-<strong>Massacres</strong></p>
+<strong>Massacres</strong><br />
+&nbsp;</p>
 
 <p>Se forem confirmadas as quatro mortes no Seringal S&atilde;o Domingos, este ser&aacute; o 50&deg; massacre no campo brasileiro registrado pela CPT, e o terceiro massacre em apenas 10 dias. Neste ano, no dia 22 de mar&ccedil;o, tr&ecirc;s assentados foram assassinados no Assentamento Salvador Allende, no munic&iacute;pio de Bai&atilde;o, no Par&aacute;. Dois dias depois, a cerca de 14 quil&ocirc;metros do assentamento, um casal de caseiros e uma tratorista foram mortos numa fazenda.</p>
 
@@ -84,7 +83,8 @@ Todos as seis mortes teriam ocorrido a mando do grileiro Fernando Ferreira Rosa 
 Entre os anos de 1985 e 2019, a CPT registrou 49 massacres no campo com 230 v&iacute;timas.</p>
 
 <p><br />
-<strong>Regi&atilde;o conflituosa</strong></p>
+<strong>Regi&atilde;o conflituosa</strong><br />
+&nbsp;</p>
 
 <p>A Ponta do Abun&atilde; &eacute; uma regi&atilde;o circundada por grandes empreendimentos, como a Usina Hidrel&eacute;trica de Jirau, e por in&uacute;meras riquezas naturais, tais como a Floresta Nacional do Iquiri, a Reserva Extrativista Itux&iacute;, o Parque Nacional Mapinguari, a Floresta Nacional do Bom Futuro, o Parque Estadual de Guajar&aacute;-Mirim, al&eacute;m de contar com as &aacute;guas do Rio Madeira e tamb&eacute;m est&aacute; pr&oacute;xima &agrave; fronteira com a Bol&iacute;via.</p>
 
