@@ -29,7 +29,7 @@ created_date: "2019-03-31T20:10:34-03:00"
 published: true
 releated_posts:
   - _posts/2019/03/2019-03-30-em-conferencia-movimentos-debatem-pauta-e-repensam-atuacao-em-novo-ciclo-politico.md
-section: cover
+section: featured-news
 
 ---
 <div style="text-align:center">
