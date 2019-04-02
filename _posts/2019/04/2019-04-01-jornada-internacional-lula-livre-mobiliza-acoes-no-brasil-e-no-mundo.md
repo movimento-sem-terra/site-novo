@@ -23,7 +23,7 @@ releated_posts:
   - _posts/2019/01/2019-01-29-nobel-da-paz-para-lula-tem-500-mil-assinaturas-a-dois-dias-do-encerramento.md
   - _posts/2019/02/2019-02-08-apos-condenacao-injusta-atos-por-lula-livre-acontecem-em-todo-pais.md
   - _posts/2019/02/2019-02-21-mais-de-600-mil-pessoas-ja-apoiam-lula-como-nobel-da-paz.md
-section: featured-news
+section: cover
 special-page: marcha-nacional-lula-livre
 
 ---
