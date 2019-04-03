@@ -61,20 +61,30 @@ releated_posts:
 
 ---
 <p><br />
-<em>Por Ant&ocirc;nio Carlos Luz<br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG-20190401-WA0037.jpg" height="525" src="//farm8.staticflickr.com/7870/46807284004_65241fef75_b.jpg" width="700" />
+<figcaption><em>Primeira turma de Geografia Agr&aacute;ria</em></figcaption>
+</figure>
+</div>
+
+<p><em>Por Ant&ocirc;nio Carlos Luz<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Iniciada em 2015, a&nbsp; primeira turma de Geografia Agr&aacute;ria do Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (Pronera) tinha entre os alunos camponeses, quilombolas e ribeirinhos de v&aacute;rios munic&iacute;pios do estado do Par&aacute;.</p>
+Iniciada em 2015, a primeira turma de Geografia Agr&aacute;ria do Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (Pronera) tinha entre os alunos camponeses, quilombolas e ribeirinhos de v&aacute;rios munic&iacute;pios do estado do Par&aacute;.</p>
 
 <p><br />
-A turma enfrentou v&aacute;rios desafios ao longo da jornada de estudos, mas a capacidade de supera&ccedil;&atilde;o foi marca presente nessa experi&ecirc;ncia e aproximou mais a universidade dos movimentos sociais.<br />
+A turma enfrentou v&aacute;rios desafios ao longo da jornada de estudos, mas a capacidade de supera&ccedil;&atilde;o foi marca presente nessa experi&ecirc;ncia e aproximou mais a universidade dos movimentos sociais.</p>
+
+<p><br />
 &ldquo;Foram 85 jovens defendendo seus trabalhos no prazo exigido pela universidade. Nem um outro curso de Geografia consegue ter um aproveitamento assim&rdquo;, afirmou Adolfo Oliveira Neto, professor da Faculdade de Geografia e Cartografia da Ufpa e um dos coordenadores do curso.</p>
 
 <p><br />
 Entre os in&uacute;meros desafios enfrentados pelos educandos, destacam-se a falta de bolsas, salas de aulas dispon&iacute;veis,&nbsp; dinheiro e alojamento, lembra Adolfo: &ldquo;Em muitos momentos eles pensaram em desistir, mas o trabalho coletivo, a pedagogia da altern&acirc;ncia e o acompanhamento do movimento social, em especial o MST, fez com que cheg&aacute;ssemos com um n&uacute;mero incr&iacute;vel de concluintes&rdquo;, comentou.</p>
 
-<p><br />
+<p><img alt="IMG-20190401-WA0037.jpg" src="//farm8.staticflickr.com/7870/46807284004_65241fef75_b.jpg" /><br />
 A partir do curso, os jovens passaram a se reconhecer ainda mais com o campo e foram desafiados a se organizar em seus territ&oacute;rios e suas comunidades, contrapondo-se aos grandes projetos do capital na Amaz&ocirc;nia.</p>
 
 <p><br />
