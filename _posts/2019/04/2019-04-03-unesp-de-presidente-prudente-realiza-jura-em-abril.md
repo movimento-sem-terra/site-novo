@@ -31,7 +31,7 @@ files:
     title: JURA Presidente Prudente.png
     $$hashKey: 05F
 created_date: "2019-04-03T12:28:19-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/06/2018-06-18-ufes-realiza-jornada-universitaria-em-defesa-da-reforma-agraria.md
   - _posts/2019/03/2019-03-26-movimentos-camponeses-ocupam-espacos-da-uffs-com-o-debate-da-reforma-agraria.md
@@ -64,11 +64,22 @@ releated_posts:
 <p>Em 2014, mais de 40 Universidades e Institutos Federais realizaram suas Jornadas Universit&aacute;rias em Defesa da Reforma Agr&aacute;ria. Nos anos seguintes, aumentou o n&uacute;mero de Institutos de Ensino Superior (IES) a partircipar da atividade e, em 2018, mais de 60 IES realizaram a JURA em seus espa&ccedil;os.<br />
 &nbsp;</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="JURA Presidente Prudente.png" height="990" src="//farm8.staticflickr.com/7875/47529781891_23981fb685_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
 <p>O coletivo da FCT/UNESP de Presidente Prudente come&ccedil;ou a organizar as JURAs no ano de 2016. A segunda edi&ccedil;&atilde;o do JURA em Presidente Prudente aconteceu nos dias 26 e 27 de abril de 2017, com o tema &ldquo;Reforma Agr&aacute;ria e a Criminaliza&ccedil;&atilde;o dos Movimentos Sociais&rdquo;. J&aacute; a edi&ccedil;&atilde;o, realizada no dia 25 de abril de 2018, foi instalada na Pra&ccedil;a dos Tamarindos, e fez uma defesa &agrave; democracia com a tem&aacute;tica &ldquo;Em defesa da Educa&ccedil;&atilde;o P&uacute;blica em tempos de golpe&rdquo;.<br />
 &nbsp;</p>
 
-<p>A JURA foi apresentada como demanda da Dire&ccedil;&atilde;o Regional de MST a um coletivo da FCT/UNESP, composto, sobretudo, por estudantes e professores do Centro de Estudos de Geografia do Trabalho (CEGeT) e do N&uacute;cleo de Estudos, Pesquisas e Projetos de Reforma Agr&aacute;ria (NERA), em parceria com o Levante Popular da Juventude de Presidente Prudente.<br />
-<img alt="JURA Presidente Prudente [2].png" src="//farm8.staticflickr.com/7891/32587400337_4a93bc3fac_b.jpg" /></p>
+<p>A JURA foi apresentada como demanda da Dire&ccedil;&atilde;o Regional de MST a um coletivo da FCT/UNESP, composto, sobretudo, por estudantes e professores do Centro de Estudos de Geografia do Trabalho (CEGeT) e do N&uacute;cleo de Estudos, Pesquisas e Projetos de Reforma Agr&aacute;ria (NERA), em parceria com o Levante Popular da Juventude de Presidente Prudente.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="JURA Presidente Prudente [2].png" height="990" src="//farm8.staticflickr.com/7891/32587400337_4a93bc3fac_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p>Al&eacute;m do CEGeT, NERA e Levante, os coletivos entenderam que outros parceiros poderiam contribuir com a construir da JURA, e assim se somaram a Adunesp, a AGB, o CEMOSi, a C&aacute;tedra da Unesco para Educa&ccedil;&atilde;o do Campo e outros.</p>
 
@@ -77,3 +88,5 @@ releated_posts:
 <p>Entre os temas que ser&atilde;o abordados, dentre outros,&nbsp; destaca-se&nbsp; os Direitos Humanos, quest&atilde;o Agr&aacute;ria, alimenta&ccedil;&atilde;o s aud&aacute;vel e agroecologia, educa&ccedil;&atilde;o do campo e Minera&ccedil;&atilde;o. Entre das atividades est&aacute; programada tamb&eacute;m uma Feira da Reforma Agr&aacute;ria, aonde ser&atilde;o comercializados alimentos org&acirc;nicos livres de agrot&oacute;xicos e produzidos por fam&iacute;lias camponesas da regi&atilde;o de Presidente Prudente. Haver&aacute; alimentos in natura (legumes, verduras, frutas e outros), comidas (tapioca, sucos, p&atilde;es, doces, bolos e outros), artesanatos, livros e outros produtos.</p>
 
 <p>&nbsp;</p>
+
+<p><em>Editado por Fernanda Alc&acirc;ntara</em></p>
