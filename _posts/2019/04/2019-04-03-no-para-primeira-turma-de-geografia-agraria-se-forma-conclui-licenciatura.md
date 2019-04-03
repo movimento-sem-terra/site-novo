@@ -52,7 +52,7 @@ files:
     title: IMG-20190401-WA0029.jpg
     $$hashKey: 03F
 created_date: "2019-04-03T15:50:46-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/06/2018-06-18-ufes-realiza-jornada-universitaria-em-defesa-da-reforma-agraria.md
   - _posts/2019/03/2019-03-22-sem-terra-participam-de-mutirao-para-construcao-do-centro-de-referencia-socioambiental-na-ufal.md
@@ -61,13 +61,7 @@ releated_posts:
 
 ---
 <p><br />
-&nbsp;</p>
-
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="IMG-20190401-WA0037.jpg" height="525" src="//farm8.staticflickr.com/7870/46807284004_65241fef75_b.jpg" width="700" />
-<figcaption><em>Primeira turma de Geografia Agr&aacute;ria</em></figcaption>
-</figure>
-</div>
+<img alt="IMG-20190401-WA0029.jpg" src="//farm8.staticflickr.com/7800/40564969083_607a2defa8_b.jpg" /></p>
 
 <p><em>Por Ant&ocirc;nio Carlos Luz<br />
 Da P&aacute;gina do MST</em></p>
@@ -84,8 +78,14 @@ A turma enfrentou v&aacute;rios desafios ao longo da jornada de estudos, mas a c
 <p><br />
 Entre os in&uacute;meros desafios enfrentados pelos educandos, destacam-se a falta de bolsas, salas de aulas dispon&iacute;veis,&nbsp; dinheiro e alojamento, lembra Adolfo: &ldquo;Em muitos momentos eles pensaram em desistir, mas o trabalho coletivo, a pedagogia da altern&acirc;ncia e o acompanhamento do movimento social, em especial o MST, fez com que cheg&aacute;ssemos com um n&uacute;mero incr&iacute;vel de concluintes&rdquo;, comentou.</p>
 
-<p><img alt="IMG-20190401-WA0037.jpg" src="//farm8.staticflickr.com/7870/46807284004_65241fef75_b.jpg" /><br />
-A partir do curso, os jovens passaram a se reconhecer ainda mais com o campo e foram desafiados a se organizar em seus territ&oacute;rios e suas comunidades, contrapondo-se aos grandes projetos do capital na Amaz&ocirc;nia.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="IMG-20190401-WA0030.jpg" height="168" src="//farm8.staticflickr.com/7845/32588638797_057cee6b6a_b.jpg" width="323" />
+<figcaption><em>Experi&ecirc;ncias ajudaram o elo entre comunidades<br />
+e universidades</em></figcaption>
+</figure>
+
+<p>A partir do curso, os jovens passaram a se reconhecer ainda mais com o campo e foram desafiados a se organizar em seus territ&oacute;rios e suas comunidades, contrapondo-se aos grandes projetos do capital na Amaz&ocirc;nia.</p>
 
 <p><br />
 Para Orlandina Amaral, ribeirinha do munic&iacute;pio de Abaetetuba, o curso mudou completamente sua vida. &ldquo;Fazer parte da I Turma de Geografia Agr&aacute;ria &eacute; um desafio encarado com muito orgulho e gratid&atilde;o. Representamos as grandes diversidades de povos que comp&otilde;e essa t&atilde;o cobi&ccedil;ada regi&atilde;o chamada Amaz&ocirc;nia&rdquo;, afirmou.</p>
@@ -95,6 +95,11 @@ Segundo a ribeirinha, essa experi&ecirc;ncia foi importante por uma quest&atilde
 
 <p><br />
 Euler de Oliveira Santos, do assentamento Ilha Sumauma, munic&iacute;pio de Igarap&eacute; Miri, destacou o fortalecimento de sua consci&ecirc;ncia enquanto sujeito amaz&ocirc;nico. &ldquo;As atividades de estudos te&oacute;ricos e trabalhos extraclasses me fizeram entender melhor nossa realidade e fortalecer minhas ra&iacute;zes com o campo.Hoje entendo que o conhecimento que obtive na universidade precisa estar &agrave; servi&ccedil;o de minha comunidade e de sua luta.&rdquo;, afirmou.</p>
+
+<figure class="image" style="float:right"><img alt="IMG-20190401-WA0036.jpg" height="225" src="//farm8.staticflickr.com/7894/46807284014_49714015aa_b.jpg" width="300" />
+<figcaption><em>Alunos aprenderam sobre experi&ecirc;ncias emp&iacute;ricas<br />
+e te&oacute;ricas do campo</em></figcaption>
+</figure>
 
 <p><br />
 &ldquo;Saio da universidade como professor e com mais amor pelo meu povo, pelo meu territ&oacute;rio e com uma for&ccedil;a renovada para ajudar na luta de minha comunidade&rdquo; afirmou Euler.</p>
@@ -111,6 +116,10 @@ Ver&ocirc;nica escreveu sobre a hist&oacute;ria do acampamento e sua luta de res
 <p><br />
 Amea&ccedil;ada de morte, a professora de Geografia, formou-se e provou que a luta do movimento n&atilde;o &eacute; somente por terra, mas pelo direito &agrave; educa&ccedil;&atilde;o para todo o povo. A C&acirc;mara de Vereadores do munic&iacute;pio reconheceu o trabalho, entregando &agrave; Ver&ocirc;nica e sua comunidade um certificado confirmando o feito hist&oacute;rico.</p>
 
+<figure class="image" style="float:left"><img alt="FB_IMG_1554234447191.jpg" height="169" src="//farm8.staticflickr.com/7927/46807283994_b23ef273e7_b.jpg" width="300" />
+<figcaption><em>Fotos: MST no Par&aacute;</em></figcaption>
+</figure>
+
 <p><br />
 Para Jane Cabral, militante do MST e da Coordena&ccedil;&atilde;o Pol&iacute;tico Pedag&oacute;gica, &eacute; necess&aacute;rio refor&ccedil;ar a import&acirc;ncia do curso pela identidade amaz&ocirc;nica da turma. &ldquo;A riqueza da diversidade de realidades mostrou para a turma que na Amaz&ocirc;nia existem v&aacute;rios sujeitos em luta e que, atrav&eacute;s da coletividade do estudo, esses educandos poderiam fortalecer a defesa de suas comunidades que s&atilde;o impactadas pelo s projetos do Agroneg&oacute;cio e da Minera&ccedil;&atilde;o&rdquo;, afirmou.</p>
 
@@ -123,7 +132,11 @@ O curso de Geografia Agr&aacute;ria &eacute; composto por duas etapas. A primeir
 <p><br />
 &ldquo;Nesses anos os educandos foram se construindo como sujeitos amaz&ocirc;nicos buscando conhecimentos cient&iacute;ficos e agora est&atilde;o retornando para suas comunidades comprometidos profundamente com seus territ&oacute;rios e sua identidade atrav&eacute;s da Geografia&rdquo; finaliza Jane.</p>
 
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG-20190401-WA0037.jpg" height="525" src="//farm8.staticflickr.com/7870/46807284004_65241fef75_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
