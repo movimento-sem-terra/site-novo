@@ -45,7 +45,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="JURA.jpg" height="394" src="//farm8.staticflickr.com/7921/32587383357_5f1f6b66c9_b.jpg" width="700" />
-<figcaption>Na foto, imagens de uma edi&ccedil;&atilde;o do JURA Jornada Universit&aacute;ria em Defesa da Reforma Agr&aacute;ria (JURA) marca mem&oacute;ria do Abril Vermelho</figcaption>
+<figcaption></figcaption>
 </figure>
 </div>
 
