@@ -45,24 +45,30 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="JURA.jpg" height="394" src="//farm8.staticflickr.com/7921/32587383357_5f1f6b66c9_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption><em>Na foto, imagens de uma edi&ccedil;&atilde;o do JURA - Jornada Universit&aacute;ria em Defesa da Reforma Agr&aacute;ria</em></figcaption>
 </figure>
 </div>
 
 <p><br />
 <em>Da P&aacute;gina do MST</em></p>
 
-<p>O m&ecirc;s de abril tem sido um marco nas a&ccedil;&otilde;es dos movimentos sociais do campo em defesa da reforma agr&aacute;ria. Sendo chamado de Abril Vermelho, o m&ecirc;s marca para a&ccedil;&otilde;es que se voltam para a mem&oacute;ria dos conflitos agr&aacute;rios, no sentido de lembrar as viol&ecirc;ncias sofridas e os massacres ocorridos, discutir conjuntura pol&iacute;tica e reafirmar a centralidade da Luta pela Terra no Brasil.</p>
+<p>O m&ecirc;s de abril tem sido um marco nas a&ccedil;&otilde;es dos movimentos sociais do campo em defesa da reforma agr&aacute;ria. Sendo chamado de Abril Vermelho, o m&ecirc;s marca para a&ccedil;&otilde;es que se voltam para a mem&oacute;ria dos conflitos agr&aacute;rios, no sentido de lembrar as viol&ecirc;ncias sofridas e os massacres ocorridos, discutir conjuntura pol&iacute;tica e reafirmar a centralidade da Luta pela Terra no Brasil.<br />
+&nbsp;</p>
 
-<p>A marca desta mem&oacute;ria &eacute; o dia 17 de abril, denominado Dia Internacional da Luta Camponesa, que lembra o Massacre de El Dourado dos Caraj&aacute;s, crime&nbsp; cometido em 1996 contra militantes do Movimento dos Trabalhadores Rurais Sem Terra (MST). Eles foram atacados por policiais militares, resultando em 19 militantes foram assassinados, embora o crime siga impune at&eacute; os dias de hoje.</p>
+<p>A marca desta mem&oacute;ria &eacute; o dia 17 de abril, denominado Dia Internacional da Luta Camponesa, que lembra o Massacre de El Dourado dos Caraj&aacute;s, crime&nbsp; cometido em 1996 contra militantes do Movimento dos Trabalhadores Rurais Sem Terra (MST). Eles foram atacados por policiais militares, resultando em 19 militantes foram assassinados, embora o crime siga impune at&eacute; os dias de hoje.<br />
+&nbsp;</p>
 
-<p>Neste sentido, o MST convoca as Universidade e outras institui&ccedil;&otilde;es de ensino p&uacute;blicas e privadas parceiras a propor atividades que tragam a mem&oacute;ria das pessoas que foram assassinadas e das pessoas violentadas cotidianamente. O objetivo &eacute; criar coletivamente momentos que levem &agrave;s discuss&otilde;es em torno da Reforma Agr&aacute;ria junto &agrave; grupos de pesquisas, n&uacute;cleos de ensino, pesquisadores e outros sujeitos. &nbsp;</p>
+<p>Neste sentido, o MST convoca as Universidade e outras institui&ccedil;&otilde;es de ensino p&uacute;blicas e privadas parceiras a propor atividades que tragam a mem&oacute;ria das pessoas que foram assassinadas e das pessoas violentadas cotidianamente. O objetivo &eacute; criar coletivamente momentos que levem &agrave;s discuss&otilde;es em torno da Reforma Agr&aacute;ria junto &agrave; grupos de pesquisas, n&uacute;cleos de ensino, pesquisadores e outros sujeitos. &nbsp;<br />
+&nbsp;</p>
 
-<p>Em 2014, mais de 40 Universidades e Institutos Federais realizaram suas Jornadas Universit&aacute;rias em Defesa da Reforma Agr&aacute;ria. Nos anos seguintes, aumentou o n&uacute;mero de Institutos de Ensino Superior (IES) a partircipar da atividade e, em 2018, mais de 60 IES realizaram a JURA em seus espa&ccedil;os.</p>
+<p>Em 2014, mais de 40 Universidades e Institutos Federais realizaram suas Jornadas Universit&aacute;rias em Defesa da Reforma Agr&aacute;ria. Nos anos seguintes, aumentou o n&uacute;mero de Institutos de Ensino Superior (IES) a partircipar da atividade e, em 2018, mais de 60 IES realizaram a JURA em seus espa&ccedil;os.<br />
+&nbsp;</p>
 
-<p>O coletivo da FCT/UNESP de Presidente Prudente come&ccedil;ou a organizar as JURAs no ano de 2016. A segunda edi&ccedil;&atilde;o do JURA em Presidente Prudente aconteceu nos dias 26 e 27 de abril de 2017, com o tema &ldquo;Reforma Agr&aacute;ria e a Criminaliza&ccedil;&atilde;o dos Movimentos Sociais&rdquo;. J&aacute; a edi&ccedil;&atilde;o, realizada no dia 25 de abril de 2018, foi instalada na Pra&ccedil;a dos Tamarindos, e fez uma defesa &agrave; democracia com a tem&aacute;tica &ldquo;Em defesa da Educa&ccedil;&atilde;o P&uacute;blica em tempos de golpe&rdquo;.</p>
+<p>O coletivo da FCT/UNESP de Presidente Prudente come&ccedil;ou a organizar as JURAs no ano de 2016. A segunda edi&ccedil;&atilde;o do JURA em Presidente Prudente aconteceu nos dias 26 e 27 de abril de 2017, com o tema &ldquo;Reforma Agr&aacute;ria e a Criminaliza&ccedil;&atilde;o dos Movimentos Sociais&rdquo;. J&aacute; a edi&ccedil;&atilde;o, realizada no dia 25 de abril de 2018, foi instalada na Pra&ccedil;a dos Tamarindos, e fez uma defesa &agrave; democracia com a tem&aacute;tica &ldquo;Em defesa da Educa&ccedil;&atilde;o P&uacute;blica em tempos de golpe&rdquo;.<br />
+&nbsp;</p>
 
-<p>A JURA foi apresentada como demanda da Dire&ccedil;&atilde;o Regional de MST a um coletivo da FCT/UNESP, composto, sobretudo, por estudantes e professores do Centro de Estudos de Geografia do Trabalho (CEGeT) e do N&uacute;cleo de Estudos, Pesquisas e Projetos de Reforma Agr&aacute;ria (NERA), em parceria com o Levante Popular da Juventude de Presidente Prudente.</p>
+<p>A JURA foi apresentada como demanda da Dire&ccedil;&atilde;o Regional de MST a um coletivo da FCT/UNESP, composto, sobretudo, por estudantes e professores do Centro de Estudos de Geografia do Trabalho (CEGeT) e do N&uacute;cleo de Estudos, Pesquisas e Projetos de Reforma Agr&aacute;ria (NERA), em parceria com o Levante Popular da Juventude de Presidente Prudente.<br />
+<img alt="JURA Presidente Prudente [2].png" src="//farm8.staticflickr.com/7891/32587400337_4a93bc3fac_b.jpg" /></p>
 
 <p>Al&eacute;m do CEGeT, NERA e Levante, os coletivos entenderam que outros parceiros poderiam contribuir com a construir da JURA, e assim se somaram a Adunesp, a AGB, o CEMOSi, a C&aacute;tedra da Unesco para Educa&ccedil;&atilde;o do Campo e outros.</p>
 
