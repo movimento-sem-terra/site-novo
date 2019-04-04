@@ -42,7 +42,7 @@ A fala transf&oacute;bica de&nbsp;Douglas Garcia&nbsp;&eacute; marcada pelo valo
 Todo nosso apoio e solidariedade&nbsp;a Malunguinho, que sabemos, n&atilde;o se deixar&aacute; abater diante de nenhuma postura discriminat&oacute;ria e de car&aacute;ter duvidoso.</p>
 
 <p><br />
-Nossa luta &eacute; todo todo dia e seguiremos juntos e apoiando todas e todos aqueles que dela participam.&nbsp;</p>
+Nossa luta &eacute; todo&nbsp;dia e seguiremos juntos e apoiando todas e todos aqueles que dela participam.&nbsp;</p>
 
 <p>&nbsp;</p>
 
