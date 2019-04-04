@@ -3,7 +3,7 @@ date: "2019-04-03T15:36:29-03:00"
 tags:
   - tag: universidade
   - tag: pará
-title: "No Pará, primeira turma de Geografia Agrária se forma conclui Licenciatura"
+title: "No Pará, primeira turma de Geografia Agrária conclui Licenciatura"
 support_line: "Primeira turma de Geografia Agrária iniciou seus estudos em 2015, em uma parceria do MST e Universidade Federal do Pará (Ufpa)"
 menu: "educação, cultura e comunicação"
 images_hd: //farm8.staticflickr.com/7901/32588638817_ebb2a4e6a1_b.jpg
