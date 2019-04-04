@@ -6,7 +6,7 @@ tags:
   - tag: lutas
 menu: direitos humanos
 support_line: "Durante sessão nesta quarta-feira (3), Douglas Garcia disse à colega que \"expulsaria uma transexual do banheiro debaixo de tapa\""
-title: "MSR se solidariza a Erica Malunguinho e repudia fala transfóbica de deputado do PSL "
+title: "MST se solidariza a Erica Malunguinho e repudia fala transfóbica de deputado do PSL "
 images_hd: //farm8.staticflickr.com/7843/46812516784_0cc8c69da8_b.jpg
 layout: post
 files:
@@ -18,7 +18,7 @@ files:
     title: destaque_ericamalanguinho-1068x580.jpg
     $$hashKey: "057"
 created_date: "2019-04-04T12:45:43-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2019/02/2019-02-12-cedeca-publica-nota-de-apoio-ao-mst.md
   - _posts/2019/02/2019-02-13-mndh-divulga-nota-em-solidariedade-ao-mst.md
