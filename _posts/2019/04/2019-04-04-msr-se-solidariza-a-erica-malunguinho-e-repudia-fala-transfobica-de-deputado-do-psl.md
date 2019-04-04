@@ -46,7 +46,9 @@ Nossa luta &eacute; todo todo dia e seguiremos juntos e apoiando todas e todos a
 
 <p>&nbsp;</p>
 
-<p style="text-align: right;">Dire&ccedil;&atilde;o Estadual&nbsp;MST S&atilde;o Paulo,&nbsp;4 de abril de 2019.&nbsp;</p>
+<p style="text-align: center;"><strong>Dire&ccedil;&atilde;o Estadual MST/SP</strong></p>
+
+<p style="text-align: right;">S&atilde;o Paulo,&nbsp;4 de abril de 2019.&nbsp;</p>
 
 <p style="text-align: right;">&nbsp;</p>
 
