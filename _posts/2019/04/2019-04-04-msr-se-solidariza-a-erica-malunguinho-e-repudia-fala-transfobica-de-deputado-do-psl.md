@@ -46,7 +46,7 @@ Nossa luta &eacute; todo todo dia e seguiremos juntos e apoiando todas e todos a
 
 <p>&nbsp;</p>
 
-<p style="text-align: right;">MST<font color="#222222" face="arial, sans-serif"><span style="font-size: 16px;">/</span></font>SP, 4 de abril de 2019.&nbsp;</p>
+<p style="text-align: right;">Dire&ccedil;&atilde;o Estadual&nbsp;MST S&atilde;o Paulo,&nbsp;4 de abril de 2019.&nbsp;</p>
 
 <p style="text-align: right;">&nbsp;</p>
 
