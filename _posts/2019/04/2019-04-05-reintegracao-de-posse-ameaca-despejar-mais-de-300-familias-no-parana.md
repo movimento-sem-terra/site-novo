@@ -50,7 +50,7 @@ files:
     title: d2460347-27c8-4833-b48e-8dc36d5f33a0.jpg
     $$hashKey: "034"
 created_date: "2019-04-05T11:30:47-03:00"
-published: false
+published: true
 releated_posts: []
 
 ---
@@ -66,6 +66,11 @@ Da P&aacute;gina do MST</em></p>
 <p><br />
 O acampamento Quilombo dos Palmares, localizado no munic&iacute;pio de Londrina (PR), est&aacute; com um mandado de reintegra&ccedil;&atilde;o de posse e despejar&nbsp; mais de 300 fam&iacute;lias. A ordem foi despachada em Outubro de 2018 e a Pol&iacute;cia Militar entrou em contato esta semana para dialogar a situa&ccedil;&atilde;o esta semana.</p>
 
+<figure class="image" style="float:right"><img alt="1e95d521-e14e-476d-8183-b8442db4ab19.jpg" height="169" src="//farm8.staticflickr.com/7813/46627030475_bab46ce540_b.jpg" width="300" />
+<figcaption><em>Espa&ccedil;o de lazer para as crian&ccedil;as<br />
+do acampamento</em></figcaption>
+</figure>
+
 <p><br />
 Os 200 hectares de terra da fazenda Mar&iacute;lia est&atilde;o bloqueados na Justi&ccedil;a Federal por fazer parte de esc&acirc;ndalos de corrup&ccedil;&atilde;o.&nbsp; est&atilde;o registradas em nome de Stel Fernanda, esposa do propriet&aacute;rio e j&aacute; falecido ex-deputado federal Jos&eacute; Janene.</p>
 
@@ -74,6 +79,10 @@ Piv&ocirc; do caso, Janene recebia uma mesada de 30 mil m&ecirc;s e, junto a out
 
 <p><br />
 No dia 28 de novembro de 2015, cerca de 320 fam&iacute;lias organizadas pelo Movimentos dos Trabalhadores Rurais Sem Terra (MST) ocuparam estas terras e decidiram destin&aacute;-las &agrave; reforma agr&aacute;ria. A partir disto, a terra fruto da corrup&ccedil;&atilde;o foi se transformando na terra da diversidade.</p>
+
+<figure class="image" style="float:right"><img alt="e7ae2e9c-3aa3-45ab-b66d-4b610fd93fd3.jpg" height="225" src="//farm8.staticflickr.com/7857/32599929897_99a78f4a60_b.jpg" width="300" />
+<figcaption><em>Estudantes do EJA</em></figcaption>
+</figure>
 
 <p><br />
 Localizado no distrito Lerroville, em Londrina, o acampamento foi batizado de Quilombo dos Palmares, para trazer em seu nome a cultura e a luta dos negros pela liberdade. Hoje &eacute; um espa&ccedil;o de culturas, etnias, produ&ccedil;&otilde;es, debates e conhecimento.</p>
@@ -84,5 +93,16 @@ Na &aacute;rea se produz uma grande produ&ccedil;&atilde;o de alimentos para o a
 <p><br />
 As fam&iacute;lias cultivam com as suas pr&oacute;prias sementes, preservadas e multiplicadas a cada ano, e cultivam arroz, feij&atilde;o, mandioca, batata, milho, alho, hortali&ccedil;as, dentre outras culturas. Tamb&eacute;m s&atilde;o criados porcos, galinhas, bovinos, equinos e etc, al&eacute;m de plantas medicinais e f&aacute;brica de xaropes, tinturas e outras formas terap&ecirc;uticas.</p>
 
+<figure class="image" style="float:left"><img alt="d2460347-27c8-4833-b48e-8dc36d5f33a0.jpg" height="169" src="//farm8.staticflickr.com/7890/46627030505_41cc160bfd_b.jpg" width="300" />
+<figcaption><em>Escola dispon&iacute;vel para as crian&ccedil;as<br />
+do acampamento</em></figcaption>
+</figure>
+
 <p><br />
-Para estudar, crian&ccedil;as, jovens, adultos e idosos se deslocam cerca de 3 quil&ocirc;metros para o Assentamento Eli Vive, onde todos do acampamento tem acesso &agrave; educa&ccedil;&atilde;o. Aqueles que at&eacute; ent&atilde;o n&atilde;o tinham tido direito &agrave; educa&ccedil;&atilde;o passaram a ter atrav&eacute;s do Ensino para Jovens e Adultos (EJA). Segundo o MST, &eacute; importante lembrar destas conquistas par a manuten&ccedil;&atilde;o dos direitos e a luta pela terra no local, que hoje est&aacute; t&atilde;o amea&ccedil;ada.</p>
+Para estudar, crian&ccedil;as, jovens, adultos e idosos se deslocam cerca de 3 quil&ocirc;metros para o Assentamento Eli Vive, onde todos do acampamento tem acesso &agrave; educa&ccedil;&atilde;o. Aqueles que at&eacute; ent&atilde;o n&atilde;o tinham tido direito &agrave; educa&ccedil;&atilde;o passaram a ter atrav&eacute;s do Ensino para Jovens e Adultos (EJA). Segundo o MST, &eacute; importante lembrar destas conquistas par a manuten&ccedil;&atilde;o dos direitos e a luta pela terra no local, que hoje est&aacute; t&atilde;o amea&ccedil;ada.<br />
+<br />
+&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Editado por Fernanda Alc&acirc;ntara</em></p>
