@@ -85,7 +85,7 @@ do acampamento</em></figcaption>
 Os 200 hectares de terra da fazenda Mar&iacute;lia est&atilde;o bloqueados na Justi&ccedil;a Federal por fazer parte de esc&acirc;ndalos de corrup&ccedil;&atilde;o.&nbsp; est&atilde;o registradas em nome de Stel Fernanda, esposa do propriet&aacute;rio e j&aacute; falecido ex-deputado federal Jos&eacute; Janene.</p>
 
 <p><br />
-Piv&ocirc; do caso, Janene recebia uma mesada de 30 mil m&ecirc;s e, junto a outros acordos o l&iacute;der do Partido Progressista (PP), adquiriu em 2003 a &aacute;rea&nbsp; avaliada em 1,6 milh&otilde;es de reais. Esta foi apenas uma entre onze fazendas compradas por por Janene entre os anos de 2003 e 2004 no Norte do Estado do Paran&aacute;.</p>
+Piv&ocirc; do caso, Janene recebia uma mesada de 30 mil m&ecirc;s e, junto a outros acordos o l&iacute;der do Partido Progressista (PP), adquiriu em 2003 a &aacute;rea&nbsp; avaliada em 1,6 milh&otilde;es de reais. Esta foi apenas uma entre onze fazendas compradas por Janene entre os anos de 2003 e 2004 no Norte do Estado do Paran&aacute;.</p>
 
 <p><br />
 No dia 28 de novembro de 2015, cerca de 320 fam&iacute;lias organizadas pelo Movimentos dos Trabalhadores Rurais Sem Terra (MST) ocuparam estas terras e decidiram destin&aacute;-las &agrave; reforma agr&aacute;ria. A partir disto, a terra fruto da corrup&ccedil;&atilde;o foi se transformando na terra da diversidade.</p>
