@@ -74,7 +74,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-O acampamento Quilombo dos Palmares, localizado no munic&iacute;pio de Londrina (PR), est&aacute; com um mandado de reintegra&ccedil;&atilde;o de posse e despejar&nbsp; mais de 300 fam&iacute;lias. A ordem foi despachada em Outubro de 2018 e a Pol&iacute;cia Militar entrou em contato esta semana para dialogar a situa&ccedil;&atilde;o esta semana.</p>
+O acampamento Quilombo dos Palmares, localizado no munic&iacute;pio de Londrina (PR), est&aacute; com um mandado de reintegra&ccedil;&atilde;o de posse e despejar&nbsp; mais de 300 fam&iacute;lias. A ordem foi despachada em Outubro de 2018 e a Pol&iacute;cia Militar entrou em contato esta semana para dialogar a situa&ccedil;&atilde;o.</p>
 
 <figure class="image" style="float:right"><img alt="1e95d521-e14e-476d-8183-b8442db4ab19.jpg" height="169" src="//farm8.staticflickr.com/7813/46627030475_bab46ce540_b.jpg" width="300" />
 <figcaption><em>Espa&ccedil;o de lazer para as crian&ccedil;as<br />
@@ -85,7 +85,7 @@ do acampamento</em></figcaption>
 Os 200 hectares de terra da fazenda Mar&iacute;lia est&atilde;o bloqueados na Justi&ccedil;a Federal por fazer parte de esc&acirc;ndalos de corrup&ccedil;&atilde;o.&nbsp; est&atilde;o registradas em nome de Stel Fernanda, esposa do propriet&aacute;rio e j&aacute; falecido ex-deputado federal Jos&eacute; Janene.</p>
 
 <p><br />
-Piv&ocirc; do caso, Janene recebia uma mesada de 30 mil m&ecirc;s e, junto a outros acordos o l&iacute;der do Partido Progressista (PP), adquiriu em 2003 a &aacute;rea&nbsp; avaliada em 1,6 milh&otilde;es de reais. Esta foi apenas uma entre dez fazendas compradas por por Janene entre os anos de 2003 e 2004 no Norte do Estado do Paran&aacute;.</p>
+Piv&ocirc; do caso, Janene recebia uma mesada de 30 mil m&ecirc;s e, junto a outros acordos o l&iacute;der do Partido Progressista (PP), adquiriu em 2003 a &aacute;rea&nbsp; avaliada em 1,6 milh&otilde;es de reais. Esta foi apenas uma entre onze fazendas compradas por por Janene entre os anos de 2003 e 2004 no Norte do Estado do Paran&aacute;.</p>
 
 <p><br />
 No dia 28 de novembro de 2015, cerca de 320 fam&iacute;lias organizadas pelo Movimentos dos Trabalhadores Rurais Sem Terra (MST) ocuparam estas terras e decidiram destin&aacute;-las &agrave; reforma agr&aacute;ria. A partir disto, a terra fruto da corrup&ccedil;&atilde;o foi se transformando na terra da diversidade.</p>
@@ -109,7 +109,7 @@ do acampamento</em></figcaption>
 </figure>
 
 <p><br />
-Para estudar, crian&ccedil;as, jovens, adultos e idosos se deslocam cerca de 3 quil&ocirc;metros para o Assentamento Eli Vive, onde todos do acampamento tem acesso &agrave; educa&ccedil;&atilde;o. Aqueles que at&eacute; ent&atilde;o n&atilde;o tinham tido direito &agrave; educa&ccedil;&atilde;o passaram a ter atrav&eacute;s do Ensino para Jovens e Adultos (EJA). Segundo o MST, &eacute; importante lembrar destas conquistas par a manuten&ccedil;&atilde;o dos direitos e a luta pela terra no local, que hoje est&aacute; t&atilde;o amea&ccedil;ada.<br />
+Para estudar, crian&ccedil;as, jovens, adultos e idosos se deslocam cerca de 3 quil&ocirc;metros para o Assentamento Eli Vive, onde todos do acampamento tem acesso &agrave; educa&ccedil;&atilde;o. Aqueles que at&eacute; ent&atilde;o n&atilde;o tinham direito &agrave; educa&ccedil;&atilde;o passaram a ter atrav&eacute;s do Ensino para Jovens e Adultos (EJA). Segundo o MST, &eacute; importante lembrar destas conquistas para manuten&ccedil;&atilde;o dos direitos e a luta pela terra no local, que hoje est&aacute; t&atilde;o amea&ccedil;ada.<br />
 <br />
 &nbsp;</p>
 
