@@ -1,6 +1,9 @@
 ---
 date: "2019-04-05T11:17:16-03:00"
-tags: []
+tags:
+  - tag: acampamentos
+  - tag: reintegração-de-posse
+  - tag: despejo
 title: Reintegração de posse ameaça despejar mais de 300 famílias no Paraná
 support_line: "Em Londrina, famílias são convocadas pela Polícia Militar para discutir sobre a situação da área"
 images_hd: //farm8.staticflickr.com/7903/46627030495_57823a27f7_b.jpg
@@ -51,7 +54,14 @@ files:
     $$hashKey: "034"
 created_date: "2019-04-05T11:30:47-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/06/2018-06-05-com-cultura-e-organizacao-popular-acampamento-marielle-vive-caminha-para-o-segundo-mes-de-resistencia.md
+  - _posts/2019/03/2019-03-12-23-anos-da-conquista-do-assentamento-cuiaba-em-caninde-do-sao-francisco.md
+  - _posts/2018/12/2018-12-06-sem-terra-sao-despejados-de-acampamento-no-ceara.md
+  - _posts/2018/11/2018-11-29-no-ceara-acampamento-do-mst-sofre-despejo.md
+  - _posts/2018/12/2018-12-01-suspenso-o-despejo-do-acampamento-quilombo-campo-grande.md
+  - _posts/2018/12/2018-12-17-judiciario-autorizou-150-acoes-de-despejo-contra-mst-em-2018-veja-numeros-por-estado.md
+  - _posts/2019/01/2019-01-14-familias-sem-terra-sofrem-ameacas-de-despejo-no-norte-da-bahia.md
 
 ---
 <div style="text-align:center">
