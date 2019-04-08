@@ -73,7 +73,7 @@ files:
     title: "BdF-Jornada Lula Livre [6].jpeg"
     $$hashKey: 0OZ
 created_date: "2019-04-08T16:05:24-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/08/2018-08-13-artigo-uma-saida-para-o-brasil.md
   - _posts/2018/08/2018-08-13-cozinha-da-marcha-lula-livre-prepara-15-mil-refeicoes-por-dia.md
@@ -98,7 +98,7 @@ releated_posts:
 </div>
 
 <p><em>Por Reda&ccedil;&atilde;o*<br />
-Do Site do Brasil de Fato</em><img alt="BdF-Jornada Lula Livre [2].jpeg" src="//farm8.staticflickr.com/7891/32623790417_97593ab8d5_b.jpg" /></p>
+Do Site do Brasil de Fato</em></p>
 
 <p>De Caet&eacute;s (PE), cidade-natal de Luiz In&aacute;cio Lula da Silva, a S&atilde;o Paulo (SP), Curitiba (PR), Belo Horizonte (MG) e Rio de Janeiro (RJ), passando por ao menos 16 pa&iacute;ses e 17 capitais brasileiras, as ruas se encheram, neste domingo (7), de gritos e clamores por justi&ccedil;a e liberdade para o ex-presidente, preso h&aacute; exatamente um ano em Curitiba (PR).<br />
 &nbsp;</p>
@@ -117,6 +117,12 @@ Do Site do Brasil de Fato</em><img alt="BdF-Jornada Lula Livre [2].jpeg" src="//
 <p><strong>S&atilde;o Paulo (SP)</strong><br />
 &nbsp;</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="BdF-Jornada Lula Livre [2].jpeg" height="525" src="//farm8.staticflickr.com/7891/32623790417_97593ab8d5_b.jpg" width="700" />
+<figcaption>Mais de 10 mil pessoas se re&uacute;nem na Av. Paulista. (Foto:Reprodu&ccedil;&atilde;o)</figcaption>
+</figure>
+</div>
+
 <p>A capital paulista reuniu, a partir das 14h, mais de 10 mil pessoas em ato convocado pela Frente Brasil Popular e a Frente Povo Sem Medo. Em outro ponto da Avenida Paulista, uma pequena manifesta&ccedil;&atilde;o em apoio &agrave; Lava Jato acontecia, que terminou com uma militante pr&oacute;-Lula agredida por manifestantes conservadores.</p>
 
 <p>Para Renato Sim&otilde;es, membro da Executiva Nacional do PT, o ato marcou &ldquo;um ano de uma injusti&ccedil;a t&atilde;o atroz que ela n&atilde;o morre na mem&oacute;ria das massas, na consci&ecirc;ncia da milit&acirc;ncia. N&oacute;s estamos diante de uma grande rea&ccedil;&atilde;o da sociedade civil e dos movimentos sociais que n&atilde;o aceitam a continuidade da injusti&ccedil;a.&rdquo;</p>
@@ -125,6 +131,14 @@ Do Site do Brasil de Fato</em><img alt="BdF-Jornada Lula Livre [2].jpeg" src="//
 
 <p>Mesmo ap&oacute;s uma hora e meia do final do ato, os manifestantes seguiam concentrados na Pra&ccedil;a dos Ciclistas, cantando e entoando gritos que pediam a liberdade de Lula. Somente &agrave;s 18h20 a avenida Paulista foi liberada e o ato dispersado.</p>
 
+<p><strong>Recife (PE)</strong></p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="BdF-Jornada Lula Livre [3].jpeg" height="525" src="//farm8.staticflickr.com/7817/40600274613_bd02e94d3b_b.jpg" width="700" />
+<figcaption>Blocos de carnaval animaram a manifesta&ccedil;&atilde;o em Recife. (Foto: Denilson Cad&ecirc;te)</figcaption>
+</figure>
+</div>
+
 <p>No Recife, o ato aconteceu na Pra&ccedil;a do Arsenal, centro hist&oacute;rico da cidade. Artistas e blocos carnavalescos participaram do ato, como o tradicional Bloco Eu Acho &eacute; Pouco, o Bloco Sem Terra e muitos maracatus e afox&eacute;s. Mais de dez mil pessoas se uniram para cantar e gritar por Lula Livre.</p>
 
 <p>Ao todo foram cerca de dez blocos de carnaval, fizeram o &quot;Bloc&atilde;o da Democracia&quot;. Um palco foi montado onde diversos artistas locais, como Flaira Ferro, fizeram da noite um espa&ccedil;o cheio de irrever&ecirc;ncia e com muito frevo. Um samba pela democracia trouxe diversos sambistas ao palco. Poetistas e poetas tamb&eacute;m marcaram presen&ccedil;a, assim como Fred 04, do Mundo Livre S.A.<br />
@@ -132,9 +146,14 @@ Do Site do Brasil de Fato</em><img alt="BdF-Jornada Lula Livre [2].jpeg" src="//
 
 <p><strong>Rio de Janeiro (RJ)</strong></p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="BdF-Jornada Lula Livre [5].jpeg" height="525" src="//farm8.staticflickr.com/7889/40600275303_3ff3679c10_b.jpg" width="700" />
+<figcaption>Festival Democracia e Justi&ccedil;a na orla de Copacabana no Rio de Janeiro. (Foto: Reprodu&ccedil;&atilde;o)</figcaption>
+</figure>
+</div>
+
 <p><br />
-Na tarde deste domingo (7), cerca de duas mil pessoas estiveram reunidas na Praia de Copacabana, na altura do Posto 3, para participar do Festival Democracia e Justi&ccedil;a, principal manifesta&ccedil;&atilde;o organizada pelos cariocas para pedir pela liberdade do ex-presidente Lula.<br />
-&nbsp;</p>
+Na tarde deste domingo (7), cerca de duas mil pessoas estiveram reunidas na Praia de Copacabana, na altura do Posto 3, para participar do Festival Democracia e Justi&ccedil;a, principal manifesta&ccedil;&atilde;o organizada pelos cariocas para pedir pela liberdade do ex-presidente Lula.</p>
 
 <p>O festival come&ccedil;ou por volta das 15h, com um debate sobre os impactos da reforma da Previd&ecirc;ncia para os trabalhadores. Em seguida, as falas pol&iacute;ticas e apresenta&ccedil;&otilde;es culturais tiveram in&iacute;cio no trio el&eacute;trico. Um dos discursos marcantes foi feito pelo ex-ministro das Rela&ccedil;&otilde;es Exteriores Celso Amorim.<br />
 &nbsp;</p>
@@ -153,6 +172,12 @@ Na tarde deste domingo (7), cerca de duas mil pessoas estiveram reunidas na Prai
 
 <p><strong>Belo Horizonte (MG)</strong><br />
 &nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="BdF-Jornada Lula Livre [6].jpeg" height="525" src="//farm8.staticflickr.com/7892/40600275263_37a9af0c97_b.jpg" width="700" />
+<figcaption>Participaram pessoas de todas as idades, entre crian&ccedil;as, jovens e idosos / Foto: Ra&iacute;ssa Lopes</figcaption>
+</figure>
+</div>
 
 <p>Em Belo Horizonte, as mobiliza&ccedil;&otilde;es come&ccedil;aram por volta das 9h da manh&atilde; na Pra&ccedil;a Afonso Arinos, no centro. Pessoas de todas as idades, entre crian&ccedil;as, jovens e idosos, portavam cartazes com mensagens de apoio e for&ccedil;a ao petista, al&eacute;m de se posicionarem contra o governo de Jair Bolsonaro (PSL) e pelo fim de pautas que representam retrocessos para a classe trabalhadora, como a reforma da Previd&ecirc;ncia.<br />
 &nbsp;</p>
@@ -176,6 +201,12 @@ Na tarde deste domingo (7), cerca de duas mil pessoas estiveram reunidas na Prai
 <p><strong>Caet&eacute;s (PE)</strong><br />
 &nbsp;</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="BdF-Jornada Lula Livre [8].jpeg" height="394" src="//farm8.staticflickr.com/7903/40600274523_9730d7e4d3_b.jpg" width="700" />
+<figcaption>Manifesta&ccedil;&atilde;o come&ccedil;ou com carreata em dire&ccedil;&atilde;o &agrave; cidade. (Foto:&nbsp;Rani de Mendon&ccedil;a)</figcaption>
+</figure>
+</div>
+
 <p>Mais de 500 pessoas participam do ato Vig&iacute;lia Lula Livre na cidade de Caet&eacute;s, no agreste pernambucano. A atividade come&ccedil;ou com a chegada de uma carreata vindo da cidade vizinha, Garanhuns, com mais de 30 carros desfilando entres as cidades com m&uacute;sicas, bandeiras e gritos pela liberdade do ex-presidente Lula.<br />
 &nbsp;</p>
 
@@ -184,6 +215,8 @@ Na tarde deste domingo (7), cerca de duas mil pessoas estiveram reunidas na Prai
 
 <p><strong>Pelo mundo</strong><br />
 &nbsp;</p>
+
+<p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/ankbpXldOGY" width="560"></iframe></p>
 
 <p>Diversas capitais da Europa tamb&eacute;m contaram com manifesta&ccedil;&otilde;es em favor da liberdade do ex-presidente Lula. Na Fran&ccedil;a, os manifestantes se reuniram na Esplanada do Trocad&eacute;ro, em Paris. O ato contou com a participa&ccedil;&atilde;o de Jean-luc M&eacute;lenchon, l&iacute;der do partido de esquerda Fran&ccedil;a Insubmissa, e com a fil&oacute;sofa Marcia Tiburi, que decidiu deixar o Brasil no em mar&ccedil;o deste ano ap&oacute;s receber uma s&eacute;rie de amea&ccedil;as.<br />
 &nbsp;</p>
@@ -199,6 +232,12 @@ Na tarde deste domingo (7), cerca de duas mil pessoas estiveram reunidas na Prai
 
 <p>Em Portugal os protestos ocorreram na capital Lisboa, onde artistas se apresentaram e discursaram em favor da soltura de Lula.<br />
 &nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="BdF-Jornada Lula Livre [9].jpeg" height="525" src="//farm8.staticflickr.com/7813/32623790427_58839eaf76_b.jpg" width="700" />
+<figcaption>Ato em Lisboa pede a liberdade de Lula. (Foto:Reprodu&ccedil;&atilde;o)</figcaption>
+</figure>
+</div>
 
 <p>Na Espanha, os manifestantes se reuniram no Parque de la Ciudadela, em Barcelona. Os participantes caminharam pela cidade denunciando o car&aacute;ter pol&iacute;tico da pris&atilde;o do ex-presidente.<br />
 &nbsp;</p>
