@@ -53,7 +53,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="JURA[4].jpg" height="467" src="//farm8.staticflickr.com/7873/46649465175_0140a36981_b.jpg" width="700" />
-<figcaption><em>Roda de conversa no VI JURA no Cear&aacute;/ Foto: Comunica&ccedil;&atilde;o do MST</em></figcaption>
+<figcaption><em>Roda de conversa no VI JURA no Cear&aacute;/ Foto:Aline Oliveira</em></figcaption>
 </figure>
 </div>
 
@@ -70,11 +70,6 @@ releated_posts:
 <p>&ldquo;Minha luta iniciou nos anos 70. Vi crian&ccedil;as morrerem de fome, enfrentei fome, seca, enfim, vi&nbsp; e vivi a explora&ccedil;&atilde;o da terra, mas resisti e hoje estou aqui contando essa hist&oacute;ria&rdquo; relata Maria Lima, assentada no primeiro assentamento do Cear&aacute;, que aproveitou para fazer um apelo. &ldquo;Pe&ccedil;o que a nossa juventude continue a luta e valorize cada peda&ccedil;o de ch&atilde;o conquistado, pois custou muito a n&oacute;s, nos custou suor e a pr&oacute;pria vida de muitos de n&oacute;s&rdquo;.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="JURA[2].jpg" height="225" src="//farm8.staticflickr.com/7815/32622373747_96bb74c13b_b.jpg" width="300" />
-<figcaption><em>Cerim&ocirc;nia de abertura VI JURA no Cear&aacute;<br />
-Foto: Comunica&ccedil;&atilde;o do MST</em></figcaption>
-</figure>
-
 <p>Ana Maria da Silva, assentada no assentamento 10 de Abril, lembrou da heran&ccedil;a daquelas terras. &ldquo;Somos herdeiros e herdeiras da luta do caldeir&atilde;o. Gra&ccedil;as &agrave; luta do MST e ao governo Lula&nbsp; conquistamos muitas coisas para nosso assentamento&rdquo;. Ela ressaltou as oportunidades que o Movimento ofereceu. &ldquo;Hoje trabalho com horta, vendo nas feiras agroecol&oacute;gicas e fui convidada pela Universidade Regional do Cariri para trabalhar aulas de agroecologia. Nunca tive oportunidade de estudar, meu l&aacute;pis e caderno eram uma enxada e uma foice. &rdquo; finaliza Maria Silva.<br />
 &nbsp;</p>
 
@@ -90,10 +85,12 @@ Foto: Comunica&ccedil;&atilde;o do MST</em></figcaption>
 <p>A JURA tem como objetivo visibilizar a&ccedil;&otilde;es de luta pela terra que o MST no ambiente acad&ecirc;mico. &quot;No momento em que vivemos uma conjuntura de retrocessos e retirada de direitos da classe trabalhadora, ataques e persegui&ccedil;&otilde;es aos que lutam, a jornada universit&aacute;ria tem essa tarefa de fortalecer nossa rela&ccedil;&atilde;o com a sociedade. A ideia &eacute; mostrar nossa cara, nossa capacidade de produzir alimentos saud&aacute;veis, de produzir conhecimento&quot; afirma Neidinha Lopes, da dire&ccedil;&atilde;o nacional do MST no Cear&aacute;.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="JURA1.jpg" height="218" src="//farm8.staticflickr.com/7892/32622373457_98ab997523_b.jpg" width="218" />
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="JURA1.jpg" height="700" src="//farm8.staticflickr.com/7892/32622373457_98ab997523_b.jpg" width="700" />
 <figcaption><em>Matriarcas no VI JURA no Cear&aacute;<br />
-Foto: Comunica&ccedil;&atilde;o do MST</em></figcaption>
+Foto: Aline Oliveira</em></figcaption>
 </figure>
+</div>
 
 <p>No Cear&aacute;, a VI JURA acontece com a ampla articula&ccedil;&atilde;o com universidades comprometidas com a quest&atilde;o da luta pela terra e pela constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular, entre elas a Universidade Federal do Cear&aacute; (UFC); Universidade Estadual do Cear&aacute; (UECE), nos campus de Fortaleza, Limoeiro do Norte, Itapipoca, Crate&uacute;s; Universidade Integra&ccedil;&atilde;o Internacional da Lusofonia Afro-Brasileira (UNILAB); e Universidade Regional do Cariri (URCA).<br />
 &nbsp;</p>
