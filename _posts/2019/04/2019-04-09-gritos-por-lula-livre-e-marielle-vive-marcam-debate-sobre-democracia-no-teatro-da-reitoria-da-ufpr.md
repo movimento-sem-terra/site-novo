@@ -104,7 +104,7 @@ Quem cantou e tocou a m&uacute;sica conhecida do p&uacute;blico foi a Bateria Ca
 <p><strong>Jornada de Lutas</strong><br />
 &nbsp;</p>
 
-<p>As centenas de bon&eacute;s vermelhos confirmavam que a plateia da Confer&ecirc;ncia estava lotada por integrantes do MST, que est&atilde;o em Curitiba desde domingo (7) para a Jornada Lula Livre&nbsp; e as Jornadas de Jornada de Lutas de Abril, que segue at&eacute; quarta-feira (10) em Curitiba.</p>
+<p>As centenas de bon&eacute;s vermelhos confirmavam que a plateia da Confer&ecirc;ncia estava lotada por integrantes do MST, que est&atilde;o em Curitiba desde domingo (7) para a Jornada Lula Livre&nbsp; e de Jornada de Lutas de Abril, que segue at&eacute; quarta-feira (10) em Curitiba.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="JornadaLulaLivre[2].jpg" height="467" src="//farm8.staticflickr.com/7826/32630219587_49390b129b_b.jpg" width="700" />
