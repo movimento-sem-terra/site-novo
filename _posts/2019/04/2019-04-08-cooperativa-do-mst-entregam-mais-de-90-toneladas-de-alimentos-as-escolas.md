@@ -3,7 +3,7 @@ date: "2019-04-08T17:30:49-03:00"
 tags:
   - tag: cooperativas
   - tag: agroecologia
-title: Cooperativa do MST entregam mais de 90 toneladas de alimentos às escolas
+title: Cooperativa do MST entrega mais de 90 toneladas de alimentos às escolas
 support_line: Os alimentos serão entregues ao Programa de Alimentação Escolar no ultimo ano
 menu: reforma agrária
 images_hd: //farm8.staticflickr.com/7871/47513991262_132245987d_b.jpg
