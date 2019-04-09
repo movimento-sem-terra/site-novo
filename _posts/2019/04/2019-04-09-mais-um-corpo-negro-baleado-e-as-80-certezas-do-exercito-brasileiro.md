@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: lutas
   - tag: racismo
-title: "Mais um corpo negro baleado e as 80 certezas do Exército brasileiro\n"
+title: Mais um corpo negro baleado e as 80 certezas do Exército brasileiro
 support_line: "No Brasil, o negro é suspeito padrão e essa é a lei num país que associa racismo e classe social"
 menu: direitos humanos
 images_hd: //farm8.staticflickr.com/7832/33695565048_d95a5c876d_b.jpg
@@ -27,6 +27,7 @@ releated_posts:
   - _posts/2019/01/2019-01-11-sangue-indigena-nenhuma-gota-a-mais.md
   - _posts/2019/01/2019-01-14-familias-sem-terra-sofrem-ameacas-de-despejo-no-norte-da-bahia.md
   - _posts/2019/03/2019-03-07-militarizacao-do-incra-preocupa-organizacoes-ligadas-ao-campo.md
+section: cover
 
 ---
 <p>&nbsp;</p>
