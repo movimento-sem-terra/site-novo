@@ -84,13 +84,13 @@ Quem cantou e tocou a m&uacute;sica conhecida do p&uacute;blico foi a Bateria Ca
 <p>A letra do samba complementou em versos as palestras de Monica Benicio, militante e vi&uacute;va da vereadora Marielle Franco; de Eduardo Moreira, economista; e de Gisele Cittadino, integrante da Associa&ccedil;&atilde;o Brasileira de Juristas pela Democracia (ABJD), entidade que realizou o evento.<br />
 &nbsp;</p>
 
-<p>Os convidados foram un&acirc;nimes ao considerar que a democracia brasileira est&aacute; fragilizada. Os dois principais exemplos citados foram o assassinato da vereadora Marielle Franco, sem identifica&ccedil;&atilde;o dos mandantes um ano ap&oacute;s o crime; e a pris&atilde;o pol&iacute;tica do ex-presidente Lula, l&iacute;der nas pesquisas de inten&ccedil;&atilde;o de votos na elei&ccedil;&atilde;o de 2018. As palavras de ordem &ldquo;Lula Livre&rdquo; e &ldquo;Marielle Vive&rdquo; ecoaram em v&aacute;rios momentos da Confer&ecirc;ncia.<br />
-&nbsp;</p>
-
 <figure class="image" style="float:left"><img alt="JornadaLulaLivre[2].jpg" height="212" src="//farm8.staticflickr.com/7826/32630219587_49390b129b_b.jpg" width="318" />
 <figcaption><em>Apresenta&ccedil;&atilde;o em debate na UFPR<br />
 Foto: Gibran Mendes/Instituto Declatra</em></figcaption>
 </figure>
+
+<p>Os convidados foram un&acirc;nimes ao considerar que a democracia brasileira est&aacute; fragilizada. Os dois principais exemplos citados foram o assassinato da vereadora Marielle Franco, sem identifica&ccedil;&atilde;o dos mandantes um ano ap&oacute;s o crime; e a pris&atilde;o pol&iacute;tica do ex-presidente Lula, l&iacute;der nas pesquisas de inten&ccedil;&atilde;o de votos na elei&ccedil;&atilde;o de 2018. As palavras de ordem &ldquo;Lula Livre&rdquo; e &ldquo;Marielle Vive&rdquo; ecoaram em v&aacute;rios momentos da Confer&ecirc;ncia.<br />
+&nbsp;</p>
 
 <p>O evento tamb&eacute;m teve a sauda&ccedil;&atilde;o do advogado e professor Manoel Caetano, e a apresenta&ccedil;&atilde;o do cantor Z&eacute; Pinto, um dos principais criadores de can&ccedil;&otilde;es do MST. A media&ccedil;&atilde;o da Confer&ecirc;ncia foi realizada pela integrante da dire&ccedil;&atilde;o nacional do MST no Paran&aacute;, Ceres Hadich, e do coordenador da Terra de Direitos, Darci Frigo.<br />
 &nbsp;</p>
