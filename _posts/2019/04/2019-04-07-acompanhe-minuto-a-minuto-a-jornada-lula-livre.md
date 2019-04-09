@@ -6,7 +6,7 @@ tags:
 title: Acompanhe Minuto a Minuto a Jornada Lula Livre
 support_line: Confira a seleção de notícias do Brasil de Fato neste dia 7
 menu: lutas e mobilizações
-section: cover
+section: null
 images_hd: //farm8.staticflickr.com/7895/32614375807_6e2a61307d_b.jpg
 layout: post
 files:
