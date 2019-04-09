@@ -46,7 +46,7 @@ files:
     title: "JornadaLulaLivre[2].jpg"
     $$hashKey: 0PT
 created_date: "2019-04-09T13:10:19-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/11/2018-11-10-mst-promove-curso-de-comunicacao-popular-em-curitiba.md
   - _posts/2018/11/2018-11-16-encontro-cria-rede-de-comunicacao-popular-no-parana.md
@@ -59,14 +59,13 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="JornadaLulaLivre[5].jpg" height="467" src="//farm8.staticflickr.com/7908/47519764542_3d059de91a_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="JornadaLulaLivre[3].jpg" height="467" src="//farm8.staticflickr.com/7843/47572719491_eda8f48421_b.jpg" width="700" />
 <figcaption><em>Sem Terra compareceram em debate na UFPR/ Foto: Gibran Mendes/Instituto Declatra</em></figcaption>
 </figure>
 </div>
 
 <p><em>Por Ednubia Ghisi, do MST no Paran&aacute;<br />
-Da P&aacute;gina do MST</em><br />
-&nbsp;</p>
+Da P&aacute;gina do MST</em></p>
 
 <p><em>&ldquo;Salve os caboclos de julho / Quem foi de a&ccedil;o nos anos de chumbo / Brasil, chegou a vez / De ouvir as Marias, Mahins, Marielles, mal&ecirc;s&rdquo;</em>.<br />
 &nbsp;</p>
@@ -77,11 +76,11 @@ Da P&aacute;gina do MST</em><br />
 Quem cantou e tocou a m&uacute;sica conhecida do p&uacute;blico foi a Bateria Carlos Marighella, da Brigada de Agita&ccedil;&atilde;o e Propaganda do Movimento dos Trabalhadores Rurais Sem Terra (MST) do Paran&aacute;, com participa&ccedil;&atilde;o do trompetista Fabiano Leit&atilde;o.<br />
 &nbsp;</p>
 
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="JornadaLulaLivre[4].jpg" height="467" src="//farm8.staticflickr.com/7901/32630219557_4d08e2e07a_b.jpg" width="700" />
-<figcaption><em>Cantor Z&eacute; Pinto em apresenta&ccedil;&atilde;o na UFPR/ Foto: Gibran Mendes/Instituto Declatra</em></figcaption>
+<figure class="image" style="float:right"><img alt="JornadaLulaLivre[4].jpg" height="200" src="//farm8.staticflickr.com/7901/32630219557_4d08e2e07a_b.jpg" width="300" />
+<figcaption><em>Cantor Z&eacute; Pinto em apresenta&ccedil;&atilde;o<br />
+na UFPR/ Foto: Gibran Mendes<br />
+/Instituto Declatra</em></figcaption>
 </figure>
-</div>
 
 <p>A letra do samba complementou em versos as palestras de Monica Benicio, militante e vi&uacute;va da vereadora Marielle Franco; de Eduardo Moreira, economista; e de Gisele Cittadino, integrante da Associa&ccedil;&atilde;o Brasileira de Juristas pela Democracia (ABJD), entidade que realizou o evento.<br />
 &nbsp;</p>
