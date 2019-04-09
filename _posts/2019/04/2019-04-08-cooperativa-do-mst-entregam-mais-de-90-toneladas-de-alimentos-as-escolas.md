@@ -53,7 +53,7 @@ section: featured-news
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Cooperativa Copcraf (6).jpeg" height="525" src="//farm8.staticflickr.com/7925/46651468895_38807b496f_b.jpg" width="700" />
-<figcaption>Em um ano foram mais de 92 toneladas de alimentos entregues &agrave;s escolas estaduais do munic&iacute;pio de Cascavel (PR)</figcaption>
+<figcaption>Em um ano foram mais de 92 toneladas de alimentos entregues &agrave;s escolas estaduais do munic&iacute;pio de Cascavel (PR)/ <em>Foto: Indianara Maia</em></figcaption>
 </figure>
 </div>
 
@@ -72,7 +72,7 @@ Fundada em 2001 por fam&iacute;lias reassentadas do Movimento dos Atingidos por 
 
 <figure class="image" style="float:left"><img alt="Cooperativa Copcraf (5).jpeg" height="225" src="//farm8.staticflickr.com/7853/46651468785_9413d2fb8d_b.jpg" width="300" />
 <figcaption>Produtos da COPCRAF, em Cascavel (PR)<br />
-&nbsp;</figcaption>
+<em>Foto: Indianara Maia</em></figcaption>
 </figure>
 
 <p><br />
@@ -94,7 +94,8 @@ Ao todo s&atilde;o 49 variedades de produtos como hortali&ccedil;as, tub&eacute;
 <p><strong>Agroind&uacute;strias</strong></p>
 
 <figure class="image" style="float:right"><img alt="Cooperativa Copcraf (Geani).jpeg" height="181" src="//farm8.staticflickr.com/7886/47513991242_47e4f52c7b_b.jpg" width="300" />
-<figcaption>Produtos da COPCRAF, em Cascavel (PR)</figcaption>
+<figcaption>Produtos da COPCRAF, em Cascavel (PR)<br />
+<em>Foto: Indianara Maia</em></figcaption>
 </figure>
 
 <p><br />
