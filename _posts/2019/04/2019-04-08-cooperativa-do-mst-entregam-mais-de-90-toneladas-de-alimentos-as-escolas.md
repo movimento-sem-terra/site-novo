@@ -116,7 +116,8 @@ O planejamento da cooperativa para este pr&oacute;ximo semestre s&oacute; tende 
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Cooperativa Copcraf (8).jpeg" height="225" src="//farm8.staticflickr.com/7871/47513991262_132245987d_b.jpg" width="300" />
-<figcaption>Padaria da COPCRAF, em Cascavel (PR)</figcaption>
+<figcaption>Padaria da COPCRAF, em Cascavel (PR)<br />
+<em>Foto: Indianara Maia</em></figcaption>
 </figure>
 
 <p>&ldquo;Quando reorganizamos a COPCRAF, j&aacute; t&iacute;nhamos claro que ela n&atilde;o poderia servir apenas para comercializar apenas para a alimenta&ccedil;&atilde;o escolar; ele este deveria funcionar apenas como um incentivo e uma possibilidade de organizarmos a produ&ccedil;&atilde;o das fam&iacute;lias. Agora podemos avan&ccedil;ar para outros mercados e at&eacute; tentar a venda direta ao consumidor local&rdquo;, enfatiza Rodrigues.</p>
@@ -126,3 +127,7 @@ Al&eacute;m dessas vendas, a cooperativa sinaliza tamb&eacute;m a viabilidade pa
 
 <p><br />
 &ldquo;A perspectiva &eacute; de cada vez mais melhorar os nossos produtos e a qualidade, e a gente viver da terra, do lote sem depender de sair para fora para trabalhar&rdquo;, diz Balbinoti.</p>
+
+<p>&nbsp;</p>
+
+<p><em>Editado por Fernanda Alc&acirc;ntara</em></p>
