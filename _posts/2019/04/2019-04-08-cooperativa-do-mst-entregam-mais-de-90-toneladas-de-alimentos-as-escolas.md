@@ -46,6 +46,7 @@ releated_posts:
   - _posts/2019/03/2019-03-14-assentamento-do-mst-pr-inaugura-agroindustria-em-aniversario-de-20-anos.md
   - _posts/2019/03/2019-03-18-assentamento-dorcelina-folador-de-terra-sem-passaros-a-modelo-de-reforma-agraria.md
   - _posts/2019/03/2019-03-18-no-rj-mst-faz-acordo-com-prefeitura-para-construcao-de-escola-agroecologica-em-macae.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
