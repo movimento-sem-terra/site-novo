@@ -52,7 +52,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Cooperativa Copcraf (6).jpeg" height="525" src="//farm8.staticflickr.com/7925/46651468895_38807b496f_b.jpg" width="700" />
-<figcaption>Em um ano foram mais de 92 kg de alimentos entregues &agrave;s escolas estaduais do munic&iacute;pio de Cascavel (PR) <em>Foto: Geani Paula de Souza</em></figcaption>
+<figcaption>Em um ano foram mais de 92 toneladas de alimentos entregues &agrave;s escolas estaduais do munic&iacute;pio de Cascavel (PR)</figcaption>
 </figure>
 </div>
 
@@ -71,7 +71,7 @@ Fundada em 2001 por fam&iacute;lias reassentadas do Movimento dos Atingidos por 
 
 <figure class="image" style="float:left"><img alt="Cooperativa Copcraf (5).jpeg" height="225" src="//farm8.staticflickr.com/7853/46651468785_9413d2fb8d_b.jpg" width="300" />
 <figcaption>Produtos da COPCRAF, em Cascavel (PR)<br />
-<em>Foto: Geani Paula de Souza</em></figcaption>
+&nbsp;</figcaption>
 </figure>
 
 <p><br />
@@ -93,8 +93,7 @@ Ao todo s&atilde;o 49 variedades de produtos como hortali&ccedil;as, tub&eacute;
 <p><strong>Agroind&uacute;strias</strong></p>
 
 <figure class="image" style="float:right"><img alt="Cooperativa Copcraf (Geani).jpeg" height="181" src="//farm8.staticflickr.com/7886/47513991242_47e4f52c7b_b.jpg" width="300" />
-<figcaption>Produtos da COPCRAF, em Cascavel (PR)<br />
-<em>Foto: Geani Paula de Souza</em></figcaption>
+<figcaption>Produtos da COPCRAF, em Cascavel (PR)</figcaption>
 </figure>
 
 <p><br />
@@ -115,8 +114,7 @@ O planejamento da cooperativa para este pr&oacute;ximo semestre s&oacute; tende 
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Cooperativa Copcraf (8).jpeg" height="225" src="//farm8.staticflickr.com/7871/47513991262_132245987d_b.jpg" width="300" />
-<figcaption>Padaria da COPCRAF, em Cascavel (PR)<br />
-<em>Foto: Geani Paula de Souza</em></figcaption>
+<figcaption>Padaria da COPCRAF, em Cascavel (PR)</figcaption>
 </figure>
 
 <p>&ldquo;Quando reorganizamos a COPCRAF, j&aacute; t&iacute;nhamos claro que ela n&atilde;o poderia servir apenas para comercializar apenas para a alimenta&ccedil;&atilde;o escolar; ele este deveria funcionar apenas como um incentivo e uma possibilidade de organizarmos a produ&ccedil;&atilde;o das fam&iacute;lias. Agora podemos avan&ccedil;ar para outros mercados e at&eacute; tentar a venda direta ao consumidor local&rdquo;, enfatiza Rodrigues.</p>
