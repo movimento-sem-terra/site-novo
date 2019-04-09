@@ -5,7 +5,7 @@ tags:
   - tag: lula-livre
   - tag: marielle-vive
 title: Gritos por “Lula Livre” e “Marielle Vive” marcam debate sobre democracia no Teatro da Reitoria da UFPR
-support_line: O debate foi realizado na noite desta segunda-feira ressaltou as lutas por justiça com samba da Mangueira
+support_line: O debate foi realizado na noite desta segunda-feira e ressaltou as lutas por justiça com samba da Mangueira
 menu: lutas e mobilizações
 images_hd: //farm8.staticflickr.com/7876/47572719501_6474be7449_b.jpg
 layout: post
