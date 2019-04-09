@@ -70,10 +70,7 @@ Da P&aacute;gina do MST </em></p>
 No s&aacute;bado (06) um grupo de educadores e educandos da Universidade Estadual do Sul do Maranh&atilde;o (UEMASUL) e da Universidade Federal do Maranh&atilde;o (UFMA&ndash; Campus de Imperatriz) realizaram as primeiras atividades da Jornada Universit&aacute;ria em defesa da Reforma Agr&aacute;ria (JURA) no Maranh&atilde;o. Eles visitaram Sem Terras acampados, participaram de atividades e debateram sobre reforma agr&aacute;ria e o papel das institui&ccedil;&otilde;es de ensino com as popula&ccedil;&otilde;es rurais.</p>
 
 <p><br />
-Durante todo o dia o grupo esteve presente nDurante todo o dia o grupo esteve presente no acampamento de trabalhadores rurais Sem Terra da Comunidade Viva Deus, na cidade de Imperatriz, sudeste do estadoo acampamento de trabalhadores rurais Sem Terra da Comunidade Viva Deus, na cidade de Imperatriz, sudeste do estado.</p>
-
-<p><br />
-A programa&ccedil;&atilde;o contou com intensos debates sobre temas relacionados a quest&atilde;o agr&aacute;ria, com a participa&ccedil;&atilde;o de militantes do Movimento dos Trabalhadores Rurais Sem Terra (MST) e do Movimento Interestadual das Quebradeiras de Coco Baba&ccedil;u (MIQCB). Representantes dos movimentos apresentaram o objetivo de suas organiza&ccedil;&otilde;es, as formas de luta e falaram sobre a atual conjuntura agr&aacute;ria.</p>
+Durante todo o dia o grupo esteve presente no acampamento de trabalhadores rurais Sem Terra da Comunidade Viva Deus, na cidade de Imperatriz, sudeste do estado. A programa&ccedil;&atilde;o contou com intensos debates sobre temas relacionados a quest&atilde;o agr&aacute;ria, com a participa&ccedil;&atilde;o de militantes do Movimento dos Trabalhadores Rurais Sem Terra (MST) e do Movimento Interestadual das Quebradeiras de Coco Baba&ccedil;u (MIQCB). Representantes dos movimentos apresentaram o objetivo de suas organiza&ccedil;&otilde;es, as formas de luta e falaram sobre a atual conjuntura agr&aacute;ria.</p>
 
 <p><br />
 Alguns professores da UFMA contribuem h&aacute; v&aacute;rios na organiza&ccedil;&atilde;o da comunidade de Imperatriz. A professora Betania Oliveira Barroso, do Curso de Ci&ecirc;ncias Humanas/Sociologia, &eacute; uma das organizadoras do JURA na regi&atilde;o. Ela observou reciprocidade entre os visitantes e os trabalhadores.<br />
