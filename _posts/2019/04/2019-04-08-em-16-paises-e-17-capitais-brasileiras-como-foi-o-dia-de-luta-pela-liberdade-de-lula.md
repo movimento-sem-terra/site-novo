@@ -86,6 +86,7 @@ releated_posts:
   - _posts/2019/04/2019-04-05-pernambuco-tera-atos-pela-liberdade-de-lula.md
   - _posts/2019/04/2019-04-01-jornada-internacional-lula-livre-mobiliza-acoes-no-brasil-e-no-mundo.md
   - _posts/2018/08/2018-08-13-cartas-para-lula-porque-lhe-escrevo.md
+section: featured-news
 
 ---
 <p><br />
@@ -93,12 +94,15 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="BdF-Jornada Lula Livre [1].jpeg" height="338" src="//farm8.staticflickr.com/7848/32623790377_33fb619b29_b.jpg" width="700" />
-<figcaption>Apoiadores se reuniram do lado de fora da Superintend&ecirc;ncia da PF, onde Lula &eacute; mantido preso desde abril de 2018 / Ricardo Stuckert/Instituto Lula</figcaption>
+<figcaption>Apoiadores se reuniram do lado de fora da Superintend&ecirc;ncia da PF, onde Lula &eacute; mantido preso desde abril de 2018 / Ricardo Stuckert / Instituto Lula</figcaption>
 </figure>
 </div>
 
-<p><em>Por Reda&ccedil;&atilde;o*<br />
-Do Site do Brasil de Fato</em></p>
+<p>&nbsp;</p>
+
+<p><em>Do Brasil de Fato</em></p>
+
+<p>&nbsp;</p>
 
 <p>De Caet&eacute;s (PE), cidade-natal de Luiz In&aacute;cio Lula da Silva, a S&atilde;o Paulo (SP), Curitiba (PR), Belo Horizonte (MG) e Rio de Janeiro (RJ), passando por ao menos 16 pa&iacute;ses e 17 capitais brasileiras, as ruas se encheram, neste domingo (7), de gritos e clamores por justi&ccedil;a e liberdade para o ex-presidente, preso h&aacute; exatamente um ano em Curitiba (PR).<br />
 &nbsp;</p>
