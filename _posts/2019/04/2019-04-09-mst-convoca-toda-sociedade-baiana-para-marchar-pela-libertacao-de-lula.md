@@ -1,6 +1,8 @@
 ---
 date: "2019-04-09T17:14:57-03:00"
-tags: []
+tags:
+  - tag: bahia
+  - tag: marcha-lula-livre
 title: MST convoca toda sociedade baiana para marchar pela libertação de Lula
 support_line: A ação faz parte da Jornada Nacional de Lutas pela Reforma Agrária
 menu: lutas e mobilizações
@@ -30,16 +32,24 @@ files:
     $$hashKey: 09L
 created_date: "2019-04-09T17:29:13-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/08/2018-08-13-artigo-uma-saida-para-o-brasil.md
+  - _posts/2019/01/2019-01-29-mst-ocupa-prefeitura-de-itamaraju-na-ba.md
+  - _posts/2019/01/2019-01-15-primeiro-curso-de-especializacao-em-educacao-e-agroecologia-acontece-no-extremo-sul-da-bahia.md
+  - _posts/2018/12/2018-12-21-encontro-estadual-aponta-os-desafios-da-luta-pela-terra-na-bahia.md
+  - _posts/2018/12/2018-12-19-auto-organizar-para-formar-e-transformar.md
+  - _posts/2018/12/2018-12-21-na-bahia-educadores-da-reforma-agraria-debatem-as-diretrizes-da-educacao-do-campo.md
 
 ---
 <p>&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Jornada BA [2].jpg" height="467" src="//farm8.staticflickr.com/7805/32631790057_1ffe17065f_b.jpg" width="700" />
-<figcaption><em>Marcha Estadual Lula Livre acontece na Bahia entre os dias 10 e 17 de Abril/ Fotos: Manuela Hern&aacute;ndez</em></figcaption>
+<figcaption><em>Marcha Estadual Lula Livre acontece na Bahia entre os dias 10 e 17 de Abril. Foto: Manuela Hern&aacute;ndez</em></figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
 
 <p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
@@ -51,10 +61,11 @@ Ap&oacute;s um ano da pris&atilde;o pol&iacute;tica sem provas do ex-presidente 
 <p>Na Bahia, a Marcha Estadual Lula Livre acontece entre os dias 10 e 17 de Abril e reunir&aacute; cerca de 3 mil trabalhadores e trabalhadoras Sem Terra de dez regi&otilde;es do estado. A marcha percorrer&aacute; cerca de 48 quil&ocirc;metros, saindo da cidade de Cama&ccedil;ari em dire&ccedil;&atilde;o a Salvador.</p>
 
 <figure class="image" style="float:right"><img alt="Jornada BA [3].jpeg" height="300" src="//farm8.staticflickr.com/7883/47521377072_a02dc04cf3_b.jpg" width="300" />
-<figcaption></figcaption>
+<figcaption><em>Arte da Marcha.</em></figcaption>
 </figure>
 
-<p>Al&eacute;m da pauta &ldquo;Lula Livre&rdquo;, os Sem Terra marcham pela Reforma Agr&aacute;ria, que desde o governo do Michel Temer sofre ataques, e contra a perda de direitos, como a Reforma da Previd&ecirc;ncia pauta no atual governo Bolsonaro.<br />
+<p><br />
+Al&eacute;m da pauta &ldquo;Lula Livre&rdquo;, os Sem Terra marcham pela Reforma Agr&aacute;ria, que desde o governo do Michel Temer sofre ataques, e contra a perda de direitos, como a Reforma da Previd&ecirc;ncia pauta no atual governo Bolsonaro.<br />
 &nbsp;</p>
 
 <p><strong>Marchar &eacute; preciso</strong><br />
@@ -73,3 +84,7 @@ Ap&oacute;s um ano da pris&atilde;o pol&iacute;tica sem provas do ex-presidente 
 &nbsp;</p>
 
 <p>A mobiliza&ccedil;&atilde;o faz parte da Jornada Nacional de Lutas pela Reforma Agr&aacute;ria, realizada pelo MST em todo pa&iacute;s contra a viol&ecirc;ncia no campo e em mem&oacute;ria dos trabalhadores e trabalhadoras Sem Terra assassinados no Massacre de Eldorado dos Caraj&aacute;s.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
