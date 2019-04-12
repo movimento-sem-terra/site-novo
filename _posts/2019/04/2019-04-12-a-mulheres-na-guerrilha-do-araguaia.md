@@ -4,7 +4,7 @@ tags:
   - tag: arte-e-cultura
   - tag: lutas
   - tag: história
-title: A mulheres na Guerrilha do Araguaia
+title: As mulheres na Guerrilha do Araguaia
 support_line: Mais de 40 se passaram desde o fim da guerrilha do Araguaia e muitas histórias não-contadas
 menu: direitos humanos
 images_hd: //farm8.staticflickr.com/7901/47541060312_6f8fce1f5c_b.jpg
