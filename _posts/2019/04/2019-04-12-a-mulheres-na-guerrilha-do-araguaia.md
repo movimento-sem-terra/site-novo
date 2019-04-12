@@ -32,12 +32,13 @@ files:
     title: "Guerrilheiras [4].jpg"
     $$hashKey: "036"
 created_date: "2019-04-12T15:01:54-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/12/2018-12-14-em-mg-o-mst-comemora-30-anos-com-festival-da-reforma-agraria.md
   - _posts/2018/12/2018-12-15-gastronomia-cores-cheiros-e-gostos-que-contam-a-importancia-da-reforma-agraria.md
   - _posts/2018/12/2018-12-15-reforma-agraria-popular-um-grito-de-resistencia.md
   - _posts/2019/01/2019-01-26-mst-celebra-35-anos-de-luta-e-resistencia-do-mst.md
+  - _posts/2018/12/2018-12-15-sul-de-minas-traz-sua-forca-e-producao-para-o-festival-da-reforma-agraria.md
 
 ---
 <div style="text-align:center">
@@ -47,44 +48,46 @@ releated_posts:
 </div>
 
 <p><br />
+<br />
 <em>Por Fernanda Alc&acirc;ntara<br />
 Da P&aacute;gina do MST</em><br />
+<br />
 &nbsp;</p>
 
-<p>As mulheres tiveram um papel fundamental entre&nbsp; um grupo de estudantes, oper&aacute;rios, camponeses e que fizeram oposi&ccedil;&atilde;o ao governo vigente, no epis&oacute;dio conhecido como Guerrilha do Araguaia. A hist&oacute;ria delas foi representada em m&uacute;sicas, dan&ccedil;as, livros, apresenta&ccedil;&otilde;es e m&iacute;sticas, em forma po&eacute;tica e documental, como na pe&ccedil;a Guerrilheiras ou para a terra n&atilde;o h&aacute; desaparecidos.<br />
+<p>Hoje, 12 de abril, completam-se&nbsp;47 anos do in&iacute;cio da guerrilha do Araguaia, data marcada pelo ataque ao &ldquo;Peaz&atilde;o&rdquo;, o ponto do PCdoB mais pr&oacute;ximo a Marab&aacute;, no Paran&aacute;. A ofensiva aconteceu no&nbsp; in&iacute;cio&nbsp; do&nbsp; ingresso&nbsp; dos&nbsp; militares, em 1972, quando a constru&ccedil;&atilde;o da Transamaz&ocirc;nica deixou exposta&nbsp; essa&nbsp; &aacute;rea&nbsp; antigamente&nbsp; escondida&nbsp; pela&nbsp; selva. &nbsp;</p>
+
+<p><br />
+Nesse cen&aacute;rios, ass mulheres tiveram um papel fundamental entre&nbsp;um grupo de estudantes, oper&aacute;rios e&nbsp;camponeses&nbsp;fizeram oposi&ccedil;&atilde;o ao governo vigente, no epis&oacute;dio conhecido como Guerrilha do Araguaia. A hist&oacute;ria delas foi representada de forma po&eacute;tica e documental&nbsp;em m&uacute;sicas, dan&ccedil;as, livros e&nbsp;apresenta&ccedil;&otilde;es,&nbsp;como na pe&ccedil;a &#39;<a href="https://www.facebook.com/guerrilheiras/">Guerrilheiras ou Para a Terra N&atilde;o H&aacute; Desaparecidos</a>&#39;.</p>
+
+<p><br />
+Trazer a perspectiva feminina em epis&oacute;dios que envolvem tantas cicatrizes emocionais na hist&oacute;ria n&atilde;o &eacute; uma tarefa f&aacute;cil, principalmente em tempos sombrios. Por isso, a pe&ccedil;a &#39;Guerrilheiras ou Para a Terra N&atilde;o H&aacute; Desaparecidos&#39;&nbsp;&eacute; uma pe&ccedil;a &uacute;nica dentre os espet&aacute;culo.<br />
 &nbsp;</p>
 
-<p>Hoje fazem 47 anos do in&iacute;cio da guerrilha do Araguaia, data marcada pelo ataque ao &ldquo;Peaz&atilde;o&rdquo;, o ponto do PCdoB mais pr&oacute;ximo a Marab&aacute;, no Paran&aacute;. A ofensiva aconteceu no&nbsp; in&iacute;cio&nbsp; do&nbsp; ingresso&nbsp; dos&nbsp; militares, em 1972, quando a constru&ccedil;&atilde;o da Transamaz&ocirc;nica deixou exposta&nbsp; essa&nbsp; &aacute;rea&nbsp; antigamente&nbsp; escondida&nbsp; pela&nbsp; selva. &nbsp;<br />
-&nbsp;</p>
+<p>Ao levar para o palco a hist&oacute;ria de mulheres que lutaram e morreram na guerrilha do Araguaia, a apresenta&ccedil;&atilde;o traz uma nova perspectiva hist&oacute;rica.&nbsp;A pe&ccedil;a foi escrita por Gabriela Carneiro da Cunha e dirigido por Georgette Fadel, que conversou conosco sobre a montagem.</p>
 
-<p>Trazer a perspectiva feminina em epis&oacute;dios que envolvem tantas cicatrizes emocionais na hist&oacute;ria n&atilde;o &eacute; uma tarefa f&aacute;cil, principalmente em tempos sombrios. Por isso, a pe&ccedil;a Guerrilheiras ou para a terra n&atilde;o h&aacute; desaparecidos &eacute; uma pe&ccedil;a &uacute;nica dentre os espet&aacute;culo.<br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
-<p>Ao levar para o palco a hist&oacute;ria de mulheres que lutaram e morreram na guerrilha do Araguaia, a apresenta&ccedil;&atilde;o traz um novo olhar &agrave; hist&oacute;ria. A pe&ccedil;a foi escrita por Gabriela Carneiro da Cunha e dirigido por Georgette Fadel, que conversou conosco sobre a montagem. Confira.<br />
+<p>Confira<br />
+<br />
 &nbsp;</p>
 
 <p><strong>Por que contar a hist&oacute;ria das mulheres na guerrilha do Araguaia?</strong><br />
 &nbsp;</p>
 
-<p>O debate sobre &lsquo;a mulher&rsquo; &eacute; sempre muito importante para mim, porque sabemos do massacre intelectual, moral e f&iacute;sico aos quais somos submetidas desde sempre. As mulheres de classe social baixa,&nbsp; negras, e tamb&eacute;m mulheres burguesas, dentro alguma inst&acirc;ncia, s&atilde;o v&iacute;timas de opress&atilde;o, de silenciamento, de esquecimento.<br />
+<p>O debate sobre &lsquo;a mulher&rsquo; &eacute; sempre muito importante para mim, porque sabemos do massacre intelectual, moral e f&iacute;sico aos quais somos submetidas desde sempre. As mulheres pobres,&nbsp;negras, e tamb&eacute;m mulheres burguesas, dentro alguma inst&acirc;ncia, s&atilde;o v&iacute;timas de opress&atilde;o, do&nbsp;silenciamento, do&nbsp;esquecimento.<br />
 &nbsp;</p>
 
-<p>Eu tenho um grande prazer em estudar e trazer, e na medida do poss&iacute;vel, o m&iacute;nimo de justi&ccedil;a &agrave;s mulheres silenciadas em suas lutas, todas essas injusti&ccedil;as hist&oacute;ricas. Fa&ccedil;o isso a partir da minha arte, das minhas a&ccedil;&otilde;es, dos meus textos e das dire&ccedil;&otilde;es que possam abarcar esse sentimento, sempre trabalhando o ativismo feminino, as lutas pela liberta&ccedil;&atilde;o da mulher, e principalmente, as justi&ccedil;as hist&oacute;ricas.<br />
+<p>Eu tenho um grande prazer em estudar e&nbsp;trazer,&nbsp;na medida do poss&iacute;vel, o m&iacute;nimo de justi&ccedil;a para essas&nbsp;mulheres silenciadas em suas lutas. Fa&ccedil;o isso a partir da minha arte, das minhas a&ccedil;&otilde;es, dos meus textos e das dire&ccedil;&otilde;es que possam abarcar esse sentimento, sempre trabalhando o ativismo feminino e&nbsp;as lutas pela liberta&ccedil;&atilde;o da mulher.<br />
 &nbsp;</p>
 
-<p>Essas guerrilheiras foram pessoas muito humanas, mulheres muito interessantes. Elas foram jovens, muitas delas de classe m&eacute;dia e universit&aacute;rias, estavam ali com grande coragem ao lado dos homens numa luta ut&oacute;pica cheia de idiossincrasia. Eram mulheres de grande integridade, de grande vontade de entender novas possibilidades de organiza&ccedil;&atilde;o social e, por isso, comunistas, inspiradas por experi&ecirc;ncias comunistas no mundo inteiro. Essas mulheres puderam ter contato direto com o povo de outras classes, com a base brasileira verdadeira, que &eacute; o ribeirinho, o campon&ecirc;s, o proletariado, enfim, as classes esmagadas, uma experi&ecirc;ncia que s&oacute; essa proximidade m&iacute;nima poderia dar.<br />
+<p>Essas guerrilheiras foram pessoas muito humanas, mulheres muito interessantes. Elas foram jovens, muitas delas de classe m&eacute;dia e universit&aacute;rias, estavam ali com grande coragem ao lado dos homens numa luta ut&oacute;pica e cheia de idiossincrasia. Eram mulheres de grande integridade, de grande vontade de entender novas possibilidades de organiza&ccedil;&atilde;o social e, por isso, comunistas, inspiradas por experi&ecirc;ncias comunistas no mundo inteiro. Essas mulheres puderam ter contato direto com o povo de outras classes, com a base brasileira verdadeira, que &eacute; o ribeirinho, o campon&ecirc;s, o proletariado, enfim, as classes esmagadas, uma experi&ecirc;ncia que s&oacute; essa proximidade m&iacute;nima poderia dar.<br />
 &nbsp;</p>
 
-<p><strong>E a viol&ecirc;ncia?</strong><br />
+<p><b>Muitos criticam a postura dos atuantes na Guerrilha do Araguaia. Isso se deve a falta de conhecimento hist&oacute;rico?&nbsp;</b><br />
 &nbsp;</p>
 
-<p>Foi a partir do que elas acreditavam que&nbsp; elas cometeram poss&iacute;veis viol&ecirc;ncia, e &eacute; algo que eu tamb&eacute;m questiono sempre que posso no meu trabalho. Todo o questionamento de luta armada, todo o questionamento sobre viol&ecirc;ncia, me interessa demais tamb&eacute;m porque &eacute; sempre muito f&aacute;cil ser pacifista quando n&atilde;o se tem a vida em risco. Eu n&atilde;o acredito no pacifismo da fam&iacute;lia burguesa que se diz contra a guerra e contra toda a viol&ecirc;ncia, mas que tem tudo garantido na mesa, sua casa pr&oacute;pria, e tem outras casas pr&oacute;prias, que pode articular, e alugar, vender, tem seu dinheiro na poupan&ccedil;a, suas aplica&ccedil;&otilde;es, e tem o futuro dos seus filhos e netos garantidos. Assim &eacute; muito f&aacute;cil voc&ecirc; gritar por paz, e dizer que voc&ecirc; nunca cometeria uma viol&ecirc;ncia.<br />
+<p>Acho importante que a gente reflita justamente sobre viol&ecirc;ncia, sobre o que &eacute; &lsquo;ser&rsquo; violento. Para mim, a opress&atilde;o das classes altas sobre as classes baixas &eacute; violenta e opressiva, mas viol&ecirc;ncia das classes baixas quando se erguem s&atilde;o lutas de liberta&ccedil;&atilde;o. Essas diferencia&ccedil;&otilde;es s&atilde;o importantes para pensar nas mulheres do Araguaia, porque elas foram assassinadas e at&eacute; hoje n&atilde;o foram encontradas.&nbsp; Essas mulheres mereciam o m&iacute;nimo de reconhecimento sobre essas mortes&nbsp; absolutamente cru&eacute;is por parte de um Estado violento. E esse reconhecimento &eacute; que me levou, a priori, a aceitar vontade o projeto: era a oportunidade de estudar, vontade de entender e colocar a minha arte nesse estudo e disponibilizar esse olhar para essas lutas, para essa hist&oacute;ria, para esse roubo da hist&oacute;ria.<br />
 &nbsp;</p>
-
-<p>Acho importante que a gente reflita justamente sobre viol&ecirc;ncia, sobre o que &eacute; &lsquo;ser&rsquo; violento. Para mim, a opress&atilde;o das classes altas sobre as classes baixas &eacute; violenta e opressiva, mas viol&ecirc;ncia das classes baixas quando se erguem s&atilde;o lutas de liberta&ccedil;&atilde;o. Essas diferencia&ccedil;&otilde;es s&atilde;o importantes para pensar nas mulheres do Araguaia, porque elas foram assassinadas e at&eacute; hoje n&atilde;o foram encontradas.&nbsp; Essas mulheres mereciam o m&iacute;nimo de reconhecimento sobre essas mortes&nbsp; absolutamente cru&eacute;is por parte de um Estado violento. E este reconhecimento &eacute; que me levou, a priori, a aceitar vontade o projeto: era a oportunidade de estudar, vontade de entender e colocar a minha arte nesse estudo e disponibilizar esse olhar para essas lutas, para essa hist&oacute;ria, para esse roubo da hist&oacute;ria.<br />
-&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Guerrilheiras [2].jpg" height="413" src="//farm8.staticflickr.com/7908/46678499185_71a6b2d027_b.jpg" width="700" />
@@ -92,10 +95,12 @@ Da P&aacute;gina do MST</em><br />
 </figure>
 </div>
 
+<p>&nbsp;</p>
+
 <p><strong>Como voc&ecirc; v&ecirc; que esta pe&ccedil;a se encaixa na atual conjuntura?</strong><br />
 &nbsp;</p>
 
-<p>De alguma maneira, mesmo diante dos governos anteriores, as oligarquias e outros poderes reacion&aacute;rios, de direita, vinculados ao capital, sempre estiveram rondando fortemente os governos, impedindo inclusive o avan&ccedil;o da reforma agr&aacute;ria, da justi&ccedil;a para essas hist&oacute;rias e de tantas outras. N&oacute;s n&atilde;o somos um pa&iacute;s, nunca tivemos autonomia real, nunca tivemos autonomia pol&iacute;tica verdadeira, ent&atilde;o a ditadura brasileira nunca foi reconhecida como em outros pa&iacute;ses da Am&eacute;rica Latina, tanto &eacute; que agora permite-se essa possibilidade de chamar revolu&ccedil;&atilde;o aquilo que foi um golpe tenebroso.<br />
+<p>De alguma maneira, mesmo diante dos governos anteriores, as oligarquias e outros poderes reacion&aacute;rios, de direita, vinculados ao Capital, sempre estiveram rondando fortemente os governos, impedindo inclusive o avan&ccedil;o da reforma agr&aacute;ria e&nbsp;da justi&ccedil;a para essas hist&oacute;rias e de tantas outras. N&oacute;s n&atilde;o somos um pa&iacute;s, nunca tivemos autonomia real, nunca tivemos autonomia pol&iacute;tica verdadeira, ent&atilde;o a ditadura brasileira nunca foi reconhecida como em outros pa&iacute;ses da Am&eacute;rica Latina, tanto &eacute; que agora permite-se essa possibilidade de chamar revolu&ccedil;&atilde;o aquilo que foi um golpe tenebroso.<br />
 &nbsp;</p>
 
 <p>O espet&aacute;culo busca fazer esta cr&iacute;tica de forma muito localizada, n&atilde;o se pretende uma aula de hist&oacute;ria. Ela n&atilde;o &eacute; nada al&eacute;m que uma homenagem, um lembrete, uma afirma&ccedil;&atilde;o de que exigimos&nbsp; o reconhecimento da ditadura militar e a pol&iacute;tica de exterm&iacute;nio. Exigimos que essas vozes sejam ouvidas, que esses corpos sejam encontrados, que as mulheres e guerreiros do Araguaia sejam reconhecidos como guerreiros. A partir dos gestos, cenas, imagens e depoimentos de camponeses, reivindicamos a liberta&ccedil;&atilde;o de povos oprimidos, de popula&ccedil;&otilde;es minorizadas, todos temos que espa&ccedil;o na mem&oacute;ria e nas aulas de hist&oacute;ria e no imagin&aacute;rio das nossas crian&ccedil;as e do nosso povo.<br />
