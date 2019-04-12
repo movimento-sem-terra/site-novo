@@ -77,3 +77,9 @@ As pr&aacute;ticas do curso foram focadas no aperfei&ccedil;oamento do viol&atil
 <strong>Curso de comunica&ccedil;&atilde;o</strong><br />
 <br />
 Em paralelo ao Curso de M&uacute;sica ocorreu tamb&eacute;m o 3&ordm; Curso de Comunica&ccedil;&atilde;o Ulisses Mana&ccedil;as, com participa&ccedil;&atilde;o de 15 jovens integrantes do MST. Esta edi&ccedil;&atilde;o teve como objetivo central aprofundar algumas t&eacute;cnicas e preparar a cobertura da Jornada de Lutas de Abril, que ocorreu entre os dias 7 e 10 na capital paranaense.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><em>Editado por Fernanda Alc&acirc;ntara</em></p>
