@@ -54,7 +54,7 @@ Da P&aacute;gina do MST</em><br />
 <br />
 &nbsp;</p>
 
-<p>Hoje, 12 de abril, completam-se&nbsp;47 anos do in&iacute;cio da guerrilha do Araguaia, data marcada pelo ataque ao &ldquo;Peaz&atilde;o&rdquo;, o ponto do PCdoB mais pr&oacute;ximo a Marab&aacute;, no Paran&aacute;. A ofensiva aconteceu no&nbsp; in&iacute;cio&nbsp; do&nbsp; ingresso&nbsp; dos&nbsp; militares, em 1972, quando a constru&ccedil;&atilde;o da Transamaz&ocirc;nica deixou exposta&nbsp; essa&nbsp; &aacute;rea&nbsp; antigamente&nbsp; escondida&nbsp; pela&nbsp; selva. &nbsp;</p>
+<p>Hoje, 12 de abril, completam-se&nbsp;47 anos do in&iacute;cio da guerrilha do Araguaia, data marcada pelo ataque ao &ldquo;Peaz&atilde;o&rdquo;, o ponto do PCdoB mais pr&oacute;ximo a Marab&aacute;, no Par&aacute;. A ofensiva aconteceu no&nbsp; in&iacute;cio&nbsp; do&nbsp; ingresso&nbsp; dos&nbsp; militares, em 1972, quando a constru&ccedil;&atilde;o da Transamaz&ocirc;nica deixou exposta&nbsp; essa&nbsp; &aacute;rea&nbsp; antigamente&nbsp; escondida&nbsp; pela&nbsp; selva. &nbsp;</p>
 
 <p><br />
 Nesse cen&aacute;rio, as mulheres tiveram um papel fundamental entre&nbsp;um grupo de estudantes, oper&aacute;rios e&nbsp;camponeses&nbsp;fizeram oposi&ccedil;&atilde;o ao governo vigente, no epis&oacute;dio conhecido como Guerrilha do Araguaia. A hist&oacute;ria delas foi representada de forma po&eacute;tica e documental&nbsp;em m&uacute;sicas, dan&ccedil;as, livros e&nbsp;apresenta&ccedil;&otilde;es,&nbsp;como na pe&ccedil;a &#39;<a href="https://www.facebook.com/guerrilheiras/">Guerrilheiras ou Para a Terra N&atilde;o H&aacute; Desaparecidos</a>&#39;.</p>
