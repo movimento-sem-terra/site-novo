@@ -41,7 +41,8 @@ releated_posts:
 </div>
 
 <p>Por&nbsp; Aline Oliveira<br />
-Da P&aacute;gina do MST</p>
+Da P&aacute;gina do MST<br />
+&nbsp;</p>
 
 <p>Cerca de 800 trabalhadores e trabalhadoras ocuparam nessa madrugada a sede do Instituto de Desenvolvimento Agr&aacute;rio do Cear&aacute; (IDACE). Entre as pautas, eles reivindicam a desapropria&ccedil;&atilde;o das &aacute;reas ocupadas - que somam mais de 2 mil fam&iacute;lias no Cear&aacute;-,&nbsp; infraestrutura para assentamentos, constru&ccedil;&atilde;o de escolas do campo e projetos produtivos principalmente para juventude, dentre outras.<br />
 &nbsp;</p>
