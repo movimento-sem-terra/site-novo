@@ -1,6 +1,8 @@
 ---
 date: "2019-04-15T15:15:08-03:00"
-tags: []
+tags:
+  - tag: alagoas
+  - tag: manifestação
 title: Três mil Sem Terra iniciam Jornada de Lutas em Alagoas
 support_line: "Em Maceió, camponeses e camponesas de todas as regiões do estado participam das atividades em memória ao Massacre de Eldorado dos Carajás"
 menu: lutas e mobilizações
@@ -30,7 +32,13 @@ files:
     $$hashKey: 0A7
 created_date: "2019-04-15T16:39:38-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/08/2018-08-28-a-gente-conta-os-minutos-para-a-feira-da-reforma-agraria-conta-assentada-de-alagoas.md
+  - _posts/2018/09/2018-09-03-mst-realiza-19a-feira-da-reforma-agraria-em-maceio.md
+  - _posts/2018/09/2018-09-04-nosso-projeto-e-produzir-alimentos-saudaveis-e-acessiveis-a-todo-o-povo-destaca-dirigente-do-mst.md
+  - _posts/2018/09/2018-09-05-mais-de-250-feirantes-participam-da-19a-feira-da-reforma-agraria-em-maceio.md
+  - _posts/2018/09/2018-09-06-com-programacao-especial-feira-do-mst-celebra-alimentacao-saudavel-com-as-criancas-do-campo-e-da-cidade.md
+  - _posts/2019/03/2019-03-24-milhares-de-pessoas-tomam-as-ruas-do-pais-contra-o-desmonte-da-previdencia.md
 
 ---
 <p>&nbsp;</p>
