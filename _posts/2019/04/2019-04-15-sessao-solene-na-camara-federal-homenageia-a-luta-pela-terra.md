@@ -1,6 +1,8 @@
 ---
 date: "2019-04-15T16:55:45-03:00"
-tags: []
+tags:
+  - tag: jornada-nacional-de-lutas
+  - tag: brasília
 title: Sessão Solene na Câmara Federal homenageia a luta pela terra
 support_line: Ato será em memória ao Massacre de Eldorado dos Carajás
 images_hd: //farm66.staticflickr.com/65535/47563619382_694bc54998_b.jpg
@@ -23,7 +25,12 @@ files:
     $$hashKey: 039
 created_date: "2019-04-15T17:01:28-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/08/2018-08-11-marcha-lula-livre-inicia-com-atos-politicos.md
+  - _posts/2019/03/2019-03-08-mil-camponesas-participam-de-ato-unitario-do-8-de-marco-em-maceio.md
+  - _posts/2019/03/2019-03-06-mulheres-da-via-campesina-se-somam-a-acoes-para-marcar-o-8-de-marco-no-rs.md
+  - _posts/2018/08/2018-08-01-ocupacoes-de-terra-e-mobilizacao-de-assentados-marcam-a-jornada-nacional-de-lutas-em-sp.md
+  - _posts/2018/07/2018-07-30-na-paraiba-mst-realiza-campanha-de-solidariedade-entre-o-campo-e-a-cidade.md
 
 ---
 <p>&nbsp;</p>
