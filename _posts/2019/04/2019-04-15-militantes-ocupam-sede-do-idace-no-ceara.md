@@ -43,13 +43,16 @@ releated_posts:
 <p>Por&nbsp; Aline Oliveira<br />
 Da P&aacute;gina do MST</p>
 
-<p>Cerca de 800 trabalhadores e trabalhadoras ocuparam nessa madrugada a sede do Instituto de Desenvolvimento Agr&aacute;rio do Cear&aacute; (IDACE). Entre as pautas, eles reivindicam a desapropria&ccedil;&atilde;o das &aacute;reas ocupadas - que somam mais de 2 mil fam&iacute;lias no Cear&aacute;-,&nbsp; infraestrutura para assentamentos, constru&ccedil;&atilde;o de escolas do campo e projetos produtivos principalmente para juventude, dentre outras.</p>
+<p>Cerca de 800 trabalhadores e trabalhadoras ocuparam nessa madrugada a sede do Instituto de Desenvolvimento Agr&aacute;rio do Cear&aacute; (IDACE). Entre as pautas, eles reivindicam a desapropria&ccedil;&atilde;o das &aacute;reas ocupadas - que somam mais de 2 mil fam&iacute;lias no Cear&aacute;-,&nbsp; infraestrutura para assentamentos, constru&ccedil;&atilde;o de escolas do campo e projetos produtivos principalmente para juventude, dentre outras.<br />
+&nbsp;</p>
 
-<p>As reivindica&ccedil;&otilde;es fazem parte da Jornada Nacional de lutas pela Reforma Agr&aacute;ria. As a&ccedil;&otilde;es deste m&ecirc;s denunciam o massacre de Eldorado dos Caraj&aacute;s, onde foram assassinados 21 Sem Terra, em 1996, e at&eacute; os os culpados continuam impunes. As jornadas de Abril tamb&eacute;m discutem a defesa da Reforma Agr&aacute;ria, a luta contra a aprova&ccedil;&atilde;o da Reforma da Previd&ecirc;ncia e contra os retrocessos e retirada de direitos da classe trabalhadora.</p>
+<p>As reivindica&ccedil;&otilde;es fazem parte da Jornada Nacional de lutas pela Reforma Agr&aacute;ria. As a&ccedil;&otilde;es deste m&ecirc;s denunciam o massacre de Eldorado dos Caraj&aacute;s, onde foram assassinados 21 Sem Terra, em 1996, e at&eacute; os os culpados continuam impunes. As jornadas de Abril tamb&eacute;m discutem a defesa da Reforma Agr&aacute;ria, a luta contra a aprova&ccedil;&atilde;o da Reforma da Previd&ecirc;ncia e contra os retrocessos e retirada de direitos da classe trabalhadora.<br />
+&nbsp;</p>
 
-<p>Para Neidinha Lopes, da coordena&ccedil;&atilde;o do MST no Cear&aacute;, a Jornada Nacional de Lutas acontece em um momento em que o pa&iacute;s passa por uma crise criada pelo pr&oacute;prio sistema capitalista e que precisa retirar direitos do povo. &quot;N&oacute;s, camponeses, precisamos nos erguer contra estes ataques, entre eles o da previd&ecirc;ncia social e paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria. Nossa mobiliza&ccedil;&atilde;o reafirma a necessidade da constru&ccedil;&atilde;o de um projeto popular de pa&iacute;s, para devolver&nbsp; aos camponeses o direito&nbsp; de plantar e principalmente viver com dignidade&quot;.</p>
+<p>Para Neidinha Lopes, da coordena&ccedil;&atilde;o do MST no Cear&aacute;, a Jornada Nacional de Lutas acontece em um momento em que o pa&iacute;s passa por uma crise criada pelo pr&oacute;prio sistema capitalista e que precisa retirar direitos do povo. &quot;N&oacute;s, camponeses, precisamos nos erguer contra estes ataques, entre eles o da previd&ecirc;ncia social e paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria. Nossa mobiliza&ccedil;&atilde;o reafirma a necessidade da constru&ccedil;&atilde;o de um projeto popular de pa&iacute;s, para devolver&nbsp; aos camponeses o direito&nbsp; de plantar e principalmente viver com dignidade&quot;.<br />
+&nbsp;</p>
 
-<p>Editado por Fernanda Alc&acirc;ntara</p>
+<p><em>Editado por Fernanda Alc&acirc;ntara</em></p>
 
 <p>
 <style type="text/css">p { margin-bottom: 0.25cm; line-height: 115%; }
