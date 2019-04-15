@@ -5,7 +5,7 @@ tags:
   - tag: jornada-nacional-de-lutas
   - tag: mobilizações
 title: "Milhares de Sem Terra iniciam a Jornada Nacional de Lutas pela Reforma Agrária em todo país "
-support_line: "ob o lema “Direitos camponeses já, com Reforma Agrária e Justiça Social”, o MST, mais uma vez, erguerá suas bandeiras e punhos em memória dos nossos mártires de Eldorado do Carajás"
+support_line: "Sob o lema “Direitos camponeses já, com Reforma Agrária e Justiça Social”, o MST faz lutas em memória dos mártires de Eldorado do Carajás"
 menu: lutas e mobilizações
 section: cover
 images_hd: //farm66.staticflickr.com/65535/46701000455_086ed0c74d_b.jpg
@@ -64,3 +64,5 @@ Vale ressaltar que hoje no Brasil existem mais de 4 mil pessoas f&iacute;sicas e
 
 <p><br />
 Durante as jornadas as a&ccedil;&otilde;es do MST dever&atilde;o se concentrar no acampamento da Juventude na Curva do S, sudoeste do Par&aacute;, local onde ocorreu o massacre de Eldorado do Caraj&aacute;s, al&eacute;m disso, ser&atilde;o realizadas campanhas de doa&ccedil;&atilde;o de alimentos, de produtos da Reforma Agr&aacute;ria nos munic&iacute;pios, que dever&atilde;o contar com debates nas universidades e atividades de forma&ccedil;&atilde;o e informa&ccedil;&atilde;o com a popula&ccedil;&atilde;o.</p>
+
+<p>&nbsp;</p>
