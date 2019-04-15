@@ -37,7 +37,7 @@ releated_posts: []
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Gustavo [1].jpeg" height="639" src="//farm66.staticflickr.com/65535/33739120018_02bdb67cbe_b.jpg" width="700" />
-<figcaption><em>Abertura da Jornada Nacional de Luta pela Reforma Agr&aacute;ria de Abril em Alagoas</em></figcaption>
+<figcaption><em>Abertura da Jornada Nacional de Luta pela Reforma Agr&aacute;ria de Abril em Alagoas/ Fotos: Gustavo Marinho</em></figcaption>
 </figure>
 </div>
 
@@ -50,8 +50,18 @@ Da P&aacute;gina do MST</em><br />
 <p>A segunda-feira (15) em Macei&oacute; ser&aacute; marcada pela chegada dos Sem Terra de todo o estado de Alagoas, onde iniciam a Jornada Nacional de Luta pela Reforma Agr&aacute;ria. Ao todo s&atilde;o cerca de tr&ecirc;s mil trabalhadores e trabalhadoras rurais que d&atilde;o in&iacute;cio aos atos na capital alagoana, com a marcha que sai do Campus A. C. Sim&otilde;es da Universidade Federal de Alagoas (UFAL), onde realizam ato em defesa da Universidade P&uacute;blica &agrave;s 8 horas em frente ao pr&eacute;dio da Reitoria do Campus.<br />
 &nbsp;</p>
 
-<p>Organizados na Comiss&atilde;o Pastoral da Terra (CPT), no Movimento pela Liberta&ccedil;&atilde;o dos Sem Terra (MLST), Movimento Via do Trabalho (MVT), Movimento de Luta pela Terra (MLT), no Movimento Terra, Trabalho e Liberdade (MTL) e no MST, os camponeses e camponesas iniciam as mobiliza&ccedil;&otilde;es logo nas primeiras horas do dia, nas fileiras da Marcha que deve atravessar a cidade de Macei&oacute; nos pr&oacute;ximos dias.<br />
+<p>Organizados na Comiss&atilde;o Pastoral da Terra (CPT), no Movimento pela Liberta&ccedil;&atilde;o dos Sem Terra (MLST), Movimento Via do Trabalho (MVT), Movimento de Luta pela Terra (MLT), no Movimento Terra, Trabalho e Liberdade (MTL) e no MST, os camponeses e camponesas iniciam as mobiliza&ccedil;&otilde;es logo nas primeiras horas do dia, nas fileiras da Marcha que deve atravessar a cidade de Macei&oacute; nos pr&oacute;ximos dias.</p>
+
+<p><br />
 &nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Gustavo [2].jpeg" height="467" src="//farm66.staticflickr.com/65535/33739120028_2c64475a85_b.jpg" width="700" />
+<figcaption><em>dia internacional de luta camponesa lembra o massacre de Eldorado dos Caraj&aacute;s/ Foto: Gustavo Marinho</em></figcaption>
+</figure>
+</div>
+
+<p>&nbsp;</p>
 
 <p>De acordo com Carlos Lima, da CPT, a Jornada de Luta do m&ecirc;s de abril &eacute; um momento bastante simb&oacute;lico para os trabalhadores e trabalhadoras Sem Terra. &ldquo;Mais uma vez abril ser&aacute; marcado pela luta dos camponeses e camponesas em todo o pa&iacute;s e aqui em Alagoas nossa Marcha e nossa mobiliza&ccedil;&atilde;o ser&aacute; marcada, mais uma vez, pela unidade daqueles e daquelas que seguem lutando pela terra e por uma Alagoas mais justa&rdquo;, destacou Lima.<br />
 &nbsp;</p>
