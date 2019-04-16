@@ -7,7 +7,7 @@ tags:
 title: "Milhares de Sem Terra iniciam a Jornada Nacional de Lutas pela Reforma Agrária em todo país "
 support_line: "Sob o lema “Direitos camponeses já, com Reforma Agrária e Justiça Social”, o MST faz lutas em memória dos mártires de Eldorado do Carajás"
 menu: lutas e mobilizações
-section: null
+section: cover
 images_hd: //farm66.staticflickr.com/65535/46701000455_086ed0c74d_b.jpg
 layout: post
 files:
