@@ -4,7 +4,7 @@ tags:
   - tag: arte-e-cultura
   - tag: teatro-político
 support_line: "Com o espetáculo Utopia da Memória, companhia de teatro Estudo de Cena leva ao público a luta de trabalhadoras e trabalhadores no Brasil"
-title: "Utopia da Memória: uma experiência teatral faz homenagem às assassinados em Carajás"
+title: "Utopia da Memória: peça homenageia as vítimas de Carajás "
 images_hd: //farm66.staticflickr.com/65535/47571825872_ae1479bc25_b.jpg
 menu: "educação, cultura e comunicação"
 layout: post
