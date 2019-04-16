@@ -4,7 +4,7 @@ tags:
   - tag: marcha
   - tag: lutas-e-mobilizações
   - tag: alagoas
-title: Sem Terra realizam reunião com o governador de Alagoas na manhã de hoje
+title: Sem Terra realizam reunião com o governador de Alagoas
 support_line: "Audiência com o governador do estado Renan Filho (MDB) está marcada para às 11 horas desta terça-feira no Palácio do Governo, em Maceió"
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/40655881623_781ca25237_b.jpg
