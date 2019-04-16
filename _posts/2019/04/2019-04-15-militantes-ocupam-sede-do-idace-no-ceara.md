@@ -36,7 +36,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Ocup [3].jpg" height="525" src="//farm66.staticflickr.com/65535/47562848622_17eaa91920_b.jpg" width="700" />
-<figcaption><em>Ocupa&ccedil;&atilde;o na sede do Instituto de Desenvolvimento Agr&aacute;rio do Cear&aacute; (IDACE)</em></figcaption>
+<figcaption><em>Ocupa&ccedil;&atilde;o na sede do Secretaria de Desenvolvimento Agr&aacute;rio do Cear&aacute; (SDA/CE)</em></figcaption>
 </figure>
 </div>
 
@@ -44,7 +44,7 @@ releated_posts:
 Da P&aacute;gina do MST<br />
 &nbsp;</p>
 
-<p>Cerca de 800 trabalhadores e trabalhadoras ocuparam nessa madrugada a sede do Instituto de Desenvolvimento Agr&aacute;rio do Cear&aacute; (IDACE). Entre as pautas, eles reivindicam a desapropria&ccedil;&atilde;o das &aacute;reas ocupadas - que somam mais de 2 mil fam&iacute;lias no Cear&aacute;-,&nbsp; infraestrutura para assentamentos, constru&ccedil;&atilde;o de escolas do campo e projetos produtivos principalmente para juventude, dentre outras.<br />
+<p>Cerca de 800 trabalhadores e trabalhadoras ocuparam nessa madrugada a sede da Secretaria de Desenvolvimento Agr&aacute;rio do Cear&aacute; (SDA). Entre as pautas, eles reivindicam a desapropria&ccedil;&atilde;o das &aacute;reas ocupadas - que somam mais de 2 mil fam&iacute;lias no Cear&aacute;-,&nbsp; infraestrutura para assentamentos, constru&ccedil;&atilde;o de escolas do campo e projetos produtivos principalmente para juventude, dentre outras.<br />
 &nbsp;</p>
 
 <p>As reivindica&ccedil;&otilde;es fazem parte da Jornada Nacional de lutas pela Reforma Agr&aacute;ria. As a&ccedil;&otilde;es deste m&ecirc;s denunciam o massacre de Eldorado dos Caraj&aacute;s, onde foram assassinados 21 Sem Terra, em 1996, e at&eacute; os os culpados continuam impunes. As jornadas de Abril tamb&eacute;m discutem a defesa da Reforma Agr&aacute;ria, a luta contra a aprova&ccedil;&atilde;o da Reforma da Previd&ecirc;ncia e contra os retrocessos e retirada de direitos da classe trabalhadora.<br />
