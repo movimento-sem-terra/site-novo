@@ -4,7 +4,7 @@ tags:
   - tag: via-campesina
   - tag: lutas-e-mobilizações
   - tag: jornada-de-lutas
-title: "17Abril |Dia Internacional de  Luta Camponesa 2019: Direitos Camponeses Já! Com Reforma Agraria e Justiça Social!"
+title: "17Abril |Dia Internacional de  Luta Camponesa 2019: Direitos Camponeses Já! Com Reforma Agraria e Justiça Social"
 support_line: "Chamado de ação da Via Campesina "
 images_hd: //farm66.staticflickr.com/65535/32679948557_ff4d060bb6_b.jpg
 menu: lutas e mobilizações
