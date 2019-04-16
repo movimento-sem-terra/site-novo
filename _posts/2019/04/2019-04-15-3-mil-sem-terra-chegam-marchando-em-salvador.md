@@ -4,7 +4,7 @@ tags:
   - tag: jornada-de-lutas
   - tag: bahia
 title: 3 mil Sem Terra chegam marchando em Salvador
-support_line: Militantes percorram cidades da Bahia para dar início à Jornadas de Abril
+support_line: Sem Terra percorram cidades da Bahia para dar início à Jornadas de Abril
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/47564191342_540f30e496_b.jpg
 layout: post
@@ -40,14 +40,16 @@ releated_posts:
 
 ---
 <p><br />
-<em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
+&nbsp;</p>
+
+<p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Ap&oacute;s 48 quil&ocirc;metros de Marcha, luta e resist&ecirc;ncia, o MST na Bahia segue com a pauta &ldquo;Lula Livre&rdquo; e v&ecirc;m protestando contra os desmandos sofridos pela classe trabalhadora.</p>
+Ap&oacute;s 48 quil&ocirc;metros de marcha, luta e resist&ecirc;ncia, o MST na Bahia segue com a pauta &ldquo;Lula Livre&rdquo; e protesta&nbsp;contra os desmandos sofridos pela classe trabalhadora.</p>
 
 <p><br />
-Partindo de Cama&ccedil;ari com destino &agrave; Salvador, cerca de 3 mil pessoas marcharam em rep&uacute;dio &agrave; situa&ccedil;&atilde;o que est&aacute; sendo vivenciada pelo ex-presidente Lula, contra a Reformada da Previd&ecirc;ncia e pela promo&ccedil;&atilde;o da Reforma Agr&aacute;ria, garantida por lei.</p>
+Partindo de Cama&ccedil;ari com destino &agrave; Salvador, cerca de 3 mil pessoas marcharam em rep&uacute;dio &agrave; situa&ccedil;&atilde;o que est&aacute; sendo vivenciada pelo ex-presidente Lula, contra a Reforma da Previd&ecirc;ncia e pela promo&ccedil;&atilde;o da Reforma Agr&aacute;ria, garantida por lei.</p>
 
 <figure class="image" style="float:right"><img alt="Jornada BA - JONAS [2].jpeg" height="450" src="//farm66.staticflickr.com/65535/47564191312_890fefb13a_b.jpg" width="300" />
 <figcaption><em>Mais de 3 mil pessoas participaram da marcha/<br />
@@ -58,7 +60,7 @@ Foto: Jonas Santos</em></figcaption>
 Ap&oacute;s sua pris&atilde;o arbitr&aacute;ria e ileg&iacute;tima, Lula segue preso sem que o sistema judici&aacute;rio conseguisse provas que pudesse conden&aacute;-lo. Al&eacute;m do Lula Livre, outras pautas estiveram presentes durante a jornada de luta.</p>
 
 <p><br />
-Entre os pontos que fizeram parte dos protestos da marcha vale ressaltar a reforma da previd&ecirc;ncia e reforma trabalhista, importantes ferramentas que est&atilde;o sendo implementadas para retirar direitos dos trabalhadores e trabalhadoras.</p>
+Entre os pontos que fizeram parte&nbsp;da marcha vale ressaltar a Reforma da Previd&ecirc;ncia e reforma trabalhista, importantes ferramentas que est&atilde;o sendo implementadas para retirar direitos dos trabalhadores e trabalhadoras.</p>
 
 <p><br />
 Outra tema levantada pelos manifestantes foi a paralisa&ccedil;&atilde;o da reforma agr&aacute;ria,&nbsp; subdividida em outras pastas ministeriais pelo governo atual e que agora se encontra dentro do Minist&eacute;rio da Agricultura. A mobiliza&ccedil;&atilde;o pretende pressionar o governo do da Bahia no comprimento desta pauta.</p>
