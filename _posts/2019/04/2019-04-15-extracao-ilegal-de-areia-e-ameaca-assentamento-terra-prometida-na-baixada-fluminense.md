@@ -4,7 +4,7 @@ tags:
   - tag: ocupação
   - tag: rio-de-janeiro
   - tag: reforma-agraria
-title: Extração ilegal de areia e ameaça assentamento Terra Prometida
+title: Extração ilegal de areia ameaça assentamento Terra Prometida
 support_line: "Crime ambiental está ocorrendo em um dos lotes do Assentamento Terra Prometida, no Rio de Janeiro"
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/33739475838_729f0eff61_b.jpg
