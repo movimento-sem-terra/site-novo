@@ -4,7 +4,7 @@ tags:
   - tag: Massacre-de-Eldorado-dos-Carajás
   - tag: violência-no-campo
   - tag: lutas-e-mobilizações
-title: "Componeses realizam Jornada de Lutas em Belém, no Pará"
+title: "Camponeses realizam Jornada de Lutas em Belém, no Pará"
 support_line: "De 15 a 17 de Abril em Belém do Pará, são esperados mais de 400 camponeses e camponesas da região norte e nordeste paraense."
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/47622579981_7a710b58b7_b.jpg
