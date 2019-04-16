@@ -94,12 +94,14 @@ Segundo o diretor, &eacute; importante articular algumas dessas hist&oacute;rias
 <p><br />
 Promovendo o debate, a cria&ccedil;&atilde;o e a circula&ccedil;&atilde;o destes novos olhares, &quot;Utopia da Mem&oacute;ria&quot;&nbsp;provoca um duplo sentido de alimentar experi&ecirc;ncias que&nbsp;acrescentam para a apresenta&ccedil;&atilde;o, correspondendo as partes da hist&oacute;ria para constituir o todo e definindo o proceder art&iacute;stico. Um espet&aacute;culo &uacute;nico, em tempos t&atilde;o sombrios.</p>
 
-<p>&nbsp;</p>
+<p><strong>CONFIRA ENTREVISTA COMPLETA COM O DIRETOR</strong></p>
 
-<p><strong>SERVI&Ccedil;OS</strong></p>
+<p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/REadj6uXVWc" width="560"></iframe></p>
 
 <p><br />
-<strong>Exibi&ccedil;&atilde;o da A farsa: ensaio sobre a verdade (17/04)</strong><br />
+<strong>SERVI&Ccedil;OS</strong></p>
+
+<p><strong>Exibi&ccedil;&atilde;o da A farsa: ensaio sobre a verdade (17/04)</strong><br />
 Hor&aacute;rio: 14h</p>
 
 <p><strong>Apresenta&ccedil;&atilde;o: Utopia da Mem&oacute;ria (em cartaz at&eacute; 27/04)</strong><br />
