@@ -4,9 +4,9 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: mst
   - tag: lutas
-title: "Ato Público Por Reforma Agrária e Alimentação Saudável \n"
+title: "Ato Público por Reforma Agrária e Alimentação Saudável \n"
 menu: lutas e mobilizações
-support_line: "Diante da negativa do Governo do Estado de São Paulo em ceder o Parque da água Branca, o MST  convoca seus militantes, imprensa e a sociedade civil para participar do ato público, manhã (17) às 15h "
+support_line: "Diante da negativa do Governo do Estado de São Paulo em ceder o Parque da Água Branca, o MST  convoca seus militantes, imprensa e a sociedade civil para participar do ato público, manhã (17) às 15h "
 images_hd: //farm66.staticflickr.com/65535/46708863835_64fcfc518f_b.jpg
 layout: post
 files:
