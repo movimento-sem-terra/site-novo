@@ -54,7 +54,7 @@ A feira realizada desde 2016 no Parque da &Aacute;gua Branca n&atilde;o foi auto
 A dire&ccedil;&atilde;o nacional do MST entende que essa negativa &eacute; parte de um processo de impedimento e de criminaliza&ccedil;&atilde;o do movimento fruto da atual conjuntura em que vivemos.&nbsp;</p>
 
 <p><br />
-Diante do exposto, em defesa da realiza&ccedil;&atilde;o da Feira da Reforma Agr&aacute;ria e da alimenta&ccedil;&atilde;o saud&aacute;vel, um ato p&uacute;blico est&aacute; marcado para essa&nbsp;quarta-feira (17) &agrave;s 15 no interior do Parque da &Aacute;gua Branca.&nbsp;</p>
+Diante do exposto, em defesa da realiza&ccedil;&atilde;o da Feira da Reforma Agr&aacute;ria e da alimenta&ccedil;&atilde;o saud&aacute;vel, um ato p&uacute;blico est&aacute; marcado para essa&nbsp;quarta-feira (17) &agrave;s 15h no interior do Parque da &Aacute;gua Branca.&nbsp;</p>
 
 <p><br />
 Al&eacute;m de integrantes do MST, a a&ccedil;&atilde;o contar&aacute; com a presen&ccedil;a de integrantes de organiza&ccedil;&otilde;es e movimentos populares, artistas e parlamentares.&nbsp;</p>
