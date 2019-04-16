@@ -31,6 +31,7 @@ releated_posts:
   - _posts/2018/10/2018-10-11-cadeia-para-a-cutrale-e-liberdade-aos-presos-politicos-do-mst.md
   - _posts/2019/01/2019-01-26-mst-celebra-35-anos-de-luta-e-resistencia-do-mst.md
   - _posts/2018/09/2018-09-17-cerca-de-15-mil-pessoas-participam-da-3a-feira-estadual-da-reforma-agraria-no-es.md
+section: cover
 
 ---
 <p><br />
