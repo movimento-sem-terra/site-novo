@@ -38,6 +38,15 @@ releated_posts:
   - _posts/2019/04/2019-04-16-componeses-realizam-jornada-de-lutas-em-belem-no-para.md
   - _posts/2019/04/2019-04-17-mst-realiza-ato-em-defesa-da-reforma-agraria-em-sao-paulo.md
   - _posts/2019/04/2019-04-17-mst-ocupa-incra-em-pernambuco.md
+  - _posts/2019/03/2019-03-29-dirigente-do-mst-transmite-recado-de-lula-esta-na-hora-de-debater-olho-no-olho.md
+  - _posts/2019/04/2019-04-07-acompanhe-minuto-a-minuto-a-jornada-lula-livre.md
+  - _posts/2019/04/2019-04-04-frente-parlamentar-mista-com-participacao-popular-faz-carta-a-cnbb-contra-pacote-anti-crime.md
+  - _posts/2019/04/2019-04-10-mst-ocupa-secretaria-da-agricultura-de-sao-gabriel.md
+  - _posts/2019/04/2019-04-12-ato-do-mst-pr-homenageou-antonio-tavares-e-vitimas-do-latifundio.md
+  - _posts/2018/09/2018-09-04-nosso-projeto-e-produzir-alimentos-saudaveis-e-acessiveis-a-todo-o-povo-destaca-dirigente-do-mst.md
+  - _posts/2018/09/2018-09-05-mais-de-250-feirantes-participam-da-19a-feira-da-reforma-agraria-em-maceio.md
+  - _posts/2018/09/2018-09-06-com-programacao-especial-feira-do-mst-celebra-alimentacao-saudavel-com-as-criancas-do-campo-e-da-cidade.md
+  - _posts/2018/09/2018-09-08-tenda-de-educacao-popular-em-saude-atende-mais-de-50-pessoas-por-dia-na-feira-da-reforma-agraria-em-maceio.md
 
 ---
 <p>&nbsp;</p>
