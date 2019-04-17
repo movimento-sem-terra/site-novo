@@ -44,6 +44,7 @@ releated_posts:
   - _posts/2018/12/2018-12-15-reforma-agraria-popular-um-grito-de-resistencia.md
   - _posts/2018/12/2018-12-15-gastronomia-cores-cheiros-e-gostos-que-contam-a-importancia-da-reforma-agraria.md
   - _posts/2018/12/2018-12-15-ato-politico-marca-tres-decadas-de-resistencia-do-mst-em-minas-gerais.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
