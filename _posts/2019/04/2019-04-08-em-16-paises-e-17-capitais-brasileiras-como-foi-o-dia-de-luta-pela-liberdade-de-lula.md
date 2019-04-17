@@ -58,13 +58,6 @@ files:
     small: //farm8.staticflickr.com/7889/40600275303_3ff3679c10_n.jpg
     title: "BdF-Jornada Lula Livre [5].jpeg"
     $$hashKey: 0OT
-  - link: //farm8.staticflickr.com/7823/40600275523_feb4250765_b.jpg
-    original: //farm8.staticflickr.com/7823/40600275523_b5dfecb3ac_o.jpg
-    thumbnail: //farm8.staticflickr.com/7823/40600275523_feb4250765_t.jpg
-    medium: //farm8.staticflickr.com/7823/40600275523_feb4250765_z.jpg
-    small: //farm8.staticflickr.com/7823/40600275523_feb4250765_n.jpg
-    title: "BdF-Jornada Lula Livre [4].jpeg"
-    $$hashKey: 0OW
   - link: //farm8.staticflickr.com/7892/40600275263_37a9af0c97_b.jpg
     original: //farm8.staticflickr.com/7892/40600275263_a40caba4d5_o.jpg
     thumbnail: //farm8.staticflickr.com/7892/40600275263_37a9af0c97_t.jpg
@@ -86,7 +79,7 @@ releated_posts:
   - _posts/2019/04/2019-04-05-pernambuco-tera-atos-pela-liberdade-de-lula.md
   - _posts/2019/04/2019-04-01-jornada-internacional-lula-livre-mobiliza-acoes-no-brasil-e-no-mundo.md
   - _posts/2018/08/2018-08-13-cartas-para-lula-porque-lhe-escrevo.md
-section: featured-news
+section: null
 
 ---
 <p><br />
