@@ -3,8 +3,8 @@ date: "2019-04-17T17:35:17-03:00"
 tags:
   - tag: paraná
   - tag: jornada-nacional-de-lutas
-title: Jornada de Lutas une mobilização e ações de solidariedade no Paraná
-support_line: Foram quatro dias de mobilizações na capital em defesa da liberdade do ex-presidente Lula e pela Reforma Agrária
+title: Mobilização e ações de solidariedade marcam a Jornada de Lutas no Paraná
+support_line: Foram quatro dias de atividades na capital em defesa da liberdade do ex-presidente Lula e pela Reforma Agrária
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/46907568094_0bae78d14f_b.jpg
 layout: post
