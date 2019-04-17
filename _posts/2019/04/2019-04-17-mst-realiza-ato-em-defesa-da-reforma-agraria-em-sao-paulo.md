@@ -46,7 +46,7 @@ releated_posts:
 <p><br />
 <em>Da P&aacute;gina do MST</em></p>
 
-<p>O MST em S&atilde;o Paulo realiza agora de manh&atilde; o ato em Defesa da Reforma Agr&aacute;ria. A a&ccedil;&atilde;o faz parte da Jornada Nacional de Luta pela Reforma Agr&aacute;ria, que se estender&aacute; at&eacute; o m&ecirc;s de maio, mostrando para a sociedade que existe muito latif&uacute;ndio improdutivo, sem cumprir com sua fun&ccedil;&atilde;o social e nas m&atilde;os de pol&iacute;ticos corruptos que fazem o discurso da n&atilde;o Reforma Agr&aacute;ria.<br />
+<p>O MST em S&atilde;o Paulo realiza agora de manh&atilde;, &agrave;s 10h, o ato em Defesa da Reforma Agr&aacute;ria. A a&ccedil;&atilde;o faz parte da Jornada Nacional de Luta pela Reforma Agr&aacute;ria, que se estender&aacute; at&eacute; o m&ecirc;s de maio, mostrando para a sociedade que existe muito latif&uacute;ndio improdutivo, sem cumprir com sua fun&ccedil;&atilde;o social e nas m&atilde;os de pol&iacute;ticos corruptos que fazem o discurso da n&atilde;o Reforma Agr&aacute;ria.<br />
 &nbsp;</p>
 
 <p>A Reforma Agr&aacute;ria &eacute; uma quest&atilde;o social e de desenvolvimento econ&ocirc;mico do campo brasileiro, voltado &agrave; defesa ambiental e &agrave; farta produ&ccedil;&atilde;o de alimenta&ccedil;&atilde;o diversa e saud&aacute;vel. O Brasil &eacute; um dos pa&iacute;ses em que a terra est&aacute; mais concentrada nas m&atilde;os de poucos, resultando em desigualdade social e fome e atingindo e a vida de milhares de pessoas. Al&eacute;m de ser uma luta leg&iacute;tima, a Reforma Agr&aacute;ria &eacute; um direito Constitucional.<br />
