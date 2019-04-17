@@ -14,6 +14,13 @@ files:
     small: //farm66.staticflickr.com/65535/46714788865_4e137204c3_n.jpg
     title: CapaFaceAto.png
     $$hashKey: "030"
+  - link: //farm66.staticflickr.com/65535/40665284523_7af737039f_b.jpg
+    original: //farm66.staticflickr.com/65535/40665284523_d6882a250f_o.png
+    thumbnail: //farm66.staticflickr.com/65535/40665284523_7af737039f_t.jpg
+    medium: //farm66.staticflickr.com/65535/40665284523_7af737039f_z.jpg
+    small: //farm66.staticflickr.com/65535/40665284523_7af737039f_n.jpg
+    title: CapaFaceAto.png
+    $$hashKey: 092
 created_date: "2019-04-17T13:24:51-03:00"
 published: false
 releated_posts: []
@@ -33,7 +40,7 @@ releated_posts: []
 <p><br />
 &nbsp;</p>
 
-<p>A Jornada Nacional de Luta pela Reforma Agr&aacute;ria desse ano tem como lema: &ldquo;Direitos camponeses j&aacute;, com Reforma Agr&aacute;ria e Justi&ccedil;a Social&rdquo;.</p>
+<p>Mais uma vez os Sem Terra saem &agrave;s ruas de todo pa&iacute;s par a&nbsp;Jornada Nacional de Luta pela Reforma Agr&aacute;ria. Esse ano sob o&nbsp;lema: &ldquo;Direitos camponeses j&aacute;, com Reforma Agr&aacute;ria e Justi&ccedil;a Social&rdquo;</p>
 
 <p><br />
 Al&eacute;m da mem&oacute;ria&nbsp;&nbsp;mem&oacute;ria dos nossos m&aacute;rtires de Eldorado do Caraj&aacute;s. Al&eacute;m disso, as mobiliza&ccedil;&otilde;es acontecem contra os desmandos do atual governo (paralisa&ccedil;&atilde;o da Reforma Agr&aacute;ria, Reforma da Previd&ecirc;ncia e cortes de pol&iacute;ticas p&uacute;blicas). As a&ccedil;&otilde;es tamb&eacute;m tem como mote a liberdade do ex-presidente Lula.&nbsp;&nbsp;</p>
@@ -64,6 +71,8 @@ No&nbsp;mesmo dia, cerca de 600 militantes&nbsp;realizaram um protesto&nbsp;&nbs
 <p><br />
 J&aacute; no dia (10) um&nbsp;grupo de 50 integrantes do MST&nbsp;que vive em assentamentos de S&atilde;o Gabriel, na Fronteira Oeste do Rio Grande do Sul, ocuparam a Secretaria de Agricultura do munic&iacute;pio. O objetivo da a&ccedil;&atilde;o&nbsp;foi denunciar a precariedade das estradas dos assentamentos, que dificulta o escoamento da produ&ccedil;&atilde;o e o transporte escolar.<br />
 Durante a tarde, assentados de Santa Margarida e S&atilde;o Gabriel, na Fronteira Oeste do Rio Grande do Sul, realizaram vig&iacute;lia em frente ao F&oacute;rum de S&atilde;o Gabriel pela liberdade de Lula.</p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -175,7 +184,7 @@ Em Sergipe MST ocupou na manh&atilde; desta quarta-feira&nbsp;a superintend&ecir
 <strong>S&atilde;o Paulo </strong></p>
 
 <p><br />
-Dezenas de sem militantes Sem Terra ocuparam a Superintend&ecirc;ncia Regional do Incra&nbsp;na capital paulista.&nbsp;</p>
+Dezenas de&nbsp;militantes Sem Terra ocuparam a Superintend&ecirc;ncia Regional do Incra&nbsp;na capital paulista.&nbsp;</p>
 
 <p><br />
 <br />
