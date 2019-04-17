@@ -25,7 +25,12 @@ files:
     $$hashKey: "054"
 created_date: "2019-04-17T14:57:05-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/08/2018-08-31-no-rio-grande-do-sul-mst-comercializa-alimentos-saudaveis-na-expointer.md
+  - _posts/2018/08/2018-08-31-mst-planeja-proxima-safra-de-arroz-organico.md
+  - _posts/2018/09/2018-09-13-entidades-e-movimentos-populares-debatem-lei-da-grilagem-no-rio-grande-do-sul.md
+  - _posts/2018/11/2018-11-19-mst-forma-18-tecnicos-em-agropecuaria-com-habilitacao-em-agroecologia.md
+  - _posts/2019/03/2019-03-06-mulheres-da-via-campesina-se-somam-a-acoes-para-marcar-o-8-de-marco-no-rs.md
 
 ---
 <div style="text-align:center">
