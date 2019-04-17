@@ -7,7 +7,7 @@ tags:
 support_line: "Atividade acontece nesta quarta-feira, 17 de abril, e marca os 23 anos do Massacre de Eldorado dos Carajás (PA)"
 title: MST realiza ato em defesa da reforma Agrária em São Paulo
 menu: lutas e mobilizações
-images_hd: //farm66.staticflickr.com/65535/46904783594_f389af6090_b.jpg
+images_hd: //farm66.staticflickr.com/65535/46713633005_c891bc3c11_b.jpg
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/47629039351_af9bd7fcb9_b.jpg
@@ -17,13 +17,27 @@ files:
     small: //farm66.staticflickr.com/65535/47629039351_af9bd7fcb9_n.jpg
     title: ato_incra.jpeg
     $$hashKey: 06T
-  - link: //farm66.staticflickr.com/65535/46904783594_f389af6090_b.jpg
-    original: //farm66.staticflickr.com/65535/46904783594_a9de9d3258_o.jpg
-    thumbnail: //farm66.staticflickr.com/65535/46904783594_f389af6090_t.jpg
-    medium: //farm66.staticflickr.com/65535/46904783594_f389af6090_z.jpg
-    small: //farm66.staticflickr.com/65535/46904783594_f389af6090_n.jpg
-    title: "BdF [13].jpg"
-    $$hashKey: 06W
+  - link: //farm66.staticflickr.com/65535/33751874858_ccc76d650e_b.jpg
+    original: //farm66.staticflickr.com/65535/33751874858_57d40e5657_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/33751874858_ccc76d650e_t.jpg
+    medium: //farm66.staticflickr.com/65535/33751874858_ccc76d650e_z.jpg
+    small: //farm66.staticflickr.com/65535/33751874858_ccc76d650e_n.jpg
+    title: "ato_incra [3].jpeg"
+    $$hashKey: 0R4
+  - link: //farm66.staticflickr.com/65535/46713632995_2ec20ffbf0_b.jpg
+    original: //farm66.staticflickr.com/65535/46713632995_83ac27912f_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/46713632995_2ec20ffbf0_t.jpg
+    medium: //farm66.staticflickr.com/65535/46713632995_2ec20ffbf0_z.jpg
+    small: //farm66.staticflickr.com/65535/46713632995_2ec20ffbf0_n.jpg
+    title: "ato_incra [4].jpeg"
+    $$hashKey: 0R7
+  - link: //farm66.staticflickr.com/65535/46713633005_c891bc3c11_b.jpg
+    original: //farm66.staticflickr.com/65535/46713633005_58de6231ba_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/46713633005_c891bc3c11_t.jpg
+    medium: //farm66.staticflickr.com/65535/46713633005_c891bc3c11_z.jpg
+    small: //farm66.staticflickr.com/65535/46713633005_c891bc3c11_n.jpg
+    title: "ato_incra [2].jpeg"
+    $$hashKey: 0RA
 created_date: "2019-04-17T10:00:54-03:00"
 published: true
 releated_posts:
@@ -52,6 +66,11 @@ releated_posts:
 <p>A Reforma Agr&aacute;ria &eacute; uma quest&atilde;o social e de desenvolvimento econ&ocirc;mico do campo brasileiro, voltado &agrave; defesa ambiental e &agrave; farta produ&ccedil;&atilde;o de alimenta&ccedil;&atilde;o diversa e saud&aacute;vel. O Brasil &eacute; um dos pa&iacute;ses em que a terra est&aacute; mais concentrada nas m&atilde;os de poucos, resultando em desigualdade social e fome e atingindo e a vida de milhares de pessoas. Al&eacute;m de ser uma luta leg&iacute;tima, a Reforma Agr&aacute;ria &eacute; um direito Constitucional.<br />
 &nbsp;</p>
 
+<figure class="image" style="float:left"><img alt="ato_incra [3].jpeg" height="150" src="//farm66.staticflickr.com/65535/33751874858_ccc76d650e_b.jpg" width="300" />
+<figcaption><em>Faixas e gritos de luta marcam ato<br />
+em S&atilde;o Paulo. Foto: divulga&ccedil;&atilde;o</em></figcaption>
+</figure>
+
 <p>As pol&iacute;ticas de Reforma Agr&aacute;ria que j&aacute; vinham sofrendo retrocessos ao longo dos anos, principalmente ap&oacute;s o golpe de 2016, mas agora est&atilde;o sendo praticamente extintas no governo Bolsonaro. Na Lei Or&ccedil;amentaria Anual para 2019, destaca-se a interrup&ccedil;&atilde;o de or&ccedil;amentos para o Programa de Aquisi&ccedil;&atilde;o de Alimentos (PAA). Al&eacute;m disso, o governo pretende&nbsp; realizar desmanches na organiza&ccedil;&atilde;o fundi&aacute;ria; Assist&ecirc;ncia T&eacute;cnica e Extens&atilde;o Rural e ,o apoio &agrave; organiza&ccedil;&atilde;o econ&ocirc;mica e promo&ccedil;&atilde;o da cidadania das mulheres camponesas, todos or&ccedil;amentos que existiam at&eacute; 2018.<br />
 &nbsp;</p>
 
@@ -60,6 +79,11 @@ releated_posts:
 
 <p>Outro dado alarmante &eacute; a libera&ccedil;&atilde;o desenfreada dos agrot&oacute;xicos. Em dois meses de governo Bolsonaro, o Minist&eacute;rio da Agricultura, Pecu&aacute;ria e Abastecimento (Mapa) publicou a autoriza&ccedil;&atilde;o de 86 novos produtos elaborados com agrot&oacute;xicos, em m&eacute;dia, 1,6 por dia. O Brasil &eacute; o maior consumidor de agrot&oacute;xicos do mundo. E, segundo o Atlas do Agroneg&oacute;cio, os herbicidas &agrave; base de glifosato, usados nas lavouras transg&ecirc;nicas, respondem por mais da metade de todo o veneno usado na agricultura brasileira.<br />
 &nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="ato_incra [4].jpeg" height="150" src="//farm66.staticflickr.com/65535/46713632995_2ec20ffbf0_b.jpg" width="300" />
+<figcaption><em>Faixas e gritos de luta marcam ato<br />
+em S&atilde;o Paulo. Foto: reprodu&ccedil;&atilde;o</em></figcaption>
+</figure>
 
 <p>O envenenamento n&atilde;o se restringe ao campo. Estudo divulgado nesta segunda-feira (15) pelo site Por Tr&aacute;s do Alimento, a partir de dados do Minist&eacute;rio da Sa&uacute;de, aponta que a &aacute;gua que abastece 1 em cada 4 cidades brasileiras est&aacute; contaminada por um &ldquo;coquetel t&oacute;xico&rdquo; de 27 pesticidas. Destes, 16 s&atilde;o classificados como altamente t&oacute;xicos pela Ag&ecirc;ncia Nacional de Vigil&acirc;ncia Sanit&aacute;ria (Anvisa) e 11 associados &agrave; doen&ccedil;as como c&acirc;ncer, disfun&ccedil;&otilde;es hormonais, doen&ccedil;as cr&ocirc;nicas e malforma&ccedil;&atilde;o fetal. O estado de S&atilde;o Paulo &eacute; o recordista nacional de contamina&ccedil;&atilde;o da &aacute;gua por agrot&oacute;xicos, reunindo mais de 500 cidades com todos os 27 pesticidas identificados.<br />
 &nbsp;</p>
