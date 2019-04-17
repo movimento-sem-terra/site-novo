@@ -35,12 +35,12 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Abril_SE2.jpeg" height="525" src="//farm66.staticflickr.com/65535/33752445908_c6a0d0d2e6_b.jpg" width="700" />
-<figcaption><em>A&ccedil;&atilde;o na sede do Incra em Sergipe. Foto: Luis Fernando</em></figcaption>
+<figcaption><em>A&ccedil;&atilde;o na sede do Incra em Sergipe. Foto: Luiz Silva</em></figcaption>
 </figure>
 </div>
 
 <p><br />
-<em>Por Luis Fernando<br />
+<em>Por Luiz Silva<br />
 Da P&aacute;gina do MST</em></p>
 
 <p>Neste 17 de abril, Dia Internacional da Luta Camponesa pela Reforma Agr&aacute;ria, as fam&iacute;lias acampadas e assentadas de Sergipe est&atilde;o ocupando as instala&ccedil;&otilde;es da superintend&ecirc;ncia do INCRA em Sergipe.</p>
