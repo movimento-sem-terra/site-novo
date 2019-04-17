@@ -49,7 +49,12 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Jornadas [1].jpeg" height="467" src="//farm66.staticflickr.com/65535/47630227561_59e3722a58_b.jpg" width="700" />
+<figcaption><em>Dia Internacional da Luta Camponesa pela Reforma Agr&aacute;ria no Rio de Janeiro.<br />
+Foto: Pablo Vergara</em></figcaption>
+</figure>
+</div>
 
 <p><br />
 <em>Por Coletivo de Comunica&ccedil;&atilde;o MST no Rio de Janeiro<br />
