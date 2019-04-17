@@ -67,7 +67,7 @@ A reuni&atilde;o, tamb&eacute;m contou com a participa&ccedil;&atilde;o do super
 Pretto lembrou a import&acirc;ncia de retomar pautas que durante todo o governo Sartori estavam esquecidas. &ldquo;Eduardo Leite abriu um di&aacute;logo, j&aacute; com secret&aacute;rios e assessores presentes. Nosso objetivo &eacute; cobrar solu&ccedil;&otilde;es urgentes aos problemas que os assentamentos t&ecirc;m, como a falta de &aacute;gua, estradas ruins e amea&ccedil;as de fechamento de escolas. &Eacute; com otimismo que ouvimos do governador que esses assuntos ser&atilde;o tratados sem nenhum tipo de preconceito ou de ideologias em rela&ccedil;&atilde;o ao MST&rdquo;, observou.</p>
 
 <p><br />
-<strong>Abril Vermelho</strong></p>
+<strong>Jornada de Lutas</strong></p>
 
 <p><br />
 O MST esteve mobilizado na Capital ga&uacute;cha ao longo desta &uacute;ltima ter&ccedil;a-feira (16). Cerca de 600 trabalhadores protestaram no p&aacute;tio do Incra para denunciar a paralisia da pol&iacute;tica nacional de Reforma Agr&aacute;ria e reivindicar assentamento &agrave;s fam&iacute;lias acampadas.&nbsp;</p>
