@@ -48,7 +48,7 @@ section: cover
 <p>Nesta&nbsp;quarta-feira (17) o Movimento dos Trabalhadores Rurais Sem Terra (MST) convoca seus militantes, imprensa e a sociedade civil para participar do&nbsp;Ato P&uacute;blico em Defesa da Feira Nacional da Reforma Agr&aacute;ria.&nbsp;</p>
 
 <p><br />
-A feira realizada desde 2016 no Parque da &Aacute;gua Branca n&atilde;o foi autorizada pelo atual governo de S&atilde;o Paulo (Jo&atilde;o D&oacute;ria &ndash; PSDB) sob a justificativa de que a estrutura do parque n&atilde;o comporta o evento, tal afirma&ccedil;&atilde;o n&atilde;o condiz com a realidade uma vez que as edi&ccedil;&otilde;es anteriores do evento transcorreram sem grandes problemas.&nbsp;</p>
+A feira realizada desde 2015&nbsp;no Parque da &Aacute;gua Branca n&atilde;o foi autorizada pelo atual governo de S&atilde;o Paulo (Jo&atilde;o D&oacute;ria &ndash; PSDB) sob a justificativa de que a estrutura do parque n&atilde;o comporta o evento, tal afirma&ccedil;&atilde;o n&atilde;o condiz com a realidade uma vez que as edi&ccedil;&otilde;es anteriores do evento transcorreram sem grandes problemas.&nbsp;</p>
 
 <p><br />
 A dire&ccedil;&atilde;o nacional do MST entende que essa negativa &eacute; parte de um processo de impedimento e de criminaliza&ccedil;&atilde;o do movimento fruto da atual conjuntura em que vivemos.&nbsp;</p>
