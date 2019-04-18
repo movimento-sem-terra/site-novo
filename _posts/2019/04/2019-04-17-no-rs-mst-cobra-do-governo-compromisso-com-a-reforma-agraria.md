@@ -3,7 +3,7 @@ date: "2019-04-17T14:52:50-03:00"
 tags:
   - tag: rio-grande-do-sul
   - tag: jornada-nacional-de-lutas
-title: "No RS, MST cobra do governo compromisso com a Reforma Agrária"
+title: MST cobra do governo gaúcho compromisso com a Reforma Agrária
 support_line: Durante reunião foram apresentadas algumas demandas ignoradas na gestão do ex-governador José Ivo Sartori (PMDB)
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/47578105852_386198a89b_b.jpg
