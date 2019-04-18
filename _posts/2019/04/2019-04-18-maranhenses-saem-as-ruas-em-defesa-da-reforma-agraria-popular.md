@@ -1,7 +1,9 @@
 ---
 date: "2019-04-18T11:51:57-03:00"
-tags: []
-title: Maranhenses saem às ruas em defesa da reforma agrária popular
+tags:
+  - tag: maranhão
+  - tag: jornada-nacional-de-lutas
+title: Maranhenses saem às ruas em defesa da Reforma Agrária Popular
 support_line: Cerca de 800 Sem Terra participaram de ações realizadas em diversas cidades no estado
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/32694302917_5d5edb685a_b.jpg
@@ -30,7 +32,11 @@ files:
     $$hashKey: 02V
 created_date: "2019-04-18T12:00:10-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2019/03/2019-03-18-no-meio-do-caminho-entre-as-lutas.md
+  - _posts/2018/07/2018-07-10-entidades-visitam-acampamento-marielle-franco-no-maranhao.md
+  - _posts/2018/08/2018-08-21-no-maranhao-mst-ocupa-incra-apos-ameaca-de-despejo-em-assentamento.md
+  - _posts/2019/03/2019-03-19-a-esperanca-tem-nome-de-marielle-franco.md
 
 ---
 <div style="text-align:center">
@@ -42,9 +48,11 @@ releated_posts: []
 <p><br />
 <br />
 <em>Por Reynaldo Costa<br />
-Da P&aacute;gina do MST</em><br />
-<br />
-No Maranh&atilde;o, o 17 de abril tamb&eacute;m foi marcado por diversas atividades organizadas pelo Movimento Sem Terra. Com a&ccedil;&otilde;es em v&aacute;rias cidades, o Movimento foi &agrave;s ruas pela reforma agr&aacute;ria, pela alimenta&ccedil;&atilde;o saud&aacute;vel, contra a monocultura da soja e do eucalipto e lembrou os m&aacute;rtires de Eldorado dos Caraj&aacute;s.</p>
+Da P&aacute;gina do MST</em></p>
+
+<p>&nbsp;</p>
+
+<p>No Maranh&atilde;o, o 17 de abril tamb&eacute;m foi marcado por diversas atividades organizadas pelo Movimento Sem Terra. Com a&ccedil;&otilde;es em v&aacute;rias cidades, o Movimento foi &agrave;s ruas pela reforma agr&aacute;ria, pela alimenta&ccedil;&atilde;o saud&aacute;vel, contra a monocultura da soja e do eucalipto e lembrou os m&aacute;rtires de Eldorado dos Caraj&aacute;s.</p>
 
 <p><br />
 No munic&iacute;pio de A&ccedil;ail&acirc;ndia, sudeste do estado, o protesto foi contra o envenenamento da agricultura na atividades rurais. Os trabalhadores ocuparam uma fazenda que produz soja e denunciaram as pulveriza&ccedil;&otilde;es a&eacute;reas do veneno usado na lavoura.</p>
