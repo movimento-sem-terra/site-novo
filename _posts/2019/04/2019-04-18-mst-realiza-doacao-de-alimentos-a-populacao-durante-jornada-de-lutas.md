@@ -5,7 +5,7 @@ tags:
   - tag: jornada-de-lutas
   - tag: massacre-de-eldorado-dos-carajás
 title: MST realiza doação de alimentos à população durante Jornada de Lutas
-support_line: Sem Terra chamam atenção para os ataques que a Reforma Agrária vem sofrendo no governo Bolsonaro e à liberação de agrotóxicos altamente nocivos para saúde humana
+support_line: Sem Terra chamam atenção para os ataques que a Reforma Agrária vem sofrendo no governo Bolsonaro e à liberação de agrotóxicos
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/46914011334_4580838725_b.jpg
 layout: post
@@ -47,12 +47,9 @@ releated_posts:
 ---
 <p>&nbsp;</p>
 
-<p><br />
-&nbsp;</p>
-
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Feira  [apoio].jpg" height="467" src="//farm66.staticflickr.com/65535/46914011324_e3f3532d6d_b.jpg" width="700" />
-<figcaption><em>Em mem&oacute;ria aos assassinados de Eldorado do Caraj&aacute;s e pelo direito da alimenta&ccedil;&atilde;o saud&aacute;vel, Sem Terras foram &agrave;s ruas em todo o pa&iacute;s. Foto: Divulga&ccedil;&atilde;o.</em></figcaption>
+<figcaption><em>Em mem&oacute;ria as v&iacute;timas de Eldorado do Caraj&aacute;s e pelo direito a alimenta&ccedil;&atilde;o saud&aacute;vel, MST ocupa &agrave;s ruas em todo o pa&iacute;s. Foto: Joka Madruga</em></figcaption>
 </figure>
 </div>
 
@@ -63,7 +60,7 @@ releated_posts:
 Como parte da Jornada Nacional de Lutas do MST, que acontece em todo pa&iacute;s no m&ecirc;s de abril, nesta semana os trabalhadores e trabalhadores Sem Terra realizaram a&ccedil;&otilde;es de ocupa&ccedil;&otilde;es de latif&uacute;ndios, pr&eacute;dios p&uacute;blicos, audi&ecirc;ncias com &oacute;rg&atilde;os governamentais, marchas, aulas p&uacute;blicas, mutir&otilde;es de trabalho volunt&aacute;rio, doa&ccedil;&atilde;o de alimentos &agrave; popula&ccedil;&atilde;o, etc., para chamar aten&ccedil;&atilde;o da sociedade aos ataques que a Reforma Agr&aacute;ria vem sofrendo durante o governo Bolsonaro.</p>
 
 <p><br />
-Na semana do 17 abril - Dia Internacional da Luta Camponesa o MST relembra a mem&oacute;ria de 23 anos de impunidade do &quot;Massacre de Eldorado dos Caraj&aacute;s&quot; no Par&aacute;, em que 21 trabalhadores Sem Terra foram assassinados pela Pol&iacute;cia Militar.</p>
+Na semana do 17 abril - Dia Internacional da Luta Camponesa o MST- relembra a mem&oacute;ria de 23 anos de impunidade do &quot;Massacre de Eldorado dos Caraj&aacute;s&quot; no Par&aacute;, em que 21 trabalhadores Sem Terra foram assassinados pela Pol&iacute;cia Militar.</p>
 
 <p><br />
 As atividades tamb&eacute;m denunciam a proposta de reforma da previd&ecirc;ncia do governo Bolsonaro, que tramita no Congresso Nacional e, se aprovada, trar&aacute; danos irrepar&aacute;veis para a classe trabalhadora, principalmente os trabalhadores do campo.</p>
@@ -72,7 +69,9 @@ As atividades tamb&eacute;m denunciam a proposta de reforma da previd&ecirc;ncia
 A partir do projeto e Reforma Agr&aacute;ria Popular, com foco na produ&ccedil;&atilde;o de alimentos saud&aacute;veis no campo, em 35 anos de exist&ecirc;ncia o MST tornou-se o maior produtor de arroz org&acirc;nico da Am&eacute;rica Latina. Somente na safra de 2017, foram produzidas 27 mil toneladas de arroz org&acirc;nico.</p>
 
 <p><br />
-A produ&ccedil;&atilde;o &eacute; organizada a partir da cria&ccedil;&atilde;o de cooperativas, associa&ccedil;&otilde;es e agroind&uacute;strias nos assentamentos espalhados pelo pa&iacute;s. A ideia &eacute; promover a agricultura&nbsp; em busca maior equil&iacute;brio entre a biodiversidade e os camponeses, agricultores familiares e as populares que vivem no campo.<br />
+A produ&ccedil;&atilde;o &eacute; organizada a partir da cria&ccedil;&atilde;o de cooperativas, associa&ccedil;&otilde;es e agroind&uacute;strias nos assentamentos espalhados pelo pa&iacute;s. A ideia &eacute; promover a agricultura&nbsp; em busca maior equil&iacute;brio entre a biodiversidade e os camponeses, agricultores familiares e as populares que vivem no campo.</p>
+
+<p><br />
 Na contram&atilde;o deste projeto, em pouco mais de 100 dias de governo Bolsonaro, o Minist&eacute;rio da Agricultura, Pecu&aacute;ria e Abastecimento (Mapa) j&aacute; publicou a autoriza&ccedil;&atilde;o de 86 novos produtos que cont&eacute;m agrot&oacute;xicos, em m&eacute;dia, 1,6 por dia.</p>
 
 <div style="text-align:center">
