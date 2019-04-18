@@ -4,7 +4,7 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: agroecologia
   - tag: armazem-do-campo
-title: "Armazém do Campo - SP realiza evento de resistência em defesa da IV Feira Nacional da Reforma Agrária "
+title: "Armazém do Campo-SP realiza atividade em defesa da IV Feira Nacional da Reforma Agrária "
 support_line: "A feira, que aconteceria entre os dias 2 e 4 de maio, foi adiada para a primeira semana de agosto"
 menu: reforma agrária
 images_hd: //farm66.staticflickr.com/65535/47637179201_5d1b8f6e84_b.jpg
@@ -74,7 +74,7 @@ Diante da negativa diversas mobiliza&ccedil;&otilde;es t&ecirc;m sido feitas, em
 Para Ademar Ludwig, coordenador da Rede Armaz&eacute;m do Campo, esse&nbsp;apoio ficou evidente durante o almo&ccedil;o realizado no Armaz&eacute;m.&nbsp;</p>
 
 <p><br />
-&quot;A mobiliza&ccedil;&atilde;o vista entorno da realiza&ccedil;&atilde;o da IV Feira Nacional da Reforma Agr&aacute;ria &eacute; um prova de que a popula&ccedil;&atilde;o paulista&nbsp;apoia&nbsp;e quer a produ&ccedil;&atilde;o de alimentos saud&aacute;veis. Somente a cidade de S&atilde;o Paulo consome 110 toneladas de agrot&oacute;xico por ano. Junte-se a isso a libera&ccedil;&atilde;o quase que di&aacute;ria de novos pesticidas pelo governo, isso nada mais &eacute; do que&nbsp;a gan&acirc;ncia &agrave; frente da sa&uacute;de da popula&ccedil;&atilde;o. A luta do&nbsp;MST e de todos que abra&ccedil;am a Feira Nacional &eacute;&nbsp;para quebrar essa l&oacute;gica de que coloca em risco a sa&uacute;de das pessoas em detrimento do lucro e da explora&ccedil;&atilde;o&quot;, diz.</p>
+&quot;A mobiliza&ccedil;&atilde;o vista entorno da realiza&ccedil;&atilde;o da IV Feira Nacional da Reforma Agr&aacute;ria &eacute; um prova de que a popula&ccedil;&atilde;o paulista&nbsp;apoia&nbsp;e quer a produ&ccedil;&atilde;o de alimentos saud&aacute;veis. Somente a cidade de S&atilde;o Paulo consome 110 toneladas de agrot&oacute;xico por ano. Junte-se a isso a libera&ccedil;&atilde;o quase que di&aacute;ria de novos pesticidas pelo governo e temos esse cen&aacute;rio. Isso nada mais &eacute; do que&nbsp;a gan&acirc;ncia &agrave; frente da sa&uacute;de da popula&ccedil;&atilde;o. A luta do&nbsp;MST e de todos que abra&ccedil;am a Feira Nacional &eacute;&nbsp;para quebrar essa l&oacute;gica de que coloca em risco a sa&uacute;de das pessoas em detrimento do lucro e da explora&ccedil;&atilde;o&quot;, diz.</p>
 
 <p><br />
 Na mesma linha, o&nbsp;cr&iacute;tico gastron&ocirc;mico Julio Bernardes, mais conhecido como JB, que al&eacute;m de participar do evento cozinhou um arroz carreteiro, reiterou a import&acirc;ncia da agricultura familiar e da resist&ecirc;ncia .&nbsp;&nbsp;</p>
