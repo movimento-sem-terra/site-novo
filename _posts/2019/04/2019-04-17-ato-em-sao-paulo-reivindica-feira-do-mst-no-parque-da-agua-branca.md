@@ -5,7 +5,7 @@ tags:
   - tag: massacre-de-eldorado-dos-carajás
 hat: ""
 support_line: Dezenas de militantes Sem Terra participaram de ações das Jornadas de Luta pela Reforma Agrária e pela Feira Nacional
-title: Ato em São Paulo reivindica Feira do MST no parque da Água Branca
+title: "Em defesa da Feira da Reforma Agrária, MST realiza ato no Parque da água Branca "
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/32694076117_4f678d08f0_b.jpg
 layout: post
@@ -46,7 +46,7 @@ files:
     title: "JornadaAbril [7].jpeg"
     $$hashKey: 05H
 created_date: "2019-04-17T19:05:35-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/04/2019-04-17-mst-realiza-ato-em-defesa-da-reforma-agraria-em-sao-paulo.md
   - _posts/2018/09/2018-09-25-ocupacao-da-fazenda-rio-vermelho-tem-despejo-iminente.md
@@ -59,40 +59,52 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="JornadaAbril [6].jpeg" height="467" src="//farm66.staticflickr.com/65535/47583772882_e15f761346_b.jpg" width="700" />
-<figcaption><em>Dia Internacional da Luta Camponesa pela Reforma Agr&aacute;ria no Parque da &Aacute;gua Branca, em SP.</em></figcaption>
+<figcaption>Dia Internacional da Luta Camponesa pela Reforma Agr&aacute;ria no Parque da &Aacute;gua Branca, em SP.</figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
 
 <p><em>Por Fernanda Alc&acirc;ntara<br />
 Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>O Dia Internacional da Luta Camponesa pela Reforma Agr&aacute;ria &eacute; uma data em mem&oacute;ria ao massacre de 21 Sem Terra em Eldorado dos Caraj&aacute;s, no Par&aacute;. Em S&atilde;o Paulo, al&eacute;m de homenagens aos 21 mortos na a&ccedil;&atilde;o da pol&iacute;cia militar h&aacute; 23 anos, acrescentou-se a luta pelo direito de fazer a Feira Nacional da Reforma Agr&aacute;ria no Parque da &Aacute;gua Branca.<br />
-&nbsp;</p>
+<p>Em meio a Jornada Nacional de Lutas pela Reforma Agr&aacute;ria, que lembra o Massacre de Eldorado do Caraj&aacute;s onde 21 Sem Terra foram covardemente assassinados, militantes Sem Terra, representantes da sociedade civil, de partidos pol&iacute;ticos, organiza&ccedil;&otilde;es e movimentos populares, reuniram-se no Parque da &Aacute;gua Branca, em S&atilde;o Paulo (SP), para reivindicar direito de realizar a IV Feira Nacional da Reforma Agr&aacute;ria.</p>
 
-<p>O objetivo das reivindica&ccedil;&otilde;es &eacute; pressionar o Governo do Estado a ceder o local para realiza&ccedil;&atilde;o da IV Feira Nacional da Reforma Agr&aacute;ria. As outras edi&ccedil;&otilde;es da Feira j&aacute; aconteceram no parque em anos anteriores. Entretanto, o governador Jo&atilde;o D&oacute;ria (PSDB) divulgou em redes sociais argumentos falsos para tentar justificar a negativa do parque.<br />
-&nbsp;</p>
+<p><br />
+O parque que h&aacute; quatro anos &eacute; palco da Feira, n&atilde;o foi cedido pelo atual Governo do Estado de S&atilde;o Paulo (PSDB) sob a justificativa de que a estrutura do parque n&atilde;o comporta mais o evento.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="ato_incra [5].jpeg" height="200" src="//farm66.staticflickr.com/65535/33755016578_043fc92ffa_b.jpg" width="300" />
 <figcaption></figcaption>
 </figure>
 
-<p>Para Rudifran Pompeu, da Cooperativa Paulista de Teatro, o sucesso da Feira &eacute; um dos fatores principais para a recusa do atual governo. &ldquo;N&atilde;o &eacute; novidade que o D&oacute;ria recuse ceder o parque, porque a Feira &eacute; um grande sucesso e ele simplesmente n&atilde;o consegue admitir que movimento produz e tem sucesso. Este regime atual quer nos apagar da hist&oacute;ria, mas n&atilde;o vai conseguir&rdquo;, afirmou Pompeu, que responde hoje por 4 mil artistas e 800 coletivos.</p>
+<p><br />
+Jo&atilde;o Paulo Rodrigues, da dire&ccedil;&atilde;o nacional do MST, &nbsp;&eacute; importante lembrar que S&atilde;o Paulo n&atilde;o pode recuar na pauta da alimenta&ccedil;&atilde;o saud&aacute;vel.<br />
+<br />
+<br />
+&ldquo;Nossa produ&ccedil;&atilde;o &eacute; respons&aacute;vel por 70% do que chega na mesa do trabalhador. &Eacute; como eu vi em um cartaz hoje, o Incra n&atilde;o &eacute; quartel. E, diante dessa negativa do governo, a&nbsp;nossa mobiliza&ccedil;&atilde;o n&atilde;o vai parar, ela vai continuar acontecendo na internet, nos debates,&nbsp;nas comunidades, centros e periferias&rdquo;, afirmou.<br />
+<br />
+<br />
+<br />
+Para Rudifran Pompeu, da Cooperativa Paulista de Teatro, que integra quatro mil artistas e 800 coletivos, o sucesso da Feira &eacute; um dos fatores principais para a recusa do atual governo. &ldquo;N&atilde;o &eacute; surpresa&nbsp;que o D&oacute;ria recuse ceder o parque, porque a Feira &eacute; um grande sucesso e ele simplesmente n&atilde;o consegue admitir que Movimento produz e tem sucesso. Esse regime atual quer nos apagar da hist&oacute;ria, mas n&atilde;o vai conseguir&rdquo;, afirmou.</p>
 
-<p>A organiza&ccedil;&atilde;o e estrutura&ccedil;&atilde;o das rela&ccedil;&otilde;es entre campo e cidade apareceu como um tema fundamental para representantes de entidades e coletivos como a Marcha Mundial das Mulheres, Uneafro e outras presentes no ato. Outros assuntos como alimenta&ccedil;&atilde;o saud&aacute;vel, ocupa&ccedil;&atilde;o de espa&ccedil;os do povo e consultas populares ressaltaram como podemos pensar e agir unidos em tempos sombrios.<br />
-&nbsp;</p>
+<p><br />
+A organiza&ccedil;&atilde;o e estrutura&ccedil;&atilde;o das rela&ccedil;&otilde;es entre campo e cidade apareceu como um tema central nas falas de representantes da Marcha Mundial de&nbsp;Mulheres (MMM) e da Uni&atilde;o de N&uacute;cleos de Educa&ccedil;&atilde;o Popular para Negros e Classe Trabalhadora (<wbr />Uneafro&nbsp;Brasil).&nbsp;Todas as falam ressaltaram a&nbsp;ocupa&ccedil;&atilde;o de espa&ccedil;os como meio de resist&ecirc;ncia em tempos sombrios.</p>
 
-<p>O educador e cientista social Ivan Dourado esteve presente com crian&ccedil;as de um col&eacute;gio da regi&atilde;o para apoiar o ato. &ldquo;Trazemos as crian&ccedil;as para a Feira porque podemos, a partir deste movimento, ensinar coisas como quest&atilde;o da concentra&ccedil;&atilde;o de terra e agroneg&oacute;cio, al&eacute;m de promover a alimenta&ccedil;&atilde;o saud&aacute;vel. &Eacute; incr&iacute;vel como elas se envolvem e trocam com os produtores a contato com as pessoas, e como isso acaba indo al&eacute;m dos muros da escola, envolvendo pais e comunidade&rdquo;, afirmou.<br />
+<p><br />
+Segundo o educador e cientista social Ivan Dourado que levou alunos de um col&eacute;gio da regi&atilde;o para apoiar o ato ao mostrar para as crian&ccedil;as a import&acirc;ncia da Feira&nbsp;&eacute; poss&iacute;vel ensinar acerca da concentra&ccedil;&atilde;o de terra no pa&iacute;s, al&eacute;m, de promover e conscientiza&ccedil;&atilde;o&nbsp;para uma&nbsp;alimenta&ccedil;&atilde;o saud&aacute;vel. &quot;&Eacute; incr&iacute;vel como elas se envolvem e trocam com os produtores e&nbsp;com as pessoas aqui. Isso vai al&eacute;m&nbsp;dos muros da escola, envolve&nbsp;pais e comunidade&rdquo;, afirmou.<br />
 &nbsp;</p>
 
 <p>Representantes de parlamentares tamb&eacute;m estiveram no ato em apoio. A deputada estadual Professora Bebel (PT) esteve presente e, junto com outros deputados, afirmou que est&aacute; dialogando e analisando os recursos do pedido pelo parque, ressaltando a import&acirc;ncia deste 17 de abril para unir os educadores, produtores rurais e comunidade.<br />
 &nbsp;</p>
 
-<p>Coordenador da Frente em Defesa da Luta do Povo Palestino, Mohamad El Kadri fez uma fala ecum&ecirc;nica relacionando a luta pela terra no Brasil e na Palestina, principalmente quanto &agrave; resist&ecirc;ncia diante do roubo sistem&aacute;tico de territ&oacute;rio. &ldquo;Se precisar a gente d&aacute; a vida pela terra, porque &eacute; a terra que d&aacute; vida para a gente&rdquo;.</p>
+<p>Na mesma linha o&nbsp;coordenador da Frente em Defesa da Luta do Povo Palestino, Mohamad El Kadri relacionou&nbsp;a luta pela terra no Brasil e na Palestina.<br />
+<br />
+<br />
+&ldquo;Se precisar a gente d&aacute; a vida pela terra, porque &eacute; a terra que d&aacute; os nutrientes para que possamos semear, plantar, colher e viver&quot;, finalizou.&nbsp;</p>
 
 <p><br />
-Para Jo&atilde;o Paulo Rodrigues, da dire&ccedil;&atilde;o nacional do MST, as a&ccedil;&otilde;es que aconteceram em todo o pa&iacute;s &eacute; &eacute; importante lembrar que S&atilde;o Paulo n&atilde;o pode recuar na pauta da alimenta&ccedil;&atilde;o saud&aacute;vel. &ldquo;Nossa produ&ccedil;&atilde;o &eacute; respons&aacute;vel por 70 % do que chega na mesa do trabalhador. &Eacute; como eu vi em um cartaz hoje, o Incra n&atilde;o &eacute; quartel. Por isso precisamos fazer aqui, no centro, com f&aacute;cil acesso para todos. A nossa v&iacute;gilia vai se dar na internet, nos debates que iremos fazer at&eacute; agosto, nas comunidades, em todas as redes companheiros e nos assentamentos, produzindo o m&aacute;ximo para trazermos para a Feira&rdquo;, concluiu.<br />
 &nbsp;</p>
 
 <p>
