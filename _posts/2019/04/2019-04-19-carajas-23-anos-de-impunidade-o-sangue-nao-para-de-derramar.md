@@ -44,6 +44,7 @@ releated_posts:
   - _posts/2019/04/2019-04-16-componeses-realizam-jornada-de-lutas-em-belem-no-para.md
   - _posts/2019/04/2019-04-17-em-maceio-ato-ecumenico-lembra-assassinados-do-massacre-de-eldorado.md
   - _posts/2019/02/2019-02-13-para-milicias-armadas-e-a-ameaca-no-campo.md
+section: featured-news
 
 ---
 <div style="text-align:center">
