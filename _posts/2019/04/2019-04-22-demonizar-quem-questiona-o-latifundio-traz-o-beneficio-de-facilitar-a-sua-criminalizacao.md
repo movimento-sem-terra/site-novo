@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: lutas-e-mobilizações
   - tag: criminalização
-title: Demonizar quem questiona o latifúndio traz o benefício de facilitar a sua criminalização
+title: "\"Demonizar quem questiona o latifúndio traz o benefício de facilitar a sua criminalização\""
 support_line: "Em entrevista, a pesquisadora da UFSM, Marília de Nardin Budó fala sobre o cenário político que fomenta o aumento da violência e da impunidade no campo"
 menu: direitos humanos
 images_hd: //farm66.staticflickr.com/65535/46755271265_094b43af2f_b.jpg
