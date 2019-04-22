@@ -4,8 +4,8 @@ tags:
   - tag: são-paulo
   - tag: massacre-de-eldorado-dos-carajás
 hat: ""
-support_line: Dezenas de militantes Sem Terra participaram de ações das Jornadas de Luta pela Reforma Agrária e pela Feira Nacional
-title: "Em defesa da Feira da Reforma Agrária, MST realiza ato no Parque da água Branca "
+support_line: Dezenas de pessoas participaram de ações das Jornadas de Luta pela Reforma Agrária e pela Feira Nacional
+title: "Em defesa da Feira da Reforma Agrária, MST realiza ato no Parque da Água Branca "
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/32694076117_4f678d08f0_b.jpg
 layout: post
@@ -52,6 +52,7 @@ releated_posts:
   - _posts/2018/09/2018-09-25-ocupacao-da-fazenda-rio-vermelho-tem-despejo-iminente.md
   - _posts/2018/09/2018-09-17-debates-feira-e-festival-marcam-as-atividades-pre-congresso-do-povo.md
   - _posts/2018/09/2018-09-25-debate-politico-atraves-da-arte-e-parte-da-primeira-etapa-do-congresso-do-povo-em-presidente-prudente.md
+  - _posts/2018/10/2018-10-02-agroecologia-e-o-caminho-para-producao-de-alimentos-saudaveis-em-sao-paulo.md
 
 ---
 <p><br />
