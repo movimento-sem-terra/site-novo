@@ -81,4 +81,4 @@ Victor tamb&eacute;m cita os casos de S&atilde;o Jos&eacute; do Norte, onde o te
 
 <p>Este conte&uacute;do foi originalmente publicado na vers&atilde;o impressa (Edi&ccedil;&atilde;o 13) do Brasil de Fato RS. <a href="https://www.brasildefato.com.br/2019/04/22/brasil-de-fato-rs-edicao-13/">Confira a edi&ccedil;&atilde;o completa</a>. &nbsp;</p>
 
-<p>Edi&ccedil;&atilde;o: Ayrton Centeno/ Brasil de Fato</p>
+<p>Edi&ccedil;&atilde;o: Marcelo Ferreira/ Brasil de Fato</p>
