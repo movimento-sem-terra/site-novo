@@ -32,7 +32,7 @@ files:
     title: img_7260.jpg
     $$hashKey: 05K
 created_date: "2019-04-23T16:26:09-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/07/2018-07-19-caravana-semiarido-contra-a-fome-e-anunciada-em-ato-politico-da-marcha-lula-livre.md
   - _posts/2018/08/2018-08-07-joao-paulo-rodrigues-convoca-para-o-dia-do-basta-impulsionado-pelas-centrais-sindicais.md
@@ -92,10 +92,12 @@ Ao longo dos meses, Vig&iacute;lia Lula Livre se transformou em um espa&ccedil;o
 Como j&aacute; dito anteriormente a forma&ccedil;&atilde;o &eacute; presente na Vig&iacute;lia Lula Livre desde o in&iacute;cio, atrav&eacute;s do Centro de Forma&ccedil;&atilde;o e Cultura Marielle Vive, centenas de pessoas de todo pa&iacute;s participam das atividades.</p>
 
 <p><br />
-O espa&ccedil;o - que hoje conta com pra&ccedil;a de alimenta&ccedil;&atilde;o e plen&aacute;ria &ndash; j&aacute; recebeu tr&ecirc;s cursos b&aacute;sicos de forma&ccedil;&atilde;o, de m&uacute;sica, comunica&ccedil;&atilde;o popular, forma&ccedil;&atilde;o de formadores, pol&iacute;tica e economia.</p>
+Segundo Luana Lustosa, integrante da coordena&ccedil;&atilde;o pol&iacute;tico-pedag&oacute;gica do MST, o centro de forma&ccedil;&atilde;o - que conta com&nbsp;pra&ccedil;a de alimenta&ccedil;&atilde;o e plen&aacute;ria - j&aacute;&nbsp;recebeu&nbsp;tr&ecirc;s cursos b&aacute;sicos de forma&ccedil;&atilde;o, de m&uacute;sica, comunica&ccedil;&atilde;o popular, forma&ccedil;&atilde;o de formadores, pol&iacute;tica e economia.</p>
 
 <p><br />
-Al&eacute;m disso, um muro com desenhos de pensadores hist&oacute;ricos contribui com o enriquecimento pol&iacute;tico e hist&oacute;rico do espa&ccedil;o. Aqui recebemos caravas de diversas cidades do pa&iacute;s. Esse processo formador &eacute; parte da experiencia concreta de quem visita a Vig&iacute;lia.</p>
+Al&eacute;m disso, um muro com desenhos de pensadores hist&oacute;ricos contribui com o enriquecimento pol&iacute;tico e hist&oacute;rico do espa&ccedil;o.<br />
+<br />
+&quot;Aqui recebemos caravas de diversas cidades do pa&iacute;s. Esse processo formador &eacute; parte da experiencia concreta de quem visita a Vig&iacute;lia&quot;, pondera Lustosa.&nbsp;</p>
 
 <p><br />
 <strong>Sa&uacute;de</strong></p>
@@ -107,11 +109,17 @@ Auriculoterapia, massagem, ch&aacute;s, tratamentos naturais, um cuidado, uma co
 Assim &eacute; o espa&ccedil;o de sa&uacute;de da Vig&iacute;lia Lula Livre que atende os militantes, as caravanas e tamb&eacute;m a vizinhan&ccedil;a do estorno da Pol&iacute;cia Federal.</p>
 
 <p><br />
-Cada dia aqui &eacute; aprendizado. N&atilde;o &eacute; s&oacute; dar rem&eacute;dio, mas conversar, orientar e fazer com que vem aqui entenda a import&acirc;ncia de se cuidar, se proteger e se valorizar. O entorno da Vig&iacute;lia &eacute; um espa&ccedil;o coletivo em que todos os dias as pessoas se juntam para resolver os problemas que aparecem. &Eacute; uma partilha, uma troca, um espa&ccedil;o de solidariedade.</p>
+Maria Natividade, do assentamento Contestado na (Lapa) &eacute;&nbsp;integrante do setor de sa&uacute;de do MST e uma das respons&aacute;veis pelo espa&ccedil;o de cuidado na Vig&iacute;lia. Para ela esse &eacute; um espa&ccedil;o &uacute;nico de troca e conv&iacute;vio.</p>
+
+<p><br />
+&quot;Cada dia aqui &eacute; aprendizado. N&atilde;o &eacute; s&oacute; dar rem&eacute;dio, mas conversar, orientar e fazer com que vem aqui entenda a import&acirc;ncia de se cuidar, se proteger e se valorizar. O entorno da Vig&iacute;lia &eacute; um espa&ccedil;o coletivo em que todos os dias as pessoas se juntam para resolver os problemas que aparecem. &Eacute; uma partilha, uma troca, um espa&ccedil;o de solidariedade&quot;</p>
 
 <p>&nbsp;</p>
 
-<p>Tem gente que vem xingar, outros pedir ajuda e agradecer, n&atilde;o fazemos distin&ccedil;&atilde;o no cuidado. &Eacute; preciso ter equil&iacute;brio para ouvir as necessidades do outro e acolher quem vem procurar por ajuda nesses momentos dif&iacute;ceis pelo qual estamos passando. Mente s&atilde; em corpo s&atilde;o para nos mantermos resistentes e vigilantes no prop&oacute;sito de libertar o ex-presidente Lula, aqui esse &eacute; o nosso prop&oacute;sito&rdquo;.</p>
+<p><strong>Sem distin&ccedil;&atilde;o&nbsp;</strong><br />
+&nbsp;</p>
+
+<p>&quot;Tem gente que vem xingar, outros pedir ajuda e agradecer, n&atilde;o fazemos distin&ccedil;&atilde;o no cuidado. &Eacute; preciso ter equil&iacute;brio para ouvir as necessidades do outro e acolher quem vem procurar por ajuda nesses momentos dif&iacute;ceis pelo qual estamos passando. Mente s&atilde; em corpo s&atilde;o para nos mantermos resistentes e vigilantes no prop&oacute;sito de libertar o ex-presidente Lula, aqui esse &eacute; o nosso prop&oacute;sito&rdquo;, conclui Natividade.&nbsp;</p>
 
 <p><br />
 Em tempos de fascismo, de incertezas e, sobretudo, de injusti&ccedil;as, &eacute; preciso olhar tamb&eacute;m para outro lugar e compreender que o futuro nos constitui tanto quanto o passado e aprision&aacute;-lo n&atilde;o &eacute; uma op&ccedil;&atilde;o.</p>
