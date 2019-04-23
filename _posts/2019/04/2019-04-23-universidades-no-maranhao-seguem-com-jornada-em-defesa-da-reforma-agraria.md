@@ -3,7 +3,7 @@ date: "2019-04-23T14:22:24-03:00"
 tags:
   - tag: jura
 title: Universidades no Maranhão seguem com Jornada em Defesa da Reforma Agrária
-support_line: Programação esta semana é contará com debates em diferentes espaços acadêmicos pelo estado
+support_line: Programação desta semana contará com debates em diferentes espaços acadêmicos pelo estado
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/33802052268_6edd905fda_b.jpg
 layout: post
