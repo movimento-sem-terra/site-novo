@@ -1,6 +1,8 @@
 ---
 date: "2019-04-23T11:13:03-03:00"
-tags: []
+tags:
+  - tag: reintegração-de-posse
+  - tag: violência
 title: "Sem Terra sofre despejo violento na Chapada Diamantina "
 support_line: Integrantes do acampamento Olga Benário denunciam truculência apreensões aleatórias de Sem Terra
 menu: lutas e mobilizações
@@ -30,7 +32,13 @@ files:
     $$hashKey: 02V
 created_date: "2019-04-23T11:25:51-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/12/2018-12-06-sem-terra-sao-despejados-de-acampamento-no-ceara.md
+  - _posts/2019/04/2019-04-05-reintegracao-de-posse-ameaca-despejar-mais-de-300-familias-no-parana.md
+  - _posts/2019/04/2019-04-12-reintegracao-de-posse-ameaca-400-familias-camponesas-na-regiao-de-mogi-guacu-sp.md
+  - _posts/2019/04/2019-04-22-governo-doria-despeja-familias-de-agricultores-sem-terra-em-sp.md
+  - _posts/2018/09/2018-09-18-movimentos-repudiam-agressoes-a-mulheres-militantes-no-para.md
+  - _posts/2018/09/2018-09-28-assassinatos-de-quilombolas-crescem-350-em-um-ano-no-brasil.md
 
 ---
 <div style="text-align:center">
