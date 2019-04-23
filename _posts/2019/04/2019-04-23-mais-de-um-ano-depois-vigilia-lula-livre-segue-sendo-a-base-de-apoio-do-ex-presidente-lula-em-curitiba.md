@@ -4,7 +4,7 @@ tags:
   - tag: lula-livre
   - tag: lutas-e-mobilizações
   - tag: liberdade
-title: "Mais de um ano depois, Vigília Lula Livre segue sendo a base de apoio do ex-presidente Lula em Curitiba "
+title: "Mais de um ano depois, Vigília Lula Livre segue sendo a base de apoio do ex-presidente em Curitiba "
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/40714249323_6fe76a7659_b.jpg
 support_line: Um carinho e um cuidado que faz com que dezenas de pessoas dia após dia mantenham viva a chama da esperança
@@ -52,13 +52,13 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 <br />
-&ldquo;Esse pa&iacute;s tem milh&otilde;es e milh&otilde;es de Lulas&rdquo;, essa frase dita pelo ex-presidente Luiz In&aacute;cio Lula da Silva ganha um significado especial quando vemos mais de um ano depois de sua pris&atilde;o a Vig&iacute;lia Lula Livre permanecer firme no prop&oacute;sito de levar apoio e resist&ecirc;ncia &agrave; Lula.&nbsp;</p>
+&ldquo;Esse pa&iacute;s tem milh&otilde;es e milh&otilde;es de Lulas&rdquo;, essa frase dita pelo ex-presidente Luiz In&aacute;cio Lula da Silva ganha um significado especial quando vemos -&nbsp;mais de um ano depois de sua pris&atilde;o - a Vig&iacute;lia Lula Livre permanecer firme no prop&oacute;sito de levar apoio e resist&ecirc;ncia &agrave; Lula.&nbsp;</p>
 
 <p><br />
 Pouco ou nada se sabia na noite daquele 7 de abril. Naquele momento limite era preciso fazer alguma coisa, os sonhos n&atilde;o poderiam ser aprisionados junto ao corpo f&iacute;sico de Lula em uma sala de 15m&sup2; na sede Superintend&ecirc;ncia da Pol&iacute;cia Federal (PF) em Curitiba.</p>
 
 <p><br />
-E, assim, &agrave;s 23h30, logo depois de consolidada a pris&atilde;o do ex-presidente, decidiu-se organizar o espa&ccedil;o de resist&ecirc;ncia Lula Livre. O tempo passou e a vig&iacute;lia criada em um momento de emerg&ecirc;ncia virou p&oacute;lo central das manifesta&ccedil;&otilde;es pela liberdade de Lula em Curitiba.</p>
+E, assim, &agrave;s 23h30, logo depois de consolidada a pris&atilde;o do ex-presidente, decidiu-se organizar o espa&ccedil;o de resist&ecirc;ncia Lula Livre. O tempo passou e a mobiliza&ccedil;&atilde;o&nbsp;criada em um momento de emerg&ecirc;ncia virou p&oacute;lo central das manifesta&ccedil;&otilde;es pela liberdade de Lula em Curitiba.</p>
 
 <p><br />
 <strong>Programa&ccedil;&atilde;o </strong></p>
@@ -71,7 +71,7 @@ Al&eacute;m disso, todas as sextas-feiras acontece o &ldquo;Luzes para Lula&rdqu
 
 <p>&nbsp;</p>
 
-<p>Para o coordenador estadual do MST e um dos organizadores da Vig&iacute;lia, Roberto Baggio, nesse per&iacute;odo hist&oacute;rico a Vig&iacute;lia Lula Livre cumpre com o objetivo de fazer a den&uacute;ncia permanente do golpe sofrido em 2016.</p>
+<p>Para o coordenador estadual do MST e um dos organizadores da Vig&iacute;lia, Roberto Baggio, nesse per&iacute;odo hist&oacute;rico a Vig&iacute;lia cumpre com o objetivo de fazer a den&uacute;ncia permanente do golpe sofrido em 2016.</p>
 
 <p><br />
 &ldquo;Um ano depois n&oacute;s seguimos estruturados e mobilizados para seguir potencializando a resist&ecirc;ncia de todo pa&iacute;s pela liberdade do Lula e na garantia de uma Brasil mais justo e igualit&aacute;rio. Hoje Lula &eacute; um ref&eacute;m pol&iacute;tico da elite brasileira e do aparelho judici&aacute;rio. Diante desse processo, a V&iacute;g&iacute;lia cumpre o papel de ser um p&oacute;lo de resist&ecirc;ncia. As milhares de pessoas que passam por aqui se conectam, se conhecem e se reconhecem como classe no conjunto de iniciativas, de cursos, forma&ccedil;&atilde;o, rodas de conversa, plen&aacute;rias, m&iacute;stica atividades culturais, pol&iacute;ticas e de forma&ccedil;&atilde;o que temos aqui. Tudo isso &eacute; feito e pensado para que as pessoas que por aqui passam possam ser lapidadas na perspectiva de est&iacute;mulo para luta social e voltem para as suas cidades para estimular o processo organizativo e formativo de solidariedade em conex&atilde;o com a liberdade de Lula e com a agenda da classe e trabalhadora&rdquo;, diz.</p>
@@ -92,12 +92,12 @@ Ao longo dos meses, Vig&iacute;lia Lula Livre se transformou em um espa&ccedil;o
 Como j&aacute; dito anteriormente a forma&ccedil;&atilde;o &eacute; presente na Vig&iacute;lia Lula Livre desde o in&iacute;cio, atrav&eacute;s do Centro de Forma&ccedil;&atilde;o e Cultura Marielle Vive, centenas de pessoas de todo pa&iacute;s participam das atividades.</p>
 
 <p><br />
-Segundo Luana Lustosa, integrante da coordena&ccedil;&atilde;o pol&iacute;tico-pedag&oacute;gica do MST, o centro de forma&ccedil;&atilde;o - que conta com&nbsp;pra&ccedil;a de alimenta&ccedil;&atilde;o e plen&aacute;ria - j&aacute;&nbsp;recebeu&nbsp;tr&ecirc;s cursos b&aacute;sicos de forma&ccedil;&atilde;o, de m&uacute;sica, comunica&ccedil;&atilde;o popular, forma&ccedil;&atilde;o de formadores, pol&iacute;tica e economia.</p>
+Segundo Luana Lustosa, integrante da coordena&ccedil;&atilde;o pol&iacute;tico-pedag&oacute;gica do MST, o centro de forma&ccedil;&atilde;o - que conta com&nbsp;pra&ccedil;a de alimenta&ccedil;&atilde;o e plen&aacute;ria - j&aacute;&nbsp;recebeu&nbsp;tr&ecirc;s cursos b&aacute;sicos de forma&ccedil;&atilde;o, de m&uacute;sica, comunica&ccedil;&atilde;o popular, pol&iacute;tica e economia.</p>
 
 <p><br />
 Al&eacute;m disso, um muro com desenhos de pensadores hist&oacute;ricos contribui com o enriquecimento pol&iacute;tico e hist&oacute;rico do espa&ccedil;o.<br />
 <br />
-&quot;Aqui recebemos caravas de diversas cidades do pa&iacute;s. Esse processo formador &eacute; parte da experiencia concreta de quem visita a Vig&iacute;lia&quot;, pondera Lustosa.&nbsp;</p>
+&quot;Aqui recebemos caravas de diversas cidades do pa&iacute;s. Esse processo formador &eacute; parte da experi&ecirc;ncia concreta de quem visita a Vig&iacute;lia&quot;, pondera Lustosa.&nbsp;</p>
 
 <p><br />
 <strong>Sa&uacute;de</strong></p>
