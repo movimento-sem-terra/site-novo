@@ -64,10 +64,10 @@ E, assim, &agrave;s 23h30, logo depois de consolidada a pris&atilde;o do ex-pres
 <strong>Programa&ccedil;&atilde;o </strong></p>
 
 <p><br />
-A programa&ccedil;&atilde;o come&ccedil;a logo pela manh&atilde; &agrave;s 9h com o &ldquo;Bom dia, Lula&rdquo;; seguido do &ldquo;Boa tarde, Lula&rdquo; (14h30) e do &ldquo;Boa tarde, Lula&rdquo; (19h30).</p>
+A programa&ccedil;&atilde;o come&ccedil;a logo pela manh&atilde; &agrave;s 9h com o &ldquo;Bom dia, presidente&nbsp;Lula&rdquo;; seguido do &ldquo;Boa tarde, presidente Lula&rdquo; (14h30) e do &ldquo;Boa noite, presidente Lula&rdquo; (19h).</p>
 
 <p><br />
-Al&eacute;m disso, todas as sextas-feiras acontece o &ldquo;Luzes para Lula&rdquo;, uma celebra&ccedil;&atilde;o que acontece &agrave;s 18h e que tem como objetivo emanar boas vibra&ccedil;&otilde;es para fortalecer o ex-presidente no c&aacute;rcere. Ao domingos &agrave;s 18h uma missa ecum&ecirc;nica &eacute; celebrada com o intuito de captar as diversas formas de f&eacute;, cren&ccedil;a e espiritualidade para potencializar a resist&ecirc;ncia dele e de todos os militantes.</p>
+Al&eacute;m disso, todas as sextas-feiras acontece o &ldquo;Luzes para Lula&rdquo;, uma celebra&ccedil;&atilde;o que acontece &agrave;s 18h e que tem como objetivo emanar boas vibra&ccedil;&otilde;es para fortalecer o ex-presidente no c&aacute;rcere. Ao domingos &agrave;s 18h um ato inter-religioso&nbsp;&eacute; celebrada com o intuito de captar as diversas formas de f&eacute;, cren&ccedil;a e espiritualidade para potencializar a resist&ecirc;ncia dele e de todos os militantes.</p>
 
 <p>&nbsp;</p>
 
@@ -89,7 +89,7 @@ Ao longo dos meses, Vig&iacute;lia Lula Livre se transformou em um espa&ccedil;o
 <strong>Forma&ccedil;&atilde;o</strong></p>
 
 <p><br />
-Como j&aacute; dito anteriormente a forma&ccedil;&atilde;o &eacute; presente na Vig&iacute;lia Lula Livre desde o in&iacute;cio, atrav&eacute;s do Centro de Forma&ccedil;&atilde;o e Cultura Marielle Vive, centenas de pessoas de todo pa&iacute;s participam das atividades.</p>
+Como j&aacute; dito anteriormente a forma&ccedil;&atilde;o &eacute; presente na Vig&iacute;lia Lula Livre desde o in&iacute;cio, atrav&eacute;s do Espa&ccedil;o&nbsp;de Forma&ccedil;&atilde;o e Cultura Marielle Vive, centenas de pessoas de todo pa&iacute;s participam das atividades.</p>
 
 <p><br />
 Segundo Luana Lustosa, integrante da coordena&ccedil;&atilde;o pol&iacute;tico-pedag&oacute;gica do MST, o centro de forma&ccedil;&atilde;o - que conta com&nbsp;pra&ccedil;a de alimenta&ccedil;&atilde;o e plen&aacute;ria - j&aacute;&nbsp;recebeu&nbsp;tr&ecirc;s cursos b&aacute;sicos de forma&ccedil;&atilde;o, de m&uacute;sica, comunica&ccedil;&atilde;o popular, pol&iacute;tica e economia.</p>
