@@ -4,7 +4,7 @@ tags:
   - tag: memória
   - tag: história
   - tag: cultura-popular
-title: "Curso apresenta debate conservação de arquivos populares "
+title: "Curso apresenta debate sobre conservação de arquivos populares "
 support_line: "Projeto oferece oficinas para ajudar na preservação de arquivos e memórias populares "
 images_hd: //farm66.staticflickr.com/65535/33802974908_cbd4de52e4_b.jpg
 menu: "educação, cultura e comunicação"
