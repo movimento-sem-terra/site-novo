@@ -33,6 +33,7 @@ releated_posts:
   - _posts/2019/03/2019-03-07-cronica-brasil-chegou-a-vez-de-ouvir-as-marias-mahins-marielles-e-males.md
   - _posts/2019/03/2019-03-12-23-anos-da-conquista-do-assentamento-cuiaba-em-caninde-do-sao-francisco.md
   - _posts/2018/06/2018-06-29-acampamento-marielle-vive-festeja-sao-joao-com-um-grande-arraia-de-luta.md
+section: featured-news
 
 ---
 <div style="text-align:center">
