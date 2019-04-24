@@ -8,7 +8,7 @@ title: "Jornada de Lutas pela Reforma Agrária mobiliza 14 estados do país "
 support_line: Internacionalmente a construção da Jornada passa pela Via Campesina
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/33755453228_a4e38de543_b.jpg
-section: cover
+section: null
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/40665361113_e20148e147_b.jpg
