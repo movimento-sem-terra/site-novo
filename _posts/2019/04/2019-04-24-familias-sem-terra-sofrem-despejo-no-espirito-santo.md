@@ -57,7 +57,7 @@ Foto: Correio9</em></figcaption>
 Da P&aacute;gina do MST</em><br />
 <br />
 <br />
-A Policia Militar despejou nesta ter&ccedil;a-feira (23) 70 fam&iacute;lias de trabalhadores rurais organizadas pelo Movimento dos Trabalhadores Rurais Sem-Terra (MST) na cidade de Nova Ven&eacute;cia, interior do Esp&iacute;rito Santo. A Fazenda Neblina &eacute; um latif&uacute;ndio de 594,5 hectares que pertence que a fam&iacute;lia Sltoi e possui uma d&iacute;vida de R$27 milh&otilde;es com a Uni&atilde;o.</p>
+A Policia Militar despejou nesta ter&ccedil;a-feira (23) 70 fam&iacute;lias de trabalhadores rurais organizadas pelo Movimento dos Trabalhadores Rurais Sem-Terra (MST) na cidade de Nova Ven&eacute;cia, interior do Esp&iacute;rito Santo. A Fazenda Neblina &eacute; um latif&uacute;ndio que pertence que a fam&iacute;lia Sltoi e possui uma d&iacute;vida de R$27 milh&otilde;es com a Uni&atilde;o.</p>
 
 <p><br />
 Mesmo com o despejo marcado para ter&ccedil;a-feira (23), a Pol&iacute;cia Militar arbitrariamente cercou o acampamento Ondina Dias desde a segunda (22), impedindo a sa&iacute;da e a entrada dos caminh&otilde;es para retirar os pertences das fam&iacute;lias.</p>
@@ -83,7 +83,7 @@ Foto: Correio9</em></figcaption>
 </figure>
 
 <p><br />
-O munic&iacute;pio de Nova Ven&eacute;cia no norte do estado do Esp&iacute;rito Santo, tem um hist&oacute;rico muito forte na luta pela terra. O munic&iacute;pio conta com 10 assentamentos, com 296 fam&iacute;lias assentadas em 3.614,8793 hectares (uma m&eacute;dia de 12,2 ha por fam&iacute;lia). Estas fam&iacute;lias geram trabalho e renda na produ&ccedil;&atilde;o de alimentos para subsist&ecirc;ncia, bem como abastecimento da cidade atrav&eacute;s de feira livre, e s&atilde;o respons&aacute;veis por uma marca importante no cultivo de caf&eacute; conilon e pimenta do reino da regi&atilde;o.</p>
+O munic&iacute;pio de Nova Ven&eacute;cia no norte do estado do Esp&iacute;rito Santo, tem um hist&oacute;rico muito forte na luta pela terra. O munic&iacute;pio conta com 10 assentamentos, com 296 fam&iacute;lias assentadas em 3.614,8793 hectares (uma m&eacute;dia de 12,2 hectares por fam&iacute;lia). Estas fam&iacute;lias geram trabalho e renda na produ&ccedil;&atilde;o de alimentos para subsist&ecirc;ncia, bem como abastecimento da cidade atrav&eacute;s de feira livre, e s&atilde;o respons&aacute;veis por uma marca importante no cultivo de caf&eacute; conilon e pimenta do reino da regi&atilde;o.</p>
 
 <p><br />
 Entre os assentamentos j&aacute; conquistados no munic&iacute;pio de Nova Ven&eacute;cia est&atilde;o o Carlos Lamarca, 16 de Abril, Tr&ecirc;s Pont&otilde;es, Pipinuck, Gavi&atilde;ozinho, Ad&atilde;o Preto, C&oacute;rrego Alegre, Travessia e Celestina.</p>
