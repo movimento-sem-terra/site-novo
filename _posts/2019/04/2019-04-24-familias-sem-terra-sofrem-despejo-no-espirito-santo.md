@@ -7,16 +7,30 @@ tags:
 title: Famílias Sem Terra sofrem despejo no Espírito Santo
 support_line: "Depois de dois anos de ocupação com organização coletiva e produção de alimentos, as famílias de agricultores foram retiradas da área abandonada"
 menu: lutas e mobilizações
-images_hd: //farm66.staticflickr.com/65535/46773231255_28f1b4113c_b.jpg
+images_hd: //farm66.staticflickr.com/65535/33812006408_c8a3b02d28_b.jpg
 layout: post
 files:
-  - link: //farm66.staticflickr.com/65535/46773231255_28f1b4113c_b.jpg
-    original: //farm66.staticflickr.com/65535/46773231255_e980f9eda2_o.jpg
-    thumbnail: //farm66.staticflickr.com/65535/46773231255_28f1b4113c_t.jpg
-    medium: //farm66.staticflickr.com/65535/46773231255_28f1b4113c_z.jpg
-    small: //farm66.staticflickr.com/65535/46773231255_28f1b4113c_n.jpg
-    title: "Ondina [2].jpeg"
-    $$hashKey: 02P
+  - link: //farm66.staticflickr.com/65535/33812006408_c8a3b02d28_b.jpg
+    original: //farm66.staticflickr.com/65535/33812006408_fb40356e26_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/33812006408_c8a3b02d28_t.jpg
+    medium: //farm66.staticflickr.com/65535/33812006408_c8a3b02d28_z.jpg
+    small: //farm66.staticflickr.com/65535/33812006408_c8a3b02d28_n.jpg
+    title: "Ondina [3].jpeg"
+    $$hashKey: 0EP
+  - link: //farm66.staticflickr.com/65535/33812006448_bcc2665505_b.jpg
+    original: //farm66.staticflickr.com/65535/33812006448_0093c3363b_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/33812006448_bcc2665505_t.jpg
+    medium: //farm66.staticflickr.com/65535/33812006448_bcc2665505_z.jpg
+    small: //farm66.staticflickr.com/65535/33812006448_bcc2665505_n.jpg
+    title: "Ondina [4].jpeg"
+    $$hashKey: 0ES
+  - link: //farm66.staticflickr.com/65535/33812006428_636c74ea29_b.jpg
+    original: //farm66.staticflickr.com/65535/33812006428_5ebb9c70c4_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/33812006428_636c74ea29_t.jpg
+    medium: //farm66.staticflickr.com/65535/33812006428_636c74ea29_z.jpg
+    small: //farm66.staticflickr.com/65535/33812006428_636c74ea29_n.jpg
+    title: "Ondina [5].jpeg"
+    $$hashKey: 0EV
 created_date: "2019-04-24T15:09:57-03:00"
 published: true
 releated_posts:
@@ -31,6 +45,13 @@ releated_posts:
   - _posts/2018/09/2018-09-08-espirito-santo-recebe-a-3o-edicao-da-feira-estadual-da-reforma-agraria.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Ondina [4].jpeg" height="447" src="//farm66.staticflickr.com/65535/33812006448_bcc2665505_b.jpg" width="600" />
+<figcaption><em>Pol&iacute;cia Militar cercou </em><em>arbitrariamente </em><em>o acampamento Ondina Dias<br />
+Foto: Correio9</em></figcaption>
+</figure>
+</div>
+
 <p><br />
 <em>Por Mariana Motta<br />
 Da P&aacute;gina do MST</em><br />
@@ -56,6 +77,11 @@ A Fazenda Neblina encontra-se em uma &aacute;rea de preserva&ccedil;&atilde;o am
 <p><br />
 Da mesma forma, o MST reivindica a &aacute;rea para a cria&ccedil;&atilde;o de um assentamento agroecol&oacute;gico, estruturado no Plano de Desenvolvimento de Assentamentos Sustent&aacute;veis (PDS), e que gere trabalho, renda e qualidade de vida para as fam&iacute;lias.</p>
 
+<figure class="image" style="float:right"><img alt="Ondina [5].jpeg" height="223" src="//farm66.staticflickr.com/65535/33812006428_636c74ea29_b.jpg" width="300" />
+<figcaption><em>Acampamento em Nova Ven&eacute;cia<br />
+Foto: Correio9</em></figcaption>
+</figure>
+
 <p><br />
 O munic&iacute;pio de Nova Ven&eacute;cia no norte do estado do Esp&iacute;rito Santo, tem um hist&oacute;rico muito forte na luta pela terra. O munic&iacute;pio conta com 10 assentamentos, com 296 fam&iacute;lias assentadas em 3.614,8793 hectares (uma m&eacute;dia de 12,2 ha por fam&iacute;lia). Estas fam&iacute;lias geram trabalho e renda na produ&ccedil;&atilde;o de alimentos para subsist&ecirc;ncia, bem como abastecimento da cidade atrav&eacute;s de feira livre, e s&atilde;o respons&aacute;veis por uma marca importante no cultivo de caf&eacute; conilon e pimenta do reino da regi&atilde;o.</p>
 
@@ -63,8 +89,9 @@ O munic&iacute;pio de Nova Ven&eacute;cia no norte do estado do Esp&iacute;rito 
 Entre os assentamentos j&aacute; conquistados no munic&iacute;pio de Nova Ven&eacute;cia est&atilde;o o Carlos Lamarca, 16 de Abril, Tr&ecirc;s Pont&otilde;es, Pipinuck, Gavi&atilde;ozinho, Ad&atilde;o Preto, C&oacute;rrego Alegre, Travessia e Celestina.</p>
 
 <p><br />
-Os Sem Terra afirmaram que seguir&atilde;o reivindicando a destina&ccedil;&atilde;o da &aacute;rea da&nbsp;Fazenda Neblina para reforma agr&aacute;ria, com a implementa&ccedil;&atilde;o de um assentamento agroecol&oacute;gico, criando trabalho e renda para fam&iacute;lias.&nbsp; Eles esperam que o governo Casagrande n&atilde;o feche os olhos para os desafios de resolu&ccedil;&atilde;o dos conflitos agr&aacute;rios no estado do Esp&iacute;rito Santo e reivindicam a disponibiliza&ccedil;&atilde;o de terras devolutas ou desapropria&ccedil;&atilde;o de terras para fins de Reforma Agr&aacute;ria.<br />
-<br />
+Os Sem Terra afirmaram que seguir&atilde;o reivindicando a destina&ccedil;&atilde;o da &aacute;rea da&nbsp;Fazenda Neblina para reforma agr&aacute;ria, com a implementa&ccedil;&atilde;o de um assentamento agroecol&oacute;gico, criando trabalho e renda para fam&iacute;lias.&nbsp; Eles esperam que o governo Casagrande n&atilde;o feche os olhos para os desafios de resolu&ccedil;&atilde;o dos conflitos agr&aacute;rios no estado do Esp&iacute;rito Santo e reivindicam a disponibiliza&ccedil;&atilde;o de terras devolutas ou desapropria&ccedil;&atilde;o de terras para fins de Reforma Agr&aacute;ria.</p>
+
+<p><br />
 <em>Editado por Fernanda Alc&acirc;ntara</em></p>
 
 <p>&nbsp;</p>
