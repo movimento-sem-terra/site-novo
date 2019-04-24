@@ -8,16 +8,37 @@ hat: ""
 title: Famílias Sem Terra de Macaé promovem Fórum Municipal de Agroecologia
 menu: agricultura camponesa
 support_line: "A atividade foi realizada após a instalação da Unidade Pedagógica em Agroecologia no acampamento "
-images_hd: //farm66.staticflickr.com/65535/40723587363_73b99097c7_b.jpg
+images_hd: //farm66.staticflickr.com/65535/47690163851_80d2fbbbbb_b.jpg
 layout: post
 files:
-  - link: //farm66.staticflickr.com/65535/40723587363_73b99097c7_b.jpg
-    original: //farm66.staticflickr.com/65535/40723587363_5e757d96fe_o.jpg
-    thumbnail: //farm66.staticflickr.com/65535/40723587363_73b99097c7_t.jpg
-    medium: //farm66.staticflickr.com/65535/40723587363_73b99097c7_z.jpg
-    small: //farm66.staticflickr.com/65535/40723587363_73b99097c7_n.jpg
-    title: "Ocup Terra Prometida [5].jpeg"
-    $$hashKey: 0VR
+  - link: //farm66.staticflickr.com/65535/32746952237_335b4e1850_b.jpg
+    original: //farm66.staticflickr.com/65535/32746952237_3158fa9d69_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/32746952237_335b4e1850_t.jpg
+    medium: //farm66.staticflickr.com/65535/32746952237_335b4e1850_z.jpg
+    small: //farm66.staticflickr.com/65535/32746952237_335b4e1850_n.jpg
+    title: "Forum Macaé [1].jpeg"
+    $$hashKey: "157"
+  - link: //farm66.staticflickr.com/65535/47690163851_80d2fbbbbb_b.jpg
+    original: //farm66.staticflickr.com/65535/47690163851_e695a5899d_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/47690163851_80d2fbbbbb_t.jpg
+    medium: //farm66.staticflickr.com/65535/47690163851_80d2fbbbbb_z.jpg
+    small: //farm66.staticflickr.com/65535/47690163851_80d2fbbbbb_n.jpg
+    title: "Forum Macaé [3].jpeg"
+    $$hashKey: 15A
+  - link: //farm66.staticflickr.com/65535/47690163841_c58212897f_b.jpg
+    original: //farm66.staticflickr.com/65535/47690163841_c5e0e5c1a6_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/47690163841_c58212897f_t.jpg
+    medium: //farm66.staticflickr.com/65535/47690163841_c58212897f_z.jpg
+    small: //farm66.staticflickr.com/65535/47690163841_c58212897f_n.jpg
+    title: "Forum Macaé [4].jpeg"
+    $$hashKey: 15D
+  - link: //farm66.staticflickr.com/65535/47637189202_83807c32ef_b.jpg
+    original: //farm66.staticflickr.com/65535/47637189202_766c3f68e1_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/47637189202_83807c32ef_t.jpg
+    medium: //farm66.staticflickr.com/65535/47637189202_83807c32ef_z.jpg
+    small: //farm66.staticflickr.com/65535/47637189202_83807c32ef_n.jpg
+    title: "Forum Macaé [2].jpeg"
+    $$hashKey: 15G
 created_date: "2019-04-24T16:47:43-03:00"
 published: true
 releated_posts:
@@ -34,15 +55,15 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Ocup Terra Prometida [5].jpeg" height="467" src="//farm66.staticflickr.com/65535/40723587363_73b99097c7_b.jpg" width="700" />
-<figcaption>Foto: Pablo Vergara</figcaption>
+<figure class="image" style="display:inline-block"><img alt="Forum Macaé [2].jpeg" height="467" src="//farm66.staticflickr.com/65535/47637189202_83807c32ef_b.jpg" width="700" />
+<figcaption><em>Neste s&aacute;bado acontece o F&oacute;rum Municipal de Agroecologia de Maca&eacute; (RJ)<br />
+Fotos: Pablo Vergara/ Comunica&ccedil;&atilde;o MST-RJ</em></figcaption>
 </figure>
 </div>
 
 <p><br />
 <em>Por Solange Engelmann<br />
-Da P&aacute;gina do MST</em><br />
-&nbsp;</p>
+Da P&aacute;gina do MST</em></p>
 
 <p>Com o tema: &ldquo;Educar e plantar para construir a Reforma Agr&aacute;ria Popular&rdquo;, acontece neste s&aacute;bado (27) o primeiro F&oacute;rum Municipal de Agroecologia na cidade de Maca&eacute;, no Rio de Janeiro. &nbsp;<br />
 &nbsp;</p>
@@ -67,9 +88,12 @@ Ela est&aacute; localizada na regi&atilde;o serrana da cidade e foi desapropriad
 
 <p>O local para a instala&ccedil;&atilde;o da escola est&aacute;&nbsp;em processo de negocia&ccedil;&atilde;o entre as fam&iacute;lias Sem Terra e a prefeitura desde mar&ccedil;o deste ano, ap&oacute;s os acampados conseguirem a suspens&atilde;o da reintegra&ccedil;&atilde;o de posse e iniciarem o di&aacute;logo para constru&ccedil;&atilde;o da unidade pedag&oacute;gica de agroecologia.</p>
 
-<p><br />
-O ensino na unidade &eacute; voltado para a troca de saberes com a forma&ccedil;&atilde;o t&eacute;cnica e pol&iacute;tica sobre agroecologia, tendo como p&uacute;blico as fam&iacute;lias Sem Terra acampadas e as(os) trabalhadoras(es) dos centros urbanos.<br />
-&nbsp;</p>
+<figure class="image" style="float:left"><img alt="Forum Macaé [1].jpeg" height="218" src="//farm66.staticflickr.com/65535/32746952237_335b4e1850_b.jpg" width="328" />
+<figcaption><em>A ideia &eacute; promover a troca de saberes<br />
+sobre agroecologia/ Foto: Pablo Vergara</em></figcaption>
+</figure>
+
+<p>O ensino na unidade &eacute; voltado para a troca de saberes com a forma&ccedil;&atilde;o t&eacute;cnica e pol&iacute;tica sobre agroecologia, tendo como p&uacute;blico as fam&iacute;lias Sem Terra acampadas e as(os) trabalhadoras(es) dos centros urbanos.</p>
 
 <p>Segundo o corpo docente, o espa&ccedil;o foca n&atilde;o somente nos trabalhadoras e trabalhadores do campo, mas tamb&eacute;m busca atingir os trabalhadores(as) urbanos e estudantes com objetivo de estimular o cultivo e a produ&ccedil;&atilde;o de alimentos saud&aacute;veis aliados &agrave; preserva&ccedil;&atilde;o do meio ambiente.<br />
 &nbsp;</p>
@@ -80,8 +104,12 @@ O ensino na unidade &eacute; voltado para a troca de saberes com a forma&ccedil;
 <p>Algumas aulas est&atilde;o sendo viabilizadas por professores de universidades parceiras,&nbsp;os encontros ocorrem nos finais de semana: o s&aacute;bado &eacute; destinado &agrave;s aulas te&oacute;ricas, j&aacute; os domingos ao trabalho pr&aacute;tico.<br />
 &nbsp;</p>
 
-<p>A unidade funciona em parceria com a Universidade Federal Fluminense (UFF) e a Universidade Federal do Rio de Janeiro (UFRJ), que tamb&eacute;m possuiu conv&ecirc;nios e projetos com outras entidades p&uacute;blicas, como um edital de assist&ecirc;ncia t&eacute;cnica para habita&ccedil;&atilde;o de interesse social com o Conselho de Arquitetura e Urbanismo do Estado do Rio de Janeiro.<br />
-&nbsp;</p>
+<p>A unidade funciona em parceria com a Universidade Federal Fluminense (UFF) e a Universidade Federal do Rio de Janeiro (UFRJ), que tamb&eacute;m possuiu conv&ecirc;nios e projetos com outras entidades p&uacute;blicas, como um edital de assist&ecirc;ncia t&eacute;cnica para habita&ccedil;&atilde;o de interesse social com o Conselho de Arquitetura e Urbanismo do Estado do Rio de Janeiro.</p>
+
+<figure class="image" style="float:right"><img alt="Forum Macaé [4].jpeg" height="219" src="//farm66.staticflickr.com/65535/47690163841_c58212897f_b.jpg" width="328" />
+<figcaption><em>Primeira turma come&ccedil;ou&nbsp;em fevereiro<br />
+de 2018/ Foto: Pablo Vergara</em></figcaption>
+</figure>
 
 <p>Algumas universidades do estado realizam projetos de pesquisa e extens&atilde;o nos espa&ccedil;os, estabelecendo interc&acirc;mbios e trocas de saberes e pr&aacute;ticas em rela&ccedil;&atilde;o &agrave; produ&ccedil;&atilde;o agroecol&oacute;gica, educa&ccedil;&atilde;o popular, Reforma Agr&aacute;ria e produ&ccedil;&atilde;o de alimentos saud&aacute;veis.<br />
 &nbsp;</p>
