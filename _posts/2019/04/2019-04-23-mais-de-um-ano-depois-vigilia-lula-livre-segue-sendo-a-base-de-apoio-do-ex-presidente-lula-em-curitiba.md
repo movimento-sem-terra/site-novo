@@ -4,7 +4,7 @@ tags:
   - tag: lula-livre
   - tag: lutas-e-mobilizações
   - tag: liberdade
-title: "Mais de um ano depois, Vigília Lula Livre segue sendo a base de apoio do ex-presidente em Curitiba "
+title: "Um ano depois, Vigília Lula Livre segue sendo a base de apoio em Curitiba "
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/40714249323_6fe76a7659_b.jpg
 support_line: Um carinho e um cuidado que faz com que dezenas de pessoas dia após dia mantenham viva a chama da esperança
@@ -41,6 +41,7 @@ releated_posts:
   - _posts/2019/04/2019-04-05-pernambuco-tera-atos-pela-liberdade-de-lula.md
   - _posts/2019/04/2019-04-06-por-que-lula-esta-preso.md
   - _posts/2019/04/2019-04-06-simbolo-de-resistencia-vigilia-sera-o-palco-de-grande-ato-nacional-por-lula.md
+section: cover
 
 ---
 <p style="text-align:center"><img alt="IMG_5436.jpg" height="488" src="//farm66.staticflickr.com/65535/47627529272_f6164b7701_b.jpg" width="700" /></p>
@@ -126,35 +127,3 @@ Em tempos&nbsp;de incertezas&nbsp;e, sobretudo, de injusti&ccedil;as, &eacute; p
 
 <p><br />
 Assim, a Vig&iacute;lia Lula Livre e todos que por ali passam ressignificam diariamente os sentidos atrav&eacute;s da solidariedade e do apoio, mostrando que n&atilde;o h&aacute; c&aacute;rcere capaz de fazer a esperan&ccedil;a em dias melhores&nbsp;morrer.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<h2>&nbsp;</h2>
-
-<p><br />
-&nbsp;</p>
-
-<p><br />
-&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
