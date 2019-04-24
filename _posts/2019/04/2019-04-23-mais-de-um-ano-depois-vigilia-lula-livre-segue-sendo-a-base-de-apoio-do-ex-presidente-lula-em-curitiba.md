@@ -122,7 +122,7 @@ Maria Natividade, do assentamento Contestado na (Lapa) &eacute;&nbsp;integrante 
 <p>&quot;Tem gente que vem xingar, outros pedir ajuda e agradecer, n&atilde;o fazemos distin&ccedil;&atilde;o no cuidado. &Eacute; preciso ter equil&iacute;brio para ouvir as necessidades do outro e acolher quem vem procurar por ajuda nesses momentos dif&iacute;ceis pelo qual estamos passando. Mente s&atilde; em corpo s&atilde;o para nos mantermos resistentes e vigilantes no prop&oacute;sito de libertar o ex-presidente Lula&rdquo;, conclui Natividade.&nbsp;</p>
 
 <p><br />
-Em tempos&nbsp;de incertezas&nbsp;e, sobretudo, de injusti&ccedil;as, &eacute; preciso olhar tamb&eacute;m para outro lugar e compreender que o futuro nos constitui tanto quanto o passado. E ficou provado que&nbsp;aprision&aacute;-lo n&atilde;o &eacute; uma op&ccedil;&atilde;o.</p>
+Em tempos&nbsp;de incertezas&nbsp;e, sobretudo, de injusti&ccedil;as, &eacute; preciso olhar tamb&eacute;m para outro lugar e compreender que o futuro nos constitui tanto quanto o passado e que&nbsp;aprision&aacute;-lo n&atilde;o &eacute; uma op&ccedil;&atilde;o.</p>
 
 <p><br />
 Assim, a Vig&iacute;lia Lula Livre e todos que por ali passam ressignificam diariamente os sentidos atrav&eacute;s da solidariedade e do apoio, mostrando que n&atilde;o h&aacute; c&aacute;rcere capaz de fazer a esperan&ccedil;a em dias melhores&nbsp;morrer.</p>
