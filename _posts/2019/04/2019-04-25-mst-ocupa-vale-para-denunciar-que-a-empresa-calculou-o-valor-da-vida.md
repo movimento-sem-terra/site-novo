@@ -44,7 +44,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="ação vale (1).jpeg" height="465" src="//farm66.staticflickr.com/65535/47698964811_8afc70c1b8_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="ação vale (3).jpeg" height="465" src="//farm66.staticflickr.com/65535/47645788142_cd29a721ff_b.jpg" width="700" />
 <figcaption><em>Mais de mil pessoas est&atilde;o em Brumadinho neste momento, reivindicando seus direitos. Fotos: M&iacute;dia Ninja</em></figcaption>
 </figure>
 </div>
@@ -58,19 +58,20 @@ Da P&aacute;gina do MST</em><br />
 <p>A Vale calculou 2 milh&otilde;es e 600 mil d&oacute;lares por morte antes do rompimento da barragem, segundo denuncia da promotoria. Andr&eacute; Sperling, promotor de Justi&ccedil;a, critica modelo que beneficia mineradoras e deixa popula&ccedil;&atilde;o em risco.<br />
 &nbsp;</p>
 
-<p>Ao longo do Abril Vermelho, m&ecirc;s de lutas do MST, o Movimento construiu um laudo t&eacute;cnico que comprova a exist&ecirc;ncia de mil fam&iacute;lias Sem Terra atingidas diretamente na regi&atilde;o metropolitana de Belo Horizonte pelo rompimento da barragem em Brumadinho. Al&eacute;m de perderem a produ&ccedil;&atilde;o, essas fam&iacute;lias tiveram a sa&uacute;de afetada, por viverem a menos de 1km do Rio Paraopeba, devastado pela Lama.<br />
+<p>Ao longo da Jornada de Lutas pela Reforma Agr&aacute;ria, realizada neste m&ecirc;s, o Movimento construiu um laudo t&eacute;cnico que comprova a exist&ecirc;ncia de mil fam&iacute;lias Sem Terra atingidas diretamente na regi&atilde;o metropolitana de Belo Horizonte pelo rompimento da barragem em Brumadinho. Al&eacute;m de perderem a produ&ccedil;&atilde;o, essas fam&iacute;lias tiveram a sa&uacute;de afetada, por viverem a menos de 1km do Rio Paraopeba, devastado pela Lama.<br />
 &nbsp;</p>
 
 <p>O Minist&eacute;rio P&uacute;blico e demais autoridades competentes j&aacute; reconhecem as fam&iacute;lias como atingidas, e o cadastro feito pela Emater j&aacute; &eacute; de conhecimento da Vale, que at&eacute; o momento n&atilde;o se pronunciou sobre a indeniza&ccedil;&atilde;o das fam&iacute;lias.<br />
 &nbsp;</p>
 
-<p>Segundo Sperling, a empresa sabia dos riscos e mesmo assim sobrecarrou a barragem. &quot;Eles trabalham quase como se fosse um cassino. Eles apostam que mesmo que a barragem esteja com n&iacute;vel de seguran&ccedil;a inadequado, ela n&atilde;o v&aacute; romper. Eles precificam.&quot;, afirmou o promotor.<br />
+<p>Segundo Sperling, a empresa sabia dos riscos e mesmo assim sobrecarregou a barragem. &quot;Eles trabalham quase como se fosse um cassino. Eles apostam que mesmo que a barragem esteja com n&iacute;vel de seguran&ccedil;a inadequado, ela n&atilde;o v&aacute; romper. Eles precificam.&quot;, afirmou o promotor.<br />
 &nbsp;</p>
 
 <p>Sperling tamb&eacute;m falou das evid&ecirc;ncias deste processo, &quot;A gente tem provas de que eles precificaram, por exemplo, o custo da vida humana no rompimento da barragem de Brumadinho. Cada vida humana teria um custo para eles de 2 milh&otilde;es e 600 mil d&oacute;lares, mais ou menos. Eles tinham isso nos boletins internos. Engra&ccedil;ado que agora, nos processos de repara&ccedil;&atilde;o, eles n&atilde;o est&atilde;o oferecendo esse dinheiro todo para as fam&iacute;lias.&quot;<br />
 &nbsp;</p>
 
-<p>O MST defende que lutar &eacute; um direito e que a Vale, como criminosa, tem que pagar. &quot;N&oacute;s vamos seguir na luta pelo direito das fam&iacute;lias atingidas, pelas mais de 300 v&iacute;timas, e para que a respons&aacute;vel, que &eacute; a Vale, pague por sua irresponsabilidade&quot;, afirma Cristiano Meireles, da coordena&ccedil;&atilde;o estadual do MST.<br />
-&nbsp;</p>
+<p>O MST defende que lutar &eacute; um direito e que a Vale, como criminosa, tem que pagar. &quot;N&oacute;s vamos seguir na luta pelo direito das fam&iacute;lias atingidas, pelas mais de 300 v&iacute;timas, e para que a respons&aacute;vel, que &eacute; a Vale, pague por sua irresponsabilidade&quot;, afirma Cristiano Meireles, da coordena&ccedil;&atilde;o estadual do MST.</p>
 
-<p><em>Editado por Fernanda Alc&acirc;ntara</em></p>
+<p>&nbsp;</p>
+
+<p><em>*Editado por Fernanda Alc&acirc;ntara.</em></p>
