@@ -41,7 +41,7 @@ releated_posts:
   - _posts/2019/04/2019-04-05-pernambuco-tera-atos-pela-liberdade-de-lula.md
   - _posts/2019/04/2019-04-06-por-que-lula-esta-preso.md
   - _posts/2019/04/2019-04-06-simbolo-de-resistencia-vigilia-sera-o-palco-de-grande-ato-nacional-por-lula.md
-section: cover
+section: featured-news
 
 ---
 <p style="text-align:center"><img alt="IMG_5436.jpg" height="488" src="//farm66.staticflickr.com/65535/47627529272_f6164b7701_b.jpg" width="700" /></p>
