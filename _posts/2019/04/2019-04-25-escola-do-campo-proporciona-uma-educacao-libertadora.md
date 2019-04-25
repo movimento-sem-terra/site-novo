@@ -4,7 +4,7 @@ tags:
   - tag: escola-do-campo
   - tag: arte-e-cultura
 title: Escola do campo proporciona uma educação libertadora
-support_line: "Localizada no Paraná, primeira escola de artes da região sul faz campanha de promoção da leitura"
+support_line: Escola do campo na Lapa (PR) faz campanha de promoção à leitura
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/47643938862_746a4f8209_b.jpg
 layout: post
@@ -54,7 +54,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="EscolaCampo_Ana Santos 6.JPG" height="520" src="//farm66.staticflickr.com/65535/47643938792_7d8516490b_b.jpg" width="700" />
-<figcaption><em>Crian&ccedil;as s&atilde;o estimuladas a ler na Escola de Arte do MST, no Paran&aacute;. Foto: Ana Santos</em></figcaption>
+<figcaption><em>Crian&ccedil;as s&atilde;o estimuladas a ler na escola Contestado. Foto: Ana Santos</em></figcaption>
 </figure>
 </div>
 
