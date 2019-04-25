@@ -39,6 +39,7 @@ releated_posts:
   - _posts/2019/02/2019-02-07-sofremos-um-processo-de-exploracao-mineraria-de-subserviencia-absoluta-dirigente-do-mam.md
   - _posts/2019/02/2019-02-07-barragens-faz-sentido-comparar-brumadinho-e-aguas-claras.md
   - _posts/2019/04/2019-04-03-mst-convoca-ato-politico-em-apoio-aos-atingidos-pela-mineracao.md
+section: cover
 
 ---
 <p>&nbsp;</p>
