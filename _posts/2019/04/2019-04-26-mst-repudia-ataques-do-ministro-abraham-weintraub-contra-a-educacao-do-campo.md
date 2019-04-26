@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: sem-terrinha
   - tag: educação-no-campo
-title: "MST repudia ataques do Ministro Abraham Weintraub contra à educação do campo\n\n"
+title: "MST repudia ataques do Ministro Abraham Weintraub contra educação do campo\n\n"
 support_line: "Sem dados técnicos, pesquisas ou números que validem seu posicionamento, as declarações proferidas na tarde de ontem revelam o caráter preconceituoso e excludente do atual governo"
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/47651425822_f06b2fc69f_b.jpg
