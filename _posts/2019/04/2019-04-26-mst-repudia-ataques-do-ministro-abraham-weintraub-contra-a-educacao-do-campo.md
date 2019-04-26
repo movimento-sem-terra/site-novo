@@ -46,7 +46,7 @@ Ap&oacute;s pronunciamento do ministro da educa&ccedil;&atilde;o Abraham Weintra
 
 <div>&nbsp;</div>
 
-<div>Sem dados t&eacute;cnicos, pesquisas ou n&uacute;meros que validem seu posicionamento, as&nbsp;declara&ccedil;&otilde;es proferidas na tarde de ontem&nbsp;revelam o&nbsp;car&aacute;ter preconceituoso e excludente que que nega um direito historicamente conquistado e assegurado pelo&nbsp;Estatuto da Crian&ccedil;a e Adolescente (ECA) e pela&nbsp;Lei de Diretrizes e Bases da Educa&ccedil;&atilde;o (LDB).<br />
+<div>Sem dados t&eacute;cnicos, pesquisas ou n&uacute;meros que validem seu posicionamento, as&nbsp;declara&ccedil;&otilde;es proferidas na tarde de ontem&nbsp;revelam o&nbsp;car&aacute;ter excludente que&nbsp;nega um direito historicamente conquistado e assegurado pelo&nbsp;Estatuto da Crian&ccedil;a e Adolescente (ECA) e pela&nbsp;Lei de Diretrizes e Bases da Educa&ccedil;&atilde;o (LDB).<br />
 &nbsp;</div>
 
 <div><br />
