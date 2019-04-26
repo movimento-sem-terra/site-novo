@@ -63,11 +63,11 @@ Ap&oacute;s participar de uma reuni&atilde;o no Minist&eacute;rio da Educa&ccedi
 
 <div><br />
 <br />
-Mais uma vez, tal afirma&ccedil;&atilde;o revela o&nbsp;completo desconhecimento que&nbsp;Bolsonaro e&nbsp;seu governo possuem sobre a pasta da educa&ccedil;&atilde;o e, mais especificadamente, sobre a educa&ccedil;&atilde;o do campo. As&nbsp;declara&ccedil;&otilde;es proferidas na tarde de ontem&nbsp;revelam o&nbsp;car&aacute;ter preconceituoso e excludente que que nega um direito historicamente conquistado e assegurado pelo&nbsp;Estatuto da Crian&ccedil;a e Adolescente (ECA) e pela&nbsp;Lei de Diretrizes e Bases da Educa&ccedil;&atilde;o (LDB).</div>
+Mais uma vez, tal afirma&ccedil;&atilde;o revela o&nbsp;completo desconhecimento que&nbsp;Bolsonaro e&nbsp;seu governo possuem sobre a pasta da educa&ccedil;&atilde;o e, mais especificadamente, sobre a educa&ccedil;&atilde;o do campo. As&nbsp;declara&ccedil;&otilde;es proferidas na tarde de ontem&nbsp;revelam o&nbsp;car&aacute;ter preconceituoso e excludente que nega um direito historicamente conquistado e assegurado pelo&nbsp;Estatuto da Crian&ccedil;a e Adolescente (ECA) e pela&nbsp;Lei de Diretrizes e Bases da Educa&ccedil;&atilde;o (LDB).</div>
 
 <div><br />
 <br />
-Al&eacute;m de negar o&nbsp;acesso &agrave; educa&ccedil;&atilde;o em um pa&iacute;s que tem os piores &iacute;ndices educacionais do mundo, o presidente Bolsonaro e o ministro Weintraub, promovem um dos maiores desmontes da educa&ccedil;&atilde;o p&uacute;blica&nbsp;por meio do sucateamento de aparelhos p&uacute;blicos e do fechamento da Secretaria de Educa&ccedil;&atilde;o Continuada, Alfabetiza&ccedil;&atilde;o, Diversidade e Inclus&atilde;o (SECADI/MEC).</div>
+Al&eacute;m de negar o&nbsp;acesso &agrave; educa&ccedil;&atilde;o em um pa&iacute;s que tem os piores &iacute;ndices educacionais do mundo, o presidente Bolsonaro e o ministro Weintraub promovem um dos maiores desmontes da educa&ccedil;&atilde;o p&uacute;blica&nbsp;por meio do sucateamento de aparelhos p&uacute;blicos e do fechamento da Secretaria de Educa&ccedil;&atilde;o Continuada, Alfabetiza&ccedil;&atilde;o, Diversidade e Inclus&atilde;o (SECADI/MEC).</div>
 
 <div><br />
 <br />
