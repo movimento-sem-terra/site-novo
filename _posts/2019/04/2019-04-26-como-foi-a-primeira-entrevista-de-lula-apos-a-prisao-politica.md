@@ -32,9 +32,14 @@ releated_posts:
   - _posts/2019/04/2019-04-08-em-curitiba-luta-pela-liberdade-mobiliza-multidao.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="BdF [22]MagentaGreen.jpg" src="//farm66.staticflickr.com/65535/32764450757_c244eb1d9d_b.jpg" />
+<figcaption><em>Preso desde abril de 2018, Lula falou sobre assuntos da pol&iacute;tica nacional e internacional / Ricardo Stuckert</em></figcaption>
+</figure>
+</div>
+
 <p><br />
-<em>Do Site do Brasil de Fato</em><br />
-&nbsp;</p>
+<em>Do Site do Brasil de Fato</em></p>
 
 <p>O ex-presidente Luiz In&aacute;cio Lula da Silva (PT), preso desde 7 de abril de 2018 na carceragem da Superintend&ecirc;ncia da Pol&iacute;cia Federal em Curitiba, concedeu na manh&atilde; desta sexta-feira (26) sua primeira entrevista &agrave; imprensa. A jornalista M&ocirc;nica Bergamo, pela Folha de S. Paulo, e o jornalista Florestan Fernandes J&uacute;nior, pelo El Pa&iacute;s, entrevistaram a Lula durante duas horas.<br />
 &nbsp;</p>
