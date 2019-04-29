@@ -64,7 +64,7 @@ Da P&aacute;gina do MST</em></p>
 Foram tr&ecirc;s anos de estudo aperfei&ccedil;oando t&eacute;cnicas e aprendendo com a natureza e com os camponeses. A cada etapa do curso, um novo conte&uacute;do cheio de desafios e uma nova experi&ecirc;ncia na defesa da agroecologia. Esta foi a rotina dos 45 educandos e educandas vindos do Brasil, Paraguai, Bol&iacute;via, Argentina, Chile e Republica Dominicana, que se formaram neste s&aacute;bado (27), na ELAA (Escola Latinoamericana de Agroecologia), Lapa Paran&aacute;.</p>
 
 <p><br />
-O curso aconteceu no assentamento Contestado, s&iacute;mbolo na produ&ccedil;&atilde;o agroecol&oacute;gica. O espa&ccedil;o proporcionou troca de experi&ecirc;ncias e viv&ecirc;ncias com as fam&iacute;lias, contribuindo no processo de forma&ccedil;&atilde;o t&eacute;cnica e humana dos estudantes e as atividades desenvolvidas pelos pr&oacute;pria turma.</p>
+O curso aconteceu no assentamento Contestado, s&iacute;mbolo na produ&ccedil;&atilde;o agroecol&oacute;gica. O espa&ccedil;o proporcionou troca de experi&ecirc;ncias e viv&ecirc;ncias com as fam&iacute;lias, contribuindo no processo de forma&ccedil;&atilde;o t&eacute;cnica e humana dos estudantes e as atividades desenvolvidas pela pr&oacute;pria turma.</p>
 
 <p><br />
 As pessoas formadas representavam 17 movimentos sociais, que v&ecirc;em na agroecologia um contraponto ao agroneg&oacute;cio. Partindo da necessidade de forma&ccedil;&atilde;o t&eacute;cnica em agroecologia,&nbsp; a Via Campesina, atrav&eacute;s da ELAA no Brasil, buscou construir uma parceria com o IFPR (Instituto Federal do Paran&aacute;), PRONERA (Programa Nacional de Educa&ccedil;&atilde;o da Reforma Agr&aacute;ria) para em 2015 dar in&iacute;cio a IV turma de Tecn&oacute;logo em Agroecologia.</p>
