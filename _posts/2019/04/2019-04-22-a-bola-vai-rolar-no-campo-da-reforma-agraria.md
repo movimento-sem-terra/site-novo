@@ -36,7 +36,7 @@ releated_posts:
   - _posts/2019/03/2019-03-28-adalberto-martins-a-resistencia-ativa-e-a-negacao-enquanto-pratica-dessa-atual-forma-de-producao-vinda-do-agronegocio.md
   - _posts/2019/04/2019-04-10-mst-doa-uma-tonelada-de-alimentos-organicos-para-ocupacoes-de-curitiba.md
   - _posts/2018/09/2018-09-25-alexandre-curto-dos-santos-durante-juri-popular-no-ano-passado-foto-catiana-de-medeiros.md
-section: featured-news
+section: null
 
 ---
 <p>&nbsp;</p>
