@@ -32,6 +32,7 @@ releated_posts:
   - _posts/2018/08/2018-08-31-mst-planeja-proxima-safra-de-arroz-organico.md
   - _posts/2018/09/2018-09-13-entidades-e-movimentos-populares-debatem-lei-da-grilagem-no-rio-grande-do-sul.md
   - _posts/2018/11/2018-11-19-mst-forma-18-tecnicos-em-agropecuaria-com-habilitacao-em-agroecologia.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
