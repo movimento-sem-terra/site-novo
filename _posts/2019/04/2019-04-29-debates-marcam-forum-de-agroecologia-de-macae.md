@@ -4,7 +4,7 @@ tags:
   - tag: agroecologia
   - tag: assentamentos
   - tag: rio-de-janeiro
-title: Debates marcam Fórum de Agroecologia de Macaé
+title: Sucesso marca Fórum de Agroecologia de Macaé
 support_line: "Em sua primeira edição, fórum reuniu famílias de trabalhadores rurais Sem Terra"
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/47683008742_da1aa2a688_b.jpg
@@ -91,15 +91,16 @@ Da P&aacute;gina do MST</em><br />
 Para a coordena&ccedil;&atilde;o do evento, o sucesso demonstra o interesse real da sociedade civil a respeito do acesso a projetos que produzem alimenta&ccedil;&atilde;o saud&aacute;vel e, ao mesmo tempo, n&atilde;o representem a precariza&ccedil;&atilde;o do trabalhador rural. O f&oacute;rum teve cerca de 300 inscritos e contou com diversas mesas de di&aacute;logo.</p>
 
 <p><br />
-O evento foi uma constru&ccedil;&atilde;o em conjunto com a Prefeitura de Maca&eacute;, a partir da participa&ccedil;&atilde;o da Secretaria Municipal de Agroeconomia na pessoa do agr&ocirc;nomo Jo&atilde;o Flores. Tamb&eacute;m participou da abertura Raoni Lustosa, do Movimento dos Trabalhadores Rurais Sem Terra no Rio de Janeiro.<br />
-Para o agr&ocirc;nomo Jo&atilde;o Flores, o f&oacute;rum representou um marco &agrave;cidade. &ldquo;&Eacute; preciso melhorar a produ&ccedil;&atilde;o agr&iacute;cola do munic&iacute;pio. Considero muito importante que esteja se materializando uma ideia j&aacute; antiga de muitos aqui, sobre a escola, sobre a Unidade Pedag&oacute;gica de Agroecologia&rdquo;, afirmou.<br />
-Agroecologia &eacute; o Caminho:</p>
+O evento foi uma constru&ccedil;&atilde;o em conjunto com a Prefeitura de Maca&eacute;, a partir da participa&ccedil;&atilde;o da Secretaria Municipal de Agroeconomia, representada pelo agr&ocirc;nomo Jo&atilde;o Flores. Tamb&eacute;m participou da abertura Raoni Lustosa, do Movimento dos Trabalhadores Rurais Sem Terra no Rio de Janeiro. Para Flores, o f&oacute;rum representou um marco &agrave; cidade. &ldquo;&Eacute; preciso melhorar a produ&ccedil;&atilde;o agr&iacute;cola do munic&iacute;pio. Considero muito importante que esteja se materializando uma ideia j&aacute; antiga de muitos aqui, sobre a escola, sobre a Unidade Pedag&oacute;gica de Agroecologia&rdquo;, afirmou.</p>
 
 <p><br />
-A programa&ccedil;&atilde;o do evento deu continuidade &agrave; primeira mesa de di&aacute;logo que se denominou &ldquo;Unidades Agroecol&oacute;gicas, Uma luta de todos&rdquo;, e contou com diversas entidades da sociedade civil que envolvem parcerias de pesquisa e constru&ccedil;&atilde;o da Unidade Pedag&oacute;gica de Agroecologia.</p>
+<strong>Agroecologia &eacute; o caminho</strong></p>
 
 <p><br />
-Os debates tiveram a participa&ccedil;&atilde;o de acad&ecirc;micos da UFF de Rio das Ostras, da UFRJ de Maca&eacute;, da Escola Estadual de Forma&ccedil;&atilde;o e Capacita&ccedil;&atilde;o &agrave; Reforma Agr&aacute;ria e da ESESF, entidade jur&iacute;dica que organiza a Unidade Pedag&oacute;gica de Agroecologia. Tamb&eacute;m contou com a presen&ccedil;a do Conselho de Arquitetura e Urbanismo de Rio de Janeiro, entidade que envolve uma parceria de assitencia t&eacute;cnica em habita&ccedil;&atilde;o de interesse social na Unidade Pedag&oacute;gica.</p>
+A programa&ccedil;&atilde;o do evento deu continuidade &agrave; primeira mesa de di&aacute;logo que se denominou &ldquo;Unidades Agroecol&oacute;gicas, Uma luta de todos&rdquo;, e contou com diversas entidades da sociedade civil que&nbsp; possuem parcerias de pesquisa e constru&ccedil;&atilde;o da Unidade Pedag&oacute;gica de Agroecologia.</p>
+
+<p><br />
+Os debates tiveram a participa&ccedil;&atilde;o de acad&ecirc;micos da UFF de Rio das Ostras, da UFRJ de Maca&eacute;, da Escola Estadual de Forma&ccedil;&atilde;o e Capacita&ccedil;&atilde;o &agrave; Reforma Agr&aacute;ria e da ESESF, entidade jur&iacute;dica que organiza a Unidade Pedag&oacute;gica de Agroecologia. Tamb&eacute;m estiveram presentes representantes do Conselho de Arquitetura e Urbanismo de Rio de Janeiro, entidade que envolve uma parceria de assit&ecirc;ncia t&eacute;cnica em habita&ccedil;&atilde;o de interesse social na Unidade Pedag&oacute;gica.</p>
 
 <p><br />
 Representando o Conselho de Arquitetura e Urbanismo de Rio de Janeiro, Ma&iacute;ra Rocha defendeu a amplia&ccedil;&atilde;o dos conhecimentos e necessidades emergenciais para materializar a constru&ccedil;&atilde;o da escola. &ldquo;&Eacute; muito importante trazer que o debate sobre habita&ccedil;&atilde;o &eacute; interesse social n&atilde;o s&oacute; na cidade, mas tamb&eacute;m no campo, nas &aacute;reas periurbanas&rdquo;.</p>
@@ -107,24 +108,24 @@ Representando o Conselho de Arquitetura e Urbanismo de Rio de Janeiro, Ma&iacute
 <p><br />
 <strong>Banqueta&ccedil;o Agroecol&oacute;gico</strong></p>
 
-<figure class="image" style="float:left"><img alt="Forum_006_PabloVergara.jpg" height="169" src="//farm66.staticflickr.com/65535/47683008662_6ed039c548_b.jpg" width="300" />
+<figure class="image" style="float:left"><img alt="Forum_006_PabloVergara.jpg" height="163" src="//farm66.staticflickr.com/65535/47683008662_6ed039c548_b.jpg" width="290" />
 <figcaption><em>Almo&ccedil;o agroecol&oacute;gico</em></figcaption>
 </figure>
 
 <p><br />
-O caf&eacute; e almo&ccedil;o oferecidos no f&oacute;rum foi a materializa&ccedil;&atilde;o e demostra&ccedil;&atilde;o de que &ldquo;Agroecologia e o caminho&rdquo;. Os educandos da Unidade Pedag&oacute;gica de Agroecologia reuniram a produ&ccedil;&atilde;o agroecol&oacute;gica das colheitas do Assentamento PDS Osvaldo de Oliveira e das hortas pedag&oacute;gicas da Unidade para produzir um verdadeiro &ldquo;Banqueta&ccedil;o Agroecol&oacute;gico&rdquo;. Cerca das 250 pessoas participantes do f&oacute;rum tiveram acesso a alimenta&ccedil;&atilde;o livre de agrot&oacute;xicos e 100% agroecol&oacute;gicos.</p>
+O caf&eacute; e almo&ccedil;o oferecidos no f&oacute;rum foram a materializa&ccedil;&atilde;o e demostra&ccedil;&atilde;o de que &ldquo;Agroecologia e o caminho&rdquo;. Os educandos da Unidade Pedag&oacute;gica de Agroecologia reuniram a produ&ccedil;&atilde;o agroecol&oacute;gica das colheitas do Assentamento PDS Osvaldo de Oliveira e das hortas pedag&oacute;gicas da Unidade para produzir um verdadeiro &ldquo;Banqueta&ccedil;o Agroecol&oacute;gico&rdquo;. Cerca das 250 pessoas participantes do f&oacute;rum tiveram acesso a alimenta&ccedil;&atilde;o livre de agrot&oacute;xicos e 100% agroecol&oacute;gicos.</p>
 
 <p><br />
 <strong>Diversidade do debate</strong></p>
 
 <p><br />
-A atividade se estendeu para uma segunda mesa de di&aacute;logo sobre experi&ecirc;ncias de agroecologia no estado do Rio de Janeiro, denominada &ldquo;Compartilhando experiencias de Agroecologia, tecendo uma educa&ccedil;&atilde;o popular: Os caminhos cruzados das unidades pedag&oacute;gicas de Agroecologia&rdquo;.&nbsp; A mesa teve apresenta&ccedil;&atilde;o de experi&ecirc;ncias da Cooperar no munic&iacute;pio de Marica, experi&ecirc;ncias agroecol&oacute;gicas da Funda&ccedil;&atilde;o de Sa&uacute;de Osvaldo Cruz (FioCruz) e Associa&ccedil;&atilde;o de Agroecologia de Rio de Janeiro (AARJ).</p>
+A atividade se estendeu para uma segunda mesa de di&aacute;logo sobre experi&ecirc;ncias de agroecologia no estado do Rio de Janeiro, denominada &ldquo;Compartilhando experiencias de Agroecologia, tecendo uma educa&ccedil;&atilde;o popular: Os caminhos cruzados das unidades pedag&oacute;gicas de Agroecologia&rdquo;.&nbsp; A mesa teve apresenta&ccedil;&atilde;o de experi&ecirc;ncias da Cooperar no munic&iacute;pio de Maric&aacute;, experi&ecirc;ncias agroecol&oacute;gicas da Funda&ccedil;&atilde;o de Sa&uacute;de Osvaldo Cruz (FioCruz) e da Associa&ccedil;&atilde;o de Agroecologia de Rio de Janeiro (AARJ).</p>
 
 <p><br />
-A terceira mesa teve como objetivo refor&ccedil;ar as tarefa e iniciativas urgentes para consolidar os territ&oacute;rios agroecol&oacute;gicos. Al&eacute;m das necessidades emergenciais causadas pelo descaso p&uacute;blico que os territ&oacute;rios enfrentam no cotidiano na luta pela terra, movimentos tamb&eacute;m relataram as dificuldades de infraestrutura de estradas e de um sistema para escoar produ&ccedil;&atilde;o para o munic&iacute;pio. Nesta mesa participaram o Engenheiro Agr&ocirc;nomo Rog&eacute;rio Freire, da Secretaria de Agroeconomia de Maca&eacute;, representantes do PDS Osvaldo de Oliveira e o vereador Marcel Silvan, que preside o CDH Conselho de Direitos Humanos da c&acirc;mara de vereadores de Maca&eacute;.</p>
+A terceira mesa teve como objetivo refor&ccedil;ar as tarefa e iniciativas urgentes para consolidar os territ&oacute;rios agroecol&oacute;gicos. Al&eacute;m das necessidades emergenciais causadas pelo descaso p&uacute;blico que os territ&oacute;rios enfrentam no cotidiano na luta pela terra, representantes tamb&eacute;m relataram as dificuldades de infraestrutura de estradas e de um sistema para escoar produ&ccedil;&atilde;o para o munic&iacute;pio. Nesta mesa participaram o engenheiro Agr&ocirc;nomo Rog&eacute;rio Freire, da Secretaria de Agroeconomia de Maca&eacute;, representantes do PDS Osvaldo de Oliveira e o vereador Marcel Silvan, que preside o CDH Conselho de Direitos Humanos da c&acirc;mara de vereadores de Maca&eacute;.</p>
 
 <p><br />
-Para fechar o evento, foi elaborada uma Carta aberta do 1&ordm; F&oacute;rum Municipal de Agroecologia de Maca&eacute;, em que se levantaram pontos emergenciais para o avan&ccedil;o dos projetos da Unidade Pedag&oacute;gica de Agroecologia.</p>
+Para fechar o evento, foi elaborada uma Carta Aberta do 1&ordm; F&oacute;rum Municipal de Agroecologia de Maca&eacute;, em que se levantaram pontos emergenciais para o avan&ccedil;o dos projetos da Unidade Pedag&oacute;gica de Agroecologia.</p>
 
 <p><br />
 Segue a carta na &iacute;ntegra.</p>
