@@ -4,7 +4,7 @@ tags:
   - tag: violência-no-campo
   - tag: despejo
 title: Sem Terra sofrem ataques na madrugada na Chapada Diamantina
-support_line: Cerca de 100 famílias foram alvo tiros disparados contra a ocupação do acampamento Olga Benário
+support_line: Cerca de 100 famílias foram alvo de tiros disparados contra a ocupação do acampamento Olga Benário
 images_hd: //farm66.staticflickr.com/65535/46791473085_237b8bed2a_b.jpg
 menu: lutas e mobilizações
 layout: post
