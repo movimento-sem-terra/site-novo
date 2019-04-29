@@ -30,6 +30,8 @@ releated_posts:
   - _posts/2018/10/2018-10-21-milhares-de-manifestantes-vao-as-ruas-do-brasil-contra-bolsonaro.md
   - _posts/2019/03/2019-03-14-por-justica-a-marielle-e-aos-mortos-da-mineracao-mulheres-paralisam-o-trem-da-vale-em-mg.md
   - _posts/2019/03/2019-03-19-por-que-trabalhadoras-terao-mais-dificuldades-para-se-aposentar.md
+  - _posts/2019/03/2019-03-19-assentamento-do-mst-homenageia-marielle-franco-com-nome-de-uma-rua-no-parana.md
+  - _posts/2019/03/2019-03-18-vamos-que-vamos-vamos-juntas-ocupar-tudo-um-balanco-de-13-e-14-de-marco.md
 
 ---
 <p><br />
