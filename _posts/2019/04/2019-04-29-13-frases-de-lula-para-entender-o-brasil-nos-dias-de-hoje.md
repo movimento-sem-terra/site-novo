@@ -71,7 +71,7 @@ Abaixo, separamos algumas frases ditas por Lula que retratam bem esse cen&aacute
 
 <p><br />
 <br />
-4 - &quot;Eu digo sempre, quem nasceu em Pernambuco e n&atilde;o morreu de fome at&eacute; os cinco anos de idade, n&atilde;o se curva mais a nada&quot;.</p>
+<strong>4 - &quot;Eu digo sempre, quem nasceu em Pernambuco e n&atilde;o morreu de fome at&eacute; os cinco anos de idade, n&atilde;o se curva mais a nada&quot;.</strong></p>
 
 <p><br />
 5 - &quot;E eu t&ocirc; vendo o que &eacute; esta obsess&atilde;o que est&aacute; acontecendo agora, a obsess&atilde;o de destruir a soberania nacional, a obsess&atilde;o de destruir empregos, a obsess&atilde;o de juntar um trilh&atilde;o. Pra qu&ecirc;? &Agrave;s custas dos aposentados?&quot;</p>
