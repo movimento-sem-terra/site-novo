@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: paraná
   - tag: agroecologia
-title: Via Campesina forma tecnólogos  e tecnólogas em agroecologia.
+title: Via Campesina forma tecnólogos  e tecnólogas em agroecologia
 support_line: "Uma conquista dos camponeses e camponesas da América Latina, no âmbito da educação."
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/47681827102_993574e92e_b.jpg
