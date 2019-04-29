@@ -42,10 +42,10 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-Ap&oacute;s a censura imposta pelo Superior Tribunal Federal (STF), o ex-presidente Luiz In&aacute;cio Lula da Silva, p&ocirc;de, enfim, falar ao El Pa&iacute;s e &agrave; Folha de S&atilde;o Paulo na &uacute;ltima semana.&nbsp;</p>
+Ap&oacute;s a censura imposta pelo Superior Tribunal Federal (STF), o ex-presidente Luiz In&aacute;cio Lula da Silva, p&ocirc;de, enfim, falar ao <em>El Pa&iacute;s</em> e &agrave; <em>Folha de S. Paulo</em> na &uacute;ltima semana.&nbsp;</p>
 
 <p><br />
-Al&eacute;m do&nbsp;retrato de sua popularidade, a como&ccedil;&atilde;o gerada antes e depois da entrevista, mostra a for&ccedil;a que Lula exerce nos seus apoiadores e tamb&eacute;m nos seus opositores.&nbsp;</p>
+Al&eacute;m do&nbsp;retrato de sua popularidade, a como&ccedil;&atilde;o gerada antes e depois da entrevista mostra a for&ccedil;a que Lula exerce nos seus apoiadores e tamb&eacute;m nos seus opositores.&nbsp;</p>
 
 <p><br />
 O desespero de parte da imprensa e de algumas figuras&nbsp;em desqualificar as declara&ccedil;&otilde;es do ex-presidente&nbsp;falam por si s&oacute;.&nbsp;</p>
@@ -67,14 +67,14 @@ Abaixo, separamos algumas frases ditas por Lula que retratam bem esse cen&aacute
 
 <p><br />
 <br />
-3 - &quot;Quem tem 73 anos de idade, quem construiu a vida que eu constru&iacute; neste pa&iacute;s, quem estabeleceu as rela&ccedil;&otilde;es que eu estabeleci, quem fez o Governo que eu fiz nesse pa&iacute;s, quem recuperou o orgulho e a auto estima do povo brasileiro como eu e voc&ecirc;s fizemos no meu per&iacute;odo de Governo, n&atilde;o vou me entregar&quot;.</p>
+3 - &quot;Quem tem 73 anos de idade, quem construiu a vida que eu constru&iacute; neste pa&iacute;s, quem estabeleceu as rela&ccedil;&otilde;es que eu estabeleci, quem fez o Governo que eu fiz nesse pa&iacute;s, quem recuperou o orgulho e a auto estima do povo brasileiro como eu e voc&ecirc;s fizemos no meu per&iacute;odo de Governo, n&atilde;o se entrega. Eu n&atilde;o vou me entregar&quot;.</p>
 
 <p><br />
 <br />
 4 - &quot;Eu digo sempre, quem nasceu em Pernambuco e n&atilde;o morreu de fome at&eacute; os cinco anos de idade, n&atilde;o se curva mais a nada&quot;.</p>
 
 <p><br />
-5 - &quot;E eu to vendo o que e obsess&atilde;o que est&aacute; acontecendo agora, a obsess&atilde;o de destruir a soberania nacional, a obsess&atilde;o de destruir empregos, a obsess&atilde;o de juntar um trilh&atilde;o pra qu&ecirc;? &Agrave;s custas dos aposentados?&quot;</p>
+5 - &quot;E eu t&ocirc; vendo o que &eacute; esta obsess&atilde;o que est&aacute; acontecendo agora, a obsess&atilde;o de destruir a soberania nacional, a obsess&atilde;o de destruir empregos, a obsess&atilde;o de juntar um trilh&atilde;o. Pra qu&ecirc;? &Agrave;s custas dos aposentados?&quot;</p>
 
 <p>&nbsp;</p>
 
@@ -84,7 +84,7 @@ Abaixo, separamos algumas frases ditas por Lula que retratam bem esse cen&aacute
 7 - &quot;Tem gente que est&aacute; aqui exatamente desde o dia que eu cheguei. Vai para a casa, lava a roupa e volta. Ent&atilde;o eu serei eternamente grato. N&atilde;o sei se isso j&aacute; aconteceu alguma vez na hist&oacute;ria com algu&eacute;m, mas eu n&atilde;o sei o que fazer para agradecer&quot;.</p>
 
 <p><br />
-8 - &quot;Tivemos uma elei&ccedil;&atilde;o at&iacute;pica no Brasil. Vamos ser francos. O papel do&nbsp;fake news na campanha, a quantidade de mentira, a robotiza&ccedil;&atilde;o da campanha na Internet foi uma coisa maluca&quot;.</p>
+8 - &quot;Tivemos uma elei&ccedil;&atilde;o at&iacute;pica no Brasil. Vamos ser francos. O papel do&nbsp;<em>fake news</em> na campanha, a quantidade de mentira, a robotiza&ccedil;&atilde;o da campanha na Internet foi uma coisa maluca&quot;.</p>
 
 <p><br />
 9 - <strong>&quot;A pol&iacute;tica est&aacute; efetivamente demonizada, e vai se levar um tempo muito grande para gente poder tratar a pol&iacute;tica com seriedade&quot;. </strong></p>
@@ -100,7 +100,7 @@ Abaixo, separamos algumas frases ditas por Lula que retratam bem esse cen&aacute
 12 - &quot;Quando voc&ecirc; fala em autocr&iacute;tica pra mim eu acho que... Eu, por exemplo, acho que tive um erro grave. Eu poderia ter feito a regulamenta&ccedil;&atilde;o dos meios de comunica&ccedil;&atilde;o&quot;.</p>
 
 <p><br />
-13 - &quot;Diga-me o seguinte: &lsquo;Lula, voc&ecirc; est&aacute; livre, vai morar nas Bahamas, vamos alugar uma casa pra voc&ecirc; l&aacute; voc&ecirc; vai ter &aacute;gua de coco todo dia de manha. O compromisso &eacute; voc&ecirc; n&atilde;o fazer pol&iacute;tica&rsquo;. Eu digo o seguinte: vou ficar aqui, sem &aacute;gua de coco, sem Bahamas na esperan&ccedil;a de que eu vou andar por esse pa&iacute;s levantando a cabe&ccedil;a do meu povo pra gente conquistar direitos. O povo tem que tomar caf&eacute; da manh&atilde;, almo&ccedil;ar e jantar todo dia e, se puder, comer bolachinha no meio da tarde com caf&eacute; com leite. E, se puder, um lanchinho 22h antes de dormir. Quero que o povo v&aacute; ao teatro, ao cinema. Tem coisa mais maravilhosa do que o pobre pegar o avi&atilde;o. N&atilde;o sabe nem como entra no banheiro, mas pega o avi&atilde;o e vai pra sua terra. E &eacute;, por isso, que eu vou brigar, e por isso que eu sei que tem muita gente e que n&atilde;o gosta de mim. Por isso, estou aqui de cabe&ccedil;a erguida, estou aqui com orgulho de defender o povo&quot;.</p>
+13 - &quot;Diga-me o seguinte: &lsquo;Lula, voc&ecirc; est&aacute; livre, vai morar nas Bahamas, vamos alugar uma casa pra voc&ecirc; l&aacute; voc&ecirc; vai ter &aacute;gua de coco todo dia de manha. O compromisso &eacute; voc&ecirc; n&atilde;o fazer pol&iacute;tica&rsquo;. Eu digo o seguinte: vou ficar aqui, sem &aacute;gua de coco, sem Bahamas na esperan&ccedil;a de que eu vou andar por esse pa&iacute;s levantando a cabe&ccedil;a do meu povo pra gente conquistar direitos. O povo tem que tomar caf&eacute; da manh&atilde;, almo&ccedil;ar e jantar todo dia e, se puder, comer bolachinha no meio da tarde com caf&eacute; com leite. E, se puder, um lanchinho 22h antes de dormir. Quero que o povo v&aacute; ao teatro, ao cinema. Tem coisa mais maravilhosa do que o pobre pegar o avi&atilde;o? N&atilde;o sabe nem como entrar no banheiro, mas pega o avi&atilde;o e vai pra sua terra. E &eacute; por isso que eu vou brigar, e por isso que eu sei que tem muita gente e que n&atilde;o gosta de mim. Por isso, estou aqui de cabe&ccedil;a erguida, estou aqui com orgulho de defender o povo&quot;.</p>
 
 <p>&nbsp;</p>
 
