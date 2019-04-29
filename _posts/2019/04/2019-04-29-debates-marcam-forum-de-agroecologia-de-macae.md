@@ -32,7 +32,7 @@ files:
     title: Forum_001_PabloVergara.jpg
     $$hashKey: 0E5
 created_date: "2019-04-29T17:20:51-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/03/2019-03-30-experiencia-de-producao-de-alimentos-saudaveis-aproxima-campo-e-cidade-no-df.md
   - _posts/2019/03/2019-03-24-producao-de-arroz-organico-do-mst-chega-a-bahia-dia-historico-celebra-dirigente.md
@@ -60,9 +60,19 @@ Fotos: Coletivo de Comunica&ccedil;&atilde;o do MST no Rio de Janeiro</em></figc
 
 <p>&nbsp;</p>
 
-<p>&nbsp;
 <p>&nbsp;</p>
-</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
