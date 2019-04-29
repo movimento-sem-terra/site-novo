@@ -92,7 +92,7 @@ Para a coordena&ccedil;&atilde;o do evento, o sucesso demonstra o interesse real
 
 <p><br />
 O evento foi uma constru&ccedil;&atilde;o em conjunto com a Prefeitura de Maca&eacute;, a partir da participa&ccedil;&atilde;o da Secretaria Municipal de Agroeconomia na pessoa do agr&ocirc;nomo Jo&atilde;o Flores. Tamb&eacute;m participou da abertura Raoni Lustosa, do Movimento dos Trabalhadores Rurais Sem Terra no Rio de Janeiro.<br />
-Para o Agr&ocirc;nomo Jo&atilde;o Flores, o f&oacute;rum representou um marco a cidade. &ldquo;&Eacute; preciso melhorar a produ&ccedil;&atilde;o agr&iacute;cola do munic&iacute;pio. Considero muito importante que esteja se materializando uma ideia j&aacute; antiga de muitos aqui, sobre a escola, sobre a Unidade Pedag&oacute;gica de Agroecologia&rdquo;, afirmou.<br />
+Para o agr&ocirc;nomo Jo&atilde;o Flores, o f&oacute;rum representou um marco &agrave;cidade. &ldquo;&Eacute; preciso melhorar a produ&ccedil;&atilde;o agr&iacute;cola do munic&iacute;pio. Considero muito importante que esteja se materializando uma ideia j&aacute; antiga de muitos aqui, sobre a escola, sobre a Unidade Pedag&oacute;gica de Agroecologia&rdquo;, afirmou.<br />
 Agroecologia &eacute; o Caminho:</p>
 
 <p><br />
