@@ -46,13 +46,8 @@ releated_posts:
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Forum_001_PabloVergara.jpg" height="467" src="//farm66.staticflickr.com/65535/47683008732_e24973c8c9_b.jpg" width="700" />
-<figcaption><em>Em sua primeira edi&ccedil;&atilde;o, f&oacute;rum reuniu fam&iacute;lias de trabalhadores rurais Sem Terra de Maca&eacute; (RJ) -<br />
-Fotos: Coletivo de Comunica&ccedil;&atilde;o do MST no Rio de Janeiro</em></figcaption>
+<figcaption><em>Em sua primeira edi&ccedil;&atilde;o, f&oacute;rum reuniu fam&iacute;lias de trabalhadores rurais Sem Terra de Maca&eacute; (RJ) - Fotos: Coletivo de Comunica&ccedil;&atilde;o do MST no Rio de Janeiro</em></figcaption>
 </figure>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
