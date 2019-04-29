@@ -43,43 +43,11 @@ releated_posts:
   - _posts/2018/11/2018-11-29-rio-de-janeiro-realiza-10a-feira-estadual-da-reforma-agraria-cicero-guedes.md
 
 ---
-<p>&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="Forum_001_PabloVergara.jpg" height="467" src="//farm66.staticflickr.com/65535/47683008732_e24973c8c9_b.jpg" width="700" />
-<figcaption><em>Em sua primeira edi&ccedil;&atilde;o, f&oacute;rum reuniu fam&iacute;lias de trabalhadores rurais Sem Terra de Maca&eacute; (RJ) - Fotos: Coletivo de Comunica&ccedil;&atilde;o do MST no Rio de Janeiro</em></figcaption>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Forum_001_PabloVergara.jpg" height="467" src="//farm66.staticflickr.com/65535/47683008732_e24973c8c9_b.jpg" width="700" />
+<figcaption><em>Abertura do 1&ordm; F&oacute;rum de Agroecologia de Maca&eacute;. Fotos: Coletivo de Comunica&ccedil;&atilde;o do MST no Rio de Janeiro</em></figcaption>
 </figure>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+</div>
 
 <p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST no Rio de Janeiro<br />
 Da P&aacute;gina do MST</em><br />
