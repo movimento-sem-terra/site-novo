@@ -38,7 +38,7 @@ files:
     title: "TerraPrometida [4].jpeg"
     $$hashKey: 0K6
 created_date: "2019-04-30T17:01:03-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/07/2018-07-26-grandes-propriedades-empregam-menos-e-produzem-menos-alimentos-para-o-povo-brasileiro.md
   - _posts/2018/09/2018-09-12-harvard-compra-300-mil-hectares-de-terras-e-gera-conflitos-com-comunidades-locais.md
