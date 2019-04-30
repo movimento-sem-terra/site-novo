@@ -33,13 +33,13 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Com mais uma fala que incentiva o discurso do &oacute;dio, o presidente Jair Bolsonaro comentou sobre um projeto que deve agravar ainda mais o &iacute;ndice a viol&ecirc;ncia no campo.</p>
+Com mais uma fala que incentiva o discurso do &oacute;dio, o presidente Jair Bolsonaro comentou sobre um projeto que deve agravar ainda mais o &iacute;ndice da viol&ecirc;ncia no campo.</p>
 
 <p><br />
-A declara&ccedil;&atilde;o foi realizada na abertura da Agrishow, feira do agroneg&oacute;cio que acontece em Ribeir&atilde;o Preto, interior de S&atilde;o Paulo. Carregada de preconceitos, a declara&ccedil;&atilde;o do presidente garante que &lsquo;cidad&atilde;o de bem&rsquo; possa matar sem que tenha puni&ccedil;&atilde;o, incentivando o crescimento dos assassinatos no campo.<br />
+A declara&ccedil;&atilde;o foi realizada na abertura da Agrishow, feira do agroneg&oacute;cio que acontece em Ribeir&atilde;o Preto, interior de S&atilde;o Paulo. Carregada de preconceitos, a declara&ccedil;&atilde;o do presidente garante que o &lsquo;cidad&atilde;o de bem&rsquo; possa matar sem que haja puni&ccedil;&atilde;o, incentivando o crescimento dos assassinatos no campo.<br />
 &nbsp;</p>
 
-<p>Dados da pesquisa que a&nbsp;Comiss&atilde;o Pastoral da Terra (CPT) realiza h&aacute; d&eacute;cadas mostram que, at&eacute; o ano passado, das 1.466 ocorr&ecirc;ncias de assassinato no campo, apenas 117 respons&aacute;veis pelos assassinatos foram a julgamento, tendo sido condenados apenas 101 executores e 33 mandantes.</p>
+<p>Dados das pesquisas&nbsp; da&nbsp;Comiss&atilde;o Pastoral da Terra (CPT) mostram que, at&eacute; o ano passado, das 1.466 ocorr&ecirc;ncias de assassinato no campo, apenas 117 respons&aacute;veis pelos assassinatos foram a julgamento, tendo sido condenados apenas 101 executores e 33 mandantes.</p>
 
 <p><br />
 Confira a carta na &iacute;ntegra</p>
