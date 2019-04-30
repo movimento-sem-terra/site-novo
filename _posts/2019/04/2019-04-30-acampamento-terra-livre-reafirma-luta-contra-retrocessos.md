@@ -1,6 +1,8 @@
 ---
 date: "2019-04-30T16:46:24-03:00"
-tags: []
+tags:
+  - tag: terras
+  - tag: indigenas
 title: Acampamento Terra Livre reafirma luta contra retrocessos
 support_line: Manifestações de 2019 reivindicam direitos indígenas fundamentais e o respeito à cultura e diversidade
 menu: lutas e mobilizações
@@ -37,14 +39,20 @@ files:
     $$hashKey: 0K6
 created_date: "2019-04-30T17:01:03-03:00"
 published: false
-releated_posts: []
+releated_posts:
+  - _posts/2018/07/2018-07-26-grandes-propriedades-empregam-menos-e-produzem-menos-alimentos-para-o-povo-brasileiro.md
+  - _posts/2018/09/2018-09-12-harvard-compra-300-mil-hectares-de-terras-e-gera-conflitos-com-comunidades-locais.md
+  - _posts/2019/03/2019-03-18-no-meio-do-caminho-entre-as-lutas.md
+  - _posts/2018/12/2018-12-16-agronegocio-ameaca-sobrevivencia-de-povos-indigenas-e-quilombolas.md
+  - _posts/2019/01/2019-01-11-sangue-indigena-nenhuma-gota-a-mais.md
+  - _posts/2019/01/2019-01-28-nos-encontramos-na-eminencia-de-um-verdadeiro-etnocidio-das-populacoes-indigenas-no-brasil-denuncia-professor-da-unifesspa.md
 
 ---
 <p>&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="TerraPrometida [2].jpeg" height="467" src="//farm66.staticflickr.com/65535/33866914258_902b80a406_b.jpg" width="700" />
-<figcaption><em>Mais de 300 povos ind&iacute;genas foram &agrave; Brasilia por seus direitos. Fotos Janelson Ferreira </em></figcaption>
+<figcaption><em>Mais de 300 povos ind&iacute;genas foram &agrave; Brasilia por seus direitos. Fotos: Janelson Ferreira </em></figcaption>
 </figure>
 </div>
 
@@ -53,7 +61,7 @@ releated_posts: []
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>Mais de quatro mil ind&iacute;genas, representando 305 povos, estiveram reunidos em Bras&iacute;lia,<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/ZhAa-eJ0L5Q" width="560"></iframe>no 15&ordm; Acampamento Terra Livre (ATL). Vindos de todas as regi&otilde;es do pa&iacute;s e tendo, inclusive, representa&ccedil;&otilde;es internacionais, os ind&iacute;genas realizaram uma s&eacute;rie de atividades e atos pol&iacute;ticos denunciando os ataques dos tr&ecirc;s poderes aos direitos dos povos origin&aacute;rios e cobrando maior aten&ccedil;&atilde;o para suas reivindica&ccedil;&otilde;es.</p>
+<p>Mais de quatro mil ind&iacute;genas, representando 305 povos, estiveram reunidos em Bras&iacute;lia no 15&ordm; Acampamento Terra Livre (ATL). Vindos de todas as regi&otilde;es do pa&iacute;s e tendo, inclusive, representa&ccedil;&otilde;es internacionais, os ind&iacute;genas realizaram uma s&eacute;rie de atividades e atos pol&iacute;ticos denunciando os ataques dos tr&ecirc;s poderes aos direitos dos povos origin&aacute;rios e cobrando maior aten&ccedil;&atilde;o para suas reivindica&ccedil;&otilde;es.</p>
 
 <p><br />
 Este ano, antes mesmo de seu in&iacute;cio, o ATL j&aacute; chamava aten&ccedil;&atilde;o por conta o pedido feito pelo general Augusto Heleno, respons&aacute;vel pela GSI (Gabinete de Seguran&ccedil;a Institucional), ao Ministro da Justi&ccedil;a, S&eacute;rgio Moro, para o uso da For&ccedil;a Nacional na pra&ccedil;a dos tr&ecirc;s poderes por 33 dias.</p>
@@ -66,6 +74,10 @@ Como prova da legitimidade das reivindica&ccedil;&otilde;es ind&iacute;genas, os
 
 <p><br />
 Guajajara ainda completou: &ldquo;Chegamos em Bras&iacute;lia para mostrar como se faz uma verdadeira democracia, garantindo a participa&ccedil;&atilde;o, a diversidade, marchando, cantando e dan&ccedil;ando, porque &eacute; assim que se faz a luta&rdquo;.</p>
+
+<figure class="image" style="float:right"><img alt="TerraPrometida [3].jpeg" height="200" src="//farm66.staticflickr.com/65535/33866914238_5959eaeced_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 Uma das pautas centrais este ano &eacute; a defesa da FUNAI. O &oacute;rg&atilde;o &eacute; alvo de intensos ataques do governo Bolsonaro com inten&ccedil;&atilde;o de realizar o desmonte e a instrumentaliza&ccedil;&atilde;o da institui&ccedil;&atilde;o. Hoje, a FUNAI est&aacute; sob o comando do Minist&eacute;rio da Agricultura, Pecu&aacute;ria e Abastecimento (Mapa), comandado por Tereza Cristina, uma das principais representantes do agroneg&oacute;cio em Bras&iacute;lia. O ATL reivindica a volta da FUNAI ao Minist&eacute;rio da Justi&ccedil;a, assim como as compet&ecirc;ncias para demarca&ccedil;&atilde;o das terras ind&iacute;genas e de licenciamento, alterando, assim &agrave; medida provis&oacute;ria - MP 870/19.</p>
@@ -98,8 +110,4 @@ Ao Supremo Tribunal Federal (STF), o ATL pautou o respeito aos seus direitos no 
 O 15&ordm; Acampamento Terra Livre tamb&eacute;m foi espa&ccedil;o de articula&ccedil;&atilde;o e organiza&ccedil;&atilde;o das mulheres ind&iacute;genas. No dia 25 (quinta-feira), as ind&iacute;genas realizaram a sua plen&aacute;ria, na qual reafirmaram a organiza&ccedil;&atilde;o da Marcha das Mulheres Ind&iacute;genas. A atividade est&aacute; prevista para ser realizada em agosto deste ano. Como lema, as mulheres ind&iacute;genas trazem a palavra de ordem: &ldquo;Territ&oacute;rio: nosso corpo, nosso esp&iacute;rito&rdquo;.<br />
 &nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>Editado por Fernanda Alc&acirc;ntara</p>
-
-<p>&nbsp;</p>
+<p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/ZhAa-eJ0L5Q" width="560"></iframe></p>
