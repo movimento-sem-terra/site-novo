@@ -3,7 +3,7 @@ date: "2019-04-30T16:20:19-03:00"
 tags:
   - tag: violência-no-campo
   - tag: assassinatos
-title: “Ajudar a violência no campo” é o que quer o Bolsonaro
+title: “Ajudar a violência no campo” é o que quer Bolsonaro
 support_line: Carta da Comissão Pastoral da Terra (CPT) sobre as declarações do presidente Bolsonaro
 menu: direitos humanos
 images_hd: //farm66.staticflickr.com/65535/46954433064_cc98b5f616_b.jpg
