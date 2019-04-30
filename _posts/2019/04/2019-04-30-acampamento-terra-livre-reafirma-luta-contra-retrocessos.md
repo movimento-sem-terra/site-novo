@@ -53,7 +53,7 @@ section: featured-news
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="TerraPrometida [2].jpeg" height="467" src="//farm66.staticflickr.com/65535/33866914258_902b80a406_b.jpg" width="700" />
-<figcaption><em>Mais de 300 povos ind&iacute;genas foram &agrave; Brasilia por seus direitos. Fotos: Janelson Ferreira </em></figcaption>
+<figcaption><em>Mais de 300 povos ind&iacute;genas foram &agrave; Brasilia por seus direitos. Fotos: Matheus Alves</em></figcaption>
 </figure>
 </div>
 
