@@ -46,6 +46,7 @@ releated_posts:
   - _posts/2018/12/2018-12-16-agronegocio-ameaca-sobrevivencia-de-povos-indigenas-e-quilombolas.md
   - _posts/2019/01/2019-01-11-sangue-indigena-nenhuma-gota-a-mais.md
   - _posts/2019/01/2019-01-28-nos-encontramos-na-eminencia-de-um-verdadeiro-etnocidio-das-populacoes-indigenas-no-brasil-denuncia-professor-da-unifesspa.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
