@@ -70,7 +70,7 @@ releated_posts:
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>Este final de semana foi marcado em Alagoas pelo in&iacute;cio do Curso de Forma&ccedil;&atilde;o de formadores e formadoras &ldquo;Juventude e Quest&atilde;o Agr&aacute;ria Alagoana&rdquo;, forma&ccedil;&atilde;o voltada aos jovens dos acampamentos e assentamentos da Reforma Agr&aacute;ria organizados nos Coletivos de Juventude do MST no estado.</p>
+<p>Em Alagoas, este final de semana foi marcado pelo in&iacute;cio do Curso de Forma&ccedil;&atilde;o de formadores e formadoras &ldquo;Juventude e Quest&atilde;o Agr&aacute;ria Alagoana&rdquo;, forma&ccedil;&atilde;o voltada aos jovens dos acampamentos e assentamentos da Reforma Agr&aacute;ria organizados nos Coletivos de Juventude do MST no estado.</p>
 
 <p><br />
 O curso, compreendido em cinco etapas, teve a sua primeira nos dias 24, 25 e 26 de abril, com o tema do funcionamento da sociedade. Nos pr&oacute;ximos quatro meses, o Curso continuar&aacute; debatendo uma s&eacute;rie de temas que dialogam com o estudo do campo em Alagoas.<br />
