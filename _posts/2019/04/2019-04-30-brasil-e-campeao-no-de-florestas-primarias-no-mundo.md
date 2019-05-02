@@ -4,9 +4,9 @@ tags:
   - tag: lutas
   - tag: meio-ambiente
   - tag: governo
-title: Brasil é campeão no de florestas primárias no mundo
+title: Brasil é campeão em desmatamento de florestas primárias no mundo
 menu: meio ambiente
-support_line: "A informação é do  Global Forest Watch, estudo publicado na última semana pela Universidade de Maryland"
+support_line: "A informação é do Global Forest Watch, estudo publicado na última semana pela Universidade de Maryland"
 images_hd: //farm66.staticflickr.com/65535/32801051157_762151a3b9_b.jpg
 layout: post
 files:
