@@ -85,8 +85,9 @@ Uma das principais causas do discurso violento contra os trabalhadores do campo 
 O discurso do governo tamb&eacute;m procura desviar a aten&ccedil;&atilde;o da popula&ccedil;&atilde;o para perguntas que permanecem sem respostas como: os casos de corrup&ccedil;&otilde;es de seu&nbsp;governo e de crimes n&atilde;o esclarecidos, como da ex-vereadora do Rio de Janeiro (PSOL), Marielle Franco.</p>
 
 <p><br />
-&ldquo;O Bolsonaro tem que responder ao povo brasileiro, aonde est&aacute; o Queiroz? Quem s&atilde;o seus amigos da mil&iacute;cia no Rio de Janeiro? E quem mandou matar Marielle? &Eacute; isso que ele tem que responder pra sociedade, e n&atilde;o incentivar mais viol&ecirc;ncia no campo&rdquo;, alertou Concei&ccedil;&atilde;o.</p>
+&ldquo;O Bolsonaro tem que responder ao povo brasileiro, aonde est&aacute; o Queiroz? Quem s&atilde;o seus amigos da mil&iacute;cia no Rio de Janeiro? E quem mandou matar Marielle? &Eacute; isso que ele tem que responder pra sociedade, e n&atilde;o incentivar mais viol&ecirc;ncia no campo&rdquo;, alertou Concei&ccedil;&atilde;o.<br />
+&nbsp;</p>
 
-<p>&nbsp;</p>
+<p>Confira o relat&oacute;rio completo aqui: <a href="https://www.cptnacional.org.br/publicacoes-2/destaque/4687-conflitos-no-campo-brasil-2018">https://www.cptnacional.org.br/publicacoes-2/destaque/4687-conflitos-no-campo-brasil-2018</a></p>
 
 <p><em>Editado por Fernanda Alc&acirc;ntara</em></p>
