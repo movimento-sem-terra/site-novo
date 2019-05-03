@@ -3,7 +3,7 @@ date: "2019-05-03T14:57:24-03:00"
 tags:
   - tag: jura
 title: "Jornadas Universitárias no Paraná incentivam defesa da Reforma Agrária "
-support_line: Oito universidades paranaenses realizaram as JURAs entre março e abril este ano
+support_line: Oito universidades paranaenses realizaram as JURAs entre março e abril deste ano
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/40799800753_58187e14d8_b.jpg
 layout: post
