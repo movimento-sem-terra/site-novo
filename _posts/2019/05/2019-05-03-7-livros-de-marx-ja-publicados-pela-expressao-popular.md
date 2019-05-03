@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: politica
   - tag: literatura
-title: "7 livros de Marx já publicados pela Expressão Popular "
+title: "7 livros de Marx já publicados pela Editora Expressão Popular "
 support_line: "A rica obra de Marx nos influencia até os dias de hoje, seu legado segue sendo base teórica e política na luta por uma sociedade mais igualitária"
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/32822861597_e3efb2b105_b.jpg
@@ -49,15 +49,18 @@ releated_posts:
 <p>A rica obra de Marx nos influencia at&eacute; os dias de hoje, seu legado segue sendo base te&oacute;rica e pol&iacute;tica na luta por uma sociedade mais igualit&aacute;ria.&nbsp;</p>
 
 <p><br />
+Essas e outras obras de Marx pode ser encontradas diretamente no site ou na loja f&iacute;sica da editora (R. Aboli&ccedil;&atilde;o, 201 - Bela Vista)</p>
+
+<p><br />
 &nbsp;</p>
 
-<p><strong><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: small;">Acompanhe:&nbsp;</span></strong></p>
+<p><strong>Acompanhe:&nbsp;</strong></p>
 
 <p>&nbsp;</p>
 
 <p><strong><a href="https://bit.ly/2H0fUHh">CADERNOS DE PARIS &amp; MANUSCRITOS ECON&Ocirc;MICO-FILOS&Oacute;FICOS DE 1844</a></strong></p>
 
-<p>Na trajet&oacute;ria de Karl Marx o breve per&iacute;odo em que o autor de&nbsp;O Capitalviveu em Paris (Outubro/Novembro de 1843/fevereiro de 1845) impactou decisivamente os rumos que sua vida e sua obra tomariam. Naqueles meses, o jovem fil&oacute;sofo iniciou seus estudos de Economia Pol&iacute;tica, travou contato com o movimento oper&aacute;rio e aproximou-se de Friedrich Engels, a partir da&iacute;, seu camarada de ideias e de lutas.</p>
+<p>Na trajet&oacute;ria de Karl Marx o breve per&iacute;odo em que o autor de&nbsp;O Capital viveu em Paris (Outubro/Novembro de 1843/fevereiro de 1845) impactou decisivamente os rumos que sua vida e sua obra tomariam. Naqueles meses, o jovem fil&oacute;sofo iniciou seus estudos de Economia Pol&iacute;tica, travou contato com o movimento oper&aacute;rio e aproximou-se de Friedrich Engels, a partir da&iacute;, seu camarada de ideias e de lutas.</p>
 
 <p><br />
 <br />
