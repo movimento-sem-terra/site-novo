@@ -4,7 +4,7 @@ tags:
   - tag: nota-de-repudio
   - tag: violência-no-campo
 title: "“A luta pela terra e pelo território é legítima”, afirma organizações populares em Nota Pública"
-support_line: "O texto repudia Projeto de Lei, que concede ao proprietário rural total liberdade para atirar contra as ocupações terra"
+support_line: "O texto repudia declaração de Bolsonaro, que concede ao proprietário rural liberdade para atirar contra as ocupações de terra"
 menu: direitos humanos
 section: featured-news
 images_hd: //farm66.staticflickr.com/65535/47728570292_3458c17a8b_b.jpg
@@ -36,7 +36,8 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="download (1).jpg" height="376" src="//farm66.staticflickr.com/65535/47728570292_3458c17a8b_b.jpg" width="600" />
-<figcaption><em>Nota P&uacute;blica enfatiza que a luta pela Reforma Agr&aacute;ria &eacute; um direito constitucional. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+<figcaption><em>Nota P&uacute;blica enfatiza que a luta pela Reforma Agr&aacute;ria &eacute; um direito constitucional.<br />
+Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 </div>
 
@@ -49,7 +50,7 @@ releated_posts:
 <p>&ldquo;O governo [Bolsonaro] n&atilde;o tem pol&iacute;tica p&uacute;blica efetiva de seguran&ccedil;a, e que um dos caminhos &eacute; armar a popula&ccedil;&atilde;o e terceirizar a seguran&ccedil;a de forma ilegal&rdquo;, enuncia a Nota de Posicionamento Contra Viol&ecirc;ncia no Campo, assinada por 24 organiza&ccedil;&otilde;es, entidades e movimentos populares, divulgada neste &uacute;ltimo s&aacute;bado (4/5).</p>
 
 <p><br />
-O documento repudia o projeto de lei, que ser&aacute; encaminhado para C&acirc;mara Federal, onde concede ao propriet&aacute;rio rural total liberdade para atirar em caso de ocupa&ccedil;&atilde;o da sua propriedade sem que haja puni&ccedil;&atilde;o. Diante disso, explica tamb&eacute;m que essa &eacute; a l&oacute;gica defendida pelo atual governo, &ldquo;uma vez que trata movimentos e grupos de luta social pela terra e territ&oacute;rio como invasores, mas ao mesmo tempo &eacute; leniente e fecha os olhos para outros grupos, fazendeiros e grileiros que invadem e exploram propriedades p&uacute;blicas ou &aacute;reas de reservas ambientais&rdquo;.</p>
+O documento repudia a declara&ccedil;&atilde;o do atual presidente de propor Projeto de Lei que autoriza propriet&aacute;rio rurais de&nbsp;atirar contra popula&ccedil;&otilde;es do campo em casos de ocupa&ccedil;&otilde;es de terras. De forma que n&atilde;o sejam responsabilizados por poss&iacute;veis atos de viol&ecirc;ncia.&nbsp;Diante disso, explica tamb&eacute;m que essa &eacute; a l&oacute;gica defendida pelo atual governo, &ldquo;uma vez que trata movimentos e grupos de luta social pela terra e territ&oacute;rio como invasores, mas ao mesmo tempo &eacute; leniente e fecha os olhos para outros grupos, fazendeiros e grileiros que invadem e exploram propriedades p&uacute;blicas ou &aacute;reas de reservas ambientais&rdquo;.</p>
 
 <p><br />
 Por fim, se posicionam na luta contra a viol&ecirc;ncia no campo, pelo direito de livre manifesta&ccedil;&atilde;o e pela Reforma Agr&aacute;ria. Confira a Nota na &iacute;ntegra.&nbsp;</p>
