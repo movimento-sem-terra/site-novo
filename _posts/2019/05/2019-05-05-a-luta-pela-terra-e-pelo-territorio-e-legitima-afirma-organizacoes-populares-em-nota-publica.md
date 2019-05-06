@@ -7,7 +7,7 @@ title: "“A luta pela terra e pelo território é legítima”, afirma organiza
 support_line: "O texto repudia declaração de Bolsonaro, que concede ao proprietário rural liberdade para atirar contra as ocupações de terra"
 menu: direitos humanos
 section: featured-news
-images_hd: //farm66.staticflickr.com/65535/47728570292_3458c17a8b_b.jpg
+images_hd: //farm66.staticflickr.com/65535/40821729443_bc74e89f44_b.jpg
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/33903599418_080dffd323_b.jpg
@@ -24,6 +24,13 @@ files:
     small: //farm66.staticflickr.com/65535/47728570292_3458c17a8b_n.jpg
     title: download (1).jpg
     $$hashKey: 0A1
+  - link: //farm66.staticflickr.com/65535/40821729443_bc74e89f44_b.jpg
+    original: //farm66.staticflickr.com/65535/40821729443_c91b0df092_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/40821729443_bc74e89f44_t.jpg
+    medium: //farm66.staticflickr.com/65535/40821729443_bc74e89f44_z.jpg
+    small: //farm66.staticflickr.com/65535/40821729443_bc74e89f44_n.jpg
+    title: mst-sebastiao-salgado-750x410.jpg
+    $$hashKey: "052"
 created_date: "2019-05-05T12:58:27-03:00"
 published: true
 releated_posts:
@@ -34,13 +41,6 @@ releated_posts:
   - _posts/2019/02/2019-02-13-para-milicias-armadas-e-a-ameaca-no-campo.md
 
 ---
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="download (1).jpg" height="376" src="//farm66.staticflickr.com/65535/47728570292_3458c17a8b_b.jpg" width="600" />
-<figcaption><em>Nota P&uacute;blica enfatiza que a luta pela Reforma Agr&aacute;ria &eacute; um direito constitucional.<br />
-Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
-</figure>
-</div>
-
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST</em></p>
