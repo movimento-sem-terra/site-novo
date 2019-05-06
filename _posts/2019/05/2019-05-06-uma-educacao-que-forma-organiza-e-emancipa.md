@@ -72,17 +72,15 @@ Da P&aacute;gina do MST</em><br />
 <p>Isabel recorda que, naquele momento, as escolas localizadas em Natalino n&atilde;o queriam as crian&ccedil;as do acampamento, pois seus pais eram sujeitos &ldquo;itinerante&rdquo; e diziam que n&atilde;o matriculavam as crian&ccedil;as, porque seus pais iriam embora e as levavam, construindo um problema burocr&aacute;tico com a matr&iacute;cula.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="Símbolo de resistência à ditadura militar, o Encruzilhada Natalino é referência de luta e resistência nacionalmente. Foto_ Arquivo MST.jpg" height="178" src="//farm66.staticflickr.com/65535/33914084448_259fb2c129_b.jpg" width="300" />
-<figcaption><em>S&iacute;mbolo de resist&ecirc;ncia &agrave; ditadura militar,<br />
-o Encruzilhada Natalino &eacute; refer&ecirc;ncia de luta e<br />
-resist&ecirc;ncia nacionalmente. Foto: Arquivo MST</em></figcaption>
-</figure>
-
 <p>Diante disso, &ldquo;a maioria das fam&iacute;lias que tinham condi&ccedil;&otilde;es, que tinham fam&iacute;lia fora, av&ocirc;, av&oacute; ou at&eacute; mesmo um tio muito pr&oacute;ximo, deixavam as crian&ccedil;as l&aacute; para ir &agrave; escola. Mas havia um grande n&uacute;mero de crian&ccedil;as que estavam fora da escola&rdquo;, destaca.<br />
 &nbsp;</p>
 
 <p>Nesse contexto, Isabel questionava: &ldquo;qual o papel da educa&ccedil;&atilde;o neste acampamento?&rdquo;. Coletivamente, a resposta estava dada: &ldquo;ajudar as crian&ccedil;as a compreenderem porque elas n&atilde;o estavam dentro da escola e porque seus pais tinham que acampar&rdquo;.<br />
 &nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Símbolo de resistência à ditadura militar, o Encruzilhada Natalino é referência de luta e resistência nacionalmente. Foto_ Arquivo MST.jpg" height="357" src="//farm66.staticflickr.com/65535/33914084448_259fb2c129_b.jpg" width="600" />
+<figcaption><em>S&iacute;mbolo de resist&ecirc;ncia &agrave; ditadura militar, o Encruzilhada Natalino &eacute; refer&ecirc;ncia de luta e resist&ecirc;ncia nacionalmente. Foto: Arquivo MST</em></figcaption>
+</figure>
 
 <p>Sobre o m&eacute;todo adotado com as crian&ccedil;as, ela explica que eram realizadas rodas de conversas e muitas brincadeiras em estruturas improvisadas, como embaixo de arvores e num barrac&atilde;o de lona preta. &ldquo;Foi brincando e conversando com as crian&ccedil;as que a gente falava da luta pela terra e explicava porque os pais deles eram acampados&rdquo;, e continua: &ldquo;eles aprendiam muito bem, inclusive todos os cantos da luta. Eu lembro de um livro do Encruzilhada Natalino e, nele, o Frei S&eacute;rgio fala que quando ele chegou l&aacute;, tinha uma crian&ccedil;a muito distra&iacute;da cantando a m&uacute;sica &lsquo;<a href="https://www.youtube.com/watch?v=DsdSm6VFSgw&amp;t=23s">A classe roceira e a classe oper&aacute;ria</a>&rsquo; &rdquo;.<br />
 &nbsp;</p>
@@ -111,4 +109,9 @@ resist&ecirc;ncia nacionalmente. Foto: Arquivo MST</em></figcaption>
 <p>Ela destaca tamb&eacute;m que a educa&ccedil;&atilde;o &eacute; um processo de forma&ccedil;&atilde;o humana e, al&eacute;m da educa&ccedil;&atilde;o popular, que &eacute; uma discuss&atilde;o que tem ampliado o debate para al&eacute;m do processo de escolariza&ccedil;&atilde;o, tem sido fundamental na consolida&ccedil;&atilde;o de uma Pedagogia Socialista.<br />
 &nbsp;</p>
 
-<p>Tendo como refer&ecirc;ncia Moisey Pistrak, educador socialista que viveu na R&uacute;ssia e influenciou as ideias pedag&oacute;gicas do per&iacute;odo p&oacute;s-revolu&ccedil;&atilde;o russa de 1917, Rubneuza de Souza explica que a educa&ccedil;&atilde;o como forma&ccedil;&atilde;o humana &eacute; a combina&ccedil;&atilde;o da educa&ccedil;&atilde;o e da instru&ccedil;&atilde;o, sendo dona desse raio maior, onde a vida, o trabalho e a luta fazem parte da constru&ccedil;&atilde;o do &ldquo;conhecimento&rdquo;.</p>
+<p>Tendo como refer&ecirc;ncia Moisey Pistrak, educador socialista que viveu na R&uacute;ssia e influenciou as ideias pedag&oacute;gicas do per&iacute;odo p&oacute;s-revolu&ccedil;&atilde;o russa de 1917, Rubneuza&nbsp;explica que a educa&ccedil;&atilde;o como forma&ccedil;&atilde;o humana &eacute; a combina&ccedil;&atilde;o da educa&ccedil;&atilde;o e da instru&ccedil;&atilde;o, sendo dona desse raio maior, onde a vida, o trabalho e a luta fazem parte da constru&ccedil;&atilde;o do &ldquo;conhecimento&rdquo;.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Fernanda Alc&acirc;ntara<br />
+**Essa mat&eacute;ria &eacute; a primeira parte de uma s&eacute;rie de textos sobre a educa&ccedil;&atilde;o no MST</em></p>
