@@ -40,8 +40,8 @@ releated_posts:
 <p>&nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="“Foi brincando e conversando com as crianças que a gente falava da luta pela terra__, conta Isabel Green, militante Sem Terra. Foto_ Daniel de Andrade.jpeg" height="506" src="//farm66.staticflickr.com/65535/33914084428_5edf97b6ea_b.jpg" width="700" />
-<figcaption><em>&ldquo;Foi brincando e conversando com as crian&ccedil;as que a gente falava da luta pela terra, conta Isabel Green, militante Sem Terra. Foto: Daniel de Andrade</em></figcaption>
+<figure class="image" style="display:inline-block"><img alt="“Foi brincando e conversando com as crianças que a gente falava da luta pela terra__, conta Isabel Green, militante Sem Terra. Foto_ Daniel de Andrade.jpeg" height="433" src="//farm66.staticflickr.com/65535/33914084428_5edf97b6ea_b.jpg" width="600" />
+<figcaption><em>&ldquo;Foi brincando e conversando com as crian&ccedil;as que a gente falava da luta pela terra&quot;, conta Isabel Green, militante Sem Terra. Foto: Daniel de Andrade</em></figcaption>
 </figure>
 </div>
 
