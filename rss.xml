@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Uma educação que forma, organiza e emancipa</title>
+				<description>Desde o acampamento em Encruzilhada Natalino, a educação acompanha a construção do MST, transformando-se num princípio</description>
+				<pubDate>Mon, 06 May 2019 17:04:42 -0300</pubDate>
+				<link>http://www.mst.org.br/2019/05/06/uma-educacao-que-forma-organiza-e-emancipa.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2019/05/06/uma-educacao-que-forma-organiza-e-emancipa.html</guid>
+			</item>
+		
+			<item>
 				<title>Cooperativa do MST de agroecologia completa 25 anos</title>
 				<description>Coopan é uma das referências em produção de alimentos saudáveis na região Metropolitana de Porto Alegre</description>
 				<pubDate>Mon, 06 May 2019 16:14:05 -0300</pubDate>
@@ -23,8 +31,8 @@
 			</item>
 		
 			<item>
-				<title>Justiça decide por reintegração de posse em Rondônia</title>
-				<description>Desde 2004, a reserva  vem sofrendo invasões de grileiros </description>
+				<title>Justiça decide por despejo em área produtiva</title>
+				<description>Desde 2004, a reserva vem sofrendo invasões de grileiros </description>
 				<pubDate>Mon, 06 May 2019 15:22:38 -0300</pubDate>
 				<link>http://www.mst.org.br/2019/05/06/justica-decide-por-reintegracao-de-posse-em-rondonia.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2019/05/06/justica-decide-por-reintegracao-de-posse-em-rondonia.html</guid>
@@ -76,14 +84,6 @@
 				<pubDate>Fri, 03 May 2019 10:51:19 -0300</pubDate>
 				<link>http://www.mst.org.br/2019/05/03/movimento-do-campo-das-florestas-denunciam-desmonte-da-seguridade-social.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2019/05/03/movimento-do-campo-das-florestas-denunciam-desmonte-da-seguridade-social.html</guid>
-			</item>
-		
-			<item>
-				<title>Um milhão de pessoas são atingidas por conflitos no campo, em 2018</title>
-				<description>Os dados dos Conflitos no Campo de 2018, registrados pela CPT, evidenciam um aumento de quase 36% de pessoas envolvidas em conflitos, em relação ao ano anterior</description>
-				<pubDate>Thu, 02 May 2019 17:35:55 -0300</pubDate>
-				<link>http://www.mst.org.br/2019/05/02/um-milhao-de-pessoas-sao-atingidas-por-conflitos-no-campo-em-2018.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2019/05/02/um-milhao-de-pessoas-sao-atingidas-por-conflitos-no-campo-em-2018.html</guid>
 			</item>
 		
 	</channel>
