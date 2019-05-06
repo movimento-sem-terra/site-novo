@@ -6,16 +6,9 @@ tags:
 title: "Feminismo, saúde e agroecologia em Santa Catarina"
 support_line: Debate reuniu mulheres Sem Terra para debater sobre a participação feminina no campo
 menu: "educação, cultura e comunicação"
-images_hd: //farm66.staticflickr.com/65535/47738393182_8da9ae070e_b.jpg
+images_hd: //farm66.staticflickr.com/65535/47790791351_5cf194785a_b.jpg
 layout: post
 files:
-  - link: //farm66.staticflickr.com/65535/47738393182_8da9ae070e_b.jpg
-    original: //farm66.staticflickr.com/65535/47738393182_2d330ece22_o.jpg
-    thumbnail: //farm66.staticflickr.com/65535/47738393182_8da9ae070e_t.jpg
-    medium: //farm66.staticflickr.com/65535/47738393182_8da9ae070e_z.jpg
-    small: //farm66.staticflickr.com/65535/47738393182_8da9ae070e_n.jpg
-    title: Feminismo-1.jpeg
-    $$hashKey: 05C
   - link: //farm66.staticflickr.com/65535/47790611161_369f77d816_b.jpg
     original: //farm66.staticflickr.com/65535/47790611161_089fbc06fd_o.jpg
     thumbnail: //farm66.staticflickr.com/65535/47790611161_369f77d816_t.jpg
@@ -23,6 +16,13 @@ files:
     small: //farm66.staticflickr.com/65535/47790611161_369f77d816_n.jpg
     title: Feminismo-2.jpeg
     $$hashKey: 05F
+  - link: //farm66.staticflickr.com/65535/47790791351_5cf194785a_b.jpg
+    original: //farm66.staticflickr.com/65535/47790791351_87e97039fc_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/47790791351_5cf194785a_t.jpg
+    medium: //farm66.staticflickr.com/65535/47790791351_5cf194785a_z.jpg
+    small: //farm66.staticflickr.com/65535/47790791351_5cf194785a_n.jpg
+    title: Feminismo-3.jpeg
+    $$hashKey: 0JJ
 created_date: "2019-05-06T16:13:39-03:00"
 published: true
 releated_posts:
@@ -33,11 +33,7 @@ releated_posts:
   - _posts/2019/03/2019-03-30-experiencia-de-producao-de-alimentos-saudaveis-aproxima-campo-e-cidade-no-df.md
 
 ---
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Feminismo-2.jpeg" height="525" src="//farm66.staticflickr.com/65535/47790611161_369f77d816_b.jpg" width="700" />
-<figcaption><em>Grupo de maioria feminina discute o entrela&ccedil;amento entre agroecologia, sa&uacute;de e g&ecirc;nero</em></figcaption>
-</figure>
-</div>
+<p>&nbsp;</p>
 
 <p style="margin-bottom: 0cm; line-height: 150%"><em>Por Coletivo de Comunica&ccedil;&atilde;o de Santa Catarina<br />
 Da P&aacute;gina do MST</em></p>
