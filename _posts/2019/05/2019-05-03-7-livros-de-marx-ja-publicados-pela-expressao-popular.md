@@ -89,7 +89,7 @@ No debate acerca da obra de Marx e Engels, &eacute; indiscut&iacute;vel o impact
 <p><br />
 <strong><a href="https://www.expressaopopular.com.br/loja/produto/revolucao-antes-da-revolucao-ii-a/">REVOLU&Ccedil;&Atilde;O ANTES DA REVOLU&Ccedil;&Atilde;O II, A</a>&nbsp;</strong></p>
 
-<p>Composto pelo t&iacute;tulos: As lutas de classes na Fran&ccedil;a de 1848-1850,&nbsp;18 brum&aacute;rio de Lu&iacute;s Bonaparte e A guerra civil na Fran&ccedil;a,&nbsp;os textos remontam os&nbsp;primeiros esfor&ccedil;os de Marx e Engels ao afirmar que a verdadeira conquista dos trabalhadores, nas lutas do s&eacute;culo 19, n&atilde;o seria a conquista do poder, mas a constru&ccedil;&atilde;o da classe trabalhadora como uma classe, a constru&ccedil;&atilde;o de sua independ&ecirc;ncia, sua autonomia hist&oacute;rica.&nbsp;</p>
+<p>A s&eacute;rie composta&nbsp;pelo t&iacute;tulos: &#39;As lutas de classes na Fran&ccedil;a de 1848-1850&#39;, &#39;18 brum&aacute;rio de Lu&iacute;s Bonaparte&#39; e &#39;A guerra civil na Fran&ccedil;a&#39;,&nbsp;remontam os&nbsp;primeiros esfor&ccedil;os de Marx e Engels ao afirmar que a verdadeira conquista dos trabalhadores, nas lutas do s&eacute;culo 19, n&atilde;o seria a conquista do poder, mas a constru&ccedil;&atilde;o da classe trabalhadora como uma classe, a constru&ccedil;&atilde;o de sua independ&ecirc;ncia, sua autonomia hist&oacute;rica.&nbsp;</p>
 
 <p><br />
 <br />
