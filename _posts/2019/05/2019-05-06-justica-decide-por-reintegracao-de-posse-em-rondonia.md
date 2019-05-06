@@ -3,8 +3,8 @@ date: "2019-05-06T15:22:38-03:00"
 tags:
   - tag: despejo
   - tag: reintegração-de-posse
-title: Justiça decide por reintegração de posse em Rondônia
-support_line: "Desde 2004, a reserva  vem sofrendo invasões de grileiros "
+title: Justiça decide por despejo em área produtiva
+support_line: "Desde 2004, a reserva vem sofrendo invasões de grileiros "
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/40823989323_e14c9744f9_b.jpg
 layout: post
@@ -63,7 +63,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>No dia 30 de abril,&nbsp; moradores do pr&eacute;-assentamento Margarida Alves II, no munic&iacute;pio de Nova Uni&atilde;o (RO), foram surpreendidos por uma decis&atilde;o judicial de reintegra&ccedil;&atilde;o de posse favor&aacute;vel ao INCRA, movida pela Procuradoria Federal do Estado.<br />
+<p>No dia 30 de abril,&nbsp; moradores do pr&eacute;-assentamento Margarida Alves II, no munic&iacute;pio de Nova Uni&atilde;o (RO), foram surpreendidos por uma decis&atilde;o judicial de despejo de posse favor&aacute;vel ao INCRA, movida pela Procuradoria Federal do Estado.<br />
 &nbsp;</p>
 
 <p>A mensagem, enviada por internet, determinava o prazo de 5 dias para desapropria&ccedil;&atilde;o da &aacute;rea, e caso a medida n&atilde;o fosse cumprida, o pr&eacute;-assentamento dever&aacute; pagar multa di&aacute;ria no valor de 100 mil reais.<br />
@@ -73,7 +73,7 @@ Da P&aacute;gina do MST</em></p>
 <figcaption></figcaption>
 </figure>
 
-<p>Ao tomar conhecimento, Movimento dos Trabalhadores Rurais Sem Terra (MST)&nbsp; procurou o novo superintendente substituto do &Oacute;rg&atilde;o no Estado, Erasmo Ten&oacute;rio da Silva, para tratar da reintegra&ccedil;&atilde;o. O mesmo garantiu que n&atilde;o haver&aacute; a&ccedil;&atilde;o de despejo at&eacute; a data da reuni&atilde;o, marcada para o dia 09/05/2019.</p>
+<p>Ao tomar conhecimento, Movimento dos Trabalhadores Rurais Sem Terra (MST)&nbsp; procurou o novo superintendente substituto do &Oacute;rg&atilde;o no Estado, Erasmo Ten&oacute;rio da Silva, para tratar do despejo. O mesmo garantiu que n&atilde;o haver&aacute; a&ccedil;&atilde;o de despejo at&eacute; a data da reuni&atilde;o, marcada para o dia 09/05/2019.</p>
 
 <p>O pr&eacute;-assentamento est&aacute; localizado na reserva em bloco do assentamento Margarida Alves, que estava sendo atacada por grileiros e madeireiros. As fam&iacute;lias que ali residem vieram de acampamentos que sofreram despejo anteriormente. Para resolver os problemas do assentamento, o MST e as fam&iacute;lias do pr&eacute;-assentamento Margarida Alves II resolveram ocupar a &aacute;rea e defender a fun&ccedil;&atilde;o social de oferecer trabalho e renda para a regi&atilde;o.<br />
 &nbsp;</p>
