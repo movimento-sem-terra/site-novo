@@ -1,8 +1,10 @@
 ---
 date: "2019-05-06T15:22:38-03:00"
-tags: []
+tags:
+  - tag: despejo
+  - tag: reintegração-de-posse
 title: Justiça decide por reintegração de posse em Rondônia
-support_line: "Desde 2004, a reserva com mais de 260 famílias vem sofrendo invasões de grileiros "
+support_line: "Desde 2004, a reserva  vem sofrendo invasões de grileiros "
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/40823989323_e14c9744f9_b.jpg
 layout: post
@@ -36,8 +38,15 @@ files:
     title: Apoio_4.jpg
     $$hashKey: 039
 created_date: "2019-05-06T15:26:37-03:00"
-published: false
-releated_posts: []
+published: true
+releated_posts:
+  - _posts/2019/04/2019-04-05-reintegracao-de-posse-ameaca-despejar-mais-de-300-familias-no-parana.md
+  - _posts/2019/02/2019-02-25-familias-sem-terra-sofrem-com-ameaca-de-despejo-em-pernambuco.md
+  - _posts/2019/02/2019-02-27-familias-sem-terra-lutam-pela-construcao-de-unidade-pedagogica-em-macae.md
+  - _posts/2019/03/2019-03-20-decisao-judicial-preve-despejo-de-mais-de-70-familias-em-babaculandia-to.md
+  - _posts/2019/03/2019-03-28-acampamento-no-ceara-sofre-por-ameaca-de-despejo.md
+  - _posts/2019/03/2019-03-28-pre-assentamento-com-mais-de-20-anos-luta-contra-ameaca-de-despejo-no-parana.md
+  - _posts/2018/12/2018-12-06-sem-terra-sao-despejados-de-acampamento-no-ceara.md
 
 ---
 <p>&nbsp;</p>
@@ -60,7 +69,11 @@ Da P&aacute;gina do MST</em></p>
 <p>A mensagem, enviada por internet, determinava o prazo de 5 dias para desapropria&ccedil;&atilde;o da &aacute;rea, e caso a medida n&atilde;o fosse cumprida, o pr&eacute;-assentamento dever&aacute; pagar multa di&aacute;ria no valor de 100 mil reais.<br />
 &nbsp;</p>
 
-<p><img alt="Apoio_4.jpg" src="//farm66.staticflickr.com/65535/40823989323_e14c9744f9_b.jpg" />Ao tomar conhecimento, Movimento dos Trabalhadores Rurais Sem Terra (MST)&nbsp; procurou o novo superintendente substituto do &Oacute;rg&atilde;o no Estado, Erasmo Ten&oacute;rio da Silva, para tratar da reintegra&ccedil;&atilde;o. O mesmo garantiu que n&atilde;o haver&aacute; a&ccedil;&atilde;o de despejo at&eacute; a data da reuni&atilde;o, marcada para o dia 09/05/2019.</p>
+<figure class="image" style="float:left"><img alt="Apoio_2.jpg" height="146" src="//farm66.staticflickr.com/65535/47001104954_953fe40794_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
+
+<p>Ao tomar conhecimento, Movimento dos Trabalhadores Rurais Sem Terra (MST)&nbsp; procurou o novo superintendente substituto do &Oacute;rg&atilde;o no Estado, Erasmo Ten&oacute;rio da Silva, para tratar da reintegra&ccedil;&atilde;o. O mesmo garantiu que n&atilde;o haver&aacute; a&ccedil;&atilde;o de despejo at&eacute; a data da reuni&atilde;o, marcada para o dia 09/05/2019.</p>
 
 <p>O pr&eacute;-assentamento est&aacute; localizado na reserva em bloco do assentamento Margarida Alves, que estava sendo atacada por grileiros e madeireiros. As fam&iacute;lias que ali residem vieram de acampamentos que sofreram despejo anteriormente. Para resolver os problemas do assentamento, o MST e as fam&iacute;lias do pr&eacute;-assentamento Margarida Alves II resolveram ocupar a &aacute;rea e defender a fun&ccedil;&atilde;o social de oferecer trabalho e renda para a regi&atilde;o.<br />
 &nbsp;</p>
@@ -78,6 +91,10 @@ Desde 2004, a reserva vinha sofrendo invas&otilde;es de grileiros independentes,
 
 <p><br />
 Mesmo com toda a movimenta&ccedil;&atilde;o do plano de manejo gestado pela cooperativa, o roubo de madeiras continuou, chegando a atingir metade da &aacute;rea de reserva. Na reta final de explora&ccedil;&atilde;o do plano de manejo, houve a tentativa de invas&atilde;o dos propriet&aacute;rios, garimpeiros e mil&iacute;cias para fins de especula&ccedil;&atilde;o e venda ilegal de lotes na &aacute;rea. Esses sujeitos foram expulsos pela opera&ccedil;&atilde;o de desocupa&ccedil;&atilde;o promovida pela pol&iacute;cia ambiental com apoio da pol&iacute;cia militar.</p>
+
+<figure class="image" style="float:right"><img alt="Apoio_3.jpg" height="617" src="//farm66.staticflickr.com/65535/40823989333_e2f611ddbf_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 No ano de 2016, o assentamento e o MST trouxeram fam&iacute;lias de tr&ecirc;s acampamentos organizados pelo Movimento que haviam sido despejados por jagun&ccedil;os a mando de fazendeiros.&nbsp; Eram pessoas que n&atilde;o tinham espa&ccedil;o para se alojar, vindas de espa&ccedil;os como o acampamento Hugo Ch&aacute;vez (Ariquemes), acampamento Silvio Rodrigues (Alvorada d&rsquo;Oeste), acampamento Eg&iacute;dio Brunetto (Porto Velho), e as filhas (os) de assentadas (os) do assentamento Margarida Alves, totalizando 260 fam&iacute;lias, m&iacute;nimo para que pudesse assegurar a posse da &aacute;rea.</p>
