@@ -33,7 +33,11 @@ releated_posts:
   - _posts/2019/03/2019-03-30-experiencia-de-producao-de-alimentos-saudaveis-aproxima-campo-e-cidade-no-df.md
 
 ---
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Feminismo-2.jpeg" height="525" src="//farm66.staticflickr.com/65535/47790611161_369f77d816_b.jpg" width="700" />
+<figcaption><em>Grupo de maioria feminina discute o entrela&ccedil;amento entre agroecologia, sa&uacute;de e g&ecirc;nero</em></figcaption>
+</figure>
+</div>
 
 <p style="margin-bottom: 0cm; line-height: 150%"><em>Por Coletivo de Comunica&ccedil;&atilde;o de Santa Catarina<br />
 Da P&aacute;gina do MST</em></p>
