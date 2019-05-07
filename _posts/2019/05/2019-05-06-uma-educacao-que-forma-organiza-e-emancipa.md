@@ -41,7 +41,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="“Foi brincando e conversando com as crianças que a gente falava da luta pela terra__, conta Isabel Green, militante Sem Terra. Foto_ Daniel de Andrade.jpeg" height="433" src="//farm66.staticflickr.com/65535/33914084428_5edf97b6ea_b.jpg" width="600" />
-<figcaption><em>&ldquo;Foi brincando e conversando com as crian&ccedil;as que a gente falava da luta pela terra&quot;, conta Isabel Green, militante Sem Terra. Foto: Daniel de Andrade</em></figcaption>
+<figcaption><em>&ldquo;Foi brincando e conversando com as crian&ccedil;as que a gente falava da luta pela terra&quot;, conta Izabel Grein, militante Sem Terra. Foto: Daniel de Andrade</em></figcaption>
 </figure>
 </div>
 
@@ -69,6 +69,8 @@ Da P&aacute;gina do MST</em><br />
 
 <p><strong>Estudar e brincar</strong></p>
 
+<p>&nbsp;</p>
+
 <p>Izabel recorda que, naquele momento, as escolas localizadas em Natalino n&atilde;o queriam as crian&ccedil;as do acampamento, pois seus pais eram sujeitos &ldquo;itinerante&rdquo; e diziam que n&atilde;o matriculavam as crian&ccedil;as, porque seus pais iriam embora e as levavam, construindo um problema burocr&aacute;tico com a matr&iacute;cula.<br />
 &nbsp;</p>
 
@@ -82,7 +84,12 @@ Da P&aacute;gina do MST</em><br />
 <figcaption><em>S&iacute;mbolo de resist&ecirc;ncia &agrave; ditadura militar, o Encruzilhada Natalino &eacute; refer&ecirc;ncia de luta e resist&ecirc;ncia nacionalmente. Foto: Arquivo MST</em></figcaption>
 </figure>
 
-<p>Sobre o m&eacute;todo adotado com as crian&ccedil;as, ela explica que eram realizadas rodas de conversas e muitas brincadeiras em estruturas improvisadas, como embaixo de arvores e num barrac&atilde;o de lona preta. &ldquo;Foi brincando e conversando com as crian&ccedil;as que a gente falava da luta pela terra e explicava porque os pais deles eram acampados&rdquo;, e continua: &ldquo;eles aprendiam muito bem, inclusive todos os cantos da luta. Eu lembro de um livro do Encruzilhada Natalino e, nele, o Frei S&eacute;rgio fala que quando ele chegou l&aacute;, tinha uma crian&ccedil;a muito distra&iacute;da cantando a m&uacute;sica &lsquo;<a href="https://www.youtube.com/watch?v=DsdSm6VFSgw&amp;t=23s">A classe roceira e a classe oper&aacute;ria</a>&rsquo; &rdquo;.<br />
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><br />
+Sobre o m&eacute;todo adotado com as crian&ccedil;as, ela explica que eram realizadas rodas de conversas e muitas brincadeiras em estruturas improvisadas, como embaixo de arvores e num barrac&atilde;o de lona preta. &ldquo;Foi brincando e conversando com as crian&ccedil;as que a gente falava da luta pela terra e explicava porque os pais deles eram acampados&rdquo;, e continua: &ldquo;eles aprendiam muito bem, inclusive todos os cantos da luta. Eu lembro de um livro do Encruzilhada Natalino e, nele, o Frei S&eacute;rgio fala que quando ele chegou l&aacute;, tinha uma crian&ccedil;a muito distra&iacute;da cantando a m&uacute;sica &lsquo;<a href="https://www.youtube.com/watch?v=DsdSm6VFSgw&amp;t=23s">A classe roceira e a classe oper&aacute;ria</a>&rsquo; &rdquo;.<br />
 &nbsp;</p>
 
 <p><strong>Ensinando a ler e escrever</strong><br />
