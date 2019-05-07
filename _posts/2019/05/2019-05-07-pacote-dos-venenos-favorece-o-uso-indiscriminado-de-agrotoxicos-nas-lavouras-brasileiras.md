@@ -1,10 +1,11 @@
 ---
 date: "2019-05-07T11:41:15-03:00"
-tags: []
+tags:
+  - tag: agrotóxicos
 title: Pacote dos Venenos favorece o uso indiscriminado de agrotóxicos nas lavouras brasileiras
 support_line: "O tema foi discutido no seminário por movimentos populares, parlamentares, entidades ambientalistas e universidades"
 menu: agronegócio
-images_hd: //farm66.staticflickr.com/65535/47744702382_41e76ecab6_b.jpg
+images_hd: //farm66.staticflickr.com/65535/47744762752_d09f5385b9_b.jpg
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/47744702382_41e76ecab6_b.jpg
@@ -14,13 +15,38 @@ files:
     small: //farm66.staticflickr.com/65535/47744702382_41e76ecab6_n.jpg
     title: "Representante do MST no seminário contra o Pacote dos venenos, Daniele Casarotto  - Foto Maiara Rauber.jpg"
     $$hashKey: "035"
+  - link: //farm66.staticflickr.com/65535/33920012048_8c7d1b2c36_b.jpg
+    original: //farm66.staticflickr.com/65535/33920012048_7354e299cb_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/33920012048_8c7d1b2c36_t.jpg
+    medium: //farm66.staticflickr.com/65535/33920012048_8c7d1b2c36_z.jpg
+    small: //farm66.staticflickr.com/65535/33920012048_8c7d1b2c36_n.jpg
+    title: Palestrante deputado federal Nilto Tatto (PT-SP) - Foto Maiara Rauber.jpg
+    $$hashKey: 069
+  - link: //farm66.staticflickr.com/65535/47744762752_d09f5385b9_b.jpg
+    original: //farm66.staticflickr.com/65535/47744762752_a13e5408e8_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/47744762752_d09f5385b9_t.jpg
+    medium: //farm66.staticflickr.com/65535/47744762752_d09f5385b9_z.jpg
+    small: //farm66.staticflickr.com/65535/47744762752_d09f5385b9_n.jpg
+    title: Seminário sobre  Pacote dos Venenos - Foto Maiara Rauber.jpg
+    $$hashKey: 06C
 created_date: "2019-05-07T12:12:12-03:00"
-published: false
-releated_posts: []
+published: true
+releated_posts:
+  - _posts/2018/07/2018-07-12-na-contramao-do-pacote-do-veneno-pnara-avanca-na-camara.md
+  - _posts/2018/07/2018-07-16-monsanto-vai-a-julgamento-nos-eua-por-agrotoxico-cancerigeno.md
+  - _posts/2018/07/2018-07-27-agrotoxicos-ma-formacao-congenita-e-puberdade-precoce-uma-heranca-maldita-do-agronegocio.md
+  - _posts/2018/08/2018-08-20-governo-temer-e-setor-dos-agrotoxicos-tentam-impor-liberacao-do-glifosato.md
+  - _posts/2018/09/2018-09-20-brasil-avanca-na-liberacao-de-agrotoxicos-que-matam-193-mil-pessoas-por-ano-no-mundo.md
 
 ---
 <p><br />
 &nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Palestrante deputado federal Nilto Tatto (PT-SP) - Foto Maiara Rauber.jpg" height="386" src="//farm66.staticflickr.com/65535/33920012048_8c7d1b2c36_b.jpg" width="700" />
+<figcaption><em>Palestrante deputado federal Nilto Tatto (PT-SP) - Foto Maiara Rauber</em></figcaption>
+</figure>
+</div>
 
 <p><em>Por Leandro Molina<br />
 Da P&aacute;gina do MST</em><br />
@@ -36,6 +62,11 @@ Da P&aacute;gina do MST</em><br />
 
 <p><br />
 De acordo com Nilto Tatto, a tramita&ccedil;&atilde;o do PL na C&acirc;mara ignora o apelo de diversas entidades da sociedade civil e ambientalistas, al&eacute;m da Ag&ecirc;ncia Nacional de Vigil&acirc;ncia Sanit&aacute;ria (ANVISA) e do Instituto Nacional do C&acirc;ncer (INCA). Segundo ele, o texto do Pacote dos Venenos favorece o uso indiscriminado de agrot&oacute;xicos nas lavouras brasileiras, e que o pacote vai totalmente na contram&atilde;o do que a sociedade quer. &ldquo;Trabalhei na ro&ccedil;a at&eacute; os 16 anos e n&atilde;o conheci o veneno. S&oacute; conheci nos &uacute;ltimos dois anos porque meu pai resolveu plantar fumo, e a&iacute; veio o pacote e um modelo que tomou conta&rdquo;, relatou.</p>
+
+<figure class="image" style="float:left"><img alt="Seminário sobre  Pacote dos Venenos - Foto Maiara Rauber.jpg" height="178" src="//farm66.staticflickr.com/65535/47744762752_d09f5385b9_b.jpg" width="300" />
+<figcaption><em>Semin&aacute;rio sobre Pacote dos Venenos<br />
+Foto Maiara Rauber</em></figcaption>
+</figure>
 
 <p><br />
 Tatto falou sobre o contexto hist&oacute;rico e lembou que o atual modelo de produ&ccedil;&atilde;o foi incentivado ap&oacute;s a segunda guerra mundial. Segundo ele, muitas pesquisas mostram os motivos que levaram a esse modelo e que nos &uacute;ltimos anos &eacute; altamente financiado por conglomerados na produ&ccedil;&atilde;o de insumos para a agricultura. &ldquo;&Eacute; imposto que todos pagam, portanto &eacute; recurso p&uacute;blico que vai para a cadeia dos agrot&oacute;xicos. Em todos os pa&iacute;ses h&aacute; incentivo a esse modelo que se tornou hegem&ocirc;nico. Ele foi constru&iacute;do&rdquo;, apontou.</p>
@@ -54,6 +85,10 @@ Segundo ele, o PL 6299/02 coloca o Ibama e a Anvisa em papel secund&aacute;rio, 
 
 <p><br />
 Ao finalizar, o deputado Nilto Tatto lembrou da Pol&iacute;tica Nacional de Redu&ccedil;&atilde;o de Agrot&oacute;xicos (PNaRA) - projeto de lei apresentado pela Associa&ccedil;&atilde;o Brasileira de Sa&uacute;de Coletiva (Abrasco) &agrave; Comiss&atilde;o de Legisla&ccedil;&atilde;o Participativa em 2016. O projeto amplia o direito &agrave; informa&ccedil;&atilde;o e &agrave; sistematiza&ccedil;&atilde;o de informa&ccedil;&otilde;es do impacto que os venenos produzem sobre a sa&uacute;de e o meio ambiente. &ldquo;A sociedade tem o direito &agrave; informa&ccedil;&atilde;o. H&aacute; agricultores que s&oacute; sabem trabalhar com veneno, porque foram treinados para isso. Precisamos fazer o debate para diminuir a desigualdade, sem desvincular o debate da transi&ccedil;&atilde;o ecol&oacute;gica. Sempre procuro visitar algum assentamento. Esse debate da transi&ccedil;&atilde;o &eacute; muito vivo dentro do MST, e isso &eacute; fundamental e inspirador para n&oacute;s&rdquo;, declarou.</p>
+
+<figure class="image" style="float:right"><img alt="Palestrante deputado federal Nilto Tatto (PT-SP) - Foto Maiara Rauber.jpg" height="165" src="//farm66.staticflickr.com/65535/33920012048_8c7d1b2c36_b.jpg" width="300" />
+<figcaption>I</figcaption>
+</figure>
 
 <p><br />
 Para procurador Rodrigo Valdez de Oliveira, da 4&ordf; Regi&atilde;o do Minist&eacute;rio P&uacute;blico Federal (MPF), o PL 6299, numa vers&atilde;o anterior, proibia que os Estados e Munic&iacute;pios legislassem sobre os agrot&oacute;xicos. &ldquo;Agora colocam na nova vers&atilde;o que eles poder&atilde;o legislar sobre o uso e comercializa&ccedil;&atilde;o de agrot&oacute;xicos, desde que cientificamente comprovado&rdquo;, criticou.</p>
