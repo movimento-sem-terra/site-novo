@@ -58,7 +58,7 @@ Da P&aacute;gina do MST</em><br />
 <p>Em 1981, uma das primeiras experi&ecirc;ncias de educa&ccedil;&atilde;o do campo se concretizou com o <a href="http://www.mst.org.br/nossa-producao/">acampamento em Encruzilhada Natalino</a>. Esse espa&ccedil;o se tornou s&iacute;mbolo de resist&ecirc;ncia &agrave; ditadura militar ao agregar, entre diversas entidades e organiza&ccedil;&otilde;es populares, a sociedade civil que exigia um regime democr&aacute;tico no pa&iacute;s.<br />
 &nbsp;</p>
 
-<p>Nesse contexto, o processo educacional precisava refletir a luta das fam&iacute;lias mobilizadas. Isabel Green, militante hist&oacute;rica do MST, acompanhou de perto as primeiras inciativas que deram corpo ao processo educacional nos assentamentos e acampamentos no Movimento.<br />
+<p>Nesse contexto, o processo educacional precisava refletir a luta das fam&iacute;lias mobilizadas. Maria Izabel Grein, militante hist&oacute;rica do MST, acompanhou de perto as primeiras inciativas que deram corpo ao processo educacional nos assentamentos e acampamentos no Movimento.<br />
 &nbsp;</p>
 
 <p>Para ela, o acampamento em Natalino, constru&iacute;do antes do MST se consolidar oficialmente enquanto um Movimento que luta pela Terra, pela Reforma Agr&aacute;ria e Transforma&ccedil;&atilde;o Social, em 1984, a educa&ccedil;&atilde;o j&aacute; se apresentava como um instrumento indispens&aacute;vel.<br />
@@ -69,13 +69,13 @@ Da P&aacute;gina do MST</em><br />
 
 <p><strong>Estudar e brincar</strong></p>
 
-<p>Isabel recorda que, naquele momento, as escolas localizadas em Natalino n&atilde;o queriam as crian&ccedil;as do acampamento, pois seus pais eram sujeitos &ldquo;itinerante&rdquo; e diziam que n&atilde;o matriculavam as crian&ccedil;as, porque seus pais iriam embora e as levavam, construindo um problema burocr&aacute;tico com a matr&iacute;cula.<br />
+<p>Izabel recorda que, naquele momento, as escolas localizadas em Natalino n&atilde;o queriam as crian&ccedil;as do acampamento, pois seus pais eram sujeitos &ldquo;itinerante&rdquo; e diziam que n&atilde;o matriculavam as crian&ccedil;as, porque seus pais iriam embora e as levavam, construindo um problema burocr&aacute;tico com a matr&iacute;cula.<br />
 &nbsp;</p>
 
 <p>Diante disso, &ldquo;a maioria das fam&iacute;lias que tinham condi&ccedil;&otilde;es, que tinham fam&iacute;lia fora, av&ocirc;, av&oacute; ou at&eacute; mesmo um tio muito pr&oacute;ximo, deixavam as crian&ccedil;as l&aacute; para ir &agrave; escola. Mas havia um grande n&uacute;mero de crian&ccedil;as que estavam fora da escola&rdquo;, destaca.<br />
 &nbsp;</p>
 
-<p>Nesse contexto, Isabel questionava: &ldquo;qual o papel da educa&ccedil;&atilde;o neste acampamento?&rdquo;. Coletivamente, a resposta estava dada: &ldquo;ajudar as crian&ccedil;as a compreenderem porque elas n&atilde;o estavam dentro da escola e porque seus pais tinham que acampar&rdquo;.<br />
+<p>Nesse contexto, Izabel questionava: &ldquo;qual o papel da educa&ccedil;&atilde;o neste acampamento?&rdquo;. Coletivamente, a resposta estava dada: &ldquo;ajudar as crian&ccedil;as a compreenderem porque elas n&atilde;o estavam dentro da escola e porque seus pais tinham que acampar&rdquo;.<br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Símbolo de resistência à ditadura militar, o Encruzilhada Natalino é referência de luta e resistência nacionalmente. Foto_ Arquivo MST.jpg" height="357" src="//farm66.staticflickr.com/65535/33914084448_259fb2c129_b.jpg" width="600" />
@@ -88,7 +88,7 @@ Da P&aacute;gina do MST</em><br />
 <p><strong>Ensinando a ler e escrever</strong><br />
 &nbsp;</p>
 
-<p>J&aacute; com os adultos, o processo de estudo enfrentou o limite da analfabetiza&ccedil;&atilde;o. Segundo Isabel, cerca de 70% das pessoas que estavam acampadas n&atilde;o sabiam ler e nem escrever.<br />
+<p>J&aacute; com os adultos, o processo de estudo enfrentou o limite do analfabetismo. Segundo Izabel, cerca de 70% das pessoas que estavam acampadas n&atilde;o sabiam ler e&nbsp;escrever.<br />
 &nbsp;</p>
 
 <p>&ldquo;Nesse sentido, fizemos grupos de alfabetiza&ccedil;&atilde;o no acampamento. Eu me lembro muito bem de uma senhora, que se chamava dona Maria, que dizia assim: &lsquo;eu conhe&ccedil;o todas as letras, mas n&atilde;o conseguia acunherar. Agora eu estou aprendendo a juntar as letras e entender&rsquo;. Foi um trabalho muito bonito, mas muito curto. Dali j&aacute; nasce o comprometimento, muito antes do Movimento, de que a luta pela terra precisa nos ajudar a romper com o latif&uacute;ndio do saber&rdquo;, afirma.<br />
