@@ -8,7 +8,7 @@ title: "MST repudia ataques do Ministro Abraham Weintraub contra educação do c
 support_line: "Sem dados técnicos, pesquisas ou números, as declarações proferidas pelo ministro revelam o caráter preconceituoso e excludente do atual governo"
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/47651425822_f06b2fc69f_b.jpg
-section: cover
+section: null
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/47651425822_f06b2fc69f_b.jpg
