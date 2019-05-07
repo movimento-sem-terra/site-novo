@@ -6,7 +6,7 @@ tags:
 title: "Uma educação que forma, organiza e emancipa"
 support_line: "Desde o acampamento em Encruzilhada Natalino, a educação acompanha a construção do MST, transformando-se num princípio"
 menu: "educação, cultura e comunicação"
-section: featured-news
+section: cover
 label: special-stories
 sector: education
 images_hd: //farm66.staticflickr.com/65535/33914084428_5edf97b6ea_b.jpg
