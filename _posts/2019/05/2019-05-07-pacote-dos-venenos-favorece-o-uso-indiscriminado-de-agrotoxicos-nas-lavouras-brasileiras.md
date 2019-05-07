@@ -2,7 +2,7 @@
 date: "2019-05-07T11:41:15-03:00"
 tags:
   - tag: agrotóxicos
-title: Pacote dos Venenos favorece o uso indiscriminado de agrotóxicos nas lavouras brasileiras
+title: Pacote dos venenos favorece o uso indiscriminado de agrotóxicos nas lavouras brasileiras
 support_line: "O tema foi discutido no seminário por movimentos populares, parlamentares, entidades ambientalistas e universidades"
 menu: agronegócio
 images_hd: //farm66.staticflickr.com/65535/47744762752_d09f5385b9_b.jpg
@@ -87,7 +87,8 @@ Segundo ele, o PL 6299/02 coloca o Ibama e a Anvisa em papel secund&aacute;rio, 
 Ao finalizar, o deputado Nilto Tatto lembrou da Pol&iacute;tica Nacional de Redu&ccedil;&atilde;o de Agrot&oacute;xicos (PNaRA) - projeto de lei apresentado pela Associa&ccedil;&atilde;o Brasileira de Sa&uacute;de Coletiva (Abrasco) &agrave; Comiss&atilde;o de Legisla&ccedil;&atilde;o Participativa em 2016. O projeto amplia o direito &agrave; informa&ccedil;&atilde;o e &agrave; sistematiza&ccedil;&atilde;o de informa&ccedil;&otilde;es do impacto que os venenos produzem sobre a sa&uacute;de e o meio ambiente. &ldquo;A sociedade tem o direito &agrave; informa&ccedil;&atilde;o. H&aacute; agricultores que s&oacute; sabem trabalhar com veneno, porque foram treinados para isso. Precisamos fazer o debate para diminuir a desigualdade, sem desvincular o debate da transi&ccedil;&atilde;o ecol&oacute;gica. Sempre procuro visitar algum assentamento. Esse debate da transi&ccedil;&atilde;o &eacute; muito vivo dentro do MST, e isso &eacute; fundamental e inspirador para n&oacute;s&rdquo;, declarou.</p>
 
 <figure class="image" style="float:right"><img alt="Palestrante deputado federal Nilto Tatto (PT-SP) - Foto Maiara Rauber.jpg" height="165" src="//farm66.staticflickr.com/65535/33920012048_8c7d1b2c36_b.jpg" width="300" />
-<figcaption>I</figcaption>
+<figcaption><em>Palestrante deputado federal Nilto<br />
+Tatto (PT-SP) - Foto Maiara Rauber</em></figcaption>
 </figure>
 
 <p><br />
