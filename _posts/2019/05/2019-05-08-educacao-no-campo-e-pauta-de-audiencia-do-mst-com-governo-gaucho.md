@@ -45,7 +45,7 @@ files:
     title: O dialogo vem sendo a bandeira do governo gaúcho atual. Foto Maiara Rauber.jpg
     $$hashKey: "031"
 created_date: "2019-05-08T12:18:09-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/03/2019-03-22-no-ceara-mst-inaugura-mais-uma-escola-de-ensino-medio-do-campo.md
   - _posts/2019/03/2019-03-29-so-quem-e-militante-consegue-entender-a-solidariedade-entre-os-povos.md
@@ -74,16 +74,15 @@ Da P&aacute;gina do MST</em><br />
 <p>No &uacute;ltimo dia 16 de abril, al&eacute;m de lembrar os 23 anos do Massacre de Eldorado dos Caraj&aacute;s e de exigir a retomada da Reforma Agr&aacute;ria, o MST foi &agrave;s ruas protestar contra o desmonte da educa&ccedil;&atilde;o. Em Porto Alegre esse tema foi tratado em reuni&atilde;o com o governador Eduardo Leite (PSDB), no Pal&aacute;cio Piratini, a qual se desdobrou em v&aacute;rias agendas, inclusive uma espec&iacute;fica para tratar das escolas do campo na Secretaria Estadual de Educa&ccedil;&atilde;o (Seduc).<br />
 &nbsp;</p>
 
-<p>A audi&ecirc;ncia p&uacute;blica com o secret&aacute;rio Faisal Karam e a secret&aacute;ria-adjunta Ivana Flores aconteceu na tarde dessa segunda-feira (6). Uma comitiva de mais de 30 pessoas ligadas &agrave; rede estadual de ensino e ao setor de educa&ccedil;&atilde;o do MST exp&ocirc;s os problemas enfrentados pelas escolas em assentamentos. No encontro, que durou aproximadamente 3 horas, foi reivindicado a necessidade de que os gestores tenham um olhar diferenciado sobre essas institui&ccedil;&otilde;es, uma vez que elas est&atilde;o inseridas em realidades diferentes do contexto urbano.<br />
-&nbsp;</p>
+<p>A audi&ecirc;ncia p&uacute;blica com o secret&aacute;rio Faisal Karam e a secret&aacute;ria-adjunta Ivana Flores aconteceu na tarde dessa segunda-feira (6). Uma comitiva de mais de 30 pessoas ligadas &agrave; rede estadual de ensino e ao setor de educa&ccedil;&atilde;o do MST exp&ocirc;s os problemas enfrentados pelas escolas em assentamentos. No encontro, que durou aproximadamente 3 horas, foi reivindicado a necessidade de que os gestores tenham um olhar diferenciado sobre essas institui&ccedil;&otilde;es, uma vez que elas est&atilde;o inseridas em realidades diferentes do contexto urbano.</p>
+
+<figure class="image" style="float:right"><img alt="Na reunião foi discutido a importância da alimetação saudável para os educandos. Foto Maiara Rauber.jpg" height="194" src="//farm66.staticflickr.com/65535/40838154633_d6f05af0eb_b.jpg" width="300" />
+<figcaption><em>Na reuni&atilde;o foi discutido a import&acirc;ncia<br />
+da alimenta&ccedil;&atilde;o saud&aacute;vel para os<br />
+educandos. Foto Maiara Rauber</em></figcaption>
+</figure>
 
 <p>Ivori Moraes, diretor da Escola Rui Barbosa, situada no Distrito de &Aacute;guas Claras em Viam&atilde;o, apresentou que o RS possui 657 escolas do campo ligadas &agrave; rede estadual de ensino e, dessas, 35 est&atilde;o localizadas em assentamentos. Segundo ele, algumas possuem mais de 30 anos de resist&ecirc;ncia, e outras mais novas ainda funcionam em pr&eacute;dios provis&oacute;rios. Moraes lembrou que, independente da sigla partid&aacute;ria frente ao governo do Estado, a luta pela educa&ccedil;&atilde;o sempre foi travada pelos Sem Terra. Resultado disso foi a conquista de ensino a mais de 6 mil crian&ccedil;as de acampamentos por meio de escolas itinerantes.</p>
-
-<figure class="image" style="float:right"><img alt="Demandas das Escolas do Campo  foram apontadas durante a reunião na Secretária da Educação. Foto Maiara Rauber.jpg" height="172" src="//farm66.staticflickr.com/65535/47804367821_fc0d79871c_b.jpg" width="300" />
-<figcaption><em>Demandas das Escolas do Campo foram<br />
-apontadas durante a reuni&atilde;o na Secret&aacute;ria<br />
-da Educa&ccedil;&atilde;o - Foto Maiara Rauber</em></figcaption>
-</figure>
 
 <p>O diretor alegou que a inten&ccedil;&atilde;o dos educadores ao dialogar com a Seduc &eacute; atender da melhor forma poss&iacute;vel os estudantes que t&ecirc;m uma realidade diferente daqueles que estudam na cidade. &ldquo;Quando pensamos uma gest&atilde;o geral para o Estado, alguma coisa n&atilde;o se consegue traduzir num bom atendimento &agrave;s nossas crian&ccedil;as&rdquo;, disse.&nbsp;Moraes destacou que &eacute; preciso garantir infraestrutura, funcion&aacute;rios e professores. Ressaltou ainda que o posicionamento das comunidades &eacute; pelo n&atilde;o fechamento das escolas, pois s&atilde;o elas que mant&ecirc;m vivos os assentamentos, pela constru&ccedil;&atilde;o de novas institui&ccedil;&otilde;es e pela cria&ccedil;&atilde;o de cursos voltados &agrave; agroecologia e &agrave; forma&ccedil;&atilde;o do agricultor do s&eacute;culo XXI.<br />
 &nbsp;</p>
@@ -94,8 +93,15 @@ da Educa&ccedil;&atilde;o - Foto Maiara Rauber</em></figcaption>
 <p>Al&eacute;m de complementar o di&aacute;logo sobre a situa&ccedil;&atilde;o das escolas do campo, representantes do setor de Educa&ccedil;&atilde;o do MST apresentaram ao secret&aacute;rios in&uacute;meras demandas que dizem respeito a quest&otilde;es pedag&oacute;gicas. Entre elas est&atilde;o a contrata&ccedil;&atilde;o imediata de educadores em &aacute;reas espec&iacute;ficas, o contrato emergencial e convoca&ccedil;&atilde;o por per&iacute;odo sem data fim, o atendimento especializado, a flexibiliza&ccedil;&atilde;o do calend&aacute;rio letivo, concurso p&uacute;blico para professores atuarem na realidade do campo e a implementa&ccedil;&atilde;o do ensino m&eacute;dio em algumas escolas.<br />
 &nbsp;</p>
 
-<p>Tamb&eacute;m foi ressaltada a necessidade de aumentar o valor repassado pelo estado aos munic&iacute;pios para amenizar a precariedade do transporte escolar e melhorias de estradas. &ldquo;A quest&atilde;o do transporte p&uacute;blico &eacute; ca&oacute;tica, n&atilde;o h&aacute; seguran&ccedil;a. Tem crian&ccedil;as que acordam &agrave;s 4 horas para passar horas num &ocirc;nibus e ficar a manh&atilde; inteira na escola. N&oacute;s queremos que sejam consideradas as especificidades do campo. Muitas escolas est&atilde;o com n&uacute;mero pequeno de estudantes porque a parceria Estado-Munic&iacute;pio n&atilde;o foi feita para a educa&ccedil;&atilde;o infantil&rdquo;, explicou Diana Daros, da coordena&ccedil;&atilde;o do setor de educa&ccedil;&atilde;o do MST.<br />
-<img alt="Secretário Faisal e Secretária-adjunta Ivana Genro debatem sobre as escolas no Campo. Foto Maiara Rauber.jpg" src="//farm66.staticflickr.com/65535/46888081205_470246d630_b.jpg" />Outras reivindica&ccedil;&otilde;es est&atilde;o relacionadas ao est&iacute;mulo &agrave; leitura, como a amplia&ccedil;&atilde;o de acervo bibliogr&aacute;fico, e &agrave; educa&ccedil;&atilde;o f&iacute;sica, como a constru&ccedil;&atilde;o e melhorias de quadras esportivas. A comitiva tamb&eacute;m pediu libera&ccedil;&atilde;o de verba emergencial para instala&ccedil;&atilde;o de energia el&eacute;trica em algumas escolas que est&atilde;o sem esse tipo de infraestrutura. A forma&ccedil;&atilde;o de educadores, a implanta&ccedil;&atilde;o do Programa Sim, eu Posso! e a constru&ccedil;&atilde;o de escolas tamb&eacute;m estiveram em pauta. H&aacute; demandas de novas estruturas nos assentamentos Tr&ecirc;s Pinheiros, Dom Orlando Dotti e Novo Alegrete, localizados respectivamente em Sananduva, no Noroeste; Esmeralda, no Campos de Cima da Serra; e Alegrete, na Fronteira Oeste.</p>
+<p>Tamb&eacute;m foi ressaltada a necessidade de aumentar o valor repassado pelo estado aos munic&iacute;pios para amenizar a precariedade do transporte escolar e melhorias de estradas. &ldquo;A quest&atilde;o do transporte p&uacute;blico &eacute; ca&oacute;tica, n&atilde;o h&aacute; seguran&ccedil;a. Tem crian&ccedil;as que acordam &agrave;s 4 horas para passar horas num &ocirc;nibus e ficar a manh&atilde; inteira na escola. N&oacute;s queremos que sejam consideradas as especificidades do campo. Muitas escolas est&atilde;o com n&uacute;mero pequeno de estudantes porque a parceria Estado-Munic&iacute;pio n&atilde;o foi feita para a educa&ccedil;&atilde;o infantil&rdquo;, explicou Diana Daros, da coordena&ccedil;&atilde;o do setor de educa&ccedil;&atilde;o do MST.</p>
+
+<figure class="image" style="float:left"><img alt="Secretário Faisal e Secretária-adjunta Ivana Genro debatem sobre as escolas no Campo. Foto Maiara Rauber.jpg" height="196" src="//farm66.staticflickr.com/65535/46888081205_470246d630_b.jpg" width="300" />
+<figcaption><em>Secret&aacute;rio Faisal e Secret&aacute;ria-adjunta<br />
+Ivana Genro debatem sobre as escolas<br />
+no Campo. Foto Maiara Rauber</em></figcaption>
+</figure>
+
+<p>Outras reivindica&ccedil;&otilde;es est&atilde;o relacionadas ao est&iacute;mulo &agrave; leitura, como a amplia&ccedil;&atilde;o de acervo bibliogr&aacute;fico, e &agrave; educa&ccedil;&atilde;o f&iacute;sica, como a constru&ccedil;&atilde;o e melhorias de quadras esportivas. A comitiva tamb&eacute;m pediu libera&ccedil;&atilde;o de verba emergencial para instala&ccedil;&atilde;o de energia el&eacute;trica em algumas escolas que est&atilde;o sem esse tipo de infraestrutura. A forma&ccedil;&atilde;o de educadores, a implanta&ccedil;&atilde;o do Programa Sim, eu Posso! e a constru&ccedil;&atilde;o de escolas tamb&eacute;m estiveram em pauta. H&aacute; demandas de novas estruturas nos assentamentos Tr&ecirc;s Pinheiros, Dom Orlando Dotti e Novo Alegrete, localizados respectivamente em Sananduva, no Noroeste; Esmeralda, no Campos de Cima da Serra; e Alegrete, na Fronteira Oeste.</p>
 
 <p><strong>Olhar diferenciado</strong><br />
 &nbsp;</p>
@@ -114,8 +120,16 @@ Outro assunto tratado na audi&ecirc;ncia foi a necessidade de desburocratizar os
 <p><br />
 <strong>O que diz a Seduc</strong></p>
 
+<figure class="image" style="float:right"><img alt="Educadores se reúnem em Porto Alegre com Secretário e Secretária-adjunta da Educação. Foto Maiara Rauber.jpg" height="200" src="//farm66.staticflickr.com/65535/47015252424_111cf06683_b.jpg" width="300" />
+<figcaption><em>Demandas foram apontadas durante<br />
+a reuni&atilde;o na Secret&aacute;ria da Educa&ccedil;&atilde;o<br />
+Foto Maiara Rauber</em></figcaption>
+</figure>
+
 <p><br />
-O secret&aacute;rio Karam afirmou que as demandas apresentadas pelos representantes das escolas do campo, apesar de terem suas especificidades, retratam a realidade da rede estadual de ensino. Refor&ccedil;ou que o governo est&aacute; fazendo um diagn&oacute;stico da situa&ccedil;&atilde;o dessas institui&ccedil;&otilde;es, e que o Estado tem uma estrutura que precisa ser refeita. &ldquo;Escolas chegaram &agrave; situa&ccedil;&atilde;o de precariedade pela falta de dinheiro, mas principalmente de organiza&ccedil;&atilde;o e planejamento&rdquo;, argumentou. Em rela&ccedil;&atilde;o aos professores, assumiu o compromisso de manter os atuais contratos tempor&aacute;rios para o ano de 2020.<br />
+O secret&aacute;rio Karam afirmou que as demandas apresentadas pelos representantes das escolas do campo, apesar de terem suas especificidades, retratam a realidade da rede estadual de ensino. Refor&ccedil;ou que o governo est&aacute; fazendo um diagn&oacute;stico da situa&ccedil;&atilde;o dessas institui&ccedil;&otilde;es, e que o Estado tem uma estrutura que precisa ser refeita. &ldquo;Escolas chegaram &agrave; situa&ccedil;&atilde;o de precariedade pela falta de dinheiro, mas principalmente de organiza&ccedil;&atilde;o e planejamento&rdquo;, argumentou. Em rela&ccedil;&atilde;o aos professores, assumiu o compromisso de manter os atuais contratos tempor&aacute;rios para o ano de 2020.</p>
+
+<p><br />
 Karam disse ainda que o governo n&atilde;o pretende fechar escolas do campo, justamente por compreenderem que suas caracter&iacute;sticas s&atilde;o diferentes daquelas localizadas nas zonas urbanas.</p>
 
 <p><br />
