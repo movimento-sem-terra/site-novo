@@ -2,8 +2,8 @@
 date: "2019-05-07T17:08:01-03:00"
 tags:
   - tag: educação-do-campo
-title: "Começa mais uma turma de Educação do Campo em Santa Catarina "
-support_line: "Licenciatura da UFSC promove mais uma formação no assentamento 30 de outubro, em Fraiburgo"
+title: "Licenciatura de Educação do Campo tem início em Santa Catarina "
+support_line: "Turma da UFSC promove formação de 4 anos no assentamento Vitória da Conquista, em Fraiburgo"
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/32855407927_aab864b421_b.jpg
 layout: post
@@ -40,7 +40,7 @@ Da P&aacute;gina do MST</em><br />
 <p>Estudantes da regi&atilde;o de Fraiburgo, em Santa Catarina, come&ccedil;aram esta semana a gradua&ccedil;&atilde;o oferecida pela Universidade Federal de Santa Catarina (UFSC). No ato de abertura, realizado na Escola 25 de Maio, estiveram presentes representantes da comunidade escolar, integrantes do Movimento Sem Terra e coordenadores do curso.<br />
 &nbsp;</p>
 
-<p>Este ano, a Licenciatura em Educa&ccedil;&atilde;o do Campo (Ledoc) da UFSC completa 10 anos. A cada ano a UFSC oferece o curso em um territ&oacute;rio diferente de Santa Catarina e, em 2019, ser&aacute; parcialmente no assentamento 30 de outubro. Graziela Del M&ocirc;naco, chefe de departamento do curso, ressaltou a import&acirc;ncia desta ser a primeira vez que o curso ser&aacute; oferecido de dentro do Movimentos Sociais.<br />
+<p>Este ano, a Licenciatura em Educa&ccedil;&atilde;o do Campo (Ledoc) da UFSC completa 10 anos. A cada ano a UFSC oferece o curso em um territ&oacute;rio diferente de Santa Catarina e, em 2019, ser&aacute; parcialmente no assentamento Vit&oacute;ria da Conquista. Graziela Del M&ocirc;naco, chefe de departamento do curso, ressaltou a import&acirc;ncia desta ser a primeira vez que o curso ser&aacute; oferecido de dentro do Movimentos Sociais.<br />
 &nbsp;</p>
 
 <p>&ldquo;Sempre aprendemos muito num territ&oacute;rio, e essa &eacute; primeira vez que a Ledoc da UFSC ser&aacute; oferecida em uma escola que est&aacute; localizada dentro de um assentamento&quot;, afirmou Del M&ocirc;naco, que ainda lembrou que o curso ser&aacute; oferecido em modalidade de altern&acirc;ncia. Parte do tempo universidade ser&aacute; oferecido na UFSC, em Florian&oacute;polis, e parte na Escola 25 Maio, fruto de parceria com o governo do Estado.<br />
