@@ -53,10 +53,7 @@ Meu objetivo, ao fazer diferente, &eacute; estimular na sociedade a contesta&cce
 <p>Ela tamb&eacute;m lembra o papel de tantas outras mulheres que a inspiraram n&atilde;o s&oacute; na escrita, mas tamb&eacute;m na viv&ecirc;ncia dessa maternidade real e de uma nova forma de ocupa&ccedil;&atilde;o do espa&ccedil;o pol&iacute;tico.</p>
 
 <p><br />
-Sempre que venho ao Armaz&eacute;m do Campo, que &eacute; um s&iacute;mbolo da luta pela terra e pela alimenta&ccedil;&atilde;o saud&aacute;vel, penso nas mulheres Sem Terra e em como o MST sempre respeitou esse espa&ccedil;o.</p>
-
-<p><br />
-O lugar da mulher nas posi&ccedil;&otilde;es de dire&ccedil;&atilde;o, as cirandas infantis que permite &agrave;s companheiras participar das atividades. Tudo esse caminho de luta e muita resist&ecirc;ncia j&aacute; percorrido pelas mulheres trabalhadoras Sem Terra &eacute; o que nos permite hoje a maternidade de maneira mais igualit&aacute;ria, finalizou.</p>
+&#39;Sempre que venho ao Armaz&eacute;m do Campo, que &eacute; um s&iacute;mbolo da luta pela terra e pela alimenta&ccedil;&atilde;o saud&aacute;vel, penso nas mulheres Sem Terra e em como o MST sempre respeitou esse espa&ccedil;o. O lugar da mulher nas posi&ccedil;&otilde;es de dire&ccedil;&atilde;o, as cirandas infantis que permite &agrave;s companheiras participar das atividades. Tudo esse caminho de luta e de muita resist&ecirc;ncia j&aacute; percorrido pelas mulheres trabalhadoras Sem Terra &eacute; o que nos permite hoje viver a maternidade de maneira mais igualit&aacute;ria, finalizou.</p>
 
 <p><br />
 Manuela segue percorrendo o pa&iacute;s no lan&ccedil;amento de &lsquo;Revolu&ccedil;&atilde;o Laura&rsquo;, que j&aacute; est&aacute; na segunda edi&ccedil;&atilde;o. O livro pode ser adquirido tamb&eacute;m no site do Instituto <a href="https://www.esefossevc.com.br/">&ldquo;E se fosse voc&ecirc;?&rdquo;</a>, fundado em 2019. &nbsp;&nbsp;</p>
