@@ -46,14 +46,14 @@ No evento, que contou com a presen&ccedil;a de centenas de pessoas, Manuela falo
 Manuela, conta que n&atilde;o quis reproduzir o que via seus colegas da pol&iacute;tica fazendo com seus filhos, deixando-os em casa sob os cuidados de outra pessoa quando iam trabalhar.</p>
 
 <p><br />
-Meu objetivo, ao fazer diferente, &eacute; estimular na sociedade a contesta&ccedil;&atilde;o desses pap&eacute;is de g&ecirc;nero. N&atilde;o nos serve apenas nos libertarmos, &eacute; preciso lutar e contestar na sociedade esses pap&eacute;is de g&ecirc;nero e garantir que n&oacute;s, mulheres, possamos viver com mais liberdade&rdquo;, afirmou.</p>
+&quot;Meu objetivo, ao fazer diferente, &eacute; estimular na sociedade a contesta&ccedil;&atilde;o desses pap&eacute;is de g&ecirc;nero. N&atilde;o nos serve apenas nos libertarmos, &eacute; preciso lutar e contestar na sociedade esses pap&eacute;is de g&ecirc;nero e garantir que n&oacute;s, mulheres, possamos viver com mais liberdade&rdquo;.</p>
 
 <p>&nbsp;</p>
 
 <p>Ela tamb&eacute;m lembra o papel de tantas outras mulheres que a inspiraram n&atilde;o s&oacute; na escrita, mas tamb&eacute;m na viv&ecirc;ncia dessa maternidade real e de uma nova forma de ocupa&ccedil;&atilde;o do espa&ccedil;o pol&iacute;tico.</p>
 
 <p><br />
-&#39;Sempre que venho ao Armaz&eacute;m do Campo, que &eacute; um s&iacute;mbolo da luta pela terra e pela alimenta&ccedil;&atilde;o saud&aacute;vel, penso nas mulheres Sem Terra e em como o MST sempre respeitou esse espa&ccedil;o. O lugar da mulher nas posi&ccedil;&otilde;es de dire&ccedil;&atilde;o, as cirandas infantis que permite &agrave;s companheiras participar das atividades. Tudo esse caminho de luta e de muita resist&ecirc;ncia j&aacute; percorrido pelas mulheres trabalhadoras Sem Terra &eacute; o que nos permite hoje viver a maternidade de maneira mais igualit&aacute;ria, finalizou.</p>
+&quot;Sempre que venho ao Armaz&eacute;m do Campo, que &eacute; um s&iacute;mbolo da luta pela terra e pela alimenta&ccedil;&atilde;o saud&aacute;vel, penso nas mulheres Sem Terra e em como o MST sempre respeitou esse espa&ccedil;o. O lugar da mulher nas posi&ccedil;&otilde;es de dire&ccedil;&atilde;o, as cirandas infantis que permite &agrave;s companheiras participar das atividades. Tudo esse caminho de luta e de muita resist&ecirc;ncia j&aacute; percorrido pelas mulheres trabalhadoras Sem Terra &eacute; o que hoje nos permite&nbsp;viver a maternidade de maneira mais igualit&aacute;ria&quot;, finalizou.</p>
 
 <p><br />
 Manuela segue percorrendo o pa&iacute;s no lan&ccedil;amento de &lsquo;Revolu&ccedil;&atilde;o Laura&rsquo;, que j&aacute; est&aacute; na segunda edi&ccedil;&atilde;o. O livro pode ser adquirido tamb&eacute;m no site do Instituto <a href="https://www.esefossevc.com.br/">&ldquo;E se fosse voc&ecirc;?&rdquo;</a>, fundado em 2019. &nbsp;&nbsp;</p>
