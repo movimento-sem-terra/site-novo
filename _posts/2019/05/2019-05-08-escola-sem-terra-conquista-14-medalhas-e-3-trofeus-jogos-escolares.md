@@ -4,7 +4,7 @@ tags:
   - tag: educação-do-campo
   - tag: esporte
   - tag: paraná
-title: Escola Sem Terra conquista 14 medalhas e 3 troféus jogos escolares
+title: Escola Sem Terra conquista medalhas e troféus jogos no Paraná
 support_line: Estudantes atletas da Reforma Agrária participam dos jogos escolares municipais de Cascavel (PR)
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/40839847333_4ea051bc3b_b.jpg
@@ -39,7 +39,7 @@ files:
     title: Colégio ATV_Geani (5 de 11) (800x533).jpg
     $$hashKey: 07H
 created_date: "2019-05-08T16:34:16-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/08/2018-08-27-sem-terra-ocupam-prefeitura-de-rio-bonito-e-reivindicam-melhorias-na-educacao.md
   - _posts/2019/03/2019-03-20-comunidades-lutam-contra-precarizacao-de-escolas-em-assentamentos-do-rs.md
@@ -117,8 +117,12 @@ Desde 2016, ano em que teve in&iacute;cio a maratona, muitos jovens se motivaram
 <p><br />
 O Col&eacute;gio Estadual do Campo Aprendendo com a Terra e com a Vida existe desde o ano de 2013, e atende hoje 99 estudantes desde o 6&deg; ano do ensino fundamental ao 3&deg; do ensino m&eacute;dio. Toda a estrutura que existe &eacute; de madeira e foi constru&iacute;da pela comunidade.</p>
 
-<p><br />
-Al&eacute;m das salas de aula, secretaria, biblioteca e refeit&oacute;rio serem todos de madeira, no col&eacute;gio n&atilde;o existem laborat&oacute;rios e nem quadra para os estudantes poderem treinar. O espa&ccedil;o de campo de grama que se tem foi constru&iacute;do com ajuda doa&ccedil;&otilde;es de grama, e hoje os educandos que organizam a manuten&ccedil;&atilde;o atrav&eacute;s dos n&uacute;cleos setoriais.</p>
+<figure class="image" style="float:left"><img alt="Colégio ATV_Geani (5 de 11) (800x533).jpg" height="200" src="//farm66.staticflickr.com/65535/32862687037_c3bda57916_b.jpg" width="300" />
+<figcaption><em>Ao todo foram14 medalhas e tr&ecirc;s<br />
+conquistados trof&eacute;us</em></figcaption>
+</figure>
+
+<p>Al&eacute;m das salas de aula, secretaria, biblioteca e refeit&oacute;rio serem todos de madeira, no col&eacute;gio n&atilde;o existem laborat&oacute;rios e nem quadra para os estudantes poderem treinar. O espa&ccedil;o de campo de grama que se tem foi constru&iacute;do com ajuda doa&ccedil;&otilde;es de grama, e hoje os educandos que organizam a manuten&ccedil;&atilde;o atrav&eacute;s dos n&uacute;cleos setoriais.</p>
 
 <p><br />
 &ldquo;Somos privilegiados na escola atrav&eacute;s dos n&uacute;cleos setoriais, e eu enquanto professor de educa&ccedil;&atilde;o f&iacute;sica dentro da proposta da escola procuro aproveitar ao m&aacute;ximo estes grupos. Eles d&atilde;o um grande suporte organizando a escola, j&aacute; que o campo estava com a grama morrendo, enfatiza o professor.<br />
@@ -133,7 +137,3 @@ Enquanto isso, estudantes, professores e comunidade aguardam e se organizam para
 <p>&nbsp;</p>
 
 <p><em>Editado por Fernanda Alc&acirc;ntara</em></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
