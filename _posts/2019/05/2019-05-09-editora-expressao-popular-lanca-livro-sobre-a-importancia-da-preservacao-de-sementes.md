@@ -17,6 +17,13 @@ files:
     small: //farm66.staticflickr.com/65535/47807810221_4ca1d106bb_n.jpg
     title: 56.jpg
     $$hashKey: 02W
+  - link: //farm66.staticflickr.com/65535/47758620082_6f44666f9e_b.jpg
+    original: //farm66.staticflickr.com/65535/47758620082_84dc538e72_o.png
+    thumbnail: //farm66.staticflickr.com/65535/47758620082_6f44666f9e_t.jpg
+    medium: //farm66.staticflickr.com/65535/47758620082_6f44666f9e_z.jpg
+    small: //farm66.staticflickr.com/65535/47758620082_6f44666f9e_n.jpg
+    title: sopro-da-vida.png
+    $$hashKey: 0AO
 created_date: "2019-05-08T22:50:05-03:00"
 published: true
 releated_posts:
@@ -25,6 +32,8 @@ releated_posts:
   - _posts/2019/01/2019-01-28-durante-encontro-nacional-mst-reafirma-compromisso-com-luta-indigena-e-quilombola.md
 
 ---
+<p style="text-align:center"><img alt="sopro-da-vida.png" height="521" src="//farm66.staticflickr.com/65535/47758620082_6f44666f9e_b.jpg" width="700" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
@@ -37,7 +46,7 @@ releated_posts:
 Esse &eacute; o pano de fundo do vencedor do Concurso Liter&aacute;rio FNLJ (2017), <a href="http://SOPRO DA VIDA – PUTAKARYY KAKYKARY">O Sopro da Vida -&nbsp;Putakaryy Kakykary</a>.</p>
 
 <p><br />
-Escrito por&nbsp;Kamuu Dan Wapichana, o livro bil&iacute;ngue, lan&ccedil;ado pela <a href="https://www.expressaopopular.com.br/loja/">Editora Express&atilde;o Popular</a>,&nbsp;al&eacute;m de aproximar a cultura e os costumes ind&iacute;genas das crian&ccedil;as, trata com uma linguagem l&uacute;dica, de assuntos s&eacute;rios como a viol&ecirc;ncia sofrida nas aldeias&nbsp;por parte do agroneg&oacute;cio, do latifundi&aacute;rios, madeireiros, mineradores e pelo poder econ&ocirc;mico.</p>
+Escrito por&nbsp;Kamuu Dan Wapichana, com ilustra&ccedil;&otilde;es de Marcos Viana e Andrea Diogo, o livro bil&iacute;ngue, lan&ccedil;ado pela <a href="https://www.expressaopopular.com.br/loja/">Editora Express&atilde;o Popular</a>,&nbsp;al&eacute;m de aproximar a cultura e os costumes ind&iacute;genas das crian&ccedil;as, trata com uma linguagem l&uacute;dica, de assuntos s&eacute;rios como a viol&ecirc;ncia sofrida nas aldeias&nbsp;por parte do agroneg&oacute;cio, do latifundi&aacute;rios, madeireiros, mineradores e pelo poder econ&ocirc;mico.</p>
 
 <p><br />
 Para o autor Kamuu Dan,&nbsp;o livro foi feito e pensado para que as crian&ccedil;as da cidade, que muitas vezes s&atilde;o criadas longe da natureza, sejam despertadas desde j&aacute; para a import&acirc;ncia da preserva&ccedil;&atilde;o.</p>
