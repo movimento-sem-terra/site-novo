@@ -17,6 +17,13 @@ files:
     small: //farm66.staticflickr.com/65535/32856737057_2bbb49bc53_n.jpg
     title: 31d9315d-c164-48f2-93a2-db7930fa1999.jpg
     $$hashKey: 069
+  - link: //farm66.staticflickr.com/65535/40841673673_8719499b67_b.jpg
+    original: //farm66.staticflickr.com/65535/40841673673_88109e9a48_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/40841673673_8719499b67_t.jpg
+    medium: //farm66.staticflickr.com/65535/40841673673_8719499b67_z.jpg
+    small: //farm66.staticflickr.com/65535/40841673673_8719499b67_n.jpg
+    title: 2e2b71b5-97b4-42c8-9ed7-ba6aeadfb075.jpg
+    $$hashKey: 0GR
 created_date: "2019-05-07T21:46:55-03:00"
 published: true
 releated_posts:
@@ -26,6 +33,8 @@ releated_posts:
   - _posts/2019/04/2019-04-12-a-mulheres-na-guerrilha-do-araguaia.md
 
 ---
+<p style="text-align:center"><img alt="2e2b71b5-97b4-42c8-9ed7-ba6aeadfb075.jpg" height="528" src="//farm66.staticflickr.com/65535/40841673673_8719499b67_b.jpg" width="700" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em><br />
