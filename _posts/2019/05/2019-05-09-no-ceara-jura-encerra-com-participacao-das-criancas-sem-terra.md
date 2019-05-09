@@ -53,8 +53,8 @@ releated_posts:
 </figure>
 </div>
 
-<p>Por Aline Oliveira<br />
-Da P&aacute;gina do MST<br />
+<p><em>Por Aline Oliveira<br />
+Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <p>Na noite desta quarta feira (08), o Movimento dos trabalhadores(as) Rurais Sem Terra (MST) realizou o encerramento da VI Jornada Universit&aacute;ria em Defesa da Reforma Agr&aacute;ria. A atividade aconteceu no audit&oacute;rio central da Universidade Estadual do Cear&aacute; (UECE), campus Itaperi, e contou com cerca de 100 participantes entre estudantes, professores, militantes do MST e apoiadores da luta pela Reforma Agr&aacute;ria.</p>
@@ -103,6 +103,6 @@ do MST e da Express&atilde;o Popular</em></figcaption>
 
 <p>&nbsp;</p>
 
-<p>Editado por Fernanda Alc&acirc;ntara</p>
+<p><em>Editado por Fernanda Alc&acirc;ntara</em></p>
 
 <p>&nbsp;</p>
