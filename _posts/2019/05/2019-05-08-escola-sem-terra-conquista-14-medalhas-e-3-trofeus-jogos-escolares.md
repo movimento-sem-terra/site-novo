@@ -4,7 +4,7 @@ tags:
   - tag: educação-do-campo
   - tag: esporte
   - tag: paraná
-title: Escola Sem Terra conquista medalhas e troféus jogos no Paraná
+title: Escola Sem Terra conquista medalhas e troféus em jogos escolares no Paraná
 support_line: Estudantes atletas da Reforma Agrária participam dos jogos escolares municipais de Cascavel (PR)
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/40839847333_4ea051bc3b_b.jpg
