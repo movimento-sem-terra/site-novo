@@ -1,6 +1,9 @@
 ---
 date: "2019-05-09T10:23:50-03:00"
-tags: []
+tags:
+  - tag: população-negra
+  - tag: história
+  - tag: política
 title: "Dandara dos Palmares e Luisa Mahin – Heroínas da Pátria, Heroínas do Povo Brasileiro"
 support_line: Artigo sobre decisão do Senado em reconhecer Dandara dos Palmares e Luiza Mahin como Heroínas da Pátria
 menu: "educação, cultura e comunicação"
@@ -15,10 +18,24 @@ files:
     title: "BdF [25].jpg"
     $$hashKey: "030"
 created_date: "2019-05-09T10:49:34-03:00"
-published: false
-releated_posts: []
+published: true
+releated_posts:
+  - _posts/2019/03/2019-03-21-nao-basta-nao-ser-racista-devemos-ser-anterracistas.md
+  - _posts/2018/07/2018-07-25-as-origens-do-dia-da-mulher-negra-latina-e-caribenha.md
+  - _posts/2019/03/2019-03-07-cronica-brasil-chegou-a-vez-de-ouvir-as-marias-mahins-marielles-e-males.md
+  - _posts/2019/03/2019-03-16-pelo-direito-de-viver-primeira-deputada-negra-trans-toma-posse-em-sao-paulo.md
+  - _posts/2019/04/2019-04-29-13-frases-de-lula-para-entender-o-brasil-nos-dias-de-hoje.md
+  - _posts/2019/05/2019-05-03-7-livros-de-marx-ja-publicados-pela-expressao-popular.md
+label: articles
+sector: culture
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="BdF [25].jpg" height="395" src="//farm66.staticflickr.com/65535/47758815462_95f8c53632_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
 <p><br />
 <em>Por Maysa Mathias Alves Pereira<br />
 Da P&aacute;gina do MST</em></p>
@@ -52,5 +69,11 @@ E n&atilde;o apenas reconhecer: evocar Dandara dos Palmares e Luisa Mahin &eacut
 No entanto, em fun&ccedil;&atilde;o do patriarcado e do racismo, estas hero&iacute;nas foram apagadas e relegadas do processo hist&oacute;rico de constru&ccedil;&atilde;o e forma&ccedil;&atilde;o do Brasil. As suas mem&oacute;rias e revoltas travadas no per&iacute;odo colonial at&eacute; ent&atilde;o estavam sombreadas, como se as mulheres negras n&atilde;o estivessem nos processos pol&iacute;ticos de constru&ccedil;&atilde;o e efetiva&ccedil;&atilde;o da estrat&eacute;gia, t&aacute;tica, enfrentamento e organiza&ccedil;&atilde;o dos territ&oacute;rios no combate a escravid&atilde;o e pela liberta&ccedil;&atilde;o.</p>
 
 <p><br />
-A for&ccedil;a destas hero&iacute;nas negras &eacute; o resgate ancestral e simb&oacute;lico para a continuidade das lutas da classe trabalhadora. &Eacute; neste reconhecimento concreto e assertivo de constru&ccedil;&atilde;o, combate e enfrentamento, que as mulheres negras seguem e permanecem em luta contra toda forma de explora&ccedil;&atilde;o e domina&ccedil;&atilde;o. Dandara e Mahin s&atilde;o a luta pela terra, a luta por liberdade, por alimenta&ccedil;&atilde;o saud&aacute;vel e de qualidade, a luta pela tradi&ccedil;&atilde;o dos povos de matrizes africanas, a luta contra o exterm&iacute;nio da juventude negra, contra o feminic&iacute;dio e LGBTfobia, a luta por trabalho, moradia, sa&uacute;de e educa&ccedil;&atilde;o. &nbsp;<br />
+A for&ccedil;a destas hero&iacute;nas negras &eacute; o resgate ancestral e simb&oacute;lico para a continuidade das lutas da classe trabalhadora. &Eacute; neste reconhecimento concreto e assertivo de constru&ccedil;&atilde;o, combate e enfrentamento, que as mulheres negras seguem e permanecem em luta contra toda forma de explora&ccedil;&atilde;o e domina&ccedil;&atilde;o. Dandara e Mahin s&atilde;o a luta pela terra, a luta por liberdade, por alimenta&ccedil;&atilde;o saud&aacute;vel e de qualidade, a luta pela tradi&ccedil;&atilde;o dos povos de matrizes africanas, a luta contra o exterm&iacute;nio da juventude negra, contra o feminic&iacute;dio e LGBTfobia, a luta por trabalho, moradia, sa&uacute;de e educa&ccedil;&atilde;o. &nbsp;</p>
+
+<p><br />
 Sendo assim, &eacute; preciso conhecer e aprender com as lutas travadas por estas hero&iacute;nas num passado n&atilde;o t&atilde;o distante, para incidirmos no hoje e construirmos o amanh&atilde;. Pois as ferramentas do senhor n&atilde;o v&atilde;o desmantelar a casa grande. Mas sim as estrat&eacute;gias de luta e organiza&ccedil;&atilde;o travadas por estas hero&iacute;nas da p&aacute;tria, hero&iacute;nas do povo brasileiro. Dandara dos Palmares, Presente! Luisa Mahin, Presente!</p>
+
+<p>&nbsp;</p>
+
+<p><em>Editado por Fernanda Alc&acirc;ntara</em></p>
