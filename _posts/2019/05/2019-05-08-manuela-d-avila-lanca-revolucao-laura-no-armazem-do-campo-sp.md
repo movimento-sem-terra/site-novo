@@ -24,6 +24,20 @@ files:
     small: //farm66.staticflickr.com/65535/40841673673_8719499b67_n.jpg
     title: 2e2b71b5-97b4-42c8-9ed7-ba6aeadfb075.jpg
     $$hashKey: 0GR
+  - link: //farm66.staticflickr.com/65535/46894280335_747f37d6e7_b.jpg
+    original: //farm66.staticflickr.com/65535/46894280335_d32696c1f7_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/46894280335_747f37d6e7_t.jpg
+    medium: //farm66.staticflickr.com/65535/46894280335_747f37d6e7_z.jpg
+    small: //farm66.staticflickr.com/65535/46894280335_747f37d6e7_n.jpg
+    title: WhatsApp Image 2019-05-07 at 18.46.39.jpeg
+    $$hashKey: 05D
+  - link: //farm66.staticflickr.com/65535/46894280375_3fc0fc895d_b.jpg
+    original: //farm66.staticflickr.com/65535/46894280375_891c56e1cd_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/46894280375_3fc0fc895d_t.jpg
+    medium: //farm66.staticflickr.com/65535/46894280375_3fc0fc895d_z.jpg
+    small: //farm66.staticflickr.com/65535/46894280375_3fc0fc895d_n.jpg
+    title: WhatsApp Image 2019-05-07 at 18.46.19.jpeg
+    $$hashKey: 05G
 created_date: "2019-05-07T21:46:55-03:00"
 published: true
 releated_posts:
@@ -33,7 +47,7 @@ releated_posts:
   - _posts/2019/04/2019-04-12-a-mulheres-na-guerrilha-do-araguaia.md
 
 ---
-<p style="text-align:center"><img alt="2e2b71b5-97b4-42c8-9ed7-ba6aeadfb075.jpg" height="528" src="//farm66.staticflickr.com/65535/40841673673_8719499b67_b.jpg" width="700" /></p>
+<p style="text-align:center"><img alt="WhatsApp Image 2019-05-07 at 18.46.19.jpeg" height="560" src="//farm66.staticflickr.com/65535/46894280375_3fc0fc895d_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
 
@@ -53,6 +67,8 @@ No evento, que contou com a presen&ccedil;a de centenas de pessoas, Manuela falo
 
 <p><br />
 Manuela, conta que n&atilde;o quis reproduzir o que via seus colegas da pol&iacute;tica fazendo com seus filhos, deixando-os em casa sob os cuidados de outra pessoa quando iam trabalhar.</p>
+
+<p style="text-align:center"><img alt="2e2b71b5-97b4-42c8-9ed7-ba6aeadfb075.jpg" height="528" src="//farm66.staticflickr.com/65535/40841673673_8719499b67_b.jpg" width="700" /></p>
 
 <p><br />
 &quot;Meu objetivo, ao fazer diferente, &eacute; estimular na sociedade a contesta&ccedil;&atilde;o desses pap&eacute;is de g&ecirc;nero. N&atilde;o nos serve apenas nos libertarmos, &eacute; preciso lutar e contestar na sociedade esses pap&eacute;is de g&ecirc;nero e garantir que n&oacute;s, mulheres, possamos viver com mais liberdade&rdquo;.</p>
