@@ -52,7 +52,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Colégio ATV_Geani (7 de 11) (800x533).jpg" height="466" src="//farm66.staticflickr.com/65535/47754033662_bb8ee9c2ed_b.jpg" width="700" />
-<figcaption><em>Escola realizou torneio de t&ecirc;nis de mesa para descobrir os talentos - Fotos: </em></figcaption>
+<figcaption>Geani Paula de Souza</figcaption>
 </figure>
 </div>
 
