@@ -34,7 +34,7 @@ releated_posts:
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>Refor&ccedil;ando o direito de viver e estudar no campo, nesta segunda-feira teve in&iacute;cio mais uma turma de gradua&ccedil;&atilde;o em Licenciatura em Educa&ccedil;&atilde;o do Campo - Ci&ecirc;ncias da Natureza e Matem&aacute;tica.<br />
+<p>Refor&ccedil;ando o direito de viver e estudar no campo, nesta segunda-feira teve in&iacute;cio uma turma de gradua&ccedil;&atilde;o em Licenciatura em Educa&ccedil;&atilde;o do Campo - Ci&ecirc;ncias da Natureza e Matem&aacute;tica.<br />
 &nbsp;</p>
 
 <p>Estudantes da regi&atilde;o de Fraiburgo, em Santa Catarina, come&ccedil;aram esta semana a gradua&ccedil;&atilde;o oferecida pela Universidade Federal de Santa Catarina (UFSC). No ato de abertura, realizado na Escola 25 de Maio, estiveram presentes representantes da comunidade escolar, integrantes do Movimento Sem Terra e coordenadores do curso.<br />
