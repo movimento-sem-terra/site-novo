@@ -26,7 +26,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_7887.JPG" height="467" src="//farm66.staticflickr.com/65535/32855407927_aab864b421_b.jpg" width="700" />
-<figcaption><em>Abertura realizada na Escola 25 de Maio, no assentamento 30 de outubro</em></figcaption>
+<figcaption><em>Abertura realizada na Escola 25 de Maio, no assentamento Vit&oacute;ria da Conquista</em></figcaption>
 </figure>
 </div>
 
