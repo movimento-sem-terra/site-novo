@@ -3,7 +3,7 @@ date: "2019-05-09T15:37:04-03:00"
 tags:
   - tag: jura
   - tag: sem-terrinha
-title: "No Ceará, participação das crianças Sem Terra encerra IV JURA"
+title: "No Ceará, participação das crianças Sem Terra encerra VI JURA"
 support_line: Atividade de encerramento aconteceu no auditório central da Universidade Estadual do Ceará (UECE)
 images_hd: //farm66.staticflickr.com/65535/40846384123_8de678ec54_b.jpg
 menu: "educação, cultura e comunicação"
