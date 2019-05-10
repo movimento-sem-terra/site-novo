@@ -41,10 +41,12 @@ sector: culture
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-O Sankofa, s&iacute;mbolo nacional de Gana que representa conceito, nos rememora que &ldquo;nunca &eacute; tarde para voltar e apanhar aquilo que ficou para tr&aacute;s e que sempre podemos retificar os nossos erros. Este ideograma &eacute; o p&aacute;ssaro que vira a cabe&ccedil;a para tr&aacute;s e nos afirma a sabedoria de aprender com o passado para construir o presente e o futuro&rdquo;.</p>
+O Sankofa, Adinkra nacional de Gana, nos rememora que nunca &eacute; tarde para voltar e apanhar aquilo que ficou para tr&aacute;s e que sempre podemos retificar os nossos erros. Esse ideograma&nbsp;&eacute; o p&aacute;ssaro que vira a cabe&ccedil;a para tr&aacute;s e nos afirma a sabedoria de aprender com o passado para construir o presente e o futuro.</p>
 
 <p><br />
-E &eacute; neste processo de olhar para tr&aacute;s que o Senado reconhece Dandara dos Palmares e Luiza Mahin como Hero&iacute;nas da P&aacute;tria, incluindo seus nomes no livro de Her&oacute;is e Hero&iacute;nas da P&aacute;tria. O chamado &ldquo;livro de a&ccedil;o&rdquo; homenageia as lutadoras e lutadores fundamentais para a constru&ccedil;&atilde;o da hist&oacute;ria brasileira ao lado de Maria Felipa, Maria Quit&eacute;ria, Zumbi dos Palmares e Luis Gama, dentre outros.<br />
+Neste processo de olhar para tr&aacute;s que o Senado reconhece Dandara dos Palmares e Luiza Mahin como Hero&iacute;nas da P&aacute;tria, incluindo seus nomes no livro de Her&oacute;is e Hero&iacute;nas da P&aacute;tria. O chamado &ldquo;livro de a&ccedil;o&rdquo; homenageia as lutadoras e lutadores fundamentais para a constru&ccedil;&atilde;o da hist&oacute;ria brasileira ao lado de Maria Felipa, Maria Quit&eacute;ria, Zumbi dos Palmares e Luis Gama, dentre outros.</p>
+
+<p><br />
 Este momento hist&oacute;rico s&oacute; foi poss&iacute;vel atrav&eacute;s do Projeto de Lei da C&acirc;mara (PLC119/2018 e PLC 55/2017) de autoria do deputado federal Valmir Assun&ccedil;&atilde;o (PT-BA) e da ex-deputada e atual secret&aacute;ria nacional de Pol&iacute;tica para Mulheres, Tia Eron, aprovado em 27 de mar&ccedil;o de 2019 pelo Senado.</p>
 
 <p><br />
@@ -76,4 +78,4 @@ Sendo assim, &eacute; preciso conhecer e aprender com as lutas travadas por esta
 
 <p>&nbsp;</p>
 
-<p><em>Editado por Fernanda Alc&acirc;ntara</em></p>
+<p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
