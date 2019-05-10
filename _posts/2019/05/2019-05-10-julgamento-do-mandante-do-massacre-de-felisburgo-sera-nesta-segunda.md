@@ -68,4 +68,8 @@ releated_posts:
 
 <p>O julgamento do caso est&aacute; marcado para esta segunda-feira, 13 de maio de 2019, &agrave;s 14h, no F&oacute;rum Lafayete, em Belo Horizonte. Calixto precisa ser condenado!</p>
 
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Apoio [31].jpeg" height="700" src="//farm66.staticflickr.com/65535/46903868885_88e47bc2bf_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
