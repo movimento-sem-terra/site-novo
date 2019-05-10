@@ -2,7 +2,7 @@
 date: "2019-05-10T15:53:57-03:00"
 tags:
   - tag: violência-no-campo
-title: Julgamento do mandante do Massacre de Felisburgo será nesta segunda
+title: Julgamento do mentor do Massacre de Felisburgo será nesta segunda
 support_line: "15 anos após o massacre, Calixto Luedy ainda não foi julgado e nenhuma das vítimas foi indenizada "
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/32876072107_4b0d319622_b.jpg
@@ -29,6 +29,13 @@ files:
     small: //farm66.staticflickr.com/65535/47767686402_4092ba9d63_n.jpg
     title: "Apoio [30].jpeg"
     $$hashKey: 04E
+  - link: //farm66.staticflickr.com/65535/46903868885_88e47bc2bf_b.jpg
+    original: //farm66.staticflickr.com/65535/46903868885_c1d52ca12d_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/46903868885_88e47bc2bf_t.jpg
+    medium: //farm66.staticflickr.com/65535/46903868885_88e47bc2bf_z.jpg
+    small: //farm66.staticflickr.com/65535/46903868885_88e47bc2bf_n.jpg
+    title: "Apoio [31].jpeg"
+    $$hashKey: 09Y
 created_date: "2019-05-10T16:05:52-03:00"
 published: true
 releated_posts:
@@ -62,7 +69,3 @@ releated_posts:
 <p>O julgamento do caso est&aacute; marcado para esta segunda-feira, 13 de maio de 2019, &agrave;s 14h, no F&oacute;rum Lafayete, em Belo Horizonte. Calixto precisa ser condenado!</p>
 
 <p>&nbsp;</p>
-
-<figure class="image"><img alt="Apoio [30].jpeg" height="1004" src="//farm66.staticflickr.com/65535/47767686402_4092ba9d63_b.jpg" width="700" />
-<figcaption></figcaption>
-</figure>
