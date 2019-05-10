@@ -16,13 +16,6 @@ files:
     small: //farm66.staticflickr.com/65535/33941159988_4deb1fef19_n.jpg
     title: "BdF [27].jpg"
     $$hashKey: 0QV
-  - link: //farm66.staticflickr.com/65535/47766214772_1a05748049_b.jpg
-    original: //farm66.staticflickr.com/65535/47766214772_f062df0443_o.jpg
-    thumbnail: //farm66.staticflickr.com/65535/47766214772_1a05748049_t.jpg
-    medium: //farm66.staticflickr.com/65535/47766214772_1a05748049_z.jpg
-    small: //farm66.staticflickr.com/65535/47766214772_1a05748049_n.jpg
-    title: "BdF [27].jpg"
-    $$hashKey: 0QY
 created_date: "2019-05-10T11:49:51-03:00"
 published: true
 releated_posts:
@@ -34,7 +27,10 @@ releated_posts:
   - _posts/2018/07/2018-07-26-sem-terrinha-discutem-e-vivenciam-alimentacao-saudavel-em-encontro-nacional.md
 
 ---
-<p>&nbsp;</p>
+<figure class="image" style="float:left"><img alt="BdF [27].jpg" src="//farm66.staticflickr.com/65535/33941159988_4deb1fef19_b.jpg" />
+<figcaption><em>Deputados de oposi&ccedil;&atilde;o comemoram altera&ccedil;&otilde;es no texto da MP870 -<br />
+Foto: Lula Marques</em></figcaption>
+</figure>
 
 <p>Por Rute Pina<br />
 Do Brasil de Fato<br />
