@@ -66,7 +66,7 @@ releated_posts:
 <p>O atual presidente diz que fazendeiros podem usar armas para defender a propriedade privada. Isso &eacute; ilegal e s&oacute; estimula massacres. A paz no campo se faz com justi&ccedil;a, n&atilde;o com armas. O que &eacute; mais importante: a ganancia dos grandes fazendeiros ou a vida das fam&iacute;lias que lutam pelos seus direitos?<br />
 &nbsp;</p>
 
-<p>O julgamento do caso est&aacute; marcado para esta segunda-feira, 13 de maio de 2019, &agrave;s 14h, no F&oacute;rum Lafayete, em Belo Horizonte. Calixto precisa ser condenado!</p>
+<p>O julgamento do caso est&aacute; marcado para esta segunda-feira, 13 de maio de 2019, &agrave;s 8h30, no F&oacute;rum Lafayete, em Belo Horizonte. Calixto precisa ser condenado!</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Apoio [31].jpeg" height="700" src="//farm66.staticflickr.com/65535/46903868885_88e47bc2bf_b.jpg" width="700" />
