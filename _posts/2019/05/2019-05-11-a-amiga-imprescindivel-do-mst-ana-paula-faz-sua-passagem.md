@@ -3,31 +3,30 @@ date: "2019-05-11T15:15:15-03:00"
 tags: []
 title: "A amiga imprescindível do MST, Ana Paula faz sua passagem!"
 support_line: "Paulinha foi uma daquelas mulheres guerreiras que nos marcam pela simplicidade, generosidade e poesia. De muita coragem, determinação na luta por seus ideais e compromissos de vida."
-images_hd: //farm66.staticflickr.com/65535/47774607422_8f3f42ed63_b.jpg
+images_hd: //farm66.staticflickr.com/65535/47037309434_ce6b73025f_b.jpg
 menu: lutas e mobilizações
 layout: post
 files:
-  - link: //farm66.staticflickr.com/65535/47774607422_8f3f42ed63_b.jpg
-    original: //farm66.staticflickr.com/65535/47774607422_d53bded911_o.jpg
-    thumbnail: //farm66.staticflickr.com/65535/47774607422_8f3f42ed63_t.jpg
-    medium: //farm66.staticflickr.com/65535/47774607422_8f3f42ed63_z.jpg
-    small: //farm66.staticflickr.com/65535/47774607422_8f3f42ed63_n.jpg
+  - link: //farm66.staticflickr.com/65535/47037309434_ce6b73025f_b.jpg
+    original: //farm66.staticflickr.com/65535/47037309434_2933cfb051_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/47037309434_ce6b73025f_t.jpg
+    medium: //farm66.staticflickr.com/65535/47037309434_ce6b73025f_z.jpg
+    small: //farm66.staticflickr.com/65535/47037309434_ce6b73025f_n.jpg
     title: WhatsApp Image 2019-05-11 at 15.16.35.jpeg
-    $$hashKey: 02P
+    $$hashKey: 0AJ
 created_date: "2019-05-11T15:28:43-03:00"
 published: true
 releated_posts: []
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-05-11 at 15.16.35.jpeg" height="1066" src="//farm66.staticflickr.com/65535/47774607422_8f3f42ed63_b.jpg" width="600" />
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-05-11 at 15.16.35.jpeg" height="733" src="//farm66.staticflickr.com/65535/47037309434_ce6b73025f_b.jpg" width="600" />
 <figcaption>Ana Paula, militante do MST e MTD, no Distrito Federal.</figcaption>
 </figure>
 </div>
 
-<p>&nbsp;</p>
-
-<p>Com pesar e muita tristeza que recebemos a not&iacute;cia do falecimento da nossa querida e companheira Ana Paula Sampaio Alves, ocorrida nessa madrugada (11/05).</p>
+<p><br />
+Com pesar e muita tristeza que recebemos a not&iacute;cia do falecimento da nossa querida e companheira Ana Paula Sampaio Alves, ocorrida nessa madrugada (11/05).</p>
 
 <p>&nbsp;</p>
 
