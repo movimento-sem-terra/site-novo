@@ -1,6 +1,8 @@
 ---
 date: "2019-05-13T15:01:52-03:00"
-tags: []
+tags:
+  - tag: educação-do-campo
+  - tag: pronera
 title: "Educação do Campo: conquistas e resistência popular"
 support_line: "A construção de escolas no campo, do Pronera e do Fórum Nacional de Educação do Campo são referências da luta dos trabalhadores e trabalhadoras"
 menu: "educação, cultura e comunicação"
@@ -36,8 +38,16 @@ files:
     title: Uma conquista da luta pela Reforma Agrária em torno da educação são as escolas públicas no campo. Foto_Leonardo Milano.jpg
     $$hashKey: 02Y
 created_date: "2019-05-13T15:34:04-03:00"
-published: false
-releated_posts: []
+published: true
+releated_posts:
+  - _posts/2019/03/2019-03-22-no-ceara-mst-inaugura-mais-uma-escola-de-ensino-medio-do-campo.md
+  - _posts/2019/03/2019-03-22-sem-terra-participam-de-mutirao-para-construcao-do-centro-de-referencia-socioambiental-na-ufal.md
+  - _posts/2019/03/2019-03-25-como-funcionam-as-escolas-do-campo-que-estao-na-mira-do-governo-bolsonaro.md
+  - _posts/2019/03/2019-03-27-protagonismo-das-escolas-em-assentamentos-quebra-preconceitos-sobre-ensino-no-campo.md
+  - _posts/2018/08/2018-08-16-sem-terra-se-formam-em-medicina-veterinaria.md
+  - _posts/2018/08/2018-08-11-mst-se-solidariza-com-estudantes-camponeses-no-piaui.md
+  - _posts/2018/12/2018-12-11-camponeses-se-formam-em-historia-pela-ufpb.md
+  - _posts/2019/02/2019-02-06-turma-de-direito-do-pronera-se-formara-em-2019.md
 
 ---
 <div style="text-align:center">
@@ -46,7 +56,8 @@ releated_posts: []
 </figure>
 </div>
 
-<p><em>Por Wesley Lima<br />
+<p><br />
+<em>Por Wesley Lima<br />
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
@@ -58,8 +69,13 @@ Uma conquista da luta pela Reforma Agr&aacute;ria em torno da educa&ccedil;&atil
 <p><br />
 Outra conquista importante &eacute; o n&uacute;mero de crian&ccedil;as, jovens e adultos que estudam nessas escolas. Vale destacar que essas escolas s&atilde;o frequentadas pelos moradores dos assentamentos e acampamentos e tamb&eacute;m por comunidades vizinhas. No total, cerca de 200 mil crian&ccedil;as, adolescentes, jovens e adultos est&atilde;o cadastradas hoje nestas escolas.</p>
 
-<p><br />
-<img alt="Realizado em 2015, o 2º Enera aconteceu em Brasília. Foto_Juliana Adriano.jpg" src="//farm66.staticflickr.com/65535/47843191821_2d5cf2e26e_b.jpg" />Al&eacute;m disso, as estruturas escolares geram renda complementar &agrave;s fam&iacute;lias que vivem onde as escolas est&atilde;o instaladas, a partir da contrata&ccedil;&atilde;o de educadores, merendeiras, secret&aacute;rios e etc. Atualmente, cerca de 10 mil trabalhadores e trabalhadoras ligados &agrave; educa&ccedil;&atilde;o atuam nas escolas dos assentamentos e acampamentos.</p>
+<figure class="image" style="float:right"><img alt="Uma conquista da luta pela Reforma Agrária em torno da educação são as escolas públicas no campo. Foto_Leonardo Milano.jpg" height="200" src="//farm66.staticflickr.com/65535/32899144757_395cef7f70_b.jpg" width="300" />
+<figcaption><em>Uma conquista da luta pela Reforma Agr&aacute;ria<br />
+em torno da educa&ccedil;&atilde;o s&atilde;o as escolas p&uacute;blicas<br />
+no campo. Foto: Leonardo Milano</em></figcaption>
+</figure>
+
+<p>Al&eacute;m disso, as estruturas escolares geram renda complementar &agrave;s fam&iacute;lias que vivem onde as escolas est&atilde;o instaladas, a partir da contrata&ccedil;&atilde;o de educadores, merendeiras, secret&aacute;rios e etc. Atualmente, cerca de 10 mil trabalhadores e trabalhadoras ligados &agrave; educa&ccedil;&atilde;o atuam nas escolas dos assentamentos e acampamentos.</p>
 
 <p><br />
 Ao analisar tantas conquistas, Erivan Hil&aacute;rio, da dire&ccedil;&atilde;o nacional do MST, diz que tudo isso s&oacute; &eacute; poss&iacute;vel porque a educa&ccedil;&atilde;o tem sido uma bandeira central dentro da organiza&ccedil;&atilde;o e complementa: &ldquo;[As escolas] ajudam n&atilde;o s&oacute; no processo e desenvolvimento dos assentamentos, mas tamb&eacute;m na eleva&ccedil;&atilde;o do n&iacute;vel cultural e do conhecimento dos assentados, dos acampados, das nossas crian&ccedil;as, dos jovens e adultos&rdquo;.</p>
@@ -85,6 +101,11 @@ No ano de 2001, o Programa foi incorporado ao Instituto Nacional de Coloniza&cce
 <p><br />
 Segundo o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), o Programa tem como objetivo apoiar cursos desde a alfabetiza&ccedil;&atilde;o at&eacute; a p&oacute;s-gradua&ccedil;&atilde;o para promover o desenvolvimento. Estes cursos s&atilde;o destinados para atender jovens e adultos de assentamentos criados ou reconhecidos pelo pr&oacute;prio Instituto, al&eacute;m de comunidades quilombolas e trabalhadores rurais acampados cadastrados. Al&eacute;m disso, atende os benefici&aacute;rios do Programa Nacional de Cr&eacute;dito Fundi&aacute;rio.</p>
 
+<figure class="image" style="float:left"><img alt="Sem Terra concluem a segunda Licenciatura em Educação do Campo pelo Pronera, no CE. Foto_Divulgação MST.jpg" height="225" src="//farm66.staticflickr.com/65535/47843191781_530135ccc1_b.jpg" width="300" />
+<figcaption><em>Sem Terra concluem a segunda Licenciatura<br />
+em Educa&ccedil;&atilde;o do Campo pelo Pronera(CE) </em></figcaption>
+</figure>
+
 <p><br />
 Por&eacute;m, o Pronera que conhecemos hoje &eacute; fruto de muita luta no campo. Um dos espa&ccedil;os centrais para consolida&ccedil;&atilde;o do Programa foi a realiza&ccedil;&atilde;o do 1&ordm; Encontro Nacional das Educadoras e Educadores da Reforma Agr&aacute;ria (Enera).</p>
 
@@ -108,6 +129,11 @@ Atualmente, s&oacute; com o Pronera, 39 Institui&ccedil;&otilde;es de Educa&cced
 
 <p><br />
 O F&oacute;rum &eacute; uma articula&ccedil;&atilde;o que re&uacute;ne movimentos populares, estudantes, docentes e institui&ccedil;&otilde;es de ensino, constru&iacute;do com foco na organiza&ccedil;&atilde;o das escolas do campo.</p>
+
+<figure class="image" style="float:right"><img alt="Realizado em 2015, o 2º Enera aconteceu em Brasília. Foto_Juliana Adriano.jpg" height="199" src="//farm66.staticflickr.com/65535/47843191821_2d5cf2e26e_b.jpg" width="300" />
+<figcaption><em>Realizado em 2015, o 2&ordm; Enera aconteceu<br />
+em Bras&iacute;lia. Foto Juliana Adriano</em></figcaption>
+</figure>
 
 <p><br />
 Criado no mesmo per&iacute;odo do Pronera, o F&oacute;rum tem ampliado o processo de articula&ccedil;&atilde;o entre diversas organiza&ccedil;&otilde;es e tem sido um instrumento de fortalecimento das pol&iacute;ticas p&uacute;blicas para a educa&ccedil;&atilde;o do campo e pautado direitos em diversos &acirc;mbitos da escolariza&ccedil;&atilde;o para os povos do campo.</p>
