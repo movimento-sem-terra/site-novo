@@ -29,6 +29,7 @@ releated_posts:
   - _posts/2019/01/2019-01-09-terra-trabalho-e-dinheiro-na-mira-da-mercadorizacao-total-do-novo-governo-a-revelia-do-estado-de-direito.md
   - _posts/2019/05/2019-05-06-uma-educacao-que-forma-organiza-e-emancipa.md
   - _posts/2019/02/2019-02-25-a-cruel-demolicao-da-previdencia-social.md
+section: cover
 
 ---
 <p>
