@@ -61,7 +61,8 @@ releated_posts:
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>S&oacute; h&aacute; conquistas se houver organiza&ccedil;&atilde;o, resist&ecirc;ncia e luta. Essa premissa acompanha a hist&oacute;ria do MST e a educa&ccedil;&atilde;o do campo. Constru&iacute;da dentro do Movimento como um instrumento de forma&ccedil;&atilde;o e emancipa&ccedil;&atilde;o dos sujeitos, a premissa &eacute; marcada por processos e conquistas importantes.</p>
+<p><br />
+S&oacute; h&aacute; conquistas se houver organiza&ccedil;&atilde;o, resist&ecirc;ncia e luta. Essa premissa acompanha a hist&oacute;ria do MST e, em especial, a educa&ccedil;&atilde;o do campo, que foi constru&iacute;da dentro do Movimento como um instrumento de forma&ccedil;&atilde;o e emancipa&ccedil;&atilde;o dos sujeitos, marcada por processos e conquistas importantes.</p>
 
 <p><br />
 Uma conquista da luta pela Reforma Agr&aacute;ria em torno da educa&ccedil;&atilde;o s&atilde;o as escolas p&uacute;blicas no campo. Hoje, nas comunidades rurais organizadas pelo MST, de acordo com o setor de educa&ccedil;&atilde;o do Movimento, existem cerca de 120 escolas de ensino m&eacute;dio, 200 escolas de ensino fundamental completo e mais de 1 mil escolas de ensino fundamental para os anos iniciais, espalhadas em 24 estados.</p>
