@@ -39,7 +39,7 @@ Da P&aacute;gina do MST</em><br />
 <p>Na madrugada dessa segunda (13), o Movimento dos Trabalhadores Rurais Sem Terra (MST) reocupou a fazenda Santa Maria, conhecida como Bom Jardim, localizada na zona rural de Itaberaba na Chapada Diamantina.<br />
 &nbsp;</p>
 
-<p>Cerca de 120 fam&iacute;lias reocuparam pela sexta vez a fazenda, que outrora tinha sido instrumento do agroneg&oacute;cio na cria&ccedil;&atilde;o do monocultivo do gado e que se encontra desativada.<br />
+<p>Cerca de 120 fam&iacute;lias reocuparam pela sexta vez a fazenda, que outrora tinha sido instrumento do agroneg&oacute;cio na cria&ccedil;&atilde;o de gado e que se encontra desativada.<br />
 &nbsp;</p>
 
 <p>A fazenda vinha sofrendo desmatamento e ca&ccedil;a ilegal. Uma queixa foi prestada queixa no IBAMA h&aacute; anos atr&aacute;s, mas at&eacute; o presente momento nada foi feito a respeito.<br />
