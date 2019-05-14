@@ -27,6 +27,8 @@ releated_posts:
   - _posts/2019/04/2019-04-26-mst-repudia-ataques-do-ministro-abraham-weintraub-contra-a-educacao-do-campo.md
   - _posts/2019/04/2019-04-30-movimentos-populares-demonstram-preocupacao-com-rumos-do-brasil.md
   - _posts/2019/01/2019-01-09-terra-trabalho-e-dinheiro-na-mira-da-mercadorizacao-total-do-novo-governo-a-revelia-do-estado-de-direito.md
+  - _posts/2019/05/2019-05-06-uma-educacao-que-forma-organiza-e-emancipa.md
+  - _posts/2019/02/2019-02-25-a-cruel-demolicao-da-previdencia-social.md
 
 ---
 <p>
