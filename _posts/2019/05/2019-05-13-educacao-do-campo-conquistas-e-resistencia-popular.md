@@ -48,6 +48,7 @@ releated_posts:
   - _posts/2018/08/2018-08-11-mst-se-solidariza-com-estudantes-camponeses-no-piaui.md
   - _posts/2018/12/2018-12-11-camponeses-se-formam-em-historia-pela-ufpb.md
   - _posts/2019/02/2019-02-06-turma-de-direito-do-pronera-se-formara-em-2019.md
+section: cover
 
 ---
 <div style="text-align:center">
