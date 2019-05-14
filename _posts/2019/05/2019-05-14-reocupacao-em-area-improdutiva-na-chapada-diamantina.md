@@ -42,7 +42,7 @@ Da P&aacute;gina do MST</em><br />
 <p>Cerca de 120 fam&iacute;lias reocuparam pela sexta vez a fazenda, que outrora tinha sido instrumento do agroneg&oacute;cio na cria&ccedil;&atilde;o de gado e que se encontra desativada.<br />
 &nbsp;</p>
 
-<p>A fazenda vinha sofrendo desmatamento e ca&ccedil;a ilegal. Uma queixa foi prestada queixa no IBAMA h&aacute; anos atr&aacute;s, mas at&eacute; o presente momento nada foi feito a respeito.<br />
+<p>A fazenda vinha sofrendo desmatamento e ca&ccedil;a ilegal. Uma queixa foi prestada no IBAMA anos atr&aacute;s, mas at&eacute; o presente momento nada foi feito a respeito.<br />
 &nbsp;</p>
 
 <p>Assim que a fazenda foi reocupada, passadas algumas horas, os policiais militares apareceram e tentaram convencer os trabalhadores e trabalhadoras do campo a sa&iacute;rem, sem &ecirc;xito. Em seguida&nbsp; vieram a CAATINGA (policia especializada) para tamb&eacute;m tentar faz&ecirc;-los desocuparem a &aacute;rea, mas tamb&eacute;m sem resultado.<br />
