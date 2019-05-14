@@ -48,9 +48,8 @@ Da P&aacute;gina do MST&nbsp;</em><br />
 Somente nas&nbsp;dota&ccedil;&otilde;es or&ccedil;ament&aacute;rias das universidades federais, os cortes chegam a&nbsp;52%.&nbsp;O governo escolheu as verbas para o ensino superior como principal alvo de contingenciamento.</p>
 
 <p><br />
-Segundo dados do&nbsp;Siop (Sistema Integrado de Planejamento e Or&ccedil;amento do Governo) para algumas universidades esse corte chega a mais da metade dos cursos, &eacute; o caso de&nbsp;nas universidades do Sul da Bahia (54%), Mato Grosso do Sul (52%) e Grande Dourados (49%)</p>
-
-<p><br />
+Segundo dados do&nbsp;Siop (Sistema Integrado de Planejamento e Or&ccedil;amento do Governo) para algumas universidades esse corte chega a mais da metade dos cursos. &Eacute; o caso de&nbsp;nas universidades do Sul da Bahia (54%), Mato Grosso do Sul (52%) e Grande Dourados (49%)<br />
+<br />
 <br />
 Na mesma toada, o ministro da Educa&ccedil;&atilde;o,&nbsp;Abraham Weintraub, resolveu usar bombons para explicar o corte nas verbas.&nbsp;</p>
 
@@ -61,7 +60,7 @@ Na mesma toada, o ministro da Educa&ccedil;&atilde;o,&nbsp;Abraham Weintraub, re
 Diante da balb&uacute;rdia de&nbsp;um desgoverno que al&eacute;m de n&atilde;o priorizar a educa&ccedil;&atilde;o, n&atilde;o prioriza seu jovens e idosos, sa&uacute;de, soberania, renda e que faz piada com o fato de tirar milh&otilde;es de jovens das universidades,&nbsp;professores e alunos emergem em luta e mobiliza&ccedil;&otilde;es como o Greve Nacional da Educa&ccedil;&atilde;o marcada para o pr&oacute;ximo dia 15.</p>
 
 <p><br />
-E, para saber um pouco mais sobre esse cen&aacute;rio, conversamos com o cientista pol&iacute;tico e&nbsp;coordenador da Rede da Campanha Nacional pelo Direito &agrave; Educa&ccedil;&atilde;o,&nbsp;Daniel Cara, que rebate o cortes do governo e desvela as reias inten&ccedil;&otilde;es de Bolsonaro.&nbsp;&nbsp;</p>
+E, para saber um pouco mais sobre esse cen&aacute;rio, conversamos com o cientista pol&iacute;tico e&nbsp;coordenador da Rede da Campanha Nacional pelo Direito &agrave; Educa&ccedil;&atilde;o,&nbsp;Daniel Cara, que rebate o cortes do governo e desvela as reais inten&ccedil;&otilde;es de Bolsonaro.&nbsp;&nbsp;</p>
 
 <p><br />
 <strong>Acompanhe:&nbsp;<br />
@@ -74,7 +73,7 @@ O&nbsp;governo Bolsonaro ataca a educa&ccedil;&atilde;o porque ela tem o&nbsp;ef
 
 <p>&nbsp;</p>
 
-<p>O governo Lula&nbsp;expande de maneira incompar&aacute;vel as universidades p&uacute;blicas, federais e tamb&eacute;m os institutos federais de educa&ccedil;&atilde;o t&eacute;cnica e&nbsp;profissional de n&iacute;vel m&eacute;dio. Mantendo essa pol&iacute;tica de expans&atilde;o a sociedade brasileira iria mudar radicalmente. Uma nova elite pol&iacute;tica e econ&ocirc;mica seria constitu&iacute;da. Uma elite&nbsp;muito mais comprometida&nbsp;com o desenvolvimento do pa&iacute;s e com a justi&ccedil;a social porque eram&nbsp;pessoas que, de fato, vieram de baixo, essas eram as pessoas que iriam&nbsp;tomar conta da Rep&uacute;blica.</p>
+<p>O governo Lula&nbsp;expandia de maneira incompar&aacute;vel as universidades p&uacute;blicas, federais e tamb&eacute;m os institutos federais de educa&ccedil;&atilde;o t&eacute;cnica e&nbsp;profissional de n&iacute;vel m&eacute;dio. Mantendo essa pol&iacute;tica de expans&atilde;o a sociedade brasileira iria mudar radicalmente. Uma nova elite pol&iacute;tica e econ&ocirc;mica seria constitu&iacute;da. Uma elite&nbsp;muito mais comprometida&nbsp;com o desenvolvimento do pa&iacute;s e com a justi&ccedil;a social porque eram&nbsp;pessoas que, de fato, vieram de baixo, essas eram as pessoas que iriam&nbsp;tomar conta da Rep&uacute;blica.</p>
 
 <p>&nbsp;</p>
 
