@@ -18,7 +18,7 @@ files:
     title: images_cms-image-000627673.jpg
     $$hashKey: "030"
 created_date: "2019-05-10T17:39:18-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/09/2018-09-27-assentados-do-parana-comemoram-15-anos-de-acesso-a-educacao-popular.md
   - _posts/2018/10/2018-10-04-jornada-mineira-de-alfabetizacao-realiza-circulos-de-cultura.md
@@ -26,7 +26,7 @@ releated_posts:
   - _posts/2019/02/2019-02-21-familias-sem-terra-realizam-ato-pela-aprovacao-de-unidade-pedagogica-no-rio-de-janeiro.md
   - _posts/2019/04/2019-04-26-mst-repudia-ataques-do-ministro-abraham-weintraub-contra-a-educacao-do-campo.md
   - _posts/2019/04/2019-04-30-movimentos-populares-demonstram-preocupacao-com-rumos-do-brasil.md
-  - _posts/2019/04/2019-04-29-via-campesina-forma-tecnologos-e-tecnologas-em-agroecologia.md
+  - _posts/2019/01/2019-01-09-terra-trabalho-e-dinheiro-na-mira-da-mercadorizacao-total-do-novo-governo-a-revelia-do-estado-de-direito.md
 
 ---
 <p>
