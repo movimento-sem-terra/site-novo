@@ -41,3 +41,10 @@ releated_posts:
 <p>Acompanhe no Brasil de Fato o dia de manifesta&ccedil;&otilde;es pelo pa&iacute;s, que tem sido encarado como um &quot;esquenta&quot; para a greve geral de 15 de junho, contra o desmonte da Previd&ecirc;ncia e os retrocessos promovidos pelo presidente de extrema direita.</p>
 
 <p><a class="twitter-timeline" href="https://twitter.com/Brasil_de_Fato/timelines/1128413880970035200?ref_src=twsrc%5Etfw" target="aclasstwittertimelinehrefhttpstwittercomBrasil_de_Fatotimelines1128413880970035200ref_srctwsrc5EtfwGreveNacionalEducaoCuratedtweetsbyBrasil_de_Fatoascriptasyncsrchttpsplatformtwittercomwidgetsjscharsetutf8script">Greve Nacional Educa&ccedil;&atilde;o - Curated tweets by Brasil_de_Fato</a></p>
+
+<p>&nbsp;</p>
+
+<blockquote class="twitter-tweet" data-lang="pt">
+<p dir="ltr" lang="pt">Confira a agenda de atos deste <a href="https://twitter.com/hashtag/15MGreveGeral?src=hash&amp;ref_src=twsrc%5Etfw">#15MGreveGeral</a> pelo Brasil. <a href="https://t.co/1aJr4040yL">https://t.co/1aJr4040yL</a></p>
+&mdash; Brasil de Fato (@Brasil_de_Fato) <a href="https://twitter.com/Brasil_de_Fato/status/1128414387356741635?ref_src=twsrc%5Etfw">14 de maio de 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
