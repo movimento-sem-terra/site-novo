@@ -23,7 +23,7 @@ releated_posts:
   - _posts/2019/04/2019-04-02-pistoleiros-atacam-familias-acampadas-e-lideranca-e-assassinada-no-amazonas.md
   - _posts/2019/04/2019-04-26-sem-terra-sofrem-ataques-na-madrugada-na-chapada-diamantina.md
   - _posts/2019/04/2019-04-16-componeses-realizam-jornada-de-lutas-em-belem-no-para.md
-section: featured-news
+section: cover
 
 ---
 <div style="text-align:center">
