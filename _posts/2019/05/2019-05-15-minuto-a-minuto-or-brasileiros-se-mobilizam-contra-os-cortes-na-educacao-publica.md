@@ -8,7 +8,7 @@ title: "Minuto a Minuto | Brasileiros se mobilizam contra os cortes na educaçã
 support_line: "Governo Bolsonaro bloqueou 30% dos recursos destinados às universidades federais"
 menu: lutas e mobilizações
 sector: education
-section: cover
+section: null
 images_hd: //farm66.staticflickr.com/65535/40889232933_842f28a8af_b.jpg
 layout: post
 files:
