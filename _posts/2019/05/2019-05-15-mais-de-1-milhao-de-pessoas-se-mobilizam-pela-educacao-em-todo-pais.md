@@ -98,7 +98,7 @@ J&aacute; no in&iacute;cio desta tarde, a&nbsp;<a href="https://www.cnte.org.br/
 
 <p><strong>Alagoas</strong></p>
 
-<p>Em Macei&oacute;, mais de 100 mil sa&iacute;ram &aacute;s ruas de todo estado. Em Macei&oacute;, a&nbsp;concentra&ccedil;&atilde;o come&ccedil;ou &agrave;s 9h&nbsp;em frente ao CEPA, principal avenida da capital alagoana. Os alunos da&nbsp;&nbsp;Ifal&nbsp;(Instituto Federal de Educa&ccedil;&atilde;o, Ci&ecirc;ncia e Tecnologia de Alagoas), tamb&eacute;m realizaram protestos no in&iacute;cio do dia. Mobiliza&ccedil;&otilde;es tamb&eacute;m foram registradas em Palmeira dos &Iacute;ndios e Arapiraca, Agreste de Alagoas.</p>
+<p>Em Macei&oacute;, mais de 10&nbsp;mil sa&iacute;ram &aacute;s ruas de todo estado. Em Macei&oacute;, a&nbsp;concentra&ccedil;&atilde;o come&ccedil;ou &agrave;s 9h&nbsp;em frente ao CEPA, principal avenida da capital alagoana. Os alunos da&nbsp;&nbsp;Ifal&nbsp;(Instituto Federal de Educa&ccedil;&atilde;o, Ci&ecirc;ncia e Tecnologia de Alagoas), tamb&eacute;m realizaram protestos no in&iacute;cio do dia. Mobiliza&ccedil;&otilde;es tamb&eacute;m foram registradas em Palmeira dos &Iacute;ndios,&nbsp;Arapiraca,&nbsp;Delmiro Gouveia, Piranhas, Penedo e Santana do Ipanema</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-05-15 at 15.47.09.jpeg" height="524" src="//farm66.staticflickr.com/65535/46941437995_19e3365cb6_b.jpg" width="700" />
