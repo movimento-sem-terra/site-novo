@@ -7,7 +7,7 @@ tags:
 title: Como os agrotóxicos afetam a sua saúde
 support_line: como a aprovação de dezenas de agrotóxicos está relacionada a sua saúde?
 menu: agronegócio
-section: cover
+section: featured-news
 images_hd: //farm66.staticflickr.com/65535/47799203202_6cbc91613c_b.jpg
 layout: post
 files:
