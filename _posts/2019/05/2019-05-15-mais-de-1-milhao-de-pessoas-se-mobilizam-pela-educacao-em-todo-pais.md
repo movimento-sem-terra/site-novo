@@ -138,7 +138,7 @@ Em Bel&eacute;m, mais de 10 mil&nbsp;trabalhadores t&eacute;cnicos, estudantes e
 <p><br />
 <strong>S&atilde;o Paulo&nbsp;</strong><br />
 <br />
-Estudantes ocuparam a sa&iacute;da da&nbsp;Rodovia Dom Pedro no acesso para a UNICAMP e PUC-CAMP. Mobiliza&ccedil;&otilde;es tamb&eacute;m foram realizaram em Bauru, Presidente Prudente, Ribeir&atilde;o Preto e Campinas. Na capital milhares de pessoas j&aacute; est&atilde;o confirmadas para o ato que come&ccedil;a &agrave;s 14h no V&atilde;o Livre do MASP.&nbsp;</p>
+Estudantes ocuparam a sa&iacute;da da&nbsp;Rodovia Dom Pedro no acesso para a UNICAMP e PUC-CAMP. Mobiliza&ccedil;&otilde;es tamb&eacute;m foram realizaram em Bauru, Presidente Prudente, Ribeir&atilde;o Preto e Campinas. Na capital 250 mil pessoas reuniram-se&nbsp;no V&atilde;o Livre do MASP para a primeira grande manifesta&ccedil;&atilde;o contra o governo Bolsonaro.&nbsp;&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-05-15 at 15.02.10.jpeg" height="524" src="//farm66.staticflickr.com/65535/33980341238_9b32a63c35_b.jpg" width="700" />
@@ -200,11 +200,9 @@ Estudantes, professores e funcion&aacute;rios de institui&ccedil;&otilde;es de e
 
 <p>Na capital Vit&oacute;ria a manifesta&ccedil;&atilde;o&nbsp;come&ccedil;ou&nbsp;na Pra&ccedil;a do Papa e seguiu&nbsp;para a Assembleia Legislativa do Esp&iacute;rito Santo (Ales), na Enseada do Su&aacute;.&nbsp;Em S&atilde;o Mateus, no Norte do Esp&iacute;rito Santo, um grupo de estudantes fechou a entrada do campus.</p>
 
-<p><br />
-<strong>Santa Catarina&nbsp;</strong></p>
+<p><b>Florian&oacute;polis</b></p>
 
-<p><br />
-Estudantes da Escola Pela Freire na luta por educa&ccedil;&atilde;o p&uacute;blica a todo povo brasileiro. Assentamento Jos&eacute; Maria, Abelardo Luz. Estudantes da UDESC, UFSC, instituto federais e escolas estaduais em marcha para o ato no centro da cidade.</p>
+<p>Estudantes da Escola Pela Freire na luta por educa&ccedil;&atilde;o p&uacute;blica a todo povo brasileiro. Assentamento Jos&eacute; Maria, Abelardo Luz. Estudantes da UDESC, UFSC, instituto federais e escolas estaduais em marcha para o ato no centro da cidade.</p>
 
 <p>&nbsp;</p>
 
