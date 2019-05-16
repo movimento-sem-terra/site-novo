@@ -6,7 +6,7 @@ tags:
   - tag: história
 title: Nota de falecimento do companheiro uruguaio Julio Marenales
 hat: ""
-support_line: Ex-guerrilheiro uruguaio militou ao lado de Mujica
+support_line: Ex-guerrilheiro militou ao lado de Mujica e ajudou na coalizão de esquerda da Frente Ampla
 menu: direitos humanos
 images_hd: //farm66.staticflickr.com/65535/47864242701_be142dd30c_b.jpg
 layout: post
