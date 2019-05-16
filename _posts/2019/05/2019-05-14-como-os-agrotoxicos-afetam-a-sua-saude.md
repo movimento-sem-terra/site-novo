@@ -7,7 +7,7 @@ tags:
 title: Como os agrotóxicos afetam a sua saúde
 support_line: como a aprovação de dezenas de agrotóxicos está relacionada a sua saúde?
 menu: agronegócio
-section: featured-news
+section: cover
 images_hd: //farm66.staticflickr.com/65535/47799203202_6cbc91613c_b.jpg
 layout: post
 files:
@@ -35,7 +35,18 @@ files:
 created_date: "2019-05-14T18:17:33-03:00"
 published: true
 releated_posts:
+  - _posts/2018/08/2018-08-12-marcha-lula-livre-doa-alimentos-saudaveis-para-instituicoes-de-valparaiso.md
+  - _posts/2018/08/2018-08-24-espaco-terra-crioula-celebra-um-ano-de-existencia.md
+  - _posts/2018/09/2018-09-12-mulheres-da-terra-inaugura-feira-de-organicos-e-coloniais-na-ufrgs.md
+  - _posts/2019/01/2019-01-05-a-perigosa-relacao-entre-o-agronegocio-e-a-industria-cultural.md
+  - _posts/2019/01/2019-01-16-proibicao-da-pulverizacao-aerea-de-agrotoxicos-no-ceara-direito-e-conquista-dos-povos-do-campo.md
+  - _posts/2019/01/2019-01-11-governador-do-ceara-sanciona-lei-que-proibe-pulverizacao-aerea-nas-lavouras-do-estado.md
+  - _posts/2019/02/2019-02-12-sob-comando-da-musa-do-veneno-ministerio-da-agricultura-libera-mais-19-agrotoxicos.md
+  - _posts/2019/01/2019-01-17-lista-suja-tem-204-empregadores-com-2-500-pessoas-em-situacao-de-escravidao.md
+  - _posts/2018/07/2018-07-27-agrotoxicos-ma-formacao-congenita-e-puberdade-precoce-uma-heranca-maldita-do-agronegocio.md
   - _posts/2019/04/2019-04-02-oito-anos-de-persistencia-e-resistencia-contra-os-agrotoxicos-e-pela-vida.md
+  - _posts/2019/05/2019-05-16-no-parana-venenos-estao-sendo-liberados-em-ritmo-insano.md
+  - _posts/2019/04/2019-04-29-e-possivel-reduzir-ou-acabar-com-o-uso-de-agrotoxicos.md
 
 ---
 <div style="text-align:center">
