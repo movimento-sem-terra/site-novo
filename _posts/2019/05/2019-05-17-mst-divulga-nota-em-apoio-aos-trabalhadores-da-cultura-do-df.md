@@ -17,7 +17,7 @@ files:
     title: fotoFernandoSolidade.jpg
     $$hashKey: 02N
 created_date: "2019-05-17T10:57:09-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/04/2019-04-18-mst-em-juazeiro-encena-espetaculo-sacro-jesus-exemplo-de-comunhao.md
   - _posts/2018/09/2018-09-06-feira-do-mst-leva-mais-de-20-atracoes-para-maceio.md
@@ -32,8 +32,8 @@ releated_posts:
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
-<figure class="image" style="float:right"><img alt="fotoFernandoSolidade.jpg" height="306" src="//farm66.staticflickr.com/65535/47816690242_a98bd90abb_b.jpg" width="300" />
-<figcaption>Legenda</figcaption>
+<figure class="image" style="float:right"><img alt="fotoFernandoSolidade.jpg" height="450" src="//farm66.staticflickr.com/65535/47816690242_a98bd90abb_b.jpg" width="300" />
+<figcaption><em>Foto: Fernando Solidade</em></figcaption>
 </figure>
 
 <p><br />
