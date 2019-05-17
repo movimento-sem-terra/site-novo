@@ -46,7 +46,7 @@ files:
     title: "Descumprimento da Lei 12.960, que dificulta o fechamento de escolas rurais, foi denunciado pela educadora Cristina Vergutz. Foto_ Catiana de Medeiros.JPG"
     $$hashKey: "031"
 created_date: "2019-05-17T15:48:31-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/05/2019-05-02-mst-participa-de-debate-sobre-educacao-do-campo-na-jura.md
   - _posts/2019/03/2019-03-22-sem-terra-participam-de-mutirao-para-construcao-do-centro-de-referencia-socioambiental-na-ufal.md
@@ -104,8 +104,7 @@ Foto Maiara Rauber</em></figcaption>
 
 <figure class="image" style="float:right"><img alt="Descumprimento da Lei 12.960, que dificulta o fechamento de escolas rurais, foi denunciado pela educadora Cristina Vergutz. Foto_ Catiana de Medeiros.JPG" height="186" src="//farm66.staticflickr.com/65535/47818133062_508f1ac673_b.jpg" width="300" />
 <figcaption><em>O descumprimento da Lei 12.960 foi denunciado<br />
-pela educadora Cristina Vergutz.<br />
-Foto_ Catiana de Medeiros</em></figcaption>
+por Cristina Vergutz. Foto: Catiana de Medeiros</em></figcaption>
 </figure>
 
 <p>Ela destacou que h&aacute; dificuldade de juntar dados referentes a estado e munic&iacute;pios, uma vez que n&atilde;o se tem acesso a informa&ccedil;&otilde;es da rede municipal. &ldquo;Os munic&iacute;pios fecham escolas de um ano para outro, e n&oacute;s nem sabemos&rdquo;, lamentou. Segundo Cristina, de 2017 para 2018, sete foram fechadas no Vale do Rio Pardo por decreto municipal. Todas possu&iacute;am estudantes e infraestrutura para funcionar. &ldquo;N&oacute;s n&atilde;o temos o controle, &eacute; uma l&oacute;gica que acontece do interior dos gabinetes dos prefeitos e n&atilde;o conseguimos mostrar porque os dados ficam escondidos&rdquo;, comentou.<br />
@@ -122,10 +121,16 @@ Foto_ Catiana de Medeiros</em></figcaption>
 
 <p>Entretanto, refor&ccedil;ou que faltam recursos humanos para manter esses espa&ccedil;os de forma&ccedil;&atilde;o. Como exemplo, citou que a Escola Joceli Corr&ecirc;a n&atilde;o possui n&uacute;mero suficiente de diretores e vices para atender os tr&ecirc;s turnos de aula. Al&eacute;m disso, relatou que sempre h&aacute; problemas com transporte escolar, devido rotas, hor&aacute;rios de circula&ccedil;&atilde;o e precariedade das estradas. &ldquo;Em fun&ccedil;&atilde;o disso estamos vivendo retrocessos pedag&oacute;gicos&rdquo;, contou.</p>
 
-<p>&nbsp;
+<figure class="image" style="float:left"><img alt="Audiência pública pautou a necessidade de valorizar quem vive e produz alimentos no campo. Foto - Leandro Molina-3.jpg" height="183" src="//farm66.staticflickr.com/65535/40903843803_8e4144efe4_b.jpg" width="300" />
+<figcaption><strong>audi&ecirc;ncia</strong><em>pública pautou a necessidade de<br />
+valorizar quem vive e produz alimentos<br />
+no campo. Foto: Leandro Molina</em></figcaption>
+</figure>
+
 <p>A educadora denunciou que, por inoper&acirc;ncia do Estado, as escolas do campo est&atilde;o perdendo recursos do Banco Internacional para Reconstru&ccedil;&atilde;o e Desenvolvimento (Bird), os quais est&atilde;o nas contas das institui&ccedil;&otilde;es desde 2006 e poderiam viabilizar melhorias nas estruturas. &ldquo;O dinheiro ser&aacute; recolhido, porque o governo n&atilde;o executou os projetos para os quais esses verbas s&atilde;o destinadas&rdquo;, avisou. Angelita ainda questionou aos deputados quais ser&atilde;o os seus compromissos com as escolas do campo. &ldquo;Queremos saber quais s&atilde;o os projetos dos senhores ir&atilde;o propor &agrave;s demandas aqui apresentadas&rdquo;, finalizou.<br />
 &nbsp;</p>
-</p>
+
+<p>&nbsp;</p>
 
 <p><strong>Encaminhamentos</strong><br />
 &nbsp;</p>
