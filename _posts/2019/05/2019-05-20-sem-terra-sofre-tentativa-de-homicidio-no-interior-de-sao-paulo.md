@@ -4,7 +4,7 @@ tags:
   - tag: direitos-humanos
   - tag: violência-no-campo
   - tag: ameaça
-images_hd: //farm66.staticflickr.com/65535/47893738641_368f4e95ef_b.jpg
+images_hd: //farm66.staticflickr.com/65535/40927464823_6a65e7857b_b.jpg
 menu: direitos humanos
 title: "Sem Terra sofre tentativa de homicídio no interior de São Paulo "
 support_line: "Divino Salvador Gomes, conhecido como Nenê Gomes, é pai do prefeito do município de Riversul, José Guilherme Gomes"
@@ -17,6 +17,13 @@ files:
     small: //farm66.staticflickr.com/65535/47893738641_368f4e95ef_n.jpg
     title: WhatsApp Image 2019-05-20 at 17.30.31.jpeg
     $$hashKey: 02T
+  - link: //farm66.staticflickr.com/65535/40927464823_6a65e7857b_b.jpg
+    original: //farm66.staticflickr.com/65535/40927464823_e2bc0e80dc_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/40927464823_6a65e7857b_t.jpg
+    medium: //farm66.staticflickr.com/65535/40927464823_6a65e7857b_z.jpg
+    small: //farm66.staticflickr.com/65535/40927464823_6a65e7857b_n.jpg
+    title: 34867848596_c9c529dc17_b.jpg
+    $$hashKey: 0AY
 created_date: "2019-05-20T17:34:21-03:00"
 published: true
 releated_posts:
