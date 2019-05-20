@@ -60,13 +60,11 @@ Da P&aacute;gina do MST</em><br />
 <p>Muito futebol, integra&ccedil;&atilde;o e alegria marcaram a 1&ordf; fase do Torneio Estadual da Reforma Agr&aacute;ria, realizada neste domingo (19) em dez regionais do MST na Bahia.<br />
 &nbsp;</p>
 
-<p>Cerca de tr&ecirc;s mil acampados e assentados de todas as regi&otilde;es do estado participaram do torneio de futebol, promovido pelo estado de forma a integrar o campo e a cidade.<br />
-&nbsp;</p>
+<p>Cerca de tr&ecirc;s mil acampados e assentados de todas as regi&otilde;es do estado participaram do torneio de futebol, promovido pelo estado de forma a integrar o campo e a cidade.</p>
 
-<p>Ao todo, cerca de 200 times participar&atilde;o do torneio nas categorias masculino e feminino. As equipes passar&atilde;o pelas etapas de brigada, regional e estadual. Segundo Evanildo Costa, da dire&ccedil;&atilde;o nacional do MST, a equipe vencedora levar&aacute; para casa o trof&eacute;u da 1&ordf; edi&ccedil;&atilde;o da Copa Estadual da Reforma Agr&aacute;ria.<br />
-&nbsp;</p>
+<p>Ao todo, cerca de 200 times participar&atilde;o do torneio nas categorias masculino e feminino. As equipes passar&atilde;o pelas etapas de brigada, regional e estadual. O torneio segue com os times campe&otilde;es e vices, que formar&atilde;o 60 times para disputar os torneios nas 10 regionais. Estas regionais formar&atilde;o 2 sele&ccedil;&otilde;es (1 masculina e 1 feminina), que ao completar 20 times, comp&otilde;em a estadual. A final ser&aacute; em Salvador, no est&aacute;dio do Pitua&ccedil;&uacute;, entre os dias 11 a 13 de outubro deste ano.</p>
 
-<p>Para Costa, este torneio ser&aacute; um marco na Bahia: &ldquo;&Eacute; a primeira vez que fazemos algo t&atilde;o grande no futebol e que integre a nossa milit&acirc;ncia, amigos, parceiros e os movimentos do campo&rdquo;, afirmou.<br />
+<p>Segundo Evanildo Costa, da dire&ccedil;&atilde;o nacional do MST, a equipe vencedora levar&aacute; para casa o trof&eacute;u da 1&ordf; edi&ccedil;&atilde;o da Copa Estadual da Reforma Agr&aacute;ria. Para Costa, este torneio ser&aacute; um marco na Bahia: &ldquo;&Eacute; a primeira vez que fazemos algo t&atilde;o grande no futebol e que integre a nossa milit&acirc;ncia, amigos, parceiros e os movimentos do campo&rdquo;, afirmou.<br />
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="CopaReformaAgraria[3].jpg" height="225" src="//farm66.staticflickr.com/65535/40926261263_c413ed384d_b.jpg" width="300" />
