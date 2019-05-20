@@ -40,7 +40,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Hoje (20), Divino Salvador Gomes, conhecido como Nen&ecirc; Gomes, pai do prefeito do munic&iacute;pio de Riversul (Jos&eacute; Guilherme Gomes do PDT), tentou por duas vezes disparar uma arma de fogo contra um trabalhador sem terra, integrante do assentamento emergencial 8 de mar&ccedil;o.</p>
+<p>Hoje (20), Divino Salvador Gomes, conhecido como Nen&ecirc; Gomes, pai do prefeito do munic&iacute;pio de Riversul (Jos&eacute; Guilherme Gomes do PDT), tentou por duas vezes disparar uma arma de fogo contra um trabalhador Sem Terra, integrante do assentamento emergencial 8 de mar&ccedil;o.</p>
 
 <p><br />
 Por sorte, a arma falhou e os tiros n&atilde;o foram efetuados, mas a inten&ccedil;&atilde;o de assassinato &eacute; evidente. Al&eacute;m disso, Nen&ecirc;&nbsp;j&aacute; havia feito v&aacute;rias amea&ccedil;as diretas contra os trabalhadores e trabalhadoras Sem Terra do local.&nbsp;</p>
