@@ -51,8 +51,8 @@ releated_posts:
 &nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Deputado Tadeu Veneri_Wellington Lenon (19).jpg" height="467" src="//farm66.staticflickr.com/65535/40924955373_0dffa03400_b.jpg" width="700" />
-<figcaption><em>Deputado Tadeu Veneri - Foto: Wellington Lenon</em></figcaption>
+<figure class="image" style="display:inline-block"><img alt="Wellington Lenon (6).jpg" height="467" src="//farm66.staticflickr.com/65535/47839349542_59ee31f16c_b.jpg" width="700" />
+<figcaption><em>Wellington Lenon </em></figcaption>
 </figure>
 </div>
 
@@ -72,8 +72,9 @@ Mais de 130 fam&iacute;lias acampadas no Sudoeste do Paran&aacute; vivem dias de
 <p>O pavilh&atilde;o do Centro Pastoral da Par&oacute;quia Nossa Senhora da Luz ficou lotado com cerca de 500 homens, mulheres e crian&ccedil;as que participaram do evento, a maioria de comunidades amea&ccedil;adas de despejo. Tamb&eacute;m estavam presentes integrantes de entidades sindicais e sociais, e moradores de outras comunidades rurais da regi&atilde;o, solid&aacute;rios &agrave;s fam&iacute;lias acampadas, al&eacute;m de secret&aacute;rios municipais e vereadores. A mesa da audi&ecirc;ncia teve a coordena&ccedil;&atilde;o o presidente da Comiss&atilde;o da Alep, deputado Tadeu Veneri (PT).<br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="Wellington Lenon (6).jpg" height="200" src="//farm66.staticflickr.com/65535/47839349542_59ee31f16c_b.jpg" width="300" />
-<figcaption><em>Wellington Lenon </em></figcaption>
+<figure class="image" style="float:left"><img alt="Deputado Tadeu Veneri_Wellington Lenon (19).jpg" height="200" src="//farm66.staticflickr.com/65535/40924955373_0dffa03400_b.jpg" width="300" />
+<figcaption><em>Deputado Tadeu Veneri<br />
+Foto: Wellington Lenon</em></figcaption>
 </figure>
 
 <p>O Padre Ozanilton Batista de Abreu representou a Diocese de Palmas e de Francisco Beltr&atilde;o, concedendo ben&ccedil;&atilde;os na abertura e no encerramento da audi&ecirc;ncia: &ldquo;Nessa luta, voc&ecirc;s sempre precisam acreditar que vai dar certo. Vamos acreditar, lutar, sonhar e conseguir&quot;.<br />
@@ -89,8 +90,8 @@ Mais de 130 fam&iacute;lias acampadas no Sudoeste do Paran&aacute; vivem dias de
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Bruna Zimpel da direção estadual do MST_Foto Wellington Lenon (11).jpg" height="190" src="//farm66.staticflickr.com/65535/47839349532_d77d595493_b.jpg" width="300" />
-<figcaption><em>Bruna Zimpel da dire&ccedil;&atilde;o estadual do MST<br />
-Foto: Wellington Lenon</em></figcaption>
+<figcaption><em>Bruna Zimpel da dire&ccedil;&atilde;o estadual do<br />
+MST - Foto: Wellington Lenon</em></figcaption>
 </figure>
 
 <p>Como servidor da Emater, Paulo Ara&uacute;jo atuou em projetos de apoio t&eacute;cnico &agrave; agricultura familiar nas comunidades, 12 deles ainda em vig&ecirc;ncia. Ele refor&ccedil;ou o papel da agricultura familiar na alimenta&ccedil;&atilde;o da popula&ccedil;&atilde;o brasileira, respons&aacute;vel pela produ&ccedil;&atilde;o de 70% do consumo nacional. Por acompanhar de perto o desenvolvimento da produ&ccedil;&atilde;o dos acampados, o t&eacute;cnico se mostrou preocupado com o futuro das fam&iacute;lias, caso a reintegra&ccedil;&atilde;o de posse fosse efetivada pois passariam de produtores de alimentos a apenas consumidores. &quot;S&oacute; quem j&aacute; passou um pouco de fome sabe o quanto &eacute; importante o agricultor estar produzindo leite, arroz, feij&atilde;o batata, enfim, os alimentos do dia a dia&quot;.</p>
