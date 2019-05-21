@@ -2,6 +2,8 @@
 date: "2019-05-21T12:15:52-03:00"
 tags:
   - tag: educação-do-campo
+  - tag: agroecologia-é-o-caminho
+  - tag: agroecologia
 title: "Estudar, sorrir e lutar!"
 support_line: "Com base na história, cultura, organização coletiva e no trabalho, escolas do campo constroem experiências que formam sujeitos  "
 menu: "educação, cultura e comunicação"
@@ -29,9 +31,26 @@ files:
     small: //farm66.staticflickr.com/65535/46984352965_cbd43b11f8_n.jpg
     title: Horta Coletiva no Extremo Sul da Bahia. Foto_DivulgaçãoMST.jpg
     $$hashKey: "036"
+  - link: //farm66.staticflickr.com/65535/47900632421_1b234f58f6_b.jpg
+    original: //farm66.staticflickr.com/65535/47900632421_8590cb702a_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/47900632421_1b234f58f6_t.jpg
+    medium: //farm66.staticflickr.com/65535/47900632421_1b234f58f6_z.jpg
+    small: //farm66.staticflickr.com/65535/47900632421_1b234f58f6_n.jpg
+    title: Maria de Jesus_ __não existe distinção entre lutar e educar__.Foto_AlineOliveira.jpeg
+    $$hashKey: 0AV
+  - link: //farm66.staticflickr.com/65535/47900637271_75208ecc19_b.jpg
+    original: //farm66.staticflickr.com/65535/47900637271_0e1be7bf23_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/47900637271_75208ecc19_t.jpg
+    medium: //farm66.staticflickr.com/65535/47900637271_75208ecc19_z.jpg
+    small: //farm66.staticflickr.com/65535/47900637271_75208ecc19_n.jpg
+    title: "Dionara Ribeiro, da coordenação pedagógica da Escola Popular de Agroecologia e Agrofloresta Egídio Brunetto (EPAAEB).Foto_ColetivodeComunicaçãodoMSTnaBahia (1).jpeg"
+    $$hashKey: 0CN
 created_date: "2019-05-21T12:42:20-03:00"
 published: true
 releated_posts:
+  - _posts/2018/10/2018-10-03-ana-primavesi-pioneira-da-agroecologia-completa-98-anos.md
+  - _posts/2019/01/2019-01-15-primeiro-curso-de-especializacao-em-educacao-e-agroecologia-acontece-no-extremo-sul-da-bahia.md
+  - _posts/2019/03/2019-03-30-experiencia-de-producao-de-alimentos-saudaveis-aproxima-campo-e-cidade-no-df.md
   - _posts/2019/05/2019-05-06-uma-educacao-que-forma-organiza-e-emancipa.md
   - _posts/2019/05/2019-05-07-comeca-mais-uma-turma-de-educacao-do-campo-em-santa-catarina.md
   - _posts/2019/05/2019-05-08-educacao-no-campo-e-pauta-de-audiencia-do-mst-com-governo-gaucho.md
@@ -68,6 +87,10 @@ A educadora popular e militante Sem Terra no Estado do Cear&aacute;, ​Maria de
 
 <p>&nbsp;</p>
 
+<figure class="image" style="float:right"><img alt="Maria de Jesus_ __não existe distinção entre lutar e educar__.Foto_AlineOliveira.jpeg" height="267" src="//farm66.staticflickr.com/65535/47900632421_1b234f58f6_b.jpg" width="400" />
+<figcaption>​Maria de Jesus, educadora popular e militante Sem Terra no Cear&aacute;.&nbsp;</figcaption>
+</figure>
+
 <p>Para ela, a educa&ccedil;&atilde;o do campo &eacute; uma educa&ccedil;&atilde;o contra hegem&ocirc;nica ao projeto do agroneg&oacute;cio e tem como objetivo fortalecer a agricultura camponesa com base na agroecologia e continua: &ldquo;nesse contexto, a educa&ccedil;&atilde;o do campo &eacute; uma educa&ccedil;&atilde;o emancipat&oacute;ria. &Eacute; uma educa&ccedil;&atilde;o que forma os sujeitos do campo e que valoriza o campo nas dimens&otilde;es culturais, nas suas lutas, nas suas mem&oacute;rias. A educa&ccedil;&atilde;o do campo &eacute; uma educa&ccedil;&atilde;o em movimento. &Eacute; uma educa&ccedil;&atilde;o em luta permanente&rdquo;.</p>
 
 <p><br />
@@ -88,14 +111,14 @@ Sobre a perspectiva do trabalho nas rela&ccedil;&otilde;es educacionais, Jesus e
 <br />
 <strong>Agroecologia e educa&ccedil;&atilde;o</strong></p>
 
-<p><br />
-Para avan&ccedil;ar nessa dimens&atilde;o do trabalho, mas n&atilde;o perder de vista as necessidades do local onde a escola do campo est&aacute; inserida, &eacute; necess&aacute;rio pensar essa escola e organizar seu curr&iacute;culo escolar tamb&eacute;m a partir do campo.</p>
-
 <figure class="image" style="float:right"><img alt="Horta Coletiva no Extremo Sul da Bahia. Foto_DivulgaçãoMST.jpg" height="300" src="//farm66.staticflickr.com/65535/46984352965_cbd43b11f8_b.jpg" width="300" />
 <figcaption>Estudantes cultivam horta coletiva no&nbsp;<br />
 Horta Coletiva no Extremo Sul da Bahia.<br />
 Foto: Divulga&ccedil;&atilde;o MST</figcaption>
 </figure>
+
+<p><br />
+Para avan&ccedil;ar nessa dimens&atilde;o do trabalho, mas n&atilde;o perder de vista as necessidades do local onde a escola do campo est&aacute; inserida, &eacute; necess&aacute;rio pensar essa escola e organizar seu curr&iacute;culo escolar tamb&eacute;m a partir do campo.</p>
 
 <p>Experi&ecirc;ncias que marcam a luta pela inser&ccedil;&atilde;o de uma gama de temas, como a Agroecologia, enquanto disciplina nas escolas do campo, encontram-se no Estado da Bahia. Hoje, nas regi&otilde;es Sudoeste e Extremo Sul em que essa disciplina encontra-se no&nbsp;curr&iacute;culo escolar de centros de forma&ccedil;&atilde;o e de escolas p&uacute;blicas, que trabalham com a inf&acirc;ncia.</p>
 
@@ -103,13 +126,21 @@ Foto: Divulga&ccedil;&atilde;o MST</figcaption>
 No Extremo Sul da Bahia se destacam as experi&ecirc;ncias constru&iacute;das a partir de uma luta conjunta que s&atilde;o realidade no munic&iacute;pio de Alcoba&ccedil;a. O primeiro passo foi propor ao munic&iacute;pio a disciplina da Agroecologia como componente da grade curricular nas escolas do campo. A seguir, em parceria com o Sindicato dos Professores foi poss&iacute;vel mobilizar e aprovar a disciplina na C&acirc;mera de Vereadores. Essa foi a primeira localidade no estado a prever a disciplina em sua grade curricular no ensino p&uacute;blico municipal.</p>
 
 <p><br />
-Em entrevista para P&aacute;gina do MST, concedida em novembro de 2018, Dionara Ribeiro, da coordena&ccedil;&atilde;o pedag&oacute;gica da Escola Popular de Agroecologia e Agrofloresta Eg&iacute;dio Brunetto (EPAAEB), diz que o foco dessa conquista foi o &ldquo;zelo&rdquo; pela constru&ccedil;&atilde;o coletiva.</p>
+Em entrevista para P&aacute;gina do MST, concedida em novembro de 2018, Dionara Ribeiro, da coordena&ccedil;&atilde;o pedag&oacute;gica da Escola Popular de Agroecologia e Agrofloresta Eg&iacute;dio Brunetto (EPAAEB), diz que o foco dessa conquista foi o &ldquo;zelo&rdquo; pela constru&ccedil;&atilde;o coletiva.<br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Dionara Ribeiro, da coordenação pedagógica da Escola Popular de Agroecologia e Agrofloresta Egídio Brunetto (EPAAEB).Foto_ColetivodeComunicaçãodoMSTnaBahia (1).jpeg" height="486" src="//farm66.staticflickr.com/65535/47900637271_75208ecc19_b.jpg" width="350" />
+<figcaption>Dionara Ribeiro, da coordena&ccedil;&atilde;o pedag&oacute;gica da EPAAEB.</figcaption>
+</figure>
+</div>
 
 <p><br />
 &ldquo;Todas e todos os educadores que se engajaram nesse trabalho tiveram um papel fundamental, tanto na pr&aacute;tica pedag&oacute;gica que constru&iacute;ram em cada escola, quanto na participa&ccedil;&atilde;o, problematiza&ccedil;&atilde;o e na reflex&atilde;o realizada em cada curso e semin&aacute;rio&rdquo;, argumenta.</p>
 
 <p><br />
-No per&iacute;odo da conquista, a defini&ccedil;&atilde;o do coletivo escolar, composto por educadores e a coordena&ccedil;&atilde;o das escolas do campo na regi&atilde;o, foi de que a disciplina de Agroecologia seria trabalhada de forma interdisciplinar, o que exigiu um trabalho coletivo entre os professores, remetendo a uma reestrutura&ccedil;&atilde;o organizativa em muitas escolas para a realiza&ccedil;&atilde;o do planejamento. Como resultado, o munic&iacute;pio de Santa Cruz Cabr&aacute;lia, localizado na mesma regi&atilde;o, inseriu como disciplina a Agroecologia.</p>
+No per&iacute;odo da conquista, a defini&ccedil;&atilde;o do coletivo escolar, composto por educadores e a coordena&ccedil;&atilde;o das escolas do campo na regi&atilde;o, foi de que a disciplina de Agroecologia seria trabalhada de forma interdisciplinar, o que exigiu um trabalho coletivo entre os professores, remetendo a uma reestrutura&ccedil;&atilde;o organizativa em muitas escolas para a realiza&ccedil;&atilde;o do planejamento. Como resultado, o munic&iacute;pio de Santa Cruz Cabr&aacute;lia, localizado na mesma regi&atilde;o, inseriu como disciplina a Agroecologia.<br />
+&nbsp;</p>
 
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/lQBvOxrPc2c" width="640"></iframe></p>
 
@@ -130,8 +161,6 @@ Pensando nisso, Jesus explica que a luta do MST contra o fechamento das escolas 
 
 <p><br />
 Nesse quadro, o MST lan&ccedil;ou em 2011 a <a href="http://www.mst.org.br/2011/05/31/fechar-escola-e-crime.html"><u>Campanha Nacional contra o Fechamento de Escolas do Campo</u></a>&nbsp;que pretende promover o debate sobre a educa&ccedil;&atilde;o do campo com o conjunto da sociedade, articular diversos setores contra esses retrocessos e denunciar o fechamento de escolas.</p>
-
-<p>&nbsp;</p>
 
 <p><br />
 <strong>:: LEIA MAIS ::</strong></p>
