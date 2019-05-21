@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Estudar, sorrir e lutar!</title>
+				<description>Com base na história, a cultura, organização coletiva e o trabalho, as escolas do campo constroem experiências que formam sujeitos  </description>
+				<pubDate>Tue, 21 May 2019 12:15:52 -0300</pubDate>
+				<link>http://www.mst.org.br/2019/05/21/estudar-sorrir-e-lutar.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2019/05/21/estudar-sorrir-e-lutar.html</guid>
+			</item>
+		
+			<item>
 				<title>Sem Terra sofre tentativa de homicídio no interior de São Paulo </title>
 				<description>Divino Salvador Gomes, conhecido como Nenê Gomes, é pai do prefeito do município de Riversul, José Guilherme Gomes</description>
 				<pubDate>Mon, 20 May 2019 17:24:51 -0300</pubDate>
@@ -77,14 +85,6 @@
 				<pubDate>Fri, 17 May 2019 15:41:12 -0300</pubDate>
 				<link>http://www.mst.org.br/2019/05/17/comunidades-escolares-do-rs-lutam-pelas-escolas-no-campo.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2019/05/17/comunidades-escolares-do-rs-lutam-pelas-escolas-no-campo.html</guid>
-			</item>
-		
-			<item>
-				<title>Movimentos populares lançam manifesto contra a LGBTfobia</title>
-				<description>Neste Dia Internacional contra a LGBTfobia, organizações rurais e urbanas denunciam crimes de ódio e clamam pela vida</description>
-				<pubDate>Fri, 17 May 2019 12:24:10 -0300</pubDate>
-				<link>http://www.mst.org.br/2019/05/17/movimentos-populares-lancam-manifesto-contra-a-lgbtfobia.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2019/05/17/movimentos-populares-lancam-manifesto-contra-a-lgbtfobia.html</guid>
 			</item>
 		
 	</channel>
