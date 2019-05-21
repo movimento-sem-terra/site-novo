@@ -88,7 +88,8 @@ A educadora popular e militante Sem Terra no Estado do Cear&aacute;, ​Maria de
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Maria de Jesus_ __não existe distinção entre lutar e educar__.Foto_AlineOliveira.jpeg" height="267" src="//farm66.staticflickr.com/65535/47900632421_1b234f58f6_b.jpg" width="400" />
-<figcaption>​Maria de Jesus, educadora popular e militante Sem Terra no Cear&aacute;.&nbsp;</figcaption>
+<figcaption>​Maria de Jesus, educadora popular e militante Sem Terra no Cear&aacute;.&nbsp;<br />
+Foto: Aline Oliveira</figcaption>
 </figure>
 
 <p>Para ela, a educa&ccedil;&atilde;o do campo &eacute; uma educa&ccedil;&atilde;o contra hegem&ocirc;nica ao projeto do agroneg&oacute;cio e tem como objetivo fortalecer a agricultura camponesa com base na agroecologia e continua: &ldquo;nesse contexto, a educa&ccedil;&atilde;o do campo &eacute; uma educa&ccedil;&atilde;o emancipat&oacute;ria. &Eacute; uma educa&ccedil;&atilde;o que forma os sujeitos do campo e que valoriza o campo nas dimens&otilde;es culturais, nas suas lutas, nas suas mem&oacute;rias. A educa&ccedil;&atilde;o do campo &eacute; uma educa&ccedil;&atilde;o em movimento. &Eacute; uma educa&ccedil;&atilde;o em luta permanente&rdquo;.</p>
@@ -131,7 +132,8 @@ Em entrevista para P&aacute;gina do MST, concedida em novembro de 2018, Dionara 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Dionara Ribeiro, da coordenação pedagógica da Escola Popular de Agroecologia e Agrofloresta Egídio Brunetto (EPAAEB).Foto_ColetivodeComunicaçãodoMSTnaBahia (1).jpeg" height="486" src="//farm66.staticflickr.com/65535/47900637271_75208ecc19_b.jpg" width="350" />
-<figcaption>Dionara Ribeiro, da coordena&ccedil;&atilde;o pedag&oacute;gica da EPAAEB.</figcaption>
+<figcaption>Dionara Ribeiro, da coordena&ccedil;&atilde;o pedag&oacute;gica da EPAAEB.<br />
+Foto:&nbsp;Coletivo de Comunica&ccedil;&atilde;o MST na Bahia</figcaption>
 </figure>
 </div>
 
