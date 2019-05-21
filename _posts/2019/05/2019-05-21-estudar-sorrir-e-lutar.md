@@ -141,4 +141,4 @@ Nesse quadro, o MST lan&ccedil;ou em 2011 a <a href="http://www.mst.org.br/2011/
 
 <p><br />
 <em>*Editado por Solange Engelmann</em><br />
-**Esse &eacute; o terceiro&nbsp;texto de uma s&eacute;rie sobre a educa&ccedil;&atilde;o no MST</p>
+<em>**Esse &eacute; o terceiro&nbsp;texto de uma s&eacute;rie sobre a educa&ccedil;&atilde;o no MST</em></p>
