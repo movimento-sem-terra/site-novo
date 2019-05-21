@@ -1,8 +1,9 @@
 ---
 date: "2019-05-21T12:15:52-03:00"
-tags: []
+tags:
+  - tag: educação-do-campo
 title: "Estudar, sorrir e lutar!"
-support_line: "Com base na história, a cultura, organização coletiva e o trabalho, as escolas do campo constroem experiências que formam sujeitos  "
+support_line: "Com base na história, cultura, organização coletiva e no trabalho, escolas do campo constroem experiências que formam sujeitos  "
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/46984350165_e458b4b6ae_b.jpg
 layout: post
@@ -30,12 +31,19 @@ files:
     $$hashKey: "036"
 created_date: "2019-05-21T12:42:20-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2019/05/2019-05-06-uma-educacao-que-forma-organiza-e-emancipa.md
+  - _posts/2019/05/2019-05-07-comeca-mais-uma-turma-de-educacao-do-campo-em-santa-catarina.md
+  - _posts/2019/05/2019-05-08-educacao-no-campo-e-pauta-de-audiencia-do-mst-com-governo-gaucho.md
+  - _posts/2019/05/2019-05-02-mst-participa-de-debate-sobre-educacao-do-campo-na-jura.md
+  - _posts/2019/03/2019-03-29-so-quem-e-militante-consegue-entender-a-solidariedade-entre-os-povos.md
+label: special-stories
+sector: education
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Aulas em escola itinerante de acampamento do MST em Nova Santa Rita (RS). Foto_LeonardoMelgarejo.jpg" height="400" src="//farm66.staticflickr.com/65535/47900419921_90a01d804c_b.jpg" width="600" />
-<figcaption></figcaption>
+<figcaption>Aulas em escola itinerante em Nova Santa Rita (RS). Foto: Leonardo Melgarejo</figcaption>
 </figure>
 </div>
 
@@ -83,11 +91,11 @@ Sobre a perspectiva do trabalho nas rela&ccedil;&otilde;es educacionais, Jesus e
 <p><br />
 Para avan&ccedil;ar nessa dimens&atilde;o do trabalho, mas n&atilde;o perder de vista as necessidades do local onde a escola do campo est&aacute; inserida, &eacute; necess&aacute;rio pensar essa escola e organizar seu curr&iacute;culo escolar tamb&eacute;m a partir do campo.</p>
 
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Horta Coletiva no Extremo Sul da Bahia. Foto_DivulgaçãoMST.jpg" height="450" src="//farm66.staticflickr.com/65535/46984352965_cbd43b11f8_b.jpg" width="450" />
-<figcaption>Estudantes cultivam horta coletiva no&nbsp;Horta Coletiva no Extremo Sul da Bahia</figcaption>
+<figure class="image" style="float:right"><img alt="Horta Coletiva no Extremo Sul da Bahia. Foto_DivulgaçãoMST.jpg" height="300" src="//farm66.staticflickr.com/65535/46984352965_cbd43b11f8_b.jpg" width="300" />
+<figcaption>Estudantes cultivam horta coletiva no&nbsp;<br />
+Horta Coletiva no Extremo Sul da Bahia.<br />
+Foto: Divulga&ccedil;&atilde;o MST</figcaption>
 </figure>
-</div>
 
 <p>Experi&ecirc;ncias que marcam a luta pela inser&ccedil;&atilde;o de uma gama de temas, como a Agroecologia, enquanto disciplina nas escolas do campo, encontram-se no Estado da Bahia. Hoje, nas regi&otilde;es Sudoeste e Extremo Sul em que essa disciplina encontra-se no&nbsp;curr&iacute;culo escolar de centros de forma&ccedil;&atilde;o e de escolas p&uacute;blicas, que trabalham com a inf&acirc;ncia.</p>
 
@@ -102,6 +110,8 @@ Em entrevista para P&aacute;gina do MST, concedida em novembro de 2018, Dionara 
 
 <p><br />
 No per&iacute;odo da conquista, a defini&ccedil;&atilde;o do coletivo escolar, composto por educadores e a coordena&ccedil;&atilde;o das escolas do campo na regi&atilde;o, foi de que a disciplina de Agroecologia seria trabalhada de forma interdisciplinar, o que exigiu um trabalho coletivo entre os professores, remetendo a uma reestrutura&ccedil;&atilde;o organizativa em muitas escolas para a realiza&ccedil;&atilde;o do planejamento. Como resultado, o munic&iacute;pio de Santa Cruz Cabr&aacute;lia, localizado na mesma regi&atilde;o, inseriu como disciplina a Agroecologia.</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/lQBvOxrPc2c" width="640"></iframe></p>
 
 <p><br />
 <strong>Fechar escola &eacute; crime</strong></p>
@@ -121,15 +131,14 @@ Pensando nisso, Jesus explica que a luta do MST contra o fechamento das escolas 
 <p><br />
 Nesse quadro, o MST lan&ccedil;ou em 2011 a <a href="http://www.mst.org.br/2011/05/31/fechar-escola-e-crime.html"><u>Campanha Nacional contra o Fechamento de Escolas do Campo</u></a>&nbsp;que pretende promover o debate sobre a educa&ccedil;&atilde;o do campo com o conjunto da sociedade, articular diversos setores contra esses retrocessos e denunciar o fechamento de escolas.</p>
 
-<p><br />
-:: LEIA MAIS ::</p>
+<p>&nbsp;</p>
 
 <p><br />
-<a href="http://www.mst.org.br/2019/05/13/educacao-do-campo-conquistas-e-resistencia-popular.html">Educa&ccedil;&atilde;o do Campo: conquistas e resist&ecirc;ncia popular</a>&nbsp;</p>
+<strong>:: LEIA MAIS ::</strong></p>
 
-<p><a href="http://www.mst.org.br/2019/05/06/uma-educacao-que-forma-organiza-e-emancipa.html">Uma educa&ccedil;&atilde;o que forma, organiza e emancipa</a>&nbsp;</p>
+<p><a href="http://www.mst.org.br/2019/05/13/educacao-do-campo-conquistas-e-resistencia-popular.html">Educa&ccedil;&atilde;o do Campo: conquistas e resist&ecirc;ncia popular</a>&nbsp;<br />
+<a href="http://www.mst.org.br/2019/05/06/uma-educacao-que-forma-organiza-e-emancipa.html">Uma educa&ccedil;&atilde;o que forma, organiza e emancipa</a>&nbsp;</p>
 
 <p><br />
-&nbsp;</p>
-
-<p><em>*Editado por Solange Engelmann</em></p>
+<em>*Editado por Solange Engelmann</em><br />
+**Esse &eacute; o terceiro&nbsp;texto de uma s&eacute;rie sobre a educa&ccedil;&atilde;o no MST</p>
