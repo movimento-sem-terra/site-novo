@@ -88,8 +88,8 @@ A educadora popular e militante Sem Terra no Estado do Cear&aacute;, ​Maria de
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Maria de Jesus_ __não existe distinção entre lutar e educar__.Foto_AlineOliveira.jpeg" height="267" src="//farm66.staticflickr.com/65535/47900632421_1b234f58f6_b.jpg" width="400" />
-<figcaption>​Maria de Jesus, educadora popular e militante Sem Terra no Cear&aacute;.&nbsp;<br />
-Foto: Aline Oliveira</figcaption>
+<figcaption>​Maria de Jesus, educadora popular e militante<br />
+Sem Terra no Cear&aacute;.&nbsp;Foto: Aline Oliveira</figcaption>
 </figure>
 
 <p>Para ela, a educa&ccedil;&atilde;o do campo &eacute; uma educa&ccedil;&atilde;o contra hegem&ocirc;nica ao projeto do agroneg&oacute;cio e tem como objetivo fortalecer a agricultura camponesa com base na agroecologia e continua: &ldquo;nesse contexto, a educa&ccedil;&atilde;o do campo &eacute; uma educa&ccedil;&atilde;o emancipat&oacute;ria. &Eacute; uma educa&ccedil;&atilde;o que forma os sujeitos do campo e que valoriza o campo nas dimens&otilde;es culturais, nas suas lutas, nas suas mem&oacute;rias. A educa&ccedil;&atilde;o do campo &eacute; uma educa&ccedil;&atilde;o em movimento. &Eacute; uma educa&ccedil;&atilde;o em luta permanente&rdquo;.</p>
@@ -130,21 +130,18 @@ No Extremo Sul da Bahia se destacam as experi&ecirc;ncias constru&iacute;das a p
 Em entrevista para P&aacute;gina do MST, concedida em novembro de 2018, Dionara Ribeiro, da coordena&ccedil;&atilde;o pedag&oacute;gica da Escola Popular de Agroecologia e Agrofloresta Eg&iacute;dio Brunetto (EPAAEB), diz que o foco dessa conquista foi o &ldquo;zelo&rdquo; pela constru&ccedil;&atilde;o coletiva.<br />
 &nbsp;</p>
 
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Dionara Ribeiro, da coordenação pedagógica da Escola Popular de Agroecologia e Agrofloresta Egídio Brunetto (EPAAEB).Foto_ColetivodeComunicaçãodoMSTnaBahia (1).jpeg" height="486" src="//farm66.staticflickr.com/65535/47900637271_75208ecc19_b.jpg" width="350" />
-<figcaption>Dionara Ribeiro, da coordena&ccedil;&atilde;o pedag&oacute;gica da EPAAEB.<br />
-Foto:&nbsp;Coletivo de Comunica&ccedil;&atilde;o MST na Bahia</figcaption>
-</figure>
-</div>
-
 <p><br />
 &ldquo;Todas e todos os educadores que se engajaram nesse trabalho tiveram um papel fundamental, tanto na pr&aacute;tica pedag&oacute;gica que constru&iacute;ram em cada escola, quanto na participa&ccedil;&atilde;o, problematiza&ccedil;&atilde;o e na reflex&atilde;o realizada em cada curso e semin&aacute;rio&rdquo;, argumenta.</p>
+
+<figure class="image" style="float:left"><img alt="Dionara Ribeiro, da coordenação pedagógica da Escola Popular de Agroecologia e Agrofloresta Egídio Brunetto (EPAAEB).Foto_ColetivodeComunicaçãodoMSTnaBahia (1).jpeg" height="417" src="//farm66.staticflickr.com/65535/47900637271_75208ecc19_b.jpg" width="300" />
+<figcaption>Dionara Ribeiro, da coordena&ccedil;&atilde;o pedag&oacute;gica<br />
+da EPAAEB. Foto:&nbsp;Coletivo de Comunica&ccedil;&atilde;o<br />
+do MST na Bahia</figcaption>
+</figure>
 
 <p><br />
 No per&iacute;odo da conquista, a defini&ccedil;&atilde;o do coletivo escolar, composto por educadores e a coordena&ccedil;&atilde;o das escolas do campo na regi&atilde;o, foi de que a disciplina de Agroecologia seria trabalhada de forma interdisciplinar, o que exigiu um trabalho coletivo entre os professores, remetendo a uma reestrutura&ccedil;&atilde;o organizativa em muitas escolas para a realiza&ccedil;&atilde;o do planejamento. Como resultado, o munic&iacute;pio de Santa Cruz Cabr&aacute;lia, localizado na mesma regi&atilde;o, inseriu como disciplina a Agroecologia.<br />
 &nbsp;</p>
-
-<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/lQBvOxrPc2c" width="640"></iframe></p>
 
 <p><br />
 <strong>Fechar escola &eacute; crime</strong></p>
@@ -164,8 +161,12 @@ Pensando nisso, Jesus explica que a luta do MST contra o fechamento das escolas 
 <p><br />
 Nesse quadro, o MST lan&ccedil;ou em 2011 a <a href="http://www.mst.org.br/2011/05/31/fechar-escola-e-crime.html"><u>Campanha Nacional contra o Fechamento de Escolas do Campo</u></a>&nbsp;que pretende promover o debate sobre a educa&ccedil;&atilde;o do campo com o conjunto da sociedade, articular diversos setores contra esses retrocessos e denunciar o fechamento de escolas.</p>
 
-<p><br />
-<strong>:: LEIA MAIS ::</strong></p>
+<p>&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/lQBvOxrPc2c" width="640"></iframe><br />
+&nbsp;</p>
+
+<p><strong>:: LEIA MAIS ::</strong></p>
 
 <p><a href="http://www.mst.org.br/2019/05/13/educacao-do-campo-conquistas-e-resistencia-popular.html">Educa&ccedil;&atilde;o do Campo: conquistas e resist&ecirc;ncia popular</a>&nbsp;<br />
 <a href="http://www.mst.org.br/2019/05/06/uma-educacao-que-forma-organiza-e-emancipa.html">Uma educa&ccedil;&atilde;o que forma, organiza e emancipa</a>&nbsp;</p>
