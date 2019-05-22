@@ -28,6 +28,7 @@ releated_posts:
   - _posts/2019/03/2019-03-21-nao-basta-nao-ser-racista-devemos-ser-anterracistas.md
   - _posts/2019/03/2019-03-27-grileiro-foi-o-mandante-de-dois-massacres-na-regiao-de-tucurui-pa-que-vitimaram-seis-pessoas.md
   - _posts/2019/04/2019-04-09-mais-um-corpo-negro-baleado-e-as-80-certezas-do-exercito-brasileiro.md
+section: featured-news
 
 ---
 <p><br />
