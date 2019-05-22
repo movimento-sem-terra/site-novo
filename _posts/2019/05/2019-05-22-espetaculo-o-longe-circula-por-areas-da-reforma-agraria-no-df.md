@@ -47,8 +47,9 @@ releated_posts:
 </figure>
 </div>
 
-<p>Por Janelson Ferreira<br />
-Da P&aacute;gina do MST<br />
+<p><br />
+<em>Por Janelson Ferreira<br />
+Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <p>Desde abril, o espet&aacute;culo &ldquo;O Longe&rdquo;, da Companhia de teatro Burlesca, tem passado gratuitamente por escolas p&uacute;blicas rurais e espa&ccedil;os comunit&aacute;rios no Distrito Federal. A circula&ccedil;&atilde;o acontece em parceria com a Cooperativa de Trabalho e Desenvolvimento da Agricultura Camponesa de Planaltina, de Brazl&acirc;ndia e de S&atilde;o Sebasti&atilde;o, com recursos do Fundo de Apoio &agrave; Cultura da Secretaria de Cultura do Distrito Federal.</p>
@@ -80,4 +81,4 @@ O espet&aacute;culo, que j&aacute; passou pela regi&atilde;o de Planaltina, aind
 <p>Desde o in&iacute;cio deste ano, a Cia est&aacute; trabalhando em uma nova pe&ccedil;a, que buscar&aacute; contar a hist&oacute;ria de duas lutadoras hist&oacute;ricas do Brasil: Roseli Nunes e Margarida Alves. Com o projeto, intitulado &ldquo;Guerreiras de ponta a ponta do Brasil&rdquo;, a Burlesca j&aacute; realizou pesquisas em assentamentos e acampamentos do Rio Grande do Sul, onde viveu Roseli, e viajou at&eacute; &agrave; Para&iacute;ba para conhecer mais sobre Margarida Alves.<br />
 &nbsp;</p>
 
-<p><em>Editado por Fernanda Alc&acirc;ntara</em></p>
+<p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
