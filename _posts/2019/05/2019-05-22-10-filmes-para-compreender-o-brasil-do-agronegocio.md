@@ -56,14 +56,17 @@ Document&aacute;rio dirigido pela francesa Marie-Monique que aborda como uma gra
 
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/SHkRoIvahpg" width="640"></iframe><br />
 <br />
-<em>Parte 2</em><br />
+<em>Parte 2</em></p>
+
+<p><br />
 <iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/fyvoKljtvG4" width="640"></iframe></p>
 
 <p><br />
 <strong>3. Rompendo o sil&ecirc;ncio</strong> (Brasil/2006)</p>
 
 <p><br />
-No primeiro semestre de 2006, mulheres ligadas ao MST e &agrave; Via Campesina, movimento campon&ecirc;s mundial, ocuparam a fazenda da Aracruz Celulose no Rio Grande do Sul, destru&iacute;ram suas planta&ccedil;&otilde;es de eucalipto, laborat&oacute;rios e milhares de mudas. O filme &eacute; uma realiza&ccedil;&atilde;o do&nbsp; MST, FASE e Rede Alerta Contra o Deserto Verde.</p>
+No primeiro semestre de 2006, mulheres ligadas ao MST e &agrave; Via Campesina, movimento campon&ecirc;s mundial, ocuparam a fazenda da Aracruz Celulose no Rio Grande do Sul, destru&iacute;ram suas planta&ccedil;&otilde;es de eucalipto, laborat&oacute;rios e milhares de mudas. O filme &eacute; uma realiza&ccedil;&atilde;o do&nbsp; MST, FASE e Rede Alerta Contra o Deserto Verde.<br />
+&nbsp;</p>
 
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/VNpAm_SMxxg" width="640"></iframe></p>
 
@@ -139,9 +142,7 @@ Document&aacute;rio dirigido por Ludmila Ferolla e Giuseppe Bizzarri sobre a pro
 <strong><a href="https://www.youtube.com/channel/UC3C5WLLfrDnNsMR7Z-46eug">Videoteca Virtual Greg&oacute;rio Bezerra</a></strong></p>
 
 <p><br />
-A Videoteca Virtual Greg&oacute;rio Bezerra organizada pelo Movimento dos Trabalhadores Rurais Sem Terra em parceria com o projeto Armaz&eacute;m Mem&oacute;ria, nele podemos encontrar uma imensa gama de v&iacute;deos que abordam o tema dos impactos do agroneg&oacute;cio no Brasil, movimentos populares de resist&ecirc;ncia. &nbsp;</p>
-
-<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/YiWrnvX2edY" width="640"></iframe></p>
+A Videoteca Virtual Greg&oacute;rio Bezerra organizada pelo Movimento dos Trabalhadores Rurais Sem Terra em parceria com o projeto Armaz&eacute;m Mem&oacute;ria, nele podemos encontrar uma imensa gama de v&iacute;deos que abordam o tema dos impactos do agroneg&oacute;cio no Brasil, movimentos populares de resist&ecirc;ncia.&nbsp;</p>
 
 <p><br />
 <a href="https://www.youtube.com/watch?v=tsE5xgNBhYQ"><strong>Filmografia de Beto Novaes &ndash; Canal do Youtube</strong></a></p>
