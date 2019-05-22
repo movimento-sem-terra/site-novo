@@ -5,7 +5,7 @@ tags:
 title: Criminalização da LGBTfobia e as novas formas de participação e resistência
 support_line: Especialistas falam sobre a importância do STF julgar ações que equiparam a LGBTfobia ao crime de racismo
 menu: "educação, cultura e comunicação"
-section: cover
+section: featured-news
 images_hd: //farm66.staticflickr.com/65535/32926630087_3a6a1cabe5_b.jpg
 layout: post
 files:
