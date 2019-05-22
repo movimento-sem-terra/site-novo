@@ -48,7 +48,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><em>Da P&aacute;gina do MST</em><br />
+&nbsp;</p>
 
 <p>A luta pela reforma agr&aacute;ria conquistou mais um aliado com o acampamento Lula Livre, em Roraima, regi&atilde;o norte do pa&iacute;s. Cerca de 150 fam&iacute;lias ocupam hoje a antiga fazenda Tocantins, localizada Munic&iacute;pio de Mucaja&iacute;, a 68km da capital Boa Vista.<br />
 &nbsp;</p>
@@ -69,4 +70,4 @@ releated_posts:
 Dentro do acampamento, as fam&iacute;lias exercitam a import&acirc;ncia da organicidade e do respeito aos acordos coletivos para avan&ccedil;ar na luta. Acampadas desde o final de abril, elas sonham em poder produzir e viver dignamente e&nbsp; seguem em luta em busca pela reforma agr&aacute;ria popular.<br />
 &nbsp;</p>
 
-<p><em>Editado por Fernanda Alc&acirc;ntara</em></p>
+<p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
