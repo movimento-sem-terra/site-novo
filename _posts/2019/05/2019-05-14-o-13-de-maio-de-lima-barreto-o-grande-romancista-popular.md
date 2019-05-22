@@ -7,7 +7,7 @@ tags:
 title: "O 13 de maio de Lima Barreto: o grande romancista popular"
 support_line: "Artigo relembra vida e obra de Lima Barreto, em comemoração aos 131 anos de seu nascimento"
 menu: "educação, cultura e comunicação"
-section: featured-news
+section: null
 label: articles
 images_hd: //farm66.staticflickr.com/65535/47061510704_a6ff510670_b.jpg
 layout: post
