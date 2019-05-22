@@ -40,8 +40,7 @@ releated_posts:
 </figure>
 </div>
 
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <p><em>Por Agatha Azevedo<br />
 Da P&aacute;gina do MST</em><br />
@@ -65,4 +64,4 @@ Extrapolando os temas da educa&ccedil;&atilde;o, sa&uacute;de, produ&ccedil;&ati
 <p>Como s&iacute;ntese da visita, Tulipa falou sobre a inseguran&ccedil;a de viver t&atilde;o pr&oacute;ximo &agrave;s barragens, e sobre a resist&ecirc;ncia cotidiana das fam&iacute;lias. &quot;O constante estado de alerta &eacute; desesperador. E o descaso das empresas envolvidas e do poder p&uacute;blico tamb&eacute;m. J&aacute; a for&ccedil;a das pessoas que habitam e resistem nestas terras &eacute; revolucion&aacute;rio&rdquo;, afirmou a artista, que concluiu: &ldquo;Que nossos olhares n&atilde;o desviem das pessoas que vivem e resistem em Brumadinho e Mariana. M&aacute;ximo respeito aos trabalhadores da terra e seus saberes.&quot;<br />
 &nbsp;</p>
 
-<p><em>Editado por Fernanda Alc&acirc;ntara</em></p>
+<p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
