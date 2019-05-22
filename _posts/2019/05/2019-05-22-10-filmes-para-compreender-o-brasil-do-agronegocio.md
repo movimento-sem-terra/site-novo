@@ -17,7 +17,7 @@ files:
     title: "BdF [40].jpg"
     $$hashKey: 0SI
 created_date: "2019-05-22T16:00:08-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/09/2018-09-24-o-agro-nao-e-pop-de-olho-no-agronegocio.md
   - _posts/2019/01/2019-01-17-lista-suja-tem-204-empregadores-com-2-500-pessoas-em-situacao-de-escravidao.md
