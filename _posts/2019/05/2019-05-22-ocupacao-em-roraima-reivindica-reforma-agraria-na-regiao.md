@@ -23,6 +23,13 @@ files:
     small: //farm66.staticflickr.com/65535/47908773701_7d263cc15c_n.jpg
     title: Acampamento LulaLivre.jpeg
     $$hashKey: 0CU
+  - link: //farm66.staticflickr.com/65535/47908795921_82c86ff03e_b.jpg
+    original: //farm66.staticflickr.com/65535/47908795921_b005d39442_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/47908795921_82c86ff03e_t.jpg
+    medium: //farm66.staticflickr.com/65535/47908795921_82c86ff03e_z.jpg
+    small: //farm66.staticflickr.com/65535/47908795921_82c86ff03e_n.jpg
+    title: Acampamento LulaLivre2.jpeg
+    $$hashKey: 0KT
 created_date: "2019-05-22T12:01:15-03:00"
 published: true
 releated_posts:
@@ -44,6 +51,8 @@ releated_posts:
 
 <p>&nbsp;</p>
 
+<p>&nbsp;</p>
+
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p>A luta pela reforma agr&aacute;ria conquistou mais um aliado com o acampamento Lula Livre, em Roraima, regi&atilde;o norte do pa&iacute;s. Cerca de 150 fam&iacute;lias ocupam hoje a antiga fazenda Tocantins, localizada Munic&iacute;pio de Mucaja&iacute;, a 68km da capital Boa Vista.<br />
@@ -51,6 +60,10 @@ releated_posts:
 
 <p>As terras pertencem &agrave; Uni&atilde;o devido a um processo de grilagem. Desde ent&atilde;o, a &aacute;rea de aproximadamente 650 hectares se encontrava improdutiva, descumprindo a sua fun&ccedil;&atilde;o social garantida pela Constitui&ccedil;&atilde;o.<br />
 &nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Acampamento LulaLivre2.jpeg" height="225" src="//farm66.staticflickr.com/65535/47908795921_82c86ff03e_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
 
 <p>A ocupa&ccedil;&atilde;o &eacute; um instrumento de luta das trabalhadoras e trabalhadores do Movimento dos Trabalhadores Rurais Sem Terra (MST) em Roraima. Ao ocupar as terras desta regi&atilde;o, as fam&iacute;lias reivindicam que o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (INCRA) retome os processos de reforma agr&aacute;ria para poder dar utilidade &agrave; regi&atilde;o da antiga fazenda.<br />
 &nbsp;</p>
