@@ -6,7 +6,7 @@ tags:
 title: Arquiteto do Massacre de Felisburgo é condenado a 195 anos de prisão
 support_line: "Calixto andava com cheques em branco assinados por seu primo Chafik, mandante do massacre, para fazer todos os “negócios”"
 menu: direitos humanos
-section: featured-news
+section: null
 images_hd: //farm66.staticflickr.com/65535/32920022847_8a00c7eaa8_b.jpg
 layout: post
 files:
