@@ -40,19 +40,6 @@ releated_posts:
   - _posts/2019/03/2019-03-15-ato-marca-solidariedade-a-ocupacao-de-latifundio-de-joao-de-deus.md
 
 ---
-<figure class="image" style="float:left"><img alt="Acampamento LulaLivre.jpeg" height="525" src="//farm66.staticflickr.com/65535/47908773701_7d263cc15c_b.jpg" width="700" />
-<figcaption><em>Reuni&atilde;o na Ocupa&ccedil;&atilde;o Lula Livre, em Roraima. Fotos: Divulga&ccedil;&atilde;o MST</em></figcaption>
-</figure>
-
-<p><br />
-&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p>A luta pela reforma agr&aacute;ria conquistou mais um aliado com o acampamento Lula Livre, em Roraima, regi&atilde;o norte do pa&iacute;s. Cerca de 150 fam&iacute;lias ocupam hoje a antiga fazenda Tocantins, localizada Munic&iacute;pio de Mucaja&iacute;, a 68km da capital Boa Vista.<br />
