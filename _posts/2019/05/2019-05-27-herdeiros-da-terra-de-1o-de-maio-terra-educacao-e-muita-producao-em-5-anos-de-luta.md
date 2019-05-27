@@ -128,39 +128,41 @@ de 1&ordm; de Maio / Foto: Danielson Postinguer </em></figcaption>
 </figure>
 
 <p><br />
-O im&oacute;vel Rio das Cobra fica entre Quedas do Igua&ccedil;u, com 63 mil hectares. O t&iacute;tulo da &aacute;rea foi declarado nulo pela 1&ordf; Vara Federal de Cascavel, em maio de 2015, e tamb&eacute;m em segunda inst&acirc;ncia pelo Tribunal Regional Federal 4 (TRF4), em agosto de 2017. Parte da &aacute;rea foi destinada &agrave; reforma agr&aacute;ria e originou o assentamento Celso Furtado. Outros tr&ecirc;s acampamentos resistem no restante do im&oacute;vel: Dom Tom&aacute;s Baldu&iacute;no, localizado em uma &aacute;rea da Araupel; e Vilmar Bordin e Leonir Orback, em fazendas de outros propriet&aacute;rios. &nbsp;</p>
+O im&oacute;vel Rio das Cobra fica entre Quedas do Igua&ccedil;u, com 63 mil hectares. O t&iacute;tulo da &aacute;rea foi declarado nulo pela 1&ordf; Vara Federal de Cascavel, em maio de 2015, e tamb&eacute;m em segunda inst&acirc;ncia pelo Tribunal Regional Federal 4 (TRF4), em agosto de 2017. Parte da &aacute;rea foi destinada &agrave; reforma agr&aacute;ria e originou o assentamento Celso Furtado. Outros tr&ecirc;s acampamentos resistem no restante do im&oacute;vel: Dom Tom&aacute;s Baldu&iacute;no, localizado em uma &aacute;rea da Araupel; e Vilmar Bordin e Leonir Orback, em fazendas de outros propriet&aacute;rios.&nbsp;<br />
+&nbsp;</p>
 
-<p>&nbsp;
-<p>&nbsp;
 <p>No caso do acampamento Herdeiros da Terra, o advogado explica que tramita uma a&ccedil;&atilde;o de reintegra&ccedil;&atilde;o de posse em Laranjeiras do Sul, j&aacute; com autoriza&ccedil;&atilde;o judicial para reintegrar a &aacute;rea. No entanto, Camilo n&atilde;o acredita que haja viabilidade para uma reintegra&ccedil;&atilde;o, uma vez que o acampamento est&aacute; cercado por assentamentos, com apoio m&uacute;tuo entre as fam&iacute;lias agricultoras. &ldquo;J&aacute; &eacute; uma comunidade consumada, criaram moradia, trabalho, escola. A situa&ccedil;&atilde;o precisa se resolver com qualquer outra medida que n&atilde;o seja a reintegra&ccedil;&atilde;o de posse&rdquo;, defende.<br />
 &nbsp;</p>
-</p>
-</p>
 
 <p><strong>Reconhecimento p&uacute;blico</strong></p>
 
 <p><br />
-Laureci Leal, integrante da dire&ccedil;&atilde;o nacional do MST e da regi&atilde;o Centro do estado, relacionou a resist&ecirc;ncia das fam&iacute;lias acampadas &agrave;s tentativas do governo Bolsonaro de fragilizar o Movimento. &ldquo;Essa comunidade &eacute; a prova de que jamais v&atilde;o derrotar o MST, nosso movimento que j&aacute; est&aacute; no seus 35 anos de vida. Somos resultado da falta da reforma agr&aacute;ria. Mas enquanto n&atilde;o houve, n&oacute;s resistiremos&rdquo;. Para o dirigente, o momento pelo qual o Brasil passa &eacute; de retrocesso e de uma gest&atilde;o fraca: &ldquo;Se um governo amea&ccedil;a os trabalhadores e a vida, &eacute; porque n&atilde;o consegue enfrentar os problemas reais do pa&iacute;s&rdquo;, afirmou. &nbsp;</p>
+Laureci Leal, integrante da dire&ccedil;&atilde;o nacional do MST e da regi&atilde;o Centro do estado, relacionou a resist&ecirc;ncia das fam&iacute;lias acampadas &agrave;s tentativas do governo Bolsonaro de fragilizar o Movimento. &ldquo;Essa comunidade &eacute; a prova de que jamais v&atilde;o derrotar o MST, nosso movimento que j&aacute; est&aacute; no seus 35 anos de vida. Somos resultado da falta da reforma agr&aacute;ria. Mas enquanto n&atilde;o houve, n&oacute;s resistiremos&rdquo;. Para o dirigente, o momento pelo qual o Brasil passa &eacute; de retrocesso e de uma gest&atilde;o fraca: &ldquo;Se um governo amea&ccedil;a os trabalhadores e a vida, &eacute; porque n&atilde;o consegue enfrentar os problemas reais do pa&iacute;s&rdquo;, afirmou. &nbsp;<br />
+&nbsp;</p>
 
-<p>A presen&ccedil;a de representantes do poder legislativo municipal, estadual e federal no ato de abertura da festa de 5 anos reafirmaram o apoio recebido pela comunidade. O deputado estadual mais votado do munic&iacute;pio de Rio Bonito do Igua&ccedil;u, Professor Lemos (PT), garantiu que o seu mandato n&atilde;o &eacute; individual, e sim coletivo, voltado &agrave;s demandas da classe trabalhadora paranaense.</p>
+<p>A presen&ccedil;a de representantes do poder legislativo municipal, estadual e federal no ato de abertura da festa de 5 anos reafirmaram o apoio recebido pela comunidade. O deputado estadual mais votado do munic&iacute;pio de Rio Bonito do Igua&ccedil;u, Professor Lemos (PT), garantiu que o seu mandato n&atilde;o &eacute; individual, e sim coletivo, voltado &agrave;s demandas da classe trabalhadora paranaense.<br />
+&nbsp;</p>
 
 <p>&quot;Essa luta &eacute; nossa, &eacute; uma luta que n&atilde;o &eacute; antiga, n&atilde;o &eacute; de hoje. De fato essa luta precisa ser homenageada, pela reforma agr&aacute;ria e pela produ&ccedil;&atilde;o de alimentos saud&aacute;veis&quot;, disse Lemos, ao entregar uma placa da Assembleia Legislativa do Paran&aacute; com men&ccedil;&atilde;o honrosa pelos 5 anos de resist&ecirc;ncia da comunidade.</p>
 
 <figure class="image" style="float:left"><img alt="Placa de homenagem da Alep_Lanedro Tauques.jpeg" height="200" src="//farm66.staticflickr.com/65535/47944538933_d4a36f4c0c_b.jpg" width="300" />
-<figcaption>Dep. Est. Professor Lemos entregou uma placa da Alep em<br />
-homenagem ao acampamento / Leandro Taques&nbsp;</figcaption>
+<figcaption><em>Dep. Est. Professor Lemos entregou uma placa da<br />
+Alep em homenagem ao acampamento<br />
+Fotos: Leandro Taques&nbsp;</em></figcaption>
 </figure>
 
-<p>Luciana Rafagnin (PT), deputada estadual, acompanha o MST desde o surgimento, per&iacute;odo em que ela tamb&eacute;m se inseriu na luta pela reforma agr&aacute;ria: &quot;Precisamos conseguir, o mais r&aacute;pido poss&iacute;vel, a regulariza&ccedil;&atilde;o dessa &aacute;rea pra voc&ecirc;s. O mais importante &eacute; que voc&ecirc;s t&ecirc;m sido um exemplo de resist&ecirc;ncia, de trabalhar na terra e dela tirar o seu pr&oacute;prio sustento. Est&atilde;o conseguindo ensinar para os filhos a constru&ccedil;&atilde;o de um mundo com mais igualdade. Voc&ecirc; nos inspiram muito&quot;.</p>
+<p>Luciana Rafagnin (PT), deputada estadual, acompanha o MST desde o surgimento, per&iacute;odo em que ela tamb&eacute;m se inseriu na luta pela reforma agr&aacute;ria: &quot;Precisamos conseguir, o mais r&aacute;pido poss&iacute;vel, a regulariza&ccedil;&atilde;o dessa &aacute;rea pra voc&ecirc;s. O mais importante &eacute; que voc&ecirc;s t&ecirc;m sido um exemplo de resist&ecirc;ncia, de trabalhar na terra e dela tirar o seu pr&oacute;prio sustento. Est&atilde;o conseguindo ensinar para os filhos a constru&ccedil;&atilde;o de um mundo com mais igualdade. Voc&ecirc; nos inspiram muito&quot;.<br />
+&nbsp;</p>
 
-<p>Aliel Machado (Rede), deputado federal, frisou que a luta que acontece no Brasil &eacute; contra as injusti&ccedil;as que ainda predominam. &quot;Quem n&atilde;o vem visitar e pisar esse poeira n&atilde;o sabe da realidade do povo [...]. Ningu&eacute;m aqui &eacute; favor de desrespeitar as leis, e sim queremos que seja respeitada a Constitui&ccedil;&atilde;o que garante o direito &agrave; terra&quot;.</p>
+<p>Aliel Machado (Rede), deputado federal, frisou que a luta que acontece no Brasil &eacute; contra as injusti&ccedil;as que ainda predominam. &quot;Quem n&atilde;o vem visitar e pisar esse poeira n&atilde;o sabe da realidade do povo [...]. Ningu&eacute;m aqui &eacute; favor de desrespeitar as leis, e sim queremos que seja respeitada a Constitui&ccedil;&atilde;o que garante o direito &agrave; terra&quot;.<br />
+&nbsp;</p>
 
-<p>A presidenta do PT e deputada federal Gleisi Hoffmann enviou uma carta &agrave;s fam&iacute;lias do Herdeiros da Terra, em que reconhece o papel do MST na defesa da democracia: &ldquo;No Brasil p&oacute;s-golpe, n&oacute;s vivemos uma situa&ccedil;&atilde;o muito dif&iacute;cil, mas mesmo diante de tantos retrocessos, voc&ecirc;s permanecem firmes. E tenho certeza que continuar&atilde;o lutando com muita garra at&eacute; que possamos restabelecer o Estado Democr&aacute;tico de Direito em nosso pa&iacute;s. E isso inclui a liberdade do presidente Lula&rdquo;.</p>
+<p>A presidenta do PT e deputada federal Gleisi Hoffmann enviou uma carta &agrave;s fam&iacute;lias do Herdeiros da Terra, em que reconhece o papel do MST na defesa da democracia: &ldquo;No Brasil p&oacute;s-golpe, n&oacute;s vivemos uma situa&ccedil;&atilde;o muito dif&iacute;cil, mas mesmo diante de tantos retrocessos, voc&ecirc;s permanecem firmes. E tenho certeza que continuar&atilde;o lutando com muita garra at&eacute; que possamos restabelecer o Estado Democr&aacute;tico de Direito em nosso pa&iacute;s. E isso inclui a liberdade do presidente Lula&rdquo;.<br />
+&nbsp;</p>
 
 <p>Entenda o conflito na Araupel:<br />
 <a href="https://www.brasildefato.com.br/2016/11/10/entenda-o-conflito-entre-o-mst-e-a-madeireira-araupel-no-parana/">https://www.brasildefato.com.br/2016/11/10/entenda-o-conflito-entre-o-mst-e-a-madeireira-araupel-no-parana/</a></p>
 
-<p>&nbsp;</p>
-
 <p><br />
+<br />
 <em>*Editado por Fernanda Alc&acirc;ntara</em></p>
