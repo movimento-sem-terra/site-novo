@@ -35,7 +35,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="FormaçãodeFormadores[3].JPG" height="525" src="//farm66.staticflickr.com/65535/47945863527_54644d0fa5_b.jpg" width="700" />
-<figcaption>M&eacute;todo de alfabetiza&ccedil;&atilde;o de jovens, adultos e idosos desenvolvido pela educadora cubana Leonela Relys</figcaption>
+<figcaption><em>Sim, Eu posso &eacute; um m&eacute;todo de alfabetiza&ccedil;&atilde;o de jovens, adultos e idosos </em></figcaption>
 </figure>
 </div>
 
