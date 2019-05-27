@@ -5,7 +5,7 @@ tags:
   - tag: reforma-agrária-popular
 title: "Herdeiros da Terra de 1º de Maio: terra, educação e muita produção em 5 anos de luta"
 support_line: "Comunidade está localizada na maior área de Reforma Agrária da América Latina, na região Centro do Paraná"
-images_hd: //farm66.staticflickr.com/65535/47944539248_7cf287465d_b.jpg
+images_hd: //farm66.staticflickr.com/65535/47944526662_b1cdfb6c98_b.jpg
 menu: reforma agrária
 layout: post
 files:
@@ -69,7 +69,11 @@ releated_posts:
   - _posts/2018/09/2018-09-15-inauguracao-do-armazem-do-campo-reune-centenas-de-pessoas-no-rio-de-janeiro.md
 
 ---
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Foto principal _Leandro Taques.jpeg" height="467" src="//farm66.staticflickr.com/65535/47944526662_b1cdfb6c98_b.jpg" width="700" />
+<figcaption><em>Foto: Leandro Taques</em></figcaption>
+</figure>
+</div>
 
 <p><em>Por Ednubia Ghisi/ Colaborou: Kelen Alves<br />
 Da P&aacute;gina do MST</em></p>
@@ -106,6 +110,11 @@ Al&eacute;m de comemorar a colheita da terra, a agricultora relata a satisfa&cce
 &nbsp;</p>
 
 <p>O trabalho volunt&aacute;rio e em mutir&atilde;o permitiu a inaugura&ccedil;&atilde;o da Escola Itinerante Herdeiros do Saber em setembro de 2014, quatro meses ap&oacute;s a ocupa&ccedil;&atilde;o da &aacute;rea. Por tratar-se de uma &aacute;rea extensa, a escola est&aacute; dividida em duas localidades. Ao todo s&atilde;o 667 alunos, 25 salas de aulas, 65 professores - 33 moradores do acampamento. As escolas itinerantes s&atilde;o p&uacute;blicas e mantidas com recursos do governo estadual. S&atilde;o uma conquista do MST para garantir educa&ccedil;&atilde;o para crian&ccedil;as e jovens acampados.</p>
+
+<figure class="image" style="float:right"><img alt="A Escola Itinerante tem mais de 600 alunos _Leandro Taques.jpeg" height="186" src="//farm66.staticflickr.com/65535/47944539248_7cf287465d_b.jpg" width="279" />
+<figcaption><em>A Escola Itinerante tem mais de<br />
+600 alunos- Fotos: Leandro Taques</em></figcaption>
+</figure>
 
 <p><br />
 &ldquo;Quando eu olho para nossa comunidade hoje, quase n&atilde;o acredito. A gente veio pra debaixo das &aacute;rvores, n&atilde;o tinha nada. Era s&oacute; barraco de lona, lavar roupa no rio&rdquo;, relembra a agricultora Vilma Batista de Almeida, de 51 anos, que participou da constru&ccedil;&atilde;o da comunidade desde o acampamento-base, iniciado em 1&ordm; de maio de 2014. Ela e o marido trabalhavam em uma empresa de suinocultura, em Santa Catarina, com sal&aacute;rio que &ldquo;dava pra sobreviver, mas n&atilde;o pra comprar um peda&ccedil;o de terra&rdquo;, como era o sonho dos dois.<br />
