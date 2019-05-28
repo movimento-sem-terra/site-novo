@@ -5,7 +5,7 @@ tags:
   - tag: formação
 images_hd: //farm66.staticflickr.com/65535/47945874048_41972383a9_b.jpg
 menu: "educação, cultura e comunicação"
-title: "Na Bahia, formação incentiva o método Sim, Eu Posso"
+title: "Na Bahia, formação impulsiona o \"Sim, Eu Posso\""
 support_line: Cerca de 70 educadores e formadores participam em Salvador de formação do método
 layout: post
 files:
@@ -35,33 +35,45 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="FormaçãodeFormadores[3].JPG" height="525" src="//farm66.staticflickr.com/65535/47945863527_54644d0fa5_b.jpg" width="700" />
-<figcaption><em>Sim, Eu posso &eacute; um m&eacute;todo de alfabetiza&ccedil;&atilde;o de jovens, adultos e idosos </em></figcaption>
+<figcaption><em>&quot;Sim, Eu Posso&quot; &eacute; um m&eacute;todo de alfabetiza&ccedil;&atilde;o de jovens e adultos que erradicou o analfabetismo em Cuba. Foto: Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em></figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
 
 <p><em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Do dia 21 a 30 de maio, acontece em Salvador (BA) a Forma&ccedil;&atilde;o de Formadores do m&eacute;todo &ldquo;Sim, Eu Posso&rdquo; no Nordeste.&nbsp; O curso conta com a participa&ccedil;&atilde;o de cerca de 70 educadores do Movimento dos Sem Terra (MST) dos estados da Bahia, Cear&aacute;, Rio Grande do Norte, Paran&aacute;, Rio de Janeiro, Pernambuco, S&atilde;o Paulo e Alagoas.</p>
+Do dia 21 a 30 de maio, acontece em Salvador (BA) a Forma&ccedil;&atilde;o de Formadores do m&eacute;todo &ldquo;Sim, Eu Posso&rdquo; no Nordeste.&nbsp; O curso conta com a participa&ccedil;&atilde;o de 70 educadoras e educadoras&nbsp;do MST&nbsp;dos estados da Bahia, Cear&aacute;, Rio Grande do Norte, Paran&aacute;, Rio de Janeiro, Pernambuco, S&atilde;o Paulo e Alagoas.</p>
 
 <p><br />
-Al&eacute;m do MST, est&atilde;o participando representantes da Secretaria de Educa&ccedil;&atilde;o do Estado da Bahia, educadores(as) e estudantes da UFBA e UNEB, movimentos sociais parceiros, Levante da Juventude e MTD.</p>
+Al&eacute;m do MST, participam&nbsp;representantes da Secretaria de Educa&ccedil;&atilde;o do Estado da Bahia, educadores&nbsp;e estudantes da UFBA e UNEB, movimentos sociais parceiros,&nbsp; como o Levante Popular da Juventude e MTD.</p>
 
 <p><br />
-O objetivo &eacute; avan&ccedil;ar em um processo massivo de alfabetiza&ccedil;&atilde;o de jovens e adultos. O Movimento busca parcerias para formar formadores do m&eacute;todo de alfabetiza&ccedil;&atilde;o &ldquo;Sim, Eu Posso&rdquo;, utilizado desde da d&eacute;cada passada, e em 2006, o Movimento fez as primeiras experi&ecirc;ncias em solo brasileiro.<br />
-No Brasil, cerca de 11,8 milh&otilde;es de pessoas s&atilde;o analfabetos, segundo divulgado pelo IBGE em 2017.</p>
-
-<p>E a regi&atilde;o nordeste concentra a maior taxa de analfabetismo no pa&iacute;s, atingindo uma m&eacute;dia de 14, 5% da popula&ccedil;&atilde;o. Entre os n&uacute;meros por estado, o maior &iacute;ndice est&aacute; no Alagoas (18,2%), seguido do Maranh&atilde;o (16,7%),&nbsp; Piau&iacute; (16,6%), Para&iacute;ba (16,5%), Sergipe (14,5%), Cear&aacute; (14,2%), Rio Grande do Norte (13,5%), Pernambuco (13,4%) e Bahia (12,7%).</p>
+Com o&nbsp;objetivo de construir um&nbsp;processo massivo de alfabetiza&ccedil;&atilde;o de jovens e adultos,&nbsp;o&nbsp;Movimento busca parcerias para formar formadores&nbsp;a partir do&nbsp;m&eacute;todo, que &eacute; utilizado desde da d&eacute;cada passada, e em 2006,&nbsp;foi poss&iacute;vel realizar&nbsp;as primeiras experi&ecirc;ncias em solo brasileiro.</p>
 
 <p><br />
-Vale ressaltar a incid&ecirc;ncia chega a ser quase tr&ecirc;s vezes maior na faixa da popula&ccedil;&atilde;o de 60 anos ou mais de idade (19,3%), e mais que o dobro entre pretos e pardos (9,3%) em rela&ccedil;&atilde;o aos brancos (4,0%).</p>
+No Brasil, cerca de 11,8 milh&otilde;es de pessoas s&atilde;o analfabetos, segundo&nbsp;Instituto Brasileiro de Geografia e Estat&iacute;stica (IBGE) em 2017.</p>
 
 <p><br />
-O &ldquo;Sim, Eu Posso&rdquo; &eacute; um m&eacute;todo de alfabetiza&ccedil;&atilde;o de jovens, adultos e idosos desenvolvido pela educadora cubana Leonela Relys com um car&aacute;ter internacionalista, podendo ser usado em diferentes realidade sociais e lingu&iacute;sticas.&nbsp; Entre os anos de 2002 e 2009, foi empregado na alfabetiza&ccedil;&atilde;o de aproximadamente 3,5 milh&otilde;es de pessoas, em diversos pa&iacute;ses do mundo.</p>
+A regi&atilde;o Nordeste concentra a maior taxa de analfabetismo&nbsp;no pa&iacute;s, atingindo uma m&eacute;dia de 14, 5% da popula&ccedil;&atilde;o. Entre os n&uacute;meros por estado, o maior &iacute;ndice est&aacute; no Alagoas (18,2%), seguido do Maranh&atilde;o (16,7%),&nbsp; Piau&iacute; (16,6%), Para&iacute;ba (16,5%), Sergipe (14,5%), Cear&aacute; (14,2%), Rio Grande do Norte (13,5%), Pernambuco (13,4%) e Bahia (12,7%).</p>
+
+<p><br />
+Vale ressaltar que a incid&ecirc;ncia chega a ser quase tr&ecirc;s vezes maior na faixa da popula&ccedil;&atilde;o de 60 anos ou mais de idade (19,3%), e mais que o dobro entre pretos e pardos (9,3%) em rela&ccedil;&atilde;o aos brancos (4,0%).</p>
+
+<p><br />
+<strong>Conhe&ccedil;a o &quot;Sim, Eu Posso&quot;</strong></p>
+
+<p><br />
+O &ldquo;Sim, Eu Posso&rdquo; &eacute; um m&eacute;todo de alfabetiza&ccedil;&atilde;o de jovens, adultos e idosos desenvolvido pela educadora cubana Leonela Relys com&nbsp;car&aacute;ter internacionalista, podendo ser usado em diferentes realidades sociais e lingu&iacute;sticas.&nbsp; Entre os anos de 2002 e 2009, foi empregado na alfabetiza&ccedil;&atilde;o de aproximadamente 3,5 milh&otilde;es de pessoas, em diversos pa&iacute;ses do mundo.</p>
 
 <p><br />
 O m&eacute;todo vai do conhecido &ndash; os n&uacute;meros &ndash; para o desconhecido - as letras - e baseia-se na experi&ecirc;ncia adquirida progressivamente. Al&eacute;m de um facilitador(a) ou educador(a), o sistema inclui recursos audiovisuais. O tempo de dura&ccedil;&atilde;o da a&ccedil;&atilde;o educativa &eacute; vari&aacute;vel entre tr&ecirc;s meses (em sua forma intensiva) at&eacute; quatro meses, pois o m&eacute;todo &eacute; muito flex&iacute;vel.</p>
 
 <p><br />
 A iniciativa vai de encontro ao avan&ccedil;o para uma ampla conscientiza&ccedil;&atilde;o da sociedade sobre a situa&ccedil;&atilde;o do analfabetismo no Brasil. Estar na lista dos pa&iacute;ses com grande &iacute;ndice de analfabetismo demonstra uma preocupante realidade de ser um pa&iacute;s com grandes problemas educacionais.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
