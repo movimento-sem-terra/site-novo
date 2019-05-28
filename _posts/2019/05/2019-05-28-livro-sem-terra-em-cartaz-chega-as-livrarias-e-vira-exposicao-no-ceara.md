@@ -34,8 +34,8 @@ releated_posts:
 </figure>
 </div>
 
-<p><em>Por Aline Oliveira<br />
-Da P&aacute;gina do MST</em><br />
+<p><br />
+<em>Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <p>Com a organiza&ccedil;&atilde;o dos Setores de Educa&ccedil;&atilde;o, Mem&oacute;ria e Cultura do Movimento dos Trabalhadores Rurais Sem Terra (MST) e do jornalista, pesquisador, produtor cultural e amigo do MST Vladimir Sacchetta, o livro Sem Terra em Cartaz chega &agrave;s livrarias e &agrave;s paredes do Museu de Arte da Universidade Federal do Cear&aacute; (Mauc).</p>
