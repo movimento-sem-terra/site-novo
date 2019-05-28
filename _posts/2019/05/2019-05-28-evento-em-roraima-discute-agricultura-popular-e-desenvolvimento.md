@@ -50,7 +50,7 @@ A turma de Agroecologia da Universidade Federal de Roraima (UFRR) recebeu esta s
 <p>O evento foi realizado na sede da Escola de Agronomia da UFRR. Estiveram presentes Levi Amaro, Geomar da Silva, Jeisse Costa Carvalho e Geronildo Lopes, do MST no Roraima, al&eacute;m de Rosalino Dall&#39;Agoese, representando Comiss&atilde;o Pastoral da Terra (CPT).<br />
 &nbsp;</p>
 
-<p>O objetivo do debate retratar a hist&oacute;ria do Movimento desde antes de sua funda&ccedil;&atilde;o at&eacute; os reflexos da conjuntura atual. Segundo os organizadores, a inten&ccedil;&atilde;o era aproximar a comunidade acad&ecirc;mica da pr&aacute;tica no campo e discutir o desenvolvimento rural do Brasil a partir da realidade dos assentamentos em Roraima.<br />
+<p>O objetivo do debate retratar a hist&oacute;ria do Movimento desde antes de sua funda&ccedil;&atilde;o at&eacute; os reflexos da conjuntura atual. Segundo os organizadores, a inten&ccedil;&atilde;o era aproximar a comunidade acad&ecirc;mica da pr&aacute;tica no campo e discutir o desenvolvimento rural do Brasil a partir da realidade dos assentamentos no norte do pa&iacute;s.<br />
 &nbsp;</p>
 
 <p>As experi&ecirc;ncias dos assentados tamb&eacute;m foi pauta de discuss&atilde;o da perspectiva do espa&ccedil;o como forma de resist&ecirc;ncia em favor da agricultura familiar. Ao todo, mais de trinta pessoas participaram do evento e interagiram com o MST de Roraima.<br />
