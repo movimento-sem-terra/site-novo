@@ -60,7 +60,7 @@ Na manh&atilde; do &uacute;ltimo s&aacute;bado (25), o assentamento 25 de Maio, 
 Na &eacute;poca, a ocupa&ccedil;&atilde;o contou com mais de 400 fam&iacute;lias, oriundas de diversos munic&iacute;pios: Madalena, Quixeramobim, Boa Viagem, Canind&eacute;, era gente que buscava conquistar um peda&ccedil;o de ch&atilde;o para plantar, colher e criar seus filhos.&nbsp;&nbsp;</p>
 
 <p><br />
-A integra&ccedil;&atilde;o da dire&ccedil;&atilde;o estadual do MST no Cear&aacute;, Andr&eacute;ia Caetano, relembrou a import&acirc;ncia de festejar os 30 anos do Assentamento 25 de Maio, que foi o ber&ccedil;o de luta do MST no estado e apontar a necessidade de seguir na resist&ecirc;ncia e na luta em defesa da classe trabalhadora no pa&iacute;s.</p>
+A integrante da dire&ccedil;&atilde;o estadual do MST no Cear&aacute;, Andr&eacute;ia Caetano, relembrou a import&acirc;ncia de festejar os 30 anos do Assentamento 25 de Maio, que foi o ber&ccedil;o de luta do MST no estado e apontar a necessidade de seguir na resist&ecirc;ncia e na luta em defesa da classe trabalhadora no pa&iacute;s.</p>
 
 <p><br />
 &ldquo;Foi nestas terras que a bandeira vermelha da luta pela terra tremulou pela primeira vez, e desde ent&atilde;o muitos latif&uacute;ndios tem sido ocupado e democratizado. O latif&uacute;ndio da terra, do conhecimento, do ar, e tantos outros, que nos desafiamos a ocupar e permanecer na resist&ecirc;ncia. &Eacute; momento de festejar as conquistas, de comemorar nossa resist&ecirc;ncia e nos prepararmos para lutar pelos nossos direitos, exigir a liberdade do presidente Lula e lutar contra as reformas do atual governo&rdquo;, ressalta Andr&eacute;ia.</p>
