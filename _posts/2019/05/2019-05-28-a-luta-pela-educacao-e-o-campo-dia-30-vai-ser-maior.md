@@ -1,0 +1,72 @@
+---
+date: "2019-05-28T15:11:47-03:00"
+tags:
+  - tag: educação-do-campo
+  - tag: educação
+  - tag: universidade
+title: "A luta pela educação e o campo? Dia 30 vai ser maior!"
+support_line: Escolas do campo se integram a diversos movimentos sociais para valer os direitos conquistados
+menu: lutas e mobilizações
+section: cover
+sector: education
+images_hd: //farm66.staticflickr.com/65535/47953087581_b1a704e910_b.jpg
+layout: post
+files:
+  - link: //farm66.staticflickr.com/65535/47953087581_b1a704e910_b.jpg
+    original: //farm66.staticflickr.com/65535/47953087581_b130d06b6d_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/47953087581_b1a704e910_t.jpg
+    medium: //farm66.staticflickr.com/65535/47953087581_b1a704e910_z.jpg
+    small: //farm66.staticflickr.com/65535/47953087581_b1a704e910_n.jpg
+    title: "BdF [42].jpg"
+    $$hashKey: 05D
+created_date: "2019-05-28T15:22:28-03:00"
+published: false
+releated_posts:
+  - _posts/2019/03/2019-03-22-no-ceara-mst-inaugura-mais-uma-escola-de-ensino-medio-do-campo.md
+  - _posts/2019/03/2019-03-29-so-quem-e-militante-consegue-entender-a-solidariedade-entre-os-povos.md
+  - _posts/2019/05/2019-05-06-uma-educacao-que-forma-organiza-e-emancipa.md
+  - _posts/2019/05/2019-05-08-educacao-no-campo-e-pauta-de-audiencia-do-mst-com-governo-gaucho.md
+  - _posts/2019/03/2019-03-22-sem-terra-participam-de-mutirao-para-construcao-do-centro-de-referencia-socioambiental-na-ufal.md
+
+---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="BdF [42].jpg" height="394" src="//farm66.staticflickr.com/65535/47953087581_b1a704e910_b.jpg" width="700" />
+<figcaption>A luta pela educa&ccedil;&atilde;o e o campo? Dia 30 vai ser maior!<br />
+Escolas do campo se integram a diversos movimentos sociais para valer os direitos conquistados<br />
+Em defesa da educa&ccedil;&atilde;o e contra os cortes nas universidades, a grande mobiliza&ccedil;&atilde;o nacional realizada no &uacute;ltimo 15 de maio levou milhares de pessoas &agrave;s ruas de todo o pa&iacute;s. Mas as amea&ccedil;as n&atilde;o param, e, diante das amea&ccedil;as e retrocessos do governo atual, institui&ccedil;&otilde;es, escolas e entidades como a Uni&atilde;o Nacional dos Estudantes (UNE) e a Uni&atilde;o Brasileira dos Estudantes Secundaristas (UBES) convocam nova mobiliza&ccedil;&atilde;o para esta quinta-feira 30.<br />
+A educa&ccedil;&atilde;o brasileira enfrenta desafios hist&oacute;ricos. O atraso educacional vem de s&eacute;culos de exclui&atilde;o da popula&ccedil;&atilde;o por g&ecirc;nero, ra&ccedil;a e classe social. &ldquo;O processo de democratiza&ccedil;&atilde;o e de inser&ccedil;&atilde;o da sociedade na educa&ccedil;&atilde;o &eacute; muito recente. Foi s&oacute; atrav&eacute;s de governos Lula e Dilma que o povo mais pobre e o povo negro conseguiu acessar universidade, mas ainda estamos muito longe de ser um pa&iacute;s com educa&ccedil;&atilde;o superior democratizada&rdquo; ressalta Jessy Dayane, Vice-Presidente da UNE .<br />
+Mais do que cortes, este governo tem colocado os recursos da educa&ccedil;&atilde;o como uma chantagem para a aprova&ccedil;&atilde;o da reforma da previd&ecirc;ncia. &ldquo;Esta rela&ccedil;&atilde;o entre arrecada&ccedil;&atilde;o da previd&ecirc;ncia para a educa&ccedil;&atilde;o &eacute; falsa. As medidas deste governo referentes &agrave; educa&ccedil;&atilde;o e a previd&ecirc;ncia fazem parte do desmonte do estado brasileiro&rdquo;, afirma Jessy.<br />
+E a lista de desmontes n&atilde;o para, lembra Cristina Vargas, da coordena&ccedil;&atilde;o nacional do MST pelo Setor de Educa&ccedil;&atilde;o. &ldquo;Eles defendem uma educa&ccedil;&atilde;o dualista que diferencia educa&ccedil;&atilde;o dos trabalhadores com a educa&ccedil;&atilde;o dos patr&otilde;es, uma educa&ccedil;&atilde;o que n&atilde;o &eacute; garantida pelo estado, que n&atilde;o busca superar os autos &iacute;ndices de falta de acesso. N&atilde;o respeitam a diversidade. O que est&aacute; em perigo &eacute; a educa&ccedil;&atilde;o que democratiza o direito ao conhecimento&nbsp; todos e todas sem distin&ccedil;&atilde;o de classe&rdquo;, afirmou.<br />
+Na perspectiva camponesa, al&eacute;m dos cortes na educa&ccedil;&atilde;o, os retrocessos envolvem os direitos sociais. Um deles &eacute; a reforma da previd&ecirc;ncia, que atinge de maneira especial professoras e trabalhadoras e trabalhadores rurais. Luana Pomm&eacute;, do Setor de Educa&ccedil;&atilde;o do MST, lembra que os cortes no or&ccedil;amento da educa&ccedil;&atilde;o atingem diretamente as escolas do campo, desde o ensino b&aacute;sico at&eacute; os Institutos Federais interiorizados, que recebem boa parte de estudantes do campo.<br />
+&ldquo;O fechamento de 38 mil escolas do campo &eacute; um dado alarmante, assim como o cancelamento de Licenciaturas em Educa&ccedil;&atilde;o do Campo e os cortes no or&ccedil;amento do PRONERA tamb&eacute;m permanecem como desafios. Talvez um dos grandes desafios seja manter as escolas b&aacute;sicas conquistadas com muita luta&rdquo;, pontuou Luana.<br />
+Jessy Dayane passou o recado da UNE: &ldquo;Que o dia 30 seja este espa&ccedil;o para que as ruas expressem sua vontade por uma educa&ccedil;&atilde;o p&uacute;blica e de qualidade. Que essa press&atilde;o seja o suficiente para o parlamento, que n&atilde;o deve ceder a esta chantagem do governo, e principalmente que cancelem os cortes&rdquo;. Cristina acrescentou &agrave; fala, que &ldquo;retroceder &eacute;, no m&iacute;nimo, um desrespeito aos que lutaram tanto pra humanidade avan&ccedil;ar. &Eacute; um descuido com as novas gera&ccedil;&otilde;es.&rdquo;<br />
+Luana completou: &ldquo;Mais do que nunca &eacute; importante a unidade, que a juventude, trabalhadores e trabalhadoras se unam para pautar a educa&ccedil;&atilde;o e o direito &agrave; aposentadoria, tanto no campo como na cidade. As organiza&ccedil;&otilde;es do campo se somam na mobiliza&ccedil;&atilde;o do dia 30 de maio em defesa da educa&ccedil;&atilde;o e como mais um momento de ac&uacute;mulo de for&ccedil;as para a constru&ccedil;&atilde;o da greve geral de 14 de junho.&rdquo;</figcaption>
+</figure>
+</div>
+
+<p><em>Por Fernanda Alc&acirc;ntara<br />
+Da P&aacute;gina do MST</em></p>
+
+<p><br />
+Em defesa da educa&ccedil;&atilde;o e contra os cortes nas universidades, a grande mobiliza&ccedil;&atilde;o nacional realizada no &uacute;ltimo 15 de maio levou milhares de pessoas &agrave;s ruas de todo o pa&iacute;s. Mas as ataques por parte do governo n&atilde;o param e, diante das amea&ccedil;as e retrocessos, institui&ccedil;&otilde;es, escolas e entidades como a Uni&atilde;o Nacional dos Estudantes (UNE) e a Uni&atilde;o Brasileira dos Estudantes Secundaristas (UBES) convocam nova mobiliza&ccedil;&atilde;o para esta quinta-feira (30).<br />
+&nbsp;</p>
+
+<p>A educa&ccedil;&atilde;o brasileira enfrenta desafios hist&oacute;ricos. O atraso educacional vem de s&eacute;culos de exclus&atilde;o da popula&ccedil;&atilde;o por g&ecirc;nero, ra&ccedil;a e classe social. &ldquo;O processo de democratiza&ccedil;&atilde;o e de inser&ccedil;&atilde;o da sociedade na educa&ccedil;&atilde;o &eacute; muito recente. Foi s&oacute; atrav&eacute;s de governos Lula e Dilma que o povo mais pobre e negro conseguiu acessar universidade, mas ainda estamos muito longe de ser um pa&iacute;s com educa&ccedil;&atilde;o superior democratizada&rdquo; ressalta Jessy Dayane, Vice-Presidente da UNE .<br />
+&nbsp;</p>
+
+<p>Mais do que cortes, este governo tem colocado os recursos da educa&ccedil;&atilde;o como uma chantagem para a aprova&ccedil;&atilde;o da reforma da previd&ecirc;ncia. &ldquo;Esta rela&ccedil;&atilde;o entre arrecada&ccedil;&atilde;o da previd&ecirc;ncia para a educa&ccedil;&atilde;o &eacute; falsa. As medidas deste governo referentes &agrave; educa&ccedil;&atilde;o e a previd&ecirc;ncia fazem parte do desmonte do estado brasileiro&rdquo;, afirma Jessy.<br />
+&nbsp;</p>
+
+<p>E a lista de desmontes n&atilde;o para, lembra Cristina Vargas, da coordena&ccedil;&atilde;o nacional do MST pelo Setor de Educa&ccedil;&atilde;o. &ldquo;Eles defendem uma educa&ccedil;&atilde;o dualista que diferencia educa&ccedil;&atilde;o dos trabalhadores com a educa&ccedil;&atilde;o dos patr&otilde;es, uma educa&ccedil;&atilde;o que n&atilde;o &eacute; garantida pelo estado, que n&atilde;o busca superar os autos &iacute;ndices de falta de acesso. N&atilde;o respeitam a diversidade. O que est&aacute; em perigo &eacute; a educa&ccedil;&atilde;o que democratiza o direito ao conhecimento&nbsp; todos e todas sem distin&ccedil;&atilde;o de classe&rdquo;, acrescentou.<br />
+&nbsp;</p>
+
+<p>Na perspectiva camponesa, al&eacute;m dos cortes na educa&ccedil;&atilde;o, os retrocessos envolvem os direitos sociais. Um deles &eacute; a reforma da previd&ecirc;ncia, que atinge de maneira especial professoras e trabalhadoras e trabalhadores rurais. Luana Pomm&eacute;, do Setor de Educa&ccedil;&atilde;o do MST, lembra que os cortes no or&ccedil;amento da educa&ccedil;&atilde;o atingem diretamente as escolas do campo, desde o ensino b&aacute;sico at&eacute; os Institutos Federais interiorizados, que recebem boa parte de estudantes do campo.<br />
+&nbsp;</p>
+
+<p>&ldquo;O fechamento de 38 mil escolas do campo &eacute; um dado alarmante, assim como o cancelamento de Licenciaturas em Educa&ccedil;&atilde;o do Campo e os cortes no or&ccedil;amento do PRONERA tamb&eacute;m permanecem como desafios. Talvez um dos grandes desafios seja manter as escolas b&aacute;sicas conquistadas com muita luta&rdquo;, pontuou Luana.<br />
+&nbsp;</p>
+
+<p>Jessy Dayane passou o recado da UNE: &ldquo;Que o dia 30 seja este espa&ccedil;o para que as ruas expressem sua vontade por uma educa&ccedil;&atilde;o p&uacute;blica e de qualidade. Que essa press&atilde;o seja o suficiente para o parlamento, que n&atilde;o deve ceder a esta chantagem do governo, e principalmente que cancelem os cortes&rdquo;. Cristina acrescentou &agrave; fala, que &ldquo;retroceder &eacute;, no m&iacute;nimo, um desrespeito aos que lutaram tanto pra humanidade avan&ccedil;ar. &Eacute; um descuido com as novas gera&ccedil;&otilde;es.&rdquo;<br />
+&nbsp;</p>
+
+<p>Luana completou: &ldquo;Mais do que nunca &eacute; importante a unidade, que a juventude, trabalhadores e trabalhadoras, se unam para pautar a educa&ccedil;&atilde;o e o direito &agrave; aposentadoria, tanto no campo como na cidade. As organiza&ccedil;&otilde;es do campo se somam na mobiliza&ccedil;&atilde;o do dia 30 de maio em defesa da educa&ccedil;&atilde;o e como mais um momento de ac&uacute;mulo de for&ccedil;as para a constru&ccedil;&atilde;o da greve geral de 14 de junho.&rdquo;</p>
