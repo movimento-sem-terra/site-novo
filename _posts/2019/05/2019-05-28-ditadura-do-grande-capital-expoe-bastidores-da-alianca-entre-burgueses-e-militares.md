@@ -51,10 +51,9 @@ O soci&oacute;logo e professor da Universidade de S&atilde;o Paulo (USP) Octavio
 <p>O Brasil de Fato entrevistou Rodrigo Castelo, professor da Escola de Servi&ccedil;o Social da Universidade Federal do Estado Rio de Janeiro (Unirio) sobre a obra, que &eacute; considerada um marco na literatura de pensamento cr&iacute;tico e social sobre o pa&iacute;s.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="livro ditadura do grande capital.jpg" height="618" src="//farm66.staticflickr.com/65535/47951758033_8c189f3817_b.jpg" width="400" />
-<figcaption>Primeira edi&ccedil;&atilde;o foi lan&ccedil;ada em 1981 e analisa o padr&atilde;o de<br />
-domina&ccedil;&atilde;o e explora&ccedil;&atilde;o na ditadura militar&nbsp; - Cr&eacute;ditos: Divulga&ccedil;&atilde;o<br />
-</figcaption>
+<figure class="image" style="float:left"><img alt="livro ditadura do grande capital.jpg" height="541" src="//farm66.staticflickr.com/65535/47951758033_8c189f3817_b.jpg" width="350" />
+<figcaption>Primeira edi&ccedil;&atilde;o foi lan&ccedil;ada em 1981 e analisa o padr&atilde;o<br />
+de domina&ccedil;&atilde;o e explora&ccedil;&atilde;o na ditadura militar.</figcaption>
 </figure>
 
 <p><em>Confira os melhores momentos:</em></p>
