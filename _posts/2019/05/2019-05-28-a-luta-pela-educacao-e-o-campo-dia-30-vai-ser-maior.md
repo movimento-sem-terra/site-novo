@@ -9,7 +9,7 @@ support_line: Escolas do campo se integram a diversos movimentos sociais para va
 menu: lutas e mobilizações
 section: cover
 sector: education
-images_hd: //farm66.staticflickr.com/65535/47953087581_b1a704e910_b.jpg
+images_hd: //farm66.staticflickr.com/65535/47953729797_e8990bcd53_b.jpg
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/47953087581_b1a704e910_b.jpg
@@ -19,6 +19,13 @@ files:
     small: //farm66.staticflickr.com/65535/47953087581_b1a704e910_n.jpg
     title: "BdF [42].jpg"
     $$hashKey: 05D
+  - link: //farm66.staticflickr.com/65535/47953729797_e8990bcd53_b.jpg
+    original: //farm66.staticflickr.com/65535/47953729797_f2f76f2ef0_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/47953729797_e8990bcd53_t.jpg
+    medium: //farm66.staticflickr.com/65535/47953729797_e8990bcd53_z.jpg
+    small: //farm66.staticflickr.com/65535/47953729797_e8990bcd53_n.jpg
+    title: brasil-protesto-educacao-20190515-022-copy.jpg
+    $$hashKey: 0EA
 created_date: "2019-05-28T15:22:28-03:00"
 published: true
 releated_posts:
@@ -46,16 +53,10 @@ Em defesa da educa&ccedil;&atilde;o e contra os cortes nas universidades, a gran
 <p>A educa&ccedil;&atilde;o brasileira enfrenta desafios hist&oacute;ricos. O atraso educacional vem de s&eacute;culos de exclus&atilde;o da popula&ccedil;&atilde;o por g&ecirc;nero, ra&ccedil;a e classe social. &ldquo;O processo de democratiza&ccedil;&atilde;o e de inser&ccedil;&atilde;o da sociedade na educa&ccedil;&atilde;o &eacute; muito recente. Foi s&oacute; atrav&eacute;s de governos Lula e Dilma que o povo mais pobre e negro conseguiu acessar universidade,&nbsp;ainda assim estamos muito longe de ser um pa&iacute;s com educa&ccedil;&atilde;o superior democratizada&rdquo;, afirma&nbsp;a vice-presidente da UNE, Jessy Dayane.</p>
 
 <p><br />
-Mais do que cortes, o governo Bolsonaro&nbsp;tem colocado os recursos da educa&ccedil;&atilde;o como uma chantagem para a aprova&ccedil;&atilde;o da reforma da Previd&ecirc;ncia.&nbsp;</p>
-
-<p><br />
-&ldquo;Essa rela&ccedil;&atilde;o entre arrecada&ccedil;&atilde;o da previd&ecirc;ncia e educa&ccedil;&atilde;o &eacute; falsa. Todas essas medidas fazem parte do desmonte do estado brasileiro&rdquo;, afirma Jessy.<br />
+Mais do que cortes, o governo Bolsonaro&nbsp;tem colocado os recursos da educa&ccedil;&atilde;o como uma chantagem para a aprova&ccedil;&atilde;o da reforma da Previd&ecirc;ncia.&nbsp;&ldquo;Essa rela&ccedil;&atilde;o entre arrecada&ccedil;&atilde;o da previd&ecirc;ncia e educa&ccedil;&atilde;o &eacute; falsa. Todas essas medidas fazem parte do desmonte do estado brasileiro&rdquo;, afirma Jessy.<br />
 &nbsp;</p>
 
-<p>Cristina Vargas, do setor de educa&ccedil;&atilde;o do&nbsp;MST lembra que o descaso do atual governo com a educa&ccedil;&atilde;o &eacute; uma escolha.&nbsp;</p>
-
-<p><br />
-&ldquo;Eles defendem uma educa&ccedil;&atilde;o dualista que diferencia educa&ccedil;&atilde;o dos trabalhadores com a educa&ccedil;&atilde;o dos patr&otilde;es.&nbsp;Uma educa&ccedil;&atilde;o que n&atilde;o &eacute; garantida pelo estado, que n&atilde;o busca superar os autos &iacute;ndices de falta de acesso. N&atilde;o respeitam a diversidade. O que est&aacute; em perigo &eacute; a educa&ccedil;&atilde;o que democratiza o direito ao conhecimento&nbsp; todos e todas sem distin&ccedil;&atilde;o de classe. Retroceder em meio a tudo o que foi conquistado quando o assunto &eacute; educa&ccedil;&atilde;o no Brasil &eacute;, no m&iacute;nimo, um desrespeito aos que lutaram tanto pra humanidade avan&ccedil;ar. &Eacute; um descuido com as novas gera&ccedil;&otilde;es&quot;, acrescentou.<br />
+<p>Cristina Vargas, do setor de educa&ccedil;&atilde;o do&nbsp;MST lembra que o descaso do atual governo com a educa&ccedil;&atilde;o &eacute; uma escolha.&nbsp;&ldquo;Eles defendem uma educa&ccedil;&atilde;o dualista que diferencia educa&ccedil;&atilde;o dos trabalhadores com a educa&ccedil;&atilde;o dos patr&otilde;es.&nbsp;Uma educa&ccedil;&atilde;o que n&atilde;o &eacute; garantida pelo estado, que n&atilde;o busca superar os autos &iacute;ndices de falta de acesso. N&atilde;o respeitam a diversidade. O que est&aacute; em perigo &eacute; a educa&ccedil;&atilde;o que democratiza o direito ao conhecimento&nbsp; todos e todas sem distin&ccedil;&atilde;o de classe. Retroceder em meio a tudo o que foi conquistado quando o assunto &eacute; educa&ccedil;&atilde;o no Brasil &eacute;, no m&iacute;nimo, um desrespeito aos que lutaram tanto pra humanidade avan&ccedil;ar. &Eacute; um descuido com as novas gera&ccedil;&otilde;es&quot;, acrescentou.<br />
 &nbsp;</p>
 
 <p>Nessa perspectiva, Luana Pomm&eacute;, tamb&eacute;m do setor de educa&ccedil;&atilde;o do MST, lembra que os cortes no or&ccedil;amento da educa&ccedil;&atilde;o atingem diretamente as escolas do campo, desde o ensino b&aacute;sico at&eacute; os Institutos Federais interiorizados, que recebem boa parte de estudantes do campo.<br />
