@@ -25,11 +25,19 @@ files:
     $$hashKey: 0C6
 created_date: "2019-05-28T12:32:03-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/11/2018-11-11-do-estado-novo-ao-golpe-de-1945.md
+  - _posts/2019/03/2019-03-31-golpe-64-or-estado-brasileiro-nao-reconhece-camponeses-assassinados-na-ditadura.md
+  - _posts/2018/08/2018-08-20-expressao-popular-lanca-livro-sobre-o-intelectual-russo-anatoli-lunatcharski.md
+  - _posts/2019/01/2019-01-29-editora-e-livraria-expressao-popular-completa-20-anos-na-batalha-do-saber.md
+  - _posts/2019/03/2019-03-29-a-luta-pela-reforma-agraria-contada-no-livro-sem-terra-em-cartaz.md
 
 ---
-<p><em>Juca Guimar&atilde;es<br />
-Do Brasil de Fato/S&atilde;o Paulo (SP</em>)</p>
+<p>&nbsp;</p>
+
+<p><br />
+<em>Por Juca Guimar&atilde;es<br />
+Do Brasil de Fato</em></p>
 
 <p><br />
 O soci&oacute;logo e professor da Universidade de S&atilde;o Paulo (USP) Octavio Ianni (1926-2004) explica detalhadamente no livro <em>A Ditadura do Grande Capital</em> como a ditadura empresarial-militar foi um per&iacute;odo de consolida&ccedil;&atilde;o de um padr&atilde;o de domina&ccedil;&atilde;o e de acumula&ccedil;&atilde;o, favorecendo a burguesia brasileira.</p>
@@ -51,9 +59,10 @@ O soci&oacute;logo e professor da Universidade de S&atilde;o Paulo (USP) Octavio
 <p>O Brasil de Fato entrevistou Rodrigo Castelo, professor da Escola de Servi&ccedil;o Social da Universidade Federal do Estado Rio de Janeiro (Unirio) sobre a obra, que &eacute; considerada um marco na literatura de pensamento cr&iacute;tico e social sobre o pa&iacute;s.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="livro ditadura do grande capital.jpg" height="541" src="//farm66.staticflickr.com/65535/47951758033_8c189f3817_b.jpg" width="350" />
-<figcaption>Primeira edi&ccedil;&atilde;o foi lan&ccedil;ada em 1981 e analisa o padr&atilde;o<br />
-de domina&ccedil;&atilde;o e explora&ccedil;&atilde;o na ditadura militar.</figcaption>
+<figure class="image" style="float:left"><img alt="livro ditadura do grande capital.jpg" height="464" src="//farm66.staticflickr.com/65535/47951758033_8c189f3817_b.jpg" width="300" />
+<figcaption><em>Primeira edi&ccedil;&atilde;o foi lan&ccedil;ada em 1981 e<br />
+analisa o padr&atilde;o de domina&ccedil;&atilde;o e<br />
+explora&ccedil;&atilde;o na ditadura militar.</em></figcaption>
 </figure>
 
 <p><em>Confira os melhores momentos:</em></p>
@@ -132,8 +141,8 @@ Na ditadura, apesar da subordina&ccedil;&atilde;o, tinha &aacute;reas de conflit
 
 <p>&nbsp;</p>
 
-<p><a href="https://soundcloud.com/radioagenciabdf/ditadura-do-grande-capital-expoe-bastidores-da-alianca-entre-burgueses-e-militares#t=0:03">Para ouvir o &aacute;udio da entrevista acesse aqui</a></p>
+<p>Para ouvir o &aacute;udio da entrevista acesse <a href="http://soundcloud.com/radioagenciabdf/ditadura-do-grande-capital-expoe-bastidores-da-alianca-entre-burgueses-e-militares#t=0:03"><strong>aqui</strong></a>.</p>
 
 <p>&nbsp;</p>
 
-<p><em>Edi&ccedil;&atilde;o: Rodrigo Chagas &ndash; Brasil de Fato</em></p>
+<p><em>*Editado por Rodrigo Chagas do&nbsp;Brasil de Fato</em></p>
