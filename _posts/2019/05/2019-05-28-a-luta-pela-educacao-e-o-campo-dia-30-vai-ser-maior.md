@@ -26,6 +26,20 @@ files:
     small: //farm66.staticflickr.com/65535/47953729797_e8990bcd53_n.jpg
     title: brasil-protesto-educacao-20190515-022-copy.jpg
     $$hashKey: 0EA
+  - link: //farm66.staticflickr.com/65535/47954244523_b22d04919e_b.jpg
+    original: //farm66.staticflickr.com/65535/47954244523_0ba5c1156b_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/47954244523_b22d04919e_t.jpg
+    medium: //farm66.staticflickr.com/65535/47954244523_b22d04919e_z.jpg
+    small: //farm66.staticflickr.com/65535/47954244523_b22d04919e_n.jpg
+    title: WhatsApp Image 2019-05-28 at 17.50.52 (1).jpeg
+    $$hashKey: 0P3
+  - link: //farm66.staticflickr.com/65535/47954227462_c991089a30_b.jpg
+    original: //farm66.staticflickr.com/65535/47954227462_4c0f7ef4f7_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/47954227462_c991089a30_t.jpg
+    medium: //farm66.staticflickr.com/65535/47954227462_c991089a30_z.jpg
+    small: //farm66.staticflickr.com/65535/47954227462_c991089a30_n.jpg
+    title: WhatsApp Image 2019-05-28 at 17.51.24.jpeg
+    $$hashKey: 0P6
 created_date: "2019-05-28T15:22:28-03:00"
 published: true
 releated_posts:
@@ -37,10 +51,12 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="BdF [42].jpg" height="394" src="//farm66.staticflickr.com/65535/47953087581_b1a704e910_b.jpg" width="700" />
-<figcaption><em>Participa&ccedil;&atilde;o do MST no &uacute;ltimo #15M - Mato Grosso do Sul/ Campo Grande</em></figcaption>
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-05-28 at 17.51.24.jpeg" height="466" src="//farm66.staticflickr.com/65535/47954227462_c991089a30_b.jpg" width="700" />
+<figcaption>Foto: Jonas Santos</figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
 
 <p><br />
 <em>Por Fernanda Alc&acirc;ntara<br />
