@@ -47,7 +47,7 @@ releated_posts:
 A turma de Agroecologia da Universidade Federal de Roraima (UFRR) recebeu esta semana militantes do Movimento dos Sem Terra (MST) para um debate sobre os principais assuntos envolvendo o campo no Brasil.<br />
 &nbsp;</p>
 
-<p>O evento contou com mais de 30 pessoas e foi realizado na sede da Escola de Agronomia da UFRR. Estiveram presentes Levi Amaro, Geomar da Silva, Jeisse Costa Carvalho e Geronildo Lopes, do MST no Roraima, al&eacute;m de Rosalino Dall&#39;Agoese, representando Comiss&atilde;o Pastoral da Terra (CPT).<br />
+<p>O evento foi realizado na sede da Escola de Agronomia da UFRR. Estiveram presentes Levi Amaro, Geomar da Silva, Jeisse Costa Carvalho e Geronildo Lopes, do MST no Roraima, al&eacute;m de Rosalino Dall&#39;Agoese, representando Comiss&atilde;o Pastoral da Terra (CPT).<br />
 &nbsp;</p>
 
 <p>O objetivo do debate retratar a hist&oacute;ria do Movimento desde antes de sua funda&ccedil;&atilde;o at&eacute; os reflexos da conjuntura atual. Segundo os organizadores, a inten&ccedil;&atilde;o era aproximar a comunidade acad&ecirc;mica da pr&aacute;tica no campo e discutir o desenvolvimento rural do Brasil a partir da realidade dos assentamentos em Roraima.<br />
