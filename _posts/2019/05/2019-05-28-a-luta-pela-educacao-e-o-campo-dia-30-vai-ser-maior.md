@@ -39,9 +39,6 @@ releated_posts:
 <em>Por Fernanda Alc&acirc;ntara<br />
 Da P&aacute;gina do MST</em></p>
 
-<p><em>Por Fernanda Alc&acirc;ntara<br />
-Da P&aacute;gina do MST</em></p>
-
 <p><br />
 Em defesa da educa&ccedil;&atilde;o e contra os cortes nas universidades, a grande mobiliza&ccedil;&atilde;o nacional realizada no &uacute;ltimo&nbsp;<a href="http://www.mst.org.br/2019/05/15/mais-de-1-milhao-de-pessoas-se-mobilizam-pela-educacao-em-todo-pais.html">15 de maio</a>&nbsp;levou milhares de pessoas &agrave;s ruas de todo o pa&iacute;s. Mas os ataques por parte do governo Bosonaro n&atilde;o param e, diante das amea&ccedil;as e retrocessos, institui&ccedil;&otilde;es, escolas e entidades como a Uni&atilde;o Nacional dos Estudantes (UNE) e a Uni&atilde;o Brasileira dos Estudantes Secundaristas (UBES) convocam nova mobiliza&ccedil;&atilde;o para a pr&oacute;xima&nbsp;quinta-feira (30).<br />
 &nbsp;</p>
@@ -66,11 +63,9 @@ Mais do que cortes, o governo Bolsonaro&nbsp;tem colocado os recursos da educa&c
 
 <p>&ldquo;O fechamento de 38 mil escolas do campo &eacute; um dado alarmante, assim como o cancelamento de Licenciaturas em Educa&ccedil;&atilde;o do Campo e os cortes no or&ccedil;amento do Programa Nacional de Educa&ccedil;&atilde;o na Reforma Agr&aacute;ria (Pronera)&nbsp;tamb&eacute;m permanecem como desafios. Talvez um dos grandes desafios seja manter as escolas b&aacute;sicas conquistadas com muita luta&rdquo;, pontuou</p>
 
-<p>&nbsp;</p>
+<p><br />
+Ela acrescenta:&nbsp;&ldquo;Mais do que nunca &eacute; importante a unidade, que a juventude, trabalhadores e trabalhadoras, se unam para pautar a educa&ccedil;&atilde;o e o direito &agrave; aposentadoria, tanto no campo como na cidade. As organiza&ccedil;&otilde;es do campo se somam na mobiliza&ccedil;&atilde;o do dia 30 de maio em defesa da educa&ccedil;&atilde;o e como mais um momento de ac&uacute;mulo de for&ccedil;as para a constru&ccedil;&atilde;o da greve geral de 14 de junho&rdquo;, disse.</p>
 
-<p>Ela acrescenta:&nbsp;&ldquo;Mais do que nunca &eacute; importante a unidade, que a juventude, trabalhadores e trabalhadoras, se unam para pautar a educa&ccedil;&atilde;o e o direito &agrave; aposentadoria, tanto no campo como na cidade. As organiza&ccedil;&otilde;es do campo se somam na mobiliza&ccedil;&atilde;o do dia 30 de maio em defesa da educa&ccedil;&atilde;o e como mais um momento de ac&uacute;mulo de for&ccedil;as para a constru&ccedil;&atilde;o da greve geral de 14 de junho&rdquo;, disse.</p>
-
-<p>&nbsp;</p>
-
-<p>Em nome da UNE,&nbsp;Jessy Dayane passou o recado: &ldquo;Que o dia 30 seja este espa&ccedil;o para que as ruas expressem sua vontade por uma educa&ccedil;&atilde;o p&uacute;blica e de qualidade. Que essa press&atilde;o seja o suficiente para o parlamento, que n&atilde;o deve ceder a esta chantagem do governo, e principalmente que cancelem os cortes&rdquo;, finalizou.<br />
+<p><br />
+Em nome da UNE,&nbsp;Jessy Dayane passou o recado: &ldquo;Que o dia 30 seja este espa&ccedil;o para que as ruas expressem sua vontade por uma educa&ccedil;&atilde;o p&uacute;blica e de qualidade. Que essa press&atilde;o seja o suficiente para o parlamento, que n&atilde;o deve ceder a esta chantagem do governo, e principalmente que cancelem os cortes&rdquo;, finalizou.<br />
 &nbsp;</p>
