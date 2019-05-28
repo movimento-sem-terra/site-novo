@@ -5,7 +5,7 @@ tags:
 title: Primeiro Mutirão Lula Livre é um sucesso nas ruas de todo o Brasil
 support_line: "Ação levou às ruas de todo o país bandeiras, cartazes, panfletos e palavras de ordem Lula Livre"
 menu: "educação, cultura e comunicação"
-images_hd: //farm66.staticflickr.com/65535/47953808403_15a83c3480_b.jpg
+images_hd: //farm66.staticflickr.com/65535/47953871441_d9077dde7f_b.jpg
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/47953803613_671eb25c07_b.jpg
@@ -37,14 +37,26 @@ files:
     title: "BdF-Jornada Lula Livre [7].jpeg"
     $$hashKey: 03C
   - "\"Authentication failed : 'flickr.photos.getInfo' - Sorry, the Flickr API service is not currently available.\""
+  - link: //farm66.staticflickr.com/65535/47953871441_d9077dde7f_b.jpg
+    original: //farm66.staticflickr.com/65535/47953871441_8e0c66ac89_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/47953871441_d9077dde7f_t.jpg
+    medium: //farm66.staticflickr.com/65535/47953871441_d9077dde7f_z.jpg
+    small: //farm66.staticflickr.com/65535/47953871441_d9077dde7f_n.jpg
+    title: "Lula Livre[4].jpeg"
+    $$hashKey: 04J
 created_date: "2019-05-28T17:13:55-03:00"
-published: false
-releated_posts: []
+published: true
+releated_posts:
+  - _posts/2019/04/2019-04-08-em-16-paises-e-17-capitais-brasileiras-como-foi-o-dia-de-luta-pela-liberdade-de-lula.md
+  - _posts/2019/04/2019-04-07-jaime-amorim-lula-precisa-estar-livre-para-trazer-esperanca-e-o-direito-de-sonhar.md
+  - _posts/2019/04/2019-04-08-em-curitiba-luta-pela-liberdade-mobiliza-multidao.md
+  - _posts/2019/04/2019-04-09-gritos-por-lula-livre-e-marielle-vive-marcam-debate-sobre-democracia-no-teatro-da-reitoria-da-ufpr.md
 
 ---
-<p>&nbsp;</p>
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/b6l4nYsQjVI" width="640"></iframe></p>
 
-<p><em>Do site Lula Livre</em></p>
+<p><br />
+<em>Do site Lula Livre</em></p>
 
 <p><br />
 Pra&ccedil;as, feiras, ruas e parques em todo o Brasil foram ocupadas neste s&aacute;bado e domingo por . Grupos levaram para a popula&ccedil;&atilde;o jornais, v&iacute;deos, entrevistas, fotos entre v&aacute;rios outros materiais para defender a liberdade de Lula. Previsto inicialmente para acontecer somente no domingo 26, o evento foi ampliado para o s&aacute;bado, dia 25, sendo que em v&aacute;rias cidades as atividades se estende ao longo da semana. (<a href="https://lulalivre.org.br/comites-de-todo-o-brasil-preparam-o-mutirao-lula-livre/">confira a programa&ccedil;&atilde;o</a>).<br />
@@ -65,6 +77,10 @@ Pra&ccedil;as, feiras, ruas e parques em todo o Brasil foram ocupadas neste s&aa
 
 <p><strong>Confira o #Mutir&atilde;oLulaLivre pelo Brasil</strong><br />
 &nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Lula Livre[4].jpeg" height="225" src="//farm66.staticflickr.com/65535/47953871441_d9077dde7f_b.jpg" width="300" />
+<figcaption><em>Recife/PE</em></figcaption>
+</figure>
 
 <p>#LulaLivre e as den&uacute;ncias sobre o desmonte da Previd&ecirc;ncia P&uacute;blica, foram as palavras de ordem que ecoaram nas ruas, vielas e casas do bairro Granja Portugal. No s&aacute;bado, 25 de maio 2019 foi inaugurado mais um Comit&ecirc; Lula Livre em Fortaleza, no Cear&aacute;.</p>
 
