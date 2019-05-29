@@ -1,6 +1,10 @@
 ---
 date: "2019-05-29T11:02:20-03:00"
-tags: []
+tags:
+  - tag: arte-e-cultura
+  - tag: documentário
+  - tag: educação-no-campo
+  - tag: venezuela
 title: Documentário mostra experiência de escola de formação na Venezuela
 support_line: "Produção \"Semillas, sueños y contradicciones. La otra vida de Apolonio de Carvalho en Venezuela\" está disponível pela TV Terra"
 menu: "educação, cultura e comunicação"
@@ -16,7 +20,12 @@ files:
     $$hashKey: "030"
 created_date: "2019-05-29T11:21:47-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2019/04/2019-04-25-escola-do-campo-proporciona-uma-educacao-libertadora.md
+  - _posts/2019/01/2019-01-21-movimentos-populares-rechacam-posicao-do-brasil-sobre-a-venezuela.md
+  - _posts/2019/02/2019-02-22-em-minas-gerais-sem-terra-realizam-ato-pelo-direito-a-educacao-do-campo.md
+  - _posts/2019/01/2019-01-27-mst-manifesta-apoio-ao-povo-venezuelano.md
+  - _posts/2019/02/2019-02-01-rs-realiza-ato-unitario-pela-autodeterminacao-do-povo-venezuelano.md
 
 ---
 <p><br />
