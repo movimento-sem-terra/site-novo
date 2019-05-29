@@ -54,26 +54,22 @@ releated_posts:
 </figure>
 </div>
 
-<p>&nbsp;
 <p><br />
 <em>Por Catiana de Medeiros<br />
 Da P&aacute;gina do MST</em></p>
-</p>
 
 <p><br />
 A Associa&ccedil;&atilde;o de Produtores Ecol&oacute;gicos Conquista da Liberdade (Apecol) realizou nesta quarta-feira (29) a 5&ordf; Feira do Feij&atilde;o Org&acirc;nico de Piratini, na regi&atilde;o Sul do Rio Grande do Sul. O evento aconteceu na Pra&ccedil;a In&aacute;cia Machado, no centro da cidade, e teve a participa&ccedil;&atilde;o de representantes dos poderes executivo e legislativo municipal, da Empresa Brasileira de Pesquisa Agropecu&aacute;ria (Embrapa) e da Empresa de Assist&ecirc;ncia T&eacute;cnica e Extens&atilde;o Rural (Emater), al&eacute;m de deputados, estudantes e produtores de alimentos org&acirc;nicos.</p>
 
-<figure class="image" style="float:left"><img alt="Foto Marcos Corbari 8.jpeg" height="146" src="//farm66.staticflickr.com/65535/47960549261_bf0cc667be_b.jpg" width="300" />
-<figcaption><em>Cerca de 60 variedades de sementes de<br />
-feij&atilde;o foram apresentadas. Foto: Marcos Corbari</em></figcaption>
+<figure class="image" style="float:left"><img alt="Foto Marcos Corbari 8.jpeg" height="143" src="//farm66.staticflickr.com/65535/47960549261_bf0cc667be_b.jpg" width="293" />
+<figcaption><em>60 variedades de sementes de feij&atilde;o<br />
+foram apresentadas. Foto: Marcos Corbari</em></figcaption>
 </figure>
 
+<p>Nesta edi&ccedil;&atilde;o da feira houve exposi&ccedil;&atilde;o e comercializa&ccedil;&atilde;o de cerca de 60 variedades de sementes crioulas de feij&atilde;o, entre elas irai, carioca vermelho, branco, amendoim, mourinho, expedito, macanudo e guapo brilhante. A produ&ccedil;&atilde;o, que possui certifica&ccedil;&atilde;o org&acirc;nica, &eacute; de 17 fam&iacute;lias ligadas &agrave; Apecol&nbsp; e ao Movimento dos Trabalhadores Rurais Sem Terra (MST), que vivem nos assentamentos Conquista da Liberdade e Conquista da Luta, no interior de Piratini.</p>
+
 <p><br />
-Nesta edi&ccedil;&atilde;o da feira houve exposi&ccedil;&atilde;o e comercializa&ccedil;&atilde;o de cerca de 60 variedades de sementes crioulas de feij&atilde;o, entre elas irai, carioca vermelho, branco, amendoim, mourinho, expedito, macanudo e guapo brilhante. A produ&ccedil;&atilde;o, que possui certifica&ccedil;&atilde;o org&acirc;nica, &eacute; de 17 fam&iacute;lias ligadas &agrave; Apecol&nbsp; e ao Movimento dos Trabalhadores Rurais Sem Terra (MST), que vivem nos assentamentos Conquista da Liberdade e Conquista da Luta, no interior de Piratini.</p>
-
-<p>&nbsp;</p>
-
-<p>Na abertura do evento, Jos&eacute; Gabriel Ven&acirc;ncio, presidente da Apecol, explicou que organizar a 5&ordf; Feira do Feij&atilde;o Org&acirc;nico n&atilde;o foi um desafio para as fam&iacute;lias, mas sim um prazer. &ldquo;Quem produz alimentos saud&aacute;veis, org&acirc;nicos, produz com alegria, com sabedoria e prazer, porque t&aacute; produzido sa&uacute;de para a comunidade. &Eacute; isso o que nos move&rdquo;, argumentou.</p>
+Na abertura do evento, Jos&eacute; Gabriel Ven&acirc;ncio, presidente da Apecol, explicou que organizar a 5&ordf; Feira do Feij&atilde;o Org&acirc;nico n&atilde;o foi um desafio para as fam&iacute;lias, mas sim um prazer. &ldquo;Quem produz alimentos saud&aacute;veis, org&acirc;nicos, produz com alegria, com sabedoria e prazer, porque t&aacute; produzido sa&uacute;de para a comunidade. &Eacute; isso o que nos move&rdquo;, argumentou.</p>
 
 <p><br />
 Quem passou por l&aacute; p&ocirc;de conferir a diversidade de produtos da Reforma Agr&aacute;ria. As bancas tiveram sementes de hortali&ccedil;as agroecol&oacute;gicas, rapaduras, cucas, bolachas, doces, chimias, geleias, queijos, torresmo, sucos, banha, entre outros alimentos. Ao meio dia foram servidas tr&ecirc;s tipos de feijoada &mdash; tradicional, com feij&atilde;o branco e com feij&atilde;o vermelho &mdash;, no Galp&atilde;o de Rondas do CTG 20 de Setembro.</p>
