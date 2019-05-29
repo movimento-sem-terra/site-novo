@@ -32,7 +32,12 @@ files:
     $$hashKey: 03E
 created_date: "2019-05-29T10:56:53-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/11/2018-11-19-mst-forma-18-tecnicos-em-agropecuaria-com-habilitacao-em-agroecologia.md
+  - _posts/2019/03/2019-03-16-a-grande-festa-da-colheita.md
+  - _posts/2019/03/2019-03-14-conheca-a-maior-producao-de-arroz-organico-da-america-latina-do-mst.md
+  - _posts/2019/03/2019-03-09-mulheres-discutem-feminicidio-violencia-e-direitos-reprodutivos-em-porto-alegre.md
+  - _posts/2019/01/2019-01-31-teatro-politico-estuda-a-vida-da-sem-terra-roseli-nunes.md
 
 ---
 <div style="text-align:center">
