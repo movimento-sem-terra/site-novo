@@ -56,10 +56,11 @@ releated_posts:
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/b6l4nYsQjVI" width="640"></iframe></p>
 
 <p><br />
+<br />
 <em>Do site Lula Livre</em></p>
 
 <p><br />
-Pra&ccedil;as, feiras, ruas e parques em todo o Brasil foram ocupadas neste s&aacute;bado e domingo por . Grupos levaram para a popula&ccedil;&atilde;o jornais, v&iacute;deos, entrevistas, fotos entre v&aacute;rios outros materiais para defender a liberdade de Lula. Previsto inicialmente para acontecer somente no domingo 26, o evento foi ampliado para o s&aacute;bado, dia 25, sendo que em v&aacute;rias cidades as atividades se estende ao longo da semana. (<a href="https://lulalivre.org.br/comites-de-todo-o-brasil-preparam-o-mutirao-lula-livre/">confira a programa&ccedil;&atilde;o</a>).<br />
+Pra&ccedil;as, feiras, ruas e parques em todo o Brasil foram ocupadas neste s&aacute;bado e domingo por&nbsp;grupos levaram para a popula&ccedil;&atilde;o jornais, v&iacute;deos, entrevistas, fotos entre v&aacute;rios outros materiais para defender a liberdade de Lula. Previsto inicialmente para acontecer somente no domingo 26, o evento foi ampliado para o s&aacute;bado, dia 25, sendo que em v&aacute;rias cidades as atividades se estende ao longo da semana. (<a href="https://lulalivre.org.br/comites-de-todo-o-brasil-preparam-o-mutirao-lula-livre/">confira a programa&ccedil;&atilde;o</a>).<br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Lula Livre[2].jpeg" height="225" src="//farm66.staticflickr.com/65535/47953786522_a9334bd467_b.jpg" width="300" />
