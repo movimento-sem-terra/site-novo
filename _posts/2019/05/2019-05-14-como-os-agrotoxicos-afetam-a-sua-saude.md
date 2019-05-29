@@ -70,7 +70,7 @@ Da P&aacute;gina do MST</em><br />
 <p>Desde 2018, o Brasil &eacute; o maior consumidor mundial de agrot&oacute;xicos. O Comit&ecirc; T&eacute;cnico para Assessoramento de Agrot&oacute;xico (CTA), respons&aacute;vel por emitir a autoriza&ccedil;&atilde;o para a circula&ccedil;&atilde;o destes venenos, confirma que a lista para a aprova&ccedil;&atilde;o&nbsp;&eacute; 80% maior que no ano passado.</p>
 
 <p><br />
-Essa aprova&ccedil;&atilde;o &eacute; feita por ordem cronol&oacute;gica ou por &ldquo;emerg&ecirc;ncia&rdquo;- em m&eacute;dia mensal. A m&eacute;dia de 20 novos agrot&oacute;xicos por ano passou a ser de 17 por dia. O recorde de pedidos e aprova&ccedil;&otilde;es mostra a for&ccedil;a do agroneg&oacute;cio no Brasil, que tem como finalidade&nbsp;agradar os interesses corporativos.<br />
+Essa aprova&ccedil;&atilde;o &eacute; feita por ordem cronol&oacute;gica ou por &ldquo;emerg&ecirc;ncia&rdquo;- em m&eacute;dia mensal. A m&eacute;dia de 20 novos agrot&oacute;xicos por ano passou a ser de duas semanas. O recorde de pedidos e aprova&ccedil;&otilde;es mostra a for&ccedil;a do agroneg&oacute;cio no Brasil, que tem como finalidade&nbsp;agradar os interesses corporativos.<br />
 <br />
 <br />
 Mas qual o verdadeiro impacto disso em nossa sa&uacute;de?</p>
