@@ -7,7 +7,7 @@ tags:
 title: Os agrotóxicos e a sua saúde
 support_line: Você sabe como a aprovação de dezenas de agrotóxicos está relacionada a sua saúde?
 menu: agronegócio
-section: featured-news
+section: null
 images_hd: //farm66.staticflickr.com/65535/47799203202_6cbc91613c_b.jpg
 layout: post
 files:
