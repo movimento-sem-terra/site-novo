@@ -58,7 +58,7 @@ releated_posts:
   - _posts/2019/03/2019-03-29-so-quem-e-militante-consegue-entender-a-solidariedade-entre-os-povos.md
 label: special-stories
 sector: education
-section: cover
+section: null
 
 ---
 <div style="text-align:center">
