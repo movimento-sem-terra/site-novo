@@ -26,6 +26,7 @@ releated_posts:
   - _posts/2019/02/2019-02-22-em-minas-gerais-sem-terra-realizam-ato-pelo-direito-a-educacao-do-campo.md
   - _posts/2019/01/2019-01-27-mst-manifesta-apoio-ao-povo-venezuelano.md
   - _posts/2019/02/2019-02-01-rs-realiza-ato-unitario-pela-autodeterminacao-do-povo-venezuelano.md
+section: featured-news
 
 ---
 <p><br />
