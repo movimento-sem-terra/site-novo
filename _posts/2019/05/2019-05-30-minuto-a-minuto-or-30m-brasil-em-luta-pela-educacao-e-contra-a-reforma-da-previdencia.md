@@ -45,4 +45,10 @@ Mais de um milh&atilde;o de pessoas sa&iacute;ram &agrave;s ruas em defesa da Ed
 &nbsp;</p>
 </section>
 
-<p><a class="twitter-timeline" href="https://twitter.com/Brasil_de_Fato/timelines/1133793093944324096?ref_src=twsrc%5Etfw">#30M Luta da Educa&ccedil;&atilde;o - Curated tweets by Brasil_de_Fato</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p><a class="twitter-timeline" href="https://twitter.com/Brasil_de_Fato/timelines/1133793093944324096?ref_src=twsrc%5Etfw" target="twittercomBrasil_de_Fatotimelines1133793093944324096ref_srctwsrc5Etfw">#30M Luta da Educa&ccedil;&atilde;o - Curated tweets by Brasil_de_Fato</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
