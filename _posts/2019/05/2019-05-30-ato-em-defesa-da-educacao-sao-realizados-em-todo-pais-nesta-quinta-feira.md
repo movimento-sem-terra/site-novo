@@ -5,7 +5,7 @@ tags:
   - tag: educação
   - tag: manifestação
 images_hd: //farm66.staticflickr.com/65535/47966090792_e3506d0e45_b.jpg
-title: "Ato em defesa da educação são realizados em todo país nesta quinta-feira "
+title: "Atos em defesa da educação são realizados em todo país nesta quinta-feira "
 support_line: "24 capitais confirmaram mobilizações ao longo do dia "
 menu: lutas e mobilizações
 layout: post
