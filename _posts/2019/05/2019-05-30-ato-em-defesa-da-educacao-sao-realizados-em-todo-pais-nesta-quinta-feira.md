@@ -68,6 +68,7 @@ releated_posts:
   - _posts/2019/05/2019-05-30-minuto-a-minuto-or-30m-brasil-em-luta-pela-educacao-e-contra-a-reforma-da-previdencia.md
   - _posts/2019/03/2019-03-24-milhares-de-pessoas-tomam-as-ruas-do-pais-contra-o-desmonte-da-previdencia.md
   - _posts/2019/04/2019-04-23-mais-de-um-ano-depois-vigilia-lula-livre-segue-sendo-a-base-de-apoio-do-ex-presidente-lula-em-curitiba.md
+section: cover
 
 ---
 <p style="text-align:center"><img alt="WhatsApp Image 2019-05-30 at 15.25.12.jpeg" height="500" src="//farm66.staticflickr.com/65535/47967134917_420784835a_b.jpg" width="500" /></p>
