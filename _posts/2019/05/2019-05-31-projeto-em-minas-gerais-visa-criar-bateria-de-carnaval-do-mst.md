@@ -3,7 +3,7 @@ date: "2019-05-31T15:05:14-03:00"
 tags:
   - tag: carnaval
 title: Projeto em Minas Gerais visa criar bateria de Carnaval do MST
-support_line: Campanha busca estabelecer uma bateria própria do MST em Minas Gerais
+support_line: "Ideia é de Gustavo Caetano, que dará aulas nos acampamentos Pátria Livre, Zequinha e Maria da Conceição, em MG."
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/47973817896_ccc16f3dcd_b.jpg
 layout: post
