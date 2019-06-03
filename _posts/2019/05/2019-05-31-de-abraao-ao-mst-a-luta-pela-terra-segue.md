@@ -54,10 +54,12 @@ releated_posts:
 </figure>
 </div>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p><em>Por Fernanda Almeida e Paulo Rog&eacute;rio<br />
 Da P&aacute;gina do MST</em></p>
-</p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -74,7 +76,7 @@ O Frei usou a passagem de Abra&atilde;o em G&ecirc;nesis e de Mois&eacute;s em &
 Nas suas coloca&ccedil;&otilde;es ele destacou a necessidade da luta e da resist&ecirc;ncia e tamb&eacute;m falou da dificuldade dos personagens b&iacute;blicos, assim como as nossas na milit&acirc;ncia e na luta pela terra: &ldquo;O MST &eacute; reconhecido mundialmente por lutar pela terra&rdquo;, destacou o Frei.</p>
 
 <p><br />
-Ap&oacute;s a palestra houve o debate sobre a Reforma Agr&aacute;ria no Brasil, no qual foram abordados temas como o direito pela terra e as persegui&ccedil;&otilde;es sofridas pelos movimentos sociais: &quot;Assim como voc&ecirc;s, tamb&eacute;m venho sofrendo certas persegui&ccedil;&atilde;o por ter uma vis&atilde;o mais progressista&rdquo;, afirmou.</p>
+Ap&oacute;s a palestra houve o debate sobre a Reforma Agr&aacute;ria no Brasil, no qual foram abordados temas como o direito pela terra e as persegui&ccedil;&otilde;es sofridas pelos movimentos sociais: &quot;Assim como voc&ecirc;s, tamb&eacute;m venho sofrendo certas persegui&ccedil;&otilde;es por ter uma vis&atilde;o mais progressista&rdquo;, afirmou.</p>
 
 <p><br />
 O Espa&ccedil;o Marielle Vive faz parte da Vig&iacute;lia Lula Livre, localizado a 70 metros da Superintend&ecirc;ncia da Pol&iacute;cia Federal, onde o ex-presidente Lula &eacute; mantido preso pol&iacute;tico desde o dia 7 de abril de 2018.</p>
