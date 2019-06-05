@@ -2,7 +2,7 @@
 date: "2019-06-05T11:59:48-03:00"
 tags:
   - tag: educação-do-campo
-title: Encontro de Educadores da região sul dialoga sobre agroecologia e literatura nas escolas
+title: Encontro de Educadores debate agroecologia e literatura nas escolas
 support_line: Debate estimula da implementação do projeto pedagógico para as escolas do campo
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/48007898593_9c051a2bfc_b.jpg
@@ -34,15 +34,17 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="LRM_EXPORT_32192731793284_20190603_103424526.jpeg" height="496" src="//farm66.staticflickr.com/65535/48007898593_9c051a2bfc_b.jpg" width="700" />
-<figcaption><em>Encontro foi realizado no Instituto Josu&eacute; de Castro, em Veran&oacute;polis (RS) - Fotos: Coletivo de comunica&ccedil;&atilde;o do MST em SC</em></figcaption>
+<figcaption><em>Encontro foi realizado no Instituto Josu&eacute; de Castro, em Veran&oacute;polis (RS). Fotos: Coletivo de comunica&ccedil;&atilde;o do MST em SC</em></figcaption>
 </figure>
 </div>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p><em>Por Coletivo de comunica&ccedil;&atilde;o do MST em Santa Catarina<br />
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
-</p>
+
+<p>&nbsp;</p>
 
 <p>Entre os dias 29 de maio e 02 de junho, cerca de 70 educadores e educadoras das &aacute;reas de reforma agr&aacute;ria da regi&atilde;o sul se reuniram no Instituto Josu&eacute; de Castro, em Veran&oacute;polis (RS). A forma&ccedil;&atilde;o continuada &eacute; parte fundamental para implementa&ccedil;&atilde;o do projeto pedag&oacute;gico para as escolas do campo.<br />
 &nbsp;</p>
@@ -62,7 +64,7 @@ Levantou-se tamb&eacute;m como tema a qualifica&ccedil;&atilde;o precarizada dos
 <p>As escolas presentes relataram que h&aacute; muito desenvolvem experi&ecirc;ncias para dialogar sobre alimenta&ccedil;&atilde;o saud&aacute;vel. Elas, entendem que a rela&ccedil;&atilde;o entre teoria e pr&aacute;tica &eacute; fundamental e que &eacute; diferente construir uma horta com fins de forma&ccedil;&atilde;o de um t&eacute;cnico e com finalidade de trabalhar conte&uacute;dos junto a disciplinas e potencializar uma rela&ccedil;&atilde;o diferenciada com a natureza.</p>
 
 <figure class="image" style="float:left"><img alt="LRM_EXPORT_32277760584671_20190603_103549555.jpeg" height="202" src="//farm66.staticflickr.com/65535/48007887351_b4fe059a57_b.jpg" width="300" />
-<figcaption><em>Agroecologia foi um dos assuntos debatidos</em></figcaption>
+<figcaption><em>Agroecologia foi um dos assuntos debatidos.</em></figcaption>
 </figure>
 
 <p><br />
@@ -77,6 +79,8 @@ Marcos Gehrke, professor da Universidade Estadual do Centro do Paran&aacute; (Un
 <p>E continuou, &ldquo;a escola deveria ser a casa da leitura e da escrita, ensinar as crian&ccedil;as e adolescentes a escrever, construir livros coletivamente, com os estudantes, com a comunidade. E a biblioteca deve conter essas produ&ccedil;&otilde;es, deve ser um lugar bonito, vivo, ocupado e constru&iacute;do coletivamente. Assim, o h&aacute;bito da leitura e da escrita podem se tornar algo prazeroso, parte da vida cotidiana. Construir a biblioteca e assegurar o direito a literatura no campo &eacute; a proposta de uma escola como lugar de produ&ccedil;&atilde;o e sistematiza&ccedil;&atilde;o de conhecimento&rdquo;.<br />
 &nbsp;</p>
 
-<p>Os educadores e educadoras presentes sa&iacute;ram renovados do encontro e se comprometeram a continuar construindo as escolas do campo junto as comunidades do campo, numa rela&ccedil;&atilde;o direta entre escola e vida, desde a rela&ccedil;&atilde;o com o concreto da agroecologia, at&eacute; a subjetividade presente na rela&ccedil;&atilde;o com a literatura.<br />
-<br />
-<em>*Editado por Fernanda Alc&acirc;ntara </em></p>
+<p>Os educadores e educadoras presentes sa&iacute;ram renovados do encontro e se comprometeram a continuar construindo as escolas do campo junto as comunidades do campo, numa rela&ccedil;&atilde;o direta entre escola e vida, desde a rela&ccedil;&atilde;o com o concreto da agroecologia, at&eacute; a subjetividade presente na rela&ccedil;&atilde;o com a literatura.</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Fernanda Alc&acirc;ntara </em></p>
