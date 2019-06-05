@@ -75,16 +75,13 @@ E, neste dia Mundial do Meio Ambiente separamos algumas declara&ccedil;&otilde;e
 
 <p>&nbsp;</p>
 
-<p style="text-align:center"><img alt="WhatsApp Image 2019-06-05 at 14.15.01.jpeg" height="700" src="//farm66.staticflickr.com/65535/48009174738_82e0e56720_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-06-05 at 14.15.01.jpeg" height="600" src="//farm66.staticflickr.com/65535/48009174738_82e0e56720_b.jpg" width="600" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><em>*Todas as declara&ccedil;&otilde;es foram retiradas do perfil oficial do ministro no Twitter&nbsp;</em></p>
-
-<p>&nbsp;</p>
-
-<p style="margin-bottom: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 100%; orphans: 2; widows: 2">&nbsp;</p>
+<p><em>*Todas as declara&ccedil;&otilde;es foram retiradas do perfil oficial do ministro no Twitter&nbsp;<br />
+**Editado por Fernanda Alc&acirc;ntara</em></p>
