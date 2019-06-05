@@ -4,8 +4,8 @@ tags:
   - tag: reforma-agrária-popular
   - tag: quintais-produtivos
   - tag: nordeste
-title: Quintais produtivos fortalecem qualidade de vida nos assentamentos do semiárido
-support_line: "No Dia Mundial do Meio Ambiente e como parte da campanha “Agroecologia é o Caminho”, assentados da Reforma Agrária apontam os benefícios dos quintais produtivos no Nordeste"
+title: Quintais produtivos e agroecologia no semiárido
+support_line: "No Dia Mundial do Meio Ambiente e como parte da campanha “Agroecologia é o Caminho”, assentados falam sobre quintais produtivos no Nordeste"
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48009399971_77a5ee0d98_b.jpg
 section: featured-news
@@ -49,22 +49,22 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-06-05 at 11.51.43.jpeg" height="933" src="//farm66.staticflickr.com/65535/48009407918_7ef498d20f_b.jpg" width="700" />
-<figcaption><em>Quintais produtivos: experi&ecirc;ncias comprovam os &ecirc;xitos e benef&iacute;cios - Fotos:&nbsp;Divulga&ccedil;&atilde;o MST/Cear&aacute;</em></figcaption>
+<figcaption><em>Quintais produtivos: experi&ecirc;ncias comprovam os &ecirc;xitos e benef&iacute;cios. Foto:&nbsp;Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 </div>
 
 <p><br />
-<em>Aline Oliveira e Solange Engelmann<br />
+<em>Por Aline Oliveira e Solange Engelmann<br />
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <p>&ldquo;A gente se organiza atrav&eacute;s dos quintais produtivos, produzindo v&aacute;rios produtos para garantir alimenta&ccedil;&atilde;o saud&aacute;vel das fam&iacute;lias, livre de agrot&oacute;xicos, pra gente poder ter uma sa&uacute;de de melhor qualidade e tamb&eacute;m melhorar a nossa renda&rdquo;. O depoimento &eacute; da assentada da reforma agr&aacute;ria do Cear&aacute;, Izabel Santos de Souza, de 61 anos, que vive no Assentamento Monte Alegre, no munic&iacute;pio de Tamburi.</p>
 
 <p><br />
-Neste Dia Mundial do Meio Ambiente, comemorado nesta quarta-feira (05), como parte da Campanha Agroecologia &eacute; o Caminho, experi&ecirc;ncias comprovam os &ecirc;xitos e benef&iacute;cios dos quintais produtivos na melhoria da renda, na qualidade de vida e na massifica&ccedil;&atilde;o da Agroecologia em assentamentos de reforma agr&aacute;ria do Nordeste.</p>
+Neste Dia Mundial do Meio Ambiente, comemorado nesta quarta-feira (05), como parte da Campanha Agroecologia &eacute; o Caminho, experi&ecirc;ncias comprovam os &ecirc;xitos e benef&iacute;cios dos quintais produtivos na melhoria da renda, na qualidade de vida e na massifica&ccedil;&atilde;o da agroecologia em assentamentos de reforma agr&aacute;ria do Nordeste.</p>
 
 <figure class="image" style="float:right"><img alt="WhatsApp Image 2019-06-05 at 11.51.42.jpeg" height="400" src="//farm66.staticflickr.com/65535/48009487997_b9e88dbf81_b.jpg" width="300" />
-<figcaption></figcaption>
+<figcaption><em>Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 
 <p><br />
@@ -74,7 +74,9 @@ Izabel conta que existiu um movimento para melhorar a qualidade de vida das 30 f
 A assentada mant&eacute;m um quintal produtivo em sua casa e explica que &eacute; comum entre a maioria das fam&iacute;lias no assentamento Monte Alegre. Neles, s&atilde;o produzidos mam&atilde;o, banana, acerola, goiaba, maracuj&aacute;, tangerina, caju, coqueiro, macaxeira (mandioca), cebola, coentro, tomate, piment&atilde;o, pimentinha de cheiro, ab&oacute;bora, batata doce, al&eacute;m da cria&ccedil;&atilde;o de pequenas aves, caprinocultura, ovinocultura, bovinocultura e suinocultura.</p>
 
 <p><br />
-Al&eacute;m da entrega dos produtos em programas sociais, as fam&iacute;lias assentadas comercializam a produ&ccedil;&atilde;o diretamente ao consumidor, em feiras da regi&atilde;o. Eles tamb&eacute;m est&atilde;o se organizando por meio de uma cooperativa dos assentados para buscar melhores alternativas de com&eacute;rcio e pre&ccedil;os.<br />
+Al&eacute;m da entrega dos produtos em programas sociais, as fam&iacute;lias assentadas comercializam a produ&ccedil;&atilde;o diretamente ao consumidor, em feiras da regi&atilde;o. Eles tamb&eacute;m est&atilde;o se organizando por meio de uma cooperativa dos assentados para buscar melhores alternativas de com&eacute;rcio e pre&ccedil;os.</p>
+
+<p><br />
 Os quintais produtivos s&atilde;o parte de uma pol&iacute;tica p&uacute;blica para o campo em disputa no momento com o governo federal, bem como as pol&iacute;ticas da Reforma Agr&aacute;ria que foram totalmente paralisadas por Bolsonaro. Os espa&ccedil;os integram projetos de conviv&ecirc;ncia dos camponeses assentados com o semi&aacute;rido, que tem como foco o desenvolvimento de pequenas &aacute;reas de sustento das fam&iacute;lias em volta de suas casas.</p>
 
 <p><br />
@@ -84,7 +86,7 @@ O integrante do setor de Produ&ccedil;&atilde;o do MST no Cear&aacute; e Tecn&oa
 &ldquo;Os quintais produtivos e agroecol&oacute;gicos s&atilde;o o caminho para valoriza&ccedil;&atilde;o da terra, do sustento, da vida das fam&iacute;lias que se envolvem no processo e na constru&ccedil;&atilde;o da sustentabilidade e soberania alimentar para os povos&rdquo;, defende Cassund&eacute;.</p>
 
 <figure class="image" style="float:left"><img alt="WhatsApp Image 2019-06-05 at 11.51.44 (1).jpeg" height="400" src="//farm66.staticflickr.com/65535/48009488007_e4392d6c57_b.jpg" width="300" />
-<figcaption></figcaption>
+<figcaption><em>Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 
 <p><br />
