@@ -131,7 +131,7 @@ Atualmente, e segundo Luciana Frozi, integrante da Brigada Nacional de Teatro, o
 E continua: &ldquo;Sa&iacute;mos com o desafio de cada vez mais construir um fazer teatral ligado a estrat&eacute;gia do MST, no trabalho nos nossos acampamentos, assentamentos, escolas e na constru&ccedil;&atilde;o das rela&ccedil;&otilde;es com a sociedade, somando-se as lutas da classe trabalhadora, contra a propriedade privada e as a&ccedil;&otilde;es do capital&rdquo;, enfatizou.</p>
 
 <p><br />
-Ademais, segue sendo centralidade da Patativa, de acordo com Frozi, a necessidade que a linguagem teatral seja apropriada pelas camponesas e camponeses. Ela pontua que essa forma de formar, educar e conscientizar, precisa ocupar e disputar os territ&oacute;rios, estando a servi&ccedil;o da transforma&ccedil;&atilde;o social.</p>
+Por fim, segue sendo centralidade da Patativa, de acordo com Frozi, a necessidade que a linguagem teatral seja apropriada pelas camponesas e camponeses. Ela pontua que essa forma de formar, educar e conscientizar, precisa ocupar e disputar os territ&oacute;rios, estando a servi&ccedil;o da transforma&ccedil;&atilde;o social.</p>
 
 <p>&nbsp;</p>
 
