@@ -41,7 +41,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="LRM_EXPORT_148140537700355_20190604_161017787.jpeg" height="525" src="//farm66.staticflickr.com/65535/48014646968_bed9a85dc2_b.jpg" width="700" />
-<figcaption><em>Centro Cuturarte recebe sete escolas da regi&atilde;o de Ariquemes (RO), universidades e institutos, Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+<figcaption><em>Centro Cuturarte recebe sete escolas da regi&atilde;o de Ariquemes (RO), universidades e institutos. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 </div>
 
