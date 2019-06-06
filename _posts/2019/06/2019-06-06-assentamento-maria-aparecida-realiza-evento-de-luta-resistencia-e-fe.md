@@ -38,6 +38,13 @@ files:
     small: //farm66.staticflickr.com/65535/48014521948_cd60597ce4_n.jpg
     title: 47988514552_60d18e4a1e_o.jpg
     $$hashKey: 08S
+  - link: //farm66.staticflickr.com/65535/48014630233_0d46a551ae_b.jpg
+    original: //farm66.staticflickr.com/65535/48014630233_c5d405ff53_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48014630233_0d46a551ae_t.jpg
+    medium: //farm66.staticflickr.com/65535/48014630233_0d46a551ae_z.jpg
+    small: //farm66.staticflickr.com/65535/48014630233_0d46a551ae_n.jpg
+    title: 47985994978_1e89e85eba_k.jpg
+    $$hashKey: 0JM
 created_date: "2019-06-06T15:00:54-03:00"
 published: true
 releated_posts:
@@ -50,8 +57,8 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="47985833447_124f9436c7_k.jpg" height="467" src="//farm66.staticflickr.com/65535/48014505876_58fba3d56b_b.jpg" width="700" />
-<figcaption>Preparativos paramento Maria evento no acampa</figcaption>
+<figure class="image" style="display:inline-block"><img alt="47985994978_1e89e85eba_k.jpg" height="467" src="//farm66.staticflickr.com/65535/48014630233_0d46a551ae_b.jpg" width="700" />
+<figcaption>Ato foi realizado no assentamento Maria Aparecida, no Rio Grande do Norte - Fotos: Matheus Mendes</figcaption>
 </figure>
 </div>
 
