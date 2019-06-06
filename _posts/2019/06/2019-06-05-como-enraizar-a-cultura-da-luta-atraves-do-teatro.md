@@ -50,7 +50,8 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_5778.JPG" height="393" src="//farm66.staticflickr.com/65535/48010473202_303e409bac_b.jpg" width="700" />
-<figcaption><em>Diversas oficinas e atividades teatrais impulsionaram a Resid&ecirc;ncia Art&iacute;stica. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+<figcaption><em>Diversas oficinas e atividades teatrais impulsionaram a Resid&ecirc;ncia Art&iacute;stica.<br />
+Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 </div>
 
@@ -70,7 +71,7 @@ Esses foram os principais objetivos da Resid&ecirc;ncia Art&iacute;stica da Brig
 A inciativa &eacute; um processo constru&iacute;do pelo Coletivo Nacional de Cultura do MST e est&aacute; vinculada ao processo de enraizamento do Programa Cultural do MST, que &eacute; a Reforma Agr&aacute;ria Popular, tendo como base, o princ&iacute;pio de desenvolver nos territ&oacute;rios a possibilidade de toda e todo Sem Terra fazer arte.&nbsp;</p>
 
 <p><br />
-Nesse sentido, os dez dias de trabalho, envolveu muito estudo a cerca dos processos hist&oacute;ricos de disputa cultural, com o objetivo de reafirmar o princ&iacute;pio que o MST aprendeu com Augusto Boal, importante dramaturgo brasileiro, no qual dizia que: &ldquo;o teatro &eacute; uma arma e &eacute; o povo que deve manej&aacute;-la&rdquo;.</p>
+Nesse sentido, os dez dias de trabalho, envolveu muito estudo acerca dos processos hist&oacute;ricos de disputa cultural, com o objetivo de reafirmar o princ&iacute;pio que o MST aprendeu com Augusto Boal, importante dramaturgo brasileiro, no qual dizia que: &ldquo;o teatro &eacute; uma arma e &eacute; o povo que deve manej&aacute;-la&rdquo;.</p>
 
 <p><br />
 <strong>Enraizamento</strong></p>
@@ -115,7 +116,7 @@ Com isso, alguns desafios se apresentam, entre eles, a compreens&atilde;o dessa 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_5592.JPG" height="400" src="//farm66.staticflickr.com/65535/48010468632_46288d24f9_b.jpg" width="600" />
-<figcaption><em>Segundo Jobson Passos foram dias de partilha, debate, viv&ecirc;ncia e de intensa comunh&atilde;o.<br />
+<figcaption><em>Jobson Passos diz que foram dias de partilha, debate, viv&ecirc;ncia e de intensa comunh&atilde;o.<br />
 Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 </div>
