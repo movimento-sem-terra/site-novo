@@ -1,6 +1,7 @@
 ---
 date: "2019-06-05T20:52:56-03:00"
-tags: []
+tags:
+  - tag: arte-e-cultura
 title: Como enraizar a cultura da luta através do teatro?
 support_line: "Em dez dias de estudo e trabalho, MST realiza Residência Artística da Brigada Nacional de Teatro Patativa do Assaré"
 menu: "educação, cultura e comunicação"
@@ -38,11 +39,20 @@ files:
     title: IMG_5832.JPG
     $$hashKey: 0IP
 created_date: "2019-06-05T21:06:20-03:00"
-published: false
-releated_posts: []
+published: true
+releated_posts:
+  - _posts/2019/05/2019-05-02-mst-realiza-3a-semana-sociocultural-da-reforma-agraria-em-atalaia.md
+  - _posts/2019/04/2019-05-01-um-beijo-infinito-para-madrinha-de-todos-nos.md
+  - _posts/2019/05/2019-05-08-manuela-d-avila-lanca-revolucao-laura-no-armazem-do-campo-sp.md
+  - _posts/2019/05/2019-05-09-editora-expressao-popular-lanca-livro-sobre-a-importancia-da-preservacao-de-sementes.md
+  - _posts/2019/05/2019-05-14-o-13-de-maio-de-lima-barreto-o-grande-romancista-popular.md
 
 ---
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG_5778.JPG" height="393" src="//farm66.staticflickr.com/65535/48010473202_303e409bac_b.jpg" width="700" />
+<figcaption><em>Diversas oficinas e atividades teatrais impulsionaram a Resid&ecirc;ncia Art&iacute;stica. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
@@ -71,6 +81,11 @@ Ao construir pontes entre a teoria e a pr&aacute;tica, durante a Resid&ecirc;nci
 <p><br />
 Foram realizadas oficinas com crian&ccedil;as, jovens e adultos de v&aacute;rias idades, que se envolveram com muita disposi&ccedil;&atilde;o, em um encontro da linguagem teatral como m&eacute;todo e educa&ccedil;&atilde;o dos sentidos.</p>
 
+<figure class="image" style="float:right"><img alt="IMG_5832.JPG" height="534" src="//farm66.staticflickr.com/65535/48010473967_2fa0a8cca3_b.jpg" width="300" />
+<figcaption><em>M&iacute;stica realizada durante os estudos.<br />
+Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+</figure>
+
 <p><br />
 De acordo com Nieves Rodrigues, do setor de frente de massa, comunica&ccedil;&atilde;o e direitos humanos do MST no Par&aacute;, ir &agrave;s &aacute;reas foi desafiante, porque entre aprender e multiplicar h&aacute; muita responsabilidade, mas, al&eacute;m disso, &eacute; muito interessante as possibilidades que &eacute; poss&iacute;vel desenvolver nos territ&oacute;rios.&nbsp;</p>
 
@@ -97,6 +112,13 @@ Nesse processo foram formados no Brasil 40 grupos de teatro do MST, envolvidos n
 
 <p><br />
 Com isso, alguns desafios se apresentam, entre eles, a compreens&atilde;o dessa linguagem como um importante instrumento de agita&ccedil;&atilde;o, forma&ccedil;&atilde;o da consci&ecirc;ncia, di&aacute;logo com a sociedade e ac&uacute;mulo de for&ccedil;as.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG_5592.JPG" height="400" src="//farm66.staticflickr.com/65535/48010468632_46288d24f9_b.jpg" width="600" />
+<figcaption><em>Segundo Jobson Passos foram dias de partilha, debate, viv&ecirc;ncia e de intensa comunh&atilde;o.<br />
+Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+</figure>
+</div>
 
 <p><br />
 Atualmente, e segundo Luciana Frozi, integrante da Brigada Nacional de Teatro, o trabalho da Patativa no pr&oacute;ximo per&iacute;odo est&aacute; diretamente ligado ao processo de enraizamento do Programa Cultural do MST.</p>
