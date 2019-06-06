@@ -4,7 +4,7 @@ tags:
   - tag: Rondonia
   - tag: educação-do-campo
 title: Semana do Meio Ambiente mobiliza escolas em Rondônia
-support_line: Escolas do campo debatem a relação do ser humano com a natureza
+support_line: Estudantes realizam atividades no campo da arte e cultura
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/48014646968_bed9a85dc2_b.jpg
 layout: post
