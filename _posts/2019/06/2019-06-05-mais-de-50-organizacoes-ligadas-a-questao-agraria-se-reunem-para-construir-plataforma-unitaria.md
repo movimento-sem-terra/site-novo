@@ -7,7 +7,7 @@ tags:
 title: Mais de 50 organizações ligadas à questão agrária se reúnem para construir plataforma unitária
 support_line: Seminário propõe agenda unificada de construção entre os dias 6 e 8 de junho
 menu: lutas e mobilizações
-section: cover
+section: null
 images_hd: //farm66.staticflickr.com/65535/48009457536_f576d4b3d0_b.jpg
 layout: post
 files:
