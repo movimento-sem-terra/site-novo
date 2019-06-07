@@ -58,7 +58,7 @@ Da P&aacute;gina do MST</em></p>
 As atividades seguem at&eacute; s&aacute;bado (8) com o objetivo de debater a import&acirc;ncia da rela&ccedil;&atilde;o da humanidade com a natureza e toda sua biodiversidade. Pensando nisso, os estudantes desenvolvem a&ccedil;&otilde;es no campo da arte e da cultura como instrumentos que garantem a forma&ccedil;&atilde;o humana.</p>
 
 <p><br />
-O Centro recebe sete escolas, entre elas, algumas escolas polos da regi&atilde;o de Ariquemes, representantes de universidades e institutos educacionais, como a Universidade Federal de Rond&ocirc;nia (UNIR), o Centro T&eacute;cnico Instituto Estadual de Educa&ccedil;&atilde;o Abaitar&aacute; (Centec Abaitar&aacute;), EFFAS e o Instituto Federal de Rond&ocirc;nia (IFRO).</p>
+O Centro recebe sete escolas, entre elas, algumas escolas polos da regi&atilde;o de Ariquemes, representantes de universidades e institutos educacionais, como a Universidade Federal de Rond&ocirc;nia (UNIR), o Centro T&eacute;cnico Instituto Estadual de Educa&ccedil;&atilde;o Abaitar&aacute; (Centec Abaitar&aacute;), EFAS e o Instituto Federal de Rond&ocirc;nia (IFRO).</p>
 
 <p><br />
 No dia 4, foram realizadas visitas nas escolas Henrique Dias e Arco-iris, onde os estudantes conheceram as produ&ccedil;&otilde;es agroecol&oacute;gicas desenvolvidas e as atividades de preserva&ccedil;&atilde;o nas nascentes dos rios. Al&eacute;m disso, estudaram a hist&oacute;ria e a luta do assentamento Madre Cristina.</p>
