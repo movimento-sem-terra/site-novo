@@ -1,5 +1,5 @@
 ---
-date: "2019-06-07T07:14:17-05:00"
+date: "2019-06-07T09:14:17-03:00"
 tags:
   - tag: direitos-humanos
   - tag: violência-no-campo
@@ -41,10 +41,9 @@ releated_posts:
   - _posts/2019/03/2019-03-27-grileiro-foi-o-mandante-de-dois-massacres-na-regiao-de-tucurui-pa-que-vitimaram-seis-pessoas.md
   - _posts/2019/04/2019-04-09-mais-um-corpo-negro-baleado-e-as-80-certezas-do-exercito-brasileiro.md
   - _posts/2019/04/2019-04-19-carajas-23-anos-de-impunidade-o-sangue-nao-para-de-derramar.md
+sector: mass-front
 
 ---
-<p style="text-align:center"><img alt="Dbi79ZtWsAE7Coi.jpg" height="600" src="//farm66.staticflickr.com/65535/48018668796_23b94bb1b6_b.jpg" width="600" /></p>
-
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
@@ -53,7 +52,24 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Nesta quarta-feira (6), a viol&ecirc;ncia no campo fez mais uma v&iacute;tima. Aluciano Ferreira dos Santos (41), foi assassinado&nbsp;na cidade de Brejo da Madre de Deus, no Agreste Pernambucano.</p>
+<p>Na &uacute;ltima quarta-feira (5), o trabalhador Sem Terra&nbsp;Aluciano Ferreira dos Santos (41), foi assassinado por pistoleiros em Brejo da Madre de Deus (PE),&nbsp;a caminho de uma r&aacute;dio comunit&aacute;ria&nbsp;onde participaria de um programa.</p>
+
+<p><br />
+Aluciano contribuiu em&nbsp;diversas lutas do MST e na organiza&ccedil;&atilde;o das fam&iacute;lias.</p>
+
+<p><br />
+Em nota divulgada esta semana, o Movimento denuncia que sua morte &quot;&eacute; retrato do atual momento que vivemos&quot; e continua: &quot;a viol&ecirc;ncia no campo &eacute; incentivada em larga escala por discursos inflamados de &oacute;dio e intoler&acirc;ncia contra o MST e os movimentos populares&quot;.</p>
+
+<p><br />
+<strong>Confira o documento na &iacute;ntegra:</strong></p>
+
+<figure class="image" style="float:right"><img alt="IMG-20190607-WA0060.jpg" height="500" src="//farm66.staticflickr.com/65535/48018802916_d3743d87bb_b.jpg" width="300" />
+<figcaption><em>Aluciano Ferreira dos Santos.<br />
+Foto: Acervo pessoal</em></figcaption>
+</figure>
+
+<p><br />
+Nesta quarta-feira (6), a viol&ecirc;ncia no campo fez mais uma v&iacute;tima. Aluciano Ferreira dos Santos (41), foi assassinado&nbsp;na cidade de Brejo da Madre de Deus, no Agreste Pernambucano.</p>
 
 <p><br />
 Santos estava tentando refazer a sua vida depois de ter sido preso injustamente em 2009 durante um conflito de terra na fazenda Jabuticaba, em S&atilde;o Joaquim do Monte.</p>
@@ -82,3 +98,7 @@ Exigimos da&nbsp;Secretaria Desenvolvimento Agr&aacute;rio, Secretaria da Justi&
 
 <p style="text-align: right;">06 de junho de 2019<br />
 Dire&ccedil;&atilde;o Estadual do MST-PE</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva</em></p>
