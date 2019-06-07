@@ -3,7 +3,7 @@ date: "2019-06-07T15:12:31-03:00"
 tags:
   - tag: seminário
   - tag: enff
-title: "Neste sábado (8), organizações lançam plataforma unitária em defesa da soberania nacional e dos bens da natureza"
+title: "Neste sábado (8), organizações lançam plataforma unitária em defesa da soberania nacional"
 support_line: "Evento é parte da programação do Seminário Terra e Território: Diversidade e Lutas que acontece na Escola Nacional Florestan Fernandes, em Guararema"
 images_hd: //farm66.staticflickr.com/65535/48020520577_a64a8cc1e1_b.jpg
 menu: lutas e mobilizações
