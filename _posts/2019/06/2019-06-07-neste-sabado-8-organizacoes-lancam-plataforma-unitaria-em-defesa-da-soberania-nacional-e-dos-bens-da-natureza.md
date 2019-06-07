@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2019/06/2019-06-06-os-recursos-naturais-do-brasil-sao-os-alvos-do-capitalismo-em-crise-diz-stedile.md
   - _posts/2019/06/2019-06-07-voce-sabe-de-onde-vem-o-alimento-que-consome.md
   - _posts/2018/08/2018-08-24-mst-realiza-seminario-para-discutir-a-literatura-nos-processos-de-formacao.md
+section: cover
 
 ---
 <p>&nbsp;</p>
