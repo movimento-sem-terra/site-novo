@@ -64,7 +64,7 @@ O Centro recebe sete escolas, entre elas, algumas escolas polos da regi&atilde;o
 No dia 4, foram realizadas visitas nas escolas Henrique Dias e Arco-iris, onde os estudantes conheceram as produ&ccedil;&otilde;es agroecol&oacute;gicas desenvolvidas e as atividades de preserva&ccedil;&atilde;o nas nascentes dos rios. Al&eacute;m disso, estudaram a hist&oacute;ria e a luta do assentamento Madre Cristina.</p>
 
 <p><br />
-Nesse mesmo dia, com o apoio das universidades e institui&ccedil;&otilde;es de ensino, foram desenvolvidas oficinas para discutir as &quot;Pol&iacute;ticas&nbsp;P&uacute;blicas do ensino m&eacute;dio: Constru&ccedil;&atilde;o coletiva Regi&atilde;o Norte&quot;, com a contribui&ccedil;&atilde;o da educadora Lara Cristina Cioffi.&nbsp;</p>
+Nesse mesmo dia, com o apoio das universidades e institui&ccedil;&otilde;es de ensino, foram desenvolvidas oficinas para discutir as &quot;Pol&iacute;ticas&nbsp;P&uacute;blicas do ensino m&eacute;dio: Constru&ccedil;&atilde;o coletiva Regi&atilde;o Norte&quot;, com a contribui&ccedil;&atilde;o da educadora Lara Cristina Cioffi. S&atilde;o realizadas ainda&nbsp;oficinas de artesanato com bambus e pneus.</p>
 
 <p>&nbsp;</p>
 
