@@ -4,7 +4,7 @@ tags:
   - tag: Rondonia
   - tag: educação-do-campo
 title: Semana do Meio Ambiente mobiliza escolas em Rondônia
-support_line: Estudantes realizam atividades no campo da arte e cultura
+support_line: Estudantes realizam atividades com foco na preservação ambiental
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/48014646968_bed9a85dc2_b.jpg
 layout: post
@@ -41,7 +41,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="LRM_EXPORT_148140537700355_20190604_161017787.jpeg" height="525" src="//farm66.staticflickr.com/65535/48014646968_bed9a85dc2_b.jpg" width="700" />
-<figcaption><em>Centro Cuturarte recebe sete escolas da regi&atilde;o de Ariquemes (RO), universidades e institutos. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+<figcaption><em>Centro Culturarte recebe sete escolas da regi&atilde;o de Ariquemes (RO), universidades e institutos. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 </div>
 
@@ -52,19 +52,19 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>O Centro Cuturarte Rosangela Reis, localizado no assentamento Madre Cristina, em Ariquemes (RO), realiza desde a &uacute;ltima ter&ccedil;a-feira (4) a 1&ordm; Semana do Meio Ambiente.&nbsp;</p>
+<p>O Centro Culturarte Rosangela Reis, localizado no assentamento Madre Cristina, em Ariquemes (RO), realiza desde a &uacute;ltima ter&ccedil;a-feira (4) a 1&ordm; Semana do Meio Ambiente.&nbsp;</p>
 
 <p><br />
 As atividades seguem at&eacute; s&aacute;bado (8) com o objetivo de debater a import&acirc;ncia da rela&ccedil;&atilde;o da humanidade com a natureza e toda sua biodiversidade. Pensando nisso, os estudantes desenvolvem a&ccedil;&otilde;es no campo da arte e da cultura como instrumentos que garantem a forma&ccedil;&atilde;o humana.</p>
 
 <p><br />
-O Centro recebe sete escolas, entre elas, algumas escolas polos da regi&atilde;o de Ariquemes, representantes de universidades, o EFFAS e o Instituto Federal de Rond&ocirc;nia (IFRO).</p>
+O Centro recebe sete escolas, entre elas, algumas escolas polos da regi&atilde;o de Ariquemes, representantes de universidades e institutos educacionais, como a Universidade Federal de Rond&ocirc;nia (UNIR), o Centro T&eacute;cnico Instituto Estadual de Educa&ccedil;&atilde;o Abaitar&aacute; (Centec Abaitar&aacute;), EFFAS e o Instituto Federal de Rond&ocirc;nia (IFRO).</p>
 
 <p><br />
 No dia 4, foram realizadas visitas nas escolas Henrique Dias e Arco-iris, onde os estudantes conheceram as produ&ccedil;&otilde;es agroecol&oacute;gicas desenvolvidas e as atividades de preserva&ccedil;&atilde;o nas nascentes dos rios. Al&eacute;m disso, estudaram a hist&oacute;ria e a luta do assentamento Madre Cristina.</p>
 
 <p><br />
-Nesse mesmo dia, junto com algumas universidades e institui&ccedil;&otilde;es de ensino, foram desenvolvidas oficinas de artesanato com bambus e pneus.</p>
+Nesse mesmo dia, com o apoio das universidades e institui&ccedil;&otilde;es de ensino, foram desenvolvidas oficinas para discutir as &quot;Pol&iacute;ticas&nbsp;P&uacute;blicas do ensino m&eacute;dio: Constru&ccedil;&atilde;o coletiva Regi&atilde;o Norte&quot;, com a contribui&ccedil;&atilde;o da educadora Lara Cristina Cioffi.&nbsp;</p>
 
 <p>&nbsp;</p>
 
