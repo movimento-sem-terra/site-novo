@@ -1,5 +1,5 @@
 ---
-date: "2019-06-07T09:14:17-03:00"
+date: "2019-06-07T07:14:17-05:00"
 tags:
   - tag: direitos-humanos
   - tag: violência-no-campo
@@ -53,34 +53,29 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Nesta quarta- feira (6), a viol&ecirc;ncia no campo fez mais uma v&iacute;tima. Aluciano Ferreira dos Santos (41), foi assassinado&nbsp;na cidade de Brejo da Madre de Deus, no Agreste Pernambucano.</p>
+<p>Nesta quarta-feira (6), a viol&ecirc;ncia no campo fez mais uma v&iacute;tima. Aluciano Ferreira dos Santos (41), foi assassinado&nbsp;na cidade de Brejo da Madre de Deus, no Agreste Pernambucano.</p>
 
 <p><br />
 Santos estava tentando refazer a sua vida depois de ter sido preso injustamente em 2009 durante um conflito de terra na fazenda Jabuticaba, em S&atilde;o Joaquim do Monte.</p>
 
 <p><br />
-Depois de oito anos na pris&atilde;o, o militante foi a juri popular em mar&ccedil;o de 2018 e, ap&oacute;s ser considerado inocente, foi imediatamente libertado para recome&ccedil;ar sua vida.</p>
+Depois de oito anos na pris&atilde;o injusta, o militante foi a juri popular em mar&ccedil;o de 2018 e, ap&oacute;s ser considerado inocente, foi imediatamente libertado para recome&ccedil;ar sua vida.</p>
 
 <p><br />
 Preocupado com sua seguran&ccedil;a diante das amea&ccedil;as por parte de jagun&ccedil;os e latifundi&aacute;rios da regi&atilde;o, Santos mudou-se para o munic&iacute;pio de Brejo da Madre de Deus onde foi covardemente assassinado.</p>
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="IMG-20190607-WA0060.jpg" height="333" src="//farm66.staticflickr.com/65535/48018802916_d3743d87bb_b.jpg" width="200" />
-<figcaption>Aluciano Ferreira dos Santos (41)<br />
-&nbsp;</figcaption>
-</figure>
-
 <p>A morte de Santos &eacute; retrato do atual momento que vivemos em que a viol&ecirc;ncia no campo &eacute; incentivada em larga escala por discursos inflamados de &oacute;dio e intoler&acirc;ncia contra o MST e os movimentos populares.</p>
 
 <p><br />
-Ao dizer que policias merecem ser condecorados ao matar, flexibilizando a posse de armas e&nbsp; criminalizalizando cada vez mais a luta por Reforma Agr&aacute;ria Popular, Bolsonaro incentiva e contribui diretamente para o aumento das injusti&ccedil;as, da viol&ecirc;ncia e das mortes no campo.&nbsp;<br />
+Ao legitimar a viol&ecirc;ncia, com discurso de &oacute;dio, flexibiliza&ccedil;&atilde;o da posse de armas e&nbsp; criminalizali&ccedil;&atilde;o dos movimentos populares e da luta por Reforma Agr&aacute;ria Popular, Bolsonaro incentiva e contribui diretamente para o aumento das injusti&ccedil;as, da viol&ecirc;ncia e das mortes no campo.&nbsp;<br />
 &nbsp;</p>
 
 <p>De nossa parte seguiremos fortalecendo o nosso compromisso em defesa da liberdade e do nosso direito de lutar por terra e por melhores condi&ccedil;&otilde;es de vida, essa &eacute; a melhor forma de manter vivo o legado de Aluciano.</p>
 
 <p><br />
-Tamb&eacute;m exigimos a investiga&ccedil;&atilde;o imediata por parte da&nbsp;Secretaria Desenvolvimento Agr&aacute;rio, Secretaria da Justi&ccedil;a e Direitos Humanos de Pernambuco, bem como a resolu&ccedil;&atilde;o e pris&atilde;o dos respons&aacute;veis e a garantia da seguran&ccedil;a de todas as fam&iacute;lias acampadas no estado.</p>
+Exigimos da&nbsp;Secretaria Desenvolvimento Agr&aacute;rio, Secretaria da Justi&ccedil;a e Direitos Humanos de Pernambuco e de todos os &oacute;rg&atilde;os de justi&ccedil;a respons&aacute;veis pelas investiga&ccedil;&otilde;es, a resolu&ccedil;&atilde;o e pris&atilde;o dos respons&aacute;veis e a garantia da seguran&ccedil;a de todas as fam&iacute;lias acampadas no estado.</p>
 
 <p style="text-align: right;"><br />
 &nbsp;</p>
