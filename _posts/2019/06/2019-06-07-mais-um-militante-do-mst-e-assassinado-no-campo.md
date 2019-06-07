@@ -24,6 +24,13 @@ files:
     small: //farm66.staticflickr.com/65535/48018709121_8632985e61_n.jpg
     title: Brazil_land_struggle_martyrs_by_Latuff2-300x273-709x450.jpg
     $$hashKey: 05P
+  - link: //farm66.staticflickr.com/65535/48018802916_d3743d87bb_b.jpg
+    original: //farm66.staticflickr.com/65535/48018802916_60e6a1de7d_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48018802916_d3743d87bb_t.jpg
+    medium: //farm66.staticflickr.com/65535/48018802916_d3743d87bb_z.jpg
+    small: //farm66.staticflickr.com/65535/48018802916_d3743d87bb_n.jpg
+    title: IMG-20190607-WA0060.jpg
+    $$hashKey: "061"
 created_date: "2019-06-07T10:00:10-03:00"
 published: true
 releated_posts:
@@ -57,8 +64,14 @@ Depois de oito anos na pris&atilde;o, o militante foi a juri popular em mar&cced
 <p><br />
 Preocupado com sua seguran&ccedil;a diante das amea&ccedil;as por parte de jagun&ccedil;os e latifundi&aacute;rios da regi&atilde;o, Santos mudou-se para o munic&iacute;pio de Brejo da Madre de Deus onde foi covardemente assassinado.</p>
 
-<p><br />
-A morte de Santos &eacute; retrato do atual momento que vivemos em que a viol&ecirc;ncia no campo &eacute; incentivada em larga escala por discursos inflamados de &oacute;dio e intoler&acirc;ncia contra o MST e os movimentos populares.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="IMG-20190607-WA0060.jpg" height="333" src="//farm66.staticflickr.com/65535/48018802916_d3743d87bb_b.jpg" width="200" />
+<figcaption>Aluciano Ferreira dos Santos (41)<br />
+&nbsp;</figcaption>
+</figure>
+
+<p>A morte de Santos &eacute; retrato do atual momento que vivemos em que a viol&ecirc;ncia no campo &eacute; incentivada em larga escala por discursos inflamados de &oacute;dio e intoler&acirc;ncia contra o MST e os movimentos populares.</p>
 
 <p><br />
 Ao dizer que policias merecem ser condecorados ao matar, flexibilizando a posse de armas e&nbsp; criminalizalizando cada vez mais a luta por Reforma Agr&aacute;ria Popular, Bolsonaro incentiva e contribui diretamente para o aumento das injusti&ccedil;as, da viol&ecirc;ncia e das mortes no campo.&nbsp;<br />
