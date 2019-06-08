@@ -7,7 +7,7 @@ hat: ""
 title: "Território: “A gente vai lutar até a última gota de sangue”"
 support_line: "O Seminário Terra e Território reúne diversos exemplos de luta; Uma delas é a do povo indígena Guarani Nhandéva, da aldeia de Posto Velho (PR)"
 menu: reforma agrária
-section: cover
+section: null
 images_hd: //farm66.staticflickr.com/65535/48025745767_3d353afa95_b.jpg
 layout: post
 files:
@@ -39,11 +39,12 @@ releated_posts:
   - _posts/2019/06/2019-06-07-voce-sabe-de-onde-vem-o-alimento-que-consome.md
   - _posts/2019/05/2019-05-28-seminario-discute-desmonte-da-previdencia-com-religiosos-professores-e-movimentos-sociais.md
   - _posts/2019/06/2019-06-05-mais-de-50-organizacoes-ligadas-a-questao-agraria-se-reunem-para-construir-plataforma-unitaria.md
+sector: mass-front
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-06-08 at 14.14.00.jpeg" height="467" src="//farm66.staticflickr.com/65535/48025713968_360f950776_b.jpg" width="700" />
-<figcaption><em>Semin&aacute;rio Terra e Territ&oacute;rio: Diversidade e Lutas​ -&nbsp;Foto: Jos&eacute; Eduardo Bernardes</em></figcaption>
+<figcaption><em>Semin&aacute;rio Terra e Territ&oacute;rio: Diversidade e Lutas​. Foto: Jos&eacute; Eduardo Bernardes</em></figcaption>
 </figure>
 </div>
 
