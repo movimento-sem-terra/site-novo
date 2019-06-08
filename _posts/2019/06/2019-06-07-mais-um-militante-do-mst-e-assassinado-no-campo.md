@@ -52,7 +52,7 @@ sector: mass-front
 
 <p>&nbsp;</p>
 
-<p>Na &uacute;ltima quarta-feira (5), o trabalhador Sem Terra&nbsp;Aluciano Ferreira dos Santos (41), foi assassinado por pistoleiros em Brejo da Madre de Deus (PE),&nbsp;a caminho de uma r&aacute;dio comunit&aacute;ria&nbsp;onde participaria de um programa.</p>
+<p>Na &uacute;ltima quarta-feira (5), o trabalhador Sem Terra&nbsp;Aluciano Ferreira dos Santos, foi assassinado por pistoleiros em Brejo da Madre de Deus (PE),&nbsp;a caminho de uma r&aacute;dio comunit&aacute;ria&nbsp;onde participaria de um programa.</p>
 
 <p><br />
 Aluciano contribuiu em&nbsp;diversas lutas do MST e na organiza&ccedil;&atilde;o das fam&iacute;lias.</p>
