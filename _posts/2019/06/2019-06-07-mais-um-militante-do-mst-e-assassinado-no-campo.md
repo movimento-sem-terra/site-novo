@@ -69,7 +69,7 @@ Foto: Acervo pessoal</em></figcaption>
 </figure>
 
 <p><br />
-Nesta quarta-feira (6), a viol&ecirc;ncia no campo fez mais uma v&iacute;tima. Aluciano Ferreira dos Santos (41), foi assassinado&nbsp;na cidade de Brejo da Madre de Deus, no Agreste Pernambucano.</p>
+Nesta quarta-feira (5), a viol&ecirc;ncia no campo fez mais uma v&iacute;tima. Aluciano Ferreira dos Santos (41), foi assassinado&nbsp;na cidade de Brejo da Madre de Deus, no Agreste Pernambucano.</p>
 
 <p><br />
 Santos estava tentando refazer a sua vida depois de ter sido preso injustamente em 2009 durante um conflito de terra na fazenda Jabuticaba, em S&atilde;o Joaquim do Monte.</p>
