@@ -36,11 +36,10 @@ releated_posts:
 <figcaption><em>&nbsp;Moradores de S&atilde;o Jos&eacute; do Norte se mobilizam contra mineradoras -&nbsp;&nbsp;Fotos: Divulga&ccedil;&atilde;o MAM</em></figcaption>
 </figure>
 
-<p>&nbsp;</p>
-
-<div style="color: rgb(34, 34, 34); font-family: verdana, helvetica, sans-serif; font-size: 16px;">Por Ayrton Centeno</div>
-
-<div style="color: rgb(34, 34, 34); font-family: verdana, helvetica, sans-serif; font-size: 16px;">Brasil de Fato RS</div>
+<p><br />
+<em>Por Ayrton Centeno<br />
+Do Brasil de Fato RS</em><br />
+&nbsp;</p>
 
 <p>&ldquo;Isso a&iacute; vai contaminar tudo&rdquo;, reage o agricultor Jo&atilde;o Varlei Luiz ao ser perguntado sobre os planos da Nexa Resources, Votorantim e lamgold de minerar cobre, chumbo, zinco, prata e, quem sabe, ouro em Ca&ccedil;apava do Sul. Na sua mem&oacute;ria est&atilde;o bem vivos os acontecimentos de 1981. Naquele ano, vazou merc&uacute;rio das instala&ccedil;&otilde;es da Companhia Brasileira de Cobre (CBC) no mesmo munic&iacute;pio. &ldquo;N&atilde;o dava nem pra chegar perto do Camaqu&atilde; pelo cheiro que tinha a &aacute;gua do rio. Morriam os peixes e o gado n&atilde;o podia beber&rdquo;, relembra Luiz, conhecido como &ldquo;Ded&eacute;&rdquo; na comunidade em que vive, o quilombo Tio D&ocirc;, no munic&iacute;pio vizinho de Santana da Boa Vista.</p>
 
@@ -65,6 +64,12 @@ A ideia das empresas &eacute; minerar 36 mil toneladas de chumbo, 16 mil de zinc
 <p><strong>A corrida pelas concess&otilde;es de lavra&nbsp; &nbsp; &nbsp;&nbsp;</strong><br />
 &nbsp;</p>
 
+<figure class="image" style="float:right"><img alt="47870948671_f24e72ed17_z.jpg" height="200" src="//farm66.staticflickr.com/65535/48026246241_74eeccd8f8_b.jpg" width="300" />
+<figcaption>Moradores est&atilde;o preocupados com impacto sanit&aacute;rio,<br />
+econ&ocirc;mico e ambiental da extra&ccedil;&atilde;o de minerais<br />
+pesados no munic&iacute;pio</figcaption>
+</figure>
+
 <p>Al&eacute;m dos quatro projetos mais avan&ccedil;ados e presentes no mapa, as mineradoras tem planos adiantados de extra&ccedil;&atilde;o dos mais diversos minerais em 166 munic&iacute;pios ga&uacute;chos. &Eacute; o que demonstram as planilhas do Departamento Nacional de Produ&ccedil;&atilde;o Mineral (DPNM) pesquisadas pelo MAM, o Movimento pela Soberania Popular na Minera&ccedil;&atilde;o.&nbsp; Por&eacute;m, ao contr&aacute;rio dos quatro megaprojetos, considerados amea&ccedil;adores para a sa&uacute;de humana e do ambiente, nem todos os demais s&atilde;o de m&eacute;dio ou grande porte ou necessariamente representam risco. Apenas demonstram o interesse econ&ocirc;mico que o subsolo do Rio Grande do Sul representa.&nbsp;&nbsp;<br />
 &nbsp;</p>
 
@@ -76,12 +81,6 @@ A ideia das empresas &eacute; minerar 36 mil toneladas de chumbo, 16 mil de zinc
 
 <p><strong>Alemanha fechou a &uacute;ltima mina de carv&atilde;o&nbsp;</strong><br />
 &nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="47870948671_f24e72ed17_z.jpg" height="200" src="//farm66.staticflickr.com/65535/48026246241_74eeccd8f8_b.jpg" width="300" />
-<figcaption>Moradores est&atilde;o preocupados com impacto sanit&aacute;rio,<br />
-econ&ocirc;mico e ambiental da extra&ccedil;&atilde;o de minerais<br />
-pesados no munic&iacute;pio</figcaption>
-</figure>
 
 <p>Foi uma cena solene: o presidente da Alemanha, Frank-Walter Steinmeier, cercado por dois oper&aacute;rios segurou o &uacute;ltimo bloco de carv&atilde;o extra&iacute;do de solo alem&atilde;o. Aconteceu no dia 21 de dezembro de 2018, quando foi fechada a &uacute;ltima mina, na cidade de Bottrop. O carv&atilde;o ajudou a construir a prosperidade alem&atilde;, mas deixou um passivo alto: 220 milh&otilde;es de euros (R$ 994,4 milh&otilde;es) ser&atilde;o gastos a cada ano para impedir que a &aacute;gua contaminada com metais pesados atinja os len&ccedil;&oacute;is fre&aacute;ticos.&nbsp;</p>
 
