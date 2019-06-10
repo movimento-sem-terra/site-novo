@@ -53,7 +53,7 @@ sector: mass-front
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Terra, educa&ccedil;&atilde;o, cultura, ancestralidade, agroecologia, luta. As rela&ccedil;&otilde;es que o ser humano constr&oacute;i com o meio ambiente se articula em diversas dimens&otilde;es e essa constata&ccedil;&atilde;o reflete todo processo de organiza&ccedil;&atilde;o da vida em territ&oacute;rios nos quatro cantos do Brasil.&nbsp;</p>
+Terra, educa&ccedil;&atilde;o, cultura, ancestralidade, agroecologia, luta. As rela&ccedil;&otilde;es que o ser humano constr&oacute;i com o meio ambiente se articulam em diversas dimens&otilde;es e essa constata&ccedil;&atilde;o reflete todo processo de organiza&ccedil;&atilde;o da vida em territ&oacute;rios nos quatro cantos do Brasil.&nbsp;</p>
 
 <p><br />
 Ao reunir mais de 50 organiza&ccedil;&otilde;es populares, o Semin&aacute;rio Terra e Territ&oacute;rio: Diversidade e Lutas se apresenta enquanto um instrumento de sistematiza&ccedil;&atilde;o e elabora&ccedil;&atilde;o acerca dessas quest&otilde;es, tendo como base a luta pela terra e Soberania Nacional.&nbsp;</p>
