@@ -43,7 +43,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Leandro Molina 03.jpg" height="429" src="//farm66.staticflickr.com/65535/48039656998_4377aabc4f_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption>&quot;&Eacute; o momento da sociedade se organizar&quot; afirmou o professor&nbsp;Bernardo Man&ccedil;ano Fernandes.&nbsp;Fotos:&nbsp;Leandro Molina</figcaption>
 </figure>
 </div>
 
@@ -78,6 +78,10 @@ O atual momento hist&oacute;rico acaba incitando alguns assuntos que nem sempre 
 <p>Vaz fez refer&ecirc;ncia ao programa Escola Ativa, que incentivava o modelo de classes multisseriadas (diferentes n&iacute;veis de aprendizado em uma &uacute;nica sala) das escolas do campo. Com o argumento de ser &ldquo;multitarefas&rdquo;, eles acabavam sobrecarregando educadores.<br />
 &nbsp;</p>
 
+<figure class="image" style="float:right"><img alt="BdF [50].jpg" height="205" src="//farm66.staticflickr.com/65535/48039654266_cb0c230f7f_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
+
 <p>&ldquo;Eram atribu&iacute;das v&aacute;rias tarefas &agrave; professora: merendeira, faxineira, diretora, e outras. Ent&atilde;o, para que ela tivesse mais tempo de nos ensinar, a gente chegava na escola e ia para o riacho e pegava aula&rdquo;, conta Vaz, que ainda completa. &ldquo;A professora lecionava em um espa&ccedil;o em que haviam v&aacute;rias mesas, se virava para um lado era a segunda s&eacute;rie, virava pro outro era a terceira; pro outro, a quarta. No fim, n&atilde;o dava para entender muita coisa&rdquo;.<br />
 &nbsp;</p>
 
@@ -99,8 +103,12 @@ O atual momento hist&oacute;rico acaba incitando alguns assuntos que nem sempre 
 <p>Vaz concluiu lembrando da import&acirc;ncia do programa &ldquo;bolsa-perman&ecirc;ncia&rdquo;, pol&iacute;tica p&uacute;blica que busca garantir a perman&ecirc;ncia de estudantes quilombolas, ind&iacute;genas e em situa&ccedil;&atilde;o de vulnerabilidade socioecon&ocirc;mica nas institui&ccedil;&otilde;es federais de ensino superior, e que est&aacute; amea&ccedil;ada pelos atuais cortes governo na educa&ccedil;&atilde;o.&nbsp;<br />
 &nbsp;</p>
 
-<p>&ldquo;Estes jovens est&atilde;o na universidade e precisam produzir conhecimento no mundo acad&ecirc;mico, ent&atilde;o recebem a bolsa com uma perspectiva reparat&oacute;ria e a fam&iacute;lia n&atilde;o tem condi&ccedil;&otilde;es de ajudar o estudante. Parte destas verbas &eacute; enviada para os quilombos para ajudar a sobreviv&ecirc;ncia sem aquele membro, tendo em vista que n&oacute;s tamb&eacute;m faz&iacute;amos parte desta renda da fam&iacute;lia&rdquo;, afirma Vaz.&nbsp;<br />
-&nbsp;</p>
+<figure class="image" style="float:left"><img alt="Desmonte da educação do campo preocupa comunidade escolar. Foto- Leandro Molina.jpg" height="193" src="//farm66.staticflickr.com/65535/48039655603_583c869c2b_b.jpg" width="300" />
+<figcaption><em>Desmonte da educação do campo preocupa<br />
+comunidade escolar. Foto:Leandro Molina</em></figcaption>
+</figure>
+
+<p>&ldquo;Estes jovens est&atilde;o na universidade e precisam produzir conhecimento no mundo acad&ecirc;mico, ent&atilde;o recebem a bolsa com uma perspectiva reparat&oacute;ria e a fam&iacute;lia n&atilde;o tem condi&ccedil;&otilde;es de ajudar o estudante. Parte destas verbas &eacute; enviada para os quilombos para ajudar a sobreviv&ecirc;ncia sem aquele membro, tendo em vista que n&oacute;s tamb&eacute;m faz&iacute;amos parte desta renda da fam&iacute;lia&rdquo;, afirma Vaz.&nbsp;</p>
 
 <p>Assim, os cortes da bolsa-perman&ecirc;ncia prejudicam n&atilde;o s&oacute; os educandos, mas tamb&eacute;m a din&acirc;mica das fam&iacute;lias rurais. &Eacute; o caso dos pescadores artesanais, que tamb&eacute;m estiveram no Semin&aacute;rio Terra e Territ&oacute;rios: Diversidade e lutas e se articulam com outros movimentos campesinos para um projeto popular para o Brasil.<br />
 &nbsp;</p>
