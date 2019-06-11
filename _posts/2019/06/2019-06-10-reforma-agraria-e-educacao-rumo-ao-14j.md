@@ -39,6 +39,7 @@ releated_posts:
   - _posts/2019/05/2019-05-06-uma-educacao-que-forma-organiza-e-emancipa.md
   - _posts/2019/05/2019-05-08-educacao-no-campo-e-pauta-de-audiencia-do-mst-com-governo-gaucho.md
   - _posts/2019/05/2019-05-28-a-luta-pela-educacao-e-o-campo-dia-30-vai-ser-maior.md
+section: featured-news
 
 ---
 <div style="text-align:center">
