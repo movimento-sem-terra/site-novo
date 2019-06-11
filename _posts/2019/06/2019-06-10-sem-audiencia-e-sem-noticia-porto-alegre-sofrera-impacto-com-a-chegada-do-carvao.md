@@ -2,8 +2,9 @@
 date: "2019-06-10T18:30:26-03:00"
 tags:
   - tag: mineração
+  - tag: rio-grande-do-sul
 title: "Sem audiência e sem notícia, Porto Alegre sofrerá impacto com a chegada do carvão"
-support_line: "Para ambientalistas, é inadmissível que não haja uma audiência pública na capital gaúcha, que está a 15 km da planta"
+support_line: "Para ambientalistas, é inadmissível que não haja uma audiência pública na capital gaúcha"
 images_hd: //farm66.staticflickr.com/65535/48039789717_03933097bc_b.jpg
 menu: reforma agrária
 layout: post
@@ -44,6 +45,13 @@ releated_posts:
 <figcaption><em>Cristiano Weber, diretor de sustentabilidade da Copelmi, defendeu a iniciativa em debate na UFRGS. Foto: Carol Ferraz/Sul21</em></figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
+
+<p><em>Por Ayrton Centeno<br />
+Brasil de Fato</em></p>
+
+<p>&nbsp;</p>
 
 <p>Para a Copelmi, o empreendimento n&atilde;o afetar&aacute; a cidade e a audi&ecirc;ncia n&atilde;o visaria esclarecer a popula&ccedil;&atilde;o e sim &ldquo;tumultuar&rdquo;(1). Francisco Milanez, presidente da Agapan, entende de modo diferente. &ldquo;A coisa &eacute; t&atilde;o ruim, t&atilde;o tortuosa, que eles t&ecirc;m medo de audi&ecirc;ncia p&uacute;blica&rdquo;, ironiza. N&atilde;o haveria raz&atilde;o para tanto. &ldquo;No Brasil, desde 1986, as audi&ecirc;ncias resultaram, no m&aacute;ximo, em corre&ccedil;&atilde;o de erros b&aacute;rbaros ou (para detectar) falsifica&ccedil;&otilde;es de estudos&rdquo;, diz.&nbsp;<br />
 &nbsp;</p>
@@ -101,3 +109,7 @@ Foto:&nbsp;Carol Ferraz/Sul21</em></figcaption>
 &nbsp;</p>
 
 <p>Com ou sem audi&ecirc;ncia, Porto Alegre come&ccedil;a a reagir de modo mais forte. Nos pr&oacute;ximos dias ser&aacute; lan&ccedil;ada uma frente em defesa da vida e do meio ambiente formada por 25 organiza&ccedil;&otilde;es da sociedade civil para denunciar a amea&ccedil;a que, segundo entendem, representa o projeto da mina.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
