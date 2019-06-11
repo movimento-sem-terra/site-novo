@@ -5,7 +5,7 @@ tags:
   - tag: feira-da-reforma-agrária
   - tag: assentamentos
 title: "Festa da Reforma Agrária no Paraná: 22 Anos de Lutas e Conquistas "
-support_line: "Entre abertura, almoço e matinê passaram pela festa no Assentamento 8 de Junho,  aproximadamente duas mil pessoas que comemoraram com as famílias esse dia tão especial."
+support_line: "Entre abertura, almoço e matinê passaram pela festa no assentamento 8 de Junho aproximadamente duas mil pessoas"
 menu: reforma agrária
 images_hd: //farm66.staticflickr.com/65535/48044877103_bf48eb2bc6_b.jpg
 layout: post
@@ -90,10 +90,6 @@ Da P&aacute;gina do MST</em><br />
 <p>O assentamento teve origem do acampamento montado &agrave;s margens da BR 158, no dia 8 de Junho de 1997, com 17 fam&iacute;lias organizadas pelo MST com objetivo de ocupar a fazenda Rio Le&atilde;o. Em pouco tempo o espa&ccedil;o passou a contar com cerca de 240 fam&iacute;lias, e ocupou a fazenda em janeiro de 1998.</p>
 
 <p>&nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="LRM_EXPORT_196662796746327_20190610_144355654.jpeg" height="200" src="//farm66.staticflickr.com/65535/48044877053_f54ab1f2c2_b.jpg" width="300" />
-<figcaption></figcaption>
-</figure>
 
 <p>As fam&iacute;lias resistiram aos dias ensolarados de ver&atilde;o e durante os rigorosos invernos embaixo da lona preta at&eacute; a conquista definitiva da &aacute;rea no ano de 2001, onde come&ccedil;aram a construir seus lares em terras que puderam passar a dizer que eram suas.</p>
 
