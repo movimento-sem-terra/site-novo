@@ -4,9 +4,9 @@ tags:
   - tag: mulheres
   - tag: lutas
   - tag: mst
-title: Mulheres semeiam a luta durante encontro mulheres no DF e Entorno
+title: Mulheres semeiam a luta durante encontro no DF e Entorno
 images_hd: //farm66.staticflickr.com/65535/48039678358_065f60a03d_b.jpg
-support_line: A atividade serviu para aprofundar a organização do coletivo e iniciar os preparativos da região para o I Encontro Nacional das Mulheres Sem Terra
+support_line: Atividade aprofunda a organização do coletivo e inicia preparativos para o 1º Encontro Nacional das Mulheres Sem Terra
 menu: lutas e mobilizações
 layout: post
 files:
@@ -32,12 +32,12 @@ releated_posts:
 ---
 <p><br />
 <br />
-<em>Por Juliana Amoretti<br />
-Da P&aacute;gina do MST&nbsp;</em></p>
+<em>Por Coletivo de Mulheres do MST no DF e Entorno</em><br />
+<em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
-<p>Mulheres Sem Terra do MST do Distrito Federal e Entorno reuniram-se entre os dias 6 e 7 de junho, no Centro de Forma&ccedil;&atilde;o do Gabriela Monteiro, em Brazl&acirc;ndia, Distrito Federal,&nbsp;para fortalecer sua atua&ccedil;&atilde;o, aprofundar a organiza&ccedil;&atilde;o do coletivo e iniciar os preparativos da regi&atilde;o para o I Encontro Nacional das Mulheres Sem Terra, que deve ocorrer em Bras&iacute;lia, entre os dias 22 e 26 de novembro de 2019.</p>
+<p>Mulheres Sem Terra&nbsp;do Distrito Federal e Entorno reuniram-se entre os dias 6 e 7 de junho, no Centro de Forma&ccedil;&atilde;o&nbsp;Gabriela Monteiro, em Brazil&acirc;ndia, Distrito Federal,&nbsp;para fortalecer sua atua&ccedil;&atilde;o, aprofundar a organiza&ccedil;&atilde;o do coletivo e iniciar os preparativos da regi&atilde;o para o 1&ordm;&nbsp;Encontro Nacional das Mulheres Sem Terra, que deve ocorrer em Bras&iacute;lia, entre os dias 22 e 26 de novembro de 2019.</p>
 
 <p><br />
 Sabe aqueles momentos de despertar que trazem o sentimento de felicidade? Assim foi&nbsp;o encontro que come&ccedil;ou&nbsp;com a discuss&atilde;o acerca&nbsp;da estrutura de poder que garante o mandato patriarcal, para que o homem seja violento e, ainda assim, disponha de diferentes meios para a manuten&ccedil;&atilde;o do poder, tantas vezes se apropriando do tempo e do trabalho das mulheres.</p>
@@ -63,3 +63,7 @@ Que sejam lembradas as companheiras valiosas que j&aacute; se foram, porque os e
 Que possamos acender fogueiras, pintar&nbsp;paredes e plantar&nbsp;&aacute;rvores. Que sejamos capazes de transmitir nos abra&ccedil;os a certeza de que n&atilde;o estamos s&oacute;s.<br />
 <br />
 Assim, com sorrisos e l&aacute;grimas politizarmos um encontro de mulheres: encontrando no mundo &iacute;ntimo da mulher trabalhadora rural, armas poderosas contra todo o tipo de latif&uacute;ndio, para transforma&ccedil;&atilde;o do capitalismo, do racismo e do patriarcado. E, ao final do encontro, p&ocirc;de-se ouvir o grito: Mulheres em luta, semeando a resist&ecirc;ncia!</p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Maura Silva</em></p>
