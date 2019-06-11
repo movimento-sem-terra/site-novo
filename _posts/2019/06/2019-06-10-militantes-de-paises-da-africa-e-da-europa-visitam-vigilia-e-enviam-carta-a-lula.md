@@ -4,8 +4,8 @@ tags:
   - tag: lula-livre
   - tag: lula
   - tag: mobilizações
-title: "Militantes de países da África e da Europa visitam Vigília e enviam carta a Lula\n\n"
-support_line: "Grupo faz parte da primeira turma do Curso de Teoria Política em Língua Francesa da Escola Nacional Florestan Fernandes (ENFF)\n\n"
+title: Militantes de países da África e da Europa visitam Vigília e enviam carta a Lula
+support_line: Grupo faz parte da primeira turma do Curso de Teoria Política em Língua Francesa da Escola Nacional Florestan Fernandes (ENFF)
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48039740803_9afc2747be_b.jpg
 layout: post
@@ -65,7 +65,8 @@ releated_posts:
 <p><br />
 &nbsp;</p>
 
-<p><em>Por&nbsp;Ednubia Ghisi e Paulo Rog&eacute;rio</em><br />
+<p><em>Por&nbsp;Ednubia Ghisi e Paulo Rog&eacute;rio<br />
+Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 </div>
 
@@ -81,7 +82,11 @@ Em uma roda de conversa realizada na Vig&iacute;lia Lula Livre, os militantes co
 <p><br />
 O franc&ecirc;s Bruno Pereira Vaz, militante do movimento &ldquo;Coletes Amarelos&rdquo;, criado h&aacute; 7 meses em oposi&ccedil;&atilde;o &agrave;s pol&iacute;ticas ultraliberais do presidente da Fran&ccedil;a Emmanuel Macron, classifica a pris&atilde;o de Lula como uma injusti&ccedil;a que poderia ter acontecido com outras lideran&ccedil;as pol&iacute;ticas: &ldquo;Eu estou aqui para representar os Coletes Amarelos na sua express&atilde;o de solidariedade ao companheiro Lula, que n&oacute;s consideramos ser um dos nossos, um irm&atilde;o da nossa luta que se situa na continua&ccedil;&atilde;o da luta do companheiro Lula. [...] &Eacute; com muita emo&ccedil;&atilde;o que estamos aqui, porque nos reconhecemos muito nesse companheiro&rdquo;.</p>
 
-<p style="text-align:center"><img alt="IMG_20190607_123223265_HDR_2.jpg" height="497" src="//farm66.staticflickr.com/65535/48039807257_dacba8b143_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG_20190607_123223265_HDR_2.jpg" height="426" src="//farm66.staticflickr.com/65535/48039807257_dacba8b143_b.jpg" width="600" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p><br />
 <strong>Interc&acirc;mbio</strong></p>
@@ -90,12 +95,14 @@ O franc&ecirc;s Bruno Pereira Vaz, militante do movimento &ldquo;Coletes Amarelo
 A turma da ENFF &eacute; formada por 35 pessoas de nove pa&iacute;ses, representado a maior parte dos pa&iacute;s africanos e europeus de l&iacute;ngua francesa. S&atilde;o 33 diferentes organiza&ccedil;&otilde;es, entre Organiza&ccedil;&otilde;es N&atilde;o Governamentais (ONGs), partidos, sindicatos e associa&ccedil;&otilde;es.</p>
 
 <p><br />
-O grupo que esteve na Vig&iacute;lia Lula Livre seguiu por mais dois dias de visita ao assentamento Contestado, no munic&iacute;pio da Lapa &ndash; Regi&atilde;o Metropolitana de Curitiba. L&aacute; os educandos puderam conhecer a experi&ecirc;ncia de produ&ccedil;&atilde;o agroecol&oacute;gica, o Centro Casar&atilde;o Cultural e as experi&ecirc;ncias de forma&ccedil;&atilde;o organizadas pela Escola Latino Americana de Agroecologia. A outra parte da turma foi direto para o Norte do Paran&aacute;, em Porecatu, conhecer a luta do acampamento Fidel Castro. O encontro ficou marcado pela troca de experi&ecirc;ncias entre acampados e educandos.</p>
-
-<p><br />
+O grupo que esteve na Vig&iacute;lia Lula Livre seguiu por mais dois dias de visita ao assentamento Contestado, no munic&iacute;pio da Lapa &ndash; Regi&atilde;o Metropolitana de Curitiba. L&aacute; os educandos puderam conhecer a experi&ecirc;ncia de produ&ccedil;&atilde;o agroecol&oacute;gica, o Centro Casar&atilde;o Cultural e as experi&ecirc;ncias de forma&ccedil;&atilde;o organizadas pela Escola Latino Americana de Agroecologia. A outra parte da turma foi direto para o Norte do Paran&aacute;, em Porecatu, conhecer a luta do acampamento Fidel Castro. O encontro ficou marcado pela troca de experi&ecirc;ncias entre acampados e educandos.<br />
 &nbsp;</p>
 
-<p style="text-align:center"><img alt="IMG_20190607_102949298_HDR.jpg" height="525" src="//farm66.staticflickr.com/65535/48039704526_befbfd3e77_b.jpg" width="700" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="IMG_20190607_102949298_HDR.jpg" height="450" src="//farm66.staticflickr.com/65535/48039704526_befbfd3e77_b.jpg" width="600" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p><br />
 <strong>Confira a &iacute;ntegra da carta enviada a Lula:</strong></p>
