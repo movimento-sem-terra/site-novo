@@ -5,7 +5,7 @@ tags:
   - tag: juventude
   - tag: amazônia
 title: Seminário da Repam Juventude promove discussões sobre ecologia
-support_line: Rede articula a juventude de todos os movimentos sociais e povos da Amazônia
+support_line: Rede articula a juventude de movimentos sociais e povos da Amazônia
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/48045609411_6c3d5d88f8_b.jpg
 layout: post
@@ -48,7 +48,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Repam [3].jpeg" height="415" src="//farm66.staticflickr.com/65535/48045648303_c5efa6bb8e_b.jpg" width="700" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 </div>
 
@@ -59,7 +59,7 @@ releated_posts:
 A Rede Eclesial Pan-Amaz&ocirc;nica (Repam) realizou neste fim de semana a primeira atividade da oficial do Setor de Juventude. As a&ccedil;&otilde;es aconteceram entre os dias 7 e 9 de junho, no munic&iacute;pio do Cant&aacute;, da Regi&atilde;o Metropolitana de Boa Vista, Roraima.<br />
 &nbsp;</p>
 
-<p>O tema do encontro foi Juventudes e Ecologia Integral, e os debates focaram em torno do lema &ldquo;Lutamos por terra, trabalho e direitos&rdquo;. Jovens de diversas regi&otilde;es tivera a oportunidade de expor suas opini&otilde;es e olhares sobre&nbsp;o contexto Amaz&ocirc;nico&nbsp;e a atual conjuntura econ&ocirc;mica, social e pol&iacute;tica do pa&iacute;s e da regi&atilde;o..<br />
+<p>O tema do encontro foi Juventudes e Ecologia Integral, e os debates focaram em torno do lema &ldquo;Lutamos por terra, trabalho e direitos&rdquo;. Jovens de diversas regi&otilde;es tiveram a oportunidade de expor suas opini&otilde;es e olhares sobre&nbsp;o contexto Amaz&ocirc;nico&nbsp;e a atual conjuntura econ&ocirc;mica, social e pol&iacute;tica do pa&iacute;s e da regi&atilde;o..<br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Repam.jpeg" height="200" src="//farm66.staticflickr.com/65535/48045695592_f10962b97a_b.jpg" width="300" />
@@ -72,4 +72,4 @@ A Rede Eclesial Pan-Amaz&ocirc;nica (Repam) realizou neste fim de semana a prime
 <p>Aguiar defende que a Repam Juventudes tem como objetivo &ldquo;escutar, acompanhar, apoiar, animar, formar, servir, estimular, comunicar e unir as for&ccedil;as para responder aos grandes desafios socioambientais&rdquo;. Para ele, o grupo pode ajudar no trabalho junto as juventudes de imensa Amaz&ocirc;nia, a partir da capacita&ccedil;&atilde;o das jovens.<br />
 &nbsp;</p>
 
-<p>&ldquo;O trabalho em rede &eacute; desafiante. Mas na aproxima&ccedil;&atilde;o e na escuta, somamos for&ccedil;as para as nossas lutas&rdquo;, afirmou o articulador, que concluiu. &ldquo;O Esp&iacute;rito fortale&ccedil;a a caminhada das juventudes de Roraima em comunh&atilde;o com nossos irm&atilde;os e irm&atilde;s da Venezuela e Guiana.&rdquo;</p>
+<p>&ldquo;O trabalho em rede &eacute; desafiante. Mas na aproxima&ccedil;&atilde;o e na escuta, somamos for&ccedil;as para as nossas lutas&rdquo;, afirmou o articulador, que concluiu. &ldquo;O esp&iacute;rito fortalece a caminhada das juventudes de Roraima em comunh&atilde;o com nossos irm&atilde;os e irm&atilde;s da Venezuela e Guiana.&rdquo;</p>
