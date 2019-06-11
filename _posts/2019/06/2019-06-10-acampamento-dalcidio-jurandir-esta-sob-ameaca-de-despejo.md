@@ -5,7 +5,7 @@ tags:
   - tag: despejo
   - tag: pará
 support_line: "Mais de 200 famílias do acampamento Dalcídio Jurandir estão sob ameaça de despejo em Eldorado dos Carajás, no Pará"
-title: "Acampamento Dalcídio Jurandir está sob ameaça de despejo "
+title: Atos são realizados contra ameaça de despejo  em Dalcídio Jurandir
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48039862252_e3e474da88_b.jpg
 layout: post
@@ -68,26 +68,23 @@ releated_posts:
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>Em Eldorado dos Caraj&aacute;s, munic&iacute;pio onde ocorreu o massacre de 19 trabalhadores rurais h&aacute; 23 anos, cerca de 210 fam&iacute;lias Sem Terra, que vivem h&aacute; mais de 10 anos no acampamento Dalc&iacute;dio Jurandir, sofrem hoje amea&ccedil;a de despejo.<br />
-&nbsp;</p>
-
-<p>Esta &eacute; mais uma amea&ccedil;a &agrave;s fam&iacute;lias ligada ao Movimento dos Trabalhadores Rurais Sem Terra (MST) na regi&atilde;o marcada com v&aacute;rias hist&oacute;rias de viol&ecirc;ncia contra os movimentos de luta pela terra.<br />
-&nbsp;</p>
-
-<p>A ocupa&ccedil;&atilde;o das fam&iacute;lias Sem Terra ocorreu no dia 25 de julho de 2008, na antiga fazenda Maria Bonita. A agropecu&aacute;ria Santa B&aacute;rbara, que reivindica a &aacute;rea, &eacute; ligada a Daniel Dantas, banqueiro e latifundi&aacute;rio, condenado a mais de 10 anos de pris&atilde;o e acusado de lavagem de dinheiro evas&atilde;o de divisas e forma&ccedil;&atilde;o de quadrilha.&nbsp;</p>
+<p>Em Eldorado dos Caraj&aacute;s, munic&iacute;pio onde ocorreu o massacre de 19 trabalhadores rurais h&aacute; 23 anos, <a href="http://Esta é mais uma ameaça às famílias ligada ao Movimento dos Trabalhadores Rurais Sem Terra (MST) na região marcada com várias histórias de violência contra os movimentos de luta pela terra.   A ocupação das famílias Sem Terra ocorreu no dia 25 de julho de 2008, na antiga fazenda Maria Bonita. A agropecuária Santa Bárbara, que reivindica a área, é ligada a Daniel Dantas, banqueiro e latifundiário, condenado a mais de 10 anos de prisão e acusado de lavagem de dinheiro evasão de divisas e formação de quadrilha.">u</a><a href="https://www.mst.org.br/2019/06/06/despejo-no-para-ameaca-dez-anos-de-producao-de-alimentos-saudaveis.html">ma liminar judicial amea&ccedil;a de despejo cerca de 210 fam&iacute;lias Sem Terra, que vivem h&aacute; mais de 10 anos no acampamento Dalc&iacute;dio Jurandir.</a></p>
 
 <p><br />
-Uma liminar judicial determina a sa&iacute;da dos acampados. Nesta segunda-feira (10) as fam&iacute;lias ir&atilde;o fazer um ato na no Munic&iacute;pio de Eldorado em Marcha ir&atilde;o at&eacute; a C&acirc;mara Municipal para realiza&ccedil;&atilde;o de uma audi&ecirc;ncia p&uacute;blica de den&uacute;ncia e afirma&ccedil;&atilde;o que ir&atilde;o resistir at&eacute; seja dada uma solu&ccedil;&atilde;o para todas as fam&iacute;lias que residem na &aacute;rea.&nbsp;<br />
-&nbsp;</p>
+Nesta segunda-feira (10) as fam&iacute;lias ir&atilde;o fazer um ato na no Munic&iacute;pio de Eldorado em Marcha ir&atilde;o at&eacute; a C&acirc;mara Municipal para realiza&ccedil;&atilde;o de uma audi&ecirc;ncia p&uacute;blica de den&uacute;ncia e afirma&ccedil;&atilde;o que ir&atilde;o resistir at&eacute; seja dada uma solu&ccedil;&atilde;o para todas as fam&iacute;lias que residem na &aacute;rea.&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="IMG-20190610-WA0031.jpg" height="225" src="//farm66.staticflickr.com/65535/48039796568_80744da60d_b.jpg" width="300" />
 <figcaption></figcaption>
 </figure>
 
-<p>Na ocasi&atilde;o ser&aacute; apresentado um diagn&oacute;stico feito em parceria com a Unifesspa (Universidade do Sul e Sudeste do Par&aacute;) com as fam&iacute;lias sobre a produ&ccedil;&atilde;o na &aacute;rea e sua import&acirc;ncia para regi&atilde;o.&nbsp;</p>
+<p>Nos atos,&nbsp;ser&aacute; apresentado um diagn&oacute;stico feito em parceria com a Unifesspa (Universidade do Sul e Sudeste do Par&aacute;) com as fam&iacute;lias sobre a produ&ccedil;&atilde;o na &aacute;rea e sua import&acirc;ncia para regi&atilde;o.&nbsp;</p>
 
-<p>O acampamento Dalcidio Jurandir &eacute; refer&ecirc;ncia na produ&ccedil;&atilde;o de leite, farinha, pequenas cria&ccedil;&otilde;es de animais dentre outros produtos saud&aacute;veis de consumo da sociedade.<br />
-&nbsp;</p>
+<p>O acampamento Dalcidio Jurandir &eacute; refer&ecirc;ncia na produ&ccedil;&atilde;o de leite, farinha, pequenas cria&ccedil;&otilde;es de animais dentre outros produtos saud&aacute;veis de consumo da sociedade.</p>
+
+<p>Esta &eacute; mais uma amea&ccedil;a &agrave;s fam&iacute;lias ligada ao Movimento dos Trabalhadores Rurais Sem Terra (MST) na regi&atilde;o marcada com v&aacute;rias hist&oacute;rias de viol&ecirc;ncia contra os movimentos de luta pela terra.</p>
+
+<p><br />
+A ocupa&ccedil;&atilde;o das fam&iacute;lias Sem Terra ocorreu no dia 25 de julho de 2008, na antiga fazenda Maria Bonita. A agropecu&aacute;ria Santa B&aacute;rbara, que reivindica a &aacute;rea, &eacute; ligada a Daniel Dantas, banqueiro e latifundi&aacute;rio, condenado a mais de 10 anos de pris&atilde;o e acusado de lavagem de dinheiro evas&atilde;o de divisas e forma&ccedil;&atilde;o de quadrilha.&nbsp;</p>
 
 <p>Nesta semana lan&ccedil;aram o &ldquo;Manifesto das Fam&iacute;lias amea&ccedil;adas de despejo&rdquo;. O documento destaca a produ&ccedil;&atilde;o das fam&iacute;lias no acampamento e sua import&acirc;ncia para o munic&iacute;pio de Eldorado e centros comerciais da regi&atilde;o. Al&eacute;m de quest&otilde;es estruturais e a presen&ccedil;a de uma escola que atende as crian&ccedil;as do acampamento e comunidades pr&oacute;ximas.&nbsp;<br />
 &nbsp;</p>
