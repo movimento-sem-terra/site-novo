@@ -59,7 +59,7 @@ files:
     title: "grevegeral [1].jpg"
     $$hashKey: 0E4
 created_date: "2019-06-12T12:12:57-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/08/2018-08-23-apos-23-dias-grevistas-sao-recebidos-por-rosa-weber.md
 
@@ -80,8 +80,7 @@ Com a Previd&ecirc;ncia social amea&ccedil;ada pela proposta de reforma do presi
 <p>Neste especial, o Brasil de Fato resgatou a hist&oacute;ria das principais greves de trabalhadoras e trabalhadores presenciadas pelo pa&iacute;s.<br />
 &nbsp;</p>
 
-<p><strong>A primeira greve geral</strong><br />
-&nbsp;</p>
+<p><strong>A primeira greve geral</strong></p>
 
 <figure class="image" style="float:left"><img alt="grevegeral [1].jpg" height="213" src="//farm66.staticflickr.com/65535/48049854512_520ee70481_b.jpg" width="300" />
 <figcaption></figcaption>
@@ -101,8 +100,7 @@ Com a Previd&ecirc;ncia social amea&ccedil;ada pela proposta de reforma do presi
 <p>As ligas oper&aacute;rias e o Comit&ecirc; de Defesa Prolet&aacute;ria, de maioria anarquista e socialista, coordenaram todo esse movimento, reivindicando, entre outras pautas, a aboli&ccedil;&atilde;o da explora&ccedil;&atilde;o do trabalho de menores de 14 anos, o fim dos turnos noturnos para mulheres e menores de 18 anos, jornada de trabalho de oito horas, e aumento salarial. Estima-se que cerca de 43.800 trabalhadores tenham aderido ao movimento, somente em S&atilde;o Paulo.<br />
 &nbsp;</p>
 
-<p><strong>Greve dos 300 mil</strong><br />
-&nbsp;</p>
+<p><strong>Greve dos 300 mil</strong></p>
 
 <figure class="image" style="float:left"><img alt="grevegeral [2].jpg" height="223" src="//farm66.staticflickr.com/65535/48049774731_a1240bf7cc_b.jpg" width="300" />
 <figcaption></figcaption>
@@ -125,8 +123,7 @@ Com a Previd&ecirc;ncia social amea&ccedil;ada pela proposta de reforma do presi
 <p>Apesar de 400 grevistas terem sido demitidos ap&oacute;s o fim da greve, os trabalhadores conseguiram 32% de aumento salarial e a indica&ccedil;&atilde;o de Jo&atilde;o Goulart, que futuramente seria eleito presidente, para o minist&eacute;rio do trabalho do governo Vargas.<br />
 &nbsp;</p>
 
-<p><strong>Metal&uacute;rgicos param o ABC paulista</strong><br />
-&nbsp;</p>
+<p><strong>Metal&uacute;rgicos param o ABC paulista</strong></p>
 
 <figure class="image" style="float:left"><img alt="grevegeral [3].jpg" height="191" src="//farm66.staticflickr.com/65535/48049812773_5e85070973_b.jpg" width="300" />
 <figcaption></figcaption>
@@ -152,10 +149,13 @@ Com a Previd&ecirc;ncia social amea&ccedil;ada pela proposta de reforma do presi
 <p>Mesmo a reivindica&ccedil;&atilde;o inicial de reajuste tendo sido de 73%, a &uacute;ltima assembleia ao fim do per&iacute;odo de 45 dias aprovou uma proposta de 63%, o que p&ocirc;s fim &agrave; greve, com o saldo de amplia&ccedil;&atilde;o da capacidade de mobiliza&ccedil;&atilde;o e organiza&ccedil;&atilde;o do movimento sindical metal&uacute;rgico. A interven&ccedil;&atilde;o federal foi suspensa e, no dia 18 de maio, a diretoria eleita reassumiu o sindicato.<br />
 &nbsp;</p>
 
-<p><strong>Petroleiros encabe&ccedil;am greve contra decreto da ditadura</strong><br />
-&nbsp;</p>
+<p><strong>Petroleiros encabe&ccedil;am greve contra decreto da ditadura</strong></p>
 
-<p><img alt="grevegeral [5].jpg" src="//farm66.staticflickr.com/65535/48049854357_0712a03b40_b.jpg" />No dia 21 de junho de 1983, os petroleiros brasileiros deflagraram a greve da categoria ao parar a produ&ccedil;&atilde;o da Refinaria Landulfo Alves (RLAM), em Mataripe (BA), e a Refinaria Planalto (REPLAN) em Campinas (SP). A greve foi o pontap&eacute; para a cria&ccedil;&atilde;o da CUT, cerca de um m&ecirc;s depois.</p>
+<figure class="image" style="float:left"><img alt="grevegeral [4].jpg" height="178" src="//farm66.staticflickr.com/65535/48049854157_a4dabcdc2a_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
+
+<p>No dia 21 de junho de 1983, os petroleiros brasileiros deflagraram a greve da categoria ao parar a produ&ccedil;&atilde;o da Refinaria Landulfo Alves (RLAM), em Mataripe (BA), e a Refinaria Planalto (REPLAN) em Campinas (SP). A greve foi o pontap&eacute; para a cria&ccedil;&atilde;o da CUT, cerca de um m&ecirc;s depois.</p>
 
 <p>O ano ainda era de ditadura militar, mas o contexto pol&iacute;tico favoreceu a execu&ccedil;&atilde;o da greve, com a crise econ&ocirc;mica do governo de Jo&atilde;o Figueiredo, e a eleva&ccedil;&atilde;o dos juros para conter a infla&ccedil;&atilde;o por determina&ccedil;&atilde;o do Fundo Monet&aacute;rio Internacional (FMI), al&eacute;m do corte de despesas e do Decreto-Lei 2.025, que extinguiu benef&iacute;cios de empresas estatais.<br />
 &nbsp;</p>
@@ -172,8 +172,7 @@ Com a Previd&ecirc;ncia social amea&ccedil;ada pela proposta de reforma do presi
 <p>A paralisa&ccedil;&atilde;o foi duramente reprimida pelo regime militar, resultando na interven&ccedil;&atilde;o nos sindicatos dos metal&uacute;rgicos em S&atilde;o Bernardo do Campo (SP) e Diadema (SP) e no sindicato dos petroleiros em Mataripe e de Campinas. Em Paul&iacute;nia (SP) 153 foram demitidos, e 205 em Mataripe. No dia 11 de julho, a greve foi cessada.<br />
 &nbsp;</p>
 
-<p><strong>&ldquo;Fora daqui, FMI&rdquo;</strong><br />
-&nbsp;</p>
+<p><strong>&ldquo;Fora daqui, FMI&rdquo;</strong></p>
 
 <p>No dia 21 de julho, 2 milh&otilde;es de trabalhadores de 35 categorias cruzaram os bra&ccedil;os novamente contra o agravamento do arrocho salarial, agora pelo Decreto-Lei 2.045. O decreto estabelecia que os reajustes de todas as faixas salariais seriam limitadas a 80% da varia&ccedil;&atilde;o do &iacute;ndice de infla&ccedil;&atilde;o (INPC). Empresas &ldquo;com insufici&ecirc;ncia econ&ocirc;mica&rdquo; poderiam fazer reajustes ainda menores. Foi a terceira medida de arrocho desde o acordo com o FMI.<br />
 &nbsp;</p>
@@ -181,8 +180,11 @@ Com a Previd&ecirc;ncia social amea&ccedil;ada pela proposta de reforma do presi
 <p>A regi&atilde;o do ABC paulista mais uma vez concentrou as paralisa&ccedil;&otilde;es, junto com a cidade de S&atilde;o Paulo. Em SP, o governo decretou interven&ccedil;&atilde;o nos sindicatos dos banc&aacute;rios e metrovi&aacute;rios e a pol&iacute;cia reprimiu as manifesta&ccedil;&otilde;es. No Rio de Janeiro, 50 mil pessoas se reuniram contra o FMI. Houve protestos tamb&eacute;m em Belo Horizonte, Porto Alegre e Salvador. Mais de 300 pessoas foram presas.<br />
 &nbsp;</p>
 
-<p><strong>Fracasso do Plano Cruzado</strong><br />
-&nbsp;</p>
+<p><strong>Fracasso do Plano Cruzado</strong></p>
+
+<figure class="image" style="float:left"><img alt="grevegeral [5].jpg" height="164" src="//farm66.staticflickr.com/65535/48049854357_0712a03b40_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
 
 <p>O Plano Cruzado, lan&ccedil;ado em 1986 pelo governo de Jos&eacute; Sarney (MDB), e Dilson Funaro, ministro da Fazenda, encheu a popula&ccedil;&atilde;o de esperan&ccedil;a com a promessa de congelamento de pre&ccedil;os a fim de diminuir a infla&ccedil;&atilde;o. O otimismo gerado provocou uma diminui&ccedil;&atilde;o na for&ccedil;a dos sindicatos e uma vota&ccedil;&atilde;o massiva no PMDB naquele ano, que elegeu 22 governadores nos 23 Estados e quase dois ter&ccedil;os da C&acirc;mara dos deputados e do Senado.</p>
 
@@ -195,8 +197,11 @@ As medidas do Plano Cruzado 2 fizeram os pre&ccedil;os voltarem a subir, aumenta
 <p><br />
 <strong>Trabalhadores em defesa da CLT</strong></p>
 
-<p><br />
-A fim de flexibilizar a Consolida&ccedil;&atilde;o das Leis do Trabalho (CLT), o governo de Fernando Henrique Cardoso (PSDB) protocolou o Projeto de Lei (PL) 5483, em 2001, que pretendia permitir que o negociado prevalecesse sobre o legislado nas rela&ccedil;&otilde;es de trabalho. Isto &eacute;, o governo pretendia que acordos ou conven&ccedil;&otilde;es coletivas pudessem garantir aos trabalhadores menos direitos do que os previstos pela CLT.</p>
+<figure class="image" style="float:left"><img alt="grevegeral [6].jpg" height="172" src="//farm66.staticflickr.com/65535/48049774701_1479341cdb_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
+
+<p>A fim de flexibilizar a Consolida&ccedil;&atilde;o das Leis do Trabalho (CLT), o governo de Fernando Henrique Cardoso (PSDB) protocolou o Projeto de Lei (PL) 5483, em 2001, que pretendia permitir que o negociado prevalecesse sobre o legislado nas rela&ccedil;&otilde;es de trabalho. Isto &eacute;, o governo pretendia que acordos ou conven&ccedil;&otilde;es coletivas pudessem garantir aos trabalhadores menos direitos do que os previstos pela CLT.</p>
 
 <p><br />
 A medida culminou em uma vig&iacute;lia em Bras&iacute;lia, como conta Julio Turra, dirigente da CUT, e em uma paralisa&ccedil;&atilde;o que envolveu 12 milh&otilde;es de trabalhadores, no dia 21 de mar&ccedil;o de 2002.</p>
@@ -207,8 +212,11 @@ A PL foi arquivada na &eacute;poca. Anos depois, em 2017, a proposta de FHC seri
 <p><br />
 <strong>Fora Temer!</strong></p>
 
-<p><br />
-Uma das pautas m&aacute;ximas de Michel Temer, ap&oacute;s o golpe parlamentar que destituiu Dilma Rousseff (PT) em 2016, era a aprova&ccedil;&atilde;o da reforma trabalhista e da reforma da Previd&ecirc;ncia, que posteriormente serviu como base para a atual proposta de Bolsonaro e Paulo Guedes. Na &eacute;poca, o recha&ccedil;o popular &agrave;s propostas de Temer geraram uma mobiliza&ccedil;&atilde;o massiva, passados exatos 100 anos da primeira Greve Geral do pa&iacute;s.</p>
+<figure class="image" style="float:left"><img alt="grevegeral [7].jpg" height="200" src="//farm66.staticflickr.com/65535/48049812528_3dec148444_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
+
+<p>Uma das pautas m&aacute;ximas de Michel Temer, ap&oacute;s o golpe parlamentar que destituiu Dilma Rousseff (PT) em 2016, era a aprova&ccedil;&atilde;o da reforma trabalhista e da reforma da Previd&ecirc;ncia, que posteriormente serviu como base para a atual proposta de Bolsonaro e Paulo Guedes. Na &eacute;poca, o recha&ccedil;o popular &agrave;s propostas de Temer geraram uma mobiliza&ccedil;&atilde;o massiva, passados exatos 100 anos da primeira Greve Geral do pa&iacute;s.</p>
 
 <p><br />
 A greve foi articulada conjuntamente por diversas centrais sindicais, movimentos populares, partidos de esquerda e centro-esquerda, sendo apoiada tamb&eacute;m por setores progressistas da Igreja Cat&oacute;lica. Foram registradas paralisa&ccedil;&otilde;es em 150 cidades e 40 milh&otilde;es de trabalhadores de diversos setores n&atilde;o trabalharam no dia 28 de abril, caracterizando a maior Greve Geral do Brasil at&eacute; o momento. Al&eacute;m do &quot;n&atilde;o&quot; &agrave;s reformas, bandeiras como &quot;Fora Temer&quot; e &quot;Diretas J&aacute;&quot; tamb&eacute;m foram levantadas.</p>
@@ -220,7 +228,9 @@ A reforma trabalhista seria aprovada no legislativo e sancionada no dia 13 de ju
 J&aacute; a reforma da Previd&ecirc;ncia foi barrada. Mas voltou &agrave; pauta como carro chefe do governo Bolsonaro. O governo federal e a c&uacute;pula do presidente concentram todas as for&ccedil;as na aprova&ccedil;&atilde;o da medida, mas t&ecirc;m encontrado dificuldade de articula&ccedil;&atilde;o no Congresso. E resist&ecirc;ncia nas ruas.<br />
 &nbsp;</p>
 
-<p><em>Edi&ccedil;&atilde;o: Rodrigo Chagas</em><br />
+<p><em>Edi&ccedil;&atilde;o: Rodrigo Chagas/ Brasil de Fato</em><br />
 &nbsp;</p>
 
 <p>Cr&eacute;ditos das imagens: Iconographia; Fernando Pereira/CPDoc JB; Delfim Vieira/CPDoc JB; CEDOC; M&iacute;dia Ninja</p>
+
+<p>&nbsp;</p>
