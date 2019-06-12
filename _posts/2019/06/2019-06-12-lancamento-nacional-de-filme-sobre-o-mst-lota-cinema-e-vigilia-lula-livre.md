@@ -93,7 +93,8 @@ O nome da ocupa&ccedil;&atilde;o retratada na tela tornou o filme ainda mais sig
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Festival_Isabela Lanave  (5).jpeg" height="200" src="//farm66.staticflickr.com/65535/48049556612_6bb5334356_b.jpg" width="300" />
-<figcaption>Festival_Isabela Lanave&nbsp;egenda</figcaption>
+<figcaption><em>&nbsp;8&ordm; Olhar de Cinema - Festival Internacional<br />
+de Curitiba. Foto:&nbsp;Isabela Lanave</em></figcaption>
 </figure>
 
 <p>Assim como apontou o dirigente do MST, Camila Freitas pretende contribuir para que o filme chegue a muitos acampamentos e assentamentos para &ldquo;quebrar essa barreira da comunica&ccedil;&atilde;o elitiza em que estamos hoje&rdquo;.&nbsp;&nbsp;</p>
