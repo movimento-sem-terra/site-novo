@@ -51,7 +51,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="LRM_EXPORT_196221519817381_20190610_143634377.jpeg" height="426" src="//farm66.staticflickr.com/65535/48044845521_66a253c55c_b.jpg" width="700" />
-<figcaption><em>Festa de 22 anos de Feira no Assentamento 8 de Junho. Fotos: Jaine Amorin</em></figcaption>
+<figcaption><em>22 anos de Feira no Assentamento 8 de Junho. Fotos: Jaine Amorin</em></figcaption>
 </figure>
 </div>
 
@@ -92,6 +92,10 @@ Da P&aacute;gina do MST</em><br />
 <p>&nbsp;</p>
 
 <p>As fam&iacute;lias resistiram aos dias ensolarados de ver&atilde;o e durante os rigorosos invernos embaixo da lona preta at&eacute; a conquista definitiva da &aacute;rea no ano de 2001, onde come&ccedil;aram a construir seus lares em terras que puderam passar a dizer que eram suas.</p>
+
+<figure class="image" style="float:right"><img alt="LRM_EXPORT_196662796746327_20190610_144355654.jpeg" height="200" src="//farm66.staticflickr.com/65535/48044877053_f54ab1f2c2_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
 O assentamento foi formado com 74 lotes at&eacute; o ano de 2009, quando tr&ecirc;s lotes foram cedidos para a instala&ccedil;&atilde;o de um dos campus da UFFS, uma grande conquista dos movimentos sociais da regi&atilde;o Sul do Brasil, sendo o primeiro campus de Universidade Federal dentro de um assentamento de reforma agr&aacute;ria.</p>
