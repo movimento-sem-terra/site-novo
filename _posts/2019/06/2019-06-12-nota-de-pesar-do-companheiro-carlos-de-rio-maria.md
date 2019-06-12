@@ -5,7 +5,7 @@ tags:
 title: Nota de pesar do companheiro Carlos de Rio Maria
 support_line: "Líder Sindicalista, Rio Maria estava à frente do Sindicato dos Trabalhadores e Trabalhadoras Rurais (STTR) "
 menu: direitos humanos
-images_hd: //farm66.staticflickr.com/65535/48050516561_f964286183_b.jpg
+images_hd: //farm66.staticflickr.com/65535/48050671302_9af1145bc8_b.jpg
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/48050516561_f964286183_b.jpg
@@ -15,6 +15,13 @@ files:
     small: //farm66.staticflickr.com/65535/48050516561_f964286183_n.jpg
     title: "Bdf [11].png"
     $$hashKey: 07O
+  - link: //farm66.staticflickr.com/65535/48050671302_9af1145bc8_b.jpg
+    original: //farm66.staticflickr.com/65535/48050671302_f9d187207a_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48050671302_9af1145bc8_t.jpg
+    medium: //farm66.staticflickr.com/65535/48050671302_9af1145bc8_z.jpg
+    small: //farm66.staticflickr.com/65535/48050671302_9af1145bc8_n.jpg
+    title: images.jpeg
+    $$hashKey: 0EC
 created_date: "2019-06-12T14:35:17-03:00"
 published: true
 releated_posts:
