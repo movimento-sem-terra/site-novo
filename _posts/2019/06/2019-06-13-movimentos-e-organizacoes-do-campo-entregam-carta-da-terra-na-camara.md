@@ -138,81 +138,119 @@ Reafirmamos a luta unit&aacute;ria pela constru&ccedil;&atilde;o de uma sociedad
 <em>S&atilde;o Paulo, 8 de junho de 2019&quot;.</em></p>
 
 <p><br />
-Assinam o documento:</p>
+Assinam o documento:<br />
+&nbsp;</p>
 
-<p>Articula&ccedil;&atilde;o dos Empregados Rurais do Estado de Minas Gerais - ADERE</p>
+<p>Articula&ccedil;&atilde;o dos Empregados Rurais do Estado de Minas Gerais - ADERE<br />
+&nbsp;</p>
 
-<p>Articula&ccedil;&atilde;o no Semi&aacute;rido Brasileiro - ASA</p>
+<p>Articula&ccedil;&atilde;o no Semi&aacute;rido Brasileiro - ASA<br />
+&nbsp;</p>
 
-<p>Articula&ccedil;&atilde;o Nacional de Agroecologia - ANA</p>
+<p>Articula&ccedil;&atilde;o Nacional de Agroecologia - ANA<br />
+&nbsp;</p>
 
-<p>Articula&ccedil;&atilde;o Nacional de Agroecologia da Amaz&ocirc;nia</p>
+<p>Articula&ccedil;&atilde;o Nacional de Agroecologia da Amaz&ocirc;nia<br />
+&nbsp;</p>
 
-<p>Associa&ccedil;&atilde;o Brasileira de Agroecologia - ABA</p>
+<p>Associa&ccedil;&atilde;o Brasileira de Agroecologia - ABA<br />
+&nbsp;</p>
 
-<p>Associa&ccedil;&atilde;o Brasileira de Juristas pela Democracia - ABJD</p>
+<p>Associa&ccedil;&atilde;o Brasileira de Juristas pela Democracia - ABJD<br />
+&nbsp;</p>
 
-<p>Associa&ccedil;&atilde;o Brasileira pela Reforma Agr&aacute;ria - ABRA</p>
+<p>Associa&ccedil;&atilde;o Brasileira pela Reforma Agr&aacute;ria - ABRA<br />
+&nbsp;</p>
 
-<p>Campanha Permanente Contra os Agrot&oacute;xicos e Pela Vida</p>
+<p>Campanha Permanente Contra os Agrot&oacute;xicos e Pela Vida<br />
+&nbsp;</p>
 
-<p>Central &Uacute;nica dos Trabalhadores &ndash; CUT</p>
+<p>Central &Uacute;nica dos Trabalhadores &ndash; CUT<br />
+&nbsp;</p>
 
-<p>Central UNIcatadores</p>
+<p>Central UNIcatadores<br />
+&nbsp;</p>
 
-<p>Comiss&atilde;o Pastoral da Terra - CPT</p>
+<p>Comiss&atilde;o Pastoral da Terra - CPT<br />
+&nbsp;</p>
 
-<p>Confedera&ccedil;&atilde;o Nacional dos trabalhadores rurais Agricultores e Agricultoras Familiares &ndash; CONTAG</p>
+<p>Confedera&ccedil;&atilde;o Nacional dos trabalhadores rurais Agricultores e Agricultoras Familiares &ndash; CONTAG<br />
+&nbsp;</p>
 
-<p>Confedera&ccedil;&atilde;o Nacional dos Trabalhadores e Trabalhadoras na Agricultura Familiar - CONTRAF</p>
+<p>Confedera&ccedil;&atilde;o Nacional dos Trabalhadores e Trabalhadoras na Agricultura Familiar - CONTRAF<br />
+&nbsp;</p>
 
-<p>Conselho Indigenista Mission&aacute;rio - CIMI</p>
+<p>Conselho Indigenista Mission&aacute;rio - CIMI<br />
+&nbsp;</p>
 
-<p>Conselho Nacional de Povos e Comunidades Tradicionais - CNPCT</p>
+<p>Conselho Nacional de Povos e Comunidades Tradicionais - CNPCT<br />
+&nbsp;</p>
 
-<p>Coordena&ccedil;&atilde;o Nacional de Articula&ccedil;&atilde;o das Comunidades Negras Rurais Quilombolas &ndash; CONAQ</p>
+<p>Coordena&ccedil;&atilde;o Nacional de Articula&ccedil;&atilde;o das Comunidades Negras Rurais Quilombolas &ndash; CONAQ<br />
+&nbsp;</p>
 
-<p>Escola de Ativismo</p>
+<p>Escola de Ativismo<br />
+&nbsp;</p>
 
-<p>Federa&ccedil;&atilde;o de &Oacute;rg&atilde;os para Assist&ecirc;ncia Social e Educacional - FASE</p>
+<p>Federa&ccedil;&atilde;o de &Oacute;rg&atilde;os para Assist&ecirc;ncia Social e Educacional - FASE<br />
+&nbsp;</p>
 
-<p>F&oacute;rum dos Gestores e Gestoras Respons&aacute;veis pelas Pol&iacute;ticas de Apoio &agrave; Agricultura Familiar do Nordeste</p>
+<p>F&oacute;rum dos Gestores e Gestoras Respons&aacute;veis pelas Pol&iacute;ticas de Apoio &agrave; Agricultura Familiar do Nordeste<br />
+&nbsp;</p>
 
-<p>Funda&ccedil;&atilde;o Lauro Campos e Marielle Franco</p>
+<p>Funda&ccedil;&atilde;o Lauro Campos e Marielle Franco<br />
+&nbsp;</p>
 
-<p>Funda&ccedil;&atilde;o Perseu Abramo</p>
+<p>Funda&ccedil;&atilde;o Perseu Abramo<br />
+&nbsp;</p>
 
-<p>Grupo Carta de Bel&eacute;m - GCB</p>
+<p>Grupo Carta de Bel&eacute;m - GCB<br />
+&nbsp;</p>
 
-<p>Movimento Campon&ecirc;s Popular - MCP</p>
+<p>Movimento Campon&ecirc;s Popular - MCP<br />
+&nbsp;</p>
 
-<p>Movimento Ci&ecirc;ncia Cidad&atilde;</p>
+<p>Movimento Ci&ecirc;ncia Cidad&atilde;<br />
+&nbsp;</p>
 
-<p>Movimento Interestadual de Mulheres Quebradeiras de Coco Baba&ccedil;&uacute; - MICQB</p>
+<p>Movimento Interestadual de Mulheres Quebradeiras de Coco Baba&ccedil;&uacute; - MICQB<br />
+&nbsp;</p>
 
-<p>Movimento dos Atingidos por Barragens - MAB</p>
+<p>Movimento dos Atingidos por Barragens - MAB<br />
+&nbsp;</p>
 
-<p>Movimento de Pescadores e Pescadora Artesanais - MPP</p>
+<p>Movimento de Pescadores e Pescadora Artesanais - MPP<br />
+&nbsp;</p>
 
-<p>Movimento de Trabalhadores e Trabalhadoras do Campo &ndash; MTC</p>
+<p>Movimento de Trabalhadores e Trabalhadoras do Campo &ndash; MTC<br />
+&nbsp;</p>
 
-<p>Movimento dos Pequenos Agricultores &ndash; MPA</p>
+<p>Movimento dos Pequenos Agricultores &ndash; MPA<br />
+&nbsp;</p>
 
-<p>Movimento dos Trabalhadores Rurais Sem Terra - MST</p>
+<p>Movimento dos Trabalhadores Rurais Sem Terra - MST<br />
+&nbsp;</p>
 
-<p>Movimento pela Soberania Popular na Minera&ccedil;&atilde;o - MAM</p>
+<p>Movimento pela Soberania Popular na Minera&ccedil;&atilde;o - MAM<br />
+&nbsp;</p>
 
-<p>Movimento Nacional de Direitos Humanos - MNDH</p>
+<p>Movimento Nacional de Direitos Humanos - MNDH<br />
+&nbsp;</p>
 
-<p>Movimento por Trabalho e Direitos - MTD</p>
+<p>Movimento por Trabalho e Direitos - MTD<br />
+&nbsp;</p>
 
-<p>Slow Food Brasil</p>
+<p>Slow Food Brasil<br />
+&nbsp;</p>
 
-<p>Pastoral da Juventude Rural - PJR</p>
+<p>Pastoral da Juventude Rural - PJR<br />
+&nbsp;</p>
 
-<p>Projeto Brasil Popular</p>
+<p>Projeto Brasil Popular<br />
+&nbsp;</p>
 
-<p>Terra de Direitos</p>
+<p>Terra de Direitos<br />
+&nbsp;</p>
 
 <p>Uni&atilde;o Nacional das Organiza&ccedil;&otilde;es Cooperativas Solid&aacute;rias - UNICOPAS</p>
 
