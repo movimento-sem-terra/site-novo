@@ -101,8 +101,8 @@ avan&ccedil;ados no RS. Foto Catiana de Medeiros</em></figcaption>
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Evento contou com mística que lembrou os crimes da Vale em MG. Foto - Maiara Rauber.jpg" height="189" src="//farm66.staticflickr.com/65535/48057014316_bbd84ff15f_b.jpg" width="300" />
-<figcaption><em>Evento contou com m&iacute;stica que lembrou os crimes<br />
-da Vale em MG. Foto - Maiara Rauber</em></figcaption>
+<figcaption><em>Evento contou com m&iacute;stica que lembrou os<br />
+crimes&nbsp;da Vale em MG. Foto: Maiara Rauber</em></figcaption>
 </figure>
 
 <p>&ldquo;Segundo estudos, nos pr&oacute;ximos 15 anos 1 milh&atilde;o de chineses v&atilde;o morrer por respirar p&oacute; das minas de carv&atilde;o. Nos EUA, segundo a Associa&ccedil;&atilde;o Americana do Cora&ccedil;&atilde;o, morrem por ano de 20 a 30 mil pessoas com problemas cardiovasculares. Esses pa&iacute;ses est&atilde;o pegando o problema industrial e poluidor deles e levando a outras partes do globo, que t&ecirc;m recursos minerais em abund&acirc;ncia e m&atilde;o de obra barata&rdquo;, denunciou.</p>
