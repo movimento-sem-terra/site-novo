@@ -51,7 +51,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na manh&atilde; dessa ter&ccedil;a- feira(11), cerca de 80 fam&iacute;lias oriundas da reforma agr&aacute;ria que estavam acampadas no acampamento M&atilde;e Terra, localizada no munic&iacute;pio de Boa Vista do Tupim, na Chapada Diamantina, sofreram despejo.<br />
+Na manh&atilde; dessa ter&ccedil;a- feira(11), cerca de 80 fam&iacute;lias beneficiadas da reforma agr&aacute;ria que estavam acampadas no acampamento M&atilde;e Terra, localizada no munic&iacute;pio de Boa Vista do Tupim, na Chapada Diamantina, sofreram despejo.<br />
 &nbsp;</p>
 
 <p>Anteriormente chamada de Santa F&eacute;, a fazenda foi ocupada em 2011 pelo Movimento dos Trabalhadores Rurais Sem-Terra (MST) que, em conjunto com a Coordena&ccedil;&atilde;o de Desenvolvimento Agr&aacute;rio (CDA), come&ccedil;aram o processo de compra e venda da fazenda.<br />
