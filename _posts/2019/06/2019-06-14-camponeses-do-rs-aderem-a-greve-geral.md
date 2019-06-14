@@ -39,7 +39,7 @@ files:
     title: Mobilização em Eldorado do Sul. Foto Eduardo Teixeira.jpg
     $$hashKey: 039
 created_date: "2019-06-14T12:54:19-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/06/2019-06-13-e-um-dia-de-luta-de-toda-classe-trabalhadora.md
   - _posts/2018/08/2018-08-25-em-carta-grevistas-agradecem-o-apoio-e-reafirmam-sua-luta-por-justica.md
@@ -49,7 +49,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Mobilização em Eldorado do Sul. Foto Eduardo Teixeira.jpg" height="525" src="//farm66.staticflickr.com/65535/48061886703_0dba4c1384_b.jpg" width="700" />
-<figcaption>Mobiliza&ccedil;&atilde;o em Eldorado do Sul - Foto Eduardo Teixeira.</figcaption>
+<figcaption><em>Mobiliza&ccedil;&atilde;o em Eldorado do Sul - Foto Eduardo Teixeira.</em></figcaption>
 </figure>
 </div>
 
@@ -70,12 +70,17 @@ At&eacute; &agrave;s 12 horas horas foram registradas a&ccedil;&otilde;es de piq
 
 <p>Nesta manh&atilde;, j&aacute; teve atos p&uacute;blicos em Alegrete, Cachoeirinha, Cruz Alta, Espumoso, Farroupilha, Frederico Westphalen, Gravata&iacute;, Iju&iacute;, Os&oacute;rio, Santo &Acirc;ngelo, Santa Cruz do Sul, Santa Rosa, S&atilde;o Sep&eacute; e Tr&ecirc;s de Maio. &Agrave; tarde, outras sete cidades realizar&atilde;o caminhadas, atos em pra&ccedil;as e em frente a pr&eacute;dios do INSS. Em Porto Alegre, na Capital, a mobiliza&ccedil;&atilde;o ser&aacute; a partir das 17 horas, na Esquina Democr&aacute;tica.</p>
 
+<figure class="image" style="float:right"><img alt="Bloqueio na BR-386 em Sarandi, na região Norte. Foto Leandro Molina.jpg" height="225" src="//farm66.staticflickr.com/65535/48061934532_080dc7295e_b.jpg" width="300" />
+<figcaption><em>Bloqueio na BR-386 em Sarandi, na regi&atilde;o<br />
+Norte. Foto Leandro Molina</em></figcaption>
+</figure>
+
 <p>&nbsp;</p>
 
 <p><strong>Pr&oacute;ximos atos da Greve Geral:</strong><br />
 &nbsp;</p>
 
-<p>&nbsp;- Caxias do Sul: 17h, Pra&ccedil;a Dante Alighieri<img alt="Mobilização na região Metropolitana de Porto Alegre. Foto Alexandre Adair (1).jpg" src="//farm66.staticflickr.com/65535/48061934462_b02a1007fb_b.jpg" /></p>
+<p>&nbsp;- Caxias do Sul: 17h, Pra&ccedil;a Dante Alighieri</p>
 
 <p>- Erechim: 14h, Pra&ccedil;a Dos Bombeiros</p>
 
@@ -92,22 +97,27 @@ At&eacute; &agrave;s 12 horas horas foram registradas a&ccedil;&otilde;es de piq
 <p><br />
 <strong>Levantamento parcial das mobiliza&ccedil;&otilde;es no RS</strong></p>
 
+<figure class="image" style="float:right"><img alt="Mobilização na região Metropolitana de Porto Alegre. Foto Alexandre Adair (1).jpg" height="225" src="//farm66.staticflickr.com/65535/48061934462_b02a1007fb_b.jpg" width="300" />
+<figcaption><em>Mobiliza&ccedil;&atilde;o na regi&atilde;o Metropolitana de Porto<br />
+Alegre. Foto Alexandre Adair</em></figcaption>
+</figure>
+
 <p><br />
-- Trancamento de rodovias<br />
-&nbsp;</p>
+<em>- Trancamento de rodovias</em></p>
 
 <p>Manoel Viana, Nova Santa Rita, Eldorado do Sul, Candiota, Bossoroca, Viam&atilde;o, Encruzilhada do Sul, Santana do Livramento, Lagoa Vermelha, Piratini, S&atilde;o Gabriel, Santo Augusto, Pelotas, Caxias do Sul, Rota do Sul, Santa Maria, Cruz Alta, S&atilde;o Leopoldo, Sapiranga e Sarandi.<br />
 &nbsp;</p>
 
-<p>- Piquetes em garagens de &ocirc;nibus<br />
+<p><em>- Piquetes em garagens de &ocirc;nibus</em><br />
 &nbsp;</p>
 
 <p>Pelotas, Passo Fundo, Rio Grande, Bag&eacute;, Iju&iacute;, Porto Alegre, Canoas, Alvorada, Caxias do Sul, Gravata&iacute;, S&atilde;o Leopoldo, Santa Vit&oacute;ria do Palmar, Novo Hamburgo e Esteio.<br />
 &nbsp;</p>
 
-<p>- Acampamentos<br />
+<p><em>- Acampamentos</em><br />
 &nbsp;</p>
 
-<p>Sarandi, Erechim, S&atilde;o Louren&ccedil;o do Sul, Lagoa Vermelha e Sananduva.</p>
+<p>Sarandi, Erechim, S&atilde;o Louren&ccedil;o do Sul, Lagoa Vermelha e Sananduva.<br />
+&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
