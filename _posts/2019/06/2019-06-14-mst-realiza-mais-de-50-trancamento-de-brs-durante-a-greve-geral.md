@@ -7,7 +7,7 @@ tags:
 title: "MST realiza mais de 50 trancamento de BRs durante a Greve Geral "
 support_line: "Segundo a Central Única dos Trabalhadores (CUT) até às 13h, a estimava que 45 milhões de trabalhadores tenham participado de atos ou paralisações"
 menu: lutas e mobilizações
-images_hd: //farm66.staticflickr.com/65535/48062599337_20839229d6_b.jpg
+images_hd: //farm66.staticflickr.com/65535/48062500536_764135d810_b.jpg
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/48062599337_20839229d6_b.jpg
@@ -17,13 +17,6 @@ files:
     small: //farm66.staticflickr.com/65535/48062599337_20839229d6_n.jpg
     title: WhatsApp Image 2019-06-14 at 08.37.29.jpeg
     $$hashKey: "054"
-  - link: //farm66.staticflickr.com/65535/48062599327_e8fba20d83_b.jpg
-    original: //farm66.staticflickr.com/65535/48062599327_fa5d8c5f33_o.jpg
-    thumbnail: //farm66.staticflickr.com/65535/48062599327_e8fba20d83_t.jpg
-    medium: //farm66.staticflickr.com/65535/48062599327_e8fba20d83_z.jpg
-    small: //farm66.staticflickr.com/65535/48062599327_e8fba20d83_n.jpg
-    title: WhatsApp Image 2019-06-14 at 10.00.14.jpeg
-    $$hashKey: "057"
   - link: //farm66.staticflickr.com/65535/48062500296_a81b072c0a_b.jpg
     original: //farm66.staticflickr.com/65535/48062500296_bb2bb5062c_o.jpg
     thumbnail: //farm66.staticflickr.com/65535/48062500296_a81b072c0a_t.jpg
@@ -60,12 +53,13 @@ files:
     title: Ceará.jpeg
     $$hashKey: "075"
 created_date: "2019-06-14T15:14:21-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/06/2019-06-14-camponeses-do-rs-aderem-a-greve-geral.md
   - _posts/2019/06/2019-06-14-nota-sobre-ataque-violento-da-guarda-municipal-a-manifestantes-em-araucaria-pr.md
   - _posts/2019/06/2019-06-13-e-um-dia-de-luta-de-toda-classe-trabalhadora.md
   - _posts/2019/06/2019-06-14-minuto-a-minuto-or-greve-geral-paralisa-o-pais-nesta-sexta-feira-14.md
+section: cover
 
 ---
 <p>
@@ -75,7 +69,9 @@ releated_posts:
 </p>
 
 <p><br />
-<em>Da P&aacute;gina do MST&nbsp;</em></p>
+&nbsp;</p>
+
+<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
 &nbsp;</p>
@@ -99,7 +95,14 @@ A greve, organizada por movimentos populares, movimento estudantil, centrais sin
 
 <p>&nbsp;</p>
 
-<p><strong>Rio de janeiro </strong></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="RJ Pablo.jpeg" height="467" src="//farm66.staticflickr.com/65535/48062551493_9d2f707007_b.jpg" width="700" />
+<figcaption>Rio de Janeiro&nbsp;</figcaption>
+</figure>
+</div>
+
+<p><br />
+<strong>Rio de janeiro </strong></p>
 
 <p>Em Campos dos Goytacazes, movimentos populares, movimento estudantil e trabalhadores sindicais trancaram a BR-101 para, junto com todo o Brasil, dizer N&atilde;o &agrave; Reforma da Previd&ecirc;ncia e os cortes da educa&ccedil;&atilde;o.</p>
 
@@ -213,17 +216,25 @@ Em Londrina, maior cidade do norte paranaense, uma mobiliza&ccedil;&atilde;o em 
 
 <p>Centrais e movimentos paralisam todo o transporte coletivo de Presidente Prudente.</p>
 
-<p>&nbsp;</p>
+<figure class="image"><img alt="Ceará.jpeg" height="340" src="//farm66.staticflickr.com/65535/48062500536_764135d810_b.jpg" width="700" />
+<figcaption>Cear&aacute;&nbsp;</figcaption>
+</figure>
 
-<p><strong>Cear&aacute;</strong></p>
+<p><br />
+<strong>Cear&aacute;</strong></p>
 
 <p>No Cear&aacute; 57 munic&iacute;pios aderiram &agrave; greve Geral. Foram realizados trancamentos na BR-116, no munic&iacute;pio de Barro, BR-020, em Canind&eacute; e na BR-020 trancada no Munic&iacute;pio de Madalena. Na capital cearense um ato unificado reuniu 100 mil pessoas nas ruas do centro. Al&eacute;m disso, o MST participou de ocupa&ccedil;&otilde;es em ag&ecirc;ncias do INSS e trancamento de garagens.</p>
 
 <p>O MST tamb&eacute;m ocupou a &aacute;rea da mineradora Globest, que &eacute; uma mineradora que explora min&eacute;rio de ferro no munic&iacute;pio de Quiterian&oacute;polis, na serra do Besouro, desde 2010. A empresa foi autuada 12 vezes pela Superintend&ecirc;ncia Estadual do Meio Ambiente (Semace) e duas vezes pelo Instituto Brasileiro do Meio Ambiente e Recursos Naturais Renov&aacute;veis (Ibama) por uma s&eacute;rie de crimes ambientais que teriam sido cometidos pr&oacute;ximos ao longo do Rio Poti.</p>
 
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-06-14 at 10.00.14.jpeg" height="526" src="//farm66.staticflickr.com/65535/48062599327_e8fba20d83_b.jpg" width="700" />
+<figcaption>Vit&oacute;ria&nbsp;</figcaption>
+</figure>
+</div>
 
-<p><strong>Vit&oacute;ria</strong></p>
+<p><br />
+<strong>Vit&oacute;ria</strong></p>
 
 <p>Na manh&atilde; dessa sexta (14), dezenas de militantes paralisaram a BR-101 em S&atilde;o Mateus. Os port&otilde;es da UFES e do IFES tamb&eacute;m est&atilde;o fechados.</p>
 
@@ -267,6 +278,8 @@ Tamb&eacute;m houve protesto na BR-381, em Betim. A Avenida Ant&ocirc;nio Carlos
 <p><strong>Tocantins </strong></p>
 
 <p>Integrantes do MST realizarem atos e paralisa&ccedil;&otilde;es na regi&atilde;o do Boc&oacute; do Paraguaio.</p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
