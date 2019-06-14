@@ -53,7 +53,8 @@ releated_posts:
 </figure>
 </div>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><em>Por Catiana de Medeiros<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Na luta por seus direitos, trabalhadores acampados e assentados da Reforma Agr&aacute;ria se somaram &agrave; greve geral desta sexta-feira (14) no Rio Grande do Sul. A mobiliza&ccedil;&atilde;o, que &eacute; nacional, &eacute; contr&aacute;ria aos cortes na educa&ccedil;&atilde;o e &agrave; reforma da Previd&ecirc;ncia de Bolsonaro.</p>
