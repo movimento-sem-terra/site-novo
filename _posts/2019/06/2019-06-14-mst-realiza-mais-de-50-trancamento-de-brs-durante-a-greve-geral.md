@@ -4,7 +4,7 @@ tags:
   - tag: greve-geral
   - tag: greve
   - tag: manifestação
-title: "MST realiza mais de 50 trancamento de BRs durante a Greve Geral "
+title: "MST realiza mais de 50 trancamentos de BRs durante a Greve Geral "
 support_line: "Segundo a Central Única dos Trabalhadores (CUT) até às 13h, a estimava que 45 milhões de trabalhadores tenham participado de atos ou paralisações"
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48062500536_764135d810_b.jpg
