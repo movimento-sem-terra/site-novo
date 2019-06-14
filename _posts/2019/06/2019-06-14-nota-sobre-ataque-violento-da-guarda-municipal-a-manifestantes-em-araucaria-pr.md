@@ -4,7 +4,7 @@ tags:
   - tag: greve-geral
   - tag: greve
   - tag: violência
-title: "Nota sobre ataque violento da Guarda Municipal a manifestantes, em Araucária (PR)\n"
+title: "Ataque violento da Guarda Municipal a manifestantes em Araucária (PR)\n"
 support_line: Ação contra a Reforma da Previdência e pela Educação foram reprimidas com violência
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48062053862_a6732a1053_b.jpg
