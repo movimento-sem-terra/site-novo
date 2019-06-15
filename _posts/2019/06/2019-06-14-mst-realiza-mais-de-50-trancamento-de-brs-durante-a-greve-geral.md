@@ -7,7 +7,7 @@ tags:
 title: "MST realiza mais de 50 trancamentos de BRs durante a Greve Geral "
 support_line: "Segundo a Central Única dos Trabalhadores (CUT) até às 13h, a estimava que 45 milhões de trabalhadores tenham participado de atos ou paralisações"
 menu: lutas e mobilizações
-images_hd: //farm66.staticflickr.com/65535/48062500536_764135d810_b.jpg
+images_hd: //farm66.staticflickr.com/65535/48064384396_5490e576c0_b.jpg
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/48062599337_20839229d6_b.jpg
@@ -52,6 +52,62 @@ files:
     small: //farm66.staticflickr.com/65535/48062500536_764135d810_n.jpg
     title: Ceará.jpeg
     $$hashKey: "075"
+  - link: //farm66.staticflickr.com/65535/48064382901_2ffd100a76_b.jpg
+    original: //farm66.staticflickr.com/65535/48064382901_78b54d795a_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48064382901_2ffd100a76_t.jpg
+    medium: //farm66.staticflickr.com/65535/48064382901_2ffd100a76_z.jpg
+    small: //farm66.staticflickr.com/65535/48064382901_2ffd100a76_n.jpg
+    title: WhatsApp Image 2019-06-14 at 16.29.45.jpeg
+    $$hashKey: 0B1
+  - link: //farm66.staticflickr.com/65535/48064486892_3043f294a2_b.jpg
+    original: //farm66.staticflickr.com/65535/48064486892_70cc770032_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48064486892_3043f294a2_t.jpg
+    medium: //farm66.staticflickr.com/65535/48064486892_3043f294a2_z.jpg
+    small: //farm66.staticflickr.com/65535/48064486892_3043f294a2_n.jpg
+    title: WhatsApp Image 2019-06-14 at 19.13.27.jpeg
+    $$hashKey: 0B4
+  - link: //farm66.staticflickr.com/65535/48064383026_c484886042_b.jpg
+    original: //farm66.staticflickr.com/65535/48064383026_79d76181ec_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48064383026_c484886042_t.jpg
+    medium: //farm66.staticflickr.com/65535/48064383026_c484886042_z.jpg
+    small: //farm66.staticflickr.com/65535/48064383026_c484886042_n.jpg
+    title: WhatsApp Image 2019-06-14 at 16.29.44.jpeg
+    $$hashKey: 0B7
+  - link: //farm66.staticflickr.com/65535/48064383751_6ca534d8d3_b.jpg
+    original: //farm66.staticflickr.com/65535/48064383751_1502d3fe12_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48064383751_6ca534d8d3_t.jpg
+    medium: //farm66.staticflickr.com/65535/48064383751_6ca534d8d3_z.jpg
+    small: //farm66.staticflickr.com/65535/48064383751_6ca534d8d3_n.jpg
+    title: WhatsApp Image 2019-06-14 at 17.22.54.jpeg
+    $$hashKey: 0BA
+  - link: //farm66.staticflickr.com/65535/48064487832_5187f7d7b3_b.jpg
+    original: //farm66.staticflickr.com/65535/48064487832_636d500c7f_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48064487832_5187f7d7b3_t.jpg
+    medium: //farm66.staticflickr.com/65535/48064487832_5187f7d7b3_z.jpg
+    small: //farm66.staticflickr.com/65535/48064487832_5187f7d7b3_n.jpg
+    title: WhatsApp Image 2019-06-14 at 18.00.35 (1).jpeg
+    $$hashKey: 0BD
+  - link: //farm66.staticflickr.com/65535/48064383986_d7570f94f8_b.jpg
+    original: //farm66.staticflickr.com/65535/48064383986_9607d9efca_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48064383986_d7570f94f8_t.jpg
+    medium: //farm66.staticflickr.com/65535/48064383986_d7570f94f8_z.jpg
+    small: //farm66.staticflickr.com/65535/48064383986_d7570f94f8_n.jpg
+    title: WhatsApp Image 2019-06-14 at 20.24.24.jpeg
+    $$hashKey: 0BG
+  - link: //farm66.staticflickr.com/65535/48064488057_5b3ef122f6_b.jpg
+    original: //farm66.staticflickr.com/65535/48064488057_692540319a_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48064488057_5b3ef122f6_t.jpg
+    medium: //farm66.staticflickr.com/65535/48064488057_5b3ef122f6_z.jpg
+    small: //farm66.staticflickr.com/65535/48064488057_5b3ef122f6_n.jpg
+    title: WhatsApp Image 2019-06-14 at 20.01.38.jpeg
+    $$hashKey: 0BJ
+  - link: //farm66.staticflickr.com/65535/48064384396_5490e576c0_b.jpg
+    original: //farm66.staticflickr.com/65535/48064384396_15dab021f4_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48064384396_5490e576c0_t.jpg
+    medium: //farm66.staticflickr.com/65535/48064384396_5490e576c0_z.jpg
+    small: //farm66.staticflickr.com/65535/48064384396_5490e576c0_n.jpg
+    title: WhatsApp Image 2019-06-14 at 18.00.35.jpeg
+    $$hashKey: 0BM
 created_date: "2019-06-14T15:14:21-03:00"
 published: true
 releated_posts:
@@ -68,8 +124,9 @@ section: cover
 </style>
 </p>
 
-<p><br />
-&nbsp;</p>
+<p style="text-align:center"><img alt="WhatsApp Image 2019-06-14 at 18.00.35 (1).jpeg" height="525" src="//farm66.staticflickr.com/65535/48064487832_5187f7d7b3_b.jpg" width="700" /></p>
+
+<p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
@@ -96,10 +153,12 @@ A greve, organizada por movimentos populares, movimento estudantil, centrais sin
 <p>&nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="RJ Pablo.jpeg" height="467" src="//farm66.staticflickr.com/65535/48062551493_9d2f707007_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-06-14 at 20.24.24.jpeg" height="477" src="//farm66.staticflickr.com/65535/48064383986_d7570f94f8_b.jpg" width="700" />
 <figcaption>Rio de Janeiro&nbsp;</figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
 
 <p><br />
 <strong>Rio de janeiro </strong></p>
@@ -178,7 +237,11 @@ Em Londrina, maior cidade do norte paranaense, uma mobiliza&ccedil;&atilde;o em 
 
 <p>Os trancamentos aconteceram nas BR-232 em Jaboat&atilde;o (acesso do Recife e sentido agreste), Gravat&aacute; (sentido Caruaru e sentido Recife), S&atilde;o Caetano (sentido Caruaru e sentido Pesqueira) Pesqueira (sentido Arcoverde). BR-101 em Escada (acesso Recife e sentido mata norte), Igarassu, Metal&uacute;rgicos &ndash; Sindmetal, Goiana (sentido Recife e sentido Jo&atilde;o Pessoa), BR-104 (sentido Caruaru e sentido Campina Grande), PE-71 em Amaragi (Amaragi at&eacute; Gravat&aacute;), PE-120 na cidade de Bonito no trevo que liga Palmares e Caruaru. BR-316 em Petrol&acirc;ndia, na Ponte que liga Petrolina a Juazeiro. Tamb&eacute;m foi realizada uma ocupa&ccedil;&atilde;o na fazenda Riacho Fundo com 250 fam&iacute;lias em Lagoa Grande no sert&atilde;o do Rio S&atilde;o Francisco. Em Ouricuri, no sert&atilde;o do estado, uma manifesta&ccedil;&atilde;o tomou grande parte das ruas do munic&iacute;pio.</p>
 
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-06-14 at 20.01.38.jpeg" height="550" src="//farm66.staticflickr.com/65535/48064488057_5b3ef122f6_b.jpg" width="700" />
+<figcaption>S&atilde;o Paulo&nbsp;</figcaption>
+</figure>
+</div>
 
 <p><strong>S&atilde;o Paulo </strong></p>
 
@@ -286,7 +349,7 @@ Tamb&eacute;m houve protesto na BR-381, em Betim. A Avenida Ant&ocirc;nio Carlos
 
 <p><strong>Maranh&atilde;o</strong></p>
 
-<p>Em Imperatriz, os estudantes do curso de agronomia realizaram atos no munic&iacute;pio, j&aacute; na BR-135 um tranca&ccedil;o foi feito durante toda a manh&atilde; no trecho de acesso &agrave; S&atilde;o Lu&iacute;s.</p>
+<p>Em Imperatriz, os estudantes do curso de agronomia realizaram atos no munic&iacute;pio, j&aacute; na BR-135 um tranca&ccedil;o foi feito durante toda a manh&atilde; no trecho de acesso &agrave; S&atilde;o Lu&iacute;s e na BR-222 em Itapicuru&nbsp;Mirim.</p>
 
 <p>&nbsp;</p>
 
