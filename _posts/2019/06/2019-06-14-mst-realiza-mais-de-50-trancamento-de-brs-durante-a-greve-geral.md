@@ -104,7 +104,7 @@ A greve, organizada por movimentos populares, movimento estudantil, centrais sin
 <p><br />
 <strong>Rio de janeiro </strong></p>
 
-<p>Em Campos dos Goytacazes, movimentos populares, movimento estudantil e trabalhadores sindicais trancaram a BR-101 para, junto com todo o Brasil, dizer N&atilde;o &agrave; Reforma da Previd&ecirc;ncia e os cortes da educa&ccedil;&atilde;o.</p>
+<p>Em Campos dos Goytacazes, movimentos populares, movimento estudantil e trabalhadores sindicais trancaram a BR-101 para, junto com todo o Brasil, dizer N&atilde;o &agrave; Reforma da Previd&ecirc;ncia e os cortes da educa&ccedil;&atilde;o. Al&eacute;m disso, um grande ato na Candel&aacute;ria reuniu mais de 50 mil pessoas, entre eles integrantes do MST.&nbsp;&nbsp;</p>
 
 <p><br />
 <br />
@@ -122,7 +122,7 @@ A garagem Medianeira Transportes Urbanos de Iju&iacute;, na regi&atilde;o Noroes
 Logo no in&iacute;cio da manh&atilde;, um piquete na garagem Coleurb de Passo Fundo, foi feito por militantes. Trancamentos tamb&eacute;m&nbsp;foram registrados em Manoel Viana, na RS-377, na BR-386 em Nova Santa Rita, na regi&atilde;o Metropolitana de Porto Alegre (RS).</p>
 
 <p><br />
-Na BR-285 em Bossoroca, na regi&atilde;o das Miss&otilde;es do RS, na ERS-285 em Lagoa Vermelha, em Piratini, na BR-239, no trevo de acesso a S&atilde;o Gabriel e&nbsp;na esquina Boa Vista da RS-468, que liga Santo Augusto a Tr&ecirc;s Passos.<br />
+Na BR-285 em Bossoroca, na regi&atilde;o das Miss&otilde;es do RS, na ERS-285 em Lagoa Vermelha, em Piratini, na BR-239, no trevo de acesso a S&atilde;o Gabriel e&nbsp;na esquina Boa Vista da RS-468, que liga Santo Augusto a Tr&ecirc;s Passos. Tamb&eacute;m foram realizadas a&ccedil;&otilde;es em Viam&atilde;o, Encruzilhada do Sul, Santana do Livramento,&nbsp;Pelotas e Sarandi.&nbsp;<br />
 <br />
 <br />
 <strong>Bahia</strong></p>
@@ -160,61 +160,76 @@ Em Londrina, maior cidade do norte paranaense, uma mobiliza&ccedil;&atilde;o em 
 
 <p>&ldquo;Hoje a cidade est&aacute; parada mobilizada contra essa reforma que prev&ecirc; destruir com a aposentadoria dos trabalhadores brasileiros. N&oacute;s do MST estamos aqui em maring&aacute; nos somando a essa luta, para que a gente possa construir uma na&ccedil;&atilde;o mais soberana e justa, a partir da luta unit&aacute;ria dos trabalhadores&rdquo;, garante Jo&atilde;o Fl&aacute;vio, dirigente estadual do MST-PR.</p>
 
-<p>Em Dion&iacute;sio Cerqueira, Santa Catarina, uma caminhada reuniu trabalhadores do campo e da cidade, movimentos populares e sindicatos em caminhada pelo centro da cidade. No centro de Curitiba, militantes do MST, de sindicatos e partidos fizeram uma limpeza simb&oacute;lica no Minist&eacute;rio P&uacute;blico Federal.</p>
+<p>No centro de Curitiba, militantes do MST, de sindicatos e partidos fizeram uma limpeza simb&oacute;lica no Minist&eacute;rio P&uacute;blico Federal.&nbsp;</p>
+
+<p>Em Rio Bonito do Igua&ccedil;u, regi&atilde;o centro do Paran&aacute;, tamb&eacute;m foram para as ruas contra a reforma da previd&ecirc;ncia e os cortes na Educa&ccedil;&atilde;o.&nbsp;</p>
+
+<p>O ato aconteceu nesta manh&atilde;, na pra&ccedil;a Santo Ant&ocirc;nio Rio, com grande participa&ccedil;&atilde;o das fam&iacute;lias integrantes do Acampamento Herdeiros da Terra de 1&ordm; de Maio e da Escola Itinerante da comunica&ccedil;&atilde;o, chamada Herdeiros do Saber.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Santa Catarina&nbsp;</strong></p>
+
+<p>Uma grande marcha pela Orla de Florian&oacute;polis reuniu mais de 20 mil de pessoas ao final do dia.Em Dion&iacute;sio Cerqueira, uma caminhada reuniu trabalhadores do campo e da cidade, movimentos populares e sindicatos em caminhada pelo centro da cidade.&nbsp;J&aacute; no Planalto Serrano Catarinense, mais de 500 pessoas fizeram um ato no trevo entre as BR-116 e BR-470, em S&atilde;o Crist&oacute;v&atilde;o do Sul.&nbsp;</p>
 
 <p>&nbsp;</p>
 
 <p><strong>Pernambuco</strong></p>
 
-<p>Os trancamentos aconteceram nas BR-232 em Jaboat&atilde;o (acesso do Recife e sentido agreste), Gravat&aacute; (sentido Caruaru e sentido Recife), S&atilde;o Caetano (sentido Caruaru e sentido Pesqueira) Pesqueira (sentido Arcoverde). BR-101 em Escada (acesso Recife e sentido mata norte), Igarassu, Metal&uacute;rgicos &ndash; Sindmetal, Goiana (sentido Recife e sentido Jo&atilde;o Pessoa), BR-104 (sentido Caruaru e sentido Campina Grande), PE-71 em Amaragi (Amaragi at&eacute; Gravat&aacute;), PE-120 na cidade de Bonito no trevo que liga Palmares e Caruaru. BR-316 em Petrol&acirc;ndia, na Ponte que liga Petrolina a Juazeiro. Tamb&eacute;m foi realizada uma ocupa&ccedil;&atilde;o na fazenda Riacho Fundo com 250 fam&iacute;lias em Lagoa Grande no sert&atilde;o do Rio S&atilde;o Francisco.</p>
+<p>Os trancamentos aconteceram nas BR-232 em Jaboat&atilde;o (acesso do Recife e sentido agreste), Gravat&aacute; (sentido Caruaru e sentido Recife), S&atilde;o Caetano (sentido Caruaru e sentido Pesqueira) Pesqueira (sentido Arcoverde). BR-101 em Escada (acesso Recife e sentido mata norte), Igarassu, Metal&uacute;rgicos &ndash; Sindmetal, Goiana (sentido Recife e sentido Jo&atilde;o Pessoa), BR-104 (sentido Caruaru e sentido Campina Grande), PE-71 em Amaragi (Amaragi at&eacute; Gravat&aacute;), PE-120 na cidade de Bonito no trevo que liga Palmares e Caruaru. BR-316 em Petrol&acirc;ndia, na Ponte que liga Petrolina a Juazeiro. Tamb&eacute;m foi realizada uma ocupa&ccedil;&atilde;o na fazenda Riacho Fundo com 250 fam&iacute;lias em Lagoa Grande no sert&atilde;o do Rio S&atilde;o Francisco. Em Ouricuri, no sert&atilde;o do estado, uma manifesta&ccedil;&atilde;o tomou grande parte das ruas do munic&iacute;pio.</p>
 
 <p>&nbsp;</p>
 
 <p><strong>S&atilde;o Paulo </strong></p>
 
-<p>Na capital foi realizado&nbsp;um bloqueio total na avenida 23 de Maio, na altura da Pra&ccedil;a das Bandeiras. Al&eacute;m disso, um grande ato unificado est&aacute; marcado para &agrave;s 16h, no V&atilde;o Livre do MASP.&nbsp;</p>
+<p>Na capital foi realizado&nbsp;um bloqueio total na avenida 23 de Maio, na altura da Pra&ccedil;a das Bandeiras. Al&eacute;m disso, um grande ato unificado reuniu 50 mil pessoas&nbsp;&nbsp;em frente &agrave; sede da Federa&ccedil;&atilde;o das Ind&uacute;strias do Estado de S&atilde;o Paulo (Fiesp).</p>
 
-<p>&nbsp;</p>
-
-<p><strong>Campinas</strong></p>
+<p><br />
+<em><strong>Campinas</strong></em></p>
 
 <p>Foram feitos dois pontos de bloqueio na Rodovia Anhanguera. Um na entrada da cidade pela Lins da Cunha e outro no Trevo da Bosh (km 97).</p>
 
 <p>&nbsp;</p>
 
-<p><strong>Vinhedo</strong></p>
+<p><em><strong>Vinhedo</strong></em></p>
 
 <p>200 pessoas participam da mobiliza&ccedil;&atilde;o que bloqueia a entrada da f&aacute;brica Saint-Gobain.</p>
 
 <p>&nbsp;</p>
 
-<p><strong>Bauru</strong></p>
+<p><em><strong>Bauru</strong></em></p>
 
 <p>Em Bauru, centrais sindicais e movimentos populares dialogaram com condutores do transporte coletivo do munic&iacute;pio. Desde &agrave;s 5h da manh&atilde; de hoje, as duas garagens da cidade est&atilde;o paralisadas. Em frente &agrave; C&acirc;mara Municipal de Bauru, cerca de cinco mil pessoas participaram do ato unificado contra a Reforma da Previd&ecirc;ncia.</p>
 
 <p>&nbsp;</p>
 
-<p><strong>Itapeva</strong></p>
+<p><em><strong>Itapeva</strong></em></p>
 
-<p>Empresas de transporte est&atilde;o todas paralisadas no munic&iacute;pio. Os &ocirc;nibus das empresas Jundi&aacute;, Transpen e Jodi est&atilde;o nas garagens. A empresa Benfica amanheceu paralisada, mas foi liberada pela pol&iacute;cia. Al&eacute;m dessas, a Transportadora Loureiro (terceirizada da Coca Cola) tamb&eacute;m est&aacute; com os trabalhos parados.</p>
+<p>Empresas de transporte est&atilde;o todas paralisadas no munic&iacute;pio. Os &ocirc;nibus das empresas Jundi&aacute;, Transpen e Jodi est&atilde;o nas garagens. A empresa Benfica amanheceu paralisada, mas foi liberada pela pol&iacute;cia. Al&eacute;m dessas, a Transportadora Loureiro (terceirizada da Coca Cola) tamb&eacute;m est&aacute; com os trabalhos parados. Ao final do dia, cerca de 350 pessoas realizaram uma marcha pela centro da cidade.</p>
 
 <p>&nbsp;</p>
 
-<p><strong>Sorocaba</strong></p>
+<p><em><strong>Sorocaba</strong></em></p>
 
 <p>Dezenas de pessoas, entre motoristas da linha municipal de Sorocaba, movimentos populares e apoiadores realizaram um ato no centro da cidade.</p>
 
 <p>&nbsp;</p>
 
-<p><strong>S&atilde;o Jos&eacute; do Rio Preto </strong></p>
+<p><em><strong>S&atilde;o Jos&eacute; do Rio Preto </strong></em></p>
 
 <p>Em S&atilde;o Jos&eacute; de Rio Preto mais de 500 pessoas participaram da marcha na cidade Os manifestantes caminharam da sede do INSS at&eacute; o centro da cidade.</p>
 
 <p>&nbsp;</p>
 
-<p><strong>Presidente Prudente</strong></p>
+<p><em><strong>Presidente Prudente</strong></em></p>
 
 <p>Centrais e movimentos paralisam todo o transporte coletivo de Presidente Prudente.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><em>Mar&iacute;lia</em></strong>&nbsp;</p>
+
+<p>Durante toda a semana foi realizada panfletagem em diversos bairros do munic&iacute;pio. Hoje,&nbsp;aconteceu uma marcha que terminou com ato pol&iacute;tico no centro da cidade. A atividade reuniu em torno de 1500 pessoas.</p>
 
 <figure class="image"><img alt="Ceará.jpeg" height="340" src="//farm66.staticflickr.com/65535/48062500536_764135d810_b.jpg" width="700" />
 <figcaption>Cear&aacute;&nbsp;</figcaption>
@@ -250,7 +265,7 @@ Em Londrina, maior cidade do norte paranaense, uma mobiliza&ccedil;&atilde;o em 
 <br />
 Tamb&eacute;m houve protesto na BR-381, em Betim. A Avenida Ant&ocirc;nio Carlos foi fechada por manifestantes no sentido Centro, tanto na mista quanto na pista do Move na altura do campus Pampulha da Universidade Federal de Minas Gerais (UFMG).</p>
 
-<p><br />
+<p>Os Sem Terra tamb&eacute;m participaram de atos em Juiz de Fora e na capital Belo Horizonte.&nbsp;<br />
 <br />
 <strong>Alagoas</strong></p>
 
@@ -271,18 +286,16 @@ Tamb&eacute;m houve protesto na BR-381, em Betim. A Avenida Ant&ocirc;nio Carlos
 
 <p><strong>Maranh&atilde;o</strong></p>
 
-<p>Imperatriz, Os estudantes do curso de agronomia realizaram atos no munic&iacute;pio, j&aacute; na BR-135 um tranca&ccedil;o foi feito durante toda a manh&atilde; no trecho de acesso &agrave; S&atilde;o Lu&iacute;s.</p>
+<p>Em Imperatriz, os estudantes do curso de agronomia realizaram atos no munic&iacute;pio, j&aacute; na BR-135 um tranca&ccedil;o foi feito durante toda a manh&atilde; no trecho de acesso &agrave; S&atilde;o Lu&iacute;s.</p>
 
 <p>&nbsp;</p>
 
 <p><strong>Tocantins </strong></p>
 
-<p>Integrantes do MST realizarem atos e paralisa&ccedil;&otilde;es na regi&atilde;o do Boc&oacute; do Paraguaio.</p>
-
-<p>&nbsp;</p>
+<p>Em Ouro Preto D&#39; Oeste um grande&nbsp;foi realizado um ato em conjunto com centrais sindicais e a Frente Brasil Popular na capital do estado. Manifesta&ccedil;&otilde;es tamb&eacute;m foram registradas na cidade de Augustinopolis, regi&atilde;o do&nbsp; Bico do Papagaio.&nbsp;</p>
 
 <p>&nbsp;</p>
 
 <p><strong>Rond&ocirc;nia</strong></p>
 
-<p>Integrantes do MST e de organiza&ccedil;&otilde;es populares realizaram atos em Rolim de Moura contra a Reforma da Previd&ecirc;ncia. Grande parte do munic&iacute;pio aderiu as paralisa&ccedil;&otilde;es desta sexta-feira.</p>
+<p>Integrantes do MST e de organiza&ccedil;&otilde;es populares realizaram atos em Rolim de Moura contra a Reforma da Previd&ecirc;ncia. Grande parte do munic&iacute;pio aderiu as paralisa&ccedil;&otilde;es desta sexta-feira.&nbsp;Em Jaru trabalhadores e trabalhadoras organizados pela Frente Brasil Popular&nbsp;concentraram-se na rodovi&aacute;ria dos Colonos para uma aula p&uacute;blica sobre a reforma de Previd&ecirc;ncia.</p>
