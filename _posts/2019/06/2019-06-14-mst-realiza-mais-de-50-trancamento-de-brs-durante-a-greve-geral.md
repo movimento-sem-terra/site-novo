@@ -144,7 +144,7 @@ A greve, organizada por movimentos populares, movimento estudantil, centrais sin
 
 <p>&nbsp;</p>
 
-<p style="line-height: 15.6px;">O MST esteve presente em grande parte delas realizando trancamentos de rodovias, ocupa&ccedil;&otilde;es de &oacute;rg&atilde;os p&uacute;blicos e latif&uacute;ndios,&nbsp;manifesta&ccedil;&otilde;es e atos em geral.&nbsp;</p>
+<p>O MST esteve presente em grande parte delas realizando trancamentos de rodovias, ocupa&ccedil;&otilde;es de &oacute;rg&atilde;os p&uacute;blicos e latif&uacute;ndios,&nbsp;manifesta&ccedil;&otilde;es e atos em geral.&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -214,8 +214,7 @@ A BR-155 foi bloqueada em Eldorado do Caraj&aacute;s em denuncia contra a decis&
 
 <p>Em Maring&aacute;, trabalhadores paralisam o transporte p&uacute;blico desde &agrave;s 5h da manh&atilde; no terminal rodovi&aacute;rio. Em Cascavel, aproximadamente cinco mil pessoas do campo e da cidade est&atilde;o mobilizados no centro da cidade em um ato unificado, contra o desmonte da Previd&ecirc;ncia e contra os cortes p&uacute;blicos, a a&ccedil;&atilde;o &eacute; organizada pelo Comit&ecirc; Unificado pela Luta contra a Reforma da Previd&ecirc;ncia, que re&uacute;ne pastorais, entidades sindicais, movimentos sociais e partidos.</p>
 
-<p><br />
-Em Londrina, maior cidade do norte paranaense, uma mobiliza&ccedil;&atilde;o em ades&atilde;o &agrave; Greve Geral paralisou diversas categorias, as mobiliza&ccedil;&otilde;es contaram com forte participa&ccedil;&atilde;o do MST. A Pra&ccedil;a Raposo Tavares, no Centro de Maring&aacute; (PR), ficou lotada com a mobiliza&ccedil;&atilde;o da Greve Geral. Cerca de 10 mil pessoas participam da a&ccedil;&atilde;o.</p>
+<p>Em Londrina, maior cidade do norte paranaense, uma mobiliza&ccedil;&atilde;o em ades&atilde;o &agrave; Greve Geral paralisou diversas categorias, as mobiliza&ccedil;&otilde;es contaram com forte participa&ccedil;&atilde;o do MST. A Pra&ccedil;a Raposo Tavares, no Centro de Maring&aacute; (PR), ficou lotada com a mobiliza&ccedil;&atilde;o da Greve Geral. Cerca de 10 mil pessoas participam da a&ccedil;&atilde;o.</p>
 
 <p>&ldquo;Hoje a cidade est&aacute; parada mobilizada contra essa reforma que prev&ecirc; destruir com a aposentadoria dos trabalhadores brasileiros. N&oacute;s do MST estamos aqui em maring&aacute; nos somando a essa luta, para que a gente possa construir uma na&ccedil;&atilde;o mais soberana e justa, a partir da luta unit&aacute;ria dos trabalhadores&rdquo;, garante Jo&atilde;o Fl&aacute;vio, dirigente estadual do MST-PR.</p>
 
@@ -294,14 +293,12 @@ Em Londrina, maior cidade do norte paranaense, uma mobiliza&ccedil;&atilde;o em 
 
 <p>Durante toda a semana foi realizada panfletagem em diversos bairros do munic&iacute;pio. Hoje,&nbsp;aconteceu uma marcha que terminou com ato pol&iacute;tico no centro da cidade. A atividade reuniu em torno de 1500 pessoas.</p>
 
-<figure class="image"><img alt="Ceará.jpeg" height="340" src="//farm66.staticflickr.com/65535/48062500536_764135d810_b.jpg" width="700" />
-<figcaption>Cear&aacute;&nbsp;</figcaption>
-</figure>
-
 <p><br />
 <strong>Cear&aacute;</strong></p>
 
 <p>No Cear&aacute; 57 munic&iacute;pios aderiram &agrave; greve Geral. Foram realizados trancamentos na BR-116, no munic&iacute;pio de Barro, BR-020, em Canind&eacute; e na BR-020 trancada no Munic&iacute;pio de Madalena. Na capital cearense um ato unificado reuniu 100 mil pessoas nas ruas do centro. Al&eacute;m disso, o MST participou de ocupa&ccedil;&otilde;es em ag&ecirc;ncias do INSS e trancamento de garagens.</p>
+
+<p>&nbsp;</p>
 
 <p>O MST tamb&eacute;m ocupou a &aacute;rea da mineradora Globest, que &eacute; uma mineradora que explora min&eacute;rio de ferro no munic&iacute;pio de Quiterian&oacute;polis, na serra do Besouro, desde 2010. A empresa foi autuada 12 vezes pela Superintend&ecirc;ncia Estadual do Meio Ambiente (Semace) e duas vezes pelo Instituto Brasileiro do Meio Ambiente e Recursos Naturais Renov&aacute;veis (Ibama) por uma s&eacute;rie de crimes ambientais que teriam sido cometidos pr&oacute;ximos ao longo do Rio Poti.</p>
 
@@ -314,11 +311,7 @@ Em Londrina, maior cidade do norte paranaense, uma mobiliza&ccedil;&atilde;o em 
 <p><br />
 <strong>Vit&oacute;ria</strong></p>
 
-<p>Na manh&atilde; dessa sexta (14), dezenas de militantes paralisaram a BR-101 em S&atilde;o Mateus. Os port&otilde;es da UFES e do IFES tamb&eacute;m est&atilde;o fechados.</p>
-
-<p>A&ccedil;&otilde;es unificadas entre MST, MPA, MAB, as centrais sindicais e sindicatos tamb&eacute;m est&atilde;o sendo realizadas em todo estado.&nbsp;</p>
-
-<p>Uma ocupa&ccedil;&atilde;o em&nbsp;uma&nbsp;&aacute;rea do governo abandonada pela Petrobr&aacute;s em Linhares, no norte capixaba tamb&eacute;m foi realizada no in&iacute;cio dessa manh&atilde; por cerca de 100 fam&iacute;lias&nbsp;</p>
+<p>Na manh&atilde; dessa sexta (14), dezenas de militantes paralisaram a BR-101 em S&atilde;o Mateus. Os port&otilde;es da UFES e do IFES tamb&eacute;m est&atilde;o fechados. A&ccedil;&otilde;es unificadas entre MST, MPA, MAB, as centrais sindicais e sindicatos tamb&eacute;m est&atilde;o sendo realizadas em todo estado.&nbsp;Uma ocupa&ccedil;&atilde;o em&nbsp;uma&nbsp;&aacute;rea do governo abandonada pela Petrobr&aacute;s em Linhares, no norte capixaba tamb&eacute;m foi realizada no in&iacute;cio dessa manh&atilde; por cerca de 100 fam&iacute;lias&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -326,9 +319,8 @@ Em Londrina, maior cidade do norte paranaense, uma mobiliza&ccedil;&atilde;o em 
 
 <p>Paralisa&ccedil;&otilde;es fora feitas no Anel Rodovi&aacute;rio, km 538, tamb&eacute;m houve protesto na MG-050, altura do km 90, em Juatuba, fechado nos dois sentidos. Em Congonhas, na Regi&atilde;o Central, manifestantes interditaram o km 611 da BR-040 nos dois sentidos.<br />
 <br />
-Tamb&eacute;m houve protesto na BR-381, em Betim. A Avenida Ant&ocirc;nio Carlos foi fechada por manifestantes no sentido Centro, tanto na mista quanto na pista do Move na altura do campus Pampulha da Universidade Federal de Minas Gerais (UFMG).</p>
-
-<p>Os Sem Terra tamb&eacute;m participaram de atos em Juiz de Fora e na capital Belo Horizonte.&nbsp;<br />
+Tamb&eacute;m houve protesto na BR-381, em Betim. A Avenida Ant&ocirc;nio Carlos foi fechada por manifestantes no sentido Centro, tanto na mista quanto na pista do Move na altura do campus Pampulha da Universidade Federal de Minas Gerais (UFMG). Os Sem Terra tamb&eacute;m participaram de atos em Juiz de Fora e na capital Belo Horizonte.&nbsp;<br />
+<br />
 <br />
 <strong>Alagoas</strong></p>
 
@@ -355,7 +347,7 @@ Tamb&eacute;m houve protesto na BR-381, em Betim. A Avenida Ant&ocirc;nio Carlos
 
 <p><strong>Tocantins </strong></p>
 
-<p>Em Ouro Preto D&#39; Oeste um grande&nbsp;foi realizado um ato em conjunto com centrais sindicais e a Frente Brasil Popular na capital do estado. Manifesta&ccedil;&otilde;es tamb&eacute;m foram registradas na cidade de Augustinopolis, regi&atilde;o do&nbsp; Bico do Papagaio.&nbsp;</p>
+<p>Em Ouro Preto D&#39; Oeste um grande&nbsp;foi realizado um ato em conjunto com centrais sindicais e a Frente Brasil Popular na capital do estado. Manifesta&ccedil;&otilde;es tamb&eacute;m foram registradas na cidade de Augustin&oacute;polis, regi&atilde;o do&nbsp; Bico do Papagaio.&nbsp;</p>
 
 <p>&nbsp;</p>
 
