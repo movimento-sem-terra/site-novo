@@ -47,7 +47,7 @@ files:
     title: "Campeonato Xadrez [3].jpeg"
     $$hashKey: "031"
 created_date: "2019-06-17T18:08:12-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/05/2019-05-09-editora-expressao-popular-lanca-livro-sobre-a-importancia-da-preservacao-de-sementes.md
   - _posts/2019/05/2019-05-22-espetaculo-o-longe-circula-por-areas-da-reforma-agraria-no-df.md
@@ -62,17 +62,18 @@ releated_posts:
 </div>
 
 <p><br />
-<em>Por Igor De&nbsp;Nadai</em><img alt="Campeonato Xadrez [5].jpeg" src="//farm66.staticflickr.com/65535/48082021271_4efa990779_b.jpg" /><br />
-<em>Da P&aacute;gina do MST</em></p>
+<em>Por Igor De&nbsp;Nadai</em><br />
+<em>Da P&aacute;gina do MST</em><br />
+&nbsp;</p>
 
 <p>&ldquo;O xadrez &eacute; um passatempo, mas tamb&eacute;m um educador do racioc&iacute;nio!&rdquo; declarou em junho de 1961 o ent&atilde;o Ministro da Ind&uacute;stria, Ernesto Che Guevara, ao inaugurar um torneio de Xadrez para organismos estatais de Cuba.</p>
 
+<figure class="image" style="float:left"><img alt="Campeonato Xadrez [2].jpeg" height="214" src="//farm66.staticflickr.com/65535/48082119872_1dac81c1a9_b.jpg" width="300" />
+<figcaption><em>A&ccedil;&atilde;o foi inspirada em ensinamentos de Che</em></figcaption>
+</figure>
+
 <p><br />
 Com esse objetivo de realizar uma atividade esportiva que, ao mesmo tempo, trouxesse lazer e encontros na comunidade camponesa, a escola itinerante e o coletivo de juventude do acampamento&nbsp; tomaram a iniciativa de realizar o 1&ordm; Torneio de Xadrez do acampamento, envolvendo os educandos da escola itinerante e aberto &agrave; participa&ccedil;&atilde;o de toda a comunidade.</p>
-
-<figure class="image" style="float:left"><img alt="Campeonato Xadrez [2].jpeg" height="214" src="//farm66.staticflickr.com/65535/48082119872_1dac81c1a9_b.jpg" width="300" />
-<figcaption></figcaption>
-</figure>
 
 <p><br />
 O evento aconteceu no &uacute;ltimo s&aacute;bado (15) de junho com cerca de 30 partidas no total. O espa&ccedil;o foi propositalmente fora das salas de aula, em uma &aacute;rea&nbsp;sombreada por robustas mangueiras e jaqueiras, onde a comunidade acampada pretende construir um espa&ccedil;o permanente de jogos e lazer. Neste primeiro evento, participaram mais de 30 jogadores e jogadoras, de idades muito variadas (de 7 at&eacute; 35 anos).</p>
@@ -88,7 +89,8 @@ O evento aconteceu no &uacute;ltimo s&aacute;bado (15) de junho com cerca de 30 
 <figcaption><em>Karina, uma das finalistas do torneio</em></figcaption>
 </figure>
 
-<p>Segundo Carlos Felipe, 29 anos, educador da escola e um dos organizadores da atividade, &ldquo;&eacute; muito gratificante ver como o desenvolvimento em sala de aula dos educandos e educandas pode estar&nbsp; relacionado ao torneio. O xadrez exige calma, aten&ccedil;&atilde;o e contribui com o racioc&iacute;nio l&oacute;gico, ajudando at&eacute; mesmo na tomada de decis&otilde;es. Queremos continuar com essas iniciativas, realizando outros torneios de xadrez e tamb&eacute;m com outras modalidades, como o jogo de damas, por exemplo&rdquo;.</p>
+<p>Segundo Carlos Felipe, 29 anos, educador da escola e um dos organizadores da atividade, &ldquo;&eacute; muito gratificante ver como o desenvolvimento em sala de aula dos educandos e educandas pode estar&nbsp; relacionado ao torneio. O xadrez exige calma, aten&ccedil;&atilde;o e contribui com o racioc&iacute;nio l&oacute;gico, ajudando at&eacute; mesmo na tomada de decis&otilde;es. Queremos continuar com essas iniciativas, realizando outros torneios de xadrez e tamb&eacute;m com outras modalidades, como o jogo de damas, por exemplo&rdquo;.<br />
+&nbsp;</p>
 
 <p>Entre as finalistas estava a educanda do 9o ano Karina, de 14 anos, integrante do coletivo de juventude &ldquo;Lyudmila Pavlichenko&rdquo;, do acampamento em Porecatu. Para ela, &ldquo;o xadrez &eacute; uma li&ccedil;&atilde;o de vida, pois cada pe&ccedil;a mexida &eacute; uma decis&atilde;o muito importante que se toma, tem consequ&ecirc;ncias. Por isso o xadrez nos ajuda a pensar melhor nas decis&otilde;es que tomamos no dia a dia&rdquo;, falou.<br />
 &nbsp;</p>
@@ -98,8 +100,13 @@ O evento aconteceu no &uacute;ltimo s&aacute;bado (15) de junho com cerca de 30 
 
 <p>Che Guevara teve o jogo presente desde sua inf&acirc;ncia, quando aprendeu a jogar atrav&eacute;s de seu pai, e come&ccedil;ou participar de torneios locais a partir de 12 anos. Em Cuba, ap&oacute;s o triunfo revolucion&aacute;rio de 1959, deu um novo significado ao jogo.</p>
 
-<p><br />
-&ldquo;Nestes momentos de confronta&ccedil;&otilde;es mundias, que envolvem sistemas ideol&oacute;gicos muito diferentes, o xadrez pode e &eacute; capaz de juntar as pessoas dos mais diversos pa&iacute;ses&rdquo;, afirmou Che.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Campeonato Xadrez [5].jpeg" height="214" src="//farm66.staticflickr.com/65535/48082021271_4efa990779_b.jpg" width="300" />
+<figcaption><em>Sem Terrinha tamb&eacute;m participaram das atividades</em></figcaption>
+</figure>
+
+<p>&ldquo;Nestes momentos de confronta&ccedil;&otilde;es mundias, que envolvem sistemas ideol&oacute;gicos muito diferentes, o xadrez pode e &eacute; capaz de juntar as pessoas dos mais diversos pa&iacute;ses&rdquo;, afirmou Che.</p>
 
 <p><br />
 Como funcion&aacute;rio do Estado cubano, participou da inaugura&ccedil;&atilde;o dos mais diversos torneios de xadrez do pa&iacute;s, sendo respons&aacute;vel em grande medida pela massifica&ccedil;&atilde;o do xadrez por toda a ilha, participando sempre que podia destes eventos.&nbsp;</p>
@@ -111,5 +118,3 @@ Al&eacute;m disso, o comandante teve v&aacute;rios triunfos em campeonatos nacio
 Para se ter uma ideia do n&iacute;vel t&eacute;cnico que Che alcan&ccedil;ou no xadrez mundial, seu nome foi inclu&iacute;do no livro de Ouro da FIDE (Federa&ccedil;&atilde;o Internacional de Xadrez) e, pela mesma federa&ccedil;&atilde;o, foi nomeado como cavalheiro. Hoje, com o fortalecimento do xadrez cubano, a revolu&ccedil;&atilde;o conquistou 10 t&iacute;tulos de Grande Mestre, mais de 30 t&iacute;tulos de Mestre Internacional e Campeonato Mundial Juvenil, entre outros triunfos. Todos resultados da obra de Ch&ecirc; no fortalecimento e massifica&ccedil;&atilde;o da modalidade na ilha.<br />
 <br />
 <em>*Editado por Fernanda Alc&acirc;ntara</em></p>
-
-<p>&nbsp;</p>
