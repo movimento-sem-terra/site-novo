@@ -61,17 +61,18 @@ Durante esses anos, o processo parou nas m&atilde;os de diversos ju&iacute;zes(a
 O juiz Reno Viana, da comarca de&nbsp; Vit&oacute;ria da Conquista, decretou a pris&atilde;o preventiva dos suspeitos. No entanto, assim como os demais ju&iacute;zes do caso, se declarou suspeito, fazendo com que o processo retornasse a ser f&iacute;sico na comarca de Igua&iacute;.&nbsp;</p>
 
 <p><br />
-Durante esses anos, v&aacute;rias foram as vezes que se tentou marcar audi&ecirc;ncias e fazer o processo andar, mas sem resultado favor&aacute;vel, e nessa luta o processo pulou de comarca em comarca e at&eacute; hoje&nbsp; ainda n&atilde;o foi julgado.</p>
+Durante esses anos, v&aacute;rias foram as vezes que se tentou marcar audi&ecirc;ncias e fazer o processo andar, mas sem resultado favor&aacute;vel, e nessa luta o processo pulou de comarca em comarca e at&eacute; hoje&nbsp; ainda n&atilde;o foi julgado. O processo atualmente se encontra com diversos entraves devido o descaso do judici&aacute;rio em assumir a responsabilidade do caso.&nbsp;</p>
+
+<div>&nbsp;</div>
 
 <p><br />
-Por outro lado, a GEMACAU, sem medir esfor&ccedil;os, deu seguimento nos processos investigativos at&eacute; chegar na fase de executar uma opera&ccedil;&atilde;o de busca e apreens&atilde;o e prender o fazendeiro D&eacute;lcio Nunes Santos, o comerciante M&aacute;rcio Fabiano Cunha Borges e os vaqueiros Arenaldo Novais da Silva e Neuton Muniz da Silva, al&eacute;m de outros suspeitos apontados pela pol&iacute;cia como executores do crime. Entretanto, a pris&atilde;o dos acusados durou apenas 47 dias, e os mesmos ainda continuam soltos e impunes diante o crime cometido.</p>
+Por outro lado, a GEMACAU, sem medir esfor&ccedil;os, deu seguimento nos processos investigativos at&eacute; chegar na fase de executar uma opera&ccedil;&atilde;o de busca e apreens&atilde;o e prender o fazendeiro D&eacute;lcio Nunes Santos, o comerciante M&aacute;rcio Fabiano Cunha Borges e os vaqueiros Arenaldo Novais da Silva e Neuton Muniz da Silva, al&eacute;m de outros suspeitos apontados pela pol&iacute;cia como executores do crime. Entretanto, a pris&atilde;o dos acusados durou apenas 47 dias, e os mesmos ainda continuam soltos e impunes diante o crime cometido.<br />
+&nbsp;</p>
 
-<p><br />
-O processo atualmente se encontra com diversos entraves devido o descaso do judici&aacute;rio em assumir a responsabilidade do caso. Uma das maiores dificuldades se d&aacute; hoje pelo fato do processo ser f&iacute;sico, o que torna ainda mais complexa a atua&ccedil;&atilde;o dos advogados assistentes de acusa&ccedil;&atilde;o.</p>
+<p>O Movimento Sem Terra exige que a justi&ccedil;a seja feita e que os acusados do assassinato de F&aacute;bio Santos sejam presos. &ldquo;N&atilde;o aceitaremos injusti&ccedil;as. Nesse momento de luta, pedimos a solidariedade da sociedade brasileira e de outros movimentos pois, infelizmente, a morte de F&aacute;bio afeta n&atilde;o s&oacute; aos movimentos sociais, mas a todo povo brasileiro, que busca por uma sociedade mais justa e igualit&aacute;ria&rdquo;.<br />
+&nbsp;</p>
 
-<p><br />
-O Movimento Sem Terra exige que a justi&ccedil;a seja feita e que os acusados do assassinato de F&aacute;bio Santos sejam presos. &ldquo;N&atilde;o aceitaremos injusti&ccedil;as. Nesse momento de luta, pedimos a solidariedade da sociedade brasileira e de outros movimentos pois, infelizmente, a morte de F&aacute;bio afeta n&atilde;o s&oacute; aos movimentos sociais, mas a todo povo brasileiro, que busca por uma sociedade mais justa e igualit&aacute;ria&rdquo;.</p>
-
-<p>&quot;S&oacute; se &eacute; permitido descansar quando a luta dos nossos mortos se realizar por inteira. N&atilde;o pela metade. Por inteira!&quot; afirmou o Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia.</p>
+<p>&quot;S&oacute; se &eacute; permitido descansar quando a luta dos nossos mortos se realizar por inteira. N&atilde;o pela metade. Por inteira!&quot; afirmou o Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia.<br />
+&nbsp;</p>
 
 <p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
