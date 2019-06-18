@@ -4,7 +4,7 @@ tags:
   - tag: violência-no-campo
   - tag: violência
 title: MST luta até hoje por justiça no caso de Fábio Santos
-support_line: "Assassinado na frente da esposa e filha, o professor e camponês Fábio Santos continua travado no judiciário"
+support_line: "Assassinado na frente da esposa e filha, o caso do professor e camponês Fábio Santos continua travado no judiciário"
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48086434426_3828b2e80a_b.jpg
 layout: post
