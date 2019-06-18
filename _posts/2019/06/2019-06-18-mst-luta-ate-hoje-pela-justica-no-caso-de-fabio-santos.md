@@ -63,11 +63,9 @@ O juiz Reno Viana, da comarca de&nbsp; Vit&oacute;ria da Conquista, decretou a p
 <p><br />
 Durante esses anos, v&aacute;rias foram as vezes que se tentou marcar audi&ecirc;ncias e fazer o processo andar, mas sem resultado favor&aacute;vel, e nessa luta o processo pulou de comarca em comarca e at&eacute; hoje&nbsp; ainda n&atilde;o foi julgado. O processo atualmente se encontra com diversos entraves devido o descaso do judici&aacute;rio em assumir a responsabilidade do caso.&nbsp;</p>
 
-<div>&nbsp;</div>
-
-<p><br />
+<div><br />
 Por outro lado, a GEMACAU, sem medir esfor&ccedil;os, deu seguimento nos processos investigativos at&eacute; chegar na fase de executar uma opera&ccedil;&atilde;o de busca e apreens&atilde;o e prender o fazendeiro D&eacute;lcio Nunes Santos, o comerciante M&aacute;rcio Fabiano Cunha Borges e os vaqueiros Arenaldo Novais da Silva e Neuton Muniz da Silva, al&eacute;m de outros suspeitos apontados pela pol&iacute;cia como executores do crime. Entretanto, a pris&atilde;o dos acusados durou apenas 47 dias, e os mesmos ainda continuam soltos e impunes diante o crime cometido.<br />
-&nbsp;</p>
+&nbsp;</div>
 
 <p>O Movimento Sem Terra exige que a justi&ccedil;a seja feita e que os acusados do assassinato de F&aacute;bio Santos sejam presos. &ldquo;N&atilde;o aceitaremos injusti&ccedil;as. Nesse momento de luta, pedimos a solidariedade da sociedade brasileira e de outros movimentos pois, infelizmente, a morte de F&aacute;bio afeta n&atilde;o s&oacute; aos movimentos sociais, mas a todo povo brasileiro, que busca por uma sociedade mais justa e igualit&aacute;ria&rdquo;.<br />
 &nbsp;</p>
