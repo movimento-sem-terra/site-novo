@@ -28,6 +28,7 @@ releated_posts:
   - _posts/2019/04/2019-04-07-eles-tem-medo-e-dos-milhoes-de-lulas-afirma-ex-presidente-em-carta-aos-brasileiros.md
   - _posts/2019/04/2019-04-07-jaime-amorim-lula-precisa-estar-livre-para-trazer-esperanca-e-o-direito-de-sonhar.md
   - _posts/2019/04/2019-04-29-nao-somos-commodities-humanas-nao-estamos-a-venda.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
@@ -35,8 +36,7 @@ releated_posts:
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="terr.jpg" height="467" src="//farm66.staticflickr.com/65535/48067535383_c4084366b8_b.jpg" width="700" />
 <figcaption>Discurso de Jo&atilde;o Paulo Rodrigues, membro da dire&ccedil;&atilde;o nacional do MST, durante o encontro<br />
-(Foto: Rafael Stedile)<br />
-</figcaption>
+(Foto: Rafael Stedile)</figcaption>
 </figure>
 </div>
 
