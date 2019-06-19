@@ -4,7 +4,7 @@ tags:
   - tag: eduardo-coutinho
   - tag: cinema
   - tag: filme
-title: "Brasil, cinema e Eduardo Coutinho: 121 anos de cinema nacional.\n\n"
+title: "Brasil, cinema e Eduardo Coutinho: 121 anos de cinema nacional"
 support_line: "Artigo relaciona conjuntura do país e obra de Eduardo Coutinho neste 19 de junho, dia do cinema nacional"
 menu: "educação, cultura e comunicação"
 section: featured-news
