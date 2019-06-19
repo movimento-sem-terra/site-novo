@@ -89,4 +89,4 @@ Da P&aacute;gina do MST</em><br />
 <p>O encontro se iniciou na manh&atilde; desta ter&ccedil;a-feira (18) de junho e segue at&eacute; quinta-feira (20).&nbsp;<br />
 &nbsp;</p>
 
-<p><em>*Editado Fernanda Alc&acirc;ntara</em></p>
+<p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
