@@ -86,7 +86,7 @@ Da P&aacute;gina do MST</em><br />
 <p>A avalia&ccedil;&atilde;o dos jovens tamb&eacute;m &eacute; positiva. &ldquo;Esse &eacute; o terceiro encontro de jovens que eu participo, acredito que o encontro nos fortalece na quest&atilde;o org&acirc;nica dos nossos coletivos, na forma&ccedil;&atilde;o pol&iacute;tica e, principalmente, nos desafios da atual conjuntura. &Eacute; tamb&eacute;m um espa&ccedil;o de socializa&ccedil;&atilde;o das experi&ecirc;ncias, de anima&ccedil;&atilde;o e m&iacute;stica&rdquo; afirma Amanda Pereira, jovem do assentamento Sabiaguaba, comunidade Caetanos de Cima em Amontada (CE).<br />
 &nbsp;</p>
 
-<p>O encontro se iniciou na manh&atilde; desta quinta-feira (18) de junho e segue at&eacute; quinta-feira (20).&nbsp;<br />
+<p>O encontro se iniciou na manh&atilde; desta ter&ccedil;a-feira (18) de junho e segue at&eacute; quinta-feira (20).&nbsp;<br />
 &nbsp;</p>
 
 <p><em>*Editado Fernanda Alc&acirc;ntara</em></p>
