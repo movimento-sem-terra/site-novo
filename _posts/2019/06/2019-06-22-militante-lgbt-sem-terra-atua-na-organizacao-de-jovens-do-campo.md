@@ -6,17 +6,10 @@ tags:
   - tag: juventude-sem-terra
 title: Militante LGBT Sem Terra atua na organização de jovens do campo
 support_line: "“Organizar a juventude Sem Terra, é organizar também as e os LGBT”, afirma o militante do MST na Paraíba "
-images_hd: //farm66.staticflickr.com/65535/48109391838_eb240df852_b.jpg
+images_hd: //farm66.staticflickr.com/65535/48109575867_fcec84fb27_b.jpg
 menu: direitos humanos
 layout: post
 files:
-  - link: //farm66.staticflickr.com/65535/48109391838_eb240df852_b.jpg
-    original: //farm66.staticflickr.com/65535/48109391838_1878b39044_o.jpg
-    thumbnail: //farm66.staticflickr.com/65535/48109391838_eb240df852_t.jpg
-    medium: //farm66.staticflickr.com/65535/48109391838_eb240df852_z.jpg
-    small: //farm66.staticflickr.com/65535/48109391838_eb240df852_n.jpg
-    title: IMG_20190621_165117_573.jpg
-    $$hashKey: "140"
   - link: //farm66.staticflickr.com/65535/48109355941_5d4bdb4fec_b.jpg
     original: //farm66.staticflickr.com/65535/48109355941_d91be079b5_o.jpg
     thumbnail: //farm66.staticflickr.com/65535/48109355941_5d4bdb4fec_t.jpg
@@ -24,6 +17,13 @@ files:
     small: //farm66.staticflickr.com/65535/48109355941_5d4bdb4fec_n.jpg
     title: IMG-20190621-WA0080.jpg
     $$hashKey: "143"
+  - link: //farm66.staticflickr.com/65535/48109575867_fcec84fb27_b.jpg
+    original: //farm66.staticflickr.com/65535/48109575867_96a3d0d14b_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48109575867_fcec84fb27_t.jpg
+    medium: //farm66.staticflickr.com/65535/48109575867_fcec84fb27_z.jpg
+    small: //farm66.staticflickr.com/65535/48109575867_fcec84fb27_n.jpg
+    title: IMG_20190621_165117_573.jpg
+    $$hashKey: 1MX
 created_date: "2019-06-22T14:57:54-03:00"
 published: true
 releated_posts: []
