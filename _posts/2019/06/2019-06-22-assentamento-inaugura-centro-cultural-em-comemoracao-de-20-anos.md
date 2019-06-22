@@ -51,8 +51,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Foto_Leandro-Taques.jpg" height="592" src="//farm66.staticflickr.com/65535/48108696012_cbfbe48f8d_b.jpg" width="700" />
-<figcaption>Assentado mostra frutos de cultivos agroecol&oacute;gicos realizados no Assentamento Contestado.<br />
-Foto: Leandro Taques</figcaption>
+<figcaption>Assentado mostra frutos de cultivos agroecol&oacute;gicos do Assentamento. Foto: Leandro Taques</figcaption>
 </figure>
 </div>
 
@@ -78,7 +77,7 @@ O assentamento &eacute; sede da Escola Latino Americana de Agroecologia (ELAA), 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Foto_Leandro-Taques 2.jpg" height="400" src="//farm66.staticflickr.com/65535/48108697327_fd81593302_b.jpg" width="600" />
-<figcaption>Estufa com produ&ccedil;&atilde;o de morango agroecol&oacute;gico das fam&iacute;lias assentadas.&nbsp;Foto: Leandro Taques</figcaption>
+<figcaption>Estufa com produ&ccedil;&atilde;o de morango agroecol&oacute;gico. Foto: Leandro Taques</figcaption>
 </figure>
 </div>
 
