@@ -6,7 +6,7 @@ tags:
   - tag: juventude-sem-terra
 title: Militante LGBT Sem Terra atua na organização de jovens do campo
 support_line: "“Organizar a Juventude Sem Terra é organizar também as e os LGBT”, afirma o militante na Paraíba "
-images_hd: //farm66.staticflickr.com/65535/48109575867_fcec84fb27_b.jpg
+images_hd: //farm66.staticflickr.com/65535/48110032182_c14696ab11_b.jpg
 menu: direitos humanos
 layout: post
 files:
@@ -24,6 +24,13 @@ files:
     small: //farm66.staticflickr.com/65535/48109575867_fcec84fb27_n.jpg
     title: IMG_20190621_165117_573.jpg
     $$hashKey: 1MX
+  - link: //farm66.staticflickr.com/65535/48110032182_c14696ab11_b.jpg
+    original: //farm66.staticflickr.com/65535/48110032182_64f3d228c1_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48110032182_c14696ab11_t.jpg
+    medium: //farm66.staticflickr.com/65535/48110032182_c14696ab11_z.jpg
+    small: //farm66.staticflickr.com/65535/48110032182_c14696ab11_n.jpg
+    title: Alan_Original.jpg
+    $$hashKey: 0AA
 created_date: "2019-06-22T14:57:54-03:00"
 published: true
 releated_posts:
@@ -34,7 +41,7 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="IMG-20190621-WA0080.jpg" height="644" src="//farm66.staticflickr.com/65535/48109355941_5d4bdb4fec_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="Alan_Original.jpg" height="541" src="//farm66.staticflickr.com/65535/48110032182_c14696ab11_b.jpg" width="700" />
 <figcaption><em>Segundo Alan, a Agroecologia &eacute; uma forma de produzir comida saud&aacute;vel e romper com o latif&uacute;ndio.<br />
 Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
