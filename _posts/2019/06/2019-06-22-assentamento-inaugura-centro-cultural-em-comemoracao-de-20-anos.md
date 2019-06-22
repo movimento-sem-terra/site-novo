@@ -6,7 +6,7 @@ tags:
   - tag: agroecologia
   - tag: escola-do-campo
 title: Assentamento inaugura Centro Cultural e comemora 20 anos de luta
-support_line: "Localizada na Lapa, a 70 quilômetros de Curitiba (PR), a cmunidade é referência na produção agroecológica "
+support_line: "Localizada na Lapa, a 70 quilômetros de Curitiba (PR), a comunidade é referência na produção agroecológica "
 menu: reforma agrária
 images_hd: //farm66.staticflickr.com/65535/48108620973_f8cbf7f716_b.jpg
 layout: post
