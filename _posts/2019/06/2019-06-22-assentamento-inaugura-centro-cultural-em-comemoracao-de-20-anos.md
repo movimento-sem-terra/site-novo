@@ -58,7 +58,7 @@ releated_posts:
 <p><br />
 <em>Por Ednubia Ghisi&nbsp;<br />
 Da P&aacute;gina do MST<br />
-Imagens de capa Michele Torinelli</em><br />
+Imagem&nbsp;de capa Michele Torinelli</em><br />
 &nbsp;</p>
 
 <p>O assentamento Contestado, no munic&iacute;pio da Lapa (PR), comemora neste s&aacute;bado (22), 20 anos de luta e resist&ecirc;ncia com uma grande festa da colheita.&nbsp;</p>
