@@ -5,7 +5,7 @@ tags:
   - tag: paraíba
   - tag: juventude-sem-terra
 title: Militante LGBT Sem Terra atua na organização de jovens do campo
-support_line: "“Organizar a Juventude Sem Terra é organizar também as e os LGBT”, afirma o militante na Paraíba "
+support_line: "“Organizar a Juventude Sem Terra é organizar também as e os LGBT”, afirma militante na Paraíba "
 images_hd: //farm66.staticflickr.com/65535/48110032182_c14696ab11_b.jpg
 menu: direitos humanos
 layout: post
