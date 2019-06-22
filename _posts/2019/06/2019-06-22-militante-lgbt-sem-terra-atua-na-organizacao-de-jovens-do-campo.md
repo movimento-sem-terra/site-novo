@@ -42,8 +42,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Alan_Original.jpg" height="541" src="//farm66.staticflickr.com/65535/48110032182_c14696ab11_b.jpg" width="700" />
-<figcaption><em>Segundo Alan, a Agroecologia &eacute; uma forma de produzir comida saud&aacute;vel e romper com o latif&uacute;ndio.<br />
-Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+<figcaption><em>Segundo Alan, a Agroecologia &eacute; uma forma de produzir comida saud&aacute;vel e romper com o latif&uacute;ndio. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 </div>
 
