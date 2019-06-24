@@ -42,7 +42,16 @@ releated_posts:
   - _posts/2019/03/2019-03-25-acampamento-marielle-franco-realiza-feira-no-maranhao.md
 
 ---
-<p><em>Por&nbsp;Reynaldo Costa<br />
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="MST-MA [6].jpeg" height="525" src="//farm66.staticflickr.com/65535/48121053112_7b387bf6ca_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
+<p><br />
+<em>Por&nbsp;Reynaldo Costa<br />
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
@@ -63,8 +72,13 @@ Outro item produzido em larga escala foi a ab&oacute;bora, com os c&aacute;lculo
 
 <p><strong>Produ&ccedil;&atilde;o diversificada</strong></p>
 
-<p><br />
-&Eacute; natural da agricultura familiar o cultivo consorciado de diversos produtos. No caso do acampamento Marielle Franco, praticamente todas as ro&ccedil;as cultivadas trabalhavam ao mesmo tempo e no mesmo espa&ccedil;o, principalmente arroz, feij&atilde;o, milho, ab&oacute;bora, macaxeira e fava, al&eacute;m de outras culturas do ramos das hortali&ccedil;as como tomate, pepino, maxixe, quiabo etc. Tudo produzido sem veneno.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="MST-MA [7].jpeg" height="169" src="//farm66.staticflickr.com/65535/48120995688_83683fb7e3_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
+
+<p>&Eacute; natural da agricultura familiar o cultivo consorciado de diversos produtos. No caso do acampamento Marielle Franco, praticamente todas as ro&ccedil;as cultivadas trabalhavam ao mesmo tempo e no mesmo espa&ccedil;o, principalmente arroz, feij&atilde;o, milho, ab&oacute;bora, macaxeira e fava, al&eacute;m de outras culturas do ramos das hortali&ccedil;as como tomate, pepino, maxixe, quiabo etc. Tudo produzido sem veneno.</p>
 
 <p><br />
 A produ&ccedil;&atilde;o diversificada mostra a capacidade da agricultura familiar de produzir alimentos, e &eacute; resultado das experi&ecirc;ncias hist&oacute;ricas da rela&ccedil;&atilde;o de respeito do trabalhador rural com a terra, como defende Edivaldo Silva, t&eacute;cnico agr&iacute;cola.&nbsp;</p>
