@@ -43,7 +43,7 @@ Da P&aacute;gina do MST</em></p>
 A vida de Jo&atilde;o C&acirc;ndido &eacute; uma daquelas hist&oacute;rias que comprovam o quanto a hist&oacute;ria do Brasil &eacute; escrita e explorada apenas do ponto de vista dominante. Embora o nome de Jo&atilde;o C&acirc;ndido (ou do Almirante Negro) soe familiar devido &agrave;s can&ccedil;&otilde;es e homenagens realizadas postumamente, ainda h&aacute; muito o que aprender sobre esta grande figura.</p>
 
 <p><br />
-Era 24 de junho, dia de S&atilde;o Jo&atilde;o Batista - sincretizado com Xang&ocirc; nas religi&otilde;es de matrizes africanas -&nbsp; quando a ex-escrava In&aacute;cia C&acirc;ndido Felisberto deu &agrave; luz Jo&atilde;o C&acirc;ndido Felisberto. Cerca de 15 anos, o menino se alistava na Marinha do Brasil, n&atilde;o necessariamente por escolha, mas por quest&otilde;es de sobreviv&ecirc;ncia.<br />
+Era 24 de junho, dia de S&atilde;o Jo&atilde;o Batista - sincretizado com Xang&ocirc; nas religi&otilde;es de matrizes africanas -&nbsp; quando a ex-escrava In&aacute;cia C&acirc;ndido Felisberto deu &agrave; luz Jo&atilde;o C&acirc;ndido Felisberto. Cerca de 15 anos depois, o menino se alistava na Marinha do Brasil, n&atilde;o necessariamente por escolha, mas por quest&otilde;es de sobreviv&ecirc;ncia.<br />
 &nbsp;</p>
 
 <p>O tempo passou e na noite de&nbsp; 22 de novembro de 1910,&nbsp;&nbsp;enormes canh&otilde;es foram apontados para a capital Federal do Brasil.</p>
@@ -54,8 +54,6 @@ Um grupo de mais de mil marinheiros subalternos da Marinha de Guerra se rebelou 
 
 <p>&Agrave; frente destes marinheiros estava Jo&atilde;o C&acirc;ndido, que por indica&ccedil;&atilde;o dos demais l&iacute;deres tinha o comando geral de toda a esquadra revoltada. Com habilidades t&eacute;cnicas impressionantes e desenvoltura exemplar, Jo&atilde;o C&acirc;ndido entrava para a hist&oacute;ria do Brasil como um dos maiores s&iacute;mbolos de resist&ecirc;ncia e luta pela igualdade racial.<br />
 &nbsp;</p>
-
-<p>&nbsp;</p>
 
 <p><strong>A Revolta da Chibata</strong><br />
 &nbsp;</p>
@@ -72,7 +70,7 @@ Um grupo de mais de mil marinheiros subalternos da Marinha de Guerra se rebelou 
 <p>O uso da chibata como castigo aos marinheiros subalternos era, acima de tudo, simb&oacute;lico. Mostrava que, para o Estado, os pretos e pobres continuavam sem import&acirc;ncia humana. Mais de uma vez&nbsp; autoridades respons&aacute;veis se comprometeram com o fim destes castigos, mas em nenhuma das negocia&ccedil;&otilde;es as promessas foram atendidas. Assim, no final de 1910, muitos grupos j&aacute; articulavam a revolta para novembro.</p>
 
 <p><br />
-Neste meio tempo &ndash; e com o objetivo de tentar inibir a manifesta&ccedil;&atilde;o &ndash; o marinheiro Marcelino Rodrigues de Menezes foi condenado &agrave; uma puni&ccedil;&atilde;o de 250 chibatadas aplicadas ininterruptamente, na presen&ccedil;a de toda a tripula&ccedil;&atilde;o do Encoura&ccedil;ado Minas Gerais. O acontecimento n&atilde;o s&oacute;&nbsp; mobilizou a rebeli&atilde;o, que durou aproximadamente cinco dias, mas tamb&eacute;m influenciou a sociedade, conforme noticiado pelos jornais da &eacute;poca.<br />
+Neste meio tempo &ndash; e com o objetivo de tentar inibir a manifesta&ccedil;&atilde;o &ndash; o marinheiro Marcelino Rodrigues de Menezes foi condenado &agrave; uma puni&ccedil;&atilde;o de 250 chibatadas aplicadas ininterruptamente, na presen&ccedil;a de toda a tripula&ccedil;&atilde;o do Encoura&ccedil;ado Minas Gerais. O acontecimento n&atilde;o s&oacute; mobilizou a rebeli&atilde;o, que durou aproximadamente cinco dias, mas tamb&eacute;m influenciou a sociedade, conforme noticiado pelos jornais da &eacute;poca.<br />
 &nbsp;</p>
 
 <p><strong>Ap&oacute;s a revolta e a nova crueldade do estado</strong></p>
@@ -99,4 +97,7 @@ Neste meio tempo &ndash; e com o objetivo de tentar inibir a manifesta&ccedil;&a
 <p>Discriminado e perseguido pela Marinha at&eacute; o final da sua vida, Jo&atilde;o C&acirc;ndido morreu em S&atilde;o Jo&atilde;o de Meriti, v&iacute;tima de um c&acirc;ncer. Apenas em 2008, 39 anos depois da morte de Jo&atilde;o C&acirc;ndido Felisberto, publicou-se, no Di&aacute;rio Oficial da Uni&atilde;o, a Lei N&ordm; 11.756 que concedeu anistia ao l&iacute;der da Revolta da Chibata e a seus companheiros.&nbsp;</p>
 
 <p><br />
-O Brasil deve muito &agrave; Jo&atilde;o C&acirc;ndido. A partir da constru&ccedil;&atilde;o de sua figura como objeto hist&oacute;rico da luta pela igualdade, recuperamos esta mem&oacute;ria com a finalidade de quem, um dia, estas hist&oacute;rias sejam valorizadas pelo que s&atilde;o: um exemplo de luta e amor pelo ser humano.</p>
+O Brasil deve muito &agrave; Jo&atilde;o C&acirc;ndido. A partir da constru&ccedil;&atilde;o de sua figura como objeto hist&oacute;rico da luta pela igualdade, recuperamos esta mem&oacute;ria com a finalidade de que, um dia, estas hist&oacute;rias sejam valorizadas pelo que s&atilde;o: um exemplo de luta e amor pelo ser humano.<br />
+&nbsp;</p>
+
+<p><em>*Editado por&nbsp;Maura Silva</em></p>
