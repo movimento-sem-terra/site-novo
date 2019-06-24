@@ -72,8 +72,11 @@ A vida de Jo&atilde;o C&acirc;ndido &eacute; uma daquelas hist&oacute;rias que c
 Neste meio tempo &ndash; e com o objetivo de tentar inibir a manifesta&ccedil;&atilde;o &ndash; o marinheiro Marcelino Rodrigues de Menezes foi condenado &agrave; uma puni&ccedil;&atilde;o de 250 chibatadas aplicadas ininterruptamente, na presen&ccedil;a de toda a tripula&ccedil;&atilde;o do Encoura&ccedil;ado Minas Gerais. O acontecimento n&atilde;o s&oacute;&nbsp; mobilizou a rebeli&atilde;o, que durou aproximadamente cinco dias, mas tamb&eacute;m influenciou a sociedade, conforme noticiado pelos jornais da &eacute;poca.<br />
 &nbsp;</p>
 
-<p><strong>Ap&oacute;s a revolta e a nova crueldade do estado</strong><br />
-<img alt="Screenshot_2019-06-24 Do marinheiro João Cândido ao Almirante Negro conflitos memoriais .png" src="//farm66.staticflickr.com/65535/48122420661_fd025fa2c3_b.jpg" /></p>
+<p><strong>Ap&oacute;s a revolta e a nova crueldade do estado</strong></p>
+
+<figure class="image" style="float:left"><img alt="Screenshot_2019-06-24 Do marinheiro João Cândido ao Almirante Negro conflitos memoriais .png" height="301" src="//farm66.staticflickr.com/65535/48122420661_fd025fa2c3_b.jpg" width="200" />
+<figcaption></figcaption>
+</figure>
 
 <p>A Revolta da Chibata terminou com o compromisso do governo federal em dar fim aos castigos f&iacute;sicos e conceder anistia aos revoltosos. Entretanto, no dia seguinte ao desarmamento dos navios rebelados, foi emitido um decreto expulsando do pa&iacute;s os marinheiros considerados &ldquo;perigosos&rdquo; que estivessem na revolta. Um m&ecirc;s depois, autoridades da Marinha encarceraram marinheiros em pris&otilde;es solit&aacute;rias no complexo naval da Ilha das Cobras, entre eles, Jo&atilde;o C&acirc;ndido.<br />
 &nbsp;</p>
