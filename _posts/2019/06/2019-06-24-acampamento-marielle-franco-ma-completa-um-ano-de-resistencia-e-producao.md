@@ -46,7 +46,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="MST-MA [6].jpeg" height="525" src="//farm66.staticflickr.com/65535/48121053112_7b387bf6ca_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption><em>No acampamento, a perspectiva agora &eacute; avan&ccedil;ar na organiza&ccedil;&atilde;o e ampliar ainda mais a produ&ccedil;&atilde;o de alimentos.</em></figcaption>
 </figure>
 </div>
 
