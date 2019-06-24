@@ -56,7 +56,7 @@ releated_posts:
 </div>
 
 <p><br />
-<em>Por Ednubia Ghisi&nbsp;<br />
+<em>Por Reda&ccedil;&atilde;o<br />
 Da P&aacute;gina do MST<br />
 Imagem&nbsp;de capa Michele Torinelli</em><br />
 &nbsp;</p>
