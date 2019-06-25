@@ -56,9 +56,8 @@ releated_posts:
 </div>
 
 <p><br />
-<em>Por Reda&ccedil;&atilde;o<br />
-Da P&aacute;gina do MST<br />
-Imagem&nbsp;de capa Michele Torinelli</em><br />
+<em>Da P&aacute;gina do MST<br />
+Imagem&nbsp;de capa: Michele Torinelli</em><br />
 &nbsp;</p>
 
 <p>O assentamento Contestado, no munic&iacute;pio da Lapa (PR), comemora neste s&aacute;bado (22), 20 anos de luta e resist&ecirc;ncia com uma grande festa da colheita.&nbsp;</p>
@@ -83,7 +82,7 @@ O assentamento &eacute; sede da Escola Latino Americana de Agroecologia (ELAA), 
 
 <p>&nbsp;</p>
 
-<p>Produ&ccedil;&atilde;o sem agrot&oacute;xico</p>
+<p><strong>Produ&ccedil;&atilde;o sem agrot&oacute;xico</strong></p>
 
 <p><br />
 Quando o assunto &eacute; produ&ccedil;&atilde;o de alimentos saud&aacute;veis, a comunidade &eacute; reconhecida como refer&ecirc;ncia em produ&ccedil;&atilde;o agroecol&oacute;gica. A cooperativa Terra Livre, criada pelo assentamento, organiza e escoa a produ&ccedil;&atilde;o de 210 s&oacute;cios &ndash; agricultores da pr&oacute;pria comunidade e tamb&eacute;m de Campo Largo, Lapa, Ant&ocirc;nio Olinto, S&atilde;o Mateus do Sul, Palmeira, Teixeira Soares e Antonina. Toda semana s&atilde;o entregues pela cooperativa 8 toneladas de verduras, frutas, legumes e temperos agroecol&oacute;gicos em 104 escolas, via Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (PNAE).&nbsp;</p>
