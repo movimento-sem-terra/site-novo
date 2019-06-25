@@ -58,8 +58,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-A promo&ccedil;&atilde;o de eventos esportivos e culturais vem sendo incentivada pelo Movimento dos Trabalhadores Rurais Sem Terra (MST) em todo o Brasil com o objetivo de integrar as &aacute;reas reformadas e as &aacute;reas em conflitos.&nbsp;Com essa premissa, o MST da regi&atilde;o Centro do Paran&aacute; realizou no &uacute;ltimo domingo (23) o Primeiro Torneio regional da Reforma Agr&aacute;ria e da Democracia na CEAGRO Vila Velha, no munic&iacute;pio de Rio Bonito do Igua&ccedil;u, Paran&aacute;.&nbsp;<br />
-&nbsp;</p>
+A promo&ccedil;&atilde;o de eventos esportivos e culturais vem sendo incentivada pelo Movimento dos Trabalhadores Rurais Sem Terra (MST) em todo o Brasil com o objetivo de integrar as &aacute;reas reformadas e as &aacute;reas em conflitos.&nbsp;Com essa premissa, o MST da regi&atilde;o Centro do Paran&aacute; realizou no &uacute;ltimo domingo (23) o Primeiro Torneio regional da Reforma Agr&aacute;ria e da Democracia na&nbsp;Vila Velha/CEAGRO, no munic&iacute;pio de Rio Bonito do Igua&ccedil;u, Paran&aacute;.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Equipe campeã do torneio masculino - Foto Deise Mari.jpeg" height="200" src="//farm66.staticflickr.com/65535/48122578488_a4177c0971_b.jpg" width="300" />
 <figcaption><em>Equipe campe&atilde; do torneio masculino<br />
@@ -78,7 +77,7 @@ O evento teve&nbsp;a participa&ccedil;&atilde;o de aproximadamente 250 pessoas. 
 </figure>
 
 <p><br />
-&quot;A atividade em si foi muito boa, contou com grande participa&ccedil;&atilde;o da comunidade e cumpriu com seu intuito de confraterniza&ccedil;&atilde;o entre as &aacute;reas de reforma agr&aacute;ria&rdquo;. Destaca Thiago Gon&ccedil;alves de Sousa, coordenador da unidade Vila Velha.</p>
+&quot;A atividade em si foi muito boa, contou com grande participa&ccedil;&atilde;o da comunidade e cumpriu com seu intuito de confraterniza&ccedil;&atilde;o entre as &aacute;reas de reforma agr&aacute;ria&rdquo;. Destaca Thiago Gon&ccedil;alves de Souza, coordenador da unidade Vila Velha.</p>
 
 <p><br />
 O torneio contou com a participa&ccedil;&atilde;o de 5 equipes femininas e 12 masculinas, sendo todas formadas por comunidades de assentamentos e acampamentos de reforma agr&aacute;ria da regi&atilde;o, com exce&ccedil;&atilde;o de 2 times convidados da Universidade Federal da fronteira Sul (UFFS), um feminino e um masculino.</p>
