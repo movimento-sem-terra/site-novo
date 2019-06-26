@@ -3,7 +3,7 @@ date: "2019-06-26T12:51:47-03:00"
 tags:
   - tag: universidade
   - tag: educação-do-campo
-title: Inscrições aberta licenciatura em educação do campo em Roraima
+title: Inscrições abertas de licenciatura em educação do campo em Roraima
 support_line: "Curso é voltado à população do campo ligada às áreas de reforma agrária\n"
 images_hd: //farm66.staticflickr.com/65535/48132886793_8da5f8e6ae_b.jpg
 menu: "educação, cultura e comunicação"
