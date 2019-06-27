@@ -46,7 +46,7 @@ releated_posts:
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>Fruto de um longo processo luta por direitos nas universidades de Roraima, a partir da press&atilde;o dos movimentos sociais do campo, a Funda&ccedil;&atilde;o Universidade Federal de Rond&ocirc;nia (UNIR), publicou o quarto edital em licenciatura Educa&ccedil;&atilde;o do Campo, a ser oferecida na cidade Rolim de Moura (RO).</p>
+<p>Fruto de um longo processo luta por direitos nas universidades de Rond&ocirc;nia, a partir da press&atilde;o dos movimentos sociais do campo, a Funda&ccedil;&atilde;o Universidade Federal de Rond&ocirc;nia (UNIR), publicou o quarto edital em licenciatura Educa&ccedil;&atilde;o do Campo, a ser oferecida na cidade Rolim de Moura (RO).</p>
 
 <p><br />
 A turma deve come&ccedil;ar ainda neste segundo&nbsp;semestre letivo de 2019. Ser&atilde;o disponibilizadas 120 vagas, sendo 60 destinadas &agrave; habilita&ccedil;&atilde;o em Ci&ecirc;ncias da Natureza e 60 &agrave; habilita&ccedil;&atilde;o em Ci&ecirc;ncias Humanas e Sociais.</p>
