@@ -38,7 +38,7 @@ files:
     title: Foto Dowglas Silva.jpg
     $$hashKey: 0L3
 created_date: "2019-06-28T13:06:59-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/03/2019-03-16-pelo-direito-de-viver-primeira-deputada-negra-trans-toma-posse-em-sao-paulo.md
   - _posts/2019/05/2019-05-17-movimentos-populares-lancam-manifesto-contra-a-lgbtfobia.md
@@ -57,22 +57,32 @@ releated_posts:
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>Tema da Parada LGBT este ano, a rebeli&atilde;o (ou revolta) de Stonewall completa hoje 50 anos e, embora seja um dos maiores marcos da luta LGBT, muitas pessoas n&atilde;o desconhecem a sua real magnitude.&nbsp;<br />
+<p>Tema da Parada LGBT deste ano, a rebeli&atilde;o (ou revolta) de Stonewall completa hoje 50 anos e, embora seja um dos maiores marcos da luta LGBT, muitas pessoas&nbsp;desconhecem a sua import&acirc;ncia.&nbsp;<br />
 &nbsp;</p>
 
-<p>A s&eacute;rie de manifesta&ccedil;&otilde;es espont&acirc;neas de membros da comunidade LGBT come&ccedil;ou com a resist&ecirc;ncia &agrave; invas&atilde;o da pol&iacute;cia de Nova York, na manh&atilde; de 28 de junho de 1969, no bar Stonewall Inn. Localizado no bairro de Greenwich Village, em Nova York (EUA), o bar era o &uacute;nico da &eacute;poca para homens gays na cidade de New York onde a dan&ccedil;a era permitida, sendo ela o principal atrativo desde a sua reabertura como clube gay.<br />
+<p>A s&eacute;rie de manifesta&ccedil;&otilde;es espont&acirc;neas de membros da comunidade LGBT come&ccedil;ou com a resist&ecirc;ncia &agrave; invas&atilde;o da pol&iacute;cia, na manh&atilde; de 28 de junho de 1969, no bar Stonewall Inn.</p>
+
+<p><br />
+Localizado no bairro de Greenwich Village, em Nova Iorque&nbsp; (EUA), o bar era o &uacute;nico da &eacute;poca para homens gays na cidade&nbsp;onde a dan&ccedil;a era permitida.</p>
+
+<p><br />
+O espa&ccedil;o virou&nbsp;um ponto de encontro da comunidade&nbsp;em&nbsp;um momento em que as LGBTs n&atilde;o podiam se expressar na rua.</p>
+
+<p><br />
+As&nbsp;for&ccedil;as policiais perseguiam as LGBTs e realizavam frequentes&nbsp;batidas em&nbsp;bares. O bar Stonewall j&aacute; havia sofrido v&aacute;rias destas batidas em que as frequentadoras iam presas e/ou sofriam viol&ecirc;ncia.</p>
+
+<p>&nbsp;</p>
+
+<p>Ao longo da d&eacute;cada de 1970, o ativismo gay teve avan&ccedil;os significativos a partir da resist&ecirc;ncia dos atos em New York, esses avan&ccedil;os duram at&eacute; os dias de hoje. E, para falar um pouco sobre esse momento&nbsp;hist&oacute;rico e as&nbsp;conquistas e desafios das manifesta&ccedil;&otilde;es LGBTs a partir de Stonewall, convidamos&nbsp; Alessandro Mariano, do Coletivo LGBT do MST.</p>
+
+<p><br />
+<strong>Confira:</strong></p>
+
+<p><br />
+<strong>O que foi a revolta em Stonewall e a import&acirc;ncia dela para o movimento LGBT?</strong><br />
 &nbsp;</p>
 
-<p>Como os motins realizados a partir de Stonewall s&atilde;o considerados como o evento mais importante da luta pelos direitos LGBT no mundo. Ao longo da d&eacute;cada de 1970, o ativismo gay teve avan&ccedil;os significativos a partir da resist&ecirc;ncia dos atos em New York e podem ser vistos at&eacute; hoje. Convidamos&nbsp; Alessandro Mariano, do Coletivo LGBT do MST, para falar sobre conquistas e desafios das manifesta&ccedil;&otilde;es LGBTs a partir de Stonewall e como esse ativismo impacta na realidade atual do pa&iacute;s. Confira.&nbsp;<br />
-&nbsp;</p>
-
-<p><strong>O que foi a revolta em Stonewall e a import&acirc;ncia dela para o movimento LGBT?</strong><br />
-&nbsp;</p>
-
-<p>A revolta de Stonewall &eacute; um grande s&iacute;mbolo da luta LGBT, a primeira grande manifesta&ccedil;&atilde;o da popula&ccedil;&atilde;o LGBT contra a invas&atilde;o da pol&iacute;cia de Nova Iorque ao bar Stonewall, em 28 de junho de 1969. Esse bar era um ponto de encontro da comunidade da &eacute;poca. Era um momento em que as LGBTs n&atilde;o podiam se expressar na rua, ent&atilde;o elas viviam em espa&ccedil;os privados como os bares. E a pol&iacute;cia era muito conservadora, perseguia as LGBTs e fazia batidas nestes bares e Stonewall j&aacute; havia sofrido v&aacute;rias destas batidas em que as frequentadoras iam presas e/ou sofriam viol&ecirc;ncia.<br />
-&nbsp;</p>
-
-<p>Ent&atilde;o no 28 de junho elas decidem resistir, e fazem isso indo para cima da pol&iacute;cia, utilizando madeiras e ferramentas &agrave; m&atilde;o para resistir. Essa luta dura dias e teve o apoio da sociedade, ent&atilde;o pela primeira vez as LGBTs se colocam contra a viol&ecirc;ncia de forma espont&acirc;nea e unida. Depois de um ano deste epis&oacute;dio, realizam a primeira Marcha do Orgulho Gay [nome na &eacute;poca] e essa manifesta&ccedil;&atilde;o de anivers&aacute;rio inaugura paradas do Orgulho Gay, que na d&eacute;cada de 1990 come&ccedil;a a ser renomeadas para incluir mais a comunidade, at&eacute; o Orgulho LGBT, que inclui l&eacute;sbicas, gays, bissexuais e travestis.<br />
+<p>A revolta de Stonewall &eacute; um grande s&iacute;mbolo da luta LGBT. Foi a primeira grande manifesta&ccedil;&atilde;o da popula&ccedil;&atilde;o LGBT contra a invas&atilde;o da pol&iacute;cia de Nova Iorque ao bar Stonewall. Ela acontece no 28 de junho quando as pessoas que estavam no bar&nbsp;decidem resistir. Essa resist&ecirc;ncia, que&nbsp;durou&nbsp;dias contou com o apoio da sociedade, ent&atilde;o, pela primeira vez as LGBTs se colocam contra a viol&ecirc;ncia de forma espont&acirc;nea e unida. Depois de um ano deste epis&oacute;dio, &eacute; realizada a primeira Marcha do Orgulho Gay [nome na &eacute;poca],&nbsp;essa manifesta&ccedil;&atilde;o de anivers&aacute;rio inaugura paradas do Orgulho Gay, que na d&eacute;cada de 1990 come&ccedil;am a ser renomeadas para incluir mais a comunidade, at&eacute; o Orgulho LGBT, que inclui l&eacute;sbicas, gays, bissexuais e travestis.<br />
 &nbsp;</p>
 
 <p><strong>O como esta hist&oacute;ria se contextualiza no Brasil?</strong><br />
