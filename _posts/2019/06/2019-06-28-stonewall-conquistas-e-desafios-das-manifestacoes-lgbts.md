@@ -30,13 +30,20 @@ files:
     small: //farm66.staticflickr.com/65535/48144713326_30dfa6b464_n.jpg
     title: Foto Divulgação MST.jpg
     $$hashKey: 0L0
-  - link: //farm66.staticflickr.com/65535/48144713356_bddbe69574_b.jpg
-    original: //farm66.staticflickr.com/65535/48144713356_aa64eb15d8_o.jpg
-    thumbnail: //farm66.staticflickr.com/65535/48144713356_bddbe69574_t.jpg
-    medium: //farm66.staticflickr.com/65535/48144713356_bddbe69574_z.jpg
-    small: //farm66.staticflickr.com/65535/48144713356_bddbe69574_n.jpg
-    title: Foto Dowglas Silva.jpg
-    $$hashKey: 0L3
+  - link: //farm66.staticflickr.com/65535/48145296767_e4a37bdcfb_b.jpg
+    original: //farm66.staticflickr.com/65535/48145296767_abb7ede1fa_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48145296767_e4a37bdcfb_t.jpg
+    medium: //farm66.staticflickr.com/65535/48145296767_e4a37bdcfb_z.jpg
+    small: //farm66.staticflickr.com/65535/48145296767_e4a37bdcfb_n.jpg
+    title: Stonewall_01_2500.jpg
+    $$hashKey: 04P
+  - link: //farm66.staticflickr.com/65535/48145332232_dfb04e8ac5_b.jpg
+    original: //farm66.staticflickr.com/65535/48145332232_707bdedcc6_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48145332232_dfb04e8ac5_t.jpg
+    medium: //farm66.staticflickr.com/65535/48145332232_dfb04e8ac5_z.jpg
+    small: //farm66.staticflickr.com/65535/48145332232_dfb04e8ac5_n.jpg
+    title: 17ª_Parada_LGBT_de_SP.jpg
+    $$hashKey: 04S
 created_date: "2019-06-28T13:06:59-03:00"
 published: true
 releated_posts:
@@ -47,8 +54,8 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Foto Divulgação MST.jpg" height="466" src="//farm66.staticflickr.com/65535/48144713326_30dfa6b464_b.jpg" width="700" />
-<figcaption><em>Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+<figure class="image" style="display:inline-block"><img alt="Stonewall_01_2500.jpg" height="467" src="//farm66.staticflickr.com/65535/48145296767_e4a37bdcfb_b.jpg" width="700" />
+<figcaption><em>Os manifestantes tomaram as ruas ap&oacute;s os tumultos de Stonewall, no ver&atilde;o de 1969.Foto: Dom&iacute;nio P&uacute;blico</em></figcaption>
 </figure>
 </div>
 
@@ -71,9 +78,8 @@ O espa&ccedil;o virou&nbsp;um ponto de encontro da comunidade&nbsp;em&nbsp;um mo
 <p><br />
 As&nbsp;for&ccedil;as policiais perseguiam as LGBTs e realizavam frequentes&nbsp;batidas em&nbsp;bares. O bar Stonewall j&aacute; havia sofrido v&aacute;rias destas batidas em que as frequentadoras iam presas e/ou sofriam viol&ecirc;ncia.</p>
 
-<p>&nbsp;</p>
-
-<p>Ao longo da d&eacute;cada de 1970, o ativismo gay teve avan&ccedil;os significativos a partir da resist&ecirc;ncia dos atos em New York, esses avan&ccedil;os duram at&eacute; os dias de hoje. E, para falar um pouco sobre esse momento&nbsp;hist&oacute;rico e as&nbsp;conquistas e desafios das manifesta&ccedil;&otilde;es LGBTs a partir de Stonewall, convidamos&nbsp; Alessandro Mariano, do Coletivo LGBT do MST.</p>
+<p><br />
+Ao longo da d&eacute;cada de 1970, o ativismo LGBT teve avan&ccedil;os significativos a partir da resist&ecirc;ncia dos atos em Nova Iorque, esses avan&ccedil;os duram at&eacute; os dias de hoje. E, para falar um pouco sobre esse momento&nbsp;hist&oacute;rico e as&nbsp;conquistas e desafios das manifesta&ccedil;&otilde;es LGBTs a partir de Stonewall, convidamos&nbsp; Alessandro Mariano, do Coletivo LGBT do MST.</p>
 
 <p><br />
 <strong>Confira:</strong></p>
@@ -94,12 +100,13 @@ As&nbsp;for&ccedil;as policiais perseguiam as LGBTs e realizavam frequentes&nbsp
 <strong>E quais seriam estas contradi&ccedil;&otilde;es?</strong><br />
 &nbsp;</p>
 
+<figure class="image" style="float:right"><img alt="17ª_Parada_LGBT_de_SP.jpg" height="450" src="//farm66.staticflickr.com/65535/48145332232_dfb04e8ac5_b.jpg" width="300" />
+<figcaption><em>Em 2019, A Parada alcan&ccedil;ou a marca de 3 milh&otilde;es&nbsp;<br />
+de participantes. Foto: Creative Commons</em></figcaption>
+</figure>
+
 <p>Uma delas &eacute; a contradi&ccedil;&atilde;o do Movimento pertencer a setores da classe m&eacute;dia, muitas vezes brancos, que n&atilde;o necessariamente incluem a comunidade. Esta &eacute; uma contradi&ccedil;&atilde;o do meio LGBT, porque as organiza&ccedil;&otilde;es n&atilde;o necessariamente perpassam as quest&otilde;es das LGBTs que vivem nas favelas, no campo e outros espa&ccedil;os n&atilde;o centrais ou urbanos. O desafio &eacute; questionar aonde est&atilde;o as LGBTs, quais s&atilde;o esses sujeitos que s&atilde;o assassinados.&nbsp;<br />
 &nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="LGBT2.jpg" height="158" src="//farm66.staticflickr.com/65535/48144788502_a3b1c2fa85_b.jpg" width="300" />
-<figcaption></figcaption>
-</figure>
 
 <p>Pensar essas contradi&ccedil;&otilde;es &eacute; observar como a pauta LGBT tem sido apropriada pelo mercado, pelo pr&oacute;prio capitalismo. As LGBTs s&atilde;o sujeitos que consomem um determinado tipo de roupa, que frequentam determinados espa&ccedil;os, e o capitalismo passa a produzir mercadoria para isso, transformando a pauta LGBT em mercado. Isso resulta em certa despolitiza&ccedil;&atilde;o da bandeira de luta, o que &eacute; uma contradi&ccedil;&atilde;o, porque o mercado se prop&otilde;e a defender o direito das LGBT de ter emprego, de consumir, mas ignora as pautas de ra&ccedil;a e de g&ecirc;nero. Cabe ao Movimento&nbsp; situar esta materialidade contradit&oacute;ria em que estes grupos est&atilde;o, porque n&atilde;o basta uma luta apenas de afirma&ccedil;&atilde;o identit&aacute;ria, ou uma quest&atilde;o de direito de consumo, mas tamb&eacute;m a luta pelo direito &agrave; terra. As LGBTs tamb&eacute;m tem direito a viver no campo, produzir alimento saud&aacute;veis, ter moradia digna,e todas estas s&atilde;o quest&otilde;es que est&atilde;o atravessadas e que o Movimento LGBT apresenta hoje como desafio.</p>
 
@@ -110,10 +117,6 @@ As&nbsp;for&ccedil;as policiais perseguiam as LGBTs e realizavam frequentes&nbsp
 <p>Pensamos esta constru&ccedil;&atilde;o o tempo todo. A pr&oacute;pria atua&ccedil;&atilde;o do movimento LGBT em rela&ccedil;&atilde;o &agrave; participa&ccedil;&atilde;o da sigla das l&eacute;sbicas, por exemplo, foi um questionamento por parte das mulheres l&eacute;sbicas e bissexuais de que os movimentos LGBTs s&atilde;o homogenizados por homens gays e brancos. Ent&atilde;o, h&aacute; uma constante atualiza&ccedil;&atilde;o interna de que haja um movimento composto pelas camadas mais pobres, mais populares, de fato possa integrar &agrave; periferia e repensar essa representatividade. Precisamos ter mais LGBTs negros e negras no comando dos movimentos, encampando as necessidades da vida como emprego, moradia, terra.</p>
 
 <p>&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="Foto Dowglas Silva.jpg" height="200" src="//farm66.staticflickr.com/65535/48144713356_bddbe69574_b.jpg" width="300" />
-<figcaption></figcaption>
-</figure>
 
 <p>Outra coisa &eacute; tamb&eacute;m tentar sobreviver dentro de uma sociedade patriarcal em que o homem est&aacute; em uma situa&ccedil;&atilde;o de privil&eacute;gio, e quando o homem &eacute; branco ele ainda vai ter uma sobreposi&ccedil;&atilde;o n&atilde;o s&oacute; sobre as mulheres brancas e negras como tamb&eacute;m do homem preto. &Eacute; preciso combater o patriarcado, que atravessa essa sociedade, e tamb&eacute;m pensar a quest&atilde;o de supera&ccedil;&atilde;o de racismo, que &eacute; estruturante e que perpassa todas as dificuldades pelas quais passam as LGBTs&nbsp; e movimentos sociais como um todo. &Eacute; um desafio tamb&eacute;m pensar esta quest&atilde;o por dentro do movimento da classe trabalhadora, dos partidos, do movimentos sociais em geral, porque &eacute; necess&aacute;rio que esta luta seja anticapitalista, anti patriarcal e antiracista. N&atilde;o tem como ser uma coisa ou outra, &eacute; necess&aacute;rio que leve &agrave; supera&ccedil;&atilde;o das opress&otilde;es e da explora&ccedil;&otilde;es.</p>
 
@@ -129,8 +132,9 @@ Ent&atilde;o, nesse sentido, essas manifesta&ccedil;&otilde;es s&atilde;o encora
 <p>Em termos conquista, nessa &uacute;ltima parada tamb&eacute;m comemoramos a vota&ccedil;&atilde;o no STF pela criminaliza&ccedil;&atilde;o da homofobia, que equipara a LGBTfobia com o racismo e outras formas de preconceito. Estamos em um momento em que as ideias propagadas, a partir das falas do presidente,&nbsp; autorizam que homof&oacute;bicos e transf&oacute;bicos saiam nas ruas para praticar viol&ecirc;ncias contra as LGBTs, inclusive matar. Ent&atilde;o ter uma lei que criminaliza estas pr&aacute;ticas, para n&oacute;s, &eacute; um grande avan&ccedil;o.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="Bandeira LGBT é hasteada durante o 6º Congresso Nacional do MST..jpg" height="199" src="//farm66.staticflickr.com/65535/48144713296_297949b06b_b.jpg" width="300" />
-<figcaption></figcaption>
+<figure class="image" style="float:left"><img alt="Bandeira LGBT é hasteada durante o 6º Congresso Nacional do MST..jpg" height="199" src="//farm66.staticflickr.com/65535/48144713296_297949b06b_b.jpg" width="300" />
+<figcaption><em>Bandeira LGBT &eacute; hasteada durante o<br />
+6&ordm; Congresso Nacional do MST</em></figcaption>
 </figure>
 
 <p>No entanto, n&atilde;o basta s&oacute; ser lei, &eacute; necess&aacute;rio que a gente avance tamb&eacute;m em pol&iacute;ticas p&uacute;blicas que garantam acesso &agrave; sa&uacute;de, &agrave; educa&ccedil;&atilde;o, &agrave; terra e &agrave; moradia &agrave;s LGBTs, porque n&atilde;o &eacute; permitido que vivam e se expressem. Assim, o simbolismo de Stonewall a 50 anos atr&aacute;s est&aacute; viva e presente, porque ela mostra que as LGBTs t&ecirc;m humanidade, que a forma de viver e de amar deve ser respeitada e s&atilde;o leg&iacute;timas nos espa&ccedil;os p&uacute;blicos e n&atilde;o somente no espa&ccedil;o privado.&nbsp;<br />
@@ -148,4 +152,9 @@ Ent&atilde;o, nesse sentido, essas manifesta&ccedil;&otilde;es s&atilde;o encora
 <p>Temos realizado Paradas e manifesta&ccedil;&otilde;es pelo Brasil a fora para que as LGBTs de todos os cantos saiam &agrave;s ruas e reafirmam estas bandeiras de luta como necess&aacute;rias. O que estamos dizendo &eacute; que as LGBTs n&atilde;o voltaram para o arm&aacute;rio, vai seguir ocupando a rua, a pol&iacute;tica, o movimento social, e lutar contra o conservadorismo e denunciar as viol&ecirc;ncias. Queremos seguir e fundamentar uma unidade na classe trabalhadora nas organiza&ccedil;&otilde;es, nos movimentos e partidos, para resistir n&atilde;o somente &agrave;s medidas do governo Bolsonaro, mas tamb&eacute;m incluir as bandeiras LGBTs dentro destas organiza&ccedil;&otilde;es.</p>
 
 <p><br />
-&Eacute; necess&aacute;rio que a classe trabalhadora incorpore a luta LGBT como parte desta classe, e nesse sentido, garantir que elas possam ter seus direitos &agrave; sa&uacute;de, educa&ccedil;&atilde;o, terra e etc, e que possam exercer os direitos civis de casamento, da ado&ccedil;&atilde;o, que s&atilde;o a&ccedil;&otilde;es j&aacute; conquistadas mas que ainda enfrentam dificuldades concretamente. Por isso, os movimentos LGBTs junto com as demais organiza&ccedil;&otilde;es e movimentos de esquerda nos pr&oacute;ximos per&iacute;odos tem o desafio de seguir na rua, pautando e lutando contra os retrocessos do projeto Bolsonaro, mas tamb&eacute;m pelas vidas e exist&ecirc;ncia das LGBTs.</p>
+&Eacute; necess&aacute;rio que a classe trabalhadora incorpore a luta LGBT como parte desta classe, e nesse sentido, garantir que elas possam ter seus direitos &agrave; sa&uacute;de, educa&ccedil;&atilde;o, terra e etc, e que possam exercer os direitos civis de casamento, da ado&ccedil;&atilde;o, que s&atilde;o a&ccedil;&otilde;es j&aacute; conquistadas mas que ainda enfrentam dificuldades concretamente. Por isso, os movimentos LGBTs junto com as demais organiza&ccedil;&otilde;es e movimentos de esquerda nos pr&oacute;ximos per&iacute;odos tem o desafio de seguir na rua, pautando e lutando contra os retrocessos do projeto Bolsonaro, mas tamb&eacute;m pelas vidas e exist&ecirc;ncia das LGBTs.<br />
+<br />
+Veja mais sobre o assunto no v&iacute;deo:<br />
+&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/EYXc0SZpIjo" width="640"></iframe></p>
