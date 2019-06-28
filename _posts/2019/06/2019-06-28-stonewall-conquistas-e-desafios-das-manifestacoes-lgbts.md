@@ -23,13 +23,6 @@ files:
     small: //farm66.staticflickr.com/65535/48144713296_297949b06b_n.jpg
     title: Bandeira LGBT é hasteada durante o 6º Congresso Nacional do MST..jpg
     $$hashKey: 0KX
-  - link: //farm66.staticflickr.com/65535/48144713326_30dfa6b464_b.jpg
-    original: //farm66.staticflickr.com/65535/48144713326_123b0cda00_o.jpg
-    thumbnail: //farm66.staticflickr.com/65535/48144713326_30dfa6b464_t.jpg
-    medium: //farm66.staticflickr.com/65535/48144713326_30dfa6b464_z.jpg
-    small: //farm66.staticflickr.com/65535/48144713326_30dfa6b464_n.jpg
-    title: Foto Divulgação MST.jpg
-    $$hashKey: 0L0
   - link: //farm66.staticflickr.com/65535/48145296767_e4a37bdcfb_b.jpg
     original: //farm66.staticflickr.com/65535/48145296767_abb7ede1fa_o.jpg
     thumbnail: //farm66.staticflickr.com/65535/48145296767_e4a37bdcfb_t.jpg
@@ -44,6 +37,13 @@ files:
     small: //farm66.staticflickr.com/65535/48145332232_dfb04e8ac5_n.jpg
     title: 17ª_Parada_LGBT_de_SP.jpg
     $$hashKey: 04S
+  - link: //farm66.staticflickr.com/65535/48145379642_ec00628ef5_b.jpg
+    original: //farm66.staticflickr.com/65535/48145379642_a0c1669c38_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48145379642_ec00628ef5_t.jpg
+    medium: //farm66.staticflickr.com/65535/48145379642_ec00628ef5_z.jpg
+    small: //farm66.staticflickr.com/65535/48145379642_ec00628ef5_n.jpg
+    title: alessandro.jpg
+    $$hashKey: 09N
 created_date: "2019-06-28T13:06:59-03:00"
 published: true
 releated_posts:
@@ -85,8 +85,9 @@ Ao longo da d&eacute;cada de 1970, o ativismo LGBT teve avan&ccedil;os significa
 <strong>Confira:</strong></p>
 
 <p><br />
-<strong>O que foi a revolta em Stonewall e a import&acirc;ncia dela para o movimento LGBT?</strong><br />
 &nbsp;</p>
+
+<p><strong>O que foi a revolta em Stonewall e a import&acirc;ncia dela para o movimento LGBT?</strong></p>
 
 <p>A revolta de Stonewall &eacute; um grande s&iacute;mbolo da luta LGBT. Foi a primeira grande manifesta&ccedil;&atilde;o da popula&ccedil;&atilde;o LGBT contra a invas&atilde;o da pol&iacute;cia de Nova Iorque ao bar Stonewall. Ela acontece no 28 de junho quando as pessoas que estavam no bar&nbsp;decidem resistir. Essa resist&ecirc;ncia, que&nbsp;durou&nbsp;dias contou com o apoio da sociedade, ent&atilde;o, pela primeira vez as LGBTs se colocam contra a viol&ecirc;ncia de forma espont&acirc;nea e unida. Depois de um ano deste epis&oacute;dio, &eacute; realizada a primeira Marcha do Orgulho Gay [nome na &eacute;poca],&nbsp;essa manifesta&ccedil;&atilde;o de anivers&aacute;rio inaugura paradas do Orgulho Gay, que na d&eacute;cada de 1990 come&ccedil;am a ser renomeadas para incluir mais a comunidade, at&eacute; o Orgulho LGBT, que inclui l&eacute;sbicas, gays, bissexuais e travestis.<br />
 &nbsp;</p>
@@ -94,21 +95,26 @@ Ao longo da d&eacute;cada de 1970, o ativismo LGBT teve avan&ccedil;os significa
 <p><strong>O como esta hist&oacute;ria se contextualiza no Brasil?</strong><br />
 &nbsp;</p>
 
+<figure class="image" style="float:left"><img alt="alessandro.jpg" height="200" src="//farm66.staticflickr.com/65535/48145379642_ec00628ef5_b.jpg" width="300" />
+<figcaption><em>Alessandro Mariano, do Coletivo LGBT do MST<br />
+Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+</figure>
+
 <p>No Brasil, o movimento LGBT inicia sua organiza&ccedil;&atilde;o na d&eacute;cada de 1980, e nasce especialmente com o Somos, um grupo da classe m&eacute;dia com LGBTs ligados &agrave; cultura e ao jornalismo. Ent&atilde;o as manifesta&ccedil;&otilde;es nascem um pouco com essa caracter&iacute;stica de resist&ecirc;ncia na cidade, j&aacute; com a Ditadura Militar. Por outro lado, nesta mesma &eacute;poca o movimento LGBT come&ccedil;a a se unir em quest&otilde;es como a luta das travestis. Na d&eacute;cada de 1980 existia aqui em S&atilde;o Paulo uma opera&ccedil;&atilde;o chamada Tar&acirc;ntula, uma pol&iacute;tica estatal de exterm&iacute;nio das pessoas transsexuais. Come&ccedil;a ent&atilde;o a resist&ecirc;ncia e den&uacute;ncia inclusive com apoio do movimento sindical, mesmo com as resist&ecirc;ncias e preconceitos na luta sindical. Nesse sentido, olhar para a hist&oacute;ria nos ajuda entender as contradi&ccedil;&otilde;es que a luta LGBT tamb&eacute;m vivencia.</p>
 
 <p><br />
 <strong>E quais seriam estas contradi&ccedil;&otilde;es?</strong><br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="17ª_Parada_LGBT_de_SP.jpg" height="450" src="//farm66.staticflickr.com/65535/48145332232_dfb04e8ac5_b.jpg" width="300" />
-<figcaption><em>Em 2019, A Parada alcan&ccedil;ou a marca de 3 milh&otilde;es&nbsp;<br />
-de participantes. Foto: Creative Commons</em></figcaption>
-</figure>
-
 <p>Uma delas &eacute; a contradi&ccedil;&atilde;o do Movimento pertencer a setores da classe m&eacute;dia, muitas vezes brancos, que n&atilde;o necessariamente incluem a comunidade. Esta &eacute; uma contradi&ccedil;&atilde;o do meio LGBT, porque as organiza&ccedil;&otilde;es n&atilde;o necessariamente perpassam as quest&otilde;es das LGBTs que vivem nas favelas, no campo e outros espa&ccedil;os n&atilde;o centrais ou urbanos. O desafio &eacute; questionar aonde est&atilde;o as LGBTs, quais s&atilde;o esses sujeitos que s&atilde;o assassinados.&nbsp;<br />
 &nbsp;</p>
 
 <p>Pensar essas contradi&ccedil;&otilde;es &eacute; observar como a pauta LGBT tem sido apropriada pelo mercado, pelo pr&oacute;prio capitalismo. As LGBTs s&atilde;o sujeitos que consomem um determinado tipo de roupa, que frequentam determinados espa&ccedil;os, e o capitalismo passa a produzir mercadoria para isso, transformando a pauta LGBT em mercado. Isso resulta em certa despolitiza&ccedil;&atilde;o da bandeira de luta, o que &eacute; uma contradi&ccedil;&atilde;o, porque o mercado se prop&otilde;e a defender o direito das LGBT de ter emprego, de consumir, mas ignora as pautas de ra&ccedil;a e de g&ecirc;nero. Cabe ao Movimento&nbsp; situar esta materialidade contradit&oacute;ria em que estes grupos est&atilde;o, porque n&atilde;o basta uma luta apenas de afirma&ccedil;&atilde;o identit&aacute;ria, ou uma quest&atilde;o de direito de consumo, mas tamb&eacute;m a luta pelo direito &agrave; terra. As LGBTs tamb&eacute;m tem direito a viver no campo, produzir alimento saud&aacute;veis, ter moradia digna,e todas estas s&atilde;o quest&otilde;es que est&atilde;o atravessadas e que o Movimento LGBT apresenta hoje como desafio.</p>
+
+<figure class="image" style="float:right"><img alt="17ª_Parada_LGBT_de_SP.jpg" height="450" src="//farm66.staticflickr.com/65535/48145332232_dfb04e8ac5_b.jpg" width="300" />
+<figcaption><em>Em 2019, A Parada alcan&ccedil;ou a marca de 3 milh&otilde;es&nbsp;<br />
+de participantes. Foto: Creative Commons</em></figcaption>
+</figure>
 
 <p><br />
 <strong>Como esta constru&ccedil;&atilde;o de um &quot;Orgulho LGBT&quot; contribui para outras pautas, como as raciais, de g&ecirc;nero, e etc?</strong><br />
@@ -129,13 +135,13 @@ de participantes. Foto: Creative Commons</em></figcaption>
 Ent&atilde;o, nesse sentido, essas manifesta&ccedil;&otilde;es s&atilde;o encorajadora, pois mostra aos sujeitos que existimos na sociedade e que devemos ser respeitados, que temos direitos e queremos um outro tipo de sociedade, outro pa&iacute;s.<br />
 &nbsp;</p>
 
-<p>Em termos conquista, nessa &uacute;ltima parada tamb&eacute;m comemoramos a vota&ccedil;&atilde;o no STF pela criminaliza&ccedil;&atilde;o da homofobia, que equipara a LGBTfobia com o racismo e outras formas de preconceito. Estamos em um momento em que as ideias propagadas, a partir das falas do presidente,&nbsp; autorizam que homof&oacute;bicos e transf&oacute;bicos saiam nas ruas para praticar viol&ecirc;ncias contra as LGBTs, inclusive matar. Ent&atilde;o ter uma lei que criminaliza estas pr&aacute;ticas, para n&oacute;s, &eacute; um grande avan&ccedil;o.<br />
-&nbsp;</p>
-
 <figure class="image" style="float:left"><img alt="Bandeira LGBT é hasteada durante o 6º Congresso Nacional do MST..jpg" height="199" src="//farm66.staticflickr.com/65535/48144713296_297949b06b_b.jpg" width="300" />
 <figcaption><em>Bandeira LGBT &eacute; hasteada durante o<br />
 6&ordm; Congresso Nacional do MST</em></figcaption>
 </figure>
+
+<p>Em termos conquista, nessa &uacute;ltima parada tamb&eacute;m comemoramos a vota&ccedil;&atilde;o no STF pela criminaliza&ccedil;&atilde;o da homofobia, que equipara a LGBTfobia com o racismo e outras formas de preconceito. Estamos em um momento em que as ideias propagadas, a partir das falas do presidente,&nbsp; autorizam que homof&oacute;bicos e transf&oacute;bicos saiam nas ruas para praticar viol&ecirc;ncias contra as LGBTs, inclusive matar. Ent&atilde;o ter uma lei que criminaliza estas pr&aacute;ticas, para n&oacute;s, &eacute; um grande avan&ccedil;o.<br />
+&nbsp;</p>
 
 <p>No entanto, n&atilde;o basta s&oacute; ser lei, &eacute; necess&aacute;rio que a gente avance tamb&eacute;m em pol&iacute;ticas p&uacute;blicas que garantam acesso &agrave; sa&uacute;de, &agrave; educa&ccedil;&atilde;o, &agrave; terra e &agrave; moradia &agrave;s LGBTs, porque n&atilde;o &eacute; permitido que vivam e se expressem. Assim, o simbolismo de Stonewall a 50 anos atr&aacute;s est&aacute; viva e presente, porque ela mostra que as LGBTs t&ecirc;m humanidade, que a forma de viver e de amar deve ser respeitada e s&atilde;o leg&iacute;timas nos espa&ccedil;os p&uacute;blicos e n&atilde;o somente no espa&ccedil;o privado.&nbsp;<br />
 &nbsp;</p>
