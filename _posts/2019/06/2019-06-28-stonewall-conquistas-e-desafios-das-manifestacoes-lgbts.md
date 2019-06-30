@@ -9,13 +9,6 @@ section: featured-news
 images_hd: //farm66.staticflickr.com/65535/48144713356_bddbe69574_b.jpg
 layout: post
 files:
-  - link: //farm66.staticflickr.com/65535/48144788502_a3b1c2fa85_b.jpg
-    original: //farm66.staticflickr.com/65535/48144788502_3d7dea79f4_o.jpg
-    thumbnail: //farm66.staticflickr.com/65535/48144788502_a3b1c2fa85_t.jpg
-    medium: //farm66.staticflickr.com/65535/48144788502_a3b1c2fa85_z.jpg
-    small: //farm66.staticflickr.com/65535/48144788502_a3b1c2fa85_n.jpg
-    title: LGBT2.jpg
-    $$hashKey: 0KU
   - link: //farm66.staticflickr.com/65535/48144713296_297949b06b_b.jpg
     original: //farm66.staticflickr.com/65535/48144713296_be70895b63_o.jpg
     thumbnail: //farm66.staticflickr.com/65535/48144713296_297949b06b_t.jpg
@@ -37,13 +30,19 @@ files:
     small: //farm66.staticflickr.com/65535/48145332232_dfb04e8ac5_n.jpg
     title: 17ª_Parada_LGBT_de_SP.jpg
     $$hashKey: 04S
-  - link: //farm66.staticflickr.com/65535/48145379642_ec00628ef5_b.jpg
-    original: //farm66.staticflickr.com/65535/48145379642_a0c1669c38_o.jpg
-    thumbnail: //farm66.staticflickr.com/65535/48145379642_ec00628ef5_t.jpg
-    medium: //farm66.staticflickr.com/65535/48145379642_ec00628ef5_z.jpg
-    small: //farm66.staticflickr.com/65535/48145379642_ec00628ef5_n.jpg
-    title: alessandro.jpg
-    $$hashKey: 09N
+  - link: //farm66.staticflickr.com/65535/48155673546_f87367950a_b.jpg
+    original: //farm66.staticflickr.com/65535/48155673546_ac84cf26b8_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48155673546_f87367950a_t.jpg
+    medium: //farm66.staticflickr.com/65535/48155673546_f87367950a_z.jpg
+    small: //farm66.staticflickr.com/65535/48155673546_f87367950a_n.jpg
+    title: 1c60ed54-3529-414e-a813-b4e2b39eeec5.jpg
+    $$hashKey: 04P
+  - link: //farm66.staticflickr.com/65535/48155683271_6686789eca_b.jpg
+    original: //farm66.staticflickr.com/65535/48155683271_733f253b4f_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48155683271_6686789eca_t.jpg
+    medium: //farm66.staticflickr.com/65535/48155683271_6686789eca_z.jpg
+    small: //farm66.staticflickr.com/65535/48155683271_6686789eca_n.jpg
+    title: 1c60ed54-3529-414e-a813-b4e2b39eeec5.jpg
 created_date: "2019-06-28T13:06:59-03:00"
 published: true
 releated_posts:
@@ -70,7 +69,7 @@ Da P&aacute;gina do MST</em><br />
 <p>A s&eacute;rie de manifesta&ccedil;&otilde;es espont&acirc;neas de membros da comunidade LGBT come&ccedil;ou com a resist&ecirc;ncia &agrave; invas&atilde;o da pol&iacute;cia, na manh&atilde; de 28 de junho de 1969, no bar Stonewall Inn.</p>
 
 <p><br />
-Localizado no bairro de Greenwich Village, em Nova Iorque&nbsp; (EUA), o bar era o &uacute;nico da &eacute;poca para homens gays na cidade&nbsp;onde a dan&ccedil;a era permitida.</p>
+Localizado no bairro de Greenwich Village, em Nova York&nbsp; (EUA), o bar era o &uacute;nico da &eacute;poca para homens gays na cidade&nbsp;onde a dan&ccedil;a era permitida.</p>
 
 <p><br />
 O espa&ccedil;o virou&nbsp;um ponto de encontro da comunidade&nbsp;em&nbsp;um momento em que as LGBTs n&atilde;o podiam se expressar na rua.</p>
@@ -89,27 +88,22 @@ Ao longo da d&eacute;cada de 1970, o ativismo LGBT teve avan&ccedil;os significa
 
 <p><strong>O que foi a revolta em Stonewall e a import&acirc;ncia dela para o movimento LGBT?</strong></p>
 
-<p>A revolta de Stonewall &eacute; um grande s&iacute;mbolo da luta LGBT. Foi a primeira grande manifesta&ccedil;&atilde;o da popula&ccedil;&atilde;o LGBT contra a invas&atilde;o da pol&iacute;cia de Nova Iorque ao bar Stonewall. Ela acontece no 28 de junho quando as pessoas que estavam no bar&nbsp;decidem resistir. Essa resist&ecirc;ncia, que&nbsp;durou&nbsp;dias contou com o apoio da sociedade, ent&atilde;o, pela primeira vez as LGBTs se colocam contra a viol&ecirc;ncia de forma espont&acirc;nea e unida. Depois de um ano deste epis&oacute;dio, &eacute; realizada a primeira Marcha do Orgulho Gay [nome na &eacute;poca],&nbsp;essa manifesta&ccedil;&atilde;o de anivers&aacute;rio inaugura paradas do Orgulho Gay, que na d&eacute;cada de 1990 come&ccedil;am a ser renomeadas para incluir mais a comunidade, at&eacute; o Orgulho LGBT, que inclui l&eacute;sbicas, gays, bissexuais e travestis.<br />
+<p>A revolta de Stonewall &eacute; um grande s&iacute;mbolo da luta LGBT. Foi a primeira grande manifesta&ccedil;&atilde;o da popula&ccedil;&atilde;o LGBT contra a invas&atilde;o da pol&iacute;cia de Nova York&nbsp;ao bar Stonewall. Ela acontece no 28 de junho de 1969 quando as pessoas que estavam no bar&nbsp;decidem resistir. Essa resist&ecirc;ncia, que&nbsp;durou&nbsp;dias contou com o apoio da sociedade, ent&atilde;o, pela primeira vez as LGBTs se colocam contra a viol&ecirc;ncia de forma espont&acirc;nea e unida. Depois de um ano deste epis&oacute;dio, &eacute; realizada a primeira Marcha do Orgulho Gay [nome na &eacute;poca],&nbsp;essa manifesta&ccedil;&atilde;o de anivers&aacute;rio inaugura paradas do Orgulho Gay, que na d&eacute;cada de 1990 come&ccedil;am a ser renomeadas para incluir mais a comunidade, at&eacute; ao que chamamos hoje de&nbsp;Orgulho LGBT, que inclui l&eacute;sbicas, gays, bissexuais e travestis.<br />
 &nbsp;</p>
 
 <p><strong>O como esta hist&oacute;ria se contextualiza no Brasil?</strong><br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="alessandro.jpg" height="200" src="//farm66.staticflickr.com/65535/48145379642_ec00628ef5_b.jpg" width="300" />
-<figcaption><em>Alessandro Mariano, do Coletivo LGBT do MST<br />
-Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
-</figure>
-
-<p>No Brasil, o movimento LGBT inicia sua organiza&ccedil;&atilde;o na d&eacute;cada de 1980, e nasce especialmente com o Somos, um grupo da classe m&eacute;dia com LGBTs ligados &agrave; cultura e ao jornalismo. Ent&atilde;o as manifesta&ccedil;&otilde;es nascem um pouco com essa caracter&iacute;stica de resist&ecirc;ncia na cidade, j&aacute; com a Ditadura Militar. Por outro lado, nesta mesma &eacute;poca o movimento LGBT come&ccedil;a a se unir em quest&otilde;es como a luta das travestis. Na d&eacute;cada de 1980 existia aqui em S&atilde;o Paulo uma opera&ccedil;&atilde;o chamada Tar&acirc;ntula, uma pol&iacute;tica estatal de exterm&iacute;nio das pessoas transsexuais. Come&ccedil;a ent&atilde;o a resist&ecirc;ncia e den&uacute;ncia inclusive com apoio do movimento sindical, mesmo com as resist&ecirc;ncias e preconceitos na luta sindical. Nesse sentido, olhar para a hist&oacute;ria nos ajuda entender as contradi&ccedil;&otilde;es que a luta LGBT tamb&eacute;m vivencia.</p>
+<p>No Brasil, o movimento LGBT inicia sua organiza&ccedil;&atilde;o na d&eacute;cada de 1980, e nasce especialmente com o Somos, um grupo da classe m&eacute;dia com LGBTs ligados &agrave; cultura e ao jornalismo. Ent&atilde;o as manifesta&ccedil;&otilde;es nascem um pouco com essa caracter&iacute;stica de resist&ecirc;ncia na cidade, durante&nbsp;a Ditadura Militar. Por outro lado, nesta mesma &eacute;poca o movimento LGBT come&ccedil;a a se unir em quest&otilde;es como a luta das travestis. Na d&eacute;cada de 1980 existia aqui em S&atilde;o Paulo uma opera&ccedil;&atilde;o chamada Tar&acirc;ntula, uma pol&iacute;tica estatal de exterm&iacute;nio das pessoas transsexuais. Come&ccedil;a ent&atilde;o a resist&ecirc;ncia e den&uacute;ncia inclusive com apoio do movimento sindical, mesmo com as resist&ecirc;ncias e preconceitos na luta sindical. Nesse sentido, olhar para a hist&oacute;ria nos ajuda entender as contradi&ccedil;&otilde;es que a luta LGBT tamb&eacute;m vivencia.</p>
 
 <p><br />
 <strong>E quais seriam estas contradi&ccedil;&otilde;es?</strong><br />
 &nbsp;</p>
 
-<p>Uma delas &eacute; a contradi&ccedil;&atilde;o do Movimento pertencer a setores da classe m&eacute;dia, muitas vezes brancos, que n&atilde;o necessariamente incluem a comunidade. Esta &eacute; uma contradi&ccedil;&atilde;o do meio LGBT, porque as organiza&ccedil;&otilde;es n&atilde;o necessariamente perpassam as quest&otilde;es das LGBTs que vivem nas favelas, no campo e outros espa&ccedil;os n&atilde;o centrais ou urbanos. O desafio &eacute; questionar aonde est&atilde;o as LGBTs, quais s&atilde;o esses sujeitos que s&atilde;o assassinados.&nbsp;<br />
+<p>Uma delas &eacute; a contradi&ccedil;&atilde;o do Movimento pertencer a setores da classe m&eacute;dia, muitas vezes brancos, que n&atilde;o necessariamente incluem a comunidade. Esta &eacute; uma contradi&ccedil;&atilde;o dos espa&ccedil;os&nbsp;LGBT, porque as organiza&ccedil;&otilde;es n&atilde;o necessariamente perpassam as quest&otilde;es das LGBTs que vivem nas favelas, no campo e outros espa&ccedil;os n&atilde;o centrais ou urbanos. O desafio &eacute; questionar aonde est&atilde;o as LGBTs, quais s&atilde;o esses sujeitos que s&atilde;o assassinados.&nbsp;<br />
 &nbsp;</p>
 
-<p>Pensar essas contradi&ccedil;&otilde;es &eacute; observar como a pauta LGBT tem sido apropriada pelo mercado, pelo pr&oacute;prio capitalismo. As LGBTs s&atilde;o sujeitos que consomem um determinado tipo de roupa, que frequentam determinados espa&ccedil;os, e o capitalismo passa a produzir mercadoria para isso, transformando a pauta LGBT em mercado. Isso resulta em certa despolitiza&ccedil;&atilde;o da bandeira de luta, o que &eacute; uma contradi&ccedil;&atilde;o, porque o mercado se prop&otilde;e a defender o direito das LGBT de ter emprego, de consumir, mas ignora as pautas de ra&ccedil;a e de g&ecirc;nero. Cabe ao Movimento&nbsp; situar esta materialidade contradit&oacute;ria em que estes grupos est&atilde;o, porque n&atilde;o basta uma luta apenas de afirma&ccedil;&atilde;o identit&aacute;ria, ou uma quest&atilde;o de direito de consumo, mas tamb&eacute;m a luta pelo direito &agrave; terra. As LGBTs tamb&eacute;m tem direito a viver no campo, produzir alimento saud&aacute;veis, ter moradia digna,e todas estas s&atilde;o quest&otilde;es que est&atilde;o atravessadas e que o Movimento LGBT apresenta hoje como desafio.</p>
+<p>Pensar essas contradi&ccedil;&otilde;es &eacute; observar como a pauta LGBT tem sido apropriada pelo mercado, pelo pr&oacute;prio capitalismo. As LGBTs s&atilde;o sujeitos que consomem um determinado tipo de roupa, que frequentam determinados espa&ccedil;os, e o capitalismo passa a produzir mercadoria para isso, transformando a pauta LGBT em mercado. Isso resulta em certa despolitiza&ccedil;&atilde;o da bandeira de luta, o que &eacute; uma contradi&ccedil;&atilde;o, porque o mercado se prop&otilde;e a defender o direito das LGBT de ter emprego, de consumir, mas ignora as pautas de ra&ccedil;a e de g&ecirc;nero. Cabe ao Movimento&nbsp; situar esta materialidade contradit&oacute;ria em que estes grupos est&atilde;o, porque n&atilde;o basta uma luta apenas de afirma&ccedil;&atilde;o identit&aacute;ria, ou uma quest&atilde;o de direito de consumo, mas tamb&eacute;m a luta pelo direito &agrave; terra. As LGBTs tamb&eacute;m tem direito a viver no campo, produzir alimento saud&aacute;veis, ter moradia digna e todas estas s&atilde;o quest&otilde;es que est&atilde;o atravessadas e que o Movimento LGBT apresenta hoje como desafio.desafio em se compreender como espa&ccedil;o de organiza&ccedil;&atilde;o das LGBT Sem-teto, sem-terra, ind&iacute;genas, das que moram na rua, das desempregadas.</p>
 
 <figure class="image" style="float:right"><img alt="17ª_Parada_LGBT_de_SP.jpg" height="450" src="//farm66.staticflickr.com/65535/48145332232_dfb04e8ac5_b.jpg" width="300" />
 <figcaption><em>Em 2019, A Parada alcan&ccedil;ou a marca de 3 milh&otilde;es&nbsp;<br />
