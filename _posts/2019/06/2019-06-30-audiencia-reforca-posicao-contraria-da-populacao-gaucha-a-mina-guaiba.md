@@ -85,7 +85,7 @@ A discuss&atilde;o em torno do projeto, que ocupar&aacute; quase 5 mil hectares 
 
 <figure class="image" style="float:right"><img alt="Manifestação do público contra a implantação da Mina Guaíba - Foto - Maiara Rauber - MST.jpg" height="200" src="//farm66.staticflickr.com/65535/48160155441_e8f0086d62_b.jpg" width="300" />
 <figcaption><em>Manifestação contra a implantação da mina.<br />
-Foto - Maiara Rauber</em></figcaption>
+Foto: Maiara Rauber</em></figcaption>
 </figure>
 
 <p><br />
