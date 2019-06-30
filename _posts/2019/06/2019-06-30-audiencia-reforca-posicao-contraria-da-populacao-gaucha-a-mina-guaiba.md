@@ -131,7 +131,7 @@ Manifestantes ainda ressaltaram que quem deve decidir sobre a implanta&ccedil;&a
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Jovens protestam em frente ao local da audiênci pública sobre a Mina Guaíba - Foto - Maiara Rauber - MST-6.jpg" height="400" src="//farm66.staticflickr.com/65535/48160146446_af6ee40fd6_b.jpg" width="600" />
-<figcaption><em>Jovens protestam em frente ao local da audiência pública. Foto: Maiara Rauber</em></figcaption>
+<figcaption><em>Jovens protestam em frente ao local da Audiência Pública. Foto: Maiara Rauber</em></figcaption>
 </figure>
 </div>
 
