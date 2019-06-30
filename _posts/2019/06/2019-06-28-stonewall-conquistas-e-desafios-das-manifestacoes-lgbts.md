@@ -43,6 +43,18 @@ files:
     medium: //farm66.staticflickr.com/65535/48155683271_6686789eca_z.jpg
     small: //farm66.staticflickr.com/65535/48155683271_6686789eca_n.jpg
     title: 1c60ed54-3529-414e-a813-b4e2b39eeec5.jpg
+  - link: //farm66.staticflickr.com/65535/48155703046_6479a18843_b.jpg
+    original: //farm66.staticflickr.com/65535/48155703046_12b6375455_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48155703046_6479a18843_t.jpg
+    medium: //farm66.staticflickr.com/65535/48155703046_6479a18843_z.jpg
+    small: //farm66.staticflickr.com/65535/48155703046_6479a18843_n.jpg
+    title: 1c60ed54-3529-414e-a813-b4e2b39eeec5.jpg
+  - link: //farm66.staticflickr.com/65535/48155787092_d0c29f0a49_b.jpg
+    original: //farm66.staticflickr.com/65535/48155787092_35db7a0735_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48155787092_d0c29f0a49_t.jpg
+    medium: //farm66.staticflickr.com/65535/48155787092_d0c29f0a49_z.jpg
+    small: //farm66.staticflickr.com/65535/48155787092_d0c29f0a49_n.jpg
+    title: 1c60ed54-3529-414e-a813-b4e2b39eeec5.jpg
 created_date: "2019-06-28T13:06:59-03:00"
 published: true
 releated_posts:
@@ -152,7 +164,7 @@ Ent&atilde;o, nesse sentido, essas manifesta&ccedil;&otilde;es s&atilde;o encora
 <p>Temos realizado Paradas e manifesta&ccedil;&otilde;es pelo Brasil a fora para que as LGBTs de todos os cantos saiam &agrave;s ruas e reafirmam estas bandeiras de luta como necess&aacute;rias. O que estamos dizendo &eacute; que as LGBTs n&atilde;o voltaram para o arm&aacute;rio, vai seguir ocupando a rua, a pol&iacute;tica, o movimento social, e lutar contra o conservadorismo e denunciar as viol&ecirc;ncias. Queremos seguir e fundamentar uma unidade na classe trabalhadora nas organiza&ccedil;&otilde;es, nos movimentos e partidos, para resistir n&atilde;o somente &agrave;s medidas do governo Bolsonaro, mas tamb&eacute;m incluir as bandeiras LGBTs dentro destas organiza&ccedil;&otilde;es.</p>
 
 <p><br />
-&Eacute; necess&aacute;rio que a classe trabalhadora incorpore a luta LGBT como parte desta classe, e nesse sentido, garantir que elas possam ter seus direitos &agrave; sa&uacute;de, educa&ccedil;&atilde;o, terra e etc, e que possam exercer os direitos civis de casamento, da ado&ccedil;&atilde;o, que s&atilde;o a&ccedil;&otilde;es j&aacute; conquistadas mas que ainda enfrentam dificuldades concretamente. Por isso, os movimentos LGBTs junto com as demais organiza&ccedil;&otilde;es e movimentos de esquerda nos pr&oacute;ximos per&iacute;odos tem o desafio de seguir na rua, pautando e lutando contra os retrocessos do projeto Bolsonaro, mas tamb&eacute;m pelas vidas e exist&ecirc;ncia das LGBTs.<br />
+&Eacute; necess&aacute;rio que a classe trabalhadora incorpore a luta LGBT como parte desta classe, e nesse sentido, garantir que elas possam ter seus direitos &agrave; sa&uacute;de, educa&ccedil;&atilde;o, terra e etc, e que possam exercer os direitos civis de casamento, da ado&ccedil;&atilde;o, que s&atilde;o a&ccedil;&otilde;es j&aacute; conquistadas mas que ainda enfrentam dificuldades concretamente. Por isso, os movimentos LGBTs junto com as demais organiza&ccedil;&otilde;es e movimentos de esquerda nos pr&oacute;ximos per&iacute;odos tem o desafio de seguir na rua, pautando e lutando contra os retrocessos do governo&nbsp;Bolsonaro, mas tamb&eacute;m pelas vidas e exist&ecirc;ncia das LGBTs.<br />
 <br />
 Veja mais sobre o assunto no v&iacute;deo:<br />
 &nbsp;</p>
