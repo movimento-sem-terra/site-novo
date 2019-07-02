@@ -5,7 +5,7 @@ tags:
   - tag: educação
   - tag: sem-terrinha
 title: Movimentos realizam ato em defesa dos direitos e da educação em SP
-support_line: "A atividade foi resultado de uma articulação de diferentes frentes que sentiram a necessidade de se unir contra os ataques sofridos pelo atual governo\n\n"
+support_line: A atividade foi resultado de uma articulação de diferentes frentes que sentiram a necessidade de se unir contra os ataques sofridos pelo atual governo
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/48180895287_4c819cc173_b.jpg
 layout: post
@@ -55,6 +55,7 @@ releated_posts:
   - _posts/2019/05/2019-05-28-a-luta-pela-educacao-e-o-campo-dia-30-vai-ser-maior.md
   - _posts/2019/05/2019-05-30-ato-em-defesa-da-educacao-sao-realizados-em-todo-pais-nesta-quinta-feira.md
   - _posts/2019/05/2019-05-21-estudar-sorrir-e-lutar.md
+section: cover
 
 ---
 <p>&nbsp;</p>
@@ -79,8 +80,8 @@ Jo&atilde;o Paulo Rodrigues, da dire&ccedil;&atilde;o nacional do MST, lembrou o
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="photo4960932182206031903.jpg" height="467" src="//farm66.staticflickr.com/65535/48180951032_8a0556db44_b.jpg" width="700" />
-<figcaption>Jo&atilde;o Paulo Rodrigues, da dire&ccedil;&atilde;o nacional do MST<br />
-Foto Yuri Simeon&nbsp;</figcaption>
+<figcaption><em>Jo&atilde;o Paulo Rodrigues, da dire&ccedil;&atilde;o nacional do MST.<br />
+Foto: Yuri Simeon&nbsp;</em></figcaption>
 </figure>
 </div>
 
@@ -92,8 +93,8 @@ Na mesma linha a&nbsp;doutora em educa&ccedil;&atilde;o pela Universidade de S&a
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="photo4960932182206031912.jpg" height="467" src="//farm66.staticflickr.com/65535/48180881881_9cc826c77e_b.jpg" width="700" />
-<figcaption>Lisete Arelaro, doutora em educa&ccedil;&atilde;o pela Universidade de S&atilde;o Paulo (USP)<br />
-Foto Yuri Simeon&nbsp;</figcaption>
+<figcaption><em>Lisete Arelaro, doutora em educa&ccedil;&atilde;o pela Universidade de S&atilde;o Paulo (USP).<br />
+Foto: Yuri Simeon&nbsp;</em></figcaption>
 </figure>
 </div>
 
@@ -112,8 +113,8 @@ O ato seguiu com diversas falas de apoio, dentre elas, dos Sem Terrinha Inai&aac
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="photo4960932182206031906.jpg" height="467" src="//farm66.staticflickr.com/65535/48180951027_d59358d36c_b.jpg" width="700" />
-<figcaption>Os Sem Terrinha Inai&aacute; e Ariel<br />
-Foto Yuri Simeon&nbsp;</figcaption>
+<figcaption><em>Os Sem Terrinha Inai&aacute; e Ariel.<br />
+Foto: Yuri Simeon</em>&nbsp;</figcaption>
 </figure>
 </div>
 
