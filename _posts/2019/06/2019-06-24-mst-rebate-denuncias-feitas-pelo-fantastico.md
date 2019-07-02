@@ -8,7 +8,7 @@ images_hd: //farm66.staticflickr.com/65535/48120803317_11971a923a_b.jpg
 menu: lutas e mobilizações
 title: "MST rebate denúncias feitas pelo Fantástico\n"
 support_line: O Movimento reforça que não compactua e que seguirá denunciando casos de venda de lotes
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/48120803317_11971a923a_b.jpg
