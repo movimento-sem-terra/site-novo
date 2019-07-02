@@ -67,7 +67,7 @@ A resist&ecirc;ncia armada e os conflitos diretos fizeram parte da hist&oacute;r
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Independência da Bahia [3].jpg" height="211" src="//farm66.staticflickr.com/65535/48182835492_686f97ab28_b.jpg" width="300" />
-<figcaption>i</figcaption>
+<figcaption><em>Maria Felipa, Maria Quit&eacute;ria e Joana Ang&eacute;lica</em></figcaption>
 </figure>
 
 <p>Neste contexto surgem nomes Maria Felipa, Joana Ang&eacute;lica, Maria Quit&eacute;ria, al&eacute;m de outras mulheres desconhecidas e an&ocirc;nimas s&atilde;o s&iacute;mbolos de resist&ecirc;ncia e luta de um povo que buscava a liberdade. Maria Quit&eacute;ria, como a primeira mulher a entrar nas for&ccedil;as armadas brasileiras; Maria Felipa, da Ilha de Itaparica, como lideran&ccedil;a de um grupo de mulheres negras que queimou embarca&ccedil;&otilde;es portuguesas; e&nbsp;a freira Joana Ang&eacute;lica, do Convento da Lapa, resistiu e se lan&ccedil;ou na frente da tropa portuguesa, tentando impedi-los de entrar no Convento em busca de combatentes.</p>
@@ -75,6 +75,11 @@ A resist&ecirc;ncia armada e os conflitos diretos fizeram parte da hist&oacute;r
 <p>Fabya Reis, secret&aacute;ria de promo&ccedil;&atilde;o da Igualdade Racial na Bahia, defende que este esp&iacute;rito de luta que estamos permanece at&eacute; hoje. &ldquo;Neste momento em que celebramos 196 anos de independ&ecirc;ncia da Bahia exaltamos este movimento de homens e mulheres que lutaram pelo direito de sua liberdade e pela soberania nacional&rdquo;, lembra.&nbsp;</p>
 
 <p>As batalhas do Rec&ocirc;ncavo baiano com os brasileiros foi reconquistando gradativamente o controle das cidades do Rec&ocirc;ncavo. A batalha decisiva foi a de Piraj&aacute;, no sub&uacute;rbio de Salvador e Dois de julho de 1823, brasileiros entram em Salvador e expulsam as tropas portuguesas.&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Independência da Bahia.jpg" height="200" src="//farm66.staticflickr.com/65535/48182799297_26e48ac4be_b.jpg" width="300" />
+<figcaption><em>Festa da Independ&ecirc;ncia da Bahia, 2011.<br />
+Foto: Creative Commons</em></figcaption>
+</figure>
 
 <p>Para Marcos Rezende, os meses entre 1822 e 1823 foram marcados de luta e resist&ecirc;ncia popular. &ldquo;Ao mesmo tempo em que se combatia a elite portuguesa e a for&ccedil;a estrangeira no pa&iacute;s, o povo se afirmava perante as elites locais que queriam a maioria tivesse um papel pequeno ou que lutasse sem colocar suas bandeiras na pauta, como o racismo, a luta do campo e da cidade e as estruturas coloniais&rdquo;. Segundo ele, &eacute; esta for&ccedil;a que faz do 2 de Julho uma data t&atilde;o importante.</p>
 
