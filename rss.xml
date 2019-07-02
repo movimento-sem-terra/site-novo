@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>A Independência do Brasil revisitada</title>
+				<description>Em comemoração ao 2 de Julho, celebra-se a verdadeira independência, quando grupos populares resistiram em nome do país</description>
+				<pubDate>Tue, 02 Jul 2019 17:11:14 -0300</pubDate>
+				<link>http://www.mst.org.br/2019/07/02/a-independencia-do-brasil-revisitada.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2019/07/02/a-independencia-do-brasil-revisitada.html</guid>
+			</item>
+		
+			<item>
 				<title>Livro sobre a vida de Pedro Casaldáliga é lançado em Porto Alegre
 </title>
 				<description>Obra da jornalista Ana Helena Tavares resgata luta do bispo em defesa dos mais pobres</description>
@@ -79,14 +87,6 @@
 				<pubDate>Sun, 30 Jun 2019 10:59:24 -0300</pubDate>
 				<link>http://www.mst.org.br/2019/06/30/audiencia-reforca-posicao-contraria-da-populacao-gaucha-a-mina-guaiba.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2019/06/30/audiencia-reforca-posicao-contraria-da-populacao-gaucha-a-mina-guaiba.html</guid>
-			</item>
-		
-			<item>
-				<title>Festivais juninos da Reforma Agrária tomam conta do Ceará</title>
-				<description>A arte e a cultura no MST tem sido um importante espaço de disputa ideológica na construção da Reforma Agrária Popular! </description>
-				<pubDate>Sun, 30 Jun 2019 10:28:07 -0300</pubDate>
-				<link>http://www.mst.org.br/2019/06/30/festivais-juninos-da-reforma-agraria-tomam-conta-do-ceara.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2019/06/30/festivais-juninos-da-reforma-agraria-tomam-conta-do-ceara.html</guid>
 			</item>
 		
 	</channel>
