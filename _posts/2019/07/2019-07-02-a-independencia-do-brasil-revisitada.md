@@ -33,7 +33,12 @@ files:
     $$hashKey: 04C
 created_date: "2019-07-02T17:18:14-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2019/03/2019-03-10-caetano-veloso-visita-assentamento-do-mst-no-reconcavo-da-bahia.md
+  - _posts/2019/04/2019-04-23-curso-apresenta-debate-conservacao-de-arquivos-populares.md
+  - _posts/2019/04/2019-04-18-playa-giron-a-primeira-derrota-do-imperialismo-na-america-latina.md
+  - _posts/2019/04/2019-04-12-a-mulheres-na-guerrilha-do-araguaia.md
+  - _posts/2019/04/2019-04-01-amor-e-revolucao-pela-emancipacao-humana.md
 
 ---
 <div style="text-align:center">
