@@ -5,7 +5,7 @@ tags:
 title: "Stonewall, conquistas e desafios das manifestações LGBTs"
 support_line: "50 anos após a manifestação que deu origem ao dia do Orgulho LGBT, observamos os desdobramentos do evento até os dias atuais"
 menu: lutas e mobilizações
-section: featured-news
+section: null
 images_hd: //farm66.staticflickr.com/65535/48144713356_bddbe69574_b.jpg
 layout: post
 files:
@@ -68,6 +68,7 @@ releated_posts:
   - _posts/2019/05/2019-05-17-movimentos-populares-lancam-manifesto-contra-a-lgbtfobia.md
   - _posts/2019/05/2019-05-17-criminalizacao-da-lgbtfobia-e-as-novas-formas-de-participacao-e-resistencia.md
   - _posts/2019/06/2019-06-05-lgbts-sem-terra-participam-de-curso-de-formacao-politica-no-rs.md
+label: interviews
 
 ---
 <div style="text-align:center">
