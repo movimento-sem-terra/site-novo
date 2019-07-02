@@ -74,12 +74,13 @@ sempre esteve ao lado dos Sem Terra. Foto: Leandro Molina</figcaption>
 </figure>
 
 <p><br />
-Fruto do seu trabalho nessa pauta, a jornalista lan&ccedil;ou em 2016 o livro-reportagem &ldquo;O problema &eacute; ter medo do medo &ndash; o que o medo tem a dizer &agrave; democracia&rdquo;, que traz 26 entrevistas de pessoas que lutaram contra o medo instalado no pa&iacute;s no regime militar. Uma delas &eacute; a de Casald&aacute;liga, a mesma que a motivou escrever, a partir de 2015, &ldquo;Um bispo contra todas as cercas&rdquo;.</p>
+Fruto do seu trabalho nessa pauta, a jornalista lan&ccedil;ou em 2016 o livro-reportagem &ldquo;O problema &eacute; ter medo do medo &ndash; o que o medo tem a dizer &agrave; democracia&rdquo;, que traz 26 entrevistas de pessoas que lutaram contra o medo instalado no pa&iacute;s no regime militar. Uma delas &eacute; a de Casald&aacute;liga, a mesma que a motivou escrever, a partir de 2015, &ldquo;Um bispo contra todas as cercas&rdquo;.<br />
+&nbsp;</p>
 
 <p>&ldquo;Me encantei pela hist&oacute;ria de Pedro. &Eacute; uma pessoa que nasce de mil em mil anos. No final da entrevista, ele colocou a m&atilde;o no meu ombro e falou: nunca se esque&ccedil;a das causas da vida. Me tocou muito. A minha hist&oacute;ria de paix&atilde;o pelo Pedro &eacute; a hist&oacute;ria de uma rep&oacute;rter que se apaixonou pelo entrevistado&rdquo;, ressaltou.</p>
 
 <p><br />
-Ana Helena contou que escolheu fazer a biografia de Casald&aacute;liga porque ele era o mais desafiador de todos os entrevistados. O livro sobre a vida do bispo trata do seu envolvimento com direitos humanos atrav&eacute;s de 11 cercas, referindo-se &agrave;s causas que ele abra&ccedil;ou. Entre elas a luta contra o latif&uacute;ndio, a ignor&acirc;ncia, o esquecimento e a escravid&atilde;o contempor&acirc;nea. &ldquo;Pedro &eacute; a esperan&ccedil;a em meio a um mundo t&atilde;o desesperan&ccedil;ado. Tenho muita honra de estar resgatando o nome dessa figura, que nas &uacute;ltimas d&eacute;cadas estava esquecida&rdquo;, comentou.&nbsp;<br />
+Ana Helena contou que escolheu fazer a biografia de Casald&aacute;liga porque ele era o mais desafiador de todos os entrevistados. O livro sobre a vida do bispo trata do seu envolvimento com direitos humanos atrav&eacute;s de &quot;11 cercas&quot;, referindo-se &agrave;s causas que ele abra&ccedil;ou. Entre elas a luta contra o latif&uacute;ndio, a ignor&acirc;ncia, o esquecimento e a escravid&atilde;o contempor&acirc;nea. &ldquo;Pedro &eacute; a esperan&ccedil;a em meio a um mundo t&atilde;o desesperan&ccedil;ado. Tenho muita honra de estar resgatando o nome dessa figura, que nas &uacute;ltimas d&eacute;cadas estava esquecida&rdquo;, comentou.&nbsp;<br />
 &nbsp;</p>
 
 <p><strong>&ldquo;Fonte inesgot&aacute;vel de inspira&ccedil;&atilde;o&rdquo;</strong><br />
