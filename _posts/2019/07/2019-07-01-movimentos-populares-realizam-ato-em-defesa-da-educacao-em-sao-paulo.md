@@ -8,7 +8,7 @@ images_hd: //farm66.staticflickr.com/65535/48172331956_2f717b49ea_b.jpg
 title: "Movimentos populares realizam ato em defesa da educação em São Paulo "
 menu: "educação, cultura e comunicação"
 support_line: "O objetivo da atividade é construir e fortalecer a luta unitária em defesa da educação e do acesso à políticas públicas assistenciais e culturais\n\n"
-section: cover
+section: null
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/48172331956_2f717b49ea_b.jpg
