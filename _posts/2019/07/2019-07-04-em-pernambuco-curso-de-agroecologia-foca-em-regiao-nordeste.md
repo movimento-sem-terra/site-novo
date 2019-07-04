@@ -5,7 +5,7 @@ tags:
   - tag: agroecologia
   - tag: nordeste
 support_line: IV Curso Básico de Educação em Agroecologia da região nordeste acontece até a segunda semana de Julho
-title: "Em Pernambuco, curso de agroecologia foca em região nordeste"
+title: "Em Pernambuco, curso de agroecologia foca em desafios da região nordeste"
 menu: "educação, cultura e comunicação"
 section: featured-news
 images_hd: //farm66.staticflickr.com/65535/48197187847_14cffd2dd9_b.jpg
