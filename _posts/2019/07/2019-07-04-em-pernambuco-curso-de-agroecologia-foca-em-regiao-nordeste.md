@@ -57,7 +57,7 @@ Na perspectiva de MST, essas novas a&ccedil;&otilde;es se constroem perante as a
 <strong>Experi&ecirc;ncias anteriores</strong></p>
 
 <p><br />
-Maria de Jesus e Bod&atilde;o, da dire&ccedil;&atilde;o do setor de educa&ccedil;&atilde;o do MST no Cear&aacute;, acompanha o curso desde a primeira turma e afirma que o curso ajuda no fortalecimento da agroecologia no curr&iacute;culo das escolas de assentamentos e acampamentos.</p>
+Maria de Jesus, da dire&ccedil;&atilde;o do setor de educa&ccedil;&atilde;o do MST no Cear&aacute;, acompanha o curso desde a primeira turma e afirma que o curso ajuda no fortalecimento da agroecologia no curr&iacute;culo das escolas de assentamentos e acampamentos.</p>
 
 <p><br />
 &ldquo;O curso contribui na estrat&eacute;gia do MST de massificar a agroecologia dentro dos nossos assentamentos e acampamentos&rdquo; afirmou Maria de Jesus, que completou afirmando que&nbsp; algumas tem&aacute;ticas centrais: a luta de classe, a quest&atilde;o agr&aacute;ria, a leitura da agroecologia na perspectiva hist&oacute;rica, o papel da agroecologia na reforma agr&aacute;ria popular.</p>
