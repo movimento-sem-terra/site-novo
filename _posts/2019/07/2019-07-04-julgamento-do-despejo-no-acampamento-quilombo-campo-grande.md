@@ -30,6 +30,13 @@ files:
     small: //farm66.staticflickr.com/65535/48199780921_6bc9c3b0ac_n.jpg
     title: image.png
     $$hashKey: 0E5
+  - link: //farm66.staticflickr.com/65535/48199853837_e28b942cbe_b.jpg
+    original: //farm66.staticflickr.com/65535/48199853837_bde53723e4_o.png
+    thumbnail: //farm66.staticflickr.com/65535/48199853837_e28b942cbe_t.jpg
+    medium: //farm66.staticflickr.com/65535/48199853837_e28b942cbe_z.jpg
+    small: //farm66.staticflickr.com/65535/48199853837_e28b942cbe_n.jpg
+    title: café1.jpg
+    $$hashKey: 0IT
 created_date: "2019-07-04T18:30:34-03:00"
 published: true
 releated_posts: []
@@ -72,10 +79,17 @@ No &uacute;ltimo domingo (30), as fam&iacute;lias do acampamento Quilombo Campo 
 <strong>Entenda a hist&oacute;ria</strong></p>
 
 <p><br />
-As terras da antiga Usina Ariadn&oacute;polis eram administradas pela empresa C&aacute;pia, que entrou em fal&ecirc;ncia em 1994. Nos anos seguintes os propriet&aacute;rios desmontaram a usina e retiraram todos os bens de valor o parque industrial, deixando a estrutura totalmente sucateada. Os trabalhadores ficaram desempregados e n&atilde;o receberam seus direitos. Segundo o Sindicato dos Empregados Rurais de Campo do Meio, aproximadamente 400 ex-trabalhadores da usina Ariadn&oacute;polis processam a empresa na Justi&ccedil;a.&nbsp;</p>
+As terras da antiga Usina Ariadn&oacute;polis eram administradas pela empresa C&aacute;pia, que entrou em fal&ecirc;ncia em 1994. Nos anos seguintes os propriet&aacute;rios desmontaram a usina e retiraram todos os bens de valor o parque industrial, deixando a estrutura totalmente sucateada. Os trabalhadores ficaram desempregados e n&atilde;o receberam seus direitos. Segundo o Sindicato dos Empregados Rurais de Campo do Meio, aproximadamente 400 ex-trabalhadores da usina Ariadn&oacute;polis processam a empresa na Justi&ccedil;a.&nbsp;<br />
+&nbsp;</p>
 
-<p><br />
-Eles n&atilde;o receberam a rescis&atilde;o e descobriram que o FGTS e o INSS tamb&eacute;m n&atilde;o foram recolhidos. As d&iacute;vidas chegam a R$ 300 mil em alguns casos. Foi ent&atilde;o, em 1998, com a usina j&aacute; improdutiva, que uma parte dessas fam&iacute;lias ocupou a primeira &aacute;rea dentro do per&iacute;metro de Ariadn&oacute;polis, &agrave;s margens da represa de Furnas. Em 1998, 2005, 2007 e 2009 os Sem Terra passaram pelas mais violentas expuls&otilde;es de acampamentos instalados dentro do terreno da usina. Mas voltaram e, a cada vez que o Estado e o fazendeiro agiam, mais o movimento se fortalecia e retornava.&nbsp;</p>
+<p>Eles n&atilde;o receberam a rescis&atilde;o e descobriram que o FGTS e o INSS tamb&eacute;m n&atilde;o foram recolhidos. As d&iacute;vidas chegam a R$ 300 mil em alguns casos. Foi ent&atilde;o, em 1998, com a usina j&aacute; improdutiva, que uma parte dessas fam&iacute;lias ocupou a primeira &aacute;rea dentro do per&iacute;metro de Ariadn&oacute;polis, &agrave;s margens da represa de Furnas. Em 1998, 2005, 2007 e 2009 os Sem Terra passaram pelas mais violentas expuls&otilde;es de acampamentos instalados dentro do terreno da usina. Mas voltaram e, a cada vez que o Estado e o fazendeiro agiam, mais o movimento se fortalecia e retornava.&nbsp;<br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="café1.jpg" height="507" src="//farm66.staticflickr.com/65535/48199853837_e28b942cbe_b.jpg" width="700" />
+<figcaption><em>&Aacute;rea da antiga Usina Ariadn&oacute;polis antes e depois da ocupa&ccedil;&atilde;o. Atualmente, com lotes divididos e produtivos.</em></figcaption>
+</figure>
+</div>
 
 <p><br />
 Hoje s&atilde;o 10 acampamentos (Fome Zero, Resist&ecirc;ncia, Betinho, Girassol, Rosa Luxemburgo, Tiradentes, Sidney Dias, Irm&atilde; Doroty 1, 2 e 3) dentro do per&iacute;metro da antiga C&aacute;pia. O nome Quilombo Campo Grande relembra a luta do povo negro contra a escravid&atilde;o, que no passado tamb&eacute;m se organizou em diversos quilombos de resist&ecirc;ncia do Sul de Minas at&eacute; S&atilde;o Paulo.&nbsp;</p>
