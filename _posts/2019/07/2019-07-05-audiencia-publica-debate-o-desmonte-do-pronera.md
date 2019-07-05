@@ -44,4 +44,4 @@ Participam da audi&ecirc;ncia a Procuradora Federal dos Direitos do Cidad&atilde
 A atividade foi convocado pelo deputado federal Patrus Ananias (PT-MG) e a deputada Nat&aacute;lia Bonavides (PT-RN).&nbsp;</p>
 
 <p><br />
-Acompanhe a transmiss&atilde;o ao vivo, no link a ser disponibilizado na p&aacute;gina da Comiss&atilde;o: https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/ce</p>
+Acompanhe a transmiss&atilde;o ao vivo, no link a ser disponibilizado na p&aacute;gina da Comiss&atilde;o: <a href="https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/ce">https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/ce</a></p>
