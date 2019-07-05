@@ -67,16 +67,11 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Quando&nbsp;em janeiro de 1984&nbsp;o MST &eacute; fundado, foram estabelecidos alguns objetivos que marcariam a hist&oacute;ria da luta pela terra no Brasil.</p>
+<p>Quando&nbsp;em janeiro de 1984&nbsp;o MST &eacute; fundado, foram estabelecidos alguns objetivos que marcariam a hist&oacute;ria da luta pela terra no Brasil. Ao conquistador os primeiros assentamentos, o MST viu-se diante do desafio de estabelecer novas rela&ccedil;&otilde;es de produ&ccedil;&atilde;o.</p>
 
 <p><br />
-Ao conquistador os primeiros assentamentos, o MST viu-se diante do desafio de estabelecer novas rela&ccedil;&otilde;es de produ&ccedil;&atilde;o.</p>
-
-<p><br />
-Era preciso resistir ao processo expropriador do modelo vigente de desenvolvimento econ&ocirc;mico.&nbsp;&Eacute; nesse contexto que os Sem Terra passam a discutir a coopera&ccedil;&atilde;o agr&iacute;cola como forma de resist&ecirc;ncia.</p>
-
-<p><br />
-Mais que um modelo de neg&oacute;cios, o cooperativismo &eacute; uma filosofia de vida que busca transformar o mundo em um lugar mais justo, equilibrado e com melhores oportunidades para todos.</p>
+<br />
+Era preciso resistir ao processo expropriador do modelo vigente de desenvolvimento econ&ocirc;mico.&nbsp;&Eacute; nesse contexto que os Sem Terra passam a discutir a coopera&ccedil;&atilde;o agr&iacute;cola como forma de resist&ecirc;ncia. Mais que um modelo de neg&oacute;cios, o cooperativismo &eacute; uma filosofia de vida que busca transformar o mundo em um lugar mais justo, equilibrado e com melhores oportunidades para todos.</p>
 
 <p><br />
 Este &eacute; um caminho que mostra que &eacute; poss&iacute;vel unir desenvolvimento econ&ocirc;mico e desenvolvimento social. Dentro dessa premissa, ao trabalhar o cooperativismo, os Sem Terra do MST trabalham em conjunto.</p>
@@ -127,9 +122,7 @@ Cear&aacute;</p>
 <strong>COPAGLAM</strong></p>
 
 <p><br />
-O assentamento Lagoa do Mineiro, localizado na zona rural da cidade de Itarema, &eacute; composto de 135 fam&iacute;lias assentadas e sete localidades: Barbosa, Corrente, Lagoa do Mineiro Velho, C&oacute;rrego das Mo&ccedil;as, Cedro e Sag&uuml;im. Grande parte das pessoas dessas localidades trabalham nas produ&ccedil;&otilde;es coletivas do assentamento Lagoa Mineiro.</p>
-
-<p>Destaca-se a produ&ccedil;&atilde;o de Coco (inatura), Farinha, Castanha de Caju e Mudas. O assentamento possui uma &aacute;rea coletiva de mais de 10 h&aacute; para o plantio de coco.</p>
+O assentamento Lagoa do Mineiro, localizado na zona rural da cidade de Itarema, &eacute; composto de 135 fam&iacute;lias assentadas e sete localidades: Barbosa, Corrente, Lagoa do Mineiro Velho, C&oacute;rrego das Mo&ccedil;as, Cedro e Sag&uuml;im. Grande parte das pessoas dessas localidades trabalham nas produ&ccedil;&otilde;es coletivas do assentamento Lagoa Mineiro. Destaca-se a produ&ccedil;&atilde;o de Coco (inatura), Farinha, Castanha de Caju e Mudas. O assentamento possui uma &aacute;rea coletiva de mais de 10 h&aacute; para o plantio de coco.</p>
 
 <p>&nbsp;</p>
 
