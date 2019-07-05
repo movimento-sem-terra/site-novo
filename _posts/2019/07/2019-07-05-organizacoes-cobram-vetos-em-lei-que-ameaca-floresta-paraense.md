@@ -38,8 +38,8 @@ Da P&aacute;gina do MST</em></p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="up_ag_13582_governadoremreuniaocomdepbordalo_marcosantos_0002.jpg" height="219" src="//farm66.staticflickr.com/65535/48205952966_7fe7a0a543_b.jpg" width="450" />
-<figcaption>Entidades se re&uacute;nem com governador do Par&aacute; para cobrar vetos de PL.<br />
-Foto: Ag&ecirc;ncia Par&aacute;&nbsp;<br />
+<figcaption>Entidades se re&uacute;nem com governador do Par&aacute; para cobrar<br />
+vetos de PL. Foto: Ag&ecirc;ncia Par&aacute;&nbsp;<br />
 &nbsp;</figcaption>
 </figure>
 </div>
@@ -48,7 +48,7 @@ Foto: Ag&ecirc;ncia Par&aacute;&nbsp;<br />
 
 <p>&nbsp;</p>
 
-<p>Na &uacute;ltima semana, representantes das organiza&ccedil;&otilde;es se reuniram com o governador Helder Barbalho e apresentaram questionamentos sobre os pontos a serem vetados da lei, antes que seja sancionada e publicada para regulariza&ccedil;&atilde;o fundi&aacute;ria do Par&aacute;.</p>
+<p>Nesta semana, representantes das organiza&ccedil;&otilde;es se reuniram com o governador Helder Barbalho e apresentaram questionamentos sobre os pontos a serem vetados da lei, antes que seja publicada oficialmente para regulariza&ccedil;&atilde;o fundi&aacute;ria do Par&aacute;.</p>
 
 <p>&nbsp;</p>
 
