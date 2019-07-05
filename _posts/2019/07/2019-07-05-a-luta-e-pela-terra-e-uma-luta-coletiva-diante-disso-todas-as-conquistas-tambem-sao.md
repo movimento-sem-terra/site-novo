@@ -7,7 +7,7 @@ tags:
 menu: agricultura camponesa
 sector: production
 images_hd: //farm66.staticflickr.com/65535/48207229756_e0fda13301_b.jpg
-title: "“A luta pela terra é uma luta coletiva e, diante disso, todas as conquistas também são\""
+title: "“A luta pela terra é uma luta coletiva e, diante disso, as conquistas também são\""
 support_line: "O cooperativismo como bandeira na luta pela Reforma Agrária Popular "
 layout: post
 files:
