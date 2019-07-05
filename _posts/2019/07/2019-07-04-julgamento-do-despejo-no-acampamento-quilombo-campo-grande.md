@@ -3,6 +3,7 @@ date: "2019-07-04T18:20:03-03:00"
 tags:
   - tag: despejo
   - tag: justiça
+  - tag: minas-gerais
 title: "Julgamento do despejo no acampamento Quilombo Campo Grande "
 support_line: "Julgamento será na próxima semana, após pedido de urgência do despejo acatado pelo juiz Walter Zwicker Esbaile Júnior em 2018"
 menu: reforma agrária
@@ -39,7 +40,16 @@ files:
     $$hashKey: 0IT
 created_date: "2019-07-04T18:30:34-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/10/2018-10-30-quilombo-campo-grande-sofre-ameacas-do-fascismo.md
+  - _posts/2018/11/2018-11-02-pedido-de-solidariedade-fascismo-mostra-as-garras-e-ameaca-despejo-de-450-familias.md
+  - _posts/2018/11/2018-11-07-acampamento-gabriel-pimenta-tambem-pode-ser-despejado-em-minas-gerais.md
+  - _posts/2018/11/2018-11-08-apos-20-anos-de-producao-juiz-manda-despejar-as-familias-do-acampamento-quilombo-campo-grande.md
+  - _posts/2018/11/2018-11-08-justica-a-servico-de-quem.md
+  - _posts/2019/05/2019-05-06-justica-decide-por-reintegracao-de-posse-em-rondonia.md
+  - _posts/2019/06/2019-06-06-despejo-no-para-ameaca-dez-anos-de-producao-de-alimentos-saudaveis.md
+  - _posts/2019/03/2019-03-14-manifestacoes-por-justica-a-marielle-tomam-as-ruas-de-todo-o-brasil.md
+  - _posts/2019/05/2019-05-14-reocupacao-em-area-improdutiva-na-chapada-diamantina.md
 
 ---
 <div style="text-align:center">
@@ -61,7 +71,8 @@ No dia 11 de julho, quinta-feira, ser&aacute; julgado no Tribunal de Justi&ccedi
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="image.png" height="200" src="//farm66.staticflickr.com/65535/48199780921_6bc9c3b0ac_b.jpg" width="300" />
-<figcaption><em>Planta&ccedil;&atilde;o de caf&eacute; e abacaxi.&nbsp;Fotos: Joyce Fonseca</em></figcaption>
+<figcaption><em>Planta&ccedil;&atilde;o de caf&eacute; e abacaxi.&nbsp;<br />
+Fotos: Joyce Fonseca</em></figcaption>
 </figure>
 
 <p>Segundo dados do Minist&eacute;rio P&uacute;blico de Minas Gerais, a empresa C&aacute;pia, que alega a propriedade da &aacute;rea, teve sua fal&ecirc;ncia decretada judicialmente, ou seja, a empresa sequer existe juridicamente, por isso jamais poderia entrar com pedido de urg&ecirc;ncia de um despejo. Como argumento, a empresa disse que &ldquo;a produ&ccedil;&atilde;o se prova apenas de uma forma: dinheiro (folow de &ndash; sic &ndash; money)&rdquo;. Tu&iacute;ra Rodrigues, da dire&ccedil;&atilde;o regional do MST, contesta. &ldquo;A empresa, falida, passou anos devendo os trabalhadores da antiga usina, e ainda deve. Eles &eacute; que n&atilde;o produzem nada al&eacute;m de d&iacute;vidas h&aacute; muitos anos, n&oacute;s continuamos produzindo. Em resposta &agrave;s amea&ccedil;as do ano passado aumentamos nossa produ&ccedil;&atilde;o em mais de 300 mil p&eacute;s de caf&eacute; nos &uacute;ltimos meses&rdquo;.&nbsp;&nbsp;</p>
@@ -98,8 +109,8 @@ Hoje s&atilde;o 10 acampamentos (Fome Zero, Resist&ecirc;ncia, Betinho, Girassol
 Os acampados tiram leite, criam gado, produzem milho, hortali&ccedil;as, frut&iacute;feras diversas, al&eacute;m do caf&eacute; org&acirc;nico que deu origem &agrave; cooperativa Camponesa e &agrave; marca Guai&iacute;. Toda essa produ&ccedil;&atilde;o passou a movimentar a economia e o comercio da pequena cidade de Campo do Meio.</p>
 
 <p><br />
-Conhe&ccedil;a a cooperativa Camponesa, produtora do caf&eacute; Guai&iacute;.<br />
-<a href="http://www.guaii.com.br/quem-somos/cooperativa-camponesa/">http://www.guaii.com.br/quem-somos/cooperativa-camponesa/</a></p>
+Conhe&ccedil;a a cooperativa Camponesa, produtora do caf&eacute; Guai&iacute; <a href="http://www.guaii.com.br/quem-somos/cooperativa-camponesa/"><strong>aqui</strong></a>.<br />
+&nbsp;</p>
 
 <p><strong>Servi&ccedil;o</strong><br />
 Julgamento do despejo do Acampamento Quilombo Campo Grande<br />
@@ -109,3 +120,5 @@ In&iacute;cio do julgamento &agrave;s 13h30.</p>
 
 <p><br />
 <em>*Editado por Fernanda Alc&acirc;ntara</em></p>
+
+<p>&nbsp;</p>
