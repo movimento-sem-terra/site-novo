@@ -44,7 +44,7 @@ releated_posts:
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>&nbsp;Ser&aacute; inaugurado neste s&aacute;bado (6) o Solar Cultura da Terra Maria Firmina dos Reis, um amplo espa&ccedil;o cultural e pol&iacute;tico dedicado &agrave; divulga&ccedil;&atilde;o, comercializa&ccedil;&atilde;o e troca de experi&ecirc;ncias de agricultoras e agricultores rurais do Maranh&atilde;o, na capital S&atilde;o Lu&iacute;s.&nbsp;&nbsp;</p>
+<p>&nbsp;Ser&aacute; inaugurado neste s&aacute;bado (6) o Solar Cultura da Terra Maria Firmina dos Reis, um amplo espa&ccedil;o cultural e pol&iacute;tico dedicado &agrave; divulga&ccedil;&atilde;o, comercializa&ccedil;&atilde;o e troca de experi&ecirc;ncias de trabalhadores rurais do Maranh&atilde;o, na capital S&atilde;o Lu&iacute;s.&nbsp;&nbsp;</p>
 
 <p><br />
 Considerada a primeira romancista brasileira, Maria Firmina (1822-1917) nasceu em S&atilde;o Lu&iacute;s e quebrou paradigmas &agrave; frente do seu tempo. Professora e escritora, ela tamb&eacute;m publicava em jornais, especialmente sobre a pauta abolicionista. &Agrave; abolicionista coube a publica&ccedil;&atilde;o do primeiro romance brasileiro contra a escravid&atilde;o, &Uacute;rsula (1859).&nbsp;</p>
