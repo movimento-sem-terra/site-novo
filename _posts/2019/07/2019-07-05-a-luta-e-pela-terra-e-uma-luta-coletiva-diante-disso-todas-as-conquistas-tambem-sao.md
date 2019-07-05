@@ -7,7 +7,7 @@ tags:
 menu: agricultura camponesa
 sector: production
 images_hd: //farm66.staticflickr.com/65535/48207229756_e0fda13301_b.jpg
-title: "“A luta é pela terra é uma luta coletiva, diante disso, todas as conquistas também são\""
+title: "“A luta pela terra é uma luta coletiva e, diante disso, todas as conquistas também são\""
 support_line: "O cooperativismo como bandeira na luta pela Reforma Agrária Popular "
 layout: post
 files:
@@ -40,7 +40,7 @@ files:
     title: 47738504982_ab452cc1d6_b.jpg
     $$hashKey: 03U
 created_date: "2019-07-05T17:13:57-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/10/2018-10-19-e-preciso-equilibrar-o-consumo-a-producao-e-a-relacao-com-a-natureza-explica-dirigente-do-mst.md
   - _posts/2018/11/2018-11-22-sem-conhecer-o-mst-senador-gaucho-quer-torna-lo-terrorista.md
@@ -67,7 +67,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Quando em janeiro de 1984, o MST &eacute; fundado foram estabelecidos alguns objetivos que marcariam a hist&oacute;ria da luta pela terra no Brasil.</p>
+<p>Quando&nbsp;em janeiro de 1984&nbsp;o MST &eacute; fundado, foram estabelecidos alguns objetivos que marcariam a hist&oacute;ria da luta pela terra no Brasil.</p>
 
 <p><br />
 Ao conquistador os primeiros assentamentos, o MST viu-se diante do desafio de estabelecer novas rela&ccedil;&otilde;es de produ&ccedil;&atilde;o.</p>
@@ -79,22 +79,22 @@ Era preciso resistir ao processo expropriador do modelo vigente de desenvolvimen
 Mais que um modelo de neg&oacute;cios, o cooperativismo &eacute; uma filosofia de vida que busca transformar o mundo em um lugar mais justo, equilibrado e com melhores oportunidades para todos.</p>
 
 <p><br />
-Um caminho que mostra que &eacute; poss&iacute;vel unir desenvolvimento econ&ocirc;mico e desenvolvimento social. Dentro dessa premissa, ao trabalhar o cooperativismo os Sem Terra do MST trabalham em conjunto.</p>
+Este &eacute; um caminho que mostra que &eacute; poss&iacute;vel unir desenvolvimento econ&ocirc;mico e desenvolvimento social. Dentro dessa premissa, ao trabalhar o cooperativismo, os Sem Terra do MST trabalham em conjunto.</p>
 
 <p><br />
 E como nos explica Milton Fornazieri, do setor de produ&ccedil;&atilde;o do MST, &eacute; assim, atuando juntas, que as cooperativas d&atilde;o mais for&ccedil;a ao movimento e servem de forma mais eficaz aos cooperados.</p>
 
 <p><br />
-&ldquo;A luta &eacute; pela terra &eacute; uma luta coletiva, diante disso, todas as conquistas tamb&eacute;m s&atilde;o. Ap&oacute;s a conquista da terra a mesma organiza&ccedil;&atilde;o deve ser mantida para que essa terra possa se tonar produtiva fornecendo sustento para as fam&iacute;lias assentadas e contribu&iacute;do para a economia local das cidades&rdquo;, diz.</p>
+&ldquo;A luta pela terra &eacute; uma luta coletiva e, diante disso, todas as conquistas tamb&eacute;m s&atilde;o. Ap&oacute;s a conquista da terra, a mesma organiza&ccedil;&atilde;o deve ser mantida para que essa terra possa se tornar produtiva fornecendo sustento para as fam&iacute;lias assentadas e contribu&iacute;do para a economia local das cidades&rdquo;, diz.</p>
 
 <p><br />
 Fornazieri salienta que as cooperativas s&atilde;o organiza&ccedil;&otilde;es aut&ocirc;nomas, de ajuda m&uacute;tua, controladas por seus membros, e nada deve mudar isso.</p>
 
 <p><br />
-&ldquo;A coopera&ccedil;&atilde;o agr&iacute;cola &eacute; parte de um processo intr&iacute;nseco do Movimento Sem Terra. Isso faz com que n&oacute;s possamos superar o individualismo que existe em todos n&oacute;s. Al&eacute;m disso, as cooperativas s&atilde;o abertas para todas as pessoas que queiram participar, estejam alinhadas ao seu objetivo econ&ocirc;mico, e dispostas a assumir suas responsabilidades como membro. Em coopera&ccedil;&atilde;o agr&iacute;cola todas as formas de for&ccedil;a s&atilde;o juntadas para constru&ccedil;&atilde;o do trabalho coletivo, embora n&oacute;s devemos reconhecer tamb&eacute;m os grupos de fam&iacute;lia e pequenas associa&ccedil;&otilde;es, &eacute; importante dizer que &eacute; nas cooperativas o local onde n&oacute;s podemos construir meios mais robustos e consistentes&rdquo;.</p>
+&ldquo;A coopera&ccedil;&atilde;o agr&iacute;cola &eacute; parte de um processo intr&iacute;nseco do Movimento Sem Terra. Isso faz com que n&oacute;s possamos superar o individualismo que existe em todos n&oacute;s. Al&eacute;m disso, as cooperativas s&atilde;o abertas para todas as pessoas que queiram participar, estejam alinhadas ao seu objetivo econ&ocirc;mico&nbsp;e dispostas a assumir suas responsabilidades como membro. Em coopera&ccedil;&atilde;o agr&iacute;cola todas as formas de for&ccedil;a s&atilde;o juntadas para a constru&ccedil;&atilde;o do trabalho coletivo, embora n&oacute;s devemos reconhecer tamb&eacute;m os grupos de fam&iacute;lia e pequenas associa&ccedil;&otilde;es, &eacute; importante dizer que &eacute; nas cooperativas o local onde n&oacute;s podemos construir meios mais robustos e consistentes&rdquo;.</p>
 
 <p><br />
-Contribuir para o desenvolvimento sustent&aacute;vel das comunidades &eacute; algo natural ao cooperativismo. Ao levantar essa bandeira o MST afirma que o processo de luta pela terra como norteador do desenvolvimento.</p>
+Contribuir para o desenvolvimento sustent&aacute;vel das comunidades &eacute; algo natural ao cooperativismo. Ao levantar essa bandeira, o MST afirma que o processo de luta pela terra como norteador do desenvolvimento.</p>
 
 <p><br />
 &ldquo;Dentro dessa premissa sendo a cooperativa um instrumento que da capacidade para agir no campo da produ&ccedil;&atilde;o, armazenamento, industrializa&ccedil;&atilde;o e coopera&ccedil;&atilde;o, n&atilde;o podemos esquecer que para que o processo produtivo de assentamento d&ecirc; certo, nele precisa estar esp&iacute;rito cooperativista presente, finaliza Fornazieri.</p>
@@ -118,7 +118,7 @@ Contribuir para o desenvolvimento sustent&aacute;vel das comunidades &eacute; al
 <br />
 <strong>Associa&ccedil;&atilde;o 21 de Novembro</strong></p>
 
-<p>A Associa&ccedil;&atilde;o 21 de novembro, criada no Assentamento Frei Godinho, localizado no munic&iacute;pio de Gameleira. Os trabalhadores rurais do assentamento encontram meios de sobreviv&ecirc;ncia com o plantio de coco, graviola, banana, ing&aacute; da base grande e mandioca, al&eacute;m disso, (existem duas casas de farinha artesanais coletivas &ndash; a produ&ccedil;&atilde;o &eacute; apenas para o consumo interno), bem como, trabalham com a pecu&aacute;ria (cria&ccedil;&atilde;o de bovinos para a produ&ccedil;&atilde;o de leite e queijo).</p>
+<p>A Associa&ccedil;&atilde;o 21 de novembro, criada no assentamento Frei Godinho, localizado no munic&iacute;pio de Gameleira. Os trabalhadores rurais do assentamento encontram meios de sobreviv&ecirc;ncia com o plantio de coco, graviola, banana, ing&aacute; da base grande e mandioca. Al&eacute;m disso, (existem duas casas de farinha artesanais coletivas &ndash; a produ&ccedil;&atilde;o &eacute; apenas para o consumo interno), bem como&nbsp;trabalham com a pecu&aacute;ria (cria&ccedil;&atilde;o de bovinos para a produ&ccedil;&atilde;o de leite e queijo).</p>
 
 <p><br />
 Cear&aacute;</p>
@@ -127,12 +127,11 @@ Cear&aacute;</p>
 <strong>COPAGLAM</strong></p>
 
 <p><br />
-O Assentamento Lagoa do Mineiro, localizado na zona rural da cidade de Itarema, &eacute; composto de 135 fam&iacute;lias assentadas e sete localidades: Barbosa, Corrente, Lagoa do Mineiro Velho, C&oacute;rrego das Mo&ccedil;as, Cedro e Sag&uuml;im. Grande parte das pessoas dessas localidades trabalham nas produ&ccedil;&otilde;es coletivas do Assentamento Lagoa Mineiro.</p>
+O assentamento Lagoa do Mineiro, localizado na zona rural da cidade de Itarema, &eacute; composto de 135 fam&iacute;lias assentadas e sete localidades: Barbosa, Corrente, Lagoa do Mineiro Velho, C&oacute;rrego das Mo&ccedil;as, Cedro e Sag&uuml;im. Grande parte das pessoas dessas localidades trabalham nas produ&ccedil;&otilde;es coletivas do assentamento Lagoa Mineiro.</p>
 
-<p>Destaca-se a produ&ccedil;&atilde;o de Coco (inatura), Farinha, Castanha de Caju e Mudas. O Assentamento possui uma &aacute;rea coletiva de mais de 10 h&aacute; para o plantio de coco.</p>
+<p>Destaca-se a produ&ccedil;&atilde;o de Coco (inatura), Farinha, Castanha de Caju e Mudas. O assentamento possui uma &aacute;rea coletiva de mais de 10 h&aacute; para o plantio de coco.</p>
 
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <p><strong>REGI&Atilde;O CENTRO OESTE&nbsp;</strong></p>
 
@@ -170,10 +169,10 @@ Esp&iacute;rito Santo</p>
 <p>Na regi&atilde;o norte do estado do Esp&iacute;rito Santo, a 220 quil&ocirc;metros da capital Vit&oacute;ria, est&atilde;o 11 assentamentos com 398 fam&iacute;lias e se constitui num importante p&oacute;lo de produ&ccedil;&atilde;o de caf&eacute; conilon. Nessa regi&atilde;o est&aacute; a Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Vale da Vit&oacute;ria &ndash; COOPRAVA, um importante projeto de organiza&ccedil;&atilde;o e de beneficiamento de caf&eacute;. Mais de 100 fam&iacute;lias s&atilde;o engajadas nessa cooperativa.</p>
 
 <p><br />
+<br />
 <strong>REGI&Atilde;O SUL </strong></p>
 
 <p><br />
-<br />
 <strong>COOPEROESTE </strong></p>
 
 <p><br />
@@ -189,7 +188,7 @@ Paran&aacute;</p>
 <strong>COPAVI&nbsp;</strong></p>
 
 <p><br />
-Os trabalhadores acampados e assentados do estado comemoraram, em julho de 2008, 15 anos de funda&ccedil;&atilde;o de uma cooperativa modelo em produ&ccedil;&atilde;o e trabalho coletivo na &aacute;rea de Reforma Agr&aacute;ria, a Copavi (Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Vit&oacute;ria Ltda), localizada no assentamento Santa Maria, munic&iacute;pio de Paranacity, na regi&atilde;o noroeste do Paran&aacute;. A Copavi foi fundada em 10 de julho de 1993, e conta com uma &aacute;rea de 106 alqueires, que fica &agrave; cerca de 1 km da cidade, onde o trabalho &eacute; feito de forma coletiva. A produ&ccedil;&atilde;o est&aacute; organizada em grandes linhas como: leite e derivados; frangos, su&iacute;nos e derivados; cana-de-a&ccedil;&uacute;car e derivados; e produ&ccedil;&atilde;o de hortali&ccedil;as agroecol&oacute;gicas.</p>
+Os trabalhadores acampados e assentados do estado comemoraram, em julho de 2008, 15 anos de funda&ccedil;&atilde;o de uma cooperativa modelo em produ&ccedil;&atilde;o e trabalho coletivo na &aacute;rea de Reforma Agr&aacute;ria, a Copavi &ndash;&nbsp;Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Vit&oacute;ria Ltda, localizada no assentamento Santa Maria, munic&iacute;pio de Paranacity, na regi&atilde;o noroeste do Paran&aacute;. A Copavi foi fundada em 10 de julho de 1993, e conta com uma &aacute;rea de 106 alqueires, que fica &agrave; cerca de 1 km da cidade, onde o trabalho &eacute; feito de forma coletiva. A produ&ccedil;&atilde;o est&aacute; organizada em grandes linhas como: leite e derivados; frangos, su&iacute;nos e derivados; cana-de-a&ccedil;&uacute;car e derivados; e produ&ccedil;&atilde;o de hortali&ccedil;as agroecol&oacute;gicas.</p>
 
 <p><br />
 Rio Grande do Sul</p>
@@ -198,16 +197,18 @@ Rio Grande do Sul</p>
 <strong>COOPTAR</strong></p>
 
 <p><br />
-A Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Cascata - COOPTAR fundada em 08/02/1990, situa-se no assentamento Fazenda Annoni, no munic&iacute;pio de Pont&atilde;o, Estado do Rio Grande do Sul. A &aacute;rea total de terra da cooperativa &eacute; de 205 hectares, sendo 12% de mata nativa, 8 ha de banhados, 33 ha de pastagens (dos quais 8 ha de pastagem cultivada) e o restante utilizado com lavoura mecanizada.</p>
+A Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Cascata &ndash;&nbsp;COOPTAR foi fundada em 08/02/1990, situa-se no assentamento Fazenda Annoni, no munic&iacute;pio de Pont&atilde;o, estado do Rio Grande do Sul. A &aacute;rea total de terra da cooperativa &eacute; de 205 hectares, sendo 12% de mata nativa, 8 ha de banhados, 33 ha de pastagens (dos quais 8 ha de pastagem cultivada) e o restante utilizado com lavoura mecanizada.</p>
 
 <p><br />
 <strong>Fazenda Anonni</strong></p>
 
-<p><br />
-Um bom exemplo dos resultados da Reforma Agr&aacute;ria trata-se da antiga Fazenda Anonni, &aacute;rea de 9 mil hectares que foi desapropriada em 1986 no Rio Grande do Sul. Foram assentadas 420 fam&iacute;lias no assentamento da Anonni, que produz, por ano, cerca de 20 mil sacas de trigo, 6 milh&otilde;es de litros de leite, 150 mil sacas de soja, 35 mil sacas de milho, 45 toneladas de frutas, 800 cabe&ccedil;as de gado, 5 mil cabe&ccedil;as de su&iacute;nos e 10 mil quilos de hortali&ccedil;as.</p>
+<p>Um bom exemplo dos resultados da Reforma Agr&aacute;ria trata-se da antiga Fazenda Anonni, no Rio Grande do Sul, &aacute;rea de 9 mil hectares que foi desapropriada em 1986. Foram assentadas 420 fam&iacute;lias no assentamento da Anonni, que produz, por ano, cerca de 20 mil sacas de trigo, 6 milh&otilde;es de litros de leite, 150 mil sacas de soja, 35 mil sacas de milho, 45 toneladas de frutas, 800 cabe&ccedil;as de gado, 5 mil cabe&ccedil;as de su&iacute;nos e 10 mil quilos de hortali&ccedil;as.</p>
 
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
 <p><em>* Com informa&ccedil;&otilde;es do setor de produ&ccedil;&atilde;o do MST&nbsp;</em></p>
+<style type="text/css">@page { margin: 2cm }
+		p { margin-bottom: 0.25cm; line-height: 115% }
+</style>
