@@ -41,8 +41,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG-20190122-WA0034.jpg" height="467" src="//farm66.staticflickr.com/65535/48233381391_189b3a8200_b.jpg" width="700" />
-<figcaption><em>Produtos s&atilde;o frutos de acampamentos e assentamentos da Reforma Agr&aacute;ria -</em><br />
-</figcaption>
+<figcaption><em>Produtos s&atilde;o frutos de acampamentos e assentamentos da Reforma Agr&aacute;ria -&nbsp;Foto: Arquivo MST</em></figcaption>
 </figure>
 </div>
 
@@ -58,7 +57,7 @@ Organizada pela Comiss&atilde;o de produ&ccedil;&atilde;o org&acirc;nica no esta
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="IMG-20181219-WA0085.jpg" height="450" src="//farm66.staticflickr.com/65535/48233458442_a4babd515f_b.jpg" width="300" />
-<figcaption></figcaption>
+<figcaption><em>&nbsp;Foto: Arquivo MST</em></figcaption>
 </figure>
 
 <p>Segundo Bruno Diogo, do Setor de Produ&ccedil;&atilde;o do MST, esse &eacute; um espa&ccedil;o importante, pois o Movimento j&aacute; tem trabalhado com as fam&iacute;lias sobre a produ&ccedil;&atilde;o org&acirc;nica e os procedimentos t&eacute;cnicos que a envolvem para se conseguir a necess&aacute;ria certifica&ccedil;&atilde;o.</p>
