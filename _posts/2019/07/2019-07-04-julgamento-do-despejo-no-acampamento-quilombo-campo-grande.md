@@ -50,6 +50,7 @@ releated_posts:
   - _posts/2019/06/2019-06-06-despejo-no-para-ameaca-dez-anos-de-producao-de-alimentos-saudaveis.md
   - _posts/2019/03/2019-03-14-manifestacoes-por-justica-a-marielle-tomam-as-ruas-de-todo-o-brasil.md
   - _posts/2019/05/2019-05-14-reocupacao-em-area-improdutiva-na-chapada-diamantina.md
+section: cover
 
 ---
 <div style="text-align:center">
@@ -66,7 +67,7 @@ Da P&aacute;gina do MST</em></p>
 No dia 11 de julho, quinta-feira, ser&aacute; julgado no Tribunal de Justi&ccedil;a de Minas Gerais, em Belo Horizonte, o pedido de despejo que visa expulsar das terras da antiga usina Ariadn&oacute;polis as 450 fam&iacute;lias produtoras do caf&eacute; Guai&iacute;. O acampamento foi amea&ccedil;ado logo ap&oacute;s as elei&ccedil;&otilde;es presidenciais de 2018, com um pedido de urg&ecirc;ncia do despejo acatado pelo juiz Walter Zwicker Esbaile J&uacute;nior, que gerou grande como&ccedil;&atilde;o nacional e internacional e acabou sendo suspenso. Agora, uma comiss&atilde;o de desembargadores apresentar&aacute; a decis&atilde;o que definir&aacute; a perman&ecirc;ncia ou n&atilde;o das fam&iacute;lias na terra.</p>
 
 <p><br />
-&ldquo;Despejar as fam&iacute;lias do acampamento Quilombo Campo Grande significa destruir cerca de 2 milh&otilde;es de p&eacute;s de caf&eacute;s plantados. Expulsar mais de 2 mil pessoas de suas casas. Demolir 418 casas de alvenaria, onde essas pessoas residem. Acabar com 70 micro agroind&uacute;strias, onde a produ&ccedil;&atilde;o &eacute; beneficiada. Derrubar mais de 100 mil &aacute;rvores plantadas pelos sem terra&rdquo;, afirmou o engenheiro George Armando da Silva, um dos respons&aacute;veis pelo laudo socioecon&ocirc;mico elaborado no final do ano passado. Estes n&uacute;meros s&atilde;o resultado de mais de 20 anos de trabalho das fam&iacute;lias que residem no local, ocupado desde mar&ccedil;o de 1998.&nbsp;</p>
+&ldquo;Despejar as fam&iacute;lias do acampamento Quilombo Campo Grande significa destruir cerca de 2 milh&otilde;es de p&eacute;s de caf&eacute;s plantados. Expulsar mais de 2 mil pessoas de suas casas. Demolir 418 casas de alvenaria, onde essas pessoas residem.&nbsp;Derrubar mais de 100 mil &aacute;rvores plantadas pelos sem terra&rdquo;, afirmou o engenheiro George Armando da Silva, um dos respons&aacute;veis pelo laudo socioecon&ocirc;mico elaborado no final do ano passado. Estes n&uacute;meros s&atilde;o resultado de mais de 20 anos de trabalho das fam&iacute;lias que residem no local, ocupado desde mar&ccedil;o de 1998.&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -115,7 +116,8 @@ Conhe&ccedil;a a cooperativa Camponesa, produtora do caf&eacute; Guai&iacute; <a
 <p><strong>Servi&ccedil;o</strong><br />
 Julgamento do despejo do Acampamento Quilombo Campo Grande<br />
 Dia: quinta-feira, 11 de julho 2019<br />
-Hora: Mobiliza&ccedil;&atilde;o em frente ao F&oacute;rum, a partir das 10 horas.<br />
+Hora: Mobiliza&ccedil;&atilde;o em frente ao Tribunal de Justi&ccedil;a de Minas Gerais,&nbsp;a partir das 10 horas.<br />
+Av. Afonso Pena, 4001 - Serra, Belo Horizonte.<br />
 In&iacute;cio do julgamento &agrave;s 13h30.</p>
 
 <p><br />
