@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>MST inaugura espaço cultural em São Luís no MA</title>
+				<description>Ambiente conta com espaço para debates, armazém do Campo, livraria e mais</description>
+				<pubDate>Mon, 08 Jul 2019 14:28:09 -0300</pubDate>
+				<link>http://www.mst.org.br/2019/07/08/mst-inaugura-espaco-cultural-em-sao-luis-no-ma.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2019/07/08/mst-inaugura-espaco-cultural-em-sao-luis-no-ma.html</guid>
+			</item>
+		
+			<item>
 				<title>Armazém do Campo recebe feira de orgânicos em BH </title>
 				<description>Evento aconteceu neste fim de semana, na capital de minas Gerais</description>
 				<pubDate>Mon, 08 Jul 2019 14:09:35 -0300</pubDate>
@@ -76,14 +84,6 @@
 				<pubDate>Thu, 04 Jul 2019 14:46:15 -0300</pubDate>
 				<link>http://www.mst.org.br/2019/07/04/curso-de-musica-popular-na-vigilia-lula-livre.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2019/07/04/curso-de-musica-popular-na-vigilia-lula-livre.html</guid>
-			</item>
-		
-			<item>
-				<title>Comunidade tradicional caiçara denuncia ameaça de demolição  no Vale do Ribeira </title>
-				<description>Comunidade tradicional do Rio Verde e Grajaúna denuncia que policiais estão em seu território desde a manhã desta quinta (4) e ameaçam demolir as casas de suas famílias</description>
-				<pubDate>Thu, 04 Jul 2019 14:05:21 -0300</pubDate>
-				<link>http://www.mst.org.br/2019/07/04/comunidade-tradicional-caicara-denuncia-ameaca-de-demolicao-no-vale-do-ribeira.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2019/07/04/comunidade-tradicional-caicara-denuncia-ameaca-de-demolicao-no-vale-do-ribeira.html</guid>
 			</item>
 		
 	</channel>
