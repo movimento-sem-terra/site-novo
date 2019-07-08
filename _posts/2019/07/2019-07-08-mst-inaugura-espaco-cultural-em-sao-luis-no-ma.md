@@ -47,11 +47,9 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Solar [1].jpg" height="394" src="//farm66.staticflickr.com/65535/48233825172_3413e78b62_b.jpg" width="700" />
-<figcaption><em>Foto do almo&ccedil;o no lan&ccedil;amento do Solar Cultura da Terra Maria Firmina dos Reis, em S&atilde;o Lu&iacute;s (MA)</em></figcaption>
+<figcaption><em>Foto do almo&ccedil;o no lan&ccedil;amento do Solar Cultura da Terra Maria Firmina dos Reis, no Maranh&atilde;o</em></figcaption>
 </figure>
 </div>
-
-<p>&nbsp;</p>
 
 <p><br />
 <em>Por&nbsp;Reynaldo Costa<br />
