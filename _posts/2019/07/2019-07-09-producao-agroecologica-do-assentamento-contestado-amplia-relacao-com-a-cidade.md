@@ -78,11 +78,8 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><em>Por Gustavo Gon&ccedil;alves e Sirlene Ivaniski<br />
+<p><br />
+<em>Por Gustavo Gon&ccedil;alves e Sirlene Ivaniski<br />
 Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
@@ -154,6 +151,10 @@ Da P&aacute;gina do MST</em></p>
 <p>A Escola Latino Americana de Agroecologia (ELAA), fundada em 2005, est&aacute; localizada no assentamento e &eacute; uma refer&ecirc;ncia de forma&ccedil;&atilde;o na &aacute;rea. A institui&ccedil;&atilde;o fornece dois cursos de n&iacute;vel t&eacute;cnico, um deles em Licenciatura na &Aacute;rea da Natureza, em parceria com a Universidade Federal do Paran&aacute; (UFPR) - Setor Litoral, e o curso de Tecnologia em Agroecologia, em parceria com o Instituto Federal - Campus de Campo Largo.</p>
 
 <p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Foto_Michele Torinelli 3.jpg" height="299" src="//farm66.staticflickr.com/65535/48240382746_d1fcd17cc7_b.jpg" width="450" />
+<figcaption>ELAA curso de&nbsp; fornece dois cursos de n&iacute;vel t&eacute;cnico, um deles em Licenciatura na &Aacute;rea da Natureza, em parceria com a Universidade Federal do Paran&aacute; (UFPR) - Setor Litoral, e o curso de Tecnologia em Agroecologia, em parceria com o Instituto Federal - Campus de Campo Largo.</figcaption>
+</figure>
 
 <p>Valmir Fernandes das Neves, rec&eacute;m-formado em Agroecologia pela ELAA, explica que a forma&ccedil;&atilde;o oferecida na escola contribui para a constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular defendida pelo MST, em oposi&ccedil;&atilde;o ao latif&uacute;ndio, &ldquo;levantando a bandeira da agroecologia, cuidando da natureza, dando uma vida melhor aos camponeses e camponesas, gerando sa&uacute;de para quem planta e quem se alimenta&rdquo;, explica.</p>
 
