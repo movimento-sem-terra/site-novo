@@ -1,6 +1,8 @@
 ---
 date: "2019-07-09T10:09:29-03:00"
-tags: []
+tags:
+  - tag: paraná
+  - tag: agroecologia-é-o-caminho
 title: "Produção agroecológica do assentamento Contestado amplia relação com a cidade \n\n"
 support_line: "“São alimentos que chegam em nossas mesas e podemos oferecer sem medo a nossa família”, diz consumidor"
 menu: reforma agrária
@@ -37,11 +39,18 @@ files:
     $$hashKey: 03C
 created_date: "2019-07-09T10:23:29-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/12/2018-12-04-familias-sem-terra-realizam-festa-da-batata-doce-e-da-reforma-agraria-em-londrina-pr.md
+  - _posts/2019/03/2019-03-19-assentamento-do-parana-e-referencia-na-producao-de-organicos.md
+  - _posts/2019/04/2019-04-29-via-campesina-forma-tecnologos-e-tecnologas-em-agroecologia.md
+  - _posts/2019/05/2019-05-08-escola-sem-terra-conquista-14-medalhas-e-3-trofeus-jogos-escolares.md
+  - _posts/2019/05/2019-05-31-de-abraao-ao-mst-a-luta-pela-terra-segue.md
+  - _posts/2019/04/2019-04-02-escola-promove-o-fortalecimento-de-uma-alimentacao-saudavel-para-todos.md
+  - _posts/2019/04/2019-04-17-jornada-de-lutas-une-mobilizacao-e-acoes-de-solidariedade-no-parana.md
 
 ---
 <figure class="image" style="float:left"><img alt="Foto_Michele Torinelli 4.jpg" height="465" src="//farm66.staticflickr.com/65535/48240396717_651b996d02_b.jpg" width="700" />
-<figcaption>Toda semana o Assentamentos Contestado entrega oito toneladas de verduras, frutas, legumes e temperos agroecol&oacute;gicos em 104 escolas da regi&atilde;o. Foto: Michele Torinelli</figcaption>
+<figcaption><em>Toda semana o Assentamentos Contestado entrega oito toneladas de verduras, frutas, legumes e temperos agroecol&oacute;gicos em 104 escolas da regi&atilde;o. Foto: Michele Torinelli</em></figcaption>
 </figure>
 
 <p>&nbsp;</p>
@@ -79,6 +88,8 @@ releated_posts: []
 <p><br />
 &nbsp;</p>
 
+<p>&nbsp;</p>
+
 <p><em>Por Gustavo Gon&ccedil;alves e Sirlene Ivaniski<br />
 Da P&aacute;gina do MST</em></p>
 
@@ -113,8 +124,8 @@ Da P&aacute;gina do MST</em></p>
 <p>&nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Foto_Michele Torinelli 2.jpg" height="332" src="//farm66.staticflickr.com/65535/48240307506_690af15032_b.jpg" width="500" />
-<figcaption>Horta mandala da&nbsp;Cooperativa Terra Livre, com 210 s&oacute;cios.&nbsp;Foto: Michele Torinelli</figcaption>
+<figure class="image" style="display:inline-block"><img alt="Foto_Michele Torinelli 2.jpg" height="398" src="//farm66.staticflickr.com/65535/48240307506_690af15032_b.jpg" width="600" />
+<figcaption><em>Horta mandala da&nbsp;Cooperativa Terra Livre, com 210 s&oacute;cios.&nbsp;Foto: Michele Torinelli</em></figcaption>
 </figure>
 </div>
 
@@ -152,8 +163,8 @@ Da P&aacute;gina do MST</em></p>
 &nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Foto_Michele Torinelli 3.jpg" height="332" src="//farm66.staticflickr.com/65535/48240382746_d1fcd17cc7_b.jpg" width="500" />
-<figcaption>A&nbsp;ELAA &eacute; refer&ecirc;ncia na forma&ccedil;&atilde;o de Agroecologia. Foto: Michele Torinelli</figcaption>
+<figure class="image" style="display:inline-block"><img alt="Foto_Michele Torinelli 3.jpg" height="398" src="//farm66.staticflickr.com/65535/48240382746_d1fcd17cc7_b.jpg" width="600" />
+<figcaption><em>A&nbsp;ELAA &eacute; refer&ecirc;ncia na forma&ccedil;&atilde;o de Agroecologia. Foto: Michele Torinelli</em></figcaption>
 </figure>
 </div>
 
@@ -168,3 +179,5 @@ Valmir Fernandes das Neves, rec&eacute;m-formado em Agroecologia pela ELAA, expl
 &nbsp;</p>
 
 <p><em>*Editado por Solange Engelmann</em></p>
+
+<p>&nbsp;</p>
