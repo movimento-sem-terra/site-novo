@@ -40,11 +40,9 @@ published: true
 releated_posts: []
 
 ---
-<figure class="image" style="float:left"><img alt="Foto_Michele Torinelli 4.jpg" height="465" src="//farm66.staticflickr.com/65535/48240396717_651b996d02_b.jpg" width="700" />
+<figure class="image" style="float:left"><img alt="Foto_Michele Torinelli 4.jpg" height="432" src="//farm66.staticflickr.com/65535/48240396717_651b996d02_b.jpg" width="650" />
 <figcaption>Toda semana o Assentamentos Contestado entrega oito toneladas de verduras, frutas, legumes e temperos agroecol&oacute;gicos em 104 escolas da regi&atilde;o. Foto: Michele Torinelli</figcaption>
 </figure>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
