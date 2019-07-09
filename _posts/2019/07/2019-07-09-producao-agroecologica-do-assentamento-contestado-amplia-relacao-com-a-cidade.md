@@ -38,7 +38,7 @@ files:
     title: Foto_Michele Torinelli 3.jpg
     $$hashKey: 03C
 created_date: "2019-07-09T10:23:29-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/12/2018-12-04-familias-sem-terra-realizam-festa-da-batata-doce-e-da-reforma-agraria-em-londrina-pr.md
   - _posts/2019/03/2019-03-19-assentamento-do-parana-e-referencia-na-producao-de-organicos.md
