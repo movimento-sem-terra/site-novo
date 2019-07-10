@@ -17,6 +17,13 @@ files:
     small: //farm66.staticflickr.com/65535/48251478581_e4fa4fea9c_n.jpg
     title: chico1.jpg
     $$hashKey: 02P
+  - link: //farm66.staticflickr.com/65535/48251821052_e823ca46b6_b.jpg
+    original: //farm66.staticflickr.com/65535/48251821052_f90cee401a_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48251821052_e823ca46b6_t.jpg
+    medium: //farm66.staticflickr.com/65535/48251821052_e823ca46b6_z.jpg
+    small: //farm66.staticflickr.com/65535/48251821052_e823ca46b6_n.jpg
+    title: WhatsApp Image 2019-07-10 at 16.51.40.jpeg
+    $$hashKey: 0LA
 created_date: "2019-07-10T16:24:41-03:00"
 published: true
 releated_posts:
@@ -28,6 +35,8 @@ releated_posts:
   - _posts/2019/01/2019-01-22-mst-lamenta-a-morte-de-jonas-nosso-sem-terrinha.md
 
 ---
+<p style="text-align:center"><img alt="WhatsApp Image 2019-07-10 at 16.51.40.jpeg" height="700" src="//farm66.staticflickr.com/65535/48251821052_e823ca46b6_b.jpg" width="700" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
