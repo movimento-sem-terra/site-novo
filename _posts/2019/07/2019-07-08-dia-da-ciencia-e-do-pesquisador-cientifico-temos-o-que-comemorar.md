@@ -58,10 +58,9 @@ Da P&aacute;gina do MST</em><br />
 <p>Em outras palavras, aplicando-se ao campo no Brasil, as t&eacute;cnicas s&atilde;o as formas de plantar; a tecnologia s&atilde;o os objetos, m&aacute;quinas e materiais criados a partir dos conhecimentos tanto das t&eacute;cnicas quanto da Ci&ecirc;ncia, que parte do estudos destas t&eacute;cnicas a partir da tentativa e erro.&nbsp;<br />
 &nbsp;</p>
 
-<p>Para Daniel Mancio, do setor de Produ&ccedil;&atilde;o, Coopera&ccedil;&atilde;o e Meio Ambiente do MST, entender a complexidades destas associa&ccedil;&otilde;es &eacute; uma tarefa dif&iacute;cil, por&eacute;m, necess&aacute;ria para a possibilidade das bases de a&ccedil;&otilde;es pragm&aacute;ticas.&nbsp;<br />
-&nbsp;</p>
+<p>Para Daniel S. Pereira, do setor de Produ&ccedil;&atilde;o, Coopera&ccedil;&atilde;o e Meio Ambiente do MST, entender a complexidades destas associa&ccedil;&otilde;es &eacute; uma tarefa dif&iacute;cil, por&eacute;m, necess&aacute;ria para a possibilidade das bases de a&ccedil;&otilde;es pragm&aacute;ticas.&nbsp;</p>
 
-<p>&ldquo;Precisamos nos dedicar com bastante for&ccedil;a nestas quest&otilde;es, e isso come&ccedil;a na luta para garantir o acesso universal &agrave; educa&ccedil;&atilde;o, de uma forma a incluir a popula&ccedil;&atilde;o do campo n&atilde;o somente no ensino b&aacute;sico, mas no t&eacute;cnico e superior tamb&eacute;m&rdquo;, afirmou Daniel.<br />
+<p>&ldquo;Precisamos nos dedicar&nbsp;a entender estas quest&otilde;es, e isso come&ccedil;a na luta para garantir o acesso universal &agrave; educa&ccedil;&atilde;o, de&nbsp;forma a incluir a popula&ccedil;&atilde;o do campo n&atilde;o somente no ensino b&aacute;sico, mas no t&eacute;cnico e superior tamb&eacute;m&rdquo;, afirmou Daniel.<br />
 &nbsp;</p>
 
 <p><strong>Hist&oacute;ria</strong><br />
@@ -85,8 +84,7 @@ A ci&ecirc;ncia moderna como&nbsp;a&nbsp;que conhecemos hoje tem desempenhado im
 <p>&Eacute; imposs&iacute;vel dimensionar hoje como o agroneg&oacute;cio domina por meio do capital a maioria das teses e pesquisas dentro de universidades. Entretanto, diversos s&atilde;o os trabalhos que mostram a influ&ecirc;ncia entre o investimento de empresas nas universidades.<br />
 &nbsp;</p>
 
-<p>Daniel Manci defende que as mudan&ccedil;as dentro da academia tamb&eacute;m envolvem entender os problemas e realidades que a popula&ccedil;&otilde;es vivem. Ele defende que universidade tem que &ldquo;chegar perto das pessoas, e o campesinato chegando &agrave; universidades&rdquo;, formando uma corrente em que o saber popular &eacute; compartilhando, resgatado e respeitado.<br />
-&nbsp;</p>
+<p>Daniel S. Pereira defende que as mudan&ccedil;as dentro da academia tamb&eacute;m envolvem entender os problemas e realidades que a popula&ccedil;&otilde;es vivem. Ele defende que universidade tem que &ldquo;chegar perto das pessoas, e o campesinato chegando &agrave; universidades&rdquo;, formando uma corrente em que o saber popular &eacute; compartilhando, resgatado e respeitado.</p>
 
 <p>&ldquo;Todo conhecimento nasce da realidade, e tudo o que conhecemos foi feito de forma coletiva, v&aacute;rias pessoas fazem parte desta constru&ccedil;&atilde;o. Construir e fortalecer uma rela&ccedil;&atilde;o mais pr&oacute;ximas entre campo e universidade, entre aqueles que s&atilde;o chamados de pesquisadores e os produtores, agricultores, proporciona um salto qualitativo tanto do avan&ccedil;o nos conhecimentos, quanto da produ&ccedil;&atilde;o e organiza&ccedil;&atilde;o no campo&rdquo;, afirmou.<br />
 &nbsp;</p>
