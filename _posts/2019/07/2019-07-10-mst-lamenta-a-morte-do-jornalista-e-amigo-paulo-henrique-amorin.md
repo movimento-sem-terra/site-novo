@@ -11,13 +11,6 @@ menu: direitos humanos
 images_hd: //farm66.staticflickr.com/65535/48248921337_389543de24_b.jpg
 layout: post
 files:
-  - link: //farm66.staticflickr.com/65535/48248800086_bd5bd07104_b.jpg
-    original: //farm66.staticflickr.com/65535/48248800086_09a6f8ac6d_o.jpg
-    thumbnail: //farm66.staticflickr.com/65535/48248800086_bd5bd07104_t.jpg
-    medium: //farm66.staticflickr.com/65535/48248800086_bd5bd07104_z.jpg
-    small: //farm66.staticflickr.com/65535/48248800086_bd5bd07104_n.jpg
-    title: 4a194eec519841ce2815141db087b7ac.jpg
-    $$hashKey: 05P
   - link: //farm66.staticflickr.com/65535/48248921337_389543de24_b.jpg
     original: //farm66.staticflickr.com/65535/48248921337_6708bbacdd_o.jpg
     thumbnail: //farm66.staticflickr.com/65535/48248921337_389543de24_t.jpg
@@ -25,6 +18,13 @@ files:
     small: //farm66.staticflickr.com/65535/48248921337_389543de24_n.jpg
     title: phaobit.jpg
     $$hashKey: 08E
+  - link: //farm66.staticflickr.com/65535/48251536461_60797ce90c_b.jpg
+    original: //farm66.staticflickr.com/65535/48251536461_991557ba07_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48251536461_60797ce90c_t.jpg
+    medium: //farm66.staticflickr.com/65535/48251536461_60797ce90c_z.jpg
+    small: //farm66.staticflickr.com/65535/48251536461_60797ce90c_n.jpg
+    title: WhatsApp Image 2019-07-10 at 11.36.54.jpeg
+    $$hashKey: 0G7
 created_date: "2019-07-10T09:44:40-03:00"
 published: true
 releated_posts:
@@ -37,7 +37,14 @@ releated_posts:
   - _posts/2019/02/2019-02-20-rnpi-se-solidariza-ao-mst-e-aos-sem-terrinha.md
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-07-10 at 11.36.54.jpeg" height="700" src="//farm66.staticflickr.com/65535/48251536461_60797ce90c_b.jpg" width="700" />
+<figcaption>Paulo Henrique Amorim durante visita ao Armaz&eacute;m do Campo-SP</figcaption>
+</figure>
+</div>
+
 <p><br />
+<br />
 <em>Da P&aacute;gina do MST </em></p>
 
 <p><br />
