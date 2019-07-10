@@ -8,7 +8,7 @@ hat: ""
 title: MST lamenta a morte do jornalista e amigo Paulo Henrique Amorin
 support_line: "Dono de um personalidade única, Amorin  tratou seu ofício com o respeito e compromisso dos raros"
 menu: direitos humanos
-images_hd: //farm66.staticflickr.com/65535/48248800086_bd5bd07104_b.jpg
+images_hd: //farm66.staticflickr.com/65535/48248921337_389543de24_b.jpg
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/48248800086_bd5bd07104_b.jpg
@@ -18,8 +18,15 @@ files:
     small: //farm66.staticflickr.com/65535/48248800086_bd5bd07104_n.jpg
     title: 4a194eec519841ce2815141db087b7ac.jpg
     $$hashKey: 05P
+  - link: //farm66.staticflickr.com/65535/48248921337_389543de24_b.jpg
+    original: //farm66.staticflickr.com/65535/48248921337_6708bbacdd_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48248921337_389543de24_t.jpg
+    medium: //farm66.staticflickr.com/65535/48248921337_389543de24_z.jpg
+    small: //farm66.staticflickr.com/65535/48248921337_389543de24_n.jpg
+    title: phaobit.jpg
+    $$hashKey: 08E
 created_date: "2019-07-10T09:44:40-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/09/2018-09-13-mst-lamenta-o-falecimento-de-renee-de-carvalho.md
   - _posts/2018/10/2018-10-04-mst-lamenta-o-falecimento-de-mario-augusto-jakobskind.md
@@ -50,10 +57,10 @@ Por onde passou, deixou um legado marcado pela seriedade e pela compet&ecirc;nci
 <p>Manteve-se firme e corajoso, ciente de suas convic&ccedil;&otilde;es mesmo quando tentavam calar sua voz.</p>
 
 <p><br />
-O jornalismo perde um de seus melhores, Amorin far&aacute; muita falta nesse momento em que a coragem e a seriedade viraram atribui&ccedil;&otilde;es de poucos.</p>
+O jornalismo perde um de seus melhores, Amorin nos deixa em um momento em que a verdade tem sido diariamente atacada, em que a conspira&ccedil;&atilde;o fere a constitucionalidade a transpar&ecirc;ncia, diante disso, sua aus&ecirc;ncia torna-se ainda mais grave.</p>
 
 <p><br />
-Nosso&nbsp; abra&ccedil;o fraterno &agrave; toda sua fam&iacute;lia, amigos e admiradores.</p>
+Nosso&nbsp; abra&ccedil;o fraterno &agrave; toda sua fam&iacute;lia, amigos e admiradores. Seu exemplo e determina&ccedil;&atilde;o nos inspiram na luta pela democratiza&ccedil;&atilde;o da terra, da comunica&ccedil;&atilde;o e por um projeto digno e popular de pa&iacute;s.</p>
 
 <p>&nbsp;</p>
 
