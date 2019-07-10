@@ -4,7 +4,7 @@ tags:
   - tag: quilombolas
   - tag: arte-e-cultura
   - tag: paraná
-title: Mulheres Quilombolas é tema de exposição  no Paraná
+title: Mulheres quilombolas é tema de exposição  no Paraná
 support_line: "A exposição fotográfica acontece no Centro Cultural Casarão, no assentamento Contestado (PR)"
 images_hd: //farm66.staticflickr.com/65535/48251734756_f18b9f5f92_b.jpg
 menu: "educação, cultura e comunicação"
@@ -69,10 +69,6 @@ O orientador da pesquisa, o Prof.&nbsp;Dr. Mario Sergio Michaliszyn,&nbsp;coment
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="IMG_9378.jpg" height="200" src="//farm66.staticflickr.com/65535/48251734671_de15d9a633_b.jpg" width="300" />
-<figcaption>&nbsp;oficinas, encontros e aulas das mais diversas linguagens art&iacute;sticas</figcaption>
-</figure>
-
 <p>&ldquo;Tratam-se de ferramentas, recursos did&aacute;ticos que ser&atilde;o utilizados em a&ccedil;&otilde;es de educa&ccedil;&atilde;o ambiental, cuja inten&ccedil;&atilde;o &eacute; que circulem por escolas e comunidades, sensibilizando as pessoas para a problem&aacute;tica ambiental e a valoriza&ccedil;&atilde;o da cultura quilombola&quot;, comenta Michaliszyn. Com seu trabalho, Isabelle integra o Grupo de Estudos sobre Popula&ccedil;&otilde;es Tradicionais do PGAMB, da Universidade Positivo.&nbsp;</p>
 
 <p><br />
@@ -91,9 +87,8 @@ A mostra &eacute; um convite para conhecer atrav&eacute;s da imagem o universo d
 <p>O Centro Cultural Casar&atilde;o &eacute; o primeiro espa&ccedil;o de arte em &aacute;rea de reforma agr&aacute;ria da regi&atilde;o sul do Brasil. Localizado no assentamento Contestado, no munic&iacute;pio da Lapa, o antigo casar&atilde;o do per&iacute;odo colonial&nbsp;data sua constru&ccedil;&atilde;o por volta da primeira metade do s&eacute;culo XIX. O espa&ccedil;o foi sede da Fazenda Santa Am&eacute;lia e levantado de barro e pedra pelas escravizadas e escravizados negros que pertenceram ao poderoso senhor de terras, o Bar&atilde;o dos Campos Gerais.&nbsp;<br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="20190704_155048.jpg" height="146" src="//farm66.staticflickr.com/65535/48251802352_077bb0a694_b.jpg" width="300" />
-<figcaption><em>&nbsp;Espa&ccedil;o oferece tamb&eacute;m oficinas, encontros<br />
-e aulas das mais diversas linguagens art&iacute;sticas.</em></figcaption>
+<figure class="image" style="float:right"><img alt="IMG_9378.jpg" height="200" src="//farm66.staticflickr.com/65535/48251734671_de15d9a633_b.jpg" width="300" />
+<figcaption><em>Centro Cultural Casar&atilde;o - Foto: Estefano Lessa</em></figcaption>
 </figure>
 
 <p>J&aacute; sede comunit&aacute;ria do assentamento Contestado, nos &uacute;ltimos seis anos o casar&atilde;o passou por um logo processo pol&iacute;tico e t&eacute;cnico para realizar a reforma e recupera&ccedil;&atilde;o das suas estruturas arquitet&ocirc;nicas, e desde julho de 2018 funciona como espa&ccedil;o de arte, cultura e mem&oacute;ria recebendo visitantes de v&aacute;rios lugares do mundo.</p>
