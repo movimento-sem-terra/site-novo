@@ -5,8 +5,8 @@ tags:
   - tag: pesar
   - tag: lutadores
 hat: ""
-title: MST lamenta a morte do jornalista e amigo Paulo Henrique Amorin
-support_line: "Dono de um personalidade única, Amorin  tratou seu ofício com o respeito e compromisso dos raros"
+title: MST lamenta a morte do jornalista e amigo Paulo Henrique Amorim
+support_line: "Dono de um personalidade única, Amorim  tratou seu ofício com o respeito e compromisso dos raros"
 menu: direitos humanos
 images_hd: //farm66.staticflickr.com/65535/48248921337_389543de24_b.jpg
 layout: post
@@ -42,9 +42,9 @@ releated_posts:
 
 <p><br />
 <br />
-&Eacute; com profundo pesar e consterna&ccedil;&atilde;o que o MST vem a p&uacute;blico lamentar o falecimento do jornalista e amigo Paulo Henrique Amorin que morreu na manh&atilde; desta quarta-feira, 10, aos 77 anos.<br />
+&Eacute; com profundo pesar e consterna&ccedil;&atilde;o que o MST vem a p&uacute;blico lamentar o falecimento do jornalista e amigo Paulo Henrique Amorim que morreu na manh&atilde; desta quarta-feira, 10, aos 77 anos.<br />
 <br />
-Dono de um personalidade &uacute;nica, Amorin&nbsp; tratou seu of&iacute;cio com o respeito e compromisso dos raros.</p>
+Dono de um personalidade &uacute;nica, Amorim&nbsp; tratou seu of&iacute;cio com o respeito e compromisso dos raros.</p>
 
 <p><br />
 Era formado em Sociologia e Pol&iacute;tica, mas atuava como jornalista desde 1961. Escrevia&nbsp;para diversos jornais e revistas do pa&iacute;s, e era propriet&aacute;rio do blog &#39;Conversa Afiada&#39;.</p>
@@ -57,7 +57,7 @@ Por onde passou, deixou um legado marcado pela seriedade e pela compet&ecirc;nci
 <p>Manteve-se firme e corajoso, ciente de suas convic&ccedil;&otilde;es mesmo quando tentavam calar sua voz.</p>
 
 <p><br />
-O jornalismo perde um de seus melhores, Amorin nos deixa em um momento em que a verdade tem sido diariamente atacada, em que a conspira&ccedil;&atilde;o fere a constitucionalidade a transpar&ecirc;ncia, diante disso, sua aus&ecirc;ncia torna-se ainda mais grave.</p>
+O jornalismo perde um de seus melhores, Amorim nos deixa em um momento em que a verdade tem sido diariamente atacada, em que a conspira&ccedil;&atilde;o fere a constitucionalidade a transpar&ecirc;ncia, diante disso, sua aus&ecirc;ncia torna-se ainda mais grave.</p>
 
 <p><br />
 Nosso&nbsp; abra&ccedil;o fraterno &agrave; toda sua fam&iacute;lia, amigos e admiradores. Seu exemplo e determina&ccedil;&atilde;o nos inspiram na luta pela democratiza&ccedil;&atilde;o da terra, da comunica&ccedil;&atilde;o e por um projeto digno e popular de pa&iacute;s.</p>
