@@ -78,10 +78,7 @@ Confira a programa&ccedil;&atilde;o do Festival <a href="https://une.org.br/noti
 &ldquo;E a Juventude do Campo? Presente!&rdquo;. Esse tem sido o grito de ordem de jovens estudantes do campo, ligados a movimentos e organiza&ccedil;&otilde;es populares, como o MST, que tamb&eacute;m participam do Conune com o objetivo de fortalecer o espa&ccedil;o e ampliar as articula&ccedil;&otilde;es&nbsp;em torno da luta promovida pela juventude na cidade.</p>
 
 <p><br />
-Durante a abertura do evento&nbsp;evidenciou-se os desafios colocados para o conjunto de delegados. Evidenciou-se&nbsp;que as transforma&ccedil;&otilde;es necess&aacute;rias deve ser feita&nbsp;nas ruas, garantindo o acesso &agrave;&nbsp;educa&ccedil;&atilde;o para todas e todos.</p>
-
-<p><br />
-Diante desse cen&aacute;rio,&nbsp;os cortes or&ccedil;ament&aacute;rios promovidos pelo governo Bolsonaro (PSL), especialmente na pasta da educa&ccedil;&atilde;o, foram amplamente repudiados.</p>
+Durante a abertura do evento&nbsp;evidenciou-se os desafios colocados para o conjunto de delegados e que as transforma&ccedil;&otilde;es necess&aacute;rias devem ser feitas&nbsp;nas ruas, garantindo o acesso &agrave;&nbsp;educa&ccedil;&atilde;o para todas e todos. Diante desse cen&aacute;rio,&nbsp;os cortes or&ccedil;ament&aacute;rios promovidos pelo governo Bolsonaro (PSL), especialmente na pasta da educa&ccedil;&atilde;o, foram amplamente repudiados.</p>
 
 <p><br />
 <strong>A educa&ccedil;&atilde;o no campo e na cidade correm perigo</strong></p>
@@ -107,13 +104,16 @@ Lima participa do Conune e destaca que &eacute; fundamental a juventude campones
 Ele ressalta que: &ldquo;A juventude do campo necessita de pol&iacute;ticas que sejam ess&ecirc;ncias, n&atilde;o basta entrar na universidade. &Eacute; importante debater tamb&eacute;m a perman&ecirc;ncia. Ainda &eacute; no campo que est&aacute; o maior &iacute;ndice de mis&eacute;ria e de pobreza. Quando essa juventude chega no campo &eacute; necess&aacute;rio que tenha programas que garantam a sua perman&ecirc;ncia e no acesso a educa&ccedil;&atilde;o, para que essa juventude possa continuar dentro da universidade e no campo. Hoje, isso &eacute; um grande desafio&rdquo;.</p>
 
 <p><br />
-Ainda segundo o&nbsp; estudante,&nbsp;todos esses cortes dentro das universidades, os estudantes est&atilde;o sendo impactados diretamente na garantia da alimenta&ccedil;&atilde;o nos Restaurantes Universit&aacute;rios (RU) e nas bolsas de aux&iacute;lio para moradia e estudo. &ldquo;Essas quest&otilde;es tem dificultado que a juventude possa permanecer estudando na universidade&rdquo;, afirma.</p>
+Segundo Lima,&nbsp;todos esses cortes dentro das universidades&nbsp;impactam&nbsp;diretamente a&nbsp;garantia da alimenta&ccedil;&atilde;o nos Restaurantes Universit&aacute;rios (RU) e nas bolsas de aux&iacute;lio para moradia e estudo. &ldquo;Essas quest&otilde;es tem dificultado que a juventude possa permanecer estudando na universidade&rdquo;, afirma.</p>
 
 <p><br />
-Nesse mesmo sentido, Fab&iacute;ola Amaro (28), uma Jovem Sem Terra, acampada no munic&iacute;pio de Santa Maria no sert&atilde;o pernambucano, destaca que a luta em defesa da educa&ccedil;&atilde;o necessita de unidade entre o campo e a cidade. Sobre sua inser&ccedil;&atilde;o na luta do MST, ela conta que sua milit&acirc;ncia come&ccedil;ou logo no in&iacute;cio de sua juventude e junto com as fam&iacute;lias do acampamento contribuiu com o trabalho de base na regi&atilde;o. Ap&oacute;s uma grande ocupa&ccedil;&atilde;o de terra fez alguns cursos de forma&ccedil;&atilde;o, como o Curso P&eacute; no Ch&atilde;o, que acontece anualmente em Pernambuco. Lembra tamb&eacute;m que come&ccedil;ou a contribuir em diversos setores dentro do Movimento e assumiu outras tarefas, como a participa&ccedil;&atilde;o numa Brigada Internacional no Haiti.</p>
+Nesse mesmo sentido, Fab&iacute;ola Amaro (28), uma Jovem Sem Terra, acampada no munic&iacute;pio de Santa Maria no sert&atilde;o pernambucano, destaca que a luta em defesa da educa&ccedil;&atilde;o necessita de unidade entre o campo e a cidade.</p>
 
 <p><br />
-Hoje, Amaro mora em Recife e tem contribu&iacute;do com a constru&ccedil;&atilde;o do Congresso do Povo, compondo umas das brigadas de mobiliza&ccedil;&atilde;o no estado, com a Universidade Popular Greg&oacute;rio Bezerra e o Cineclube Movimenta. A partir dessa trajet&oacute;ria dentro do MST, pontua tamb&eacute;m que o campo e a cidade est&atilde;o atrelados. &ldquo;Nada e ningu&eacute;m vai nos impedir de lutar pelos nossos direitos, pela nossa educa&ccedil;&atilde;o e isso s&oacute; &eacute; poss&iacute;vel se fizermos a&ccedil;&otilde;es conjuntas&rdquo;.</p>
+Sobre sua inser&ccedil;&atilde;o na luta do MST, ela conta que sua milit&acirc;ncia come&ccedil;ou logo no in&iacute;cio de sua juventude e junto com as fam&iacute;lias do acampamento contribuiu com o trabalho de base na regi&atilde;o. Ap&oacute;s uma grande ocupa&ccedil;&atilde;o de terra fez alguns cursos de forma&ccedil;&atilde;o, como o Curso P&eacute; no Ch&atilde;o, que acontece anualmente em Pernambuco. Lembra tamb&eacute;m que come&ccedil;ou a contribuir em diversos setores dentro do Movimento e assumiu outras tarefas, como a participa&ccedil;&atilde;o numa Brigada Internacional no Haiti.</p>
+
+<p><br />
+Hoje, Amaro mora em Recife e tem contribu&iacute;do com a constru&ccedil;&atilde;o do Congresso do Povo, compondo umas das brigadas de mobiliza&ccedil;&atilde;o no estado, com a Universidade Popular Greg&oacute;rio Bezerra e o Cineclube Movimenta. A partir dessa trajet&oacute;ria dentro do MST, pontua que o campo e a cidade est&atilde;o atrelados. &ldquo;Nada e ningu&eacute;m vai nos impedir de lutar pelos nossos direitos, pela nossa educa&ccedil;&atilde;o e isso s&oacute; &eacute; poss&iacute;vel se fizermos a&ccedil;&otilde;es conjuntas&rdquo;.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="“Nada e ninguém vai nos impedir de lutar__, diz Fabíola Amaro. Foto_Matheus Alves.jpeg" height="400" src="//farm66.staticflickr.com/65535/48260191566_274522dc74_b.jpg" width="600" />
