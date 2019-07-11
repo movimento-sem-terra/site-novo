@@ -64,7 +64,7 @@ O respons&aacute;vel pelo espa&ccedil;o, Elitiel Guedes, explica que a proposta 
 <strong>Solar Cultural da Terra </strong></p>
 
 <p><br />
-naugurado em S&atilde;o Lu&iacute;s neste s&aacute;bado (6), o Solar Cultura da Terra Maria Firmina dos Reis &eacute; um amplo espa&ccedil;o cultural e pol&iacute;tico mantido pelo Movimento dos Trabalhadores Rurais Sem Terra (MST) dedicado &agrave; divulga&ccedil;&atilde;o, comercializa&ccedil;&atilde;o e troca de experi&ecirc;ncias relacionadas aos trabalhadores rurais do Maranh&atilde;o.&nbsp; Localizado no centro de S&atilde;o Lu&iacute;s, o casar&atilde;o agrega, al&eacute;m da livraria, uma unidade do Armaz&eacute;m do Campo, audit&oacute;rio, memorial para exposi&ccedil;&otilde;es e Caf&eacute; Liter&aacute;rio.<br />
+Inaugurado em S&atilde;o Lu&iacute;s neste s&aacute;bado (6), o Solar Cultura da Terra Maria Firmina dos Reis &eacute; um amplo espa&ccedil;o cultural e pol&iacute;tico mantido pelo Movimento dos Trabalhadores Rurais Sem Terra (MST) dedicado &agrave; divulga&ccedil;&atilde;o, comercializa&ccedil;&atilde;o e troca de experi&ecirc;ncias relacionadas aos trabalhadores rurais do Maranh&atilde;o.&nbsp; Localizado no centro de S&atilde;o Lu&iacute;s, o casar&atilde;o agrega, al&eacute;m da livraria, uma unidade do Armaz&eacute;m do Campo, audit&oacute;rio, memorial para exposi&ccedil;&otilde;es e Caf&eacute; Liter&aacute;rio.<br />
 &nbsp;</p>
 
 <p><strong>SERVI&Ccedil;O</strong></p>
