@@ -41,6 +41,11 @@ releated_posts:
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
+<p>Confira a nota de pesar do MST (Movimento do Sem Terra) sobre o falecimento do soci&oacute;logo recifense Francisco Maria Cavalcanti de Oliveira, mais conhecido como Chico de Oliveira</p>
+
+<p style="text-align: center;"><br />
+<strong>NOTA DE PESAR</strong></p>
+
 <p>&nbsp;</p>
 
 <p>Francisco Oliveira, nosso Chico&nbsp;Oliveira nos deixou nesta&nbsp;quarta-feira (10), aos 85 anos de idade.&nbsp;Um dos maiores&nbsp;soci&oacute;logo do Brasil, foi tamb&eacute;m um&nbsp;dos fundadores do Partido dos Trabalhadores e&nbsp;doutor pela Faculdade de Filosofia, Letras e Ci&ecirc;ncias Humanas da USP.</p>
@@ -58,7 +63,7 @@ Chico Oliveira foi uma das cabe&ccedil;as mais pensantes e ativas de nosso tempo
 
 <p>&nbsp;</p>
 
-<p style="text-align: right;">Movimento dos Trabalhadores Rurais Sem Terra, 10 de julho de 2019.&nbsp;</p>
+<p style="text-align: right;"><em>Movimento dos Trabalhadores Rurais Sem Terra, 10 de julho de 2019.&nbsp;</em></p>
 
 <p style="text-align: right;">&nbsp;</p>
 
