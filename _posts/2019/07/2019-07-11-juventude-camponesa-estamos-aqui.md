@@ -4,7 +4,7 @@ tags:
   - tag: educação-do-campo
   - tag: juventude
   - tag: une
-title: "Juventude camponesa: “Estamos aqui!”\n"
+title: "Juventude camponesa: “Estamos aqui!”"
 support_line: "Jovens do campo, ligados a movimentos e organizações populares, marcam presença no Conune, em Brasília"
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48260260257_ec443b5a94_b.jpg
@@ -53,9 +53,11 @@ releated_posts:
   - _posts/2019/06/2019-06-05-encontro-de-educadores-da-regiao-sul-dialoga-sobre-agroecologia-e-literatura-nas-escolas.md
 
 ---
-<p style="text-align:center"><img alt="4e2c0e1b-b0e5-4ce3-8681-d5345d82d1d8.jpeg" height="691" src="//farm66.staticflickr.com/65535/48260260352_f66bb44c99_b.jpg" width="600" /></p>
-
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Conune rénue delegados dos quatro cantos do país na luta contra os retrocessos e por educação. Foto_Matheus Alves.jpg" height="467" src="//farm66.staticflickr.com/65535/48260260257_ec443b5a94_b.jpg" width="700" />
+<figcaption><em>Conune re&uacute;ne delegados dos quatro cantos do pa&iacute;s na luta pela educa&ccedil;&atilde;o e contra os retrocessos. Foto: Matheus Alves</em></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
@@ -70,13 +72,10 @@ Cerca de 18 mil delegados participam do 57<span style="color: rgb(84, 84, 84); f
 O Conune -&nbsp;&nbsp;que come&ccedil;ou na noite da&nbsp;&uacute;ltima quarta-feira (10) e segue at&eacute; domingo (14) -,&nbsp;&nbsp;re&uacute;ne diversos debates acerca da educa&ccedil;&atilde;o p&uacute;blica; seguran&ccedil;a e viol&ecirc;ncia policial; mulheres e pol&iacute;tica; ensino privado; a organiza&ccedil;&atilde;o hist&oacute;rica do movimento estudantil; comunica&ccedil;&atilde;o e conjuntura; pol&iacute;ticas p&uacute;blicas e os&nbsp;retrocessos promovidos pelo atual governo. Al&eacute;m disso, est&atilde;o programadas atividades culturais, como o Festival da Democracia.</p>
 
 <p><br />
-Confira a programa&ccedil;&atilde;o do Festival <a href="https://une.org.br/noticias/conune-tem-festival-da-democracia-com-duda-beat-attooxxa-leci-e-mangueira/">aqui</a>;<br />
-<br />
-<br />
-<strong>&ldquo;E a Juventude do Campo? Presente!&rdquo;&nbsp;</strong></p>
+Confira a programa&ccedil;&atilde;o do Festival <a href="https://une.org.br/noticias/conune-tem-festival-da-democracia-com-duda-beat-attooxxa-leci-e-mangueira/">aqui</a>;</p>
 
 <p><br />
-Esse tem sido o grito de ordem de jovens estudantes do campo, ligados a movimentos e organiza&ccedil;&otilde;es populares, como o MST, que tamb&eacute;m participam do Conune com o objetivo de fortalecer o espa&ccedil;o e ampliar as articula&ccedil;&otilde;es&nbsp;em torno da luta promovida pela juventude na cidade.</p>
+&ldquo;E a Juventude do Campo? Presente!&rdquo;. Esse tem sido o grito de ordem de jovens estudantes do campo, ligados a movimentos e organiza&ccedil;&otilde;es populares, como o MST, que tamb&eacute;m participam do Conune com o objetivo de fortalecer o espa&ccedil;o e ampliar as articula&ccedil;&otilde;es&nbsp;em torno da luta promovida pela juventude na cidade.</p>
 
 <p><br />
 Durante a abertura do evento&nbsp;evidenciou-se os desafios colocados para o conjunto de delegados. Evidenciou-se&nbsp;que as transforma&ccedil;&otilde;es necess&aacute;rias deve ser feita&nbsp;nas ruas, garantindo o acesso &agrave;&nbsp;educa&ccedil;&atilde;o para todas e todos.</p>
@@ -96,14 +95,13 @@ O Or&ccedil;amento federal &eacute; sempre definido no ano anterior com base em 
 <p><br />
 &ldquo;Se para quem mora na cidade isso gera um impacto grande, imagina para o jovem estudante que mora no campo?&rdquo;, pergunta&nbsp;Paulo de Lima (26), morador da comunidade de Paus Branco, na Para&iacute;ba, e integrante da Pastoral da Juventude Rural (PJR).</p>
 
+<figure class="image" style="float:right"><img alt="Paulo de Lima é integrante da PJR. Foto_Matheus Alves.jpeg" height="200" src="//farm66.staticflickr.com/65535/48260191576_63ae32a02a_b.jpg" width="300" />
+<figcaption><em>Paulo de Lima, morador da comunidade de Paus<br />
+Branco, na Para&iacute;ba. Foto: Matheus Alves</em></figcaption>
+</figure>
+
 <p><br />
 Lima participa do Conune e destaca que &eacute; fundamental a juventude camponesa pautar o debate da educa&ccedil;&atilde;o do campo. &ldquo;A gente precisa garantir que os povos que foram marginalizados e historicamente exclu&iacute;dos, como os camponeses no Brasil, possam ter suas reivindica&ccedil;&otilde;es garantidas neste espa&ccedil;o [Conune] que &eacute; bem plural. Aqui a gente tem as condi&ccedil;&otilde;es de ficar discutindo sobre todos os problemas, inclusive sobre as pol&iacute;ticas voltadas para educa&ccedil;&atilde;o com um olhar sobre o todo&rdquo;.</p>
-
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Paulo de Lima é integrante da PJR. Foto_Matheus Alves.jpeg" height="467" src="//farm66.staticflickr.com/65535/48260191576_63ae32a02a_b.jpg" width="700" />
-<figcaption>Paulo de Lima, morador da comunidade de Paus Branco, na Para&iacute;ba</figcaption>
-</figure>
-</div>
 
 <p><br />
 Ele ressalta que: &ldquo;A juventude do campo necessita de pol&iacute;ticas que sejam ess&ecirc;ncias, n&atilde;o basta entrar na universidade. &Eacute; importante debater tamb&eacute;m a perman&ecirc;ncia. Ainda &eacute; no campo que est&aacute; o maior &iacute;ndice de mis&eacute;ria e de pobreza. Quando essa juventude chega no campo &eacute; necess&aacute;rio que tenha programas que garantam a sua perman&ecirc;ncia e no acesso a educa&ccedil;&atilde;o, para que essa juventude possa continuar dentro da universidade e no campo. Hoje, isso &eacute; um grande desafio&rdquo;.</p>
@@ -118,8 +116,8 @@ Nesse mesmo sentido, Fab&iacute;ola Amaro (28), uma Jovem Sem Terra, acampada no
 Hoje, Amaro mora em Recife e tem contribu&iacute;do com a constru&ccedil;&atilde;o do Congresso do Povo, compondo umas das brigadas de mobiliza&ccedil;&atilde;o no estado, com a Universidade Popular Greg&oacute;rio Bezerra e o Cineclube Movimenta. A partir dessa trajet&oacute;ria dentro do MST, pontua tamb&eacute;m que o campo e a cidade est&atilde;o atrelados. &ldquo;Nada e ningu&eacute;m vai nos impedir de lutar pelos nossos direitos, pela nossa educa&ccedil;&atilde;o e isso s&oacute; &eacute; poss&iacute;vel se fizermos a&ccedil;&otilde;es conjuntas&rdquo;.</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="“Nada e ninguém vai nos impedir de lutar__, diz Fabíola Amaro. Foto_Matheus Alves.jpeg" height="467" src="//farm66.staticflickr.com/65535/48260191566_274522dc74_b.jpg" width="700" />
-<figcaption>&quot;Ningu&eacute;m vai nos impedir de lutar&quot;,&nbsp;Fab&iacute;ola Amaro, jovem Sem Terra</figcaption>
+<figure class="image" style="display:inline-block"><img alt="“Nada e ninguém vai nos impedir de lutar__, diz Fabíola Amaro. Foto_Matheus Alves.jpeg" height="400" src="//farm66.staticflickr.com/65535/48260191566_274522dc74_b.jpg" width="600" />
+<figcaption><em>&quot;Ningu&eacute;m vai nos impedir de lutar&quot;, afirma Fab&iacute;ola Amaro, jovem Sem Terra. Foto: Matheus Alves</em></figcaption>
 </figure>
 </div>
 
@@ -136,15 +134,14 @@ Ela acrescentou tamb&eacute;m que &eacute; importante a juventude, estudantes, t
 <p><br />
 <strong>Pela vida e por direitos!</strong></p>
 
+<figure class="image" style="float:left"><img alt="Luz Helena é do Coletivo Nacional de Juventude do MST pelo estado do Ceará. Foto_Divulgação MST.jpeg" height="275" src="//farm66.staticflickr.com/65535/48260191541_92d8c18645_b.jpg" width="300" />
+<figcaption><em>Luz Helena, do coletivo nacional de juventude<br />
+do MST. Foto: Divulga&ccedil;&atilde;o MST&nbsp;</em></figcaption>
+</figure>
+
 <p><br />
 De olho nesses desafios, a delegada e integrante do Coletivo Nacional de Juventude do MST, Luz Helena (24), acredita que o Conune al&eacute;m de representar uma grande express&atilde;o da juventude estudante da classe trabalhadora, que hoje ocupou as universidades, &eacute; um espa&ccedil;o que acumula for&ccedil;as para constru&ccedil;&atilde;o de um Projeto Popular para o pa&iacute;s. Al&eacute;m disso anuncia a realiza&ccedil;&atilde;o da 10 Jornada Nacional da Juventude Sem Terra, que<br />
 este ano traz como lema &ldquo;Juventude em Luta pela Vida e por Direitos!&rdquo;, conectando a pauta da educa&ccedil;&atilde;o e contra os retrocessos, j&aacute; denunciados com o Conune.</p>
-
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Luz Helena é do Coletivo Nacional de Juventude do MST pelo estado do Ceará. Foto_Divulgação MST.jpeg" height="550" src="//farm66.staticflickr.com/65535/48260191541_92d8c18645_b.jpg" width="600" />
-<figcaption>Luz Helena, do coletivo nacional de juventude do MST&nbsp;</figcaption>
-</figure>
-</div>
 
 <p><br />
 A Jornada inicia seu processo de mobiliza&ccedil;&atilde;o neste m&ecirc;s e pretende realizar a&ccedil;&otilde;es durante todo agosto de Norte a Sul do pa&iacute;s. Ela diz que esse ano, assim como nos anteriores, a Jornada precisa ser ampla e constru&iacute;da com todas as for&ccedil;as da classe trabalhadora.</p>
@@ -166,8 +163,15 @@ Durante os cinco dias de atividade, o Conune pretende ainda garantir de maneira 
 
 <p>Nesse sentido, acontecer&atilde;o nos pr&oacute;ximos dias dois atos pol&iacute;ticos e uma grande manifesta&ccedil;&atilde;o. Al&eacute;m disso, est&aacute; sendo constru&iacute;da e ampliada, a partir do evento, a campanha &rdquo;<a href="https://une.org.br/noticias/armados-de-livros-estudantes-iniciam-o-57o-conune-em-brasilia/">Mais livros e menos armas</a>&quot;.</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="4e2c0e1b-b0e5-4ce3-8681-d5345d82d1d8.jpeg" height="691" src="//farm66.staticflickr.com/65535/48260260352_f66bb44c99_b.jpg" width="600" />
+<figcaption><em>Arte: Marina Tavares</em></figcaption>
+</figure>
+</div>
+
 <p><br />
 Assista <a href="https://youtu.be/QmwhEyLkhco">aqui</a>&nbsp;o v&iacute;deo &ldquo;An&aacute;lise de Conjuntura&rdquo; com Jessy Dayane, do Levante Popular da Juventude e Vice-Presidenta da UNE, sobre os principais desafios apontados para realiza&ccedil;&atilde;o do Conune.<br />
 <br />
 <br />
-<em>*Colabora&ccedil;&atilde;o&nbsp;de Hony Rinquison, do setor de comunica&ccedil;&atilde;o do MST</em></p>
+<em>*Com a colabora&ccedil;&atilde;o&nbsp;de Hony Rinquison, do setor de comunica&ccedil;&atilde;o do MST<br />
+**Editado por Maura Silva</em></p>
