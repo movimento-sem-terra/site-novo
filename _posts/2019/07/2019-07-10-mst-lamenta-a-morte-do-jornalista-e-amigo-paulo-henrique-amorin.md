@@ -39,7 +39,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-07-10 at 11.36.54.jpeg" height="700" src="//farm66.staticflickr.com/65535/48251536461_60797ce90c_b.jpg" width="700" />
-<figcaption>Paulo Henrique Amorim durante visita ao Armaz&eacute;m do Campo-SP</figcaption>
+<figcaption><em>Paulo Henrique Amorim durante visita ao Armaz&eacute;m do Campo-SP</em></figcaption>
 </figure>
 </div>
 
@@ -47,11 +47,16 @@ releated_posts:
 <br />
 <em>Da P&aacute;gina do MST </em></p>
 
+<p>Morreu na madrugada desta quarta-feira (10) o jornalista Paulo Henrique Amorin, no Rio de Janeiro. Com 58 anos de carreira, Amorim passou por quase todos grandes ve&iacute;culos e canais de m&iacute;dia do Brasil. Cr&iacute;tico &agrave; imprensa hegem&ocirc;nica, o jornalista era conhecido por sua posi&ccedil;&atilde;o pol&iacute;tica combativa. Confira a nota de pesar do MST:<br />
+&nbsp;</p>
+
+<p style="text-align: center;"><strong>NOTA DE PESAR</strong></p>
+
 <p><br />
-<br />
-&Eacute; com profundo pesar e consterna&ccedil;&atilde;o que o MST vem a p&uacute;blico lamentar o falecimento do jornalista e amigo Paulo Henrique Amorim que morreu na manh&atilde; desta quarta-feira, 10, aos 77 anos.<br />
-<br />
-Dono de um personalidade &uacute;nica, Amorim&nbsp; tratou seu of&iacute;cio com o respeito e compromisso dos raros.</p>
+<span style="text-align: center;">&Eacute; com profundo pesar e consterna&ccedil;&atilde;o que o MST vem a p&uacute;blico lamentar o falecimento do jornalista e amigo Paulo Henrique Amorim que morreu na manh&atilde; desta quarta-feira, 10, aos 77 anos.</span></p>
+
+<p><br style="text-align: center;" />
+<span style="text-align: center;">Dono de um personalidade &uacute;nica, Amorim&nbsp; tratou seu of&iacute;cio com o respeito e compromisso dos raros.</span></p>
 
 <p><br />
 Era formado em Sociologia e Pol&iacute;tica, mas atuava como jornalista desde 1961. Escrevia&nbsp;para diversos jornais e revistas do pa&iacute;s, e era propriet&aacute;rio do blog &#39;Conversa Afiada&#39;.</p>
@@ -59,9 +64,8 @@ Era formado em Sociologia e Pol&iacute;tica, mas atuava como jornalista desde 19
 <p><br />
 Por onde passou, deixou um legado marcado pela seriedade e pela compet&ecirc;ncia.</p>
 
-<p>&nbsp;</p>
-
-<p>Manteve-se firme e corajoso, ciente de suas convic&ccedil;&otilde;es mesmo quando tentavam calar sua voz.</p>
+<p><br />
+Manteve-se firme e corajoso, ciente de suas convic&ccedil;&otilde;es mesmo quando tentavam calar sua voz.</p>
 
 <p><br />
 O jornalismo perde um de seus melhores, Amorim nos deixa em um momento em que a verdade tem sido diariamente atacada, em que a conspira&ccedil;&atilde;o fere a constitucionalidade a transpar&ecirc;ncia, diante disso, sua aus&ecirc;ncia torna-se ainda mais grave.</p>
