@@ -17,6 +17,20 @@ files:
     small: //farm66.staticflickr.com/65535/48267263391_0dae0803fc_n.jpg
     title: img353-1068x642.jpg
     $$hashKey: 06B
+  - link: //farm66.staticflickr.com/65535/48267281901_804f85eeeb_b.jpg
+    original: //farm66.staticflickr.com/65535/48267281901_17f9525e5e_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48267281901_804f85eeeb_t.jpg
+    medium: //farm66.staticflickr.com/65535/48267281901_804f85eeeb_z.jpg
+    small: //farm66.staticflickr.com/65535/48267281901_804f85eeeb_n.jpg
+    title: 28726579117_ae0f113695_b.jpg
+    $$hashKey: 0BO
+  - link: //farm66.staticflickr.com/65535/48267290076_e5f07635f4_b.jpg
+    original: //farm66.staticflickr.com/65535/48267290076_c8baaccffc_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48267290076_e5f07635f4_t.jpg
+    medium: //farm66.staticflickr.com/65535/48267290076_e5f07635f4_z.jpg
+    small: //farm66.staticflickr.com/65535/48267290076_e5f07635f4_n.jpg
+    title: WhatsApp Image 2019-07-12 at 15.59.03.jpeg
+    $$hashKey: 0BR
 created_date: "2019-07-12T16:32:01-03:00"
 published: true
 releated_posts:
@@ -34,10 +48,15 @@ releated_posts:
   - _posts/2019/02/2019-02-21-sem-terrinhas-na-construcao-do-movimento.md
 
 ---
-<p><br />
-&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="28726579117_ae0f113695_b.jpg" height="467" src="//farm66.staticflickr.com/65535/48267281901_804f85eeeb_b.jpg" width="700" />
+<figcaption>&nbsp;1&ordm; Encontro Nacional&nbsp;das Crian&ccedil;as&nbsp;Sem Terrinha&nbsp;</figcaption>
+</figure>
+</div>
 
-<p><em>Da P&aacute;gina do MST&nbsp;</em></p>
+<p><br />
+<br />
+<em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
@@ -58,9 +77,13 @@ Para Marcia Ramos, do setor de educa&ccedil;&atilde;o do MST, a revista Sem Terr
 Em luta pela sobreviv&ecirc;ncia, por direitos e por dignidade. As crian&ccedil;as precisam ver, ouvir e, principalmente,&nbsp;serem ouvidas.&nbsp;Ramos ressalta que a participa&ccedil;&atilde;o&nbsp;no processo de constru&ccedil;&atilde;o da pr&oacute;pria subjetividade &eacute; fundamental porque a partir do momento que a crian&ccedil;a se reconhece nesse lugar ela ter&aacute; condi&ccedil;&otilde;es de contribuir de maneira ativa na constru&ccedil;&atilde;o de uma sociedade melhor.</p>
 
 <p><br />
-&quot;Dentro dessa perspectiva, a revista Sem Terrinha se transforma em um dispositivo de&nbsp;dialogo e de articula&ccedil;&atilde;o popular porque ela exerce um papel &iacute;mpar dentro da comunidade. &Eacute; um potencial fundamental para pensar o lugar da crian&ccedil;a e do adolescente em seus espa&ccedil;os para que elas possam discutir como est&atilde;o seus direitos eu seu lugar na transforma&ccedil;&atilde;o social, completa&quot;.&nbsp;&nbsp;</p>
+&quot;Dentro dessa perspectiva, a revista Sem Terrinha se transforma em um dispositivo de&nbsp;dialogo e de articula&ccedil;&atilde;o popular porque ela exerce um papel &iacute;mpar dentro da comunidade. &Eacute; um potencial fundamental para pensar o lugar da crian&ccedil;a e do adolescente em seus espa&ccedil;os para que elas possam discutir como est&atilde;o seus direitos eu seu lugar na transforma&ccedil;&atilde;o social, completa&quot;.&nbsp;&nbsp;<br />
+&nbsp;</p>
+
+<p style="text-align:center"><img alt="WhatsApp Image 2019-07-12 at 15.59.03.jpeg" height="454" src="//farm66.staticflickr.com/65535/48267290076_e5f07635f4_b.jpg" width="300" /></p>
 
 <p><br />
+<br />
 <strong>Defesa das crian&ccedil;as, dos adolescentes e&nbsp;da educa&ccedil;&atilde;o</strong></p>
 
 <p><br />
