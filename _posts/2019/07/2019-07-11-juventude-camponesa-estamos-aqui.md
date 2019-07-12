@@ -174,5 +174,5 @@ Durante os cinco dias de atividade, o Conune pretende ainda garantir de maneira 
 Assista <a href="https://youtu.be/QmwhEyLkhco">aqui</a>&nbsp;o v&iacute;deo &ldquo;An&aacute;lise de Conjuntura&rdquo; com Jessy Dayane, do Levante Popular da Juventude e Vice-Presidenta da UNE, sobre os principais desafios apontados para realiza&ccedil;&atilde;o do Conune.<br />
 <br />
 <br />
-<em>*Com a colabora&ccedil;&atilde;o&nbsp;de Hony Rinquison, do setor de comunica&ccedil;&atilde;o do MST<br />
+<em>*Com a colabora&ccedil;&atilde;o&nbsp;de Hony Riquison, do setor de comunica&ccedil;&atilde;o do MST<br />
 **Editado por Maura Silva</em></p>
