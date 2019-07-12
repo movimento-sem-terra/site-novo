@@ -51,6 +51,7 @@ releated_posts:
   - _posts/2019/06/2019-06-26-inscricoes-aberta-licenciatura-em-educacao-do-campo-em-roraima.md
   - _posts/2019/06/2019-06-10-reforma-agraria-e-educacao-rumo-ao-14j.md
   - _posts/2019/06/2019-06-05-encontro-de-educadores-da-regiao-sul-dialoga-sobre-agroecologia-e-literatura-nas-escolas.md
+section: cover
 
 ---
 <div style="text-align:center">
