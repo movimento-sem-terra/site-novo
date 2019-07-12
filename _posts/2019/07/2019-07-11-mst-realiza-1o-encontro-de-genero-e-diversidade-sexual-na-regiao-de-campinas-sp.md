@@ -67,7 +67,7 @@ Da P&aacute;gina do MST</em><br />
 
 <p>Para Tassi Barreto, da dire&ccedil;&atilde;o estadual do MST, o encontro contribui tamb&eacute;m para fortalecer a organiza&ccedil;&atilde;o das mulheres e sujeitos LGBT, criar autoestima e construir solidariedade e a&ccedil;&otilde;es para desconstruir o patriarcado e combater as viol&ecirc;ncias que ceifam vidas dia ap&oacute;s dia.</p>
 
-<p>&ldquo;Todo dia sofremos com o machismo e com a sociedade&nbsp;de classe. Hoje aprendemos que n&atilde;o &eacute; uma coisa individual; isso &eacute; estrutural do capitalismo, portanto, teremos que fazer a transforma&ccedil;&atilde;o de forma coletiva, inclusive com os homens.&rdquo;<br />
+<p>&ldquo;Todo dia sofremos com o machismo e com a opress&atilde;o de classe. Hoje aprendemos que n&atilde;o &eacute; uma coisa individual; isso &eacute; estrutural do capitalismo, portanto, teremos que fazer a transforma&ccedil;&atilde;o de forma coletiva, inclusive com os homens.&rdquo;<br />
 &nbsp;</p>
 
 <p>O 1&deg; Encontro de G&ecirc;nero e Diversidade Sexual da regi&atilde;o de Campinas &eacute; parte das atividades organizativas preparat&oacute;rias para o Encontro Estadual de G&ecirc;nero e Diversidade Sexual de S&atilde;o Paulo, previsto para acontecer em setembro e reunir&aacute; mulheres e LGBTs Sem Terra de todo o estado.<br />
