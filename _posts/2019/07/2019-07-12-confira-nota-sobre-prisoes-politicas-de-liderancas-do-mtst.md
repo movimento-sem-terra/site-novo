@@ -1,11 +1,10 @@
 ---
 date: "2019-07-12T11:41:56-03:00"
 tags:
-  - tag: mtst
   - tag: nota
   - tag: lutas
   - tag: solidariedade
-title: Confira nota sobre prisões politicas de lideranças do MTST
+title: Confira nota sobre prisões politicas de membros de movimentos por moradia
 support_line: Episódio mostra confusões e entendimentos enviesados da lei e da justiça contra movimentos sociais
 images_hd: //farm66.staticflickr.com/65535/48265783607_13859596e7_b.jpg
 menu: lutas e mobilizações
@@ -24,7 +23,6 @@ published: true
 releated_posts:
   - _posts/2019/04/2019-04-04-msr-se-solidariza-a-erica-malunguinho-e-repudia-fala-transfobica-de-deputado-do-psl.md
   - _posts/2019/01/2019-01-21-movimentos-populares-rechacam-posicao-do-brasil-sobre-a-venezuela.md
-  - _posts/2019/02/2019-02-12-cedeca-publica-nota-de-apoio-ao-mst.md
   - _posts/2019/02/2019-02-13-mndh-divulga-nota-em-solidariedade-ao-mst.md
 
 ---
