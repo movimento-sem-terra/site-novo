@@ -73,7 +73,8 @@ O n&atilde;o comparecimento de representantes da empresa Copelmi e da Funda&cced
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Participantes carregavam cartazes se opondo à implantação do projeto da Copelmi. Foto - Catiana de Medeiros..jpg" height="189" src="//farm66.staticflickr.com/65535/48266666331_c8957316ab_b.jpg" width="300" />
-<figcaption>i</figcaption>
+<figcaption><em>Manifesta&ccedil;&otilde;es apontam que a Mina Gua&iacute;ba &eacute; um<br />
+projeto destruidor. Foto - Catiana de Medeiros.</em></figcaption>
 </figure>
 
 <p>In&uacute;meras manifesta&ccedil;&otilde;es ressaltaram que o Rio Grande do Sul e o Brasil est&atilde;o indo na contram&atilde;o do cen&aacute;rio mundial. Diversos pa&iacute;ses est&atilde;o fechando minas de carv&atilde;o para apostar em energia limpa e renov&aacute;vel. Enquanto isso, o estado ga&uacute;cho, onde h&aacute; previs&atilde;o de serem instalados pelo menos 166 projetos, se coloca como a nova fronteira mineral para empresas transnacionais. A investida da Copelmi trata da maior mina a c&eacute;u aberto do pa&iacute;s &ndash; previs&atilde;o &eacute; extrair 166 milh&otilde;es de toneladas de carv&atilde;o e ainda implantar um polo carboqu&iacute;mico.</p>
