@@ -33,6 +33,7 @@ releated_posts:
   - _posts/2018/11/2018-11-02-pedido-de-solidariedade-fascismo-mostra-as-garras-e-ameaca-despejo-de-450-familias.md
   - _posts/2018/11/2018-11-07-acampamento-gabriel-pimenta-tambem-pode-ser-despejado-em-minas-gerais.md
   - _posts/2018/11/2018-11-08-apos-20-anos-de-producao-juiz-manda-despejar-as-familias-do-acampamento-quilombo-campo-grande.md
+section: featured-news
 
 ---
 <div style="text-align:center">
