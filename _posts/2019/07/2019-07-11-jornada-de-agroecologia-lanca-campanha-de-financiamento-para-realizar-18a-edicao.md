@@ -54,6 +54,7 @@ releated_posts:
   - _posts/2019/05/2019-05-08-escola-sem-terra-conquista-14-medalhas-e-3-trofeus-jogos-escolares.md
   - _posts/2019/05/2019-05-31-de-abraao-ao-mst-a-luta-pela-terra-segue.md
   - _posts/2019/06/2019-06-22-assentamento-inaugura-centro-cultural-em-comemoracao-de-20-anos.md
+section: featured-news
 
 ---
 <div style="text-align:center">
