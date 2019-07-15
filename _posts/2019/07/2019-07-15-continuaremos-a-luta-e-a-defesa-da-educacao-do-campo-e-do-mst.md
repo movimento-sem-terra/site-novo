@@ -6,7 +6,7 @@ tags:
   - tag: lutas-e-mobilizações
   - tag: espírito-santo
 title: "“Continuaremos a luta e a defesa da Educação do Campo e do MST”\n"
-support_line: E constroem Manifesto de educandas e educandos das escolas de assentamentos no Espírito Santo
+support_line: Manifesto de educandas e educandos das escolas de assentamentos no Espírito Santo
 images_hd: //farm66.staticflickr.com/65535/48292034751_91b23b2432_b.jpg
 menu: lutas e mobilizações
 layout: post
