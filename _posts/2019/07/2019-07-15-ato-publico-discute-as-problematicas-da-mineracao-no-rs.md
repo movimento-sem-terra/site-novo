@@ -39,7 +39,7 @@ files:
     title: Ato público contra as mineradoras crimes ambientais na Feicoop. Foto - Catiana de Medeiros.jpg
     $$hashKey: 15E
 created_date: "2019-07-15T18:32:46-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/04/2019-04-22-a-ameaca-do-carvao-quatro-milhoes-de-gauchos-sob-risco.md
   - _posts/2019/06/2019-06-10-sem-audiencia-e-sem-noticia-porto-alegre-sofrera-impacto-com-a-chegada-do-carvao.md
@@ -48,9 +48,14 @@ releated_posts:
   - _posts/2019/04/2019-04-22-no-sul-projetos-de-mineracao-ameacam-88-assentamentos.md
 
 ---
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Ato público contra as mineradoras crimes ambientais na Feicoop. Foto - Catiana de Medeiros.jpg" height="437" src="//farm66.staticflickr.com/65535/48293561907_274682f60f_b.jpg" width="700" />
+<figcaption><em>Ato p&uacute;blico contra as mineradoras crimes ambientais na Feicoop. Foto - Catiana de Medeiros</em></figcaption>
+</figure>
+</div>
 
-<p><em>Por Maiara Rauber<br />
+<p><br />
+<em>Por Maiara Rauber<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
@@ -67,7 +72,8 @@ O debate realizado durante a 26&ordf; Feira Internacional do Cooperativismo, em 
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Mapa de projetos da mineração no Rio Grande do Sul - Produzido pelo MAM.jpg" height="212" src="//farm66.staticflickr.com/65535/48293561757_523c61f426_b.jpg" width="300" />
-<figcaption><img alt="Michele Ramos, militante do MAM. Foto - Catiana de Medeiros.jpg" src="//farm66.staticflickr.com/65535/48293561902_1e35902894_b.jpg" /></figcaption>
+<figcaption><em>Mapa de projetos da minera&ccedil;&atilde;o no<br />
+Rio Grande do Sul - Produzido pelo MAM</em></figcaption>
 </figure>
 
 <p>Al&eacute;m desses quatro projetos em destaque, existem em seus entornos mais de 160 outros projetos de minera&ccedil;&atilde;o no sul do estado. &ldquo;Isso significa, que s&atilde;o &aacute;reas para expans&atilde;o futura de minera&ccedil;&atilde;o. O RS que praticamente n&atilde;o tem uma tradi&ccedil;&atilde;o em minera&ccedil;&atilde;o poderia passar nos pr&oacute;ximos dez, vinte anos, a ser o terceiro ou quarto estado minerador&rdquo;, alertou. Outro ponto posto para reflex&atilde;o foi a compara&ccedil;&atilde;o com os acontecimentos de Minas Gerais. Michele apontou que l&aacute; h&aacute; pouca fiscaliza&ccedil;&atilde;o nesses tipos de empreendimentos. &ldquo;Depois do rompimento de Brumadinho, especificamente no estado todo de MG, existiam cerca de cinco fiscais para supervisionar cerca de 300 barragens do estado&rdquo;, reafirmou.</p>
@@ -89,8 +95,14 @@ O debate realizado durante a 26&ordf; Feira Internacional do Cooperativismo, em 
 
 <p>H&eacute;lio Sato, assessor t&eacute;cnico da C&aacute;ritas Brasileira - Regional MG e representante de atingidas e atingidos pela Barragem de Fund&atilde;o, em Mariana (MG), foi o &uacute;ltimo a dar o seu depoimento no ato p&uacute;blico. Ele reproduziu um relato de Ang&eacute;lica Peixoto, atingida da cidade de Paracatu. &ldquo;Aprender a ser atingida, tarefa dif&iacute;cil a minha, tarefa dif&iacute;cil a nossa, aprender a ser atingidos. Como assim? Precisamos nos comportar como atingidos? Tem comportamento pr&oacute;prio para atingido? N&atilde;o sei. Sei que precisamos aprender, viver e conviver com essa realidade. Realidade que me faz pensar em direitos, reuni&otilde;es, assembleias, acordos, funda&ccedil;&atilde;o, reconstru&ccedil;&atilde;o, reassentamento. Conceito que me deixa confusa. Confus&atilde;o que dificulta a compreens&atilde;o&quot;.</p>
 
-<p><br />
-E continuou, &quot;A apreens&atilde;o de palavras simples, pedir, exigir, negociar, lutar, certo ou errado. Choro por isso. Me sinto atingida, por n&atilde;o saber ser atingida. Perdi lar, objetos afetivos, sentimento de pertencimento, acolhimento, conquistas. N&atilde;o sei, como atingida, contabilizar minhas perdas ou o que ainda posso perder. Como calcular a extens&atilde;o de tudo o que aconteceu? A lama de rejeito nos atingiu e junto com ela veio a morte metida a gan&acirc;ncia, o preconceito e a disc&oacute;rdia. Medo. Medo do futuro, medo de n&atilde;o reconhecer a nova Paracatu, medo de n&atilde;o conhecer a nova Paracatu, medo da n&atilde;o reconstru&ccedil;&atilde;o de Paracatu, medo de perder amigos no caminho, medo de sentir medo. Tem curso para aprender a ser atingido? N&atilde;o, mas o tempo vai ensinando. Nesse processo de reflex&atilde;o, percebo, compreendo e aceito que n&atilde;o h&aacute; um modelo. Nem &eacute; externo a mim. Vou aprender sendo o que sou. Atingida pela lama da barragem de Fund&atilde;o. &Eacute; necess&aacute;rio assumir o lugar de protagonista, de sujeito de direitos. Mas n&atilde;o sozinha, e sim com a minha gente. Gente que sente e que passa pelo mesmo aflito. Vou aprender pois estou no caminho&rdquo;.&nbsp;</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Hélio Sato, assessor técnico da Cáritas Brasileira - Regional MG; -Foto - Catiana de Medeiros.jpg" height="192" src="//farm66.staticflickr.com/65535/48293561857_3e7513be5c_b.jpg" width="300" />
+<figcaption><em>H&eacute;lio Sato, assessor t&eacute;cnico da C&aacute;ritas<br />
+Brasileira/Regional MG; Foto: Catiana de Medeiros</em></figcaption>
+</figure>
+
+<p>E continuou, &quot;A apreens&atilde;o de palavras simples, pedir, exigir, negociar, lutar, certo ou errado. Choro por isso. Me sinto atingida, por n&atilde;o saber ser atingida. Perdi lar, objetos afetivos, sentimento de pertencimento, acolhimento, conquistas. N&atilde;o sei, como atingida, contabilizar minhas perdas ou o que ainda posso perder. Como calcular a extens&atilde;o de tudo o que aconteceu? A lama de rejeito nos atingiu e junto com ela veio a morte metida a gan&acirc;ncia, o preconceito e a disc&oacute;rdia. Medo. Medo do futuro, medo de n&atilde;o reconhecer a nova Paracatu, medo de n&atilde;o conhecer a nova Paracatu, medo da n&atilde;o reconstru&ccedil;&atilde;o de Paracatu, medo de perder amigos no caminho, medo de sentir medo. Tem curso para aprender a ser atingido? N&atilde;o, mas o tempo vai ensinando. Nesse processo de reflex&atilde;o, percebo, compreendo e aceito que n&atilde;o h&aacute; um modelo. Nem &eacute; externo a mim. Vou aprender sendo o que sou. Atingida pela lama da barragem de Fund&atilde;o. &Eacute; necess&aacute;rio assumir o lugar de protagonista, de sujeito de direitos. Mas n&atilde;o sozinha, e sim com a minha gente. Gente que sente e que passa pelo mesmo aflito. Vou aprender pois estou no caminho&rdquo;.&nbsp;</p>
 
 <p><br />
 Sato afirmou que nenhuma barragem hoje &eacute; segura. Ele ainda evidenciou o padr&atilde;o das mineradoras em suas falas. &ldquo;Sempre com o discurso de distribui&ccedil;&atilde;o de renda, emprego. Mas na verdade elas buscam o lucro&rdquo;, frisou. O assessor t&eacute;cnico tamb&eacute;m enfatizou o simbolismo carregado pelas barragens. De acordo com Sato, as barragens se apropriam dos territ&oacute;rios, dos povos tradicionais, dos assentamentos rurais. &ldquo;Nenhuma comunidade est&aacute; livre de ser tirada a for&ccedil;a&rdquo;, concluiu.<br />
