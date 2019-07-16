@@ -79,8 +79,7 @@ releated_posts:
 Da p&aacute;gina do MST</em></p>
 
 <p><br />
-​Localizado no munic&iacute;pio de Nova Uni&atilde;o, na regi&atilde;o metropolitana de Belo Horizonte (MG), o assentamento Ho Chi Minh &eacute; a sexta &aacute;rea de reforma agr&aacute;ria a receber o projeto no estado, e produzir&aacute; mudas para semear e alimentar a agroecologia no solo brasileiro. O ato pol&iacute;tico-cultural de inaugura&ccedil;&atilde;o do viveiro de mudas que ocorreu na sexta-feira dia 12 de julho, contou com interven&ccedil;&otilde;es art&iacute;sticas e culturais, al&eacute;m de shows, e aberto ao p&uacute;blico. O projeto pretende reflorestar 135 hectares de terra ao longo dos pr&oacute;ximos tr&ecirc;s anos.<br />
-&nbsp;</p>
+​Localizado no munic&iacute;pio de Nova Uni&atilde;o, na regi&atilde;o metropolitana de Belo Horizonte (MG), o assentamento Ho Chi Minh &eacute; a sexta &aacute;rea de reforma agr&aacute;ria a receber o projeto no estado, e produzir&aacute; mudas para semear e alimentar a agroecologia no solo brasileiro. O ato pol&iacute;tico-cultural de inaugura&ccedil;&atilde;o do viveiro de mudas que ocorreu na sexta-feira dia 12 de julho, contou com interven&ccedil;&otilde;es art&iacute;sticas e culturais, al&eacute;m de shows, e aberto ao p&uacute;blico. O projeto pretende reflorestar 135 hectares de terra s&oacute; na regi&atilde;o metropolitana de Belo Horizonte, ao longo dos pr&oacute;ximos tr&ecirc;s anos.</p>
 
 <figure class="image" style="float:left"><img alt="_DSC0128.jpg" height="200" src="//farm66.staticflickr.com/65535/48291564976_7ca9ac1f6f_b.jpg" width="300" />
 <figcaption></figcaption>
