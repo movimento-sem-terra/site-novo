@@ -46,7 +46,10 @@ files:
     $$hashKey: 04N
 created_date: "2019-07-16T14:34:34-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/10/2018-10-10-ze-pinto-um-cantador-da-agroecologia.md
+  - _posts/2019/03/2019-03-29-a-musica-como-ferramenta-para-eternizar-momentos-da-historia.md
+  - _posts/2019/07/2019-07-03-mst-realiza-2o-curso-de-musica-popular-com-foco-em-batucada-e-violao-no-parana.md
 
 ---
 <div style="text-align:center">
@@ -108,8 +111,8 @@ A m&uacute;sica toca com mais facilidade o cora&ccedil;&atilde;o das pessoas e a
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Cantoria no Armazém do Campo (BH) com músicas que marcaram história. Foto: Dowglas Silva.jpg" height="203" src="//farm66.staticflickr.com/65535/48300401682_c8ca51698e_b.jpg" width="300" />
-<figcaption>Cantoria no Armaz&eacute;m do Campo (BH) com<br />
-m&uacute;sicas que marcaram hist&oacute;ria. Foto: Dowglas Silva</figcaption>
+<figcaption><em>Cantoria no Armaz&eacute;m do Campo (BH) com<br />
+m&uacute;sicas que marcaram hist&oacute;ria. Foto: Dowglas Silva</em></figcaption>
 </figure>
 
 <p>No documento, os Sem Terra tamb&eacute;m explicam que a musicalidade se conecta com a mem&oacute;ria das lutas de resist&ecirc;ncia anteriores, celebra a fartura da colheita e canta a realidade na terra, na rela&ccedil;&atilde;o com a natureza e a espiritualidade do povo. Atuando como &ldquo;um dos elementos principais para a constru&ccedil;&atilde;o da identidade Sem Terra e da unidade do Movimento dentro da diversidade cultural regional&rdquo;.</p>
@@ -161,10 +164,10 @@ Por um peda&ccedil;o de ch&atilde;o!..&rdquo;</em><br />
 &nbsp;</p>
 
 <p><a href="https://www.youtube.com/watch?v=BnNiT-TCufY">Ordem e progresso</a>*<br />
-&ldquo;Esse &eacute; o nosso pa&iacute;s<br />
+&ldquo;<em>Esse &eacute; o nosso pa&iacute;s<br />
 Essa &eacute; a nossa bandeira<br />
 &Eacute; por amor a essa p&aacute;tria Brasil<br />
-Que a gente segue em fileira...&rdquo;<br />
+Que a gente segue em fileira...&rdquo;</em><br />
 (Compositor: Z&eacute; Pinto. Int&eacute;rprete: Beth Carvalho, 1997)<br />
 *&nbsp;<a href="http://www.mst.org.br/2017/12/07/festival-da-reforma-agraria.html">Outra vers&atilde;o com Z&eacute; Pinto</a><br />
 *&nbsp;<a href="https://www.brasildefato.com.br/2017/10/03/ze-pinto-e-por-amor-a-essa-patria-brasil-que-a-gente-segue-em-fileira/">Veja mais sobre a hist&oacute;ria e m&uacute;sica do cantador popular, Z&eacute; Pinto</a>&nbsp;<br />
