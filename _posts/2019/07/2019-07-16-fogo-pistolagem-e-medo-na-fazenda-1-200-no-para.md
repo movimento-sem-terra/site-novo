@@ -91,30 +91,46 @@ Sob o sol escaldante do ver&atilde;o amaz&ocirc;nico, o agricultor Cl&aacute;udi
 
 <p>No m&ecirc;s anterior ao inc&ecirc;ndio, a ocupa&ccedil;&atilde;o havia sido palco de outro ataque. Na noite de 14 de abril, duas motos com quatro pistoleiros dispararam contra as resid&ecirc;ncias de outras quatro fam&iacute;lias. A curta dist&acirc;ncia, sobre janelas e portas, o calibre dos proj&eacute;teis eram os mesmos: espingarda .20, que dispara dezenas de balas de chumbo. &ldquo;Eles atiraram aqui na minha janela. Me deu muito medo. Tirei a minha mulher com os meus meninos daqui&rdquo;, diz o agricultor Ant&ocirc;nio Alves Barbosa, de 56 anos. Os disparos ocorreram na janela logo acima da cama em que os tr&ecirc;s netos dormem. Ant&ocirc;nio vive com o filho, a nora, a esposa e os tr&ecirc;s netos em dois c&ocirc;modos em um lote de quatro alqueires. A energia el&eacute;trica vem de uma bateria de carro que liga apenas uma l&acirc;mpada. &ldquo;Eu tava aqui dentro de casa, dormindo. Meus tr&ecirc;s meninos [netos] dormindo na cama de l&aacute; [abaixo da janela alvo dos tiros] e eu mais a mulher dormindo em outra cama. Acordei pelos tiros e os cachorros que come&ccedil;aram a latir. Eles atiraram, montaram na moto e fugiram. Eram umas duas motos e acho que umas quatro pessoas. Quando eu sa&iacute; de casa, escutei eles pipocando [atirando] a casa do meu vizinho&rdquo;, relembra Ant&ocirc;nio. O agricultor diz que tirou os familiares da casa por um tempo e s&oacute; n&atilde;o a abandonou completamente por receio de que ela tamb&eacute;m fosse queimada.</p>
 
-<figure class="image" style="float:left"><img alt="BdF [73].jpg" height="191" src="//farm66.staticflickr.com/65535/48300485127_936b05c096_b.jpg" width="300" />
-<figcaption>Agricultor Ant&ocirc;nio Alves e os netos. Casa onde moram foi alvo de disparos de espingarda em abril deste ano.(Foto: Jos&eacute; C&iacute;cero)</figcaption>
-</figure>
-
 <p><br />
 <strong>Fazendeiro nega, pol&iacute;cia investiga</strong></p>
 
-<p>Os moradores da ocupa&ccedil;&atilde;o e a Comiss&atilde;o Pastoral da Terra (CPT), &oacute;rg&atilde;o ligado &agrave; Igreja Cat&oacute;lica que acompanha conflitos agr&aacute;rios no pa&iacute;s, suspeitam que tanto o epis&oacute;dio dos tiros quanto os inc&ecirc;ndios estejam ligados ao fazendeiro capixaba Eut&iacute;mio Lippaus, dono da fazenda ocupada. &ldquo;A suspeita do atentado recai sobre o fazendeiro Eut&iacute;mio Lippaus, que &eacute; o &uacute;nico que tem interesse em intimidar as fam&iacute;lias que continuam na luta pela cria&ccedil;&atilde;o de assentamento, tendo em vista que ocupam &aacute;rea p&uacute;blica reivindicada judicialmente pelo INCRA&rdquo;, diz um trecho de nota divulgada em abril pela CPT de Tucum&atilde;, munic&iacute;pio vizinho a Ouril&acirc;ndia.</p>
+<figure class="image" style="float:left"><img alt="BdF [73].jpg" height="191" src="//farm66.staticflickr.com/65535/48300485127_936b05c096_b.jpg" width="300" />
+<figcaption><em>Agricultor Ant&ocirc;nio Alves e os netos.<br />
+Foto: Jos&eacute; C&iacute;cero</em></figcaption>
+</figure>
 
-<p>Os atentados ocorreram 11 dias antes de uma audi&ecirc;ncia judicial de desocupa&ccedil;&atilde;o da fazenda 1.200, realizada em decorr&ecirc;ncia da a&ccedil;&atilde;o de reintegra&ccedil;&atilde;o de posse que Lippaus move contra os sem-terra.<br />
-<br />
-Para os moradores, os epis&oacute;dios violentos ocorreram para pressionar a sa&iacute;da dos ocupantes. Na audi&ecirc;ncia, foi estipulado que os sem-terra deixassem o local at&eacute; 10 de junho, mas a defesa dos ocupantes conseguiu suspender a decis&atilde;o no Tribunal de Justi&ccedil;a paraense.</p>
+<p>Os moradores da ocupa&ccedil;&atilde;o e a Comiss&atilde;o Pastoral da Terra (CPT), &oacute;rg&atilde;o ligado &agrave; Igreja Cat&oacute;lica que acompanha conflitos agr&aacute;rios no pa&iacute;s, suspeitam que tanto o epis&oacute;dio dos tiros quanto os inc&ecirc;ndios estejam ligados ao fazendeiro capixaba Eut&iacute;mio Lippaus, dono da fazenda ocupada. &ldquo;A suspeita do atentado recai sobre o fazendeiro Eut&iacute;mio Lippaus, que &eacute; o &uacute;nico que tem interesse em intimidar as fam&iacute;lias que continuam na luta pela cria&ccedil;&atilde;o de assentamento, tendo em vista que ocupam &aacute;rea p&uacute;blica reivindicada judicialmente pelo INCRA&rdquo;, diz um trecho de nota divulgada em abril pela CPT de Tucum&atilde;, munic&iacute;pio vizinho a Ouril&acirc;ndia.<br />
+&nbsp;</p>
+
+<p>Os atentados ocorreram 11 dias antes de uma audi&ecirc;ncia judicial de desocupa&ccedil;&atilde;o da fazenda 1.200, realizada em decorr&ecirc;ncia da a&ccedil;&atilde;o de reintegra&ccedil;&atilde;o de posse que Lippaus move contra os sem-terra.</p>
+
+<p><br />
+Para os moradores, os epis&oacute;dios violentos ocorreram para pressionar a sa&iacute;da dos ocupantes. Na audi&ecirc;ncia, foi estipulado que os sem-terra deixassem o local at&eacute; 10 de junho, mas a defesa dos ocupantes conseguiu suspender a decis&atilde;o no Tribunal de Justi&ccedil;a paraense.<br />
+&nbsp;</p>
 
 <p>Procurado pela P&uacute;blica, Lippaus negou qualquer participa&ccedil;&atilde;o nos epis&oacute;dios. &ldquo;Aqui n&atilde;o se faz isso, n&atilde;o, isso &eacute; hist&oacute;ria desses bandidos. O dono aqui nunca fez disparo contra bandido nenhum, nunca queimou um barraco de um bandido sequer. Eles inventam tudo&rdquo;, afirmou. &ldquo;Aqui nunca ningu&eacute;m mexeu num barraco desse povo&rdquo;, garantiu o pecuarista.</p>
 
 <p>&nbsp;</p>
 
-<p>H&aacute; um inqu&eacute;rito aberto na Deca (Delegacia de Conflitos Agr&aacute;rios), em Reden&ccedil;&atilde;o (PA), para apurar os epis&oacute;dios. &ldquo;Nos dirigimos at&eacute; o local e constatamos que os crimes ocorreram. Em s&iacute;ntese: barracos queimados, que n&oacute;s temos entendido aqui como dano qualificado. Tamb&eacute;m constatamos os disparos com arma de fogo: alguns transfixaram janelas e portas. O procedimento tramita em sigilo, mas toda a resposta tem sido dada com imparcialidade, isen&ccedil;&atilde;o e toda a energia poss&iacute;vel&rdquo;, afirma o delegado titular da Deca, Antonio Moror&oacute; J&uacute;nior.</p>
+<figure class="image" style="float:right"><img alt="BdF [74].jpg" height="168" src="//farm66.staticflickr.com/65535/48300485162_b639988ece_b.jpg" width="300" />
+<figcaption><em>Restos de casa queimada na ocupa&ccedil;&atilde;o<br />
+da fazenda 1.200. Foto: Jos&eacute; Cicero</em></figcaption>
+</figure>
+
+<p>H&aacute; um inqu&eacute;rito aberto na Deca (Delegacia de Conflitos Agr&aacute;rios), em Reden&ccedil;&atilde;o (PA), para apurar os epis&oacute;dios. &ldquo;Nos dirigimos at&eacute; o local e constatamos que os crimes ocorreram. Em s&iacute;ntese: barracos queimados, que n&oacute;s temos entendido aqui como dano qualificado. Tamb&eacute;m constatamos os disparos com arma de fogo: alguns transfixaram janelas e portas. O procedimento tramita em sigilo, mas toda a resposta tem sido dada com imparcialidade, isen&ccedil;&atilde;o e toda a energia poss&iacute;vel&rdquo;, afirma o delegado titular da Deca, Antonio Moror&oacute; J&uacute;nior.<br />
+&nbsp;</p>
 
 <p>Com a suspens&atilde;o da reintegra&ccedil;&atilde;o de posse, os ocupantes temem novos epis&oacute;dios de viol&ecirc;ncia. &ldquo;Assim que o juiz marcou a audi&ecirc;ncia de desocupa&ccedil;&atilde;o, as fam&iacute;lias sofreram um ataque, algumas casas foram alvejadas. Depois teve a audi&ecirc;ncia, ficou estipulado um prazo de 45 dias corridos para que as fam&iacute;lias sa&iacute;ssem voluntariamente da &aacute;rea. Uma semana depois da audi&ecirc;ncia, as fam&iacute;lias sofreram esse novo ataque: tiros contra as casas e os barracos queimados. A gente observa que cada vez que h&aacute; um revigoramento da liminar de reintegra&ccedil;&atilde;o de posse h&aacute; um novo ataque violento&rdquo;, afirma Jamila Pereira de Carvalho, que integra o grupo de advogados da CPT que acompanha o caso.</p>
 
+<p><br />
+<strong>De infra&ccedil;&atilde;o ambiental a den&uacute;ncia de trabalho escravo</strong></p>
+
 <p>&nbsp;</p>
 
-<p class="ckeditor-subtitle">De infra&ccedil;&atilde;o ambiental a den&uacute;ncia de trabalho escravo</p>
+<figure class="image" style="float:left"><img alt="BdF [75].jpg" height="200" src="//farm66.staticflickr.com/65535/48300485147_6d7c236a50_b.jpg" width="300" />
+<figcaption><em>Restos de um arm&aacute;rio carbonizado na ocupa&ccedil;&atilde;o d<br />
+a fazenda 1.200. Foto: Jos&eacute; C&iacute;cero</em></figcaption>
+</figure>
 
 <p>A primeira ocupa&ccedil;&atilde;o da fazenda 1.200 ocorreu em 2006. &Agrave; &eacute;poca, Eut&iacute;mio Lippaus enfrentava problemas na esfera trabalhista e ambiental por causa de uma fiscaliza&ccedil;&atilde;o m&oacute;vel feita em 2002 pelo Minist&eacute;rio P&uacute;blico do Trabalho (MPT), Minist&eacute;rio do Trabalho e Pol&iacute;cia Federal, que resgatou 23 trabalhadores em condi&ccedil;&atilde;o an&aacute;loga &agrave; de escravos, segundo a avalia&ccedil;&atilde;o dos &oacute;rg&atilde;os. Ouvidos pelo MPT, os trabalhadores contaram que um intermediador os recrutou em um hotel de Xinguara, munic&iacute;pio do sul do Par&aacute;, para trabalhar na fazenda de Lippaus.</p>
 
@@ -126,9 +142,12 @@ Para os moradores, os epis&oacute;dios violentos ocorreram para pressionar a sa&
 
 <p>Apesar do TAC, o MPF denunciou criminalmente o fazendeiro por trabalho escravo, mas Lippaus foi absolvido da acusa&ccedil;&atilde;o na Justi&ccedil;a Federal tanto na primeira quanto na segunda inst&acirc;ncia. Na decis&atilde;o de primeira inst&acirc;ncia, o juiz Marcelo Honorato, da 1&ordf; Vara de Marab&aacute;, afirmou que &ldquo;mesmo reconhecido que os trabalhadores estavam em condi&ccedil;&otilde;es degradantes de labor, ao tempo dos fatos, era at&iacute;pica a conduta do r&eacute;u, porque n&atilde;o existente a priva&ccedil;&atilde;o de liberdade e o completo estado de sujei&ccedil;&atilde;o, que s&atilde;o marcas consagradoras da escravid&atilde;o&rdquo;. Na segunda inst&acirc;ncia, os ju&iacute;zes da quarta turma do Tribunal Regional Federal da 1&ordf; Regi&atilde;o entenderam que faltavam provas para a tipifica&ccedil;&atilde;o de trabalho escravo. Lippaus foi, por&eacute;m, condenado por falsificar documentos trabalhistas dos agricultores da fazenda, mas a pena havia prescrito.</p>
 
-<p>&nbsp;</p>
+<p><br />
+<strong>Morosidade na Justi&ccedil;a, viol&ecirc;ncia na fazenda</strong></p>
 
-<p class="ckeditor-subtitle">Morosidade na Justi&ccedil;a, viol&ecirc;ncia na fazenda</p>
+<figure class="image" style="float:right"><img alt="BdF [76].jpg" height="200" src="//farm66.staticflickr.com/65535/48300377456_c612759123_b.jpg" width="300" />
+<figcaption>Casa de um dos ocupantes da fazenda 1.200.&nbsp;</figcaption>
+</figure>
 
 <p>Raimundo Paulino da Silva Filho, uma das lideran&ccedil;as da ocupa&ccedil;&atilde;o afirmou &agrave; P&uacute;blica que, diante dos problemas trabalhistas e ambientais e do pedido de penhora do im&oacute;vel, o fazendeiro Eut&iacute;mio Lippaus convidou integrantes da Fetagri a ocupar a sua fazenda. Segundo Paulino, a manobra serviria para pleitear a compra da fazenda pelo Incra, o que renderia um valor em dinheiro maior do que se a fazenda fosse a leil&atilde;o. Lippaus nega o epis&oacute;dio. &ldquo;Isso aqui nunca houve, meu companheiro. Nunca se convidou ningu&eacute;m aqui para ocupar &aacute;rea pra fazer bandalheira. Aqui se trabalha honestamente&rdquo;, disse &agrave; reportagem.</p>
 
@@ -148,7 +167,7 @@ Para os moradores, os epis&oacute;dios violentos ocorreram para pressionar a sa&
 
 <p>A demora para a resolu&ccedil;&atilde;o da quest&atilde;o da posse da terra gera um terreno prop&iacute;cio para a viol&ecirc;ncia. &ldquo;Quando voc&ecirc; passa esse longo per&iacute;odo sem o poder estatal se manifestar, isso fomenta o conflito. Na minha opini&atilde;o, &eacute; indiscut&iacute;vel&rdquo;, afirma Antonio Moror&oacute; J&uacute;nior, delegado da Deca.</p>
 
-<p>Despejo, nova ocupa&ccedil;&atilde;o e o presente insol&uacute;vel</p>
+<p><strong>Despejo, nova ocupa&ccedil;&atilde;o e o presente insol&uacute;vel</strong></p>
 
 <p>Os processos judiciais envolvendo a posse da fazenda 1.200 j&aacute; sofreram diversas idas e vindas, mas a manifesta&ccedil;&atilde;o do Incra em 2014 mudou completamente a situa&ccedil;&atilde;o do caso.</p>
 
@@ -166,7 +185,7 @@ Para os moradores, os epis&oacute;dios violentos ocorreram para pressionar a sa&
 
 <p>O processo na esfera estadual, que havia sido sobrestado (paralisado) at&eacute; que houvesse decis&atilde;o em esfera federal, voltou a andar. Em julho de 2018, o juiz Jun Kubota revigorou a liminar de reintegra&ccedil;&atilde;o de posse &ndash; opondo-se &agrave; manifesta&ccedil;&atilde;o de outro &oacute;rg&atilde;o, o Minist&eacute;rio P&uacute;blico Estadual, que tamb&eacute;m se alinhou aos &oacute;rg&atilde;os de terra e ao MPF, concluindo que a &aacute;rea era p&uacute;blica e n&atilde;o era cab&iacute;vel a reintegra&ccedil;&atilde;o de posse a favor do fazendeiro. Em uma audi&ecirc;ncia em 25 de abril deste ano, ficou estipulada a desocupa&ccedil;&atilde;o volunt&aacute;ria da &aacute;rea pelos sem-terra. O prazo se encerraria no &uacute;ltimo dia 10 de junho, mas cinco dias antes a desembargadora Gleide Pereira de Moura determinou a suspens&atilde;o da decis&atilde;o. &ldquo;Levando em considera&ccedil;&atilde;o que a quest&atilde;o vertente se trata de posse de &aacute;rea rural, que vem sendo ocupada por diversas fam&iacute;lias h&aacute; v&aacute;rios anos e que ainda &eacute; objeto de a&ccedil;&atilde;o de reintegra&ccedil;&atilde;o de posse ajuizada pelo Incra [&hellip;] e por se tratar de situa&ccedil;&atilde;o delicada, que pode ensejar conflitos e viol&ecirc;ncia, por ora, entendo prudente conceder o pedido suspensivo almejado&rdquo;, escreveu a magistrada. Ap&oacute;s os tiros e os inc&ecirc;ndios criminosos ocorridos entre abril e maio deste ano, os sem-terra vivem sob o medo constante de novos ataques.</p>
 
-<p>Outro lado</p>
+<p><strong>Outro lado</strong></p>
 
 <p>A reportagem da P&uacute;blica procurou o atual advogado de Eut&iacute;mio Lippaus, Joel Carvalho Lobato, por WhatsApp e telefone pedindo uma entrevista, que n&atilde;o ocorreu. Em r&aacute;pido contato pelo telefone, Lobato afirmou que n&atilde;o havia conflito recente na fazenda. &ldquo;L&aacute; teve situa&ccedil;&atilde;o forjada por sem-terra, eles forjando situa&ccedil;&atilde;o para criar factoide. &Eacute; um senhor de 82 anos de idade, que vive sozinho numa casa&rdquo;, disse. &ldquo;Ele nunca deu um tiro em ningu&eacute;m, tem 13 anos que ele convive com essa situa&ccedil;&atilde;o de invas&atilde;o. N&atilde;o teve conflito nenhum. O que tem todos os dias &eacute; o rebanho bovino dele sendo atirado&rdquo;, diz, tamb&eacute;m referindo-se a outros epis&oacute;dios de viol&ecirc;ncia que ele atribui aos sem-terra. O advogado pediu que as perguntas da reportagem fossem enviadas por escrito, mas n&atilde;o houve resposta &agrave;s quest&otilde;es at&eacute; a publica&ccedil;&atilde;o.</p>
 
