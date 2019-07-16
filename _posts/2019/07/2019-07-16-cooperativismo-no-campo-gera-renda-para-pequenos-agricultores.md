@@ -25,6 +25,7 @@ releated_posts:
   - _posts/2019/07/2019-07-05-a-luta-e-pela-terra-e-uma-luta-coletiva-diante-disso-todas-as-conquistas-tambem-sao.md
   - _posts/2019/04/2019-04-08-cooperativa-do-mst-entregam-mais-de-90-toneladas-de-alimentos-as-escolas.md
   - _posts/2019/05/2019-05-06-cooperativa-do-mst-de-agroecologia-completa-25-anos.md
+label: special-stories
 
 ---
 <div style="text-align:center">
@@ -102,3 +103,5 @@ A Cooperativa de Sucos Monte V&ecirc;neto &eacute; destaque no cultivo de uvas, 
 &nbsp;</p>
 
 <p><em>*Edi&ccedil;&atilde;o: Guilherme Henrique/ Brasil de Fato</em></p>
+
+<p>&nbsp;</p>
