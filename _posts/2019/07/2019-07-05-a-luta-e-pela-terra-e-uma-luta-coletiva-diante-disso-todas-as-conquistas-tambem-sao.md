@@ -201,7 +201,10 @@ A Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Cascata &ndash;&nbsp
 
 <p>&nbsp;</p>
 
-<p><em>* Com informa&ccedil;&otilde;es do setor de produ&ccedil;&atilde;o do MST&nbsp;</em></p>
+<p><em>* Com informa&ccedil;&otilde;es do setor de produ&ccedil;&atilde;o do MST&nbsp;<br />
+<br />
+** Esse &eacute; o primeiro&nbsp;texto de uma s&eacute;rie sobre&nbsp;cooperativismo como bandeira na luta pela Reforma Agr&aacute;ria Popular​</em></p>
 <style type="text/css">@page { margin: 2cm }
 		p { margin-bottom: 0.25cm; line-height: 115% }
 </style>
+<div>&nbsp;</div>
