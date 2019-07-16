@@ -4,7 +4,7 @@ tags:
   - tag: une
   - tag: brasília
 title: “Não é com cortes na educação que vamos conseguir superar os desafios”
-support_line: "Élida Elena, diretora de mulheres na UNE, fala sobre o atual momento político durante a 57ª edição da Conune"
+support_line: "Élida Elena, diretora de movimentos sociais da UNE, fala sobre o atual momento político durante a 57ª edição da Conune"
 menu: lutas e mobilizações
 label: interviews
 sector: education
@@ -59,7 +59,7 @@ Da P&aacute;gina do MST</em></p>
 Entre mesas, palestras e elei&ccedil;&otilde;es, o Congresso &eacute; um espa&ccedil;o em que os estudantes do Brasil inteiro param para entender os desafios e rumos da UNE, como sujeito importante na luta pela educa&ccedil;&atilde;o. Esse ano, a edi&ccedil;&atilde;o do encontro ocorre em Bras&iacute;lia e conta com cerca de 15 mil participantes.</p>
 
 <p><br />
-Em entrevista para P&aacute;gina do MST, &Eacute;lida Elena, diretora de mulheres da UNE, aponta os avan&ccedil;os e desafios que os estudantes possuem na luta pela educa&ccedil;&atilde;o p&uacute;blica e de qualidade.&nbsp;</p>
+Em entrevista para P&aacute;gina do MST, &Eacute;lida Elena, diretora de movimentos sociais da UNE, aponta os avan&ccedil;os e desafios que os estudantes possuem na luta pela educa&ccedil;&atilde;o p&uacute;blica e de qualidade.&nbsp;</p>
 
 <p><br />
 Acompanhe:</p>
