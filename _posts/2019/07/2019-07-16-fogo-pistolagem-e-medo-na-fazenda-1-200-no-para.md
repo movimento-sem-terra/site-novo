@@ -56,11 +56,12 @@ releated_posts: []
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="BdF [72].jpg" height="420" src="//farm66.staticflickr.com/65535/48300370706_06de053c73_b.jpg" width="700" />
-<figcaption>i</figcaption>
+<figcaption><em>O agricultor Cl&aacute;udio Ara&uacute;jo da Silva: &ldquo;Hoje s&oacute; ficou as cinzas e as fotos com as lembran&ccedil;as&rdquo; / Jos&eacute; C&iacute;cero da Silva</em></figcaption>
 </figure>
 </div>
 
-<p><em>Por&nbsp;Ciro Barros<br />
+<p><br />
+<em>Por&nbsp;Ciro Barros<br />
 Da&nbsp;P&uacute;blica</em></p>
 
 <p><br />
@@ -89,6 +90,10 @@ Sob o sol escaldante do ver&atilde;o amaz&ocirc;nico, o agricultor Cl&aacute;udi
 &nbsp;</p>
 
 <p>No m&ecirc;s anterior ao inc&ecirc;ndio, a ocupa&ccedil;&atilde;o havia sido palco de outro ataque. Na noite de 14 de abril, duas motos com quatro pistoleiros dispararam contra as resid&ecirc;ncias de outras quatro fam&iacute;lias. A curta dist&acirc;ncia, sobre janelas e portas, o calibre dos proj&eacute;teis eram os mesmos: espingarda .20, que dispara dezenas de balas de chumbo. &ldquo;Eles atiraram aqui na minha janela. Me deu muito medo. Tirei a minha mulher com os meus meninos daqui&rdquo;, diz o agricultor Ant&ocirc;nio Alves Barbosa, de 56 anos. Os disparos ocorreram na janela logo acima da cama em que os tr&ecirc;s netos dormem. Ant&ocirc;nio vive com o filho, a nora, a esposa e os tr&ecirc;s netos em dois c&ocirc;modos em um lote de quatro alqueires. A energia el&eacute;trica vem de uma bateria de carro que liga apenas uma l&acirc;mpada. &ldquo;Eu tava aqui dentro de casa, dormindo. Meus tr&ecirc;s meninos [netos] dormindo na cama de l&aacute; [abaixo da janela alvo dos tiros] e eu mais a mulher dormindo em outra cama. Acordei pelos tiros e os cachorros que come&ccedil;aram a latir. Eles atiraram, montaram na moto e fugiram. Eram umas duas motos e acho que umas quatro pessoas. Quando eu sa&iacute; de casa, escutei eles pipocando [atirando] a casa do meu vizinho&rdquo;, relembra Ant&ocirc;nio. O agricultor diz que tirou os familiares da casa por um tempo e s&oacute; n&atilde;o a abandonou completamente por receio de que ela tamb&eacute;m fosse queimada.</p>
+
+<figure class="image" style="float:left"><img alt="BdF [73].jpg" height="191" src="//farm66.staticflickr.com/65535/48300485127_936b05c096_b.jpg" width="300" />
+<figcaption>Agricultor Ant&ocirc;nio Alves e os netos. Casa onde moram foi alvo de disparos de espingarda em abril deste ano.(Foto: Jos&eacute; C&iacute;cero)</figcaption>
+</figure>
 
 <p><br />
 <strong>Fazendeiro nega, pol&iacute;cia investiga</strong></p>
