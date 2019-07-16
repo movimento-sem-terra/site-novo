@@ -100,7 +100,8 @@ A Cooperativa de Sucos Monte V&ecirc;neto &eacute; destaque no cultivo de uvas, 
 &nbsp;</p>
 
 <p>Na cooperativa ga&uacute;cha todos os produtores re&uacute;nem-se em uma assembleia geral anualmente, que aprova um conselho deliberativo com sete membros. Esse conselho deliberativo re&uacute;ne-se com maior frequ&ecirc;ncia e estabelece uma diretoria que acompanha diretamente a venda e produ&ccedil;&atilde;o da Monte V&ecirc;neto.&nbsp;<br />
-&nbsp;</p>
+**Esse &eacute; o terceiro texto de uma s&eacute;rie sobre&nbsp;cooperativismo como bandeira na luta pela Reforma Agr&aacute;ria Popular;&nbsp;<br />
+Leia o primeiro&nbsp;&nbsp;<a href="http://www.mst.org.br/2019/07/05/a-luta-e-pela-terra-e-uma-luta-coletiva-diante-disso-todas-as-conquistas-tambem-sao.html">&ldquo;A luta pela terra &eacute; uma luta coletiva e, diante disso, as conquistas tamb&eacute;m s&atilde;o&quot;</a></p>
 
-<p>**Esse &eacute; o terceiro texto de uma s&eacute;rie sobre&nbsp;cooperativismo como bandeira na luta pela Reforma Agr&aacute;ria Popular;&nbsp;<br />
+<p>**Esse &eacute; o segundo texto de uma s&eacute;rie sobre&nbsp;cooperativismo como bandeira na luta pela Reforma Agr&aacute;ria Popular;&nbsp;<br />
 Leia o primeiro&nbsp;&nbsp;<a href="http://www.mst.org.br/2019/07/05/a-luta-e-pela-terra-e-uma-luta-coletiva-diante-disso-todas-as-conquistas-tambem-sao.html">&ldquo;A luta pela terra &eacute; uma luta coletiva e, diante disso, as conquistas tamb&eacute;m s&atilde;o&quot;</a></p>
