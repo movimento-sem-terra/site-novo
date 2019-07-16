@@ -114,7 +114,9 @@ A m&uacute;sica toca com mais facilidade o cora&ccedil;&atilde;o das pessoas e a
 m&uacute;sicas que marcaram hist&oacute;ria. Foto: Dowglas Silva</em></figcaption>
 </figure>
 
-<p>No documento, os Sem Terra tamb&eacute;m explicam que a musicalidade se conecta com a mem&oacute;ria das lutas de resist&ecirc;ncia anteriores, celebra a fartura da colheita e canta a realidade na terra, na rela&ccedil;&atilde;o com a natureza e a espiritualidade do povo. Atuando como &ldquo;um dos elementos principais para a constru&ccedil;&atilde;o da identidade Sem Terra e da unidade do Movimento dentro da diversidade cultural regional&rdquo;.</p>
+<p>No documento, os Sem Terra tamb&eacute;m explicam que a musicalidade se conecta com a mem&oacute;ria das lutas de resist&ecirc;ncia anteriores, celebra a fartura da colheita e canta a realidade na terra, na rela&ccedil;&atilde;o com a natureza e a espiritualidade do povo.&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <p>Na hist&oacute;ria de luta do MST, a cultura e a arte est&atilde;o presentes nas ocupa&ccedil;&otilde;es de terras, assembleias, cursos, encontros, conquistas, mobiliza&ccedil;&atilde;o, etc. E atrav&eacute;s da m&uacute;sica, do teatro e da m&iacute;stica, relembram mem&oacute;rias, constroem identidade e desenvolvem novas rela&ccedil;&otilde;es humanas.&nbsp;<br />
 &nbsp;</p>
@@ -124,7 +126,9 @@ m&uacute;sicas que marcaram hist&oacute;ria. Foto: Dowglas Silva</em></figcaptio
 
 <p>&ldquo;Quando o movimento surgiu, que pensava de um determinada maneira, as m&uacute;sicas v&atilde;o estar traduzindo aquele pensamento e sem d&uacute;vida, isso fica mais f&aacute;cil das pessoas compreenderem. Como o passar do tempo, as m&uacute;sicas tamb&eacute;m v&atilde;o mudando e trazendo v&aacute;rias quest&otilde;es atuais&rdquo;, completa.&nbsp;</p>
 
-<p>Ou&ccedil;a algumas m&uacute;sicas que marcam a hist&oacute;ria do MST (clique no nome da m&uacute;sica e ou&ccedil;a):<br />
+<p>&nbsp;</p>
+
+<p><strong>Algumas m&uacute;sicas que marcam a hist&oacute;ria do MST (clique no nome da m&uacute;sica e ou&ccedil;a):</strong><br />
 &nbsp;</p>
 
 <p><a href="https://www.ouvirmusica.com.br/zilo-e-zalo/975200/"><em>A grande esperan&ccedil;a</em></a> (ou A classe roceira)&nbsp;<br />
