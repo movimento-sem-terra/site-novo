@@ -75,11 +75,10 @@ Da P&aacute;gina do MST</em><br />
 <p>Um exemplo disso s&atilde;o as can&ccedil;&otilde;es de resist&ecirc;ncia &agrave; Ditadura Militar no Brasil, presentes nas mem&oacute;rias desse per&iacute;odo. Quem nunca ouviu a can&ccedil;&atilde;o Pra n&atilde;o dizer que n&atilde;o falei das flores, de Geraldo Vandr&eacute;, gravada em 1968? Ela foi censurada ap&oacute;s se tornar refer&ecirc;ncia de resist&ecirc;ncia do movimento civil e estudantil &agrave; ditadura.<br />
 &nbsp;</p>
 
-<p style="text-align: right;"><em>&ldquo;...Vem, vamos embora, que esperar n&atilde;o &eacute; saber,<br />
-Quem sabe faz a hora, n&atilde;o espera acontecer...&rdquo;<br />
-(https://www.letras.mus.br/geraldo-vandre/46168/)</em></p>
-
-<p><br />
+<p style="text-align: right;"><em><a href="https://www.letras.mus.br/geraldo-vandre/46168/">&ldquo;...Vem, vamos embora, que esperar n&atilde;o &eacute; saber,<br />
+Quem sabe faz a hora, n&atilde;o espera acontecer...&rdquo;</a></em><br />
+<br />
+<br />
 A m&uacute;sica toca com mais facilidade o cora&ccedil;&atilde;o das pessoas e ajuda na compreens&atilde;o de algumas ideias, e por isso tamb&eacute;m se torna um instrumento importante na tradu&ccedil;&atilde;o e express&atilde;o simb&oacute;lica de luta do MST, estando presente no Movimento desde o seu surgimento at&eacute; os dias atuais.<br />
 &nbsp;</p>
 
