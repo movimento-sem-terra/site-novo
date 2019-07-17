@@ -47,6 +47,10 @@ releated_posts:
   - _posts/2018/12/2018-12-06-ceara-sedia-encontro-encontro-nacional-das-cooperativas-de-reforma-agraria.md
   - _posts/2018/12/2018-12-07-ms-recebe-a-2a-edicao-da-feira-estadual-da-reforma-agraria.md
   - _posts/2018/12/2018-12-09-vale-do-mucuri-leva-30-anos-de-producao-para-festival-estadual.md
+  - _posts/2018/12/2018-12-12-trabalhadores-rurais-contam-sobre-a-importancia-da-feira-estadual-da-reforma-agraria-no-rio.md
+  - _posts/2018/12/2018-12-12-muito-alem-do-mel-o-alto-paranaiba-e-marco-na-resistencia-sem-terra-em-minas-gerais.md
+  - _posts/2018/12/2018-12-12-armazem-do-campo-completa-primeiro-aniversario-em-belo-horizonte-mg.md
+label: special-stories
 
 ---
 <p>&nbsp;</p>
@@ -201,9 +205,8 @@ A Cooperativa de Produ&ccedil;&atilde;o Agropecu&aacute;ria Cascata &ndash;&nbsp
 
 <p>&nbsp;</p>
 
-<p><em>* Com informa&ccedil;&otilde;es do setor de produ&ccedil;&atilde;o do MST&nbsp;<br />
-<br />
-** Esse &eacute; o primeiro&nbsp;texto de uma s&eacute;rie sobre&nbsp;cooperativismo como bandeira na luta pela Reforma Agr&aacute;ria Popular​</em></p>
+<p><em>*Com informa&ccedil;&otilde;es do Setor de Produ&ccedil;&atilde;o do MST&nbsp;<br />
+**Esse &eacute; o primeiro&nbsp;texto de uma s&eacute;rie sobre&nbsp;cooperativismo como bandeira na luta pela Reforma Agr&aacute;ria Popular​</em></p>
 <style type="text/css">@page { margin: 2cm }
 		p { margin-bottom: 0.25cm; line-height: 115% }
 </style>
