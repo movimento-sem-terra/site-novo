@@ -51,11 +51,12 @@ releated_posts:
   - _posts/2019/06/2019-06-24-nao-se-faz-agroecologia-em-vaso-de-apartamento-diz-kelli-mafort-do-mst.md
   - _posts/2019/07/2019-07-12-justica-nega-reintegracao-de-posse-do-acampamento-quilombo-campo-grande.md
   - _posts/2019/06/2019-06-11-festa-da-reforma-agraria-no-parana-22-anos-de-lutas-e-conquistas.md
+label: special-stories
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="45654162922_66d70694b2_b.jpg" height="466" src="//farm66.staticflickr.com/65535/48302023962_8c395c3a3c_b.jpg" width="700" />
-<figcaption>Foto Dowglas Silva&nbsp;</figcaption>
+<figcaption><em>Foto: Dowglas Silva&nbsp;</em></figcaption>
 </figure>
 </div>
 
@@ -81,7 +82,7 @@ Em seguida, a ocupa&ccedil;&atilde;o da fazenda Cap&atilde;o Quente resultou no 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="photo4985819310073161918.jpg" height="466" src="//farm66.staticflickr.com/65535/48301892691_03cec5716e_b.jpg" width="700" />
-<figcaption>Foto Dowglas Silva&nbsp;</figcaption>
+<figcaption><em>Foto: Dowglas Silva&nbsp;</em></figcaption>
 </figure>
 </div>
 
@@ -95,7 +96,7 @@ A linha produtiva do caf&eacute; come&ccedil;ou de maneira tradicional, visando 
 &ldquo;Ficamos pouco mais de um ano nesse processo de regulariza&ccedil;&atilde;o de registros de produ&ccedil;&atilde;o junto aos &oacute;rg&atilde;os competentes. Em 2014 conseguimos o registro da cooperativa. Demos entrada nos pap&eacute;is com 25 s&oacute;cios fundadores. Hoje temos 500 fam&iacute;lias envolvidas&rdquo;, explica Sebasti&atilde;o Melia Marques, um dos respons&aacute;veis pelas primeiras ocupa&ccedil;&otilde;es e um dos s&oacute;cios-fundadores da Camponesa.</p>
 
 <figure class="image"><img alt="photo4985819310073161910.jpg" height="466" src="//farm66.staticflickr.com/65535/48301892666_660238c121_b.jpg" width="700" />
-<figcaption>Foto Dowglas Silva&nbsp;</figcaption>
+<figcaption><em>Foto: Dowglas Silva&nbsp;</em></figcaption>
 </figure>
 
 <p><br />
@@ -109,7 +110,7 @@ Atualmente s&atilde;o 26 fam&iacute;lias assentadas com a certificado de produ&c
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="photo4986023028961945725.jpg" height="466" src="//farm66.staticflickr.com/65535/48301892601_ae4b495c83_b.jpg" width="700" />
-<figcaption>Foto Dowglas Silva&nbsp;</figcaption>
+<figcaption><em>Foto: Dowglas Silva&nbsp;</em></figcaption>
 </figure>
 </div>
 
@@ -124,7 +125,7 @@ Roberto Carlos explica que a tend&ecirc;ncia &eacute; ampliar os n&uacute;meros 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-07-11 at 13.00.38.jpeg" height="524" src="//farm66.staticflickr.com/65535/48301906556_b0be7aceea_b.jpg" width="700" />
-<figcaption>Geanini Hackbardt</figcaption>
+<figcaption><em>Foto: Geanini Hackbardt</em></figcaption>
 </figure>
 </div>
 
