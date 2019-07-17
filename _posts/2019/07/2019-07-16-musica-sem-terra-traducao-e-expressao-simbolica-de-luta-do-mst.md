@@ -57,6 +57,7 @@ releated_posts:
   - _posts/2018/10/2018-10-10-ze-pinto-um-cantador-da-agroecologia.md
   - _posts/2019/03/2019-03-29-a-musica-como-ferramenta-para-eternizar-momentos-da-historia.md
   - _posts/2019/07/2019-07-03-mst-realiza-2o-curso-de-musica-popular-com-foco-em-batucada-e-violao-no-parana.md
+section: featured-news
 
 ---
 <div style="text-align:center">
@@ -82,7 +83,7 @@ Da P&aacute;gina do MST</em><br />
 <p>Um exemplo disso s&atilde;o as can&ccedil;&otilde;es de resist&ecirc;ncia &agrave; Ditadura Militar no Brasil, presentes nas mem&oacute;rias desse per&iacute;odo. Quem nunca ouviu a can&ccedil;&atilde;o Pra n&atilde;o dizer que n&atilde;o falei das flores, de Geraldo Vandr&eacute;, gravada em 1968? Ela foi censurada ap&oacute;s se tornar refer&ecirc;ncia de resist&ecirc;ncia do movimento civil e estudantil &agrave; ditadura.<br />
 &nbsp;</p>
 
-<p style="text-align: right;"><em><a href="https://www.letras.mus.br/geraldo-vandre/46168/">&ldquo;...Vem, vamos embora, que esperar n&atilde;o &eacute; saber,<br />
+<p><em><a href="https://www.letras.mus.br/geraldo-vandre/46168/">&ldquo;...Vem, vamos embora, que esperar n&atilde;o &eacute; saber,<br />
 Quem sabe faz a hora, n&atilde;o espera acontecer...&rdquo;</a></em><br />
 <br />
 <br />
@@ -107,12 +108,11 @@ A m&uacute;sica toca com mais facilidade o cora&ccedil;&atilde;o das pessoas e a
 <p>O m&uacute;sico &eacute; um dos exemplos mais recentes entre os v&aacute;rios compositores e compositoras, cantadores e cantadoras, que a luta pela Reforma Agr&aacute;ria revelou ao longo do seu processo hist&oacute;rico. Agregando atualmente a luta por novas rela&ccedil;&otilde;es de g&ecirc;nero, contra o racismo e a LGBTfobia, o genoc&iacute;dio ind&iacute;gena, entre outras demandas dos trabalhadores e trabalhadoras do campo.<br />
 &nbsp;</p>
 
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-07-16 at 19.22.06.jpeg" height="350" src="//farm66.staticflickr.com/65535/48306910452_3215879d93_b.jpg" width="350" />
-<figcaption><em>Raumi canta e toca desde a inf&acirc;ncia nos acampamentos<br />
-e assentamentos do MST. Foto: Arquivo pessoal</em></figcaption>
+<figure class="image" style="float:right"><img alt="WhatsApp Image 2019-07-16 at 19.22.06.jpeg" height="300" src="//farm66.staticflickr.com/65535/48306910452_3215879d93_b.jpg" width="300" />
+<figcaption><em>Raumi canta e toca desde a inf&acirc;ncia nos<br />
+acampamentos e assentamentos do MST.<br />
+Foto: Arquivo pessoal</em></figcaption>
 </figure>
-</div>
 
 <p>&nbsp;</p>
 
@@ -124,11 +124,6 @@ e assentamentos do MST. Foto: Arquivo pessoal</em></figcaption>
 
 <p>&ldquo;A m&uacute;sica sempre foi uma das formas simb&oacute;licas mais cultivadas pelos Sem Terra para expressarem sua cultura, sua rela&ccedil;&atilde;o com a natureza, a luta, a vida. Simbolismo e beleza que ajudaram a criar nossa identidade, fortalecer nossa unidade e nos deram for&ccedil;a pol&iacute;tica e social&rdquo;, aponta o documento do semin&aacute;rio nacional &ldquo;A M&uacute;sica no MST&rdquo;, realizado em mar&ccedil;o deste ano.<br />
 &nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="Cantoria no Armazém do Campo (BH) com músicas que marcaram história. Foto: Dowglas Silva.jpg" height="203" src="//farm66.staticflickr.com/65535/48300401682_c8ca51698e_b.jpg" width="300" />
-<figcaption><em>Cantoria no Armaz&eacute;m do Campo (BH) com<br />
-m&uacute;sicas que marcaram hist&oacute;ria. Foto: Dowglas Silva</em></figcaption>
-</figure>
 
 <p>No documento, os Sem Terra tamb&eacute;m explicam que a musicalidade se conecta com a mem&oacute;ria das lutas de resist&ecirc;ncia anteriores, celebra a fartura da colheita e canta a realidade na terra, na rela&ccedil;&atilde;o com a natureza e a espiritualidade do povo.&nbsp;</p>
 
@@ -142,7 +137,12 @@ m&uacute;sicas que marcaram hist&oacute;ria. Foto: Dowglas Silva</em></figcaptio
 
 <p>&ldquo;Quando o movimento surgiu, que pensava de um determinada maneira, as m&uacute;sicas v&atilde;o estar traduzindo aquele pensamento e sem d&uacute;vida, isso fica mais f&aacute;cil das pessoas compreenderem. Como o passar do tempo, as m&uacute;sicas tamb&eacute;m v&atilde;o mudando e trazendo v&aacute;rias quest&otilde;es atuais&rdquo;, completa.&nbsp;</p>
 
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Cantoria no Armazém do Campo (BH) com músicas que marcaram história. Foto: Dowglas Silva.jpg" height="407" src="//farm66.staticflickr.com/65535/48300401682_c8ca51698e_b.jpg" width="600" />
+<figcaption><em>Cantoria no Armaz&eacute;m do Campo (BH) com<br />
+m&uacute;sicas que marcaram hist&oacute;ria. Foto: Dowglas Silva</em></figcaption>
+</figure>
+</div>
 
 <p><strong>Algumas m&uacute;sicas que marcam a hist&oacute;ria do MST (clique no nome da m&uacute;sica e ou&ccedil;a):</strong><br />
 &nbsp;</p>
