@@ -52,10 +52,9 @@ releated_posts:
 </div>
 
 <p><br />
-anelson Ferreira</p>
-
-<p><em>Por </em>J<br />
-<em>Da P&aacute;gina do MST</em></p>
+<em>Por Janelson Ferreira</em><br />
+<em>Da P&aacute;gina do MST</em><br />
+&nbsp;</p>
 
 <p>Na tarde desta ter&ccedil;a-feira (16), a 2&ordm; C&acirc;mara C&iacute;vel do Tribunal de Justi&ccedil;a de Goi&aacute;s cancelou, por tr&ecirc;s votos a zero, a senten&ccedil;a que ordenava a reintegra&ccedil;&atilde;o de posse do acampamento Leonir Orback. A &aacute;rea est&aacute; localizada na fazenda Ouro Branco, munic&iacute;pio de Santa Helena de Goi&aacute;s (GO), a 200 Km da capital Goi&acirc;nia. Atualmente, o acampamento conta com cerca de 600 fam&iacute;lias. O processo teve votos dos desembargadores Carlos Alberto Fran&ccedil;a, que era o relator, Reinaldo Ferreira e F&aacute;bio Crist&oacute;v&atilde;o de Campos Faria.&nbsp;<br />
 &nbsp;</p>
