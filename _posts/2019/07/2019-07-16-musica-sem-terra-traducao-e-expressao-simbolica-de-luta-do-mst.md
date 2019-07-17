@@ -3,7 +3,7 @@ date: "2019-07-16T14:08:43-03:00"
 tags:
   - tag: música
   - tag: sem-terra
-title: "Música Sem Terra: tradução e expressão simbólica de luta do MST"
+title: "Música Sem Terra: tradução e expressão simbólica da luta"
 support_line: A música confere sentido à luta pela terra e difunde o projeto de Reforma Agrária Popular
 images_hd: //farm66.staticflickr.com/65535/48300302816_d35bfd7f71_b.jpg
 menu: "educação, cultura e comunicação"
@@ -44,6 +44,13 @@ files:
     small: //farm66.staticflickr.com/65535/48300302826_2278155424_n.jpg
     title: Curso de música.jpg
     $$hashKey: 04N
+  - link: //farm66.staticflickr.com/65535/48306910452_3215879d93_b.jpg
+    original: //farm66.staticflickr.com/65535/48306910452_e8845f1ee0_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48306910452_3215879d93_t.jpg
+    medium: //farm66.staticflickr.com/65535/48306910452_3215879d93_z.jpg
+    small: //farm66.staticflickr.com/65535/48306910452_3215879d93_n.jpg
+    title: WhatsApp Image 2019-07-16 at 19.22.06.jpeg
+    $$hashKey: 08C
 created_date: "2019-07-16T14:34:34-03:00"
 published: true
 releated_posts:
@@ -99,6 +106,15 @@ A m&uacute;sica toca com mais facilidade o cora&ccedil;&atilde;o das pessoas e a
 
 <p>O m&uacute;sico &eacute; um dos exemplos mais recentes entre os v&aacute;rios compositores e compositoras, cantadores e cantadoras, que a luta pela Reforma Agr&aacute;ria revelou ao longo do seu processo hist&oacute;rico. Agregando atualmente a luta por novas rela&ccedil;&otilde;es de g&ecirc;nero, contra o racismo e a LGBTfobia, o genoc&iacute;dio ind&iacute;gena, entre outras demandas dos trabalhadores e trabalhadoras do campo.<br />
 &nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-07-16 at 19.22.06.jpeg" height="350" src="//farm66.staticflickr.com/65535/48306910452_3215879d93_b.jpg" width="350" />
+<figcaption><em>Raumi canta e toca desde a inf&acirc;ncia nos acampamentos<br />
+e assentamentos do MST. Foto: Arquivo pessoal</em></figcaption>
+</figure>
+</div>
+
+<p>&nbsp;</p>
 
 <p><strong>M&uacute;sica cria nova sociabilidade</strong><br />
 &nbsp;</p>
