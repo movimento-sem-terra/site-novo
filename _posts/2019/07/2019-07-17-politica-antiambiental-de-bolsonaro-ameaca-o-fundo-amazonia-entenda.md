@@ -19,7 +19,14 @@ files:
     $$hashKey: 085
 created_date: "2019-07-17T11:21:06-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2019/01/2019-01-28-nos-encontramos-na-eminencia-de-um-verdadeiro-etnocidio-das-populacoes-indigenas-no-brasil-denuncia-professor-da-unifesspa.md
+  - _posts/2019/04/2019-04-02-pistoleiros-atacam-familias-acampadas-e-lideranca-e-assassinada-no-amazonas.md
+  - _posts/2019/06/2019-06-11-seminario-da-repam-juventude-promove-discussoes-sobre-ecologia.md
+  - _posts/2019/01/2019-01-31-em-mg-acampamentos-do-mst-sao-afetados-pelo-rompimento-da-barragem-de-brumadinho.md
+  - _posts/2019/02/2019-02-06-no-rio-de-janeiro-acampamento-do-mst-participa-de-projeto-e-vira-unidade-pedagogica-em-agroecologia.md
+  - _posts/2019/02/2019-02-06-saber-tradicional-em-risco-conheca-a-historia-de-dona-ana-atingida-pela-barragem-de-brumadinho.md
+  - _posts/2019/02/2019-02-07-na-bahia-agroecologia-e-o-caminho-percorrido-para-transformacao-social.md
 
 ---
 <div style="text-align:center">
