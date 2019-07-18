@@ -40,18 +40,16 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Na manh&atilde; desta quinta-feira (18), as fam&iacute;lias Sem Terra do acampamento Marielle Vive!, localizado em Valinhos, no interior de S&atilde;o Paulo, realizavam uma manifesta&ccedil;&atilde;o com entrega de alimentos pelo fornecimento de &aacute;gua no acampamento, quando no&nbsp;no quil&ocirc;metro 7 da&nbsp;Estrada do Jequitib&aacute;, foram surpreendidas por um homem que com uma caminhonete em alta velocidade atropelou dezenas de manifestantes, entres eles,&nbsp;Luiz Ferreira da Costa, de 73 anos, que n&atilde;o resistiu aos ferimentos e morreu antes de chegar &agrave; Unidade de Pronto Atendimento (UPA).</p>
+<p>Na manh&atilde; desta quinta-feira (18), as fam&iacute;lias Sem Terra do acampamento Marielle Vive!, localizado em Valinhos, no interior de S&atilde;o Paulo, realizavam uma manifesta&ccedil;&atilde;o com entrega de alimentos pelo fornecimento de &aacute;gua no acampamento, quando&nbsp;no quil&ocirc;metro 7 da&nbsp;Estrada do Jequitib&aacute;, foram surpreendidas por um homem que com uma caminhonete em alta velocidade atropelou dezenas de manifestantes, entres eles,&nbsp;Luiz Ferreira da Costa, de 73 anos, que n&atilde;o resistiu aos ferimentos e morreu antes de chegar &agrave; Unidade de Pronto Atendimento (UPA).</p>
 
-<p>&nbsp;</p>
-
-<p>O assassino estava armado e amea&ccedil;ou os manifestantes que&nbsp;tentaram perseguir o ve&iacute;culo. O MST&nbsp;ainda apura o n&uacute;mero e o estado dos feridos, entre eles o jornalista&nbsp;Carlos Filipe da r&aacute;dio Noroeste e do Coletivo Socializando Saberes<br />
+<p><br />
+O assassino estava armado e amea&ccedil;ou os manifestantes que&nbsp;tentaram perseguir o ve&iacute;culo. O MST&nbsp;ainda apura o n&uacute;mero e o estado dos feridos, entre eles o jornalista&nbsp;Carlos Filipe da r&aacute;dio Noroeste e do Coletivo Socializando Saberes<br />
 <br />
 <br />
 As fam&iacute;lias exigem a puni&ccedil;&atilde;o imediata a este assassino, que age sob o clima de terror contra os movimentos populares, incentivado por autoridades que est&atilde;o no governo brasileiro.</p>
 
-<p>&nbsp;</p>
-
-<p>Cerca de mil fam&iacute;lias vivem no Acampamento Marielle Vive, que foi ocupado&nbsp;em&nbsp;14 de abril de 2018 &ndash; um m&ecirc;s ap&oacute;s a execu&ccedil;&atilde;o da vereadora Marielle Franco, no Rio de Janeiro &ndash;&nbsp;e &eacute; localizado na Fazenda Eldorado Empreendimentos Ltda.&nbsp;</p>
+<p><br />
+Cerca de mil fam&iacute;lias vivem no Acampamento Marielle Vive, que foi ocupado&nbsp;em&nbsp;14 de abril de 2018 &ndash; um m&ecirc;s ap&oacute;s a execu&ccedil;&atilde;o da vereadora Marielle Franco, no Rio de Janeiro &ndash;&nbsp;e &eacute; localizado na Fazenda Eldorado Empreendimentos Ltda.&nbsp;</p>
 
 <p><br />
 <em>*Em breve mais informa&ccedil;&otilde;es&nbsp;</em></p>
