@@ -102,7 +102,7 @@ A m&uacute;sica toca com mais facilidade o cora&ccedil;&atilde;o das pessoas e a
 <p>As composi&ccedil;&otilde;es do militante abordam a quest&atilde;o racial, da terra e de classe. S&atilde;o temas que ele tamb&eacute;m trabalhou na sua gradua&ccedil;&atilde;o e mestrado em geografia, articulando a m&uacute;sica com a pesquisa e o trabalho intelectual.&nbsp;<br />
 &nbsp;</p>
 
-<p><a href="http://www.mst.org.br/2015/05/25/sou-sem-terra-sou-pobre-sou-negao-sou-revolucao.html">Uma das principais can&ccedil;&otilde;es de autoria de Raumi incorporada pelo MST foi &ldquo;Sou Sem Terra, sou pobre, sou neg&atilde;o, sou revolu&ccedil;&atilde;o&rdquo;, composta em 2015</a>.&nbsp;<br />
+<p><a href="http://www.mst.org.br/2015/05/25/sou-sem-terra-sou-pobre-sou-negao-sou-revolucao.html">Uma das principais can&ccedil;&otilde;es de autoria de Raumi incorporada pelo MST foi &ldquo;Sou Sem Terra, sou pobre, sou neg&atilde;o, sou revolu&ccedil;&atilde;o&rdquo;, composta em 20</a>.&nbsp;<br />
 &nbsp;</p>
 
 <p>O m&uacute;sico &eacute; um dos exemplos mais recentes entre os v&aacute;rios compositores e compositoras, cantadores e cantadoras, que a luta pela Reforma Agr&aacute;ria revelou ao longo do seu processo hist&oacute;rico. Agregando atualmente a luta por novas rela&ccedil;&otilde;es de g&ecirc;nero, contra o racismo e a LGBTfobia, o genoc&iacute;dio ind&iacute;gena, entre outras demandas dos trabalhadores e trabalhadoras do campo.<br />
