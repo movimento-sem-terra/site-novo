@@ -40,13 +40,17 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Na manh&atilde; desta quinta-feira (18), as fam&iacute;lias Sem Terra do acampamento Marielle Vive!, localizado em Valinhos, no interior de S&atilde;o Paulo, realizavam uma manifesta&ccedil;&atilde;o com entrega de alimentos na Estrada do Jequitib&aacute;, Km 07, em frente ao acampamento, quando foram surpreendidas por um homem com uma caminhonete em alta velocidade que jogou o ve&iacute;culo contra os manifestantes. Existem v&aacute;rios feridos e uma pessoa foi a &oacute;bito, o senhor Luiz.</p>
+<p>Na manh&atilde; desta quinta-feira (18), as fam&iacute;lias Sem Terra do acampamento Marielle Vive!, localizado em Valinhos, no interior de S&atilde;o Paulo, realizavam uma manifesta&ccedil;&atilde;o com entrega de alimentos pelo fornecimento de &aacute;gua no acampamento, quando no&nbsp;no quil&ocirc;metro 7 da&nbsp;Estrada do Jequitib&aacute;, foram surpreendidas por um homem que com uma caminhonete em alta velocidade atropelou dezenas de manifestantes, entres eles,&nbsp;Luiz Ferreira da Costa, de 73 anos, que n&atilde;o resistiu aos ferimentos e morreu antes de chegar &agrave; Unidade de Pronto Atendimento (UPA).</p>
 
-<p><br />
-A manifesta&ccedil;&atilde;o tinha como objetivo pressionar a prefeitura de Valinhos para garantir o fornecimento de &aacute;gua. As fam&iacute;lias tamb&eacute;m lutam pelo direito a terra e a realiza&ccedil;&atilde;o da Reforma Agr&aacute;ria.&nbsp;</p>
+<p>&nbsp;</p>
 
-<p><br />
-O acampamento Marielle Vive! conta com mais de mil fam&iacute;lias e existe desde o dia 14 de abril de 2018, ap&oacute;s uma ocupa&ccedil;&atilde;o na fazenda Eldorado Empreendimentos Ltda.&nbsp;</p>
+<p>O assassino estava armado e amea&ccedil;ou os manifestantes que&nbsp;tentaram perseguir o ve&iacute;culo. O MST&nbsp;ainda apura o n&uacute;mero e estado dos feridos.&nbsp;</p>
 
 <p><br />
 As fam&iacute;lias exigem a puni&ccedil;&atilde;o imediata a este assassino, que age sob o clima de terror contra os movimentos populares, incentivado por autoridades que est&atilde;o no governo brasileiro.</p>
+
+<p>&nbsp;</p>
+
+<p>Cerca de mil fam&iacute;lias vivem no Acampamento Marielle Vive, que foi ocupado&nbsp;em&nbsp;14 de abril de 2018 &ndash; um m&ecirc;s ap&oacute;s a execu&ccedil;&atilde;o da vereadora Marielle Franco, no Rio de Janeiro &ndash;&nbsp;e &eacute; localizado na Fazenda Eldorado Empreendimentos Ltda.&nbsp;</p>
+
+<p>&nbsp;</p>
