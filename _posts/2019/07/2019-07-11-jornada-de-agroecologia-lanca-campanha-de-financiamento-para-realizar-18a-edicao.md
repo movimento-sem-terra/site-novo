@@ -75,7 +75,7 @@ A Jornada de Agroecologia, que teve a primeira edi&ccedil;&atilde;o realizada no
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="feira 1.jpg" height="200" src="//farm66.staticflickr.com/65535/48259445871_d6a799d6e2_b.jpg" width="300" />
-<figcaption><em>Foto: Eduardo Matysiak</em>&nbsp;&nbsp;</figcaption>
+<figcaption><em>Foto: Jaine Amorin&nbsp;</em></figcaption>
 </figure>
 
 <p>A 18&ordf; edi&ccedil;&atilde;o da Jornada ser&aacute; de 29 de agosto a 1&ordm; de setembro, em alguns dos pontos mais populares da regi&atilde;o central de Curitiba. Jakeline Pivato, integrante da coordena&ccedil;&atilde;o da Jornada, explica que o objetivo &eacute; manter o evento como um amplo espa&ccedil;o de unidade das organiza&ccedil;&otilde;es que est&atilde;o na resist&ecirc;ncia no entorno da Agroecologia na produ&ccedil;&atilde;o, na pesquisa, na capacita&ccedil;&atilde;o, na luta pela terra e na defesa de territ&oacute;rio.&nbsp;</p>
