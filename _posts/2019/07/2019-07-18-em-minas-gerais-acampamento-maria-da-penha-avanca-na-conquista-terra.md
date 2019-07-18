@@ -5,7 +5,7 @@ tags:
   - tag: judiciário
   - tag: minas-gerais
 title: "Em Minas Gerais, acampamento Maria da Penha avança na conquista terra\n"
-support_line: "Imissão de posse foi concedida "
+support_line: "Imissão de posse foi concedida na semana passada, dia 08/07"
 images_hd: //farm66.staticflickr.com/65535/48317367246_a68ce06e02_b.jpg
 menu: lutas e mobilizações
 layout: post
