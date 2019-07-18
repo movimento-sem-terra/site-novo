@@ -36,7 +36,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><em>Da P&aacute;gina do MST*</em></p>
 
 <p>&nbsp;</p>
 
@@ -53,4 +53,5 @@ As fam&iacute;lias exigem a puni&ccedil;&atilde;o imediata a este assassino, que
 
 <p>Cerca de mil fam&iacute;lias vivem no Acampamento Marielle Vive, que foi ocupado&nbsp;em&nbsp;14 de abril de 2018 &ndash; um m&ecirc;s ap&oacute;s a execu&ccedil;&atilde;o da vereadora Marielle Franco, no Rio de Janeiro &ndash;&nbsp;e &eacute; localizado na Fazenda Eldorado Empreendimentos Ltda.&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><br />
+<em>*Em breve mais informa&ccedil;&otilde;es&nbsp;</em></p>
