@@ -46,10 +46,10 @@ releated_posts:
 O assassino estava armado e amea&ccedil;ou os manifestantes que&nbsp;tentaram perseguir o ve&iacute;culo. O MST&nbsp;ainda apura o n&uacute;mero e o estado dos feridos, entre eles o jornalista&nbsp;Carlos Filipe da r&aacute;dio Noroeste e do Coletivo Socializando Saberes<br />
 <br />
 <br />
-As fam&iacute;lias exigem a puni&ccedil;&atilde;o imediata a este assassino, que age sob o clima de terror contra os movimentos populares, incentivado por autoridades que est&atilde;o no governo brasileiro.</p>
+As fam&iacute;lias exigem a puni&ccedil;&atilde;o imediata do assassino&nbsp;que agiu&nbsp;sob o clima de terror incentivado contra os movimentos populares.<br />
+&nbsp;</p>
 
-<p><br />
-Cerca de mil fam&iacute;lias vivem no Acampamento Marielle Vive, que foi ocupado&nbsp;em&nbsp;14 de abril de 2018 &ndash; um m&ecirc;s ap&oacute;s a execu&ccedil;&atilde;o da vereadora Marielle Franco, no Rio de Janeiro &ndash;&nbsp;e &eacute; localizado na Fazenda Eldorado Empreendimentos Ltda.&nbsp;</p>
+<p>Cerca de mil fam&iacute;lias vivem no Acampamento Marielle Vive, que foi ocupado&nbsp;em&nbsp;14 de abril de 2018 &ndash; um m&ecirc;s ap&oacute;s a execu&ccedil;&atilde;o da vereadora Marielle Franco, no Rio de Janeiro &ndash;&nbsp;e &eacute; localizado na Fazenda Eldorado Empreendimentos Ltda.&nbsp;</p>
 
 <p><br />
 <em>*Em breve mais informa&ccedil;&otilde;es&nbsp;</em></p>
