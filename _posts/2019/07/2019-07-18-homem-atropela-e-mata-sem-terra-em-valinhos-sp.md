@@ -4,7 +4,7 @@ tags:
   - tag: são-paulo
   - tag: violência-no-campo
 title: Homem atropela e mata Sem Terra em Valinhos (SP)
-support_line: Famílias exigem a punição imediata
+support_line: O assassino estava armado e ameaçou os manifestantes que tentaram perseguir o veículo
 menu: direitos humanos
 section: cover
 sector: mass-front
@@ -44,9 +44,9 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>O assassino estava armado e amea&ccedil;ou os manifestantes que&nbsp;tentaram perseguir o ve&iacute;culo. O MST&nbsp;ainda apura o n&uacute;mero e estado dos feridos.&nbsp;</p>
-
-<p><br />
+<p>O assassino estava armado e amea&ccedil;ou os manifestantes que&nbsp;tentaram perseguir o ve&iacute;culo. O MST&nbsp;ainda apura o n&uacute;mero e o estado dos feridos, entre eles o jornalista&nbsp;Carlos Filipe da r&aacute;dio Noroeste e do Coletivo Socializando Saberes<br />
+<br />
+<br />
 As fam&iacute;lias exigem a puni&ccedil;&atilde;o imediata a este assassino, que age sob o clima de terror contra os movimentos populares, incentivado por autoridades que est&atilde;o no governo brasileiro.</p>
 
 <p>&nbsp;</p>
