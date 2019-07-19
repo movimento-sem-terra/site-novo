@@ -55,4 +55,12 @@ Em mem&oacute;ria de Luiz, em solidariedade aos familiares, aos feridos!<br />
 <strong>Acampamento Marielle Vive!&nbsp;</strong><br />
 <br />
 <br />
-Cerca de mil fam&iacute;lias vivem no Acampamento Marielle Vive, que foi ocupado em&nbsp;14 de abril&nbsp;de 2018 &ndash; um m&ecirc;s ap&oacute;s a execu&ccedil;&atilde;o da vereadora Marielle Franco, no Rio&nbsp;de Janeiro&nbsp;&ndash; e &eacute; localizado na Fazenda Eldorado Empreendimentos Ltda.&nbsp;</p>
+Cerca de mil fam&iacute;lias vivem no Acampamento Marielle Vive, que foi ocupado em&nbsp;14 de abril&nbsp;de 2018 &ndash; um m&ecirc;s ap&oacute;s a execu&ccedil;&atilde;o da vereadora Marielle Franco, no Rio&nbsp;de Janeiro&nbsp;&ndash; e &eacute; localizado na Fazenda Eldorado Empreendimentos Ltda.&nbsp;<br />
+<br />
+<br />
+<strong>Servi&ccedil;o</strong><br />
+<br />
+<em>Ato Pela Vida e Reforma Agr&aacute;ria - Em mem&oacute;ria de Luiz Ferreira da Costa</em><br />
+Quando: 20/07 (s&aacute;bado)<br />
+Hor&aacute;rio: 9h<br />
+Local: Concentra&ccedil;&atilde;o na Pra&ccedil;a Washington Luiz, caminhada at&eacute; o Largo S&atilde;o Sebasti&atilde;o e ato pol&iacute;tico em frente a Igreja Matriz.&nbsp;</p>
