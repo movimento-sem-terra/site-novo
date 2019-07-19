@@ -53,7 +53,8 @@ releated_posts:
 
 <p><br />
 <br />
-<em>Da P&aacute;gina do MST&nbsp;</em></p>
+<em>Por Maura Silva<br />
+Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
