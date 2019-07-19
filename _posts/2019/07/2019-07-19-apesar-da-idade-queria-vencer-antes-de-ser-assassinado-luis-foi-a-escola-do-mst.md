@@ -45,9 +45,14 @@ releated_posts:
   - _posts/2019/07/2019-07-03-familias-de-assassinados-do-mst-cobram-celeridade-do-ministerio-publico.md
 
 ---
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="BdF [84] -  Dagmar Talga.jpg" height="524" src="//farm66.staticflickr.com/65535/48324767676_71306b34e3_b.jpg" width="700" />
+<figcaption><em>O pernambucano Ferreira da Costa nasceu no Cariri/ Foto: Arquivo Pessoal</em></figcaption>
+</figure>
+</div>
 
-<p><em>Por Igor Carvalho<br />
+<p><br />
+<em>Por Igor Carvalho<br />
 Do&nbsp;Brasil de Fato&nbsp;</em></p>
 
 <p><br />
