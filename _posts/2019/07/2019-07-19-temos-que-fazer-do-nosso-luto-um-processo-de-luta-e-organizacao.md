@@ -86,7 +86,7 @@ N&atilde;o &eacute; f&aacute;cil romper a teia da invisibilidade em um pa&iacute
 
 <p>&nbsp;</p>
 
-<p style="line-height: 15.6px;">Assim era seu Luis, pedreiro, que sem trabalho, morava de favor antes de chegar ao acampamento. Seu Luis&nbsp;foi figura rara, a despeito das dificuldades, foi logo tratar de aprender a ler e a escrever nas aulas de alfabetiza&ccedil;&atilde;o ministradas no acampamento.</p>
+<p>Assim era seu Luis, pedreiro, que sem trabalho, morava de favor antes de chegar ao acampamento. Seu Luis&nbsp;foi figura rara, a despeito das dificuldades, foi logo tratar de aprender a ler e a escrever nas aulas de alfabetiza&ccedil;&atilde;o ministradas no acampamento.</p>
 
 <p><br />
 Aluno aplicado, logo come&ccedil;ou a ver resultados do esfor&ccedil;o.&nbsp;Aprendeu a soletrar gan&acirc;ncia e descaso, mas tamb&eacute;m resist&ecirc;ncia, direitos e luta.</p>
