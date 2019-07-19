@@ -31,6 +31,13 @@ files:
     small: //farm66.staticflickr.com/65535/48324141691_7f672acc13_n.jpg
     title: WhatsApp Image 2019-07-18 at 14.34.56.jpeg
     $$hashKey: 0JP
+  - link: //farm66.staticflickr.com/65535/48325133166_0369a3294a_b.jpg
+    original: //farm66.staticflickr.com/65535/48325133166_cc9b35ddb4_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48325133166_0369a3294a_t.jpg
+    medium: //farm66.staticflickr.com/65535/48325133166_0369a3294a_z.jpg
+    small: //farm66.staticflickr.com/65535/48325133166_0369a3294a_n.jpg
+    title: WhatsApp Image 2019-07-18 at 16.16.46.jpeg
+    $$hashKey: "153"
 created_date: "2019-07-19T15:25:56-03:00"
 published: true
 releated_posts:
@@ -46,8 +53,8 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-07-18 at 14.34.56 (1).jpeg" height="524" src="//farm66.staticflickr.com/65535/48324141636_2bd96a70b0_b.jpg" width="700" />
-<figcaption>Sem Terra durante o ato na Estrada do Jequitib&aacute;</figcaption>
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-07-18 at 16.16.46.jpeg" height="524" src="//farm66.staticflickr.com/65535/48325133166_0369a3294a_b.jpg" width="700" />
+<figcaption>Foto Nacho Lemos&nbsp;</figcaption>
 </figure>
 </div>
 
