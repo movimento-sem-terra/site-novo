@@ -82,7 +82,7 @@ O &nbsp;Marielle Vive! Se transformou em sin&ocirc;nimo do atual momento pelo qu
 &nbsp;</p>
 
 <p><br />
-L&aacute; vivem homens e mulheres, muitos destes idosos que, como seu Luis,&nbsp;perderam seus empregos e renda, encontram no acampamento um espa&ccedil;o coletivo de acolhimento, luta e de resist&ecirc;ncia.&nbsp;</p>
+L&aacute;, vivem homens e mulheres, muitos destes idosos que, como seu Luis,&nbsp;perderam seus empregos e renda, encontram no acampamento um espa&ccedil;o coletivo de acolhimento, luta e de resist&ecirc;ncia.&nbsp;</p>
 
 <p><br />
 <br />
