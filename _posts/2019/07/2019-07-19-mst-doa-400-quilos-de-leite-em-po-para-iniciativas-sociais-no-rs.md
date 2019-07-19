@@ -34,7 +34,15 @@ files:
     $$hashKey: 09D
 created_date: "2019-07-19T16:37:44-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2019/03/2019-03-15-ato-marca-solidariedade-a-ocupacao-de-latifundio-de-joao-de-deus.md
+  - _posts/2019/03/2019-03-31-mst-realiza-mutirao-de-solidariedade-com-doacao-de-4-toneladas-de-alimentos-no-parana.md
+  - _posts/2019/04/2019-04-04-msr-se-solidariza-a-erica-malunguinho-e-repudia-fala-transfobica-de-deputado-do-psl.md
+  - _posts/2019/04/2019-04-09-integrantes-do-mst-fazem-mutirao-de-doacao-de-sangue-em-curitiba.md
+  - _posts/2019/06/2019-06-27-mst-doa-uma-tonelada-de-alimentos-a-instituicoes-no-rs.md
+  - _posts/2019/06/2019-06-30-audiencia-reforca-posicao-contraria-da-populacao-gaucha-a-mina-guaiba.md
+  - _posts/2019/07/2019-07-05-protesto-cobra-audiencia-da-fepam-sobre-a-mina-guaiba-em-porto-alegre.md
+  - _posts/2019/07/2019-07-10-sem-terra-participam-da-15a-feira-latino-americana-de-economia-solidaria.md
 
 ---
 <div style="text-align:center">
