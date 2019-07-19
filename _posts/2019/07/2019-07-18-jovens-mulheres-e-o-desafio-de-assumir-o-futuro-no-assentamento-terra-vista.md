@@ -144,4 +144,4 @@ Para o assentado e fundador do Terra Vista, Joelson Ferreira de Oliveira, 58, o 
 
 <p><br />
 <em>* Com colabora&ccedil;&atilde;o de Rafaela Oliveira<br />
-** Editado por&nbsp;Flaviane Christi</em></p>
+** Editado por&nbsp;Flaviane M&ocirc;nica Christ</em></p>
