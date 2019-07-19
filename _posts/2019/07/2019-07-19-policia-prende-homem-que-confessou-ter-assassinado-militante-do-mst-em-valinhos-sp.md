@@ -64,7 +64,7 @@ O v&iacute;deo abaixo mostra uma discuss&atilde;o na delegacia, do lado de fora 
 <p>O MST convocou um ato para &agrave;s 10h deste s&aacute;bado (20) em Valinhos, com local a confirmar, para protestar contra a viol&ecirc;ncia no campo.</p>
 
 <p><br />
-<a href="http://www.mst.org.br/2019/07/17/estudiosos-da-area-de-defesa-criticam-politica-de-ciencia-e-tecnologia.html">Dimitri Sales</a>, presidente do Conselho Estadual de Direitos da Pessoa Humana de S&atilde;o Paulo (Condepe), disse que o crime deve ser analisado em um contexto de avan&ccedil;o dos discursos e das pr&aacute;ticas de viol&ecirc;ncia.</p>
+Dimitri Sales, presidente do Conselho Estadual de Direitos da Pessoa Humana de S&atilde;o Paulo (Condepe), disse que o crime deve ser analisado em um contexto de avan&ccedil;o dos discursos e das pr&aacute;ticas de viol&ecirc;ncia.</p>
 
 <p><br />
 &quot;Temos plena convic&ccedil;&atilde;o de que esse crime de hoje tem a ver integralmente com a conjuntura, o contexto hoje vigente no nosso pa&iacute;s. Um contexto que privilegia a morte em detrimento de pol&iacute;ticas de promo&ccedil;&atilde;o de direitos humanos, que privilegia a arma, acabar com o direito dos diferentes,&nbsp;que diz que &#39;a partir de primeiro de janeiro sem-teto, sem-terra seriam tratados &agrave; base da bala&#39;&quot;, lembra, em refer&ecirc;ncia ao presidente Jair Bolsonaro (PSL). &quot;Isso tudo vai repercutindo na sociedade como um discurso institucional que autoriza o exterm&iacute;nio das popula&ccedil;&otilde;es que lutam pelos seus direitos. O que a gente vive no Brasil hoje &eacute; um Estado de exce&ccedil;&atilde;o&quot;, lamenta.</p>
@@ -79,8 +79,7 @@ Nilcio Costa, advogado do MST, relatou &agrave; reportagem que, &quot;de maneira
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="" height="481" src="https://farm66.staticflickr.com/65535/48317911727_b94520c531_o.jpg" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; height: inherit; width: 680px;" width="700" />
-<figcaption>Caminhonete usada no crime, sem a identifica&ccedil;&atilde;o do emplacamento (Foto: Igor Carvalho)<br />
-</figcaption>
+<figcaption>Caminhonete usada no crime, sem a identifica&ccedil;&atilde;o do emplacamento (Foto: Igor Carvalho)</figcaption>
 </figure>
 </div>
 
