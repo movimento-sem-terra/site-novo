@@ -47,7 +47,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="BdF [84] -  Dagmar Talga.jpg" height="524" src="//farm66.staticflickr.com/65535/48324767676_71306b34e3_b.jpg" width="700" />
-<figcaption><em>O pernambucano Ferreira da Costa nasceu no Cariri/ Foto: Arquivo Pessoal</em></figcaption>
+<figcaption><em>O pernambucano Ferreira da Costa nasceu no Cariri&nbsp;e, ainda jovem, foi morar em S&atilde;o Luis, no Maranh&atilde;o/ Foto: Arquivo Pessoal</em></figcaption>
 </figure>
 </div>
 
