@@ -89,7 +89,7 @@ L&aacute;, vivem homens e mulheres, muitos destes idosos que, como seu Luis,&nbs
 Pessoas que sabem que n&atilde;o &eacute;&nbsp; f&aacute;cil romper a teia da invisibilidade em um pa&iacute;s que trata seus idosos como um fardo. Um pa&iacute;s que tem um governo que tira a pouca renda daqueles que mais precisam. Um governo que promove assassinatos sistem&aacute;ticos, aqueles que n&atilde;o s&atilde;o contabilizados, mas que acontecem diariamente nas filas do descaso.</p>
 
 <p><br />
-Assim era seu Luis, pedreiro, que sem trabalho, morava de favor antes de chegar ao acampamento. Seu Luis&nbsp;foi figura rara, a despeito das dificuldades, foi logo tratar de aprender a ler e a escrever nas aulas de alfabetiza&ccedil;&atilde;o ministradas no acampamento.</p>
+Assim era seu Luis, pedreiro, que sem trabalho, morava de favor antes de chegar ao acampamento. Homem de figura rara que, a despeito das dificuldades, foi logo tratar de aprender a ler e a escrever nas aulas de alfabetiza&ccedil;&atilde;o ministradas no acampamento.</p>
 
 <p><br />
 Aluno aplicado, logo come&ccedil;ou a ver resultados do esfor&ccedil;o.&nbsp;Aprendeu a soletrar gan&acirc;ncia e descaso, mas tamb&eacute;m resist&ecirc;ncia, direitos e luta.</p>
