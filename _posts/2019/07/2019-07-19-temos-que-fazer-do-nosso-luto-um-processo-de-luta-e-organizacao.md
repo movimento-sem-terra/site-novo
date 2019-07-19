@@ -75,14 +75,17 @@ O atropelamento aconteceu no quil&ocirc;metro 7 da Estrada do Jequitib&aacute;, 
 <p><br />
 O &nbsp;Marielle Vive! Se transformou em sin&ocirc;nimo do atual momento pelo qual passa o pa&iacute;s. Cerca de 1100 fam&iacute;lias vindas em sua maioria&nbsp;das cidades do entorno vivem no acampamento na esperan&ccedil;a de um futuro melhor.</p>
 
-<p><br />
-Homens e mulheres, muitos destes idosos que, como seu Luis,&nbsp;perderam seus empregos e renda, encontram no acampamento um espa&ccedil;o coletivo de acolhimento, luta e de resist&ecirc;ncia.&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>A &aacute;rea foi ocupada em 14 de abril de 2018. O&nbsp;terreno da fazenda pertence &agrave; empresa Eldorado Empreendimentos Imobili&aacute;rios e est&aacute; improdutivo h&aacute; anos. O local &eacute; cercado por condom&iacute;nios residenciais de luxo e a especula&ccedil;&atilde;o imobili&aacute;ria tem crescido na regi&atilde;o.<br />
+&nbsp;</p>
 
 <p><br />
-A &aacute;rea foi ocupada em 14 de abril de 2018. O&nbsp;terreno da fazenda pertence &agrave; empresa Eldorado Empreendimentos Imobili&aacute;rios e est&aacute; improdutivo h&aacute; anos. O local &eacute; cercado por condom&iacute;nios residenciais de luxo e a especula&ccedil;&atilde;o imobili&aacute;ria tem crescido na regi&atilde;o.<br />
+L&aacute; vivem homens e mulheres, muitos destes idosos que, como seu Luis,&nbsp;perderam seus empregos e renda, encontram no acampamento um espa&ccedil;o coletivo de acolhimento, luta e de resist&ecirc;ncia.&nbsp;</p>
+
+<p><br />
 <br />
-<br />
-N&atilde;o &eacute; f&aacute;cil romper a teia da invisibilidade em um pa&iacute;s que trata seus idosos como um fardo. Um pa&iacute;s que tem um governo que tira a pouca renda daqueles que mais precisam. Um governo que promove assassinatos sistem&aacute;ticos, aqueles que n&atilde;o s&atilde;o contabilizados, mas que acontecem diariamente nas filas do descaso.</p>
+Pessoas que sabem que n&atilde;o &eacute;&nbsp; f&aacute;cil romper a teia da invisibilidade em um pa&iacute;s que trata seus idosos como um fardo. Um pa&iacute;s que tem um governo que tira a pouca renda daqueles que mais precisam. Um governo que promove assassinatos sistem&aacute;ticos, aqueles que n&atilde;o s&atilde;o contabilizados, mas que acontecem diariamente nas filas do descaso.</p>
 
 <p><br />
 Assim era seu Luis, pedreiro, que sem trabalho, morava de favor antes de chegar ao acampamento. Seu Luis&nbsp;foi figura rara, a despeito das dificuldades, foi logo tratar de aprender a ler e a escrever nas aulas de alfabetiza&ccedil;&atilde;o ministradas no acampamento.</p>
