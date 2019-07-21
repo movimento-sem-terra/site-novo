@@ -2,7 +2,7 @@
 date: "2019-07-21T16:57:39-03:00"
 tags: []
 title: MST presta solidariedade às vítimas de tragédia em Coronel João Sá (BA)
-support_line: "Mais de 1,5 toneladas de alimentos são doados pelo MST, aos atingidos por barragens\nno Nordeste da Bahia."
+support_line: "Mais de 1,5 toneladas de alimentos são doados pelo MST aos atingidos por barragens\nno Nordeste da Bahia."
 menu: lutas e mobilizações
 section: null
 images_hd: //farm66.staticflickr.com/65535/48340541996_80e5fff2c8_b.jpg
@@ -36,7 +36,7 @@ releated_posts: []
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-07-19 at 18.15.31.jpeg" height="525" src="//farm66.staticflickr.com/65535/48340541996_80e5fff2c8_b.jpg" width="700" />
-<figcaption>MST realizou a entrega de vestimentas e alimentos /&nbsp;Coletivo de Comunica&ccedil;&atilde;o do MST da Bahia</figcaption>
+<figcaption>MST realizou a entrega de vestimentas e alimentos / Foto: Coletivo de Comunica&ccedil;&atilde;o do MST da Bahia</figcaption>
 </figure>
 </div>
 
@@ -58,7 +58,7 @@ vestimentas e alimentos vindos das &aacute;reas de reforma agr&aacute;ria.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-07-19 at 18.15.23 (1).jpeg" height="525" src="//farm66.staticflickr.com/65535/48340851037_f589615498_b.jpg" width="700" />
-<figcaption>Foram doados mais de 1,5 toneladas de alimentos oriundos da Reforma Agr&aacute;ria e 300 pe&ccedil;as de roupas /&nbsp;Por Coletivo de Comunica&ccedil;&atilde;o da Bahia</figcaption>
+<figcaption>Foram doados mais de 1,5 toneladas de alimentos oriundos da Reforma Agr&aacute;ria e 300 pe&ccedil;as de roupas /&nbsp;Foto: Coletivo de Comunica&ccedil;&atilde;o da Bahia</figcaption>
 </figure>
 </div>
 
