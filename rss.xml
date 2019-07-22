@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>O amanhã é hoje</title>
+				<description>O drama de brasileiros impactados pelas mudanças climáticas</description>
+				<pubDate>Mon, 22 Jul 2019 16:48:37 -0300</pubDate>
+				<link>http://www.mst.org.br/2019/07/22/o-amanha-e-hoje.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2019/07/22/o-amanha-e-hoje.html</guid>
+			</item>
+		
+			<item>
 				<title>Conheça cinco grandes obras de Florestan Fernandes </title>
 				<description>Se estivesse vivo, Florestan Fernandes completaria hoje (22), 99 anos. Florestan Fernandes foi um dos mais importantes sociólogos brasileiros</description>
 				<pubDate>Mon, 22 Jul 2019 13:34:22 -0300</pubDate>
@@ -81,14 +89,6 @@ no Nordeste da Bahia.</description>
 				<pubDate>Fri, 19 Jul 2019 16:17:42 -0300</pubDate>
 				<link>http://www.mst.org.br/2019/07/19/o-discurso-de-bolsonaro-e-o-incentivo-a-violencia.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2019/07/19/o-discurso-de-bolsonaro-e-o-incentivo-a-violencia.html</guid>
-			</item>
-		
-			<item>
-				<title>Análise de Conjuntura 6 I Governo Bolsonaro, Capital e Classe Trabalhadora</title>
-				<description>João Pedro Stedile faz análise de conjuntura nessa semana.</description>
-				<pubDate>Fri, 19 Jul 2019 16:04:23 -0300</pubDate>
-				<link>http://www.mst.org.br/2019/07/19/analise-de-conjuntura-6-i-governo-bolsonaro-capital-e-classe-trabalhadora.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2019/07/19/analise-de-conjuntura-6-i-governo-bolsonaro-capital-e-classe-trabalhadora.html</guid>
 			</item>
 		
 	</channel>
