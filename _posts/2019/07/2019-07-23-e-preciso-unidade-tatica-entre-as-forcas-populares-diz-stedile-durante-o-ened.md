@@ -10,13 +10,6 @@ menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48358845827_8c6282359b_b.jpg
 layout: post
 files:
-  - link: //farm66.staticflickr.com/65535/48358712681_5673746fa9_b.jpg
-    original: //farm66.staticflickr.com/65535/48358712681_a9a5c97263_o.jpg
-    thumbnail: //farm66.staticflickr.com/65535/48358712681_5673746fa9_t.jpg
-    medium: //farm66.staticflickr.com/65535/48358712681_5673746fa9_z.jpg
-    small: //farm66.staticflickr.com/65535/48358712681_5673746fa9_n.jpg
-    title: Luz Helena é do Coletivo Nacional de Juventude do MST pelo estado do Ceará. Foto_Divulgação MST.jpeg
-    $$hashKey: 091
   - link: //farm66.staticflickr.com/65535/48358712966_bd966f6fbf_b.jpg
     original: //farm66.staticflickr.com/65535/48358712966_ba73095202_o.jpg
     thumbnail: //farm66.staticflickr.com/65535/48358712966_bd966f6fbf_t.jpg
@@ -31,6 +24,20 @@ files:
     small: //farm66.staticflickr.com/65535/48358845827_8c6282359b_n.jpg
     title: Mística Juventude_Foto Valmir Fernandes.png
     $$hashKey: 097
+  - link: //farm66.staticflickr.com/65535/48358953907_cfcc8625db_b.jpg
+    original: //farm66.staticflickr.com/65535/48358953907_6ddb5b23ca_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48358953907_cfcc8625db_t.jpg
+    medium: //farm66.staticflickr.com/65535/48358953907_cfcc8625db_z.jpg
+    small: //farm66.staticflickr.com/65535/48358953907_cfcc8625db_n.jpg
+    title: Foto_Sirlene Rodrigues 2 (2).jpeg
+    $$hashKey: 0HZ
+  - link: //farm66.staticflickr.com/65535/48358820016_2964499bb0_b.jpg
+    original: //farm66.staticflickr.com/65535/48358820016_62f9920afc_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48358820016_2964499bb0_t.jpg
+    medium: //farm66.staticflickr.com/65535/48358820016_2964499bb0_z.jpg
+    small: //farm66.staticflickr.com/65535/48358820016_2964499bb0_n.jpg
+    title: Foto_Sirlene Rodrigues (2).jpeg
+    $$hashKey: 0I2
 created_date: "2019-07-23T16:17:17-03:00"
 published: true
 releated_posts:
@@ -74,6 +81,12 @@ Para o dirigente do MST, a classe trabalhadora enfrenta uma correla&ccedil;&atil
 <p dir="ltr"><br />
 Antes de ocupar uma das cadeiras da mesa de debate, o advogado Waldir Damous estava em visita ao seu cliente, o ex-presidente Lula, preso a menos de 8 quil&ocirc;metros dali. &ldquo;Lula &eacute; quem encarna a esperan&ccedil;a e a utopia de todos os trabalhadores, pobres, estudantes. A nossa luta &eacute; para libertar a utopia e a esperan&ccedil;a&rdquo;.&nbsp;</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Foto_Sirlene Rodrigues 2 (2).jpeg" height="417" src="//farm66.staticflickr.com/65535/48358953907_cfcc8625db_b.jpg" width="700" />
+<figcaption>Foto Sirlene Rodrigues</figcaption>
+</figure>
+</div>
+
 <p dir="ltr"><br />
 O jurista e ex-presidente da Ordem dos Advogados do Brasil (OAB) do Rio de Janeiro avalia que o Brasil vive um estado de exce&ccedil;&atilde;o. &ldquo;Em tese, a Constitui&ccedil;&atilde;o n&atilde;o foi revogada, mas h&aacute; pr&aacute;ticas inconstitucionais praticadas pelo pr&oacute;prio Sistema de Justi&ccedil;a&rdquo;, disparou.</p>
 
@@ -105,7 +118,11 @@ Al&eacute;m dos estudantes de Direito, a plateia do Teatro da Reitoria foi ocupa
 
 <p dir="ltr">Os jovens Sem Terra emocionaram a plateia com a m&iacute;stica de abertura do debate. A apresenta&ccedil;&atilde;o representou cenas sobre parcialidade do Judici&aacute;rio burgu&ecirc;s, que opera para atender aos interesses do capital, e sobre a a&ccedil;&atilde;o dos trabalhadores e trabalhadoras organizadas para cobrar a Justi&ccedil;a de fato. Bandeiras e palavras de ordem em mem&oacute;ria &agrave; vereadora Marielle Franco e pela liberdade do ex-presidente Luiz In&aacute;cio Lula da Silva coloriram o espa&ccedil;o.&nbsp;</p>
 
-<p dir="ltr">&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Foto_Sirlene Rodrigues (2).jpeg" height="467" src="//farm66.staticflickr.com/65535/48358820016_2964499bb0_b.jpg" width="700" />
+<figcaption>Foto Sirlene Rodrigues</figcaption>
+</figure>
+</div>
 
 <p dir="ltr"><strong>Vig&iacute;lia Lula Livre&nbsp;</strong></p>
 
