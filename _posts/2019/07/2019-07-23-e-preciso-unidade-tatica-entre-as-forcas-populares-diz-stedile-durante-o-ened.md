@@ -38,6 +38,13 @@ files:
     small: //farm66.staticflickr.com/65535/48358820016_2964499bb0_n.jpg
     title: Foto_Sirlene Rodrigues (2).jpeg
     $$hashKey: 0I2
+  - link: //farm66.staticflickr.com/65535/48359610467_e708c799c3_b.jpg
+    original: //farm66.staticflickr.com/65535/48359610467_bfa785f709_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48359610467_e708c799c3_t.jpg
+    medium: //farm66.staticflickr.com/65535/48359610467_e708c799c3_z.jpg
+    small: //farm66.staticflickr.com/65535/48359610467_e708c799c3_n.jpg
+    title: Carta de Lula ao ENED.jpeg
+    $$hashKey: 0ZL
 created_date: "2019-07-23T16:17:17-03:00"
 published: true
 releated_posts:
@@ -131,7 +138,25 @@ J&aacute; no in&iacute;cio do ENED, no dia 16, os participantes passaram uma man
 
 <p dir="ltr">&nbsp;</p>
 
-<p dir="ltr">Os estudantes participaram de debate com Manoel Caetano, integrante da equipe de advogados de Lula, Roberto Baggio, da dire&ccedil;&atilde;o nacional do MST e da coordena&ccedil;&atilde;o da Vig&iacute;lia, e Michele Cabrera, professora de Direito Penal. Com retribui&ccedil;&atilde;o &agrave; visita, Lula enviou uma carta aos estudantes:&nbsp;&nbsp;</p>
+<p dir="ltr">Os estudantes participaram de debate com Manoel Caetano, integrante da equipe de advogados de Lula, Roberto Baggio, da dire&ccedil;&atilde;o nacional do MST e da coordena&ccedil;&atilde;o da Vig&iacute;lia, e Michele Cabrera, professora de Direito Penal. Com retribui&ccedil;&atilde;o &agrave; visita, Lula enviou uma carta aos estudantes:&nbsp;&nbsp;<br />
+&nbsp;</p>
+
+<p dir="ltr"><em>&ldquo;Queridos estudantes de Direito que participaram do ENED.</em></p>
+
+<p dir="ltr"><em>Queria agradecer de cora&ccedil;&atilde;o o gesto de solidariedade que voc&ecirc;s fizeram visitando a Vig&iacute;lia Lula Livre.&nbsp;<br />
+Espero algum dia poder retribuir esse gesto de grandeza pol&iacute;tica que voc&ecirc;s tiveram comigo.&nbsp;</em></p>
+
+<p dir="ltr"><em>Obrigada de cora&ccedil;&atilde;o.</em></p>
+
+<p dir="ltr"><em>18/07/2019</em></p>
+
+<p dir="ltr"><em>Sem medo de ser feliz.&nbsp;</em></p>
+
+<p dir="ltr"><em>Lula.&rdquo; </em></p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p style="text-align:center"><img alt="Carta de Lula ao ENED.jpeg" height="667" src="//farm66.staticflickr.com/65535/48359610467_e708c799c3_b.jpg" width="500" /></p>
 
 <p dir="ltr"><br />
 <br />
