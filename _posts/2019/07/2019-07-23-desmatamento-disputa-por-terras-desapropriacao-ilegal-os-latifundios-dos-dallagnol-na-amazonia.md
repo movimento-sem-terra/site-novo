@@ -43,6 +43,7 @@ published: true
 releated_posts:
   - _posts/2019/06/2019-06-10-juristas-pedem-apuracao-da-conduta-de-moro-anulacao-de-processos-e-soltura-de-lula.md
   - _posts/2019/06/2019-06-11-vaza-jato-as-relacoes-subterraneas-da-republica-de-curitiba.md
+section: cover
 
 ---
 <div style="text-align:center">
