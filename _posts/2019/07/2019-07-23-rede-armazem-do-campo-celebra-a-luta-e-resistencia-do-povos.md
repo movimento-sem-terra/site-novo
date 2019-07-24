@@ -81,7 +81,7 @@ O objetivo dessas atividades &eacute; transformar as lojas da Reforma Agr&aacute
 Os eventos s&atilde;o pensados de acordo com as demandas dos estados e com as din&acirc;micas de cada regi&atilde;o.</p>
 
 <p><br />
-Nessa semana, por exemplo, a loja da <a href="https://www.facebook.com/lojadareformaagraria/">Reforma Agr&aacute;ria do Rio Grande Sul</a> comemora o dia do Agricultor, durante toda a semana quem passar pelo local esta semana, poder&aacute; degustar v&aacute;rios alimentos, como caf&eacute;, queijos, salames, p&atilde;es e biscoitos.</p>
+Nessa semana, por exemplo, a loja da <a href="https://www.facebook.com/lojadareformaagraria/">Reforma Agr&aacute;ria do Rio Grande Sul</a> comemora o dia do Agricultor e que passar pelo local &nbsp;poder&aacute; degustar v&aacute;rios alimentos, como caf&eacute;, queijos, salames, p&atilde;es e biscoitos.</p>
 
 <p><br />
 Nossa ideia &eacute; homenagear produtores e consumidores de alimentos saud&aacute;veis. &ldquo;Para n&oacute;s, cooperativas dos assentamentos, a troca e a comercializa&ccedil;&atilde;o de nossos alimentos &eacute; um ato pol&iacute;tico que integra a vida de quem produz com aqueles que consomem&rdquo;, diz Nilson Pilati, respons&aacute;vel pelas cooperativas na loja.</p>
