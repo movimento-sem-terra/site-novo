@@ -57,15 +57,18 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>Neste 25 julho, o Movimento dos Sem Terra (MST) realiza&nbsp; a 17&ordf; Marcha do Trabalhador Rural de Sergipe pelo Dia do Trabalhador Rural. Em passeata, os Sem Terras tomam as ruas da capital para pedir o rein&iacute;cio do processo de reforma agr&aacute;ria e contra a reforma da previd&ecirc;ncia de 2019, que pretende agravar a situa&ccedil;&atilde;o das trabalhadoras e trabalhadores que trabalham em &aacute;reas rurais de todo o pa&iacute;s.<br />
+<p>Neste 25 julho, o Movimento dos Sem Terra (MST) realiza&nbsp;a 17&ordf; Marcha do Trabalhador Rural de Sergipe pelo Dia do Trabalhador Rural.</p>
+
+<p><br />
+Em passeata, os Sem Terra&nbsp;saem &agrave;s&nbsp;ruas da capital contra a&nbsp;paralisa&ccedil;&atilde;o&nbsp;Reforma Agr&aacute;ria e contra a reforma da Previd&ecirc;ncia de 2019, que pretende agravar a situa&ccedil;&atilde;o das trabalhadoras e trabalhadores de &aacute;reas rurais de todo o pa&iacute;s.<br />
 &nbsp;</p>
 
-<p>Para lembrar desta luta, listamos 5 motivos para unirmos nossas for&ccedil;as e apoiar a celebra&ccedil;&atilde;o de todo o pa&iacute;s.&nbsp;<br />
+<p>E, para lembrar a data, listamos 5 motivos para unirmos for&ccedil;as e apoiar a celebra&ccedil;&atilde;o em&nbsp;todo o pa&iacute;s.&nbsp;<br />
 &nbsp;</p>
 
 <p><strong>1. A import&acirc;ncia da agricultura familiar</strong><br />
 <br />
-A diversidades nos campos do Brasil deve-se principalmente aos trabalhadores rurais e &agrave; agricultura familiar, que forma a base da economia de 90% dos munic&iacute;pios brasileiros com at&eacute; 20 mil habitantes. Cerca de 70% dos alimentos que v&atilde;o &agrave; mesa dos brasileiros s&atilde;o da agricultura familiar.&nbsp;<br />
+A diversidade&nbsp;nos campos do Brasil deve-se principalmente aos trabalhadores rurais e &agrave; agricultura familiar, que forma a base da economia de 90% dos munic&iacute;pios brasileiros com at&eacute; 20 mil habitantes. Cerca de 70% dos alimentos que v&atilde;o &agrave; mesa dos brasileiros s&atilde;o da agricultura familiar.&nbsp;<br />
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="BdF [86].jpg" height="225" src="//farm66.staticflickr.com/65535/48367368586_22a366b7f8_b.jpg" width="300" />
@@ -74,14 +77,14 @@ A diversidades nos campos do Brasil deve-se principalmente aos trabalhadores rur
 
 <p><strong>2. Produ&ccedil;&atilde;o no Brasil</strong><br />
 <br />
-O MST, que completa 35 anos em 2019, &eacute; um dos respons&aacute;veis por esta diversidade na produ&ccedil;&atilde;o de alimentos e por agregar aos trabalhadores na luta por terras no Brasil. Hoje, somos o maior produtor de arroz org&acirc;nico da Am&eacute;rica Latina, apenas para citar um exemplo.&nbsp;<br />
+O MST, que completou&nbsp;35 anos em 2019, luta pela produ&ccedil;&atilde;o de alimentos saud&aacute;veis fruto da produ&ccedil;&atilde;o dos&nbsp;trabalhadores e trabalhadoras em todos os acampamentos e assentamentos do pa&iacute;s.&nbsp;Hoje, somos o maior produtor de arroz org&acirc;nico da Am&eacute;rica Latina, apenas para citar um exemplo.&nbsp;<br />
 &nbsp;</p>
 
 <p>&nbsp;</p>
 
 <p><strong>3. Organiza&ccedil;&atilde;o coletiva</strong><br />
 <br />
-Gra&ccedil;as &agrave; organiza&ccedil;&atilde;o, os trabalhadores rurais est&atilde;o presentes nas cooperativas, associa&ccedil;&otilde;es e agroind&uacute;strias nos assentamentos. Atualmente, o MST organiza sete principais cadeias produtivas: feij&atilde;o, arroz, leite, caf&eacute;, sucos, sementes e mel.&nbsp; &nbsp;<br />
+Gra&ccedil;as a&nbsp;organiza&ccedil;&atilde;o, os trabalhadores rurais est&atilde;o presentes nas cooperativas, associa&ccedil;&otilde;es e agroind&uacute;strias nos assentamentos. Atualmente, o MST organiza sete principais cadeias produtivas: feij&atilde;o, arroz, leite, caf&eacute;, sucos, sementes e mel.&nbsp; &nbsp;<br />
 &nbsp;</p>
 
 <p><strong>4. Educa&ccedil;&atilde;o no campo</strong><br />
