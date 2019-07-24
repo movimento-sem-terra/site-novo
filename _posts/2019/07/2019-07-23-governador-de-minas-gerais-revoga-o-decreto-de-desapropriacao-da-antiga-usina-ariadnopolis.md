@@ -63,6 +63,4 @@ Zema, qualquer viol&ecirc;ncia no campo que possa ocorrer agora, foi decretada p
 <p align="right"><strong>Belo Horizonte, 23 de julho de 2019.</strong></p>
 
 <p><br />
-<strong>Entenda mais sobre a hist&oacute;ria do Acampamento Quilombo Campo Grande nos links ao lado (inserir links das mat&eacute;rias anteriores)</strong></p>
-
-<div>&nbsp;</div>
+<a href="https://www.mst.org.br/2019/07/04/julgamento-do-despejo-no-acampamento-quilombo-campo-grande.html"><strong>Entenda mais sobre a hist&oacute;ria do Acampamento Quilombo Campo Grande&nbsp;</strong></a></p>
