@@ -4,7 +4,7 @@ tags:
   - tag: mulher-negra
   - tag: mulheres
   - tag: américa-latina
-title: "Vinte e cinco de julho: Memorar a Luta e Resistência das Guerreiras Negras"
+title: "25 de julho: Memorar a Luta e Resistência das Guerreiras Negras"
 section: featured-news
 menu: "educação, cultura e comunicação"
 label: articles
@@ -35,10 +35,11 @@ releated_posts:
 </div>
 
 <p><br />
-<em>Por&nbsp;Maysa Mathias*</em></p>
+<em>Por&nbsp;Maysa Mathias* e&nbsp;</em></p>
 
-<p><br />
-25 de julho &eacute; o dia Nacional de Tereza de Benguela e da Mulher Negra. A homenagem &agrave; guerreira e lideran&ccedil;a quilombola foi criada pela Lei n&ordm; 12.987/2014, durante o governo da presidenta Dilma Roussef. O dia 25 de Julho &eacute; tamb&eacute;m o Dia Internacional da Mulher Negra Latino-Americana e Caribenha, data que passou a ser comemorada a partir de 1992, ap&oacute;s a realiza&ccedil;&atilde;o do 1&ordm; Encontro de Mulheres Afro-latino-americanas e Afro-caribenhas, realizado em Santo Domingo, na Rep&uacute;blica Dominicana.</p>
+<p>Simone Magalh&atilde;es</p>
+
+<p>25 de julho &eacute; o dia Nacional de Tereza de Benguela e da Mulher Negra. A homenagem &agrave; guerreira e lideran&ccedil;a quilombola foi criada pela Lei n&ordm; 12.987/2014, durante o governo da presidenta Dilma Roussef. O dia 25 de Julho &eacute; tamb&eacute;m o Dia Internacional da Mulher Negra Latino-Americana e Caribenha, data que passou a ser comemorada a partir de 1992, ap&oacute;s a realiza&ccedil;&atilde;o do 1&ordm; Encontro de Mulheres Afro-latino-americanas e Afro-caribenhas, realizado em Santo Domingo, na Rep&uacute;blica Dominicana.</p>
 
 <p><br />
 Lembrar Tereza de Benguela, mulher negra que liderou o Quilombo do Quariter&ecirc;, no s&eacute;culo 18, localizado na regi&atilde;o do atual estado do Mato Grosso, &eacute; resgatar &agrave; mem&oacute;ria, resist&ecirc;ncia e luta dos negros e das negras contra o sistema escravista imposto pelo modo de produ&ccedil;&atilde;o capitalista na sua fase colonial. Mas significa tamb&eacute;m reconhecer a hist&oacute;rica e permanente participa&ccedil;&atilde;o, for&ccedil;a, coragem e ousadia da Mulher Negra na luta pela liberta&ccedil;&atilde;o e constru&ccedil;&atilde;o de uma sociedade nova.</p>
@@ -81,4 +82,4 @@ FARIAS JUNIOR, Emmanuel de Almeida. Negros do Guapor&eacute;: o sistema escravis
 
 <p><em>*Maysa Mathias &eacute; agr&ocirc;noma, LGBT, negra, Sem Terra e integrante do Grupo de Estudos do MST sobre terra, ra&ccedil;a e classe; </em></p>
 
-<p><em>** Com colabora&ccedil;&atilde;o de Simone Magalh&atilde;es, mulher, negra, Sem Terra, dirigente regional do setor de Forma&ccedil;&atilde;o em SP e integrante do Grupo de Estudos do MST sobre terra, ra&ccedil;a e classe;</em></p>
+<p><em>** Simone Magalh&atilde;es &eacute;&nbsp;mulher, negra, Sem Terra, dirigente regional do setor de Forma&ccedil;&atilde;o em SP e integrante do Grupo de Estudos do MST sobre terra, ra&ccedil;a e classe;</em></p>
