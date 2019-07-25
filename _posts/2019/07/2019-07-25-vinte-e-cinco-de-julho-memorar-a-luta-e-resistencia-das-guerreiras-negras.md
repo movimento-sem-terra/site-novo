@@ -5,7 +5,7 @@ tags:
   - tag: mulheres
   - tag: américa-latina
 title: "25 de julho: Memorar a Luta e Resistência das Guerreiras Negras"
-section: featured-news
+section: cover
 menu: "educação, cultura e comunicação"
 label: articles
 support_line: Artigo ressalta lutas e memórias no Dia Internacional da Mulher Negra Latino-Americana e Caribenha
