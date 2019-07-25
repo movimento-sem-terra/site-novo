@@ -35,9 +35,7 @@ releated_posts:
 </div>
 
 <p><br />
-<em>Por&nbsp;Maysa Mathias* e&nbsp;</em></p>
-
-<p>Simone Magalh&atilde;es</p>
+<em>Por&nbsp;Maysa Mathias* e&nbsp;Simone Magalh&atilde;es**</em></p>
 
 <p>25 de julho &eacute; o dia Nacional de Tereza de Benguela e da Mulher Negra. A homenagem &agrave; guerreira e lideran&ccedil;a quilombola foi criada pela Lei n&ordm; 12.987/2014, durante o governo da presidenta Dilma Roussef. O dia 25 de Julho &eacute; tamb&eacute;m o Dia Internacional da Mulher Negra Latino-Americana e Caribenha, data que passou a ser comemorada a partir de 1992, ap&oacute;s a realiza&ccedil;&atilde;o do 1&ordm; Encontro de Mulheres Afro-latino-americanas e Afro-caribenhas, realizado em Santo Domingo, na Rep&uacute;blica Dominicana.</p>
 
