@@ -90,7 +90,7 @@ De 17 a 31 de julho, 20 educandos das 10 regionais MST no estado de S&atilde;o P
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="EPTV_Filipe5.jpeg" height="225" src="//farm66.staticflickr.com/65535/48375074972_05315e7a81_b.jpg" width="300" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p>Sobre o curso em andamento, o diretor de teatro da Companhia Antropof&aacute;gica, Tiago Vasconcelos, afirmou que a concep&ccedil;&atilde;o da primeira turma popular de teatro e v&iacute;deo surgiu junto com o Movimento Sem Terra e junto com os grupos de teatro faz mais de um ano. De acordo com ele, a concep&ccedil;&atilde;o foi pensada coletivamente de modo a favorecer um programa pol&iacute;tico, po&eacute;tico e est&eacute;tico que dialogue com as demais escolas de teatro e v&iacute;deo do MST espalhadas pelo pa&iacute;s.<br />
