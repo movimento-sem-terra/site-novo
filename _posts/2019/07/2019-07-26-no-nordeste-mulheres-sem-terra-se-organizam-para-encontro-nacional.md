@@ -50,7 +50,8 @@ releated_posts:
 </figure>
 </div>
 
-<p><em>Por Wesley Lima<br />
+<p><br />
+<em>Por Wesley Lima<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
