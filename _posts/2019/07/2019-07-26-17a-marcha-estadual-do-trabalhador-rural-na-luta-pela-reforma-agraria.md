@@ -81,7 +81,7 @@ Sob sol e chuva, trabalhadores rurais de todo estado de Sergipe participaram, ne
 <p>Ele ressaltou que 2019 tem sido um ano muito importante na luta n&atilde;o s&oacute; do povo Sem Terra como de todos os brasileiros, diante de um governo autorit&aacute;rio como o de Bolsonaro.&nbsp;<br />
 &nbsp;</p>
 
-<p>&ldquo;O MST chegou at&eacute; aqui tendo nascido na ditadura militar. Ajudamos a enfrent&aacute;-la e derrotamos os governos Collor, FHC e Temer. O momento &eacute; de ter muita calma e sabedoria, &eacute; momento de nos prepararmos, pois s&oacute; &eacute; poss&iacute;vel derrot&aacute;-lo se tiver uma conjuntura internacional forte, se tiver uma divis&atilde;o entre eles ou se a&ccedil;&atilde;o muito forte da oposi&ccedil;&atilde;o&rdquo;, concluiu.<br />
+<p>&ldquo;O MST chegou at&eacute; aqui tendo nascido na ditadura militar. Ajudamos a enfrent&aacute;-la e enfrentamos os governos Collor, FHC e Temer. O momento &eacute; de ter muita calma e sabedoria, &eacute; momento de nos prepararmos, pois s&oacute; &eacute; poss&iacute;vel derrot&aacute;-lo se tiver uma conjuntura internacional forte, se tiver uma divis&atilde;o entre eles ou se a&ccedil;&atilde;o muito forte da oposi&ccedil;&atilde;o&rdquo;, concluiu.<br />
 &nbsp;</p>
 
 <p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
