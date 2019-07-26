@@ -68,7 +68,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-A trajet&oacute;ria das mulheres da metropolitana come&ccedil;a a 20 anos atr&aacute;s, com a primeira ocupa&ccedil;&atilde;o. Em 2019, o assentamento 2 de Julho, localizado em Betim (MG), completa 20 anos de luta e resist&ecirc;ncia.</p>
+A trajet&oacute;ria das mulheres da metropolitana come&ccedil;a h&aacute; 20 anos atr&aacute;s, com a primeira ocupa&ccedil;&atilde;o. Em 2019, o assentamento 2 de Julho, localizado em Betim (MG), completa 20 anos de luta e resist&ecirc;ncia.</p>
 
 <p><br />
 O in&iacute;cio da regional e do protagonismo das companheiras buscava garantir a organicidade dos acampamentos pautando as escolas do campo, a sa&uacute;de coletiva de qualidade, os tratamentos alternativo e o direito a uma vida digna. Ao todo, a regional tem cinco assentamentos: 2 de Julho, Ho Chi Minh, Jo&atilde;o Pedro Teixeira, Resist&ecirc;ncia e Ismene Mendes.<br />
