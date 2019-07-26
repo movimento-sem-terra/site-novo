@@ -1,10 +1,13 @@
 ---
 date: "2019-07-26T16:48:16-03:00"
-tags: []
+tags:
+  - tag: mulheres
+  - tag: américa-latina
+  - tag: mulher-negra
 title: “Eu tenho muito orgulho de produzir alimentos”
 support_line: "​Conheça a história de Ana Crisitina Quevedo, ex-trabalhadora urbana que se encontrou na vida de agricultora\n\n"
 menu: agricultura camponesa
-images_hd: //farm66.staticflickr.com/65535/48382523027_d72a302cef_b.jpg
+images_hd: //farm66.staticflickr.com/65535/48382523192_16ee8db7ca_b.jpg
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/48382523027_d72a302cef_b.jpg
@@ -29,13 +32,21 @@ files:
     title: "Alimentos produzidos por Ana em seu lote, em São Gabriel.jpg"
     $$hashKey: "036"
 created_date: "2019-07-26T16:55:53-03:00"
-published: false
-releated_posts: []
+published: true
+releated_posts:
+  - _posts/2019/07/2019-07-25-vinte-e-cinco-de-julho-memorar-a-luta-e-resistencia-das-guerreiras-negras.md
+  - _posts/2019/07/2019-07-25-mulheres-trans-sem-terra-e-a-participacao-politica.md
+  - _posts/2019/07/2019-07-25-dona-neusa-e-a-forca-da-mulher-negra-na-cura.md
+  - _posts/2018/09/2018-09-18-e-a-nossa-coragem-e-ousadia-que-construirao-um-mundo-onde-todas-nos-possamos-viver.md
+  - _posts/2018/09/2018-09-28-mulheres-unidas-contra-bolsonaro-lancam-manifesto-sobre-as-mobilizacoes-deste-sabado-29.md
+  - _posts/2018/09/2018-09-28-e-pela-vida-das-mulheres-descriminalizacao-do-aborto-e-uma-bandeira-de-luta-de-todas.md
+  - _posts/2018/10/2018-10-04-o-voto-das-mulheres-e-decisivo-para-o-futuro-do-brasil-por-isso-nao-podemos-titubear.md
+  - _posts/2018/10/2018-10-21-milhares-de-manifestantes-vao-as-ruas-do-brasil-contra-bolsonaro.md
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Os filhos Valquíria e Julio moram com Ana no lote conqusitado na luta pela terra.jpg" height="420" src="//farm66.staticflickr.com/65535/48382523027_d72a302cef_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption><em>Os filhos Valquíria e Julio moram com Ana no lote conquistado na luta pela terra.</em></figcaption>
 </figure>
 </div>
 
@@ -49,8 +60,15 @@ A hist&oacute;ria da Ana Cristina Quevedo &eacute; sobre uma trabalhadora urbana
 <p><br />
 Ana vem de uma fam&iacute;lia que h&aacute; v&aacute;rias gera&ccedil;&otilde;es ganhava a vida com o trabalho na cidade. O seu av&ocirc; tinha uma olaria onde fabricava tijolos, sua m&atilde;e &eacute; faxineira e seu pai era eletricista. Ela morou at&eacute; os 20 anos em sua terra natal e, ap&oacute;s se casar com um filho de assentados, se mudou para Cangu&ccedil;u, um munic&iacute;pio que tamb&eacute;m se localiza na regi&atilde;o Sul do estado. L&aacute;, tiveram dois filhos: Valqu&iacute;ria, hoje com 17 anos, e Jos&eacute; Augusto, de 19 anos. &ldquo;Eu vivia a realidade da cidade. Depois, quando fui pra fora, parece que me encontrei. Gostei muito da conviv&ecirc;ncia, da cria&ccedil;&atilde;o que eu podia dar aos meus filhos l&aacute;&rdquo;, acrescenta.</p>
 
-<p><br />
-Ana lembra que foi em Cangu&ccedil;u, onde trabalhava com a monocultura de fumo, que ela come&ccedil;ou a compreender a import&acirc;ncia da democratiza&ccedil;&atilde;o do acesso &agrave; terra no pa&iacute;s. Em 2005, foi convidada por fam&iacute;lias assentadas para participar da Marcha Nacional pela Reforma Agr&aacute;ria, organizada pelo Movimento dos Trabalhadores Rurais Sem Terra (MST), de Goi&acirc;nia a Bras&iacute;lia. No ano seguinte, j&aacute; separada do seu companheiro, Ana passou a construir a sua pr&oacute;pria hist&oacute;ria na luta pela terra.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Ana Cristina Quevedo, mulher negra, Sem Terra e agricultora, sente orgulho de quem se tornou.jpg" height="450" src="//farm66.staticflickr.com/65535/48382382031_dcf39712d0_b.jpg" width="300" />
+<figcaption><em>Ana Cristina Quevedo, mulher negra,<br />
+Sem Terra e agricultora, sente orgulho<br />
+de quem se tornou</em></figcaption>
+</figure>
+
+<p>Ana lembra que foi em Cangu&ccedil;u, onde trabalhava com a monocultura de fumo, que ela come&ccedil;ou a compreender a import&acirc;ncia da democratiza&ccedil;&atilde;o do acesso &agrave; terra no pa&iacute;s. Em 2005, foi convidada por fam&iacute;lias assentadas para participar da Marcha Nacional pela Reforma Agr&aacute;ria, organizada pelo Movimento dos Trabalhadores Rurais Sem Terra (MST), de Goi&acirc;nia a Bras&iacute;lia. No ano seguinte, j&aacute; separada do seu companheiro, Ana passou a construir a sua pr&oacute;pria hist&oacute;ria na luta pela terra.</p>
 
 <p><br />
 &ldquo;Antes de ir pro acampamento eu me separei. Esse foi o per&iacute;odo mais complicado que eu passei. At&eacute; me encontrar e descobrir que poderia ter a oportunidade de conquistar o que era meu, eu tive que trabalhar para os outros no fumo e deixar os filhos com o meu ex-marido. Foi um desafio muito grande. Mas gra&ccedil;as &agrave; luta eu conquistei a terra e pude trazer meus filhos comigo. Como eu tinha um lugar pra ficar com eles, juiz nenhum me tirou&rdquo;, explica.</p>
@@ -64,9 +82,14 @@ O primeiro acampamento de Ana foi em Camaqu&atilde;, na regi&atilde;o Centro-Sul
 <p><br />
 Ana est&aacute; assentada h&aacute; dez anos no assentamento Conquista do Caiboat&eacute;, em S&atilde;o Gabriel, onde mora com os seus filhos J&uacute;lio, de 9 anos, e Valqu&iacute;ria. Ela abandonou as lidas no fumo, que apesar dos riscos de contamina&ccedil;&atilde;o por agrot&oacute;xicos foram importantes para a sua sobreviv&ecirc;ncia ap&oacute;s a separa&ccedil;&atilde;o, e apostou num outro tipo de agricultura. No lote tem horta e lavouras de arroz, batata-doce, mandioca, ab&oacute;bora e moranga. A agricultora, que tamb&eacute;m cria porcos, galinhas e vacas de leite, faz queijos e doces para vender na cidade.</p>
 
-<p><br />
-&ldquo;A minha vida e a vida da minha fam&iacute;lia melhoraram muito depois que viemos pro assentamento. Hoje eu moro numa casa de madeira, meus filhos moram comigo e tenho a minha terra, que foi conquistada com muita luta&rdquo;, destaca.<br />
-&nbsp;</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Alimentos produzidos por Ana em seu lote, em São Gabriel.jpg" height="394" src="//farm66.staticflickr.com/65535/48382523192_16ee8db7ca_b.jpg" width="300" />
+<figcaption><em>Alimentos produzidos por Ana em&nbsp;<br />
+seu lote, em São Gabriel</em></figcaption>
+</figure>
+
+<p>&ldquo;A minha vida e a vida da minha fam&iacute;lia melhoraram muito depois que viemos pro assentamento. Hoje eu moro numa casa de madeira, meus filhos moram comigo e tenho a minha terra, que foi conquistada com muita luta&rdquo;, destaca.</p>
 
 <p>Para Ana, ser agricultora &eacute; motivo de orgulho, pois nessa profiss&atilde;o conquistou vida digna e pode contribuir com a alimenta&ccedil;&atilde;o de quem vive na cidade. Ela acredita que os camponeses s&atilde;o valorizados pela sociedade, mas n&atilde;o pelo atual governo federal. Bolsonaro cortou pol&iacute;ticas p&uacute;blicas que impulsionavam a produ&ccedil;&atilde;o de alimentos e melhoravam a qualidade de vida dos pequenos agricultores. Por esse motivo, a assentada ressalta que na data 25 de Julho, pouco se tem a comemorar.</p>
 
@@ -89,4 +112,4 @@ Mesmo com esse sentimento&nbsp;de que os governantes poderiam fazer mais por que
 <em>*Editado por Fernanda Alc&acirc;ntara</em></p>
 
 <p><br />
-<em>** Este perfil faz parte de uma s&eacute;rie que homenageia mulheres Sem Terra na Dia Internacional da Mulher Negra Latino-Americana e Caribenha​. Leia outra <a href="http://www.mst.org.br/2019/07/24/lucineide-soares-negra-nordestina-e-de-luta.html">aqui</a>&nbsp;e <a href="http://www.mst.org.br/2019/07/25/dona-neusa-e-a-forca-da-mulher-negra-na-cura.html">aqui</a>.&nbsp;</em></p>
+<em>** Este perfil faz parte de uma s&eacute;rie que homenageia mulheres Sem Terra na Dia Internacional da Mulher Negra Latino-Americana e Caribenha​. Leia outras <a href="http://www.mst.org.br/2019/07/24/lucineide-soares-negra-nordestina-e-de-luta.html">aqui</a>&nbsp;e <a href="http://www.mst.org.br/2019/07/25/dona-neusa-e-a-forca-da-mulher-negra-na-cura.html">aqui</a>.&nbsp;</em></p>
