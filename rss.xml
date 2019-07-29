@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Documentário | Educação em Movimento</title>
+				<description>Aborda experiências de educação por toda a América Latina!</description>
+				<pubDate>Mon, 29 Jul 2019 16:03:54 -0300</pubDate>
+				<link>http://www.mst.org.br/2019/07/29/documentario-or-educacao-em-movimento.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2019/07/29/documentario-or-educacao-em-movimento.html</guid>
+			</item>
+		
+			<item>
 				<title>Sofremos uma derrota gravíssima na previdência, afirma Stedile</title>
 				<description> Trabalhadores precarizados estão lutando pela sobrevivência e não conseguem visualizar daqui 30 anos</description>
 				<pubDate>Mon, 29 Jul 2019 15:43:54 -0300</pubDate>
@@ -78,14 +86,6 @@
 				<pubDate>Thu, 25 Jul 2019 15:27:33 -0300</pubDate>
 				<link>http://www.mst.org.br/2019/07/25/esta-no-ar-o-novo-site-da-jornada-de-agroecologia.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2019/07/25/esta-no-ar-o-novo-site-da-jornada-de-agroecologia.html</guid>
-			</item>
-		
-			<item>
-				<title>&quot;Só saio desta terra morto!&quot;</title>
-				<description>Memória de um trabalhador que foi morto lutando - Luis Ferreira vive! </description>
-				<pubDate>Thu, 25 Jul 2019 14:44:06 -0300</pubDate>
-				<link>http://www.mst.org.br/2019/07/25/so-saio-desta-terra-morto.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2019/07/25/so-saio-desta-terra-morto.html</guid>
 			</item>
 		
 	</channel>
