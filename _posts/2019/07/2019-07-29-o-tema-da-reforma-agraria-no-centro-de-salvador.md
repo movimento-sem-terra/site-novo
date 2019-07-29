@@ -78,10 +78,6 @@ Para Milton Formaziere, conhecido como Rascunho, tamb&eacute;m da dire&ccedil;&a
 <p>A m&eacute;dica Aline Viana, 34, veio &agrave; feira ap&oacute;s conhecer a proposta da reforma agr&aacute;ria numa palestra oferecida pela Universidade Federal da Bahia (UFBA). Antes disso, Aline tinha outra vis&atilde;o do MST mas, atualmente, sua ideia ampliou. &ldquo;A feira &eacute; um importante evento, pois coloca produtos saud&aacute;veis &agrave; disposi&ccedil;&atilde;o dos cidad&atilde;os, inclusive com um valor mais acess&iacute;vel &agrave; popula&ccedil;&atilde;o&rdquo;, comenta Aline.&nbsp;<br />
 &nbsp;</p>
 
-<p>LEIA MAIS: Na Bahia, agroecologia &eacute; o caminho percorrido para transforma&ccedil;&atilde;o social</p>
-
-<p>&nbsp;</p>
-
 <p><br />
 Al&eacute;m dos alimentos naturais e livres de veneno, a feira est&aacute; contemplando espa&ccedil;os para plen&aacute;rias, shows e culin&aacute;ria t&iacute;pica da Bahia. Os debates teve como finalidade pensar, entre outros, os rumos da produ&ccedil;&atilde;o de alimentos saud&aacute;veis e da politica brasileira. As apresenta&ccedil;&otilde;es art&iacute;sticas buscaram resgatar a luta pela terra, com poesias e atra&ccedil;&otilde;es musicais que enfatizassem o trabalho e a luta pela agroecologia.<br />
 &nbsp;</p>
