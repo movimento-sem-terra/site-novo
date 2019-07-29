@@ -61,7 +61,7 @@ releated_posts:
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>Oitenta toneladas de alimentos livres de agrot&oacute;xicos estiveram no centro de Salvador para serem comercializados durante a V Feira da Reforma Agr&aacute;ria da Bahia. Foram 200 agricultoras e agricultores expondo 100 diferentes variedades de produtos cultivados nos acampamentos e assentamentos do Movimento Trabalhadores Rurais Sem Terra (MST) na diversas regi&otilde;es do Estado.&nbsp;</p>
+<p>Oitenta toneladas de alimentos livres de agrot&oacute;xicos estiveram no centro de Salvador para serem comercializados durante a <a href="https://www.mst.org.br/2019/07/23/em-salvador-mst-promove-5a-feira-estadual-da-reforma-agraria.html">V Feira da Reforma Agr&aacute;ria da Bahia</a>. Foram 200 agricultoras e agricultores expondo 100 diferentes variedades de produtos cultivados nos acampamentos e assentamentos do Movimento Trabalhadores Rurais Sem Terra (MST) na diversas regi&otilde;es do Estado.&nbsp;</p>
 
 <p><br />
 Segundo Lucin&eacute;ia Dur&atilde;es, dirigente nacional do MST na Bahia, a feira contribui para difundir o modelo de desenvolvimento que beneficia os trabalhadores e as trabalhadoras, do campo e da cidade. &ldquo;O modelo de desenvolvimento que interessa ao povo &eacute; o que preserva a sa&uacute;de das pessoas, o meio ambiente e o solo como elementos duradouros. Precisamos ter respeito pelas quest&otilde;es ecol&oacute;gicas e sociais&rdquo;, afirma a dirigente.</p>
@@ -78,7 +78,12 @@ Para Milton Formaziere, conhecido como Rascunho, tamb&eacute;m da dire&ccedil;&a
 <p>A m&eacute;dica Aline Viana, 34, veio &agrave; feira ap&oacute;s conhecer a proposta da reforma agr&aacute;ria numa palestra oferecida pela Universidade Federal da Bahia (UFBA). Antes disso, Aline tinha outra vis&atilde;o do MST mas, atualmente, sua ideia ampliou. &ldquo;A feira &eacute; um importante evento, pois coloca produtos saud&aacute;veis &agrave; disposi&ccedil;&atilde;o dos cidad&atilde;os, inclusive com um valor mais acess&iacute;vel &agrave; popula&ccedil;&atilde;o&rdquo;, comenta Aline.&nbsp;<br />
 &nbsp;</p>
 
-<p>Al&eacute;m dos alimentos naturais e livres de veneno, a feira est&aacute; contemplando espa&ccedil;os para plen&aacute;rias, shows e culin&aacute;ria t&iacute;pica da Bahia. Os debates teve como finalidade pensar, entre outros, os rumos da produ&ccedil;&atilde;o de alimentos saud&aacute;veis e da politica brasileira. As apresenta&ccedil;&otilde;es art&iacute;sticas buscaram resgatar a luta pela terra, com poesias e atra&ccedil;&otilde;es musicais que enfatizassem o trabalho e a luta pela agroecologia.<br />
+<p>LEIA MAIS: Na Bahia, agroecologia &eacute; o caminho percorrido para transforma&ccedil;&atilde;o social</p>
+
+<p>&nbsp;</p>
+
+<p><br />
+Al&eacute;m dos alimentos naturais e livres de veneno, a feira est&aacute; contemplando espa&ccedil;os para plen&aacute;rias, shows e culin&aacute;ria t&iacute;pica da Bahia. Os debates teve como finalidade pensar, entre outros, os rumos da produ&ccedil;&atilde;o de alimentos saud&aacute;veis e da politica brasileira. As apresenta&ccedil;&otilde;es art&iacute;sticas buscaram resgatar a luta pela terra, com poesias e atra&ccedil;&otilde;es musicais que enfatizassem o trabalho e a luta pela agroecologia.<br />
 &nbsp;</p>
 
 <p><strong>Da ro&ccedil;a &agrave; mesa</strong></p>
