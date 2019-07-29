@@ -29,15 +29,14 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="BdF [90].jpg" height="468" src="//farm66.staticflickr.com/65535/48407412612_dfe420f246_b.jpg" width="700" />
-<figcaption><em>Greve de servidores da educa&ccedil;&atilde;o de MT completaram 2 meses.&nbsp; Foto: Sintep-MT/Assessoria</em><br />
-</figcaption>
+<figcaption><em>Greve de servidores da educa&ccedil;&atilde;o de MT completaram 2 meses.&nbsp; Foto: Sintep-MT/Assessoria</em></figcaption>
 </figure>
 </div>
 
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-A greve dos servidores da educa&ccedil;&atilde;o do Mato Grosso completou 2 meses neste &uacute;ltimo s&aacute;bado (27). Os(as) trabalhadores(as) exigem reajustes de sal&aacute;rios, cronograma de obras para reforma de unidades escolares e outras demanda que auxiliem na melhoria das condi&ccedil;&otilde;es na educa&ccedil;&atilde;o do estado.</p>
+A greve dos servidores da educa&ccedil;&atilde;o do Mato Grosso completou 2 meses neste &uacute;ltimo s&aacute;bado (27). Os(as) trabalhadores(as) exigem reajustes de sal&aacute;rios, cronograma de obras para reforma de unidades escolares e outras demandas que auxiliem na melhoria das condi&ccedil;&otilde;es na educa&ccedil;&atilde;o do estado.</p>
 
 <p><br />
 Confira nota de apoio do MST no MT abaixo.<br />
