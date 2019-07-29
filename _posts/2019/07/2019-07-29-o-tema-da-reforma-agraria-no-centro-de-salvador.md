@@ -95,6 +95,9 @@ Jos&eacute; Cl&aacute;udio do Nascimento, 37 anos, trouxe pra feira amendoim, ab
 <p>&ldquo;Eles perguntam se &eacute; a gente mesmo que planta e se eles s&atilde;o realmente sem veneno. A&iacute; eu digo que sim, e que a orienta&ccedil;&atilde;o do MST &eacute; plantar sem veneno, que temos que preservar a vida&rdquo;, explica. Para o agricultor, &ldquo;veneno significa morte&rdquo;. &ldquo;A gente sabe quando h&aacute; veneno em um solo, ele fica sem vida. &Eacute; como ver um rio polu&iacute;do, a gente sabe que ele &eacute; um rio, mas percebe que n&atilde;o h&aacute; vida nele&rdquo;.&nbsp;<br />
 &nbsp;</p>
 
+<p>LEIA MAIS:&nbsp;<a href="http://www.mst.org.br/2019/02/07/na-bahia-agroecologia-e-o-caminho-percorrido-para-transformacao-social.html">Na Bahia, agroecologia &eacute; o caminho percorrido para transforma&ccedil;&atilde;o social</a><br />
+&nbsp;</p>
+
 <figure class="image" style="float:right"><img alt="Feira [3].jpg" height="225" src="//farm66.staticflickr.com/65535/48407049212_ddcd30d31c_b.jpg" width="300" />
 <figcaption><em>Foram 200 agricultoras e agricultores<br />
 expondo 100 diferentes variedades de produtos&nbsp;</em></figcaption>
