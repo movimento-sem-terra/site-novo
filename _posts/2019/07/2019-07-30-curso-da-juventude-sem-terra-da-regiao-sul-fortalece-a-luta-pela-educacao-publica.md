@@ -134,14 +134,14 @@ O riso tamb&eacute;m ganhou a cena durante a programa&ccedil;&atilde;o. Os palha
 
 <p><strong>O que a juventude Sem Terra quer para o futuro?&nbsp;</strong><br />
 <br />
-As fotolegendas a seguir s&atilde;o resultado de uma das oficinas de comunica&ccedil;&atilde;o do curso:</p>
+As fotolegendas a seguir s&atilde;o resultado de uma das oficinas de comunica&ccedil;&atilde;o do curso:<br />
+&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="Eliedson.jpeg" height="135" src="//farm66.staticflickr.com/65535/48414964107_1e9f262114_b.jpg" width="240" />
+<figure class="image" style="float:left"><img alt="Eliedson.jpeg" height="158" src="//farm66.staticflickr.com/65535/48414964107_1e9f262114_b.jpg" width="280" />
 <figcaption></figcaption>
 </figure>
 
-<p><br />
-<em>&ldquo;Quero que se formem muitas pessoas e que as elas tenham acesso ao ensino superior. E que n&atilde;o falte oportunidade de cursos para a juventude&quot;.</em><br />
+<p><em>&ldquo;Quero que se formem muitas pessoas e que as elas tenham acesso ao ensino superior. E que n&atilde;o falte oportunidade de cursos para a juventude&quot;.</em><br />
 <br />
 <strong>Eliedson Souza Antunes</strong>, morador do acampamento da reforma agr&aacute;ria Variante em Porecatu-PR:&nbsp;</p>
 
