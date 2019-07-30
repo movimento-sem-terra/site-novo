@@ -124,49 +124,78 @@ As fotolegendas a seguir s&atilde;o resultado de uma das oficinas de comunica&cc
 
 <p><br />
 <em>&ldquo;Quero que se formem muitas pessoas e que as elas tenham acesso ao ensino superior. E que n&atilde;o falte oportunidade de cursos para a juventude&quot;.</em><br />
+<br />
 <strong>Eliedson Souza Antunes</strong>, morador do acampamento da reforma agr&aacute;ria Variante em Porecatu-PR:&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><br />
+&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Caique.jpeg" height="180" src="//farm66.staticflickr.com/65535/48414964187_283bffa618_b.jpg" width="240" />
 <figcaption></figcaption>
 </figure>
 
 <p><br />
-<br />
 <em>&ldquo;Desejo conquistar um peda&ccedil;o de terra para produzir alimentos saud&aacute;veis e comercializar no meu pr&oacute;prio munic&iacute;pio, para ter renda pr&oacute;pria&rdquo;.&nbsp;</em><br />
 <br />
 <strong>Caique Botelho Lopes</strong>, estudante no acampamento Herdeiros da Luta de Porecatu, Norte do Paran&aacute;:&nbsp;</p>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Ver&ocirc;nica de Almeida</strong>, Agricultora sem terra, mora no Acampamento 1&ordm; de agosto, Cascavel, Paran&aacute;:<br />
-Desejo que as leis democr&aacute;ticas sejam verdadeiramente cumpridas, porque na maioria das vezes as pessoas que deveriam fazerem as leis serem&nbsp; cumpridas, est&atilde;o corrompidas pelo poder&quot;.&nbsp;<br />
+<p><br />
 &nbsp;</p>
 
-<p>Fernanda Almeida Padilha, moradora do acampamento 1&deg; de Agosto, em Cascavel, Paran&aacute;: &quot;O que espero para o futuro &eacute; Lula Livre. N&atilde;o h&aacute; prova alguma contra ele, e na realidade Lula &eacute; um preso pol&iacute;tico, pois sua liberdade pode mudar muita coisa, ir&aacute; melhorar a conjuntura pela qual a classe trabalhadora vem sofrendo, principalmente se for aprovada a reforma da previd&ecirc;ncia&rdquo;.&nbsp;</p>
+<figure class="image" style="float:left"><img alt="Verônica.jpeg" height="180" src="//farm66.staticflickr.com/65535/48414963807_6084aa0c01_b.jpg" width="240" />
+<figcaption></figcaption>
+</figure>
 
 <p><br />
-Mateus Br&aacute;z Werner, da regi&atilde;o metropolitana de Porto Alegre, Rio Grande do Sul, do assentamento Santa Rita de C&aacute;ssia II:&nbsp;<br />
-&ldquo;Minha preocupa&ccedil;&atilde;o com o futuro da educa&ccedil;&atilde;o &eacute; com as reformas que ainda poder&atilde;o acontecer no ensino m&eacute;dio, pois acho que isso vai prejudicar o aprendizado pol&iacute;tico e hist&oacute;rico sobre a sociedade em que vivemos&rdquo;.&nbsp;</p>
+&quot;<em>Desejo que as leis democr&aacute;ticas sejam verdadeiramente cumpridas, porque na maioria das vezes as pessoas que deveriam fazerem as leis serem&nbsp; cumpridas, est&atilde;o corrompidas pelo poder&quot;.&nbsp;</em><br />
+<br />
+<strong>Ver&ocirc;nica de Almeida</strong>, Agricultora sem terra, mora no Acampamento 1&ordm; de agosto, Cascavel (PR)</p>
 
-<p>Versos da luta&nbsp;<br />
-A poesia a seguir tamb&eacute;m &eacute; fruto de produ&ccedil;&atilde;o coletiva em uma das oficinas do curso:&nbsp;</p>
+<p><br />
+&nbsp;</p>
 
-<p>Mais um grito<br />
+<figure class="image" style="float:right"><img alt="Fernanda.jpeg" height="188" src="//farm66.staticflickr.com/65535/48414813366_9d4a644a97_b.jpg" width="250" />
+<figcaption></figcaption>
+</figure>
+
+<p><em>&quot;O que espero para o futuro &eacute; Lula Livre. N&atilde;o h&aacute; prova alguma contra ele, e na realidade Lula &eacute; um preso pol&iacute;tico, pois sua liberdade pode mudar muita coisa, ir&aacute; melhorar a conjuntura pela qual a classe trabalhadora vem sofrendo, principalmente se for aprovada a reforma da previd&ecirc;ncia&rdquo;.&nbsp;</em><br />
+<br />
+<strong>Fernanda Almeida Padilha</strong>, moradora do acampamento 1&deg; de Agosto, em Cascavel(PR)&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Mateus.jpeg" height="188" src="//farm66.staticflickr.com/65535/48414813116_135994fac4_b.jpg" width="250" />
+<figcaption></figcaption>
+</figure>
+
+<p><br />
+<em>&ldquo;Minha preocupa&ccedil;&atilde;o com o futuro da educa&ccedil;&atilde;o &eacute; com as reformas que ainda poder&atilde;o acontecer no ensino m&eacute;dio, pois acho que isso vai prejudicar o aprendizado pol&iacute;tico e hist&oacute;rico sobre a sociedade em que vivemos&rdquo;.&nbsp;</em><br />
+<br />
+<strong>Mateus Br&aacute;z Werner</strong>, do assentamento Santa Rita de C&aacute;ssia II, em Porto Alegre(RS)</p>
+
+<p><br />
+<br />
+<strong>Versos da luta</strong><br />
+<br />
+A poesia a seguir tamb&eacute;m &eacute; fruto de produ&ccedil;&atilde;o coletiva em uma das oficinas do curso:&nbsp;<br />
+&nbsp;</p>
+
+<p><em>Mais um grito<br />
+<br />
 Em grito por liberdade<br />
+<br />
 O homem negro luta por seus direitos&nbsp;<br />
+<br />
 Choro, raiva, vazio<br />
-Acabaremos com o tal preconceito&nbsp;</p>
+<br />
+Acabaremos com o tal preconceito&nbsp;</em></p>
 
-<p>Sabemos que neste mundo<br />
+<p><em>abemos que neste mundo<br />
 Temos muito da direita<br />
+<br />
 Em grito por liberdade&nbsp;<br />
-Levantaremos nossas bandeiras</p>
-
-<p>Pelo fim da manipula&ccedil;&atilde;o&nbsp;<br />
-Sempre lutaremos em forma de manifesta&ccedil;&atilde;o</p>
+Levantaremos nossas bandeiras<br />
+Pelo fim da manipula&ccedil;&atilde;o&nbsp;<br />
+Sempre lutaremos em forma de manifesta&ccedil;&atilde;o</em></p>
