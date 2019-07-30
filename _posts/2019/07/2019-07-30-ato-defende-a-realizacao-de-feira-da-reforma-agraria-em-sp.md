@@ -5,7 +5,7 @@ tags:
   - tag: são-paulo
   - tag: encontro-nacional
 title: Ato defende a realização de Feira da Reforma Agrária em SP
-support_line: Rede Sustenta une organizações em um festival de apoio à Feira Nacional da Reforma Agrária
+support_line: Rede Sustenta une organizações em  festival de apoio à Feira Nacional da Reforma Agrária
 menu: agricultura camponesa
 section: cover
 images_hd: //farm66.staticflickr.com/65535/48415833596_e5a49bc5fd_b.jpg
@@ -36,7 +36,8 @@ releated_posts:
 </figure>
 </div>
 
-<p><em>Da P&aacute;gina do MST</em><br />
+<p><br />
+<em>Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <p>A Feira Nacional da Reforma Agr&aacute;ria, que acontece desde 2015 no Parque&nbsp;da &Aacute;gua Branca, em S&atilde;o Paulo, re&uacute;ne produtos de assentamentos, acampamentos e cooperativas do MST de todas as regi&otilde;es do Brasil.<br />
