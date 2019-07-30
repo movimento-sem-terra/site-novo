@@ -4,7 +4,7 @@ tags:
   - tag: educação
   - tag: juventude-sem-terra
   - tag: vigilia
-section: cover
+section: featured-news
 title: Curso da juventude Sem Terra da região Sul fortalece a luta pela educação pública
 support_line: "​O curso ocorreu na Vigília Lula Livre, em Curitiba, com educandos e educandas de escolas de acampamentos e assentamentos do MST"
 images_hd: //farm66.staticflickr.com/65535/48414964342_aeb96e46a4_b.jpg
@@ -117,10 +117,13 @@ O riso tamb&eacute;m ganhou a cena durante a programa&ccedil;&atilde;o. Os palha
 <p>O curso se constituiu como um espa&ccedil;o para debater formas de enfrentar os ataques que a educa&ccedil;&atilde;o p&uacute;blica e a educa&ccedil;&atilde;o do campo tem sofrido no &uacute;ltimo per&iacute;odo. &ldquo;A juventude vai assumir o seu protagonismo e dever hist&oacute;rico e vai se posicionar e constituir essa trincheira de defesa da educa&ccedil;&atilde;o&rdquo;, explica Juliana Mello. &ldquo;Para n&oacute;s, a educa&ccedil;&atilde;o n&atilde;o &eacute; uma mercadoria, &eacute; um direito conquistado com muita luta, n&atilde;o foi dada de gra&ccedil;a. N&oacute;s n&atilde;o vamos recuar, e a juventude vai ser resist&ecirc;ncia nessa luta&rdquo;, garante.<br />
 &nbsp;</p>
 
-<p>Al&eacute;m dos estudos e da diversidade de experi&ecirc;ncias vividas ao longo da semana de curso, as educandas e educandos levam na mala um kit pedag&oacute;gico com livros da editora Express&atilde;o Popular e um jornal especial sobre a 10&ordf; Jornada Nacional da Juventude Sem Terra, marcada para ocorrer entre os dias 12 e 16 de agosto em todo o Brasil. O jornal &eacute; a simbologia da continuidade das a&ccedil;&otilde;es dos jovens no retorno para casa, com a constru&ccedil;&atilde;o da Jornada.&nbsp;&nbsp;<br />
-&nbsp;</p>
+<p>Al&eacute;m dos estudos e da diversidade de experi&ecirc;ncias vividas ao longo da semana de curso, as educandas e educandos levam na mala um kit pedag&oacute;gico com livros da editora Express&atilde;o Popular e um jornal especial sobre a 10&ordf; Jornada Nacional da Juventude Sem Terra, marcada para ocorrer entre os dias 12 e 16 de agosto em todo o Brasil. O jornal &eacute; a simbologia da continuidade das a&ccedil;&otilde;es dos jovens no retorno para casa, com a constru&ccedil;&atilde;o da Jornada.&nbsp;&nbsp;</p>
 
-<p><strong>Redescobrindo Curitiba&nbsp;</strong><br />
+<p><br />
+LEIA MAIS:&nbsp;<a href="https://www.mst.org.br/2019/07/11/juventude-camponesa-estamos-aqui.html" target="_blank">Juventude camponesa: &ldquo;Estamos aqui!&rdquo;</a></p>
+
+<p><br />
+<strong>Redescobrindo Curitiba&nbsp;</strong><br />
 &nbsp;</p>
 
 <p>A hist&oacute;ria da luta pela terra foi al&eacute;m da sala de aula e pode ser vista pelas ruas de Curitiba com o passeio pela <a href="http://www.fundacaoculturaldecuritiba.com.br/noticias/linha-preta-um-passeio-pela-historia-da-populacao-negra-de-curitiba/">Linha Preta </a>- um roteiro por locais que apresentam a participa&ccedil;&atilde;o da popula&ccedil;&atilde;o negra quilombola na constru&ccedil;&atilde;o da cidade.&nbsp;&nbsp;<br />
