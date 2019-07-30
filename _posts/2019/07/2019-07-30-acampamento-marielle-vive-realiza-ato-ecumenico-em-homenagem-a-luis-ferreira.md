@@ -63,13 +63,13 @@ releated_posts:
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p><em>&ldquo;Por causa de um pouco de terra/ Por uma fatia de p&atilde;o/ Mataram mais um irm&atilde;o/ Mas ele ressucitar&aacute;/ O povo n&atilde;o esquecer&aacute;&rdquo;</em>. A can&ccedil;&atilde;o do Padre Zezinho foi lembrada e retomada em diversos momentos do ato ecum&ecirc;nico realizado no acampamento Marielle Vive!, no &uacute;ltimo domingo (28), <a href="https://www.mst.org.br/2019/07/25/so-saio-desta-terra-morto.html">em homenagem &agrave; mem&oacute;ria do acampado Luis Ferreira da Costa</a>.<br />
+<p><em>&ldquo;Por causa de um pouco de terra/ Por uma fatia de p&atilde;o/ Mataram mais um irm&atilde;o/ Mas ele ressucitar&aacute;/ O povo n&atilde;o esquecer&aacute;&rdquo;</em>. A can&ccedil;&atilde;o do Padre Zezinho foi lembrada e retomada em diversos momentos do ato ecum&ecirc;nico realizado no acampamento Marielle Vive!, no &uacute;ltimo domingo (28), <a href="https://www.mst.org.br/2019/07/25/so-saio-desta-terra-morto.html" target="_blank">em homenagem &agrave; mem&oacute;ria do acampado Luis Ferreira da Costa</a>.<br />
 &nbsp;</p>
 
 <p>Seu Luis, como era conhecido, foi covardemente assassinado pelo vendedor Leo Luiz Ribeiro no &uacute;ltimo dia 18 de julho, em Valinhos (SP). O assassino usou sua caminhonete intencionalmente em dire&ccedil;&atilde;o aos acampados do MST enquanto estes realizavam um protesto pac&iacute;fico, distribuindo alimentos e reivindicando o fornecimento de &aacute;gua &agrave; prefeitura.<br />
 &nbsp;</p>
 
-<p><strong>VEJA MAIS:&nbsp;</strong><a href="https://www.mst.org.br/2019/07/19/mais-uma-vitima-do-odio.html">Mais uma v&iacute;tima do &oacute;dio</a></p>
+<p><strong>VEJA MAIS:&nbsp;</strong><a href="https://www.mst.org.br/2019/07/19/mais-uma-vitima-do-odio.html" target="_blank">Mais uma v&iacute;tima do &oacute;dio</a></p>
 
 <p><br />
 O ato contou com presen&ccedil;a de familiares de seu Luis, fam&iacute;lias acampadas, representantes de organiza&ccedil;&otilde;es e religiosos de diversas linhas teol&oacute;gicas crist&atilde;s. Comovido com o ato e com a presen&ccedil;a maci&ccedil;a dos acampados, um dos filhos agradeceu ao Movimento dos Trabalhadores Rurais Sem Terra por n&atilde;o ter abandonado o seu pai em nenhum momento.<br />
