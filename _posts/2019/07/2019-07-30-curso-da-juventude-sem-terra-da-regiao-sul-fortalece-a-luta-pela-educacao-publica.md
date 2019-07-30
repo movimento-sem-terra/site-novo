@@ -1,6 +1,9 @@
 ---
 date: "2019-07-30T11:33:46-03:00"
-tags: []
+tags:
+  - tag: educação
+  - tag: juventude-sem-terra
+  - tag: vigilia
 section: cover
 title: Curso da juventude Sem Terra da região Sul fortalece a luta pela educação pública
 support_line: "​O curso ocorreu na Vigília Lula Livre, em Curitiba, com educandos e educandas de escolas de acampamentos e assentamentos do MST"
@@ -65,8 +68,13 @@ files:
     title: Valmir Fernandes  (2).jpeg
     $$hashKey: 03L
 created_date: "2019-07-30T12:39:46-03:00"
-published: false
-releated_posts: []
+published: true
+releated_posts:
+  - _posts/2019/07/2019-07-11-conune-comeca-com-discursos-de-resistencia-aos-cortes-do-governo.md
+  - _posts/2019/07/2019-07-02-formacao-de-formadores-do-metodo-sim-eu-posso-no-nordeste.md
+  - _posts/2019/07/2019-07-05-agroecologia-e-educacao-or-escola-luana-carvalho.md
+  - _posts/2019/07/2019-07-12-estudantes-de-todos-os-estados-fazem-ato-em-brasilia-contra-cortes-de-direitos.md
+  - _posts/2019/06/2019-06-11-seminario-da-repam-juventude-promove-discussoes-sobre-ecologia.md
 
 ---
 <p>&nbsp;</p>
@@ -87,15 +95,18 @@ A 1&ordf; Escola de F&eacute;rias da Juventude Sem Terra da regi&atilde;o Sul do
 <p>A intera&ccedil;&atilde;o com a Vig&iacute;lia Lula Livre tornou o dia a dia do curso ainda mais marcantes: &ldquo;Nesse espa&ccedil;o a gente tem contato com diversos sujeitos, de outras organiza&ccedil;&otilde;es, e a gente consegue manter viva a m&iacute;stica junto &agrave; classe trabalhadora, o sentimento de indigna&ccedil;&atilde;o, e cultivar o valor da solidariedade que &eacute; t&atilde;o importante nesse contexto de pris&atilde;o pol&iacute;tica do presidente Lula&rdquo;, afirmou Mello.&nbsp;&nbsp;<br />
 &nbsp;</p>
 
-<p>LEIA MAIS:&nbsp;Um ano depois, Vig&iacute;lia Lula Livre segue sendo a base de apoio em Curitiba</p>
+<p><strong>LEIA MAIS:</strong>&nbsp;<a href="http://www.mst.org.br/2019/04/23/mais-de-um-ano-depois-vigilia-lula-livre-segue-sendo-a-base-de-apoio-do-ex-presidente-lula-em-curitiba.html">Um ano depois, Vig&iacute;lia Lula Livre segue sendo a base de apoio em Curitiba</a></p>
+
+<p><br />
+O riso tamb&eacute;m ganhou a cena durante a programa&ccedil;&atilde;o. Os palha&ccedil;os M&iacute;nima (Luz Medeiros) e Pituim (Ronaldo Pituim), integrantes da <a href="https://www.ciamirabolica.com/">Companhia Mirab&oacute;lica</a>, apresentaram a pe&ccedil;a o &ldquo;Circo &eacute; nosso&rdquo;. O humor n&atilde;o preconceituoso mexeu com toda a turma, e foi um dos momentos fortes de sensibilidade e forma&ccedil;&atilde;o humana.&nbsp;</p>
 
 <p>&nbsp;</p>
 
-<p>O riso tamb&eacute;m ganhou a cena durante a programa&ccedil;&atilde;o. Os palha&ccedil;os M&iacute;nima (Luz Medeiros) e Pituim (Ronaldo Pituim), integrantes da Companhia Mirab&oacute;lica, apresentaram a pe&ccedil;a o &ldquo;Circo &eacute; nosso&rdquo;. O humor n&atilde;o preconceituoso mexeu com toda a turma, e foi um dos momentos fortes de sensibilidade e forma&ccedil;&atilde;o humana.&nbsp;</p>
+<figure class="image" style="float:right"><img alt="Valmir Fernandes  (1).jpeg" height="200" src="//farm66.staticflickr.com/65535/48414963772_d0c7842514_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
 
-<p><br />
-Para o estudante Maison Moreira, do assentamento Valmir Motta, em Cascavel (PR), a forma&ccedil;&atilde;o &eacute; um refor&ccedil;o para as mat&eacute;rias vistas em sala de escola, mas com recorte especial: &ldquo;A gente est&aacute; refor&ccedil;ando essa mat&eacute;rias com um olhar para o povo trabalhador, olhando para a classe trabalhadora. &Eacute; essencial esse tipo de curso e que o MST nos proporciona isso. A gente tem que se sentir privilegiado por estar fazendo&rdquo;.&nbsp;<br />
-&nbsp;</p>
+<p>Para o estudante Maison Moreira, do assentamento Valmir Motta, em Cascavel (PR), a forma&ccedil;&atilde;o &eacute; um refor&ccedil;o para as mat&eacute;rias vistas em sala de escola, mas com recorte especial: &ldquo;A gente est&aacute; refor&ccedil;ando essa mat&eacute;rias com um olhar para o povo trabalhador, olhando para a classe trabalhadora. &Eacute; essencial esse tipo de curso e que o MST nos proporciona isso. A gente tem que se sentir privilegiado por estar fazendo&rdquo;.&nbsp;</p>
 
 <p>&quot;O curso foi importante para minha forma&ccedil;&atilde;o como militante, pois adquiri muito conhecimento e fiquei muito feliz de conhecer a Vig&iacute;lia Lula Livre. E o passeio foi bom, porque tivemos a oportunidade de conhecer melhor a hist&oacute;ria de Curitiba e trabalhar em grupo, o que &eacute; muito importante e o MST &eacute; isso, &eacute; trabalhar no coletivo&quot;, relata a jovem educanda Milena Marcon, do Rio Grande do Sul.<br />
 &nbsp;</p>
@@ -112,7 +123,7 @@ Para o estudante Maison Moreira, do assentamento Valmir Motta, em Cascavel (PR),
 <p><strong>Redescobrindo Curitiba&nbsp;</strong><br />
 &nbsp;</p>
 
-<p>A hist&oacute;ria da luta pela terra foi al&eacute;m da sala de aula e pode ser vista pelas ruas de Curitiba com o passeio pela Linha Preta - um roteiro por locais que apresentam a participa&ccedil;&atilde;o da popula&ccedil;&atilde;o negra quilombola na constru&ccedil;&atilde;o da cidade.&nbsp;&nbsp;<br />
+<p>A hist&oacute;ria da luta pela terra foi al&eacute;m da sala de aula e pode ser vista pelas ruas de Curitiba com o passeio pela <a href="http://www.fundacaoculturaldecuritiba.com.br/noticias/linha-preta-um-passeio-pela-historia-da-populacao-negra-de-curitiba/">Linha Preta </a>- um roteiro por locais que apresentam a participa&ccedil;&atilde;o da popula&ccedil;&atilde;o negra quilombola na constru&ccedil;&atilde;o da cidade.&nbsp;&nbsp;<br />
 &nbsp;</p>
 
 <p>O trajeto inicial da Linha Preta inclui 13 pontos hist&oacute;ricos da cidade, entre eles as Ru&iacute;nas de S&atilde;o Francisco, a Igreja do Ros&aacute;rio, o Memorial de Curitiba, a Pra&ccedil;a Tiradentes e a Sociedade 13 de Maio. O roteiro ficar&aacute; em constante aperfei&ccedil;oamento e seu tra&ccedil;ado deve abranger, em breve, museus, galerias de arte, pr&eacute;dios hist&oacute;ricos e teatros.&nbsp;&nbsp;<br />
