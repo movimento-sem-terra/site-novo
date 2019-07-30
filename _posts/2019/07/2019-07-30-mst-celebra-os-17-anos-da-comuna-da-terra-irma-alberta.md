@@ -89,15 +89,20 @@ Ou, como cantam seus acampados, fazendo justi&ccedil;a &agrave; freira que tanto
 <strong>Hist&oacute;ria</strong></p>
 
 <p><br />
-Irm&atilde; Alberta foi uma freira da Igreja Cat&oacute;lica. Italiana, veio ao Brasil e participou da luta pela terra em Goi&aacute;s na &eacute;poca da ditadura militar. Al&eacute;m disso, atuou na defesa dos camponeses que integravam as Ligas Camponesas. A Comuna da Terra Irm&atilde; Alberta fincou bandeira no dia 20 de julho de 2002 na ocupa&ccedil;&atilde;o das fam&iacute;lias na &aacute;rea da Fazenda Itaye, de propriedade da SABESP. A decis&atilde;o da escolha do nome foi feita em assembl&eacute;ia no mesmo dia em que a &aacute;rea foi ocupada. Assim como em outras lutas do MST, a pr&oacute;pria</p>
+Irm&atilde; Alberta foi uma freira da Igreja Cat&oacute;lica. Italiana, veio ao Brasil e participou da luta pela terra em Goi&aacute;s na &eacute;poca da ditadura militar. Al&eacute;m disso, atuou na defesa dos camponeses que integravam as Ligas Camponesas. A Comuna da Terra Irm&atilde; Alberta fincou bandeira no dia 20 de julho de 2002 na ocupa&ccedil;&atilde;o das fam&iacute;lias na &aacute;rea da Fazenda Itaye, de propriedade da SABESP.</p>
 
 <p><br />
-Irm&atilde; Alberta participou ativamente da ocupa&ccedil;&atilde;o da &aacute;rea. A religiosa faleceu, aos 97 anos, em dezembro de 2018.<br />
+A decis&atilde;o da escolha do nome foi feita em assembl&eacute;ia no mesmo dia em que a &aacute;rea foi ocupada. Assim como em outras lutas do MST, a pr&oacute;pria Irm&atilde; Alberta participou ativamente da ocupa&ccedil;&atilde;o da &aacute;rea. A religiosa faleceu, aos 97 anos, em dezembro de 2018.</p>
+
+<p><br />
+<br />
 O acampamento Irm&atilde; Alberta &eacute; o &uacute;nico do MST dentro do munic&iacute;pio de S&atilde;o Paulo &ndash; regi&atilde;o de Perus. No local estava proposto a constru&ccedil;&atilde;o de um lix&atilde;o, mas, a luta dos Sem Terra t&ecirc;m transformado a &aacute;rea em um espa&ccedil;o de produ&ccedil;&atilde;o de alimentos. Mesmo sem a adjudica&ccedil;&atilde;o da terra, o acampamento j&aacute; produz no sistema agroflorestal.<br />
 &nbsp;</p>
 
-<p>Os lotes foram divididos e as &aacute;reas de produ&ccedil;&atilde;o coletiva determinadas. H&aacute; muito o que se orgulhar. Al&eacute;m da produ&ccedil;&atilde;o a pleno vapor, o Irm&atilde; Alberta est&aacute; sediando entre os dias 17 e 31 deste m&ecirc;s a primeira turma da Escola Popular de Teatro e V&iacute;deo do Estado de S&atilde;o Paulo. De acordo com Luciano Carvalho, da dire&ccedil;&atilde;o estadual do<br />
-MST pelo setor de Cultura, o Movimento, por meio desta escola est&aacute; fazendo uma forma&ccedil;&atilde;o revolucion&aacute;ria, in&eacute;dita. Isso, em conjunto com as outras escolas que est&atilde;o surgindo em Bras&iacute;lia, no Rio de Janeiro, em Santa Catarina e em Buenos Aires, compondo a rede Nuestra Am&eacute;rica, de escolas populares, de escolas de teatro pol&iacute;tico.</p>
+<p>Os lotes foram divididos e as &aacute;reas de produ&ccedil;&atilde;o coletiva determinadas. H&aacute; muito o que se orgulhar. Al&eacute;m da produ&ccedil;&atilde;o a pleno vapor, o Irm&atilde; Alberta est&aacute; sediando entre os dias 17 e 31 deste m&ecirc;s a primeira turma da Escola Popular de Teatro e V&iacute;deo do Estado de S&atilde;o Paulo.</p>
+
+<p><br />
+De acordo com Luciano Carvalho, da dire&ccedil;&atilde;o estadual do MST pelo setor de Cultura, o Movimento, por meio desta escola est&aacute; fazendo uma forma&ccedil;&atilde;o revolucion&aacute;ria, in&eacute;dita. Isso, em conjunto com as outras escolas que est&atilde;o surgindo em Bras&iacute;lia, no Rio de Janeiro, em Santa Catarina e em Buenos Aires, compondo a rede Nuestra Am&eacute;rica, de escolas populares, de escolas de teatro pol&iacute;tico.</p>
 
 <p>&nbsp;</p>
 
