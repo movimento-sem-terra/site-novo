@@ -32,11 +32,10 @@ files:
 created_date: "2019-07-08T14:27:26-03:00"
 published: true
 releated_posts:
-  - _posts/2018/09/2018-09-11-rio-de-janeiro-ganhara-novo-espaco-de-comercializacao-de-produtos-da-reforma-agraria.md
   - _posts/2018/09/2018-09-15-inauguracao-do-armazem-do-campo-reune-centenas-de-pessoas-no-rio-de-janeiro.md
   - _posts/2018/10/2018-10-22-festival-livre-cancoes-de-agora-lancara-composicoes-ineditas-em-celebracao-a-democracia.md
-  - _posts/2018/11/2018-11-29-bh-armazem-do-campo-completa-um-ano-com-50-mil-produtos-comercializados.md
   - _posts/2018/12/2018-12-12-armazem-do-campo-completa-primeiro-aniversario-em-belo-horizonte-mg.md
+  - _posts/2018/11/2018-11-29-bh-armazem-do-campo-completa-um-ano-com-50-mil-produtos-comercializados.md
 
 ---
 <div style="text-align:center">
