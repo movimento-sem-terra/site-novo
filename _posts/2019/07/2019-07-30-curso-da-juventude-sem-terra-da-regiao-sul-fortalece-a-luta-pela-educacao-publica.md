@@ -71,18 +71,25 @@ releated_posts: []
 ---
 <p>&nbsp;</p>
 
-<p>Por Fernanda Almeida, Sirlene Rodrigues e Ednubia Ghisi<br />
-Fotos: Valmir Fernandes&nbsp;<br />
-<br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Valmir Fernandes  (3).jpeg" height="467" src="//farm66.staticflickr.com/65535/48414813016_e2e03a94d0_b.jpg" width="700" />
+<figcaption><em>1&ordf; Escola de F&eacute;rias da Juventude Sem Terra aconteceu no Espa&ccedil;o de Cultura e Forma&ccedil;&atilde;o Marielle Vive, na Vig&iacute;lia Lula Livre. Fotos: Valmir Fernandes&nbsp;</em></figcaption>
+</figure>
+</div>
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
 A 1&ordf; Escola de F&eacute;rias da Juventude Sem Terra da regi&atilde;o Sul do Brasil reuniu mais de 70 educandos e educandas no&nbsp;Espa&ccedil;o Marielle Vive de Forma&ccedil;&atilde;o e Cultura, que faz parte da Vig&iacute;lia Lula Livre, em Curitiba. Os jovens vieram de 13 escolas do Movimento dos Trabalhadores Rurais Sem Terra (MST) do Paran&aacute; e do Rio Grande do Sul &ndash; 9 delas s&atilde;o Itinerantes, localizadas em acampamentos do movimento.&nbsp;<br />
 &nbsp;</p>
 
-<p>Ao longo de uma semana de curso &ndash; entre os dias 15 e 23 de julho &ndash;,&nbsp; os educandos passaram por um intenso processo de forma&ccedil;&atilde;o pol&iacute;tica por meio da de educa&ccedil;&atilde;o popular. Juliana Cristina de Mello, da dire&ccedil;&atilde;o do Coletivo de Juventude do MST e da Coordena&ccedil;&atilde;o Pol&iacute;tico Pedag&oacute;gica (CPP) do curso, explica que a &quot;inten&ccedil;&atilde;o &eacute; potencializar a forma&ccedil;&atilde;o humana e instigar a auto-organiza&ccedil;&atilde;o da juventude nas escolas, comunidades camponesas e na luta pol&iacute;tica&quot;. As atividades foram organizadas em &ldquo;tempos formativos&rdquo;, com espa&ccedil;o para forma&ccedil;&otilde;es te&oacute;ricas, oficinas de arte e comunica&ccedil;&atilde;o, atividades organizativas e de trabalho pr&aacute;tico, viv&ecirc;ncias culturais.&nbsp;<br />
+<p>Ao longo de uma semana de curso &ndash; entre os dias 15 e 23 de julho &ndash;,&nbsp; os educandos passaram por um intenso processo de forma&ccedil;&atilde;o pol&iacute;tica a partir da metodologia de educa&ccedil;&atilde;o popular. Juliana Cristina de Mello, da dire&ccedil;&atilde;o do Coletivo de Juventude do MST e da Coordena&ccedil;&atilde;o Pol&iacute;tico Pedag&oacute;gica (CPP) do curso, explica que a &quot;inten&ccedil;&atilde;o &eacute; potencializar a forma&ccedil;&atilde;o humana e instigar a auto-organiza&ccedil;&atilde;o da juventude nas escolas, comunidades camponesas e na luta pol&iacute;tica&quot;. As atividades foram organizadas em &ldquo;tempos formativos&rdquo;, com espa&ccedil;o para forma&ccedil;&otilde;es te&oacute;ricas, oficinas de arte e comunica&ccedil;&atilde;o, atividades organizativas e de trabalho pr&aacute;tico, viv&ecirc;ncias culturais.&nbsp;<br />
 &nbsp;</p>
 
 <p>A intera&ccedil;&atilde;o com a Vig&iacute;lia Lula Livre tornou o dia a dia do curso ainda mais marcantes: &ldquo;Nesse espa&ccedil;o a gente tem contato com diversos sujeitos, de outras organiza&ccedil;&otilde;es, e a gente consegue manter viva a m&iacute;stica junto &agrave; classe trabalhadora, o sentimento de indigna&ccedil;&atilde;o, e cultivar o valor da solidariedade que &eacute; t&atilde;o importante nesse contexto de pris&atilde;o pol&iacute;tica do presidente Lula&rdquo;, afirmou Mello.&nbsp;&nbsp;<br />
 &nbsp;</p>
+
+<p>LEIA MAIS:&nbsp;Um ano depois, Vig&iacute;lia Lula Livre segue sendo a base de apoio em Curitiba</p>
+
+<p>&nbsp;</p>
 
 <p>O riso tamb&eacute;m ganhou a cena durante a programa&ccedil;&atilde;o. Os palha&ccedil;os M&iacute;nima (Luz Medeiros) e Pituim (Ronaldo Pituim), integrantes da Companhia Mirab&oacute;lica, apresentaram a pe&ccedil;a o &ldquo;Circo &eacute; nosso&rdquo;. O humor n&atilde;o preconceituoso mexeu com toda a turma, e foi um dos momentos fortes de sensibilidade e forma&ccedil;&atilde;o humana.&nbsp;</p>
 
@@ -162,7 +169,7 @@ As fotolegendas a seguir s&atilde;o resultado de uma das oficinas de comunica&cc
 
 <p><em>&quot;O que espero para o futuro &eacute; Lula Livre. N&atilde;o h&aacute; prova alguma contra ele, e na realidade Lula &eacute; um preso pol&iacute;tico, pois sua liberdade pode mudar muita coisa, ir&aacute; melhorar a conjuntura pela qual a classe trabalhadora vem sofrendo, principalmente se for aprovada a reforma da previd&ecirc;ncia&rdquo;.&nbsp;</em><br />
 <br />
-<strong>Fernanda Almeida Padilha</strong>, moradora do acampamento 1&deg; de Agosto, em Cascavel(PR)&nbsp;</p>
+<strong>Fernanda Almeida Padilha</strong>, moradora do acampamento 1&deg; de Agosto, em Cascavel (PR)&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -180,19 +187,14 @@ As fotolegendas a seguir s&atilde;o resultado de uma das oficinas de comunica&cc
 <strong>Versos da luta</strong><br />
 <br />
 A poesia a seguir tamb&eacute;m &eacute; fruto de produ&ccedil;&atilde;o coletiva em uma das oficinas do curso:&nbsp;<br />
-&nbsp;</p>
-
-<p><em>Mais um grito<br />
+<br />
+<em><strong>Mais um grito</strong><br />
 <br />
 Em grito por liberdade<br />
-<br />
 O homem negro luta por seus direitos&nbsp;<br />
-<br />
 Choro, raiva, vazio<br />
-<br />
-Acabaremos com o tal preconceito&nbsp;</em></p>
-
-<p><em>abemos que neste mundo<br />
+Acabaremos com o tal preconceito&nbsp;<br />
+Sabemos que neste mundo<br />
 Temos muito da direita<br />
 <br />
 Em grito por liberdade&nbsp;<br />
