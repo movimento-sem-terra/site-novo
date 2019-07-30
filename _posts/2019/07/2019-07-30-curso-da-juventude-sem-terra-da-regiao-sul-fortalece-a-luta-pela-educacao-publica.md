@@ -85,7 +85,12 @@ releated_posts:
 </figure>
 </div>
 
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+<p>&nbsp;</p>
+
+<p><em>Por Fernanda Almeida, Sirlene Rodrigues e Ednubia Ghisi<br />
+Da P&aacute;gina do MST</em></p>
+
+<p>&nbsp;<br />
 A 1&ordf; Escola de F&eacute;rias da Juventude Sem Terra da regi&atilde;o Sul do Brasil reuniu mais de 70 educandos e educandas no&nbsp;Espa&ccedil;o Marielle Vive de Forma&ccedil;&atilde;o e Cultura, que faz parte da Vig&iacute;lia Lula Livre, em Curitiba. Os jovens vieram de 13 escolas do Movimento dos Trabalhadores Rurais Sem Terra (MST) do Paran&aacute; e do Rio Grande do Sul &ndash; 9 delas s&atilde;o Itinerantes, localizadas em acampamentos do movimento.&nbsp;<br />
 &nbsp;</p>
 
