@@ -140,7 +140,7 @@ LEIA MAIS:&nbsp;<a href="https://www.mst.org.br/2019/07/11/juventude-camponesa-e
 <p>Esse projeto da Linha Preta foi inaugurado durante o 2&ordf; Congresso de Pesquisadores/as Negros/as da Regi&atilde;o Sul-(COPENE SUL), organizado pelo N&uacute;cleo de Estudos Afro-brasileiros (NEAB) da Universidade Federal do Paran&aacute; (UFPR).<br />
 &nbsp;</p>
 
-<p><strong>O que a juventude Sem Terra quer para o futuro?&nbsp;</strong><br />
+<p style="text-align: center;"><strong>O que a juventude Sem Terra quer para o futuro?&nbsp;</strong><br />
 <br />
 As fotolegendas a seguir s&atilde;o resultado de uma das oficinas de comunica&ccedil;&atilde;o do curso:<br />
 &nbsp;</p>
@@ -151,7 +151,7 @@ As fotolegendas a seguir s&atilde;o resultado de uma das oficinas de comunica&cc
 
 <p><em>&ldquo;Quero que se formem muitas pessoas e que as elas tenham acesso ao ensino superior. E que n&atilde;o falte oportunidade de cursos para a juventude&quot;.</em><br />
 <br />
-<strong>Eliedson Souza Antunes</strong>, morador do acampamento da reforma agr&aacute;ria Variante em Porecatu-PR:&nbsp;</p>
+<strong>Eliedson Souza Antunes</strong>, morador do acampamento da reforma agr&aacute;ria Variante em Porecatu-PR</p>
 
 <p><br />
 &nbsp;</p>
@@ -163,9 +163,8 @@ As fotolegendas a seguir s&atilde;o resultado de uma das oficinas de comunica&cc
 <p><br />
 <em>&ldquo;Desejo conquistar um peda&ccedil;o de terra para produzir alimentos saud&aacute;veis e comercializar no meu pr&oacute;prio munic&iacute;pio, para ter renda pr&oacute;pria&rdquo;.&nbsp;</em><br />
 <br />
-<strong>Caique Botelho Lopes</strong>, estudante no acampamento Herdeiros da Luta de Porecatu, Norte do Paran&aacute;:&nbsp;</p>
-
-<p>&nbsp;</p>
+<strong>Caique Botelho Lopes</strong>, estudante no acampamento Herdeiros da Luta de Porecatu, Norte do Paran&aacute;<br />
+&nbsp;</p>
 
 <p><br />
 &nbsp;</p>
@@ -199,7 +198,7 @@ As fotolegendas a seguir s&atilde;o resultado de uma das oficinas de comunica&cc
 <p><br />
 <em>&ldquo;Minha preocupa&ccedil;&atilde;o com o futuro da educa&ccedil;&atilde;o &eacute; com as reformas que ainda poder&atilde;o acontecer no ensino m&eacute;dio, pois acho que isso vai prejudicar o aprendizado pol&iacute;tico e hist&oacute;rico sobre a sociedade em que vivemos&rdquo;.&nbsp;</em><br />
 <br />
-<strong>Mateus Br&aacute;z Werner</strong>, do assentamento Santa Rita de C&aacute;ssia II, em Porto Alegre(RS)</p>
+<strong>Mateus Br&aacute;z Werner</strong>, do assentamento Santa Rita de C&aacute;ssia II, em Porto Alegre (RS)</p>
 
 <p><br />
 <br />
