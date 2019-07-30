@@ -215,3 +215,7 @@ Em grito por liberdade&nbsp;<br />
 Levantaremos nossas bandeiras<br />
 Pelo fim da manipula&ccedil;&atilde;o&nbsp;<br />
 Sempre lutaremos em forma de manifesta&ccedil;&atilde;o</em></p>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
