@@ -67,8 +67,7 @@ Da P&aacute;gina do MST</em><br />
 Segundo Lucin&eacute;ia Dur&atilde;es, dirigente nacional do MST na Bahia, a feira contribui para difundir o modelo de desenvolvimento que beneficia os trabalhadores e as trabalhadoras, do campo e da cidade. &ldquo;O modelo de desenvolvimento que interessa ao povo &eacute; o que preserva a sa&uacute;de das pessoas, o meio ambiente e o solo como elementos duradouros. Precisamos ter respeito pelas quest&otilde;es ecol&oacute;gicas e sociais&rdquo;, afirma a dirigente.</p>
 
 <p><br />
-Para Milton Formaziere, conhecido como Rascunho, tamb&eacute;m da dire&ccedil;&atilde;o nacional do MST, &eacute; preciso debater o discurso do agroneg&oacute;cio que &eacute; difundido largamente entre a popula&ccedil;&atilde;o. &ldquo;N&oacute;s temos que contrapor essa propaganda que diz &agrave; popula&ccedil;&atilde;o que &eacute; preciso usar veneno para produzir alimentos e para acabar com a fome. Isto n&atilde;o &eacute; verdade, pois o n&uacute;mero de pessoas famintas cresce cada vez mais&rdquo;.<br />
-&nbsp;</p>
+Para Milton Formaziere, &nbsp;fornaziericonhecido como Rascunho, tamb&eacute;m da dire&ccedil;&atilde;o nacional do MST, &eacute; preciso debater o discurso do agroneg&oacute;cio que &eacute; difundido largamente entre a popula&ccedil;&atilde;o. &ldquo;N&oacute;s temos que contrapor essa propaganda que diz &agrave; popula&ccedil;&atilde;o que &eacute; preciso usar veneno para produzir alimentos e para acabar com a fome. Isto n&atilde;o &eacute; verdade, pois o n&uacute;mero de pessoas famintas cresce cada vez mais&rdquo;.</p>
 
 <figure class="image" style="float:left"><img alt="Feira [2].jpg" height="225" src="//farm66.staticflickr.com/65535/48406900936_3eee8d92a0_b.jpg" width="300" />
 <figcaption><em>A feira contribui para difundir o modelo<br />
