@@ -50,7 +50,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Acampamento no dia do despejo_Edna dos Santos  (1).jpeg" height="394" src="//farm66.staticflickr.com/65535/48425467167_b0fb12b7a9_b.jpg" width="700" />
-<figcaption><em>Acampamento Quilombo dos Palmares no dia do despejo. Foto: Edna dos Santos&nbsp; (1).jpeg</em></figcaption>
+<figcaption><em>Acampamento Quilombo dos Palmares no dia do despejo. Foto: Edna dos Santos</em></figcaption>
 </figure>
 </div>
 
