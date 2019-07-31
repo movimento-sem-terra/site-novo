@@ -61,9 +61,8 @@ releated_posts:
 <p>Dezenas de viaturas e homens da Pol&iacute;cia Militar e da tropa de Choque do Paran&aacute; cumpriram uma ordem de despejo contra cerca de 300 fam&iacute;lias Sem Terra integrantes do acampamento Quilombo dos Palmares, no distrito rural Lerrovile, em Londrina, norte do Paran&aacute;. A a&ccedil;&atilde;o come&ccedil;ou &agrave;s 7h desta ter&ccedil;a-feira (30), sem qualquer aviso anterior, e 159 fam&iacute;lias estavam no local.&nbsp;<br />
 &nbsp;</p>
 
-<p>Sob forte press&atilde;o psicol&oacute;gica, os camponeses e camponesas desmancharam suas casas de madeira e reuniram o que constru&iacute;ram com muito esfor&ccedil;o desde 2015, quando ocuparam a &aacute;rea. Ficou para tr&aacute;s a maior parte dos alimentos produzidos naquela terra, sustento para crian&ccedil;as, homens, mulheres e idosos que viviam ali.&nbsp;</p>
-
-<p>&nbsp;</p>
+<p>Sob forte press&atilde;o psicol&oacute;gica, os camponeses e camponesas desmancharam suas casas de madeira e reuniram o que constru&iacute;ram com muito esfor&ccedil;o desde 2015, quando ocuparam a &aacute;rea. Ficou para tr&aacute;s a maior parte dos alimentos produzidos naquela terra, sustento para crian&ccedil;as, homens, mulheres e idosos que viviam ali.&nbsp;<br />
+&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Móveis e objetos da famílias a céu aberto, a espera de lona_Davi - Assentamento Eli Vive.jpeg" height="225" src="//farm66.staticflickr.com/65535/48425328861_aa45d8e477_b.jpg" width="300" />
 <figcaption><em>M&oacute;veis e objetos da fam&iacute;lias a c&eacute;u aberto, &agrave;&nbsp;<br />
