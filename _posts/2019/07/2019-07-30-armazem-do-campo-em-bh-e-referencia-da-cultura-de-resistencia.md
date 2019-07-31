@@ -17,12 +17,18 @@ files:
     $$hashKey: 0U4
 created_date: "2019-07-30T17:22:02-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/11/2018-11-29-bh-armazem-do-campo-completa-um-ano-com-50-mil-produtos-comercializados.md
+  - _posts/2018/12/2018-12-12-armazem-do-campo-completa-primeiro-aniversario-em-belo-horizonte-mg.md
+  - _posts/2019/04/2019-04-18-armazem-do-campo-sp-realiza-evento-de-resistencia-em-defesa-da-iv-feira-nacional-da-reforma-agraria.md
+  - _posts/2019/05/2019-05-28-armazem-do-campo-produtos-da-reforma-agraria-diariamente-no-centro-do-recife.md
+  - _posts/2019/06/2019-06-19-vindos-da-agricultura-familiar-bolos-artesanais-fazem-sucesso-no-armazem-do-campo.md
 
 ---
 <p><img alt="BdF [93].jpg" src="//farm66.staticflickr.com/65535/48417132452_8f77889688_b.jpg" /></p>
 
-<p><em>Por Geanini Hackbardt<br />
+<p><br />
+<em>Por Geanini Hackbardt<br />
 Do&nbsp;Brasil de Fato&nbsp;</em><br />
 &nbsp;</p>
 
