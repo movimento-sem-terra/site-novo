@@ -70,7 +70,8 @@ releated_posts:
 espera de lona. Foto: Davi/assentamento Eli Vive</em></figcaption>
 </figure>
 
-<p>As fam&iacute;lias est&atilde;o abrigadas no Centro Comunit&aacute;rio do assentamento Eli Vive, localizado a 3 quil&ocirc;metros do acampamento. No entanto, os objetos e m&oacute;veis est&atilde;o a c&eacute;u aberto, &agrave; espera de lona. Apesar das dificuldades em retomar a vida novamente em um peda&ccedil;o de ch&atilde;o para viver e plantar, as fam&iacute;lias seguem organizadas e mobilizadas para lutar por justi&ccedil;a, dignidade, direitos e reforma agr&aacute;ria.&nbsp;</p>
+<p>As fam&iacute;lias est&atilde;o abrigadas no Centro Comunit&aacute;rio do assentamento Eli Vive, localizado a 3 quil&ocirc;metros do acampamento. No entanto, os objetos e m&oacute;veis est&atilde;o a c&eacute;u aberto, &agrave; espera de lona. Apesar das dificuldades em retomar a vida novamente em um peda&ccedil;o de ch&atilde;o para viver e plantar, as fam&iacute;lias seguem organizadas e mobilizadas para lutar por justi&ccedil;a, dignidade, direitos e reforma agr&aacute;ria.&nbsp;<br />
+&nbsp;</p>
 
 <p>O deputado estadual Arilson Chiorato (PT) visitou a &aacute;rea na manh&atilde; desta ter&ccedil;a-feira e relatou em suas redes sociais o que viu: &ldquo;Cenas muito tristes de fam&iacute;lias pobres e crian&ccedil;as que ficar&atilde;o desabrigadas. S&atilde;o 159 fam&iacute;lias tendo interrompido o sonho de ter um teto pra morar&rdquo;.&nbsp;<br />
 &nbsp;</p>
