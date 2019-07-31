@@ -59,7 +59,7 @@ releated_posts:
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>Na manh&atilde; desta ter&ccedil;a-feira (300) foi dado&nbsp;inicio &agrave;&nbsp;primeira etapa da Escola de Artes do MST&nbsp; no Piau&iacute;, com o lema &quot;Movimento Sem Terra: por terra, arte e p&atilde;o&quot;. O objetivo &eacute; realizar um debate cultural e das frentes art&iacute;sticas com o intuito de promover a transforma&ccedil;&atilde;o ideol&oacute;gica de sujeitos.<br />
+<p>Na manh&atilde; desta ter&ccedil;a-feira (30) foi dado&nbsp;inicio &agrave;&nbsp;primeira etapa da Escola de Artes do MST&nbsp; no Piau&iacute;, com o lema &quot;Movimento Sem Terra: por terra, arte e p&atilde;o&quot;. O objetivo &eacute; realizar um debate cultural e das frentes art&iacute;sticas com o intuito de promover a transforma&ccedil;&atilde;o ideol&oacute;gica de sujeitos.<br />
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Escola de Artes [2].jpg" height="533" src="//farm66.staticflickr.com/65535/48416383286_1e46893c08_b.jpg" width="300" />
