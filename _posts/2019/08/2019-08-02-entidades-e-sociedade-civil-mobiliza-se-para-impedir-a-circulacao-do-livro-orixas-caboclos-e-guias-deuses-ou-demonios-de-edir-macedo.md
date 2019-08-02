@@ -4,7 +4,7 @@ tags:
   - tag: intolerancia
   - tag: lutas
   - tag: lutadores
-title: "Entidades e sociedade civil mobiliza-se para impedir a circulação do livro: 'Orixás, Caboclos e Guias: Deuses ou Demônios?', de Edir Macedo"
+title: Entidades e sociedade civil mobiliza-se para impedir a circulação do livro de Edir Macedo
 images_hd: //farm66.staticflickr.com/65535/48439293227_3151260f28_b.jpg
 menu: direitos humanos
 support_line: "Além da propagação do ódio e intolerância contra as religiões afro-brasileiras, a narrativa neopentecostal notabiliza-se por discursos homofóbicos e contrários aos direitos sexuais e reprodutivos"
