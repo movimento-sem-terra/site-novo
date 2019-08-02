@@ -37,13 +37,13 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="BdF [97] Caravana.jpg" height="467" src="//farm66.staticflickr.com/65535/48433074532_78012881c7_b.jpg" width="700" />
-<figcaption><em>A caravana conta com deputados e representantes de movimentos sociais</em><br />
-</figcaption>
+<figcaption><em>A caravana conta com deputados e representantes de movimentos sociais</em></figcaption>
 </figure>
 </div>
 
 <p><br />
-<em>Da P&aacute;gina do MST</em></p>
+<em>Por Mayr&aacute;&nbsp;Lima<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Grandes atos p&uacute;blicos e visitas a produ&ccedil;&otilde;es&nbsp;agroecol&oacute;gicas de acampamentos Sem Terra&nbsp; marcaram o primeiro dia da Caravana da Resist&ecirc;ncia. Organizada por parlamentares integrantes do N&uacute;cleo Agr&aacute;rio do PT, em parceria com a Lideran&ccedil;a do partido na C&acirc;mara, a caravana percorre os estados da Bahia, Sergipe e Pernambuco at&eacute; a pr&oacute;xima sexta-feira, levando debates sobre a import&acirc;ncia da reforma agr&aacute;ria, os desafios frente aos ataques &agrave; previd&ecirc;ncia rural, al&eacute;m de denunciar a pris&atilde;o pol&iacute;tica do ex- presidente Lula.<br />
