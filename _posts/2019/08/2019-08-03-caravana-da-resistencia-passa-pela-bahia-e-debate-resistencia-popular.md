@@ -4,7 +4,7 @@ tags:
   - tag: bahia
   - tag: lula-livre
 images_hd: //farm66.staticflickr.com/65535/48446261662_933887a058_b.jpg
-title: Caravana da Resistência passa pela Bahia e debate resistência popular
+title: Caravana da Resistência passa pela Bahia e realiza debates
 support_line: Mais de mil pessoas receberam a caravana
 menu: lutas e mobilizações
 sector: mass-front
