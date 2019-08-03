@@ -102,4 +102,4 @@ Sobre a doa&ccedil;&atilde;o de alimentos, ela explica que &ldquo;estudamos e co
 
 <p>&nbsp;</p>
 
-<p>*Editado por Wesley Lima</p>
+<p><em>*Editado por Wesley Lima</em></p>
