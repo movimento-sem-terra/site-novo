@@ -2,7 +2,7 @@
 date: "2019-08-04T19:40:34-03:00"
 tags:
   - tag: feira-da-reforma-agrária
-title: Festival Comida de Verdade ocupa o Centro de São Paulo em defesa da Feira da Reforma Agrária
+title: Festival Comida de Verdade ocupa o Centro de São Paulo em defesa da Feira do MST
 support_line: Evento contou com Banquetaço e apresentações culturais na Ocupação 9 de julho
 images_hd: //farm66.staticflickr.com/65535/48457811541_9513fd42ef_b.jpg
 menu: lutas e mobilizações
