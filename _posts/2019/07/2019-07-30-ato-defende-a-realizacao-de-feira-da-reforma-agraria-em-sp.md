@@ -7,7 +7,7 @@ tags:
 title: Ato defende a realização de Feira da Reforma Agrária em SP
 support_line: Rede Sustenta une organizações em  festival de apoio à Feira Nacional da Reforma Agrária
 menu: agricultura camponesa
-section: cover
+section: null
 images_hd: //farm66.staticflickr.com/65535/48415833596_e5a49bc5fd_b.jpg
 layout: post
 files:
