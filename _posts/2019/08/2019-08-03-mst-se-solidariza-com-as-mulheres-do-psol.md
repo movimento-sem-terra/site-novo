@@ -18,7 +18,7 @@ files:
     title: WhatsApp Image 2019-08-03 at 16.17.46.jpeg
     $$hashKey: "034"
 created_date: "2019-08-03T16:30:28-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2018/10/2018-10-11-cadeia-para-a-cutrale-e-liberdade-aos-presos-politicos-do-mst.md
   - _posts/2018/12/2018-12-06-sem-terra-sao-despejados-de-acampamento-no-ceara.md
