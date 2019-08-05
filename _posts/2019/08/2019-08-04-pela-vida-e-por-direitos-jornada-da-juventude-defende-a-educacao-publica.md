@@ -6,7 +6,7 @@ tags:
 title: "“Pela vida e por direitos”: Jornada da Juventude defende a educação pública"
 support_line: As ações ocorrem entre os dias 12 e 16 de agosto de Norte a Sul do país
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 label: interviews
 sector: education
 images_hd: //farm66.staticflickr.com/65535/48457222407_7979648f75_b.jpg
