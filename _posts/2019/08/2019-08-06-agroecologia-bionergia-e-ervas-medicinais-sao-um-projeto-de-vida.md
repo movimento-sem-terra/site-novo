@@ -4,7 +4,7 @@ tags:
   - tag: saúde-popular
   - tag: saúde
   - tag: agroecologia-é-o-caminho
-title: "“Agroecologia, bionergia e ervas medicinais são um projeto de vida”"
+title: "“Agroecologia, bioenergia e ervas medicinais são um projeto de vida”"
 support_line: "Entrevista com Maria Natividade de Lima, do Setor de Saúde do MST, sobre saúde popular"
 menu: projeto popular
 section: cover
