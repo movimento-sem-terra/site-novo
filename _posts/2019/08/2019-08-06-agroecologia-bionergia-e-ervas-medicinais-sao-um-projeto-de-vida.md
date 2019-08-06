@@ -58,7 +58,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="BdF [107] Foto: Daniela Moura- Voz do Movimento.jpg" height="467" src="//farm66.staticflickr.com/65535/48474990172_847a5b8b8e_b.jpg" width="700" />
-<figcaption><em>Como sa&uacute;de popular e alimenta&ccedil;&atilde;o fazem parte da luta. Foto: Daniela Moura- Voz do Movimento.jpg</em></figcaption>
+<figcaption><em>Como sa&uacute;de popular e alimenta&ccedil;&atilde;o fazem parte da luta. Foto: Daniela Moura- Voz do Movimento</em></figcaption>
 </figure>
 </div>
 
