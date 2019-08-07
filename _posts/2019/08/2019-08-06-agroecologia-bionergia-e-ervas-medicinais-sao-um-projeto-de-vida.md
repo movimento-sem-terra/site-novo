@@ -58,7 +58,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="BdF [107] Foto: Daniela Moura- Voz do Movimento.jpg" height="467" src="//farm66.staticflickr.com/65535/48474990172_847a5b8b8e_b.jpg" width="700" />
-<figcaption><em>Como sa&uacute;de popular e alimenta&ccedil;&atilde;o fazem parte da luta. Foto: Daniela Moura- Voz do Movimento</em></figcaption>
+<figcaption><em>Como sa&uacute;de popular e alimenta&ccedil;&atilde;o fazem parte da luta. Foto: Daniela Moura</em></figcaption>
 </figure>
 </div>
 
@@ -67,16 +67,16 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-O cuidado milenar dos povos tradicionais por meio das plantas, vinculado com a concep&ccedil;&atilde;o de sa&uacute;de popular do Movimento dos Sem Terra (MST), s&atilde;o temas de reflex&atilde;o sobre sa&uacute;de no campo e na cidade. Dentro do Movimento, alimenta&ccedil;&atilde;o saud&aacute;vel, a cura a partir de bens naturais e o auto cuidado s&atilde;o pilares essenciais na luta por uma vida mais humana e digna.</p>
+O cuidado milenar dos povos tradicionais por meio das plantas, com a concep&ccedil;&atilde;o de sa&uacute;de popular do MST, s&atilde;o temas de reflex&atilde;o sobre a sa&uacute;de no campo e na cidade. Dentro do Movimento, alimenta&ccedil;&atilde;o saud&aacute;vel, a cura a partir dos&nbsp;bens naturais e o autocuidado s&atilde;o pilares essenciais na luta por uma vida mais humana e digna.</p>
 
 <p><br />
-Logo nas primeiras ocupa&ccedil;&otilde;es do MST a valoriza&ccedil;&atilde;o do cuidado popular e da sa&uacute;de de todas as pessoas envolvidas direta e indiretamente na luta est&aacute; presente.</p>
+Logo, nas primeiras ocupa&ccedil;&otilde;es do MST a valoriza&ccedil;&atilde;o do cuidado popular e da sa&uacute;de de todas as pessoas envolvidas, direta e indiretamente, na luta est&aacute; presente.</p>
 
 <p><br />
-Diante disso, o trabalho no&nbsp;setor vai al&eacute;m da produ&ccedil;&atilde;o de alimentos.&nbsp;Envolve espa&ccedil;os destinados a dezenas de variedades de plantas e ervas voltadas &agrave; sa&uacute;de popular. Cavalinha, melissa, erva cidreira, capim lim&atilde;o, goiaba, amora s&atilde;o apenas algumas delas.<br />
+Diante disso, o trabalho do setor de sa&uacute;de&nbsp;vai al&eacute;m da produ&ccedil;&atilde;o de alimentos.&nbsp;Envolve espa&ccedil;os destinados a dezenas de variedades de plantas e ervas voltadas &agrave; sa&uacute;de popular. Cavalinha, melissa, erva cidreira, capim lim&atilde;o, goiaba e amora s&atilde;o apenas algumas delas.<br />
 &nbsp;</p>
 
-<p>E &eacute; por meio destas pessoas e com o contato que eles t&ecirc;m com os profissionais de sa&uacute;de do SUS que a sa&uacute;de popular segue sendo um dos mais importantes setores do Movimento. E &eacute; por isso que na semana em que se lembra o dia nacional da sa&uacute;de, entrevistamos Maria Natividade de Lima, do assentamento Contestado h&aacute; 17 anos,&nbsp; que falou sobre cuidados e agroecologia.</p>
+<p>E &eacute; por meio destas pessoas e com o contato que eles t&ecirc;m com os profissionais de sa&uacute;de do Sistema &Uacute;nico de Sa&uacute;de (SUS), que a sa&uacute;de popular segue sendo um dos mais importantes debates&nbsp;do Movimento.&nbsp;Por isso, que na semana em que se lembra o dia nacional da sa&uacute;de, entrevistamos Maria Natividade de Lima, do assentamento Contestado h&aacute; 17 anos,&nbsp;que falou sobre cuidados e agroecologia.</p>
 
 <p>&nbsp;</p>
 
@@ -150,8 +150,8 @@ Vamos fazer tr&ecirc;s&nbsp;anos desta unidade de sa&uacute;de funcionando, mas 
 <p>Eu come&ccedil;o por mim mesma, eu vivia em m&eacute;dico antes de conhecer o m&eacute;todo de bioenergia, de conhecer os m&eacute;todos e a m&atilde;e natureza. E eu me curei com ela e faz 20 anos que eu n&atilde;o tomo um comprimido. Outro caso &eacute; meu ex-marido, que estava desenganado pelos m&eacute;dicos, com alergia cr&ocirc;nica e outros problemas. O m&eacute;dico disse &ldquo;voc&ecirc; n&atilde;o tem o que fazer mais, v&aacute; pra casa porque n&atilde;o tem cura&rdquo;, ent&atilde;o a gente fez uma oferta para ele tentar tratar com o tem a m&atilde;e natureza oferece e a bioenergia. Se voc&ecirc; quer sarar, cuide-se com ela. Ele mergulhou nesta ideia e hoje ele n&atilde;o tem nenhum dos problemas que ele tinha.</p>
 
 <figure class="image" style="float:right"><img alt="BdF [106] .jpg" height="200" src="//farm66.staticflickr.com/65535/48474990147_5eb8e4efa7_b.jpg" width="300" />
-<figcaption><em>Encontro Nacional do Setor de Sa&uacute;de<br />
-Foto: NIeves Rodrigues e Carlinhos Luz</em></figcaption>
+<figcaption><em>Encontro Nacional do Setor de Sa&uacute;de.<br />
+Foto: Nieves Rodrigues e Carlinhos Luz</em></figcaption>
 </figure>
 
 <p>Por fim, tem o meu filho,&nbsp; que tinha sinusite cr&ocirc;nica comprovada pelos m&eacute;dicos. Eu n&atilde;o quis fazer tratamento com alopatia e fui pra bioenergia, e hoje ele &eacute; saud&aacute;vel, e n&atilde;o precisou de nenhum comprimido. Ent&atilde;o tenho v&aacute;rios testemunhos da minha pr&oacute;pria fam&iacute;lia porque o objetivo &eacute; voc&ecirc; come&ccedil;ar a olhar para a sua fam&iacute;lia e para si mesmo, depois vai para a comunidade, e depois pro mundo.</p>
@@ -171,5 +171,7 @@ Foto: NIeves Rodrigues e Carlinhos Luz</em></figcaption>
 <p>&nbsp;</p>
 
 <p><em>*Este texto faz parte do especial de sa&uacute;de. Confira o primeiro da s&eacute;rie:&nbsp;&nbsp;</em><a href="http://www.mst.org.br/2019/08/05/saude-se-conquista-com-luta-e-producao-de-alimentos-saudaveis.html">Sa&uacute;de se conquista com luta e produ&ccedil;&atilde;o de alimentos saud&aacute;veis</a></p>
+
+<p><em>**Editado por Maura Silva</em></p>
 
 <p>&nbsp;</p>
