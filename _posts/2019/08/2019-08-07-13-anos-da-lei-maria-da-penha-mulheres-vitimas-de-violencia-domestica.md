@@ -34,7 +34,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="[115] Foto: Luara De.jpg" height="467" src="//farm66.staticflickr.com/65535/48482538091_d4899144a3_b.jpg" width="700" />
-<figcaption><em>No Brasil, De</em></figcaption>
+<figcaption><em>No Brasil, a taxa &eacute; de 4 mortes para cada grupo de 100 mil mulheres. Foto: Luara De</em></figcaption>
 </figure>
 </div>
 
