@@ -8,7 +8,7 @@ tags:
 title: Saúde se conquista com luta e produção de alimentos saudáveis
 support_line: Dia 5 de agosto é Dia Nacional da Saúde; lutar pela alimentação saudável é lutar pelo direito à saúde
 menu: lutas e mobilizações
-section: cover
+section: null
 images_hd: //farm66.staticflickr.com/65535/48466479762_411c8195ea_b.jpg
 layout: post
 files:
@@ -42,6 +42,7 @@ releated_posts:
   - _posts/2019/05/2019-05-14-como-os-agrotoxicos-afetam-a-sua-saude.md
   - _posts/2019/06/2019-06-07-voce-sabe-de-onde-vem-o-alimento-que-consome.md
   - _posts/2019/05/2019-05-30-cacau-e-chocolate-agroecologico-conheca-a-producao-que-cresce-no-norte-do-pais.md
+label: special-stories
 
 ---
 <div style="text-align:center">
