@@ -182,12 +182,6 @@ E um abra&ccedil;o, ent&atilde;o? Um bem apertado, de oito segundos, libera oxit
 Vamos celebrar!?</p>
 
 <p><br />
-<em>*Com informa&ccedil;&otilde;es do setor de sa&uacute;de do MST<br />
-<br />
-** Editado por Fernanda Alc&acirc;ntara</em><br />
-<br />
-***<font color="#555555" face="Helvetica, Arial, sans-serif"><span style="font-size: 17.6px;"><i>&nbsp;</i></span></font>Este texto faz parte do especial de sa&uacute;de. Confira os demais textos&nbsp;da s&eacute;rie:&nbsp;&nbsp;<br />
-<br />
--&nbsp;<a href="http://www.mst.org.br/2019/08/05/saude-se-conquista-com-luta-e-producao-de-alimentos-saudaveis.html">Sa&uacute;de se conquista com luta e produ&ccedil;&atilde;o de alimentos saud&aacute;veis</a><br />
-<br />
+<em>*Com informa&ccedil;&otilde;es do setor de sa&uacute;de do MST</em><br />
+**<font color="#555555" face="Helvetica, Arial, sans-serif"><span style="font-size: 17.6px;"><i>&nbsp;</i></span></font>Este texto faz parte do especial de sa&uacute;de. Confira&nbsp; demais textos&nbsp;da s&eacute;rie:&nbsp;&nbsp;<br />
 -&nbsp;<a href="http://www.mst.org.br/2019/08/06/agroecologia-bionergia-e-ervas-medicinais-sao-um-projeto-de-vida.html">&ldquo;Agroecologia, bioenergia e ervas medicinais s&atilde;o um projeto de vida&rdquo;</a></p>
