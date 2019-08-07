@@ -99,7 +99,7 @@ Segundo Jos&eacute; Neto, tamb&eacute;m da dire&ccedil;&atilde;o Nacional do MST
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="20 Feira - Cartaz4.jpg" height="505" src="//farm66.staticflickr.com/65535/48475177266_f13b4acacd_b.jpg" width="700" />
-<figcaption>Legenda</figcaption>
+<figcaption></figcaption>
 </figure>
 </div>
 
