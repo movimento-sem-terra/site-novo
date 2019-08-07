@@ -3,7 +3,7 @@ date: "2019-08-07T14:18:57-03:00"
 tags:
   - tag: saúde
   - tag: saúde-popular
-title: "Quem luta também si cuida!"
+title: "Quem luta também se cuida!"
 support_line: Na Semana Nacional da Saúde organizamos algumas dicas de autocuidado para você
 menu: "educação, cultura e comunicação"
 section: featured-news
@@ -185,4 +185,4 @@ Vamos celebrar!?</p>
 <br />
 ** Editado por Fernanda Alc&acirc;ntara</em><br />
 <br />
-***<em style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;">*Este texto faz parte do especial de sa&uacute;de. Confira o primeiro da s&eacute;rie:&nbsp;&nbsp;</em><a href="http://www.mst.org.br/2019/08/05/saude-se-conquista-com-luta-e-producao-de-alimentos-saudaveis.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration-line: none; font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;">Sa&uacute;de se conquista com luta e produ&ccedil;&atilde;o de alimentos saud&aacute;veis</a></p>
+***<font color="#555555" face="Helvetica, Arial, sans-serif"><span style="font-size: 17.6px;"><i>&nbsp;</i></span></font><em style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;">Este texto faz parte do especial de sa&uacute;de. Confira o primeiro da s&eacute;rie:&nbsp;&nbsp;</em><a href="http://www.mst.org.br/2019/08/05/saude-se-conquista-com-luta-e-producao-de-alimentos-saudaveis.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration-line: none; font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;">Sa&uacute;de se conquista com luta e produ&ccedil;&atilde;o de alimentos saud&aacute;veis</a></p>
