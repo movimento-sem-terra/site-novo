@@ -40,7 +40,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por&nbsp;Lucin&eacute;ia Miranda de Freitas&nbsp;<br />
+<p><em>Por&nbsp;Lucin&eacute;ia Miranda de Freitas*&nbsp;<br />
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
@@ -96,5 +96,10 @@ Partindo da premissa de Rosa Luxemburgo, &ldquo;<em>Por um mundo onde sejamos so
 
 <p><br />
 Estamos todas Despertas!<br />
-Rumo ao Primeiro Encontro Nacional das Mulheres Sem Terra!<br />
+Rumo ao Primeiro Encontro Nacional das Mulheres Sem Terra!</p>
+
+<p><br />
+<em>* Lucin&eacute;ia faz parte do Coletivo Nacional do Setor de G&ecirc;nero do MST</em></p>
+
+<p><em>** Editado por Fernanda Alc&acirc;ntara</em><br />
 &nbsp;</p>
