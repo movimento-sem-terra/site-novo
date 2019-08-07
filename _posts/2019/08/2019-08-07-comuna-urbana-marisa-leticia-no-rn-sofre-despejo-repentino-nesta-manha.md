@@ -4,8 +4,8 @@ tags:
   - tag: despejo
   - tag: ocupação
   - tag: rio-grande-do-norte
-title: "Comuna urbana Marisa Letícia, no RN, sofre despejo repentino nesta manhã"
-support_line: Ação acontece no Rio Grande do Norte sem aviso prévio São Gonçalo do Amarante
+title: Comuna urbana Marisa Letícia sofre despejo repentino nesta manhã
+support_line: "Ação acontece no Rio Grande do Norte sem aviso prévio "
 menu: lutas e mobilizações
 section: cover
 images_hd: //farm66.staticflickr.com/65535/48480115191_eca1723252_b.jpg
@@ -52,16 +52,20 @@ releated_posts:
 <em>Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
-<p>Na manh&atilde; de hoje (07/08), as fam&iacute;lias Sem Terra no Rio Grande do Norte&nbsp;foram surpreendidas com um despejo &agrave;s 5h. O ato est&aacute; sendo realizados&nbsp;com v&aacute;rias viaturas da Pol&iacute;cia Militar e tratores que chegaram sem nenhuma&nbsp;intima&ccedil;&atilde;o pr&eacute;via&nbsp;ou comunica&ccedil;&atilde;o anterior.&nbsp;<br />
+<p>Na manh&atilde; de hoje (07/08), as fam&iacute;lias Sem Terra no Rio Grande do Norte&nbsp;foram surpreendidas com um despejo &agrave;s 5h sem aviso pr&eacute;vio. O ato est&aacute; sendo realizado com v&aacute;rias viaturas da Pol&iacute;cia Militar e tratores, que chegaram sem nenhuma&nbsp;intima&ccedil;&atilde;o pr&eacute;via&nbsp;ou comunica&ccedil;&atilde;o anterior.&nbsp;<br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Despejo [2].jpeg" height="225" src="//farm66.staticflickr.com/65535/48480267557_440b247366_b.jpg" width="300" />
 <figcaption></figcaption>
 </figure>
 
-<p>Trata-se de uma a&ccedil;&atilde;o do Minist&eacute;rio P&uacute;blico contra a Comuna Marisa Let&iacute;cia no munic&iacute;pio de S&atilde;o Gon&ccedil;alo do Amarante, n&atilde;o havendo nenhuma intima&ccedil;&atilde;o para quem est&aacute; na ocupa&ccedil;&atilde;o.&nbsp;</p>
+<p>Trata-se de uma a&ccedil;&atilde;o do Minist&eacute;rio P&uacute;blico contra a Comuna Marisa Let&iacute;cia, no munic&iacute;pio de S&atilde;o Gon&ccedil;alo do Amarante. A &aacute;rea&nbsp;j&aacute; havia sido cedida pela DATANORT (Companhia de&nbsp;Processamento de Dados do estado)&nbsp;em negocia&ccedil;&atilde;o anterior como&nbsp;alternativa paras fam&iacute;lias&nbsp;de&nbsp;outro despejo.</p>
 
-<p>O MST repudia o tratamento truculento e arbitr&aacute;rio dado a ocupa&ccedil;&atilde;o pela segunda vez, em menos de dois meses, que suprime o direito das fam&iacute;lias a ampla defesa e se manifestar. S&atilde;o cerca de 200 fam&iacute;lias que est&atilde;o lutando pelo direito a viver de forma digna e de produzir alimentos saud&aacute;veis.</p>
+<p><br />
+Segundo depoimentos, os policiais chegaram intimando as fam&iacute;lias e levaram representantes da Secretaria da Assist&ecirc;ncia Social para tentar convencer&nbsp;as m&atilde;es da ocupa&ccedil;&atilde;o para a sa&iacute;da imediata, amea&ccedil;ando levar as crian&ccedil;as para um abrigo. Eles deram uma hora para a retirada de todos os pertences, por&eacute;m nem mesmo este prazo eles respeitaram.<br />
+&nbsp;</p>
+
+<p>O MST repudia o tratamento truculento e arbitr&aacute;rio dado a ocupa&ccedil;&atilde;o pela segunda vez, em menos de dois meses, que suprime o direito das fam&iacute;lias da ampla defesa e se manifestar. S&atilde;o cerca de 200 fam&iacute;lias que est&atilde;o lutando pelo direito a viver de forma digna e de produzir alimentos saud&aacute;veis na regi&atilde;o.</p>
 
 <p><br />
 Mais informa&ccedil;&otilde;es em breve.</p>
