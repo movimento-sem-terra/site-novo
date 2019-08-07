@@ -46,6 +46,7 @@ releated_posts:
   - _posts/2019/02/2019-02-18-mst-conquista-unidade-basica-de-saude-no-rio-grande-do-sul.md
   - _posts/2019/07/2019-07-17-curso-promove-encontro-de-povos-contra-os-agrotoxicos-no-mato-grosso.md
   - _posts/2019/02/2019-02-08-mst-repudia-o-desmonte-da-escola-publica-de-saude.md
+label: special-stories
 
 ---
 <div style="text-align:center">
