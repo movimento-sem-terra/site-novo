@@ -185,4 +185,8 @@ Vamos celebrar!?</p>
 <br />
 ** Editado por Fernanda Alc&acirc;ntara</em><br />
 <br />
-***<font color="#555555" face="Helvetica, Arial, sans-serif"><span style="font-size: 17.6px;"><i>&nbsp;</i></span></font><em style="box-sizing: inherit; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;">Este texto faz parte do especial de sa&uacute;de. Confira o primeiro da s&eacute;rie:&nbsp;&nbsp;</em><a href="http://www.mst.org.br/2019/08/05/saude-se-conquista-com-luta-e-producao-de-alimentos-saudaveis.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration-line: none; font-family: Helvetica, Arial, sans-serif; font-size: 17.6px;">Sa&uacute;de se conquista com luta e produ&ccedil;&atilde;o de alimentos saud&aacute;veis</a></p>
+***<font color="#555555" face="Helvetica, Arial, sans-serif"><span style="font-size: 17.6px;"><i>&nbsp;</i></span></font>Este texto faz parte do especial de sa&uacute;de. Confira os demais textos&nbsp;da s&eacute;rie:&nbsp;&nbsp;<br />
+<br />
+-&nbsp;<a href="http://www.mst.org.br/2019/08/05/saude-se-conquista-com-luta-e-producao-de-alimentos-saudaveis.html">Sa&uacute;de se conquista com luta e produ&ccedil;&atilde;o de alimentos saud&aacute;veis</a><br />
+<br />
+-&nbsp;<a href="http://www.mst.org.br/2019/08/06/agroecologia-bionergia-e-ervas-medicinais-sao-um-projeto-de-vida.html">&ldquo;Agroecologia, bioenergia e ervas medicinais s&atilde;o um projeto de vida&rdquo;</a></p>
