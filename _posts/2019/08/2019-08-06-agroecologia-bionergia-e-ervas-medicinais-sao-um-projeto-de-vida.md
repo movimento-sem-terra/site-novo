@@ -7,7 +7,7 @@ tags:
 title: "“Agroecologia, bioenergia e ervas medicinais são um projeto de vida”"
 support_line: "Entrevista com Maria Natividade de Lima, do Setor de Saúde do MST, sobre saúde popular"
 menu: projeto popular
-section: cover
+section: featured-news
 label: special-stories
 images_hd: //farm66.staticflickr.com/65535/48474843516_62960565c5_b.jpg
 layout: post
