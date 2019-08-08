@@ -24,7 +24,7 @@ files:
     title: ato ecumenico marielle5_julho19.jpeg
     $$hashKey: "061"
 created_date: "2019-08-08T12:55:26-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/07/2019-07-21-um-guerreiro-um-lutador-dizem-amigos-sobre-sem-terra-atropelado-durante-ato.md
   - _posts/2019/07/2019-07-19-policia-prende-homem-que-confessou-ter-assassinado-militante-do-mst-em-valinhos-sp.md
@@ -35,8 +35,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="ato ecumenico marielle5_julho19.jpeg" height="458" src="//farm66.staticflickr.com/65535/48488915717_89c2ba33d7_b.jpg" width="700" />
-<figcaption><em>Ato ecum&ecirc;nico&nbsp;em homenagem a Luis Ferreira&nbsp;realizado no dia 28 de julho. Fotos: Filipe Augusto Peres</em><br />
-</figcaption>
+<figcaption><em>Ato ecum&ecirc;nico&nbsp;em homenagem a Luis Ferreira&nbsp;realizado no dia 28 de julho. Fotos: Filipe Augusto Peres</em></figcaption>
 </figure>
 </div>
 
@@ -45,10 +44,10 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na &uacute;ltima ter&ccedil;a-feira (6), o acampamento Marielle Vive!, localizado em Valinhos (SP), recebeu a visita do advogado Dimitri Sales, presidente do Conselho Estadual de Defesa dos Direitos da Pessoal Humana do Estado de S&atilde;o Paulo (Condep), do promotor de Justi&ccedil;a Paulo Henrique Arantes, representante do Minist&eacute;rio P&uacute;blico no Condep, e do procurador Alfonso Presti, representando o Procurador-Geral de Justi&ccedil;a do Estado de S&atilde;o Paulo (Gianpaolo Poggio Smanio). A visita foi acompanhada por representantes do setor de Direitos Humanos e da coordena&ccedil;&atilde;o nacional do MST.<br />
-&nbsp;</p>
+Na &uacute;ltima ter&ccedil;a-feira (6), o acampamento Marielle Vive!, localizado em Valinhos (SP), recebeu a visita do advogado Dimitri Sales, presidente do Conselho Estadual de Defesa dos Direitos da Pessoal Humana do Estado de S&atilde;o Paulo (Condep), do promotor de Justi&ccedil;a Paulo Henrique Arantes, representante do Minist&eacute;rio P&uacute;blico no Condep, e do procurador Alfonso Presti, representando o Procurador-Geral de Justi&ccedil;a do Estado de S&atilde;o Paulo (Gianpaolo Poggio Smanio). A visita foi acompanhada por representantes do setor de Direitos Humanos e da coordena&ccedil;&atilde;o nacional do MST.</p>
 
-<p>&nbsp;</p>
+<p><br />
+LEIA MAIS: Mem&oacute;ria de um trabalhador que foi morto lutando, Luis Ferreira vive!</p>
 
 <p>O objetivo dos visitantes era conhecer de perto a realidade do acampamento, dialogar a respeito da situa&ccedil;&atilde;o vivenciada pelas fam&iacute;lias, principalmente no que tange &agrave; viola&ccedil;&atilde;o dos direitos sociais dos moradores, e buscar formas de garantir os direitos das crian&ccedil;as, adolescentes e idosos da comunidade.</p>
 
@@ -68,7 +67,4 @@ Na avalia&ccedil;&atilde;o dos membros do acampamento e do setor estadual de Dir
 Ao final da visita os representantes do MST reafirmaram que esperam que o assassino do senhor Luis Ferreira da Costa &ndash; morto em 18 de julho &ndash; permane&ccedil;a preso e seja condenado, para que as institui&ccedil;&otilde;es e as leis brasileiras n&atilde;o caiam no descr&eacute;dito pela impunidade j&aacute; ocorrida em tantos outros casos de assassinatos cometidos contra trabalhadores Sem Terra. Afirmaram, tamb&eacute;m, que esperam que a ju&iacute;za que julgar&aacute; o processo de reintegra&ccedil;&atilde;o de posse do acampamento Marielle Vive! seja prudente ao tomar sua decis&atilde;o, pois a senten&ccedil;a implicar&aacute; na vida de centenas de fam&iacute;lias j&aacute; t&atilde;o afetadas pela crise, desemprego e pela n&atilde;o garantia de direitos sociais.<br />
 &nbsp;</p>
 
-<p><strong>LEIA MAIS</strong>:&nbsp;<a href="https://www.mst.org.br/2019/07/25/so-saio-desta-terra-morto.html">Mem&oacute;ria de um trabalhador que foi morto lutando, Luis Ferreira vive!</a></p>
-
-<p><br />
-<em>*Editado por Fernanda Alc&acirc;ntara</em></p>
+<p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
