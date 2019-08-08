@@ -47,7 +47,8 @@ Da P&aacute;gina do MST</em></p>
 Na &uacute;ltima ter&ccedil;a-feira (6), o acampamento Marielle Vive!, localizado em Valinhos (SP), recebeu a visita do advogado Dimitri Sales, presidente do Conselho Estadual de Defesa dos Direitos da Pessoal Humana do Estado de S&atilde;o Paulo (Condep), do promotor de Justi&ccedil;a Paulo Henrique Arantes, representante do Minist&eacute;rio P&uacute;blico no Condep, e do procurador Alfonso Presti, representando o Procurador-Geral de Justi&ccedil;a do Estado de S&atilde;o Paulo (Gianpaolo Poggio Smanio). A visita foi acompanhada por representantes do setor de Direitos Humanos e da coordena&ccedil;&atilde;o nacional do MST.</p>
 
 <p><br />
-LEIA MAIS: Mem&oacute;ria de um trabalhador que foi morto lutando, Luis Ferreira vive!</p>
+LEIA MAIS: <a href="https://www.mst.org.br/2019/07/25/so-saio-desta-terra-morto.html">Mem&oacute;ria de um trabalhador que foi morto lutando, Luis Ferreira vive!</a><br />
+&nbsp;</p>
 
 <p>O objetivo dos visitantes era conhecer de perto a realidade do acampamento, dialogar a respeito da situa&ccedil;&atilde;o vivenciada pelas fam&iacute;lias, principalmente no que tange &agrave; viola&ccedil;&atilde;o dos direitos sociais dos moradores, e buscar formas de garantir os direitos das crian&ccedil;as, adolescentes e idosos da comunidade.</p>
 
