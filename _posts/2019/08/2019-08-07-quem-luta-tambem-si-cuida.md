@@ -89,7 +89,7 @@ Al&eacute;m disso, ele acredita que o autocuidado precisa estar relacionado com 
 <p>A pr&aacute;tica de atividades como caminhadas, dan&ccedil;as, jogos esportivos ou passeios de bicicleta, por exemplo, induz a produ&ccedil;&atilde;o de endorfinas, uma subst&acirc;ncia natural respons&aacute;vel por diminuir a sensibilidade &agrave; dor e proporcionar uma sensa&ccedil;&atilde;o de relaxamento e prazer.&nbsp;</p>
 
 <p><br />
-As atividades f&iacute;sicas podem ser aliadas importantes no combate ao estresse, aAl&eacute;m de seus efeitos no corpo, como controle do peso e melhora no quadro cl&iacute;nico de diversas doen&ccedil;as. A sua pr&aacute;tica regular possui benef&iacute;cios psicossociais e contribui na diminui&ccedil;&atilde;o dos sintomas da TPM, melhora do humor, aumento da autoestima e da sensa&ccedil;&atilde;o de bem-estar.</p>
+As atividades f&iacute;sicas podem ser aliadas importantes no combate ao estresse, al&eacute;m de seus efeitos no corpo, como controle do peso e melhora no quadro cl&iacute;nico de diversas doen&ccedil;as. A sua pr&aacute;tica regular possui benef&iacute;cios psicossociais e contribui na diminui&ccedil;&atilde;o dos sintomas da TPM, melhora do humor, aumento da autoestima e da sensa&ccedil;&atilde;o de bem-estar.</p>
 
 <p><br />
 &nbsp;</p>
@@ -160,7 +160,7 @@ Negar faz parte do autocuidado. Dizer n&atilde;o, muitas vez, &eacute; um exerc&
 <strong>9.&nbsp;Atente-se ao seu corpo</strong></p>
 
 <p><br />
-Nosso corpo &eacute; grande. S&atilde;o muitos detalhes. Por isso &eacute; extramente importante criar uma rotina de autoanalise. Olhe para seu corpo e toque-o para conhec&ecirc;-lo. Nosso corpo sempre dar&aacute; sinais se algo n&atilde;o estiver bem e isso nem sempre se apresenta atrav&eacute;s de dores ou algum mal-estar. Manchas e incha&ccedil;os, por exemlp,o s&atilde;o duas quest&otilde;es que precisam de acompanhamento mais de perto.<br />
+Nosso corpo &eacute; grande. S&atilde;o muitos detalhes. Por isso &eacute; extramente importante criar uma rotina de autoanalise. Olhe para seu corpo e toque-o para conhec&ecirc;-lo. Nosso corpo sempre dar&aacute; sinais se algo n&atilde;o estiver bem e isso nem sempre se apresenta atrav&eacute;s de dores ou algum mal-estar. Manchas e incha&ccedil;os, por exemplo s&atilde;o duas quest&otilde;es que precisam de acompanhamento mais de perto.<br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="[113] Festejar faz muito bem à sua saúde._Foto_ Mídia Ninja.jpg" height="200" src="//farm66.staticflickr.com/65535/48481881952_05cecce756_b.jpg" width="300" />
