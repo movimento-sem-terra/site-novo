@@ -7,7 +7,7 @@ tags:
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48490801827_c8d269fd62_b.jpg
 support_line: "O encontro das Margaridas conta com público de 100 mil pessoas em Brasília. A primeira Marcha das Mulheres indígenas se une às camponesas para lutar contra retrocessos sociais \n"
-title: Mulheres indígenas e camponesas se unem para a maior ação feminina da Amárica Latina
+title: Mulheres indígenas e camponesas se unem para a maior ação feminina da América Latina
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/48490801827_c8d269fd62_b.jpg
