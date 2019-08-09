@@ -57,8 +57,8 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><br />
-<em>Da P&aacute;gina do MST&nbsp;</em><br />
-<br />
+<em>Por Nat&aacute;lia Loyola de Macedo<br />
+Da P&aacute;gina do MST&nbsp;</em><br />
 &nbsp;</p>
 
 <p>Como forma de resistir ao cen&aacute;rio pol&iacute;tico atual, mulheres ind&iacute;genas resolveram agregar movimentos. A primeira Marcha das Mulheres Ind&iacute;genas vai acontecer simultaneamente com a Marcha das Margaridas. O objetivo &eacute; levar o maior n&uacute;mero de pessoas, sobretudo, mulheres, &agrave; Bras&iacute;lia para reivindicar direitos e lutar contra retrocessos. A estimativa &eacute; que a capital do pa&iacute;s receba aproximadamente 100 mil pessoas nos dias 13 e 14 de agosto. O primeiro dia de a&ccedil;&atilde;o ser&aacute; destinado &agrave;s aut&oacute;ctones e aos simpatizantes de suas lutas. No dia seguinte, acontecer&aacute; a popular Marcha das Margaridas.</p>
