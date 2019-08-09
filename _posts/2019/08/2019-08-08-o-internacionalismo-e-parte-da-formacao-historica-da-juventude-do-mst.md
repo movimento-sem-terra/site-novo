@@ -7,7 +7,7 @@ tags:
 title: "O internacionalismo é parte da formação histórica da juventude do MST\n"
 support_line: Artigo destaca entrelaçamento da juventude camponesa e a solidariedade internacional
 menu: solidariedade
-images_hd: //farm66.staticflickr.com/65535/48488301851_1430c08d08_b.jpg
+images_hd: //farm66.staticflickr.com/65535/48496032967_58248b9a82_b.jpg
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/48488301851_1430c08d08_b.jpg
@@ -17,6 +17,20 @@ files:
     small: //farm66.staticflickr.com/65535/48488301851_1430c08d08_n.jpg
     title: "[116] Comuna ou nada sem crédito.jpg"
     $$hashKey: 087
+  - link: //farm66.staticflickr.com/65535/48496032967_58248b9a82_b.jpg
+    original: //farm66.staticflickr.com/65535/48496032967_12b16b9b80_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48496032967_58248b9a82_t.jpg
+    medium: //farm66.staticflickr.com/65535/48496032967_58248b9a82_z.jpg
+    small: //farm66.staticflickr.com/65535/48496032967_58248b9a82_n.jpg
+    title: WhatsApp Image 2019-08-09 at 11.13.12.jpeg
+    $$hashKey: 07W
+  - link: //farm66.staticflickr.com/65535/48496032982_f970db1111_b.jpg
+    original: //farm66.staticflickr.com/65535/48496032982_7b6636faa2_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48496032982_f970db1111_t.jpg
+    medium: //farm66.staticflickr.com/65535/48496032982_f970db1111_z.jpg
+    small: //farm66.staticflickr.com/65535/48496032982_f970db1111_n.jpg
+    title: WhatsApp Image 2019-08-09 at 11.13.12 (1).jpeg
+    $$hashKey: 07Z
 created_date: "2019-08-08T11:40:29-03:00"
 published: true
 releated_posts:
@@ -29,9 +43,14 @@ releated_posts:
 section: cover
 
 ---
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-08-09 at 11.13.12.jpeg" height="432" src="//farm66.staticflickr.com/65535/48496032967_58248b9a82_b.jpg" width="700" />
+<figcaption>Foto: Divulga&ccedil;&atilde;o MST</figcaption>
+</figure>
+</div>
 
 <p><br />
+<br />
 <em>Por Paulo Henrique Campos*<br />
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
@@ -51,6 +70,12 @@ Quando o MST surge na d&eacute;cada de 80, j&aacute; nasce profundamente interna
 <p><br />
 Mas tamb&eacute;m aprendemos com diversos processos de resist&ecirc;ncias populares, como o povo palestino na luta por territ&oacute;rio livre. Da luta das mulheres curdas, com as lutas do povo negro africano. Com a resist&ecirc;ncia hist&oacute;rica contra as invas&otilde;es imperialistas do povo haitiano. Com as diversas resist&ecirc;ncias dos povos latino-americanos, sobretudo os ind&iacute;genas, e tamb&eacute;m com as pr&oacute;prias lutas do povo brasileiro.&nbsp;&nbsp;<br />
 &nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-08-09 at 11.13.12 (1).jpeg" height="464" src="//farm66.staticflickr.com/65535/48496032982_f970db1111_b.jpg" width="700" />
+<figcaption>Foto: Matheus Alves</figcaption>
+</figure>
+</div>
 
 <p>Quais as li&ccedil;&otilde;es dessas resist&ecirc;ncias populares e revolu&ccedil;&otilde;es? Que somente o povo em luta poder&aacute; conduzir seu pr&oacute;prio destino. Que para as organiza&ccedil;&otilde;es da classe trabalhadora &eacute; exigido para a constru&ccedil;&atilde;o de um processo revolucion&aacute;rio: forma&ccedil;&atilde;o, agita&ccedil;&atilde;o e propaganda para elevar o n&iacute;vel de consci&ecirc;ncia do povo, trabalho de base, unidade e mobiliza&ccedil;&atilde;o popular.<br />
 &nbsp;</p>
@@ -94,8 +119,10 @@ Mas tamb&eacute;m aprendemos com diversos processos de resist&ecirc;ncias popula
 <p>Nossa juventude sempre esteve envolvida nas articula&ccedil;&otilde;es internacionais com a juventude da classe trabalhadora, seja atrav&eacute;s dos acampamentos de juventude da Via Campesina, com a participa&ccedil;&atilde;o nos interc&acirc;mbios, contribuindo com a Articula&ccedil;&atilde;o Internacional da Juventude em Luta. Ou seja, o internacionalismo tamb&eacute;m &eacute; parte da forma&ccedil;&atilde;o hist&oacute;rica da Juventude Sem Terra.<br />
 &nbsp;</p>
 
-<p><strong>Por que a Juventude do MST deve realizar uma miss&atilde;o internacionalista?</strong><br />
-&nbsp;</p>
+<p style="text-align:center"><img alt="[116] Comuna ou nada sem crédito.jpg" height="502" src="//farm66.staticflickr.com/65535/48488301851_1430c08d08_b.jpg" width="700" /></p>
+
+<p><br />
+<strong>Por que a Juventude do MST deve realizar uma miss&atilde;o internacionalista?</strong></p>
 
 <p>Certamente porque &eacute; uma das tarefas de maior forma&ccedil;&atilde;o pol&iacute;tica e humana para um jovem militante. &Eacute; um encontro com a realidade profunda de um povo, com sua cultura, lutas, desafios e contradi&ccedil;&otilde;es. &Eacute; uma pratica pol&iacute;tica mais efetiva e concreta do internacionalismo militante.<br />
 &nbsp;</p>
