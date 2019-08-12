@@ -39,22 +39,22 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-&Eacute; com profundo&nbsp;pesar que recebemos a not&iacute;cia do falecimento&nbsp;do companheiro Gustavo Codas, aos 59 anos.</p>
+&Eacute; com profundo&nbsp;pesar que recebemos a not&iacute;cia do falecimento&nbsp;do companheiro Gustavo Codas, aos 60&nbsp;anos.</p>
 
 <p><br />
-<span style="font-size: 10pt; font-family: Arial, sans-serif; color: rgb(51, 51, 51);">Codas foi jornalista, economista e professor. De&nbsp;nacionalidade paraguaia,&nbsp;exilou-se no Brasil&nbsp;no come&ccedil;o dos anos 1980, motivado pela&nbsp;persegui&ccedil;&atilde;o da ditadura de Alfredo Stroessner.</span></p>
+Codas foi jornalista, economista e professor. De&nbsp;nacionalidade paraguaia,&nbsp;exilou-se no Brasil&nbsp;no come&ccedil;o dos anos 1980, motivado pela&nbsp;persegui&ccedil;&atilde;o da ditadura de Alfredo Stroessner.</p>
 
-<p style="color: rgb(34, 34, 34); margin-right: 0cm; margin-left: 0cm; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif;"><br />
-<span style="font-size: 10pt; font-family: Arial, sans-serif; color: rgb(51, 51, 51);">Em sua trajet&oacute;ria na constru&ccedil;&atilde;o de uma&nbsp;sociedade mais justa e igualit&aacute;ria, socialista, foi militante do PT (Partido dos Trabalhadores) e assessor da CUT (Central &Uacute;nica dos Trabalhadores).&nbsp;Tamb&eacute;m foi um dos principais dirigentes sindicais na constru&ccedil;&atilde;o do Forum Social Mundial (FSM).</span></p>
+<p><br />
+Em sua trajet&oacute;ria na constru&ccedil;&atilde;o de uma&nbsp;sociedade mais justa e igualit&aacute;ria, socialista, foi militante do PT (Partido dos Trabalhadores) e assessor da CUT (Central &Uacute;nica dos Trabalhadores).&nbsp;Tamb&eacute;m foi um dos principais dirigentes sindicais na constru&ccedil;&atilde;o do Forum Social Mundial (FSM).</p>
 
-<p style="color: rgb(34, 34, 34); margin-right: 0cm; margin-left: 0cm; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif;"><br />
-<span style="font-size: 10pt; font-family: Arial, sans-serif; color: rgb(51, 51, 51);">E, comprometido com seu pa&iacute;s, engajou-se ativamente na constru&ccedil;&atilde;o do governo de Fernando Lugo (2008-12), at&eacute; o golpe de Estado promovido pelas oligarquias paraguaia.&nbsp;</span></p>
+<p><br />
+E, comprometido com seu pa&iacute;s, engajou-se ativamente na constru&ccedil;&atilde;o do governo de Fernando Lugo (2008-12), at&eacute; o golpe de Estado promovido pelas oligarquias paraguaia.&nbsp;</p>
 
-<p style="color: rgb(34, 34, 34); margin-right: 0cm; margin-left: 0cm; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif;"><br />
-<span style="font-family: Arial, sans-serif; font-size: 10pt; color: rgb(34, 34, 34);">Codas sempre esteve presente ativamente na constru&ccedil;&atilde;o e nas lutas do MST. Seremos sempre gratos a esse companheiro de lutas e ideais socialistas.</span></p>
+<p><br />
+Codas sempre esteve presente ativamente na constru&ccedil;&atilde;o e nas lutas do MST. Seremos sempre gratos a esse companheiro de lutas e ideais socialistas.</p>
 
-<p style="color: rgb(34, 34, 34); margin-right: 0cm; margin-left: 0cm; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif;"><br />
-<span style="font-size: 10pt; font-family: Arial, sans-serif; color: rgb(51, 51, 51);">Perdemos um dos grandes&nbsp;nesse momento de retrocesso, mas&nbsp;tamb&eacute;m de resist&ecirc;ncia. Sua partida precoce far&aacute; muita falta. No entanto, seu exemplo de milit&acirc;ncia pol&iacute;tica nos faz reafirmar o compromisso de continuarmos sua luta.</span></p>
+<p><br />
+Perdemos um dos grandes&nbsp;nesse momento de retrocesso, mas&nbsp;tamb&eacute;m de resist&ecirc;ncia. Sua partida precoce far&aacute; muita falta. No entanto, seu exemplo de milit&acirc;ncia pol&iacute;tica nos faz reafirmar o compromisso de continuarmos sua luta.</p>
 
 <p>&nbsp;</p>
 
