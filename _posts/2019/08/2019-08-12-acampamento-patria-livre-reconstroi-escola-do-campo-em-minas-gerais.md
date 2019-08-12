@@ -97,4 +97,4 @@ Os primeiros galp&otilde;es da escola foram constru&iacute;dos pelas m&atilde;os
 <p>Junto com a reforma das salas, foi constru&iacute;do tamb&eacute;m uma sala de cultura e em breve ser&atilde;o feitos novos espa&ccedil;os para uma biblioteca e um laborat&oacute;rio de inform&aacute;tica, que tamb&eacute;m funcionar&aacute; como sala de comunica&ccedil;&atilde;o. Os novos galp&otilde;es da escola j&aacute; est&atilde;o prontos e os educandos est&atilde;o tendo aulas em um ambiente mais seguro e confort&aacute;vel.&nbsp;<br />
 &nbsp;</p>
 
-<p><em>Mari Rocha</em></p>
+<p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
