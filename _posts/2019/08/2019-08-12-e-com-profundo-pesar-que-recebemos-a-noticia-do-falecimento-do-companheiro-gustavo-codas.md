@@ -54,7 +54,7 @@ releated_posts:
 <span style="font-family: Arial, sans-serif; font-size: 10pt; color: rgb(34, 34, 34);">Codas sempre esteve presente ativamente na constru&ccedil;&atilde;o e nas lutas do MST. Seremos sempre gratos a esse companheiro de lutas e ideais socialistas.</span></p>
 
 <p style="color: rgb(34, 34, 34); margin-right: 0cm; margin-left: 0cm; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif;"><br />
-<span style="font-size: 10pt; font-family: Arial, sans-serif; color: rgb(51, 51, 51);">Perdemos um dos grandes, em um momento de retrocesso, mas, tamb&eacute;m de resist&ecirc;ncia sua partida precoce far&aacute; nos far&aacute; muita falta. No entanto, seu exemplo de milit&acirc;ncia politica nos faz reafirmar o compromisso de continuarmos sua luta.</span></p>
+<span style="font-size: 10pt; font-family: Arial, sans-serif; color: rgb(51, 51, 51);">Perdemos um dos grandes&nbsp;nesse momento de retrocesso, mas&nbsp;tamb&eacute;m de resist&ecirc;ncia. Sua partida precoce far&aacute; muita falta. No entanto, seu exemplo de milit&acirc;ncia pol&iacute;tica nos faz reafirmar o compromisso de continuarmos sua luta.</span></p>
 
 <p>&nbsp;</p>
 
