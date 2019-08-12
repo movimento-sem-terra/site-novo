@@ -16,6 +16,13 @@ files:
     small: //farm66.staticflickr.com/65535/48522154937_3bb758b16d_n.jpg
     title: maxresdefault.jpg
     $$hashKey: 04Q
+  - link: //farm66.staticflickr.com/65535/48522165287_bcc9dacf8b_b.jpg
+    original: //farm66.staticflickr.com/65535/48522165287_ea2d857e91_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48522165287_bcc9dacf8b_t.jpg
+    medium: //farm66.staticflickr.com/65535/48522165287_bcc9dacf8b_z.jpg
+    small: //farm66.staticflickr.com/65535/48522165287_bcc9dacf8b_n.jpg
+    title: WhatsApp Image 2019-08-12 at 15.36.23.jpeg
+    $$hashKey: 09O
 created_date: "2019-08-12T15:41:06-03:00"
 published: true
 releated_posts:
@@ -25,6 +32,8 @@ releated_posts:
   - _posts/2019/04/2019-05-01-sua-voz-que-ja-esteve-ate-em-marte-agora-segue-encantando-os-ceus.md
 
 ---
+<p style="text-align:center"><img alt="WhatsApp Image 2019-08-12 at 15.36.23.jpeg" height="600" src="//farm66.staticflickr.com/65535/48522165287_bcc9dacf8b_b.jpg" width="600" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
