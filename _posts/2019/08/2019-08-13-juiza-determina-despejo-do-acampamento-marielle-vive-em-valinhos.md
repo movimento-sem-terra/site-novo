@@ -56,7 +56,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Ainda em luto pelo cruel assassinato do Sem Terra&nbsp;Luis Ferreira da Costa,&nbsp;o acampamento Marielle Vive!, localizado em Valinhos, S&atilde;o Paulo, est&aacute; sob amea&ccedil;a de despejo.</p>
+<p>Ainda em luto pelo cruel assassinato do Sem Terra <a href="https://www.mst.org.br/2019/07/25/so-saio-desta-terra-morto.html">Luis Ferreira da Costa</a>,&nbsp;o acampamento Marielle Vive!, localizado em Valinhos, S&atilde;o Paulo, est&aacute; sob amea&ccedil;a de despejo.</p>
 
 <p><br />
 Na tarde de segunda feira (12), a ju&iacute;za de primeira inst&acirc;ncia, Bianca Vasconcelos, decidiu em senten&ccedil;a pelo despejo das fam&iacute;lias que desde o dia 14 de abril de 2018 vivem na Fazenda Eldorado Empreendimentos Imobili&aacute;rios Ltda.</p>
