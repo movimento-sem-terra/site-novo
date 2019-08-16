@@ -25,7 +25,11 @@ releated_posts:
   - _posts/2019/08/2019-08-03-banquetaco-em-apoio-a-feira-nacional-da-reforma-agraria-sera-realizado-neste-domingo.md
 
 ---
-<p><img alt="Banner 2.jpg" src="//farm66.staticflickr.com/65535/48553231917_a1076d45fb_b.jpg" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Banner 2.jpg" height="394" src="//farm66.staticflickr.com/65535/48553231917_a1076d45fb_b.jpg" width="700" />
+<figcaption>Legenda</figcaption>
+</figure>
+</div>
 
 <p><br />
 <em>Da P&aacute;gina do MST</em></p>
