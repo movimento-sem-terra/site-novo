@@ -49,7 +49,8 @@ A partir desta sexta-feira (16) tamb&eacute;m come&ccedil;am a ocorrer eventos p
 <p>A Jornada de Agroecologia &eacute; fruto de uma a&ccedil;&atilde;o coletiva que come&ccedil;ou em 2001, e hoje conta com mais 60 organiza&ccedil;&otilde;es. Voc&ecirc; tamb&eacute;m pode fazer parte deste grande mutir&atilde;o por um Projeto Popular para a agricultura.&nbsp;</p>
 
 <p><br />
-➡ <a href="https://bit.ly/2xKX7dN%E2%A0%80">Fa&ccedil;a a sua contribui&ccedil;&atilde;o pela plataforma Kickante</a> (e ainda receba recompensas)!</p>
+➡ <a href="https://bit.ly/2xKX7dN%E2%A0%80">Fa&ccedil;a a sua contribui&ccedil;&atilde;o pela plataforma Kickante</a> (e ainda receba recompensas)!<br />
+&nbsp;</p>
 
 <p>➡ Ou por dep&oacute;sito banc&aacute;rio:⠀</p>
 
