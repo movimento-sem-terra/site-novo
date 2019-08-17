@@ -36,9 +36,11 @@ releated_posts: []
 ---
 <p>&nbsp;</p>
 
-<figure class="image"><img alt="WhatsApp Image 2019-08-15 at 08.36.52.jpeg" height="525" src="//farm66.staticflickr.com/65535/48559995331_f8749e7406_b.jpg" width="700" />
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-08-15 at 08.36.52.jpeg" height="525" src="//farm66.staticflickr.com/65535/48559995331_f8749e7406_b.jpg" width="700" />
 <figcaption><em>Juventude Sem Terra distribui livros durante interven&ccedil;&atilde;o / Foto: Edgi Carvalho e Cida Nonato</em></figcaption>
 </figure>
+</div>
 
 <p><br />
 &nbsp;</p>
@@ -56,9 +58,11 @@ Durante o evento, o coletivo estadual de juventude do MST realizou&nbsp;apresent
 <br />
 &nbsp;</p>
 
-<figure class="image"><img alt="WhatsApp Image 2019-08-16 at 06.21.27.jpeg" height="431" src="//farm66.staticflickr.com/65535/48560121537_85061b968c_b.jpg" width="700" />
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-08-16 at 06.21.27.jpeg" height="431" src="//farm66.staticflickr.com/65535/48560121537_85061b968c_b.jpg" width="700" />
 <figcaption>Juventude do MST realizou&nbsp;apresenta&ccedil;&otilde;es culturais / Foto: Edgi Carvalho e Cida Nonato</figcaption>
 </figure>
+</div>
 
 <p><br />
 <br />
@@ -69,10 +73,12 @@ Na quinta-feira (15), foi realizada uma audi&ecirc;ncia na&nbsp;Assembl&eacute;i
 O evento contou com a participa&ccedil;&atilde;o de mais de 500 jovens do Movimento dos Trabalhadores Rurais Sem Terra (MST),&nbsp;Federa&ccedil;&atilde;o dos Trabalhadores na Agricultura do Estado do Piau&iacute;&nbsp;(FETAG), Comiss&atilde;o Pastoral da Terra (CPT), Movimento dos Pequenos Agricultores (MPA), Movimentos de Atingidos por Barragens (MAB) e estudantes de Licenciaturas em Educa&ccedil;&atilde;o do Campo (LEDOC).<br />
 &nbsp;</p>
 
-<figure class="image"><img alt="WhatsApp Image 2019-08-16 at 12.21.26.jpeg" height="394" src="//farm66.staticflickr.com/65535/48560144902_289fa0a65c_b.jpg" width="700" />
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-08-16 at 12.21.26.jpeg" height="394" src="//farm66.staticflickr.com/65535/48560144902_289fa0a65c_b.jpg" width="700" />
 <figcaption>Representantes de diversas institui&ccedil;&otilde;es, entidades e organiza&ccedil;&otilde;es participaram da atividade /<br />
 Foto: Edgi Carvalho e Cida Nonato</figcaption>
 </figure>
+</div>
 
 <p><br />
 <br />
