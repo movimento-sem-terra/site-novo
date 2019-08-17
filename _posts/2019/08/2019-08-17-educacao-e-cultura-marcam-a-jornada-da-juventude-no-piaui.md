@@ -1,7 +1,7 @@
 ---
 date: "2019-08-17T14:59:07-03:00"
 tags: []
-title: Educação e cultura marcam a Jornada da Juventude no Piauí
+title: Educação e cultura marcam a Jornada da Juventude Sem Terra no Piauí
 support_line: "Durante a 10ª Jornada Nacional da Juventude Sem Terra, o MST do Piauí celebrou, com apresentações culturais típicas, os 20 anos do Pronera no estado."
 menu: "educação, cultura e comunicação"
 sector: education
