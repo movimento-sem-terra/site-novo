@@ -1,8 +1,10 @@
 ---
 date: "2019-08-17T14:59:07-03:00"
-tags: []
+tags:
+  - tag: piauí
+  - tag: juventude-sem-terra
 title: Educação e cultura marcam a Jornada da Juventude Sem Terra no Piauí
-support_line: "Durante a 10ª Jornada Nacional da Juventude Sem Terra, o MST do Piauí celebrou, com apresentações culturais típicas, os 20 anos do Pronera no estado."
+support_line: "Durante a 10ª Jornada Nacional da Juventude Sem Terra, MST celebra com apresentações culturais os 20 anos do Pronera no estado."
 menu: "educação, cultura e comunicação"
 sector: education
 images_hd: //farm66.staticflickr.com/65535/48560121537_85061b968c_b.jpg
@@ -31,7 +33,11 @@ files:
     $$hashKey: 02V
 created_date: "2019-08-17T15:24:27-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2019/07/2019-07-30-escola-de-artes-do-mst-no-piaui-relembra-lutas-e-cultura-popular.md
+  - _posts/2019/06/2019-06-19-no-ceara-mst-realiza-xv-encontro-estadual-da-juventude-sem-terra.md
+  - _posts/2019/06/2019-06-22-militante-lgbt-sem-terra-atua-na-organizacao-de-jovens-do-campo.md
+  - _posts/2019/07/2019-07-30-curso-da-juventude-sem-terra-da-regiao-sul-fortalece-a-luta-pela-educacao-publica.md
 
 ---
 <p>&nbsp;</p>
@@ -42,10 +48,9 @@ releated_posts: []
 </figure>
 </div>
 
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
-<p><em><span style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small;">Por Coletivo de comunica&ccedil;&atilde;o MST/PI</span></em><br />
+<p><em>Por Coletivo de comunica&ccedil;&atilde;o MST/PI</em><br />
 <br />
 <br />
 De 12 a 16 de agosto de 2019 foi realizada a Jornada Nacional da&nbsp;juventude Sem Terra, que, em sua d&eacute;cima edi&ccedil;&atilde;o, tr&aacute;s como lema:&nbsp;Juventude em luta pela vida e por direitos.<br />
@@ -55,7 +60,6 @@ No Piau&iacute;, na programa&ccedil;&atilde;o da jornada foi realizado&nbsp;o se
 <br />
 <br />
 Durante o evento, o coletivo estadual de juventude do MST realizou&nbsp;apresenta&ccedil;&otilde;es culturais como a&nbsp;&ldquo;dan&ccedil;a de boi mangang&aacute;&rdquo;, cultura que&nbsp;atravessou gera&ccedil;&otilde;es no assentamento Palmares, no munic&iacute;pio de&nbsp;Luzil&acirc;ndia (PI). Tamb&eacute;m aconteceram interven&ccedil;&otilde;es po&eacute;ticas, apresenta&ccedil;&otilde;es musicais e&nbsp;teatrais.&nbsp;<br />
-<br />
 &nbsp;</p>
 
 <div style="text-align:center">
@@ -65,7 +69,6 @@ Durante o evento, o coletivo estadual de juventude do MST realizou&nbsp;apresent
 </div>
 
 <p><br />
-<br />
 <br />
 Na quinta-feira (15), foi realizada uma audi&ecirc;ncia na&nbsp;Assembl&eacute;ia Legislativa do Piau&iacute; (ALEPI), onde a juventude Sem Terra fez a&nbsp;distribui&ccedil;&atilde;o de livros, de autores do pr&oacute;prio Movimento, para deputados e&nbsp;membros da mesa, formada pela coordena&ccedil;&atilde;o do F&oacute;rum Piauiense de&nbsp;Educa&ccedil;&atilde;o do Campo (FOPEC), membros da Universidade Estadual do Piau&iacute; (UESPI), da Universidade Federal do Piau&iacute; (UFPI) e movimentos sociais.<br />
 <br />
