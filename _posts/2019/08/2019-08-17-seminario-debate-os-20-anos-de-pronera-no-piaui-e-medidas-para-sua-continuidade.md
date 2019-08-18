@@ -2,7 +2,7 @@
 date: "2019-08-17T20:00:57-03:00"
 tags: []
 title: Seminário debate os 20 anos de Pronera no Piauí e medidas para sua continuidade
-support_line: "Ao longo de 3 dias, atividade contou com mais de 450 participantes da universidade e de movimentos sociais."
+support_line: Atividade contou com mais de 450 participantes da universidade e de movimentos sociais.
 menu: "educação, cultura e comunicação"
 sector: education
 images_hd: //farm66.staticflickr.com/65535/48562136531_8107fc3f67_b.jpg
