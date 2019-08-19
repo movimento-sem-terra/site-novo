@@ -44,6 +44,7 @@ releated_posts:
   - _posts/2019/07/2019-07-04-julgamento-do-despejo-no-acampamento-quilombo-campo-grande.md
   - _posts/2019/07/2019-07-12-justica-nega-reintegracao-de-posse-do-acampamento-quilombo-campo-grande.md
   - _posts/2019/07/2019-07-31-300-familias-do-acampamento-quilombo-dos-palmares-sofrem-despejo-em-londrina-pr.md
+section: featured-news
 
 ---
 <div style="text-align:center">
