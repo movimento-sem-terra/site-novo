@@ -70,7 +70,8 @@ No dia 16 de agosto aconteceu, no munic&iacute;pio de Tarabai, regi&atilde;o do 
 <figcaption></figcaption>
 </figure>
 
-<p>No intervalo do almo&ccedil;o, a juventude Sem Terra presente organizou uma assembleia para afirmar os compromissos com a defesa da educa&ccedil;&atilde;o do campo, dos direitos e da vida, como parte da Jornada Nacional da Juventude Sem Terra, que acontece durante o m&ecirc;s de agosto em todo o Brasil.</p>
+<p>No intervalo do almo&ccedil;o, a juventude Sem Terra presente organizou uma assembleia para afirmar os compromissos com a defesa da educa&ccedil;&atilde;o do campo, dos direitos e da vida, como parte da Jornada Nacional da Juventude Sem Terra, que acontece durante o m&ecirc;s de agosto em todo o Brasil.<br />
+&nbsp;</p>
 
 <p>Durante o dia foram realizados debates em grupos de trabalho para compartilhar as experi&ecirc;ncias constru&iacute;das em &acirc;mbito local, na perspectiva dos sujeitos do campo e dos desafios colocados, onde verificou-se o processo de fechamento das escolas no campo e a desconsidera&ccedil;&atilde;o desta realidade por parte das escolas urbanas que atendem estes sujeitos.</p>
 
