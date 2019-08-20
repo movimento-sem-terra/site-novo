@@ -27,7 +27,7 @@ releated_posts:
 
 ---
 <p><br />
-<em>Por&nbsp;Juliana Mello&nbsp;<br />
+<em>Por&nbsp;Juliana Mello*&nbsp;<br />
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
@@ -66,5 +66,8 @@ Por outro lado, a educa&ccedil;&atilde;o sempre significou um espa&ccedil;o de d
 <p><br />
 A defesa da educa&ccedil;&atilde;o p&uacute;blica de qualidade e da Educa&ccedil;&atilde;o do Campo nos colocar&aacute; diante de um longo per&iacute;odo de batalhas. A juventude n&atilde;o deve naturalizar os retrocessos, mais do que nunca, precisa conspirar, reposicionar seu papel como estudante, nas escolas e nas mobiliza&ccedil;&otilde;es. Nosso desafio &eacute; defender nossos direitos e nos forjar nesse tempo que exige luta, sobretudo nos processos que nos unificam junto a juventude brasileira.</p>
 
-<p><br />
-<em>*Editado por Fernanda Alc&acirc;ntara</em></p>
+<p>&nbsp;</p>
+
+<p><em>*Juliana Mello integra o Coletivo de Juventude do MST no estado Paran&aacute;​<br />
+**Editado por Fernanda Alc&acirc;ntara</em><br />
+&nbsp;</p>
