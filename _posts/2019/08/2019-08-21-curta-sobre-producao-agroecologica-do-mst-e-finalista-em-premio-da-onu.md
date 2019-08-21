@@ -56,6 +56,3 @@ O Concurso Global de V&iacute;deos da Juventude sobre Mudan&ccedil;as Clim&aacut
 &nbsp;</p>
 
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/F6gC8pl3gKU" width="640"></iframe></p>
-
-<p><br />
-<em>*Editado por Fernanda Alc&acirc;ntara</em></p>
