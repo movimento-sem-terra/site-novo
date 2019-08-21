@@ -38,6 +38,8 @@ releated_posts:
   - _posts/2019/07/2019-07-20-ato-em-valinhos-sp-or-homenagem-a-luiz-ferreira-da-costa.md
   - _posts/2019/07/2019-07-03-familias-de-assassinados-do-mst-cobram-celeridade-do-ministerio-publico.md
   - _posts/2019/07/2019-07-05-protesto-cobra-audiencia-da-fepam-sobre-a-mina-guaiba-em-porto-alegre.md
+label: articles
+section: featured-news
 
 ---
 <p>&nbsp;</p>
