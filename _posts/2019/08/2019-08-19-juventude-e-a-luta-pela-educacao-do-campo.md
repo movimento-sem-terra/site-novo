@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2019/07/2019-07-05-audiencia-publica-debate-o-desmonte-do-pronera.md
   - _posts/2019/07/2019-07-02-movimentos-realizam-ato-em-defesa-dos-direitos-e-da-educacao-em-sp.md
   - _posts/2019/07/2019-07-02-formacao-de-formadores-do-metodo-sim-eu-posso-no-nordeste.md
+label: articles
 
 ---
 <p><br />
