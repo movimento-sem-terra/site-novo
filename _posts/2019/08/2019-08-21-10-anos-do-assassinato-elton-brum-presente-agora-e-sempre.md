@@ -76,7 +76,8 @@ H&aacute; exatos dez anos, no amanhecer do dia 21 de agosto de 2009, o trabalhad
 <figcaption></figcaption>
 </figure>
 
-<p>Desde aquele per&iacute;odo os movimentos sociais sofriam com a viol&ecirc;ncia e criminaliza&ccedil;&atilde;o. In&uacute;meros casos similares atestavam que se espraiava e normalizava um regime de exce&ccedil;&atilde;o neoliberal contra as organiza&ccedil;&otilde;es populares, algo que tem se agravado a cada dia em nosso Brasil.</p>
+<p>Desde aquele per&iacute;odo os movimentos sociais sofriam com a viol&ecirc;ncia e criminaliza&ccedil;&atilde;o. In&uacute;meros casos similares atestavam que se espraiava e normalizava um regime de exce&ccedil;&atilde;o neoliberal contra as organiza&ccedil;&otilde;es populares, algo que tem se agravado a cada dia em nosso Brasil.<br />
+&nbsp;</p>
 
 <p>Contudo, mesmo com as dificuldades e perdas, temos certeza que aquela&nbsp;luta era justa, pois o latif&uacute;ndio de mais de 7 mil hectares, palco do assassinato, foi considerado improdutivo pelo estado brasileiro e teve parte das suas terras destinadas &agrave; Reforma Agr&aacute;ria. A a&ccedil;&atilde;o abrigou cerca de 225 fam&iacute;lias no assentamento Conquista de Caiboat&eacute;, que&nbsp; hoje se dedicam &agrave; agricultura familiar na regi&atilde;o e produzem alimentos saud&aacute;veis.<br />
 &nbsp;</p>
@@ -94,7 +95,8 @@ julgamento, em 2017. Foto: Catiana de Medeiros</em></figcaption>
 
 <p>No &acirc;mbito criminal, ap&oacute;s a confirma&ccedil;&atilde;o da senten&ccedil;a proferida pelo tribunal do j&uacute;ri, que o condenou a 12 anos de reclus&atilde;o, na apela&ccedil;&atilde;o e nos demais recursos apresentados perante o Tribunal de Justi&ccedil;a e Superior Tribunal de Justi&ccedil;a, at&eacute; o presente momento&nbsp;n&atilde;o h&aacute; not&iacute;cias do paradeiro do assassino, que continua foragido. O mandado de pris&atilde;o foi expedido h&aacute; cerca de um ano, mas at&eacute; o momento n&atilde;o se tem not&iacute;cia de nenhuma opera&ccedil;&atilde;o policial que buscasse dar efetividade ao comando judicial, algo bem diverso do que costumeiramente tem se repetido nos despejos truculentos e ilegais realizados por todo Brasil, sob a chancela daqueles que supostamente juraram defender a justi&ccedil;a.</p>
 
-<p>S&atilde;o tempos dif&iacute;ceis! Como diz a m&uacute;sica de Beth&acirc;nia: &quot;<em>A voz da minha gente se levantou. E a minha voz junto com a dela. Tenho certeza que os donos da terra. Ficariam mais contentes se n&atilde;o ouvissem minha voz. Minha voz n&atilde;o pode muito. Mas gritar eu bem gritei! &Eacute; um tempo de guerra. &Eacute; um tempo sem sol. &Eacute; um tempo de guerra.&nbsp; &Eacute; um tempo sem sol..</em>.&quot;</p>
+<p><br />
+S&atilde;o tempos dif&iacute;ceis! Como diz a m&uacute;sica de Beth&acirc;nia: &quot;<em>A voz da minha gente se levantou. E a minha voz junto com a dela. Tenho certeza que os donos da terra. Ficariam mais contentes se n&atilde;o ouvissem minha voz. Minha voz n&atilde;o pode muito. Mas gritar eu bem gritei! &Eacute; um tempo de guerra. &Eacute; um tempo sem sol. &Eacute; um tempo de guerra.&nbsp; &Eacute; um tempo sem sol..</em>.&quot;</p>
 
 <p><br />
 E &eacute; exatamente por isso que&nbsp;n&oacute;s, militantes dos direitos humanos e da advocacia popular, seguiremos firmes em busca de justi&ccedil;a. Se h&aacute; dez anos perdemos um valoroso companheiro, hoje reafirmamos nosso compromisso com sua mem&oacute;ria e com a defesa dos que ousam lutar por p&atilde;o, terra e liberdade!<br />
