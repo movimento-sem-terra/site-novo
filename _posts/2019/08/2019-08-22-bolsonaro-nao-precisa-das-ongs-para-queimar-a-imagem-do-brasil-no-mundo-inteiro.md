@@ -70,7 +70,8 @@ Os focos de inc&ecirc;ndio em todo Brasil aumentaram 82% desde o in&iacute;cio d
 
 <p style="text-align: right;"><em>Brasil, 21 de agosto de 2019</em></p>
 
-<p>Assinam a carta:</p>
+<p><strong>Assinam a carta:</strong><br />
+&nbsp;</p>
 
 <p>A&ccedil;&atilde;o Educativa;<br />
 <br />
