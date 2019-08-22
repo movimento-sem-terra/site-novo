@@ -41,6 +41,9 @@ releated_posts:
 <p>Embora reconhe&ccedil;a o problema que antes negava, presidente&nbsp;insinua que ONGs podem estar por tr&aacute;s das queimadas que j&aacute; atingem reservas ind&iacute;genas.</p>
 
 <p><br />
+:: LEIA MAIS:&nbsp;<a href="http://www.mst.org.br/2019/08/22/precisamos-falar-sobre-mudancas-climaticas-queimadas-e-desmatamento.html">Precisamos falar sobre mudan&ccedil;as clim&aacute;ticas, queimadas e desmatamento</a> ::&nbsp;</p>
+
+<p><br />
 Nesta quarta (21),&nbsp;Bolsonaro afirmou que as ONGs seriam as respons&aacute;veis pela situa&ccedil;&atilde;o na Amaz&ocirc;nia &quot;por terem perdido recursos e estarem querendo atingi-lo&quot;. Ao ser indagado se tinha&nbsp;evid&ecirc;ncias das alega&ccedil;&otilde;es, afirmou que&nbsp;&quot;n&atilde;o existem planos escritos nesses casos&quot;.&nbsp;&nbsp;</p>
 
 <p><br />
