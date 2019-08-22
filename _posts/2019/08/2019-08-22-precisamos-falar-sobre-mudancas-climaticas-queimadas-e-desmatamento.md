@@ -30,8 +30,15 @@ files:
     small: //farm66.staticflickr.com/65535/48600137126_05ab1ccbed_n.jpg
     title: "[124]A ONU afirma que à crescente queima de combustíveis fósseis tem intensificado o efeito estufa. Foto_ Reprodução.png"
     $$hashKey: 05X
+  - link: //farm66.staticflickr.com/65535/48600165431_616b91c035_b.jpg
+    original: //farm66.staticflickr.com/65535/48600165431_9ac1c1d677_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48600165431_616b91c035_t.jpg
+    medium: //farm66.staticflickr.com/65535/48600165431_616b91c035_z.jpg
+    small: //farm66.staticflickr.com/65535/48600165431_616b91c035_n.jpg
+    title: "[126] Especial Amazonia.jpeg"
+    $$hashKey: "054"
 created_date: "2019-08-22T12:20:44-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/07/2019-07-17-politica-antiambiental-de-bolsonaro-ameaca-o-fundo-amazonia-entenda.md
   - _posts/2019/03/2019-03-14-exploracao-da-amazonia-ira-aumentar-conflitos-por-terra-e-dependencia-do-agronegocio.md
@@ -41,11 +48,12 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="[125] No último mês, a área da Amazônia com alerta de desmatamento subiu 278% em julho de 2019. Foto_ Mayke Toscano_Gcom-MT.jpg" height="467" src="//farm66.staticflickr.com/65535/48600137136_a1985f9d20_b.jpg" width="700" />
-<figcaption>No &uacute;ltimo m&ecirc;s, a &aacute;rea da Amaz&ocirc;nia com alerta de desmatamento subiu 278% em julho de 2019. Foto_ Mayke&nbsp;Toscano/Gcom-MT</figcaption>
+<figcaption><em>No &uacute;ltimo m&ecirc;s, a &aacute;rea da Amaz&ocirc;nia com alerta de desmatamento subiu 278% em julho de 2019. Foto: Mayke&nbsp;Toscano/Gcom-MT</em></figcaption>
 </figure>
 </div>
 
-<p><em>Por Wesley Lima<br />
+<p><br />
+<em>Por Wesley Lima<br />
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
@@ -55,8 +63,14 @@ Da P&aacute;gina do MST</em><br />
 O relat&oacute;rio, constru&iacute;do por mais de 100 cientistas, inclusive do Brasil, constata que a temperatura do planeta, em todos os continentes, subiu 1,5&ordm;C nos &uacute;ltimos 150 anos.<br />
 Mas, o que isso quer dizer? Ao analisar essa e outras mudan&ccedil;as clim&aacute;ticas, &eacute; poss&iacute;vel fazer compara&ccedil;&otilde;es, verificar a intensidade das chuvas, o derretimento de geleiras. Assim, podemos afirmar que est&aacute; tudo interligado.</p>
 
-<p><br />
-Jo&atilde;o Pompeu, bi&oacute;logo e pesquisador no Instituto Nacional de Pesquisas Espaciais (INPE), explica que antes de tirarmos conclus&otilde;es sobre as mudan&ccedil;as clim&aacute;ticas &eacute; importante compreender que h&aacute; in&uacute;meros centros de estudos no mundo, governamentais ou n&atilde;o.&nbsp;</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="[126] Especial Amazonia.jpeg" height="252" src="//farm66.staticflickr.com/65535/48600165431_616b91c035_b.jpg" width="300" />
+<figcaption><em>Jo&atilde;o Pompeu, bi&oacute;logo e pesquisador do INPE.<br />
+Foto: Acervo pessoal</em></figcaption>
+</figure>
+
+<p>Jo&atilde;o Pompeu, bi&oacute;logo e pesquisador no Instituto Nacional de Pesquisas Espaciais (INPE), explica que antes de tirarmos conclus&otilde;es sobre as mudan&ccedil;as clim&aacute;ticas &eacute; importante compreender que h&aacute; in&uacute;meros centros de estudos no mundo, governamentais ou n&atilde;o.&nbsp;</p>
 
 <p><br />
 &ldquo;Cada um tem sua forma de estudar o clima. No Brasil, o INPE &eacute; a principal institui&ccedil;&atilde;o de estudos clim&aacute;ticos. Mas o importante &eacute; sabermos que todos esses centros convergem para uma &uacute;nica conclus&atilde;o: as atividades humanas a partir da revolu&ccedil;&atilde;o industrial foram capazes de alterar a composi&ccedil;&atilde;o atmosf&eacute;rica da Terra e, portanto, o clima&rdquo;, contextualiza.&nbsp;</p>
@@ -77,10 +91,15 @@ Um problema causado pela a&ccedil;&atilde;o do ser humano na natureza tem sido o
 Pompeu explica que o efeito estufa &eacute; um fen&ocirc;meno natural de alguns planetas, inclusive da Terra, causado pela composi&ccedil;&atilde;o da atmosfera. &ldquo;Gases como vapor de &aacute;gua, di&oacute;xido de carbono e metano n&atilde;o deixam o calor que chega do Sol na superf&iacute;cie terrestre de volta para o espa&ccedil;o. Isso cria uma condi&ccedil;&atilde;o de aquecimento&rdquo;, e completa: &ldquo;&Eacute; gra&ccedil;as ao efeito estufa que estamos aqui, pois ele garante uma temperatura est&aacute;vel e compat&iacute;vel com a vida na Terra&rdquo;.</p>
 
 <p><br />
-Por&eacute;m, Pompeu destaca que o problema &eacute; que a emiss&atilde;o de Gases de Efeito Estufa&nbsp; (GEE) altera a quantidade desses gases na atmosfera e isso leva a um aumento indesej&aacute;vel da temperatura m&eacute;dia do planeta.</p>
+Por&eacute;m, Pompeu destaca que o problema &eacute; que a emiss&atilde;o de Gases de Efeito Estufa&nbsp; (GEE) altera a quantidade desses gases na atmosfera e isso leva a um aumento indesej&aacute;vel da temperatura m&eacute;dia do planeta.<br />
+&nbsp;</p>
 
-<p><br />
-Nesse contexto, o Relat&oacute;rio da ONU afirma que a crescente queima de combust&iacute;veis f&oacute;sseis, que representam a base da industrializa&ccedil;&atilde;o e de muitas atividades humanas, tem intensificado o efeito estufa.</p>
+<figure class="image" style="float:left"><img alt="[124]A ONU afirma que à crescente queima de combustíveis fósseis tem intensificado o efeito estufa. Foto_ Reprodução.png" height="200" src="//farm66.staticflickr.com/65535/48600137126_05ab1ccbed_b.jpg" width="300" />
+<figcaption><em>A ONU afirma que &agrave; crescente queima de combust&iacute;veis<br />
+&nbsp;f&oacute;sseis tem intensificado o efeito estufa. Foto: Reprodu&ccedil;&atilde;o</em></figcaption>
+</figure>
+
+<p>Nesse contexto, o Relat&oacute;rio da ONU afirma que a crescente queima de combust&iacute;veis f&oacute;sseis, que representam a base da industrializa&ccedil;&atilde;o e de muitas atividades humanas, tem intensificado o efeito estufa.</p>
 
 <p><br />
 As queimadas nas florestas para transformar suas &aacute;reas em planta&ccedil;&atilde;o, cria&ccedil;&atilde;o de gado e pastagens, tamb&eacute;m colaboram para o aumento desse fen&ocirc;meno.&nbsp;Por isso, n&atilde;o podemos cometer o erro de colocar o problema do aquecimento global apenas nas m&atilde;os do homem, indiv&iacute;duo, mas pensar isso a partir da a&ccedil;&atilde;o de grandes multinacionais, que se apropriam dos bens naturais para produ&ccedil;&atilde;o de mais e mais dinheiro.&nbsp;</p>
@@ -120,8 +139,13 @@ Por outro lado, o governo Bolsonaro critica os <a href="http://www.obt.inpe.br/O
 <p><br />
 <strong>Enquanto isso, a temperatura sobe</strong></p>
 
-<p><br />
-O ano de 2018 bateu todos os tipos de recordes. Foram registradas temperaturas altas em diversos lugares do mundo em meio a um per&iacute;odo de clima quente excepcionalmente prolongado.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="[124] Especial Amazonia.jpeg" height="213" src="//farm66.staticflickr.com/65535/48600268847_7995471111_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
+
+<p>O ano de 2018 bateu todos os tipos de recordes. Foram registradas temperaturas altas em diversos lugares do mundo em meio a um per&iacute;odo de clima quente excepcionalmente prolongado.</p>
 
 <p><br />
 Grandes por&ccedil;&otilde;es do hemisf&eacute;rio norte presenciaram uma sucess&atilde;o de ondas de calor que atingiu Europa, &Aacute;sia, Am&eacute;rica do Norte e norte da &Aacute;frica.</p>
@@ -137,3 +161,8 @@ Que desafios temos? Com &ecirc;nfase, Pompeu diz que &eacute; preciso combater a
 
 <p><br />
 E continua: &ldquo;Ao mesmo tempo temos que nos organizar para minimizar e nos adaptar aos impactos que as mudan&ccedil;as clim&aacute;ticas j&aacute; causam na sociedade. Por exemplo, as migra&ccedil;&otilde;es em massa dos chamados refugiados ambientais; a morte recorrente de sem teto pelo frio extremo, agravada por pol&iacute;ticas de segrega&ccedil;&atilde;o; as mortes e perdas causadas nos deslizamentos de terra pelas chuvas cada vez mais intensas, principalmente nas comunidades pobres e predominantemente negras; e o risco de diminui&ccedil;&atilde;o da disponibilidade de alimentos, que aumenta o pre&ccedil;o dos bens mais b&aacute;sicos para a nutri&ccedil;&atilde;o humana&rdquo;, conclui.</p>
+
+<p><br />
+<em>*Editado por Fernanda Alc&acirc;ntara</em></p>
+
+<p>&nbsp;</p>
