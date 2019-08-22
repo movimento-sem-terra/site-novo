@@ -6,7 +6,7 @@ tags:
   - tag: justiça
   - tag: rio-grande-do-sul
 title: "10 anos do assassinato: Elton Brum, presente! Agora e sempre!"
-support_line: "Artigo "
+support_line: "Sem razão ou motivo justificável, um tiro a queima roupa tirou a vida de Elton Brum"
 menu: direitos humanos
 images_hd: //farm66.staticflickr.com/65535/48592412567_cefa472c30_b.jpg
 layout: post
