@@ -96,8 +96,9 @@ Por&eacute;m, Pompeu destaca que o problema &eacute; que a emiss&atilde;o de Gas
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="[124]A ONU afirma que à crescente queima de combustíveis fósseis tem intensificado o efeito estufa. Foto_ Reprodução.png" height="200" src="//farm66.staticflickr.com/65535/48600137126_05ab1ccbed_b.jpg" width="300" />
-<figcaption><em>A ONU afirma que &agrave; crescente queima de combust&iacute;veis<br />
-&nbsp;f&oacute;sseis tem intensificado o efeito estufa. Foto: Reprodu&ccedil;&atilde;o</em></figcaption>
+<figcaption><em>A ONU afirma que &agrave; crescente queima de<br />
+combust&iacute;veis&nbsp;f&oacute;sseis tem intensificado o<br />
+efeito estufa. Foto: Reprodu&ccedil;&atilde;o</em></figcaption>
 </figure>
 
 <p>Nesse contexto, o Relat&oacute;rio da ONU afirma que a crescente queima de combust&iacute;veis f&oacute;sseis, que representam a base da industrializa&ccedil;&atilde;o e de muitas atividades humanas, tem intensificado o efeito estufa.</p>
