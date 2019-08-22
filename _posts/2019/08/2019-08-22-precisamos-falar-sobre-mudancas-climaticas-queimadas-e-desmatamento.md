@@ -3,7 +3,7 @@ date: "2019-08-22T11:53:13-03:00"
 tags:
   - tag: meio-ambiente
   - tag: amazônia
-title: "Precisamos falar sobre mudanças climáticas, queimadas e desmatamento"
+title: "Precisamos falar sobre mudanças climáticas, queimadas e desmatamentos"
 support_line: Quem são os principais responsáveis?
 menu: meio ambiente
 images_hd: //farm66.staticflickr.com/65535/48600137126_05ab1ccbed_b.jpg
@@ -62,9 +62,8 @@ Da P&aacute;gina do MST</em><br />
 
 <p><br />
 O relat&oacute;rio, constru&iacute;do por mais de 100 cientistas, inclusive do Brasil, constata que a temperatura do planeta, em todos os continentes, subiu 1,5&ordm;C nos &uacute;ltimos 150 anos.<br />
-Mas, o que isso quer dizer? Ao analisar essa e outras mudan&ccedil;as clim&aacute;ticas, &eacute; poss&iacute;vel fazer compara&ccedil;&otilde;es, verificar a intensidade das chuvas, o derretimento de geleiras. Assim, podemos afirmar que est&aacute; tudo interligado.</p>
-
-<p>&nbsp;</p>
+Mas, o que isso quer dizer? Ao analisar essa e outras mudan&ccedil;as clim&aacute;ticas, &eacute; poss&iacute;vel fazer compara&ccedil;&otilde;es, verificar a intensidade das chuvas, o derretimento de geleiras. Assim, podemos afirmar que est&aacute; tudo interligado.<br />
+&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="[126] Especial Amazonia.jpeg" height="252" src="//farm66.staticflickr.com/65535/48600165431_616b91c035_b.jpg" width="300" />
 <figcaption><em>Jo&atilde;o Pompeu, bi&oacute;logo e pesquisador do INPE.<br />
@@ -107,7 +106,7 @@ efeito estufa. Foto: Reprodu&ccedil;&atilde;o</em></figcaption>
 As queimadas nas florestas para transformar suas &aacute;reas em planta&ccedil;&atilde;o, cria&ccedil;&atilde;o de gado e pastagens, tamb&eacute;m colaboram para o aumento desse fen&ocirc;meno.&nbsp;Por isso, n&atilde;o podemos cometer o erro de colocar o problema do aquecimento global apenas nas m&atilde;os do homem, indiv&iacute;duo, mas pensar isso a partir da a&ccedil;&atilde;o de grandes multinacionais, que se apropriam dos bens naturais para produ&ccedil;&atilde;o de mais e mais dinheiro.&nbsp;</p>
 
 <p><br />
-Nesse sentido, Pompeu argumenta que &ldquo;em n&iacute;vel global, a degrada&ccedil;&atilde;o dos ecossistemas terrestres &eacute; respons&aacute;vel por aproximadamente 23% da emiss&atilde;o de GEE. E qual a causa dessa degrada&ccedil;&atilde;o? A expans&atilde;o do agroneg&oacute;cio. J&aacute; no Brasil, esse n&uacute;mero sobe para 73%.&rdquo;</p>
+Pompeu argumenta que &ldquo;em n&iacute;vel global, a degrada&ccedil;&atilde;o dos ecossistemas terrestres &eacute; respons&aacute;vel por aproximadamente 23% da emiss&atilde;o de GEE. E qual a causa dessa degrada&ccedil;&atilde;o? A expans&atilde;o do agroneg&oacute;cio. J&aacute; no Brasil, esse n&uacute;mero sobe para 73%.&rdquo;</p>
 
 <p><br />
 &ldquo;Mas a maior parte da emiss&atilde;o de GEE do mundo &eacute; pela queima de combust&iacute;veis f&oacute;sseis, que &eacute; justamente a base do sistema agr&iacute;cola e industrial, que hoje &eacute; regido por algumas poucas multinacionais, que por sua vez s&atilde;o controladas por um n&uacute;mero ainda menor de grupos financeiros.&rdquo;</p>
@@ -129,31 +128,33 @@ Esse capital tem avan&ccedil;ado na derrubada de vegeta&ccedil;&atilde;o realiza
 O relat&oacute;rio do peri&oacute;dico n&atilde;o mencionou empresas de pesca, mas os cientistas escreveram a companhias listadas nos documentos do Banco Central brasileiro, que mostraram que Cargill e Bunge t&ecirc;m as maiores quantidades de empr&eacute;stimos ou de dinheiro fluindo atrav&eacute;s de para&iacute;sos fiscais. E o desmatamento s&oacute; aumenta.<br />
 &nbsp;</p>
 
-<p>:: <a href="http://www.mst.org.br/2019/04/30/brasil-e-campeao-no-de-florestas-primarias-no-mundo.html">LEIA MAIS:&nbsp;Brasil &eacute; campe&atilde;o em desmatamento de florestas prim&aacute;rias no mundo</a>::&nbsp;</p>
+<p><strong>LEIA MAIS:</strong>&nbsp;<a href="http://www.mst.org.br/2019/04/30/brasil-e-campeao-no-de-florestas-primarias-no-mundo.html">Brasil &eacute; campe&atilde;o em desmatamento de florestas prim&aacute;rias no mundo</a>&nbsp;</p>
 
 <p><br />
 O INPE, ano ap&oacute;s ano, tem emitido diversos alertas sobre o desmatamento na Amaz&ocirc;nia, onde foram detectadas suspeitas de extra&ccedil;&atilde;o de madeira em uma &aacute;rea de 40,5% maior no per&iacute;odo que se encerrou em julho de 2019 do que a m&eacute;dia dos tr&ecirc;s per&iacute;odos anteriores (ago/15 a jul/16; ago/16 a jul/17; e ago/17 a jul/18).&nbsp;</p>
 
 <p><br />
 Se formos considerar apenas os dados do &uacute;ltimo m&ecirc;s, a &aacute;rea da Amaz&ocirc;nia com alerta de desmatamento subiu 278% em julho de 2019, se comparada ao mesmo m&ecirc;s de 2018.<br />
-Por outro lado, o governo Bolsonaro critica os <a href="http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/deter">dados sistematizados pela Coordena&ccedil;&atilde;o-geral de Observa&ccedil;&atilde;o da Terra (Deter)</a>, do INEP,&nbsp; afirmando que eles n&atilde;o representam o balan&ccedil;o oficial de desmatamento.</p>
+Por outro lado, o governo Bolsonaro critica os dados sistematizados pela <a href="http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/deter">Coordena&ccedil;&atilde;o-geral de Observa&ccedil;&atilde;o da Terra (Deter)</a>, do INEP,&nbsp; afirmando que eles n&atilde;o representam o balan&ccedil;o oficial de desmatamento.</p>
 
 <p><br />
 <strong>Enquanto isso, a temperatura sobe</strong></p>
 
-<p>&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="[124] Especial Amazonia.jpeg" height="213" src="//farm66.staticflickr.com/65535/48600268847_7995471111_b.jpg" width="300" />
-<figcaption></figcaption>
-</figure>
-
-<p>O ano de 2018 bateu todos os tipos de recordes. Foram registradas temperaturas altas em diversos lugares do mundo em meio a um per&iacute;odo de clima quente excepcionalmente prolongado.</p>
+<p><br />
+O ano de 2018 bateu todos os tipos de recordes. Foram registradas temperaturas altas em diversos lugares do mundo em meio a um per&iacute;odo de clima quente excepcionalmente prolongado.</p>
 
 <p><br />
 Grandes por&ccedil;&otilde;es do hemisf&eacute;rio norte presenciaram uma sucess&atilde;o de ondas de calor que atingiu Europa, &Aacute;sia, Am&eacute;rica do Norte e norte da &Aacute;frica.</p>
 
 <p><br />
-A preocupa&ccedil;&atilde;o &eacute; que essas ondas de calor e frentes frias estejam sendo bloqueadas - represadas em regi&otilde;es por longos per&iacute;odos - com maior frequ&ecirc;ncia devido &agrave;s mudan&ccedil;as clim&aacute;ticas, levando a eventos clim&aacute;ticos extremos.</p>
+A preocupa&ccedil;&atilde;o &eacute; que essas ondas de calor e frentes frias estejam sendo bloqueadas - represadas em regi&otilde;es por longos per&iacute;odos - com maior frequ&ecirc;ncia devido &agrave;s mudan&ccedil;as clim&aacute;ticas, levando a eventos clim&aacute;ticos extremos.<br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="[124] Especial Amazonia.jpeg" height="497" src="//farm66.staticflickr.com/65535/48600268847_7995471111_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
 
 <p><br />
 <strong>Combater a raiz da problema</strong></p>
@@ -166,5 +167,3 @@ E continua: &ldquo;Ao mesmo tempo temos que nos organizar para minimizar e nos a
 
 <p><br />
 <em>*Editado por Fernanda Alc&acirc;ntara</em></p>
-
-<p>&nbsp;</p>
