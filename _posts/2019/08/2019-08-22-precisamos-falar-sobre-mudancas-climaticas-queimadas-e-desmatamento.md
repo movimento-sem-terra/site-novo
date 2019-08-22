@@ -6,7 +6,7 @@ tags:
 title: "Precisamos falar sobre mudanças climáticas, queimadas e desmatamentos"
 support_line: Quem são os principais responsáveis?
 menu: meio ambiente
-images_hd: //farm66.staticflickr.com/65535/48600137126_05ab1ccbed_b.jpg
+images_hd: //farm66.staticflickr.com/65535/48600137136_a1985f9d20_b.jpg
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/48600137136_a1985f9d20_b.jpg
@@ -157,7 +157,7 @@ A preocupa&ccedil;&atilde;o &eacute; que essas ondas de calor e frentes frias es
 </div>
 
 <p><br />
-<strong>Combater a raiz da problema</strong></p>
+<strong>Combater a raiz do&nbsp;problema</strong></p>
 
 <p><br />
 Que desafios temos? Com &ecirc;nfase, Pompeu diz que &eacute; preciso combater a raiz do problema, que &eacute; &ldquo;o sistema global de circula&ccedil;&atilde;o de mercadorias, baseado na explora&ccedil;&atilde;o da terra e dos seres humanos&rdquo;.</p>
