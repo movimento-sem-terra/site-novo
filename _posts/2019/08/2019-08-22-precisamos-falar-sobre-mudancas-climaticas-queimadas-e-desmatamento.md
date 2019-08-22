@@ -135,7 +135,7 @@ O INPE, ano ap&oacute;s ano, tem emitido diversos alertas sobre o desmatamento n
 
 <p><br />
 Se formos considerar apenas os dados do &uacute;ltimo m&ecirc;s, a &aacute;rea da Amaz&ocirc;nia com alerta de desmatamento subiu 278% em julho de 2019, se comparada ao mesmo m&ecirc;s de 2018.<br />
-Por outro lado, o governo Bolsonaro critica os dados sistematizados pela <a href="http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/deter">Coordena&ccedil;&atilde;o-geral de Observa&ccedil;&atilde;o da Terra (Deter)</a>, do INEP,&nbsp; afirmando que eles n&atilde;o representam o balan&ccedil;o oficial de desmatamento.</p>
+Por outro lado, o governo Bolsonaro critica os dados sistematizados pela <a href="http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/deter">Coordena&ccedil;&atilde;o-geral de Observa&ccedil;&atilde;o da Terra (Deter)</a>, do INPE,&nbsp; afirmando que eles n&atilde;o representam o balan&ccedil;o oficial de desmatamento.</p>
 
 <p><br />
 <strong>Enquanto isso, a temperatura sobe</strong></p>
@@ -165,5 +165,6 @@ Que desafios temos? Com &ecirc;nfase, Pompeu diz que &eacute; preciso combater a
 <p><br />
 E continua: &ldquo;Ao mesmo tempo temos que nos organizar para minimizar e nos adaptar aos impactos que as mudan&ccedil;as clim&aacute;ticas j&aacute; causam na sociedade. Por exemplo, as migra&ccedil;&otilde;es em massa dos chamados refugiados ambientais; a morte recorrente de sem teto pelo frio extremo, agravada por pol&iacute;ticas de segrega&ccedil;&atilde;o; as mortes e perdas causadas nos deslizamentos de terra pelas chuvas cada vez mais intensas, principalmente nas comunidades pobres e predominantemente negras; e o risco de diminui&ccedil;&atilde;o da disponibilidade de alimentos, que aumenta o pre&ccedil;o dos bens mais b&aacute;sicos para a nutri&ccedil;&atilde;o humana&rdquo;, conclui.</p>
 
-<p><br />
-<em>*Editado por Fernanda Alc&acirc;ntara</em></p>
+<p>&nbsp;</p>
+
+<p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
