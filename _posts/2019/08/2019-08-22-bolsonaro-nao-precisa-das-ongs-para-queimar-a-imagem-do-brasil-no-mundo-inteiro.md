@@ -5,7 +5,7 @@ tags:
   - tag: amazônia
   - tag: meio-ambiente
   - tag: agronegócio
-title: Bolsonaro não precisa das ONGs para queimar a imagem do Brasil no mundo inteiro
+title: "Bolsonaro não precisa das ONGs para queimar a imagem do Brasil no mundo "
 support_line: Carta expõe verdade sobre a destruição sistemática da Amazônia
 menu: meio ambiente
 images_hd: //farm66.staticflickr.com/65535/48601138321_0913fb7200_b.jpg
