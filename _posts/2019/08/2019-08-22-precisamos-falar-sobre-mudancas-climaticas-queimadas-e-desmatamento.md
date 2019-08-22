@@ -44,6 +44,7 @@ releated_posts:
   - _posts/2019/03/2019-03-14-exploracao-da-amazonia-ira-aumentar-conflitos-por-terra-e-dependencia-do-agronegocio.md
   - _posts/2019/06/2019-06-05-o-atual-ministro-do-meio-ambiente-em-oito-tweets.md
   - _posts/2019/01/2019-01-28-nos-encontramos-na-eminencia-de-um-verdadeiro-etnocidio-das-populacoes-indigenas-no-brasil-denuncia-professor-da-unifesspa.md
+section: cover
 
 ---
 <div style="text-align:center">
