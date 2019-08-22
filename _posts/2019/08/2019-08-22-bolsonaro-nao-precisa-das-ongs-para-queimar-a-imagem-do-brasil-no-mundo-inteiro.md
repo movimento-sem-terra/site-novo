@@ -8,16 +8,16 @@ tags:
 title: Bolsonaro não precisa das ONGs para queimar a imagem do Brasil no mundo inteiro
 support_line: Carta expõe verdade sobre a destruição sistemática da Amazônia
 menu: meio ambiente
-images_hd: //farm66.staticflickr.com/65535/48601118356_13ff014da8_b.jpg
+images_hd: //farm66.staticflickr.com/65535/48601138321_0913fb7200_b.jpg
 layout: post
 files:
-  - link: //farm66.staticflickr.com/65535/48601118356_13ff014da8_b.jpg
-    original: //farm66.staticflickr.com/65535/48601118356_55ec71dbc8_o.jpg
-    thumbnail: //farm66.staticflickr.com/65535/48601118356_13ff014da8_t.jpg
-    medium: //farm66.staticflickr.com/65535/48601118356_13ff014da8_z.jpg
-    small: //farm66.staticflickr.com/65535/48601118356_13ff014da8_n.jpg
-    title: "[115] Florestas - Pixelbay.jpeg"
-    $$hashKey: 0D3
+  - link: //farm66.staticflickr.com/65535/48601138321_0913fb7200_b.jpg
+    original: //farm66.staticflickr.com/65535/48601138321_e25e19c940_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48601138321_0913fb7200_t.jpg
+    medium: //farm66.staticflickr.com/65535/48601138321_0913fb7200_z.jpg
+    small: //farm66.staticflickr.com/65535/48601138321_0913fb7200_n.jpg
+    title: "[126] Foco de incêndio na Floresta Amazônia em São Félix do Xingu, no Pará, registrado pelo Greenpeace.jpg"
+    $$hashKey: 0L3
 created_date: "2019-08-22T15:05:17-03:00"
 published: true
 releated_posts:
@@ -26,17 +26,22 @@ releated_posts:
   - _posts/2019/08/2019-08-19-voce-entende-a-importancia-das-florestas-para-o-planeta-e-para-a-humanidade.md
 
 ---
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="[126] Foco de incêndio na Floresta Amazônia em São Félix do Xingu, no Pará, registrado pelo Greenpeace.jpg" height="394" src="//farm66.staticflickr.com/65535/48601138321_0913fb7200_b.jpg" width="700" />
+<figcaption><em>Foco de inc&ecirc;ndio na Floresta Amaz&ocirc;nia em S&atilde;o F&eacute;lix do Xingu, no Par&aacute;, registrado pelo Greenpeace.&nbsp;Imagem: Daniel Beltr&aacute;/Greenpeace</em></figcaption>
+</figure>
+</div>
 
-<p>Da Abong<br />
+<p><em>Da Abong</em><br />
 &nbsp;</p>
 
-<p>Diante da crise ambiental que se agrava na regi&atilde;o amaz&ocirc;nica esta semana, o presidente Jair Bolsonaro prestou mais um desservi&ccedil;o absurdo ao relacionar as queimadas e as&nbsp;organiza&ccedil;&otilde;es n&atilde;o-governamentais.</p>
+<p>Diante da crise ambiental que se agrava na regi&atilde;o amaz&ocirc;nica esta semana, o presidente Jair Bolsonaro prestou mais um desservi&ccedil;o&nbsp;ao relacionar as queimadas e as&nbsp;organiza&ccedil;&otilde;es n&atilde;o-governamentais.<br />
+&nbsp;</p>
 
-<p>Embora reconhe&ccedil;a o problema que antes negava, presidente Bolsonaro insinua que ONGs podem estar por tr&aacute;s das queimadas que j&aacute; atingem reservas ind&iacute;genas.</p>
+<p>Embora reconhe&ccedil;a o problema que antes negava, presidente&nbsp;insinua que ONGs podem estar por tr&aacute;s das queimadas que j&aacute; atingem reservas ind&iacute;genas.</p>
 
 <p><br />
-Nesta quarta (21),&nbsp;Bolsonaro afirmou que as ONGs &quot;podem estar por tr&aacute;s das queimadas na Amaz&ocirc;nia por terem perdido recursos e estarem querendo atingi-lo&quot;. Ao ser indagado se tinha&nbsp;evid&ecirc;ncias das alega&ccedil;&otilde;es, afirmou que&nbsp;&quot;n&atilde;o existem planos escritos nesses casos&quot;.&nbsp;&nbsp;</p>
+Nesta quarta (21),&nbsp;Bolsonaro afirmou que as ONGs seriam as respons&aacute;veis pela situa&ccedil;&atilde;o na Amaz&ocirc;nia &quot;por terem perdido recursos e estarem querendo atingi-lo&quot;. Ao ser indagado se tinha&nbsp;evid&ecirc;ncias das alega&ccedil;&otilde;es, afirmou que&nbsp;&quot;n&atilde;o existem planos escritos nesses casos&quot;.&nbsp;&nbsp;</p>
 
 <p><br />
 Frente &agrave; estas acusa&ccedil;&otilde;es, organiza&ccedil;&otilde;es divulgaram em conjunto uma carta para &agrave; popula&ccedil;&atilde;o brasileira sobre os ataques &agrave;s institui&ccedil;&otilde;es e &agrave; Amaz&ocirc;nia. Confira:</p>
