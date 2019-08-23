@@ -40,7 +40,7 @@ releated_posts:
 A hist&oacute;ria do padre Sisto Magro, no Brasil desde 1989: &ldquo;A riqueza da terra atrai o agroneg&oacute;cio, no ocidente precisam boicotar seus produtos&rdquo;.<br />
 &nbsp;</p>
 
-<p>H&aacute; trinta anos na Amaz&ocirc;nia, o padre Sisto Magro defende os agricultores &ldquo;sem-terra&rdquo;. De um lado, est&atilde;o eles, que querem cultivar os campos que possuem h&aacute; s&eacute;culos. Do outro lado, as multinacionais, que todos os dias devoram hectares de terra com seus tratores, &agrave; busca de madeiras preciosas, minerais preciosos.<br />
+<p>H&aacute; trinta anos na Amaz&ocirc;nia, o padre Sisto Magro defende os agricultores &ldquo;Sem Terra&rdquo;. De um lado, est&atilde;o eles, que querem cultivar os campos que possuem h&aacute; s&eacute;culos. Do outro lado, as multinacionais, que todos os dias devoram hectares de terra com seus tratores, &agrave; busca de madeiras preciosas, minerais preciosos.<br />
 &nbsp;</p>
 
 <p>Nascido em 1964 em Biancade, It&aacute;lia, Sisto se juntou ao Pime de Preganziol em 1975, depois cursou o ensino m&eacute;dio no PIME (Nota de IHU On-Line: Pontif&iacute;cio Instituto das Miss&otilde;es Exteriores, tamb&eacute;m conhecido como Pontif&iacute;cio Instituto para as Miss&otilde;es Estrangeiras) em Monza at&eacute; ser ordenado em 10 de junho de 1989. Assim como ele, h&aacute; 470 mission&aacute;rios do PIME operando em todos o mundo. Fundado em 1850 pelo D. Angelo Ramazzotti, o PIME tem a dire&ccedil;&atilde;o nacional em Mil&atilde;o. Desde ent&atilde;o, 19 mission&aacute;rios foram mortos. Desde dezembro de 1989, o padre Sisto est&aacute; residindo na Amaz&ocirc;nia.<br />
