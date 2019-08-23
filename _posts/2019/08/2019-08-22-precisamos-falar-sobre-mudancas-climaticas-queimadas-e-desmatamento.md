@@ -61,7 +61,9 @@ Da P&aacute;gina do MST</em><br />
 <p>N&atilde;o &eacute; de hoje que fala-se em mudan&ccedil;as clim&aacute;ticas e sobre seus impactos. Nas &uacute;ltimas semanas, foi divulgado o <a href="https://nacoesunidas.org/acao/mudanca-climatica/">Relat&oacute;rio do Clima da Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas (ONU)</a>, que traz diversas conclus&otilde;es sobre as mudan&ccedil;as clim&aacute;ticas.&nbsp;</p>
 
 <p><br />
-O relat&oacute;rio, constru&iacute;do por mais de 100 cientistas, inclusive do Brasil, constata que a temperatura do planeta, em todos os continentes, subiu 1,5&ordm;C nos &uacute;ltimos 150 anos.<br />
+O relat&oacute;rio, constru&iacute;do por mais de 100 cientistas, inclusive do Brasil, constata que a temperatura do planeta, em todos os continentes, subiu 1,5&ordm;C nos &uacute;ltimos 150 anos.</p>
+
+<p><br />
 Mas, o que isso quer dizer? Ao analisar essa e outras mudan&ccedil;as clim&aacute;ticas, &eacute; poss&iacute;vel fazer compara&ccedil;&otilde;es, verificar a intensidade das chuvas, o derretimento de geleiras. Assim, podemos afirmar que est&aacute; tudo interligado.<br />
 &nbsp;</p>
 
