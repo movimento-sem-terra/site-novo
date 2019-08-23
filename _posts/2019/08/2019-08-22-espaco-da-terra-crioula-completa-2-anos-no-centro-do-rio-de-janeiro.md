@@ -26,7 +26,7 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Terra Capa_Coletivo de Comunicação MST RJ.jpg" height="467" src="//farm66.staticflickr.com/65535/48601771812_f0fcf72df4_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="Terra Capa_Coletivo de Comunicação MST RJ.jpg" height="400" src="//farm66.staticflickr.com/65535/48601771812_f0fcf72df4_b.jpg" width="600" />
 <figcaption><em>Anivers&aacute;rio do espa&ccedil;o de comercializa&ccedil;&atilde;o Terra Crioula, no Rio de Janeiro. Foto: Coletivo de Comunica&ccedil;&atilde;o MST/RJ</em></figcaption>
 </figure>
 </div>
