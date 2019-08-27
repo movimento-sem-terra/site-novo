@@ -44,20 +44,15 @@ Em pouco mais de dois anos de ocupa&ccedil;&atilde;o, o acampamento&nbsp;Maria d
 A fazenda, antes improdutiva, hoje possui produ&ccedil;&atilde;o de&nbsp;hortali&ccedil;as, feij&atilde;o e milho, comercializados&nbsp;no Armaz&eacute;m do Campo de Belo Horizonte e em cestas de consumo, al&eacute;m de alimentar as pr&oacute;prias fam&iacute;lias do acampamento.</p>
 
 <p><br />
-<strong>LEIA MAIS:&nbsp;</strong></p>
+<strong>LEIA MAIS:&nbsp;</strong><a href="http://www.mst.org.br/2018/07/30/acampamento-maria-da-conceicao-ira-erguer-mais-uma-escola-do-campo-na-regional-metropolitana.html">Em Minas Gerais, Sem Terra realizam ato pelo direito &agrave; educa&ccedil;&atilde;o do campo</a></p>
 
-<h1 itemprop="name" style="box-sizing: inherit; line-height: 39.36px; margin-bottom: 16px; font-size: 41px; margin-top: 0.2em; overflow-wrap: break-word; clear: both; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">Em Minas Gerais, Sem Terra realizam ato pelo direito &agrave; educa&ccedil;&atilde;o do campo</h1>
-
-<p>&nbsp;</p>
-
-<p>Confira a nota&nbsp;Regional Milton Freitas (MST-MG) sobre a decis&atilde;o:</p>
-
-<p>&nbsp;</p>
+<p><br />
+Confira a nota&nbsp;Regional Milton Freitas (MST-MG) sobre a decis&atilde;o:</p>
 
 <p style="text-align: center;"><br />
 <strong>N&Atilde;O SAIREMOS DESSA TERRA!</strong></p>
 
-<p><br />
+<p style="text-align: center;"><br />
 Reintegra&ccedil;&atilde;o de posse do Acampamento Maria da Concei&ccedil;&atilde;o, em Itatiaiu&ccedil;u (MG), foi suspensa!</p>
 
 <p>&Eacute; com alegria e consci&ecirc;ncia das batalhas que vir&atilde;o, que a Regional Milton Freitas (MST-MG) comunica a suspens&atilde;o do pedido de reintegra&ccedil;&atilde;o de posse da Fazenda Monte Galv&atilde;o, no distrito de Santa Terezinha, Itatiaiu&ccedil;u.&nbsp; Plantando agroecologicamente e produzindo vida e diversidade, as mais de 160 fam&iacute;lias Sem Terra&nbsp;vivem no acampamento Maria da Concei&ccedil;&atilde;o, que faz parte da regional metropolitana do MST de Minas Gerais.&nbsp;Elas continuam em luta permanente, cultivando os princ&iacute;pios da solidariedade e do cuidado com a terra e os bens da natureza.&nbsp;<br />
