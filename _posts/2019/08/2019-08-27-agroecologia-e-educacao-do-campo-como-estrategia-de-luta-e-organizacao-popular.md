@@ -69,8 +69,8 @@ releated_posts:
 </figure>
 </div>
 
-<p><br />
-<em>Da P&aacute;gina do MST</em></p>
+<p><em>Por Coletivo de Comunica&ccedil;&atilde;o MST/SP<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Entre os dias 23 a 25 de agosto aconteceu o <em>III Semin&aacute;rio de educa&ccedil;&atilde;o do campo,</em> no assentamento Prof. Luiz David de Macedo, localizado no munic&iacute;pio de Apia&iacute; na regi&atilde;o do Vale do Ribeira (SP).</p>
