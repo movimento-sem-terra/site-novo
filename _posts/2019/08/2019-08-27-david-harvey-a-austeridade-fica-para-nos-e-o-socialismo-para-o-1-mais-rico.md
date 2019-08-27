@@ -31,7 +31,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="[130] Harvey e JP.jpeg" height="440" src="//farm66.staticflickr.com/65535/48630101516_e98ea1212e_b.jpg" width="700" />
-<figcaption><em>David Harvey&nbsp;</em>David Harvey assina abaixo-assinado pela liberta&ccedil;&atilde;o de Lula<em> Armaz&eacute;m do Campo nesta segunda (26). Foto: Divulga&ccedil;&atilde;o/MST</em></figcaption>
+<figcaption><em>David Harvey&nbsp;assina abaixo-assinado pela liberta&ccedil;&atilde;o de Lula&nbsp;em visita ao Armaz&eacute;m do Campo nesta segunda (26). Foto: Divulga&ccedil;&atilde;o/MST</em></figcaption>
 </figure>
 </div>
 
