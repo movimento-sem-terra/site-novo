@@ -75,7 +75,8 @@ releated_posts:
 </figure>
 </div>
 
-<p><em>Da P&aacute;gina do MST</em><br />
+<p><br />
+<em>Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <p>Neste domingo, (25) aconteceu a festa dos 16 anos de exist&ecirc;ncia do assentamento M&aacute;rio Lago, do MST, na antiga Fazenda da Barra, em Ribeir&atilde;o Preto.<br />
@@ -95,15 +96,15 @@ Ela lembrou que a conquista da Fazenda da Barra para fins de Reforma Agr&aacute;
 &nbsp;</p>
 
 <p>Para Kelli, o projeto &eacute; s&iacute;mbolo desta luta. &quot;Os trabalhadores e trabalhadoras que est&atilde;o assentados aqui barraram&nbsp;empreendimentos imobili&aacute;rios, condom&iacute;nios fechados, produ&ccedil;&atilde;o de cana de a&ccedil;&uacute;car com pulveriza&ccedil;&atilde;o de agrot&oacute;xicos. Nesse peda&ccedil;o do Brasil estamos preservando o meio ambiente, mais do que isso, produzindo comida de verdade&quot;.<br />
-<br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="LRM_EXPORT_10530047321813_20190825_222218866.jpeg" height="200" src="//farm66.staticflickr.com/65535/48630203616_46f7f108a4_b.jpg" width="300" />
-<figcaption>Luta hoje para implementar<br />
-dentro do assentamento M&aacute;rio Lago uma escola do campo</figcaption>
+<figcaption><em>MST em Ribeir&atilde;o luta hoje para implementar<br />
+dentro do assentamento uma escola do campo</em></figcaption>
 </figure>
 
-<p>O MST comercializa diretamente, sem intermedi&aacute;rios, a sua produ&ccedil;&atilde;o agroflorestal seja por meio da comercializa&ccedil;&atilde;o das suas cestas agroflorestais, seja em um dos 7 pontos de feira espalhados pela cidade.</p>
+<p>O MST comercializa diretamente, sem intermedi&aacute;rios, a sua produ&ccedil;&atilde;o agroflorestal seja por meio da comercializa&ccedil;&atilde;o das suas cestas agroflorestais, seja em um dos 7 pontos de feira espalhados pela cidade.<br />
+&nbsp;</p>
 
 <p>Al&eacute;m disso, o assentamento M&aacute;rio Lago conta com as Cooperativas Combater e Comuna da Terra,&nbsp;fruto da luta das trabalhadoras e trabalhadores, com o passar dos anos, a popula&ccedil;&atilde;o conquistou o &quot;Memorial Sebasti&atilde;o Leme&quot;, onde se desenvolve pol&iacute;ticas p&uacute;blicas voltadas para a &aacute;rea da Sa&uacute;de.<br />
 &nbsp;</p>
