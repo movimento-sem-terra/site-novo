@@ -45,8 +45,8 @@ releated_posts:
 </div>
 
 <p><br />
-<em>Por</em>Feira se consolida cada vez mais enquanto espa&ccedil;o de debate, troca de conhecimentos, uni&atilde;o e integra&ccedil;&atilde;o do campo e cidade<br />
-<em>Da P&aacute;gina do MST</em></p>
+<em>Por Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia<br />
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Nos dias 21 e 22 de agosto,&nbsp;&nbsp;aconteceu na Universidade Federal do Rec&ocirc;ncavo da Bahia (UFRB), no polo de Santo Ant&ocirc;nio de Jesus, a 2&deg; Feira da Reforma Agr&aacute;ria no Campus.<br />
@@ -68,7 +68,8 @@ Nos dias 21 e 22 de agosto,&nbsp;&nbsp;aconteceu na Universidade Federal do Rec&
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Feira UFRB [3].jpg" height="169" src="//farm66.staticflickr.com/65535/48632531146_57de3d9f45_b.jpg" width="300" />
-<figcaption>Fotos:&nbsp;</figcaption>
+<figcaption><em>Fotos: Coletivo de Comunica&ccedil;&atilde;o do MST na Bahia</em><br />
+&nbsp;</figcaption>
 </figure>
 
 <p>Paralelo &agrave; Feira, o MST organizou um espa&ccedil;o para pr&aacute;ticas populares de sa&uacute;de, entre elas a&nbsp;massagem, a ventosa e auricoloterapia. Tamb&eacute;m houve&nbsp;exposi&ccedil;&atilde;o de fitoter&aacute;picos e fitocosm&eacute;ticos,&nbsp;tamb&eacute;m produzidos por&nbsp;assentados e acampados.</p>
