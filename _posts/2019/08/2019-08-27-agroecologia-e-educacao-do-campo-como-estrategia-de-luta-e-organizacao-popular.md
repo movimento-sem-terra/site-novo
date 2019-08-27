@@ -54,7 +54,7 @@ files:
     title: Apresentação das Experiências - Manuela Aquino.JPG
     $$hashKey: 03F
 created_date: "2019-08-27T11:15:45-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/05/2019-05-21-estudar-sorrir-e-lutar.md
   - _posts/2019/05/2019-05-28-evento-em-roraima-discute-agricultura-popular-e-desenvolvimento.md
@@ -81,8 +81,14 @@ O tema central do debate foi: &ldquo;A agroecologia como estrat&eacute;gia para 
 <p><br />
 O evento contou com a participa&ccedil;&atilde;o de 120 pessoas de diferentes organiza&ccedil;&otilde;es,&nbsp;tais como o MST, o Comit&ecirc; de Educa&ccedil;&atilde;o do Campo do Vale do Ribeira PR/SP, representantes do Curso de Licenciatura em Educa&ccedil;&atilde;o do Campo com Especializa&ccedil;&atilde;o em Ci&ecirc;ncias da Natureza, o Coletivo de Educadores Populares do Vale do Ribeira, o MAB, o Coletivo Quinze de Outubro &ndash; Educadoras e Educadores, a Equipe de Articula&ccedil;&atilde;o e Assessoria &agrave;s Comunidades Negras do Vale do Ribeira (EAACONE) e o Movimento dos Amea&ccedil;ados por Barragens do Vale do Ribeira (MOAB).</p>
 
-<p><br />
-Para Helder dos Santos Oliveira, do Coletivo quinze de outubro, este espa&ccedil;o &eacute; resultado do encontro das quest&otilde;es em comum dos povos e educadores/as populares que veem na educa&ccedil;&atilde;o do campo uma brecha para avan&ccedil;ar na rela&ccedil;&atilde;o da luta e organiza&ccedil;&atilde;o popular.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Rebeca - Helder.jpg" height="400" src="//farm66.staticflickr.com/65535/48629693758_d9c2ebe49c_b.jpg" width="300" />
+<figcaption><em>Helder dos Santos Oliveira, do Coletivo<br />
+Quinze de Outubro</em></figcaption>
+</figure>
+
+<p>Para Helder dos Santos Oliveira, do Coletivo Quinze de outubro, este espa&ccedil;o &eacute; resultado do encontro das quest&otilde;es em comum dos povos e educadores/as populares que veem na educa&ccedil;&atilde;o do campo uma brecha para avan&ccedil;ar na rela&ccedil;&atilde;o da luta e organiza&ccedil;&atilde;o popular.</p>
 
 <p><br />
 &ldquo;Elaboramos o primeiro semin&aacute;rio que foi na Jureia Iguape, fizemos parceria com a Universidade do Paran&aacute; e o segundo encontro foi no Vale do Ribeira paranaense, na cidade de Adrian&oacute;polis e hoje estamos aqui no terceiro encontro que &eacute; resultando da uni&atilde;o de povos comunidades tradicionais e movimentos sociais que vem fortalecendo a luta educacional&rdquo;, afirmou.</p>
@@ -93,8 +99,13 @@ A programa&ccedil;&atilde;o tamb&eacute;m contou com oficinas de constru&ccedil;
 <p><br />
 Segundo a professora da Universidade Federal do Paran&aacute;, Maria Isabel, h&aacute; cinco anos que esse grupo vem construindo o processo da licenciatura em educa&ccedil;&atilde;o do campo no Vale do Ribeira paulista e paranaense, e espa&ccedil;os como estes s&oacute; colocam mais desafios para serem encarados no cotidiano.</p>
 
-<p><br />
-&ldquo;N&oacute;s temos esse desafio de avan&ccedil;ar na constru&ccedil;&atilde;o de proposta pedag&oacute;gica das escolas e olhar para o Vale como um potencial. Temos muitos estudantes da regi&atilde;o que tem frequentado o curso, e &eacute; fundamental articular essa discuss&atilde;o, esse movimento. Sa&iacute;mos daqui j&aacute; pensando em&nbsp;um&nbsp;encontro em outubro, com algumas escolas para pensar os fundamentos e concep&ccedil;&otilde;es de educa&ccedil;&atilde;o do campo&rdquo;.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Ciranda - Janeina.jpg" height="225" src="//farm66.staticflickr.com/65535/48629693823_08500fb59d_b.jpg" width="300" />
+<figcaption><em>Ciranda realizada durante o evento</em></figcaption>
+</figure>
+
+<p>&ldquo;N&oacute;s temos esse desafio de avan&ccedil;ar na constru&ccedil;&atilde;o de proposta pedag&oacute;gica das escolas e olhar para o Vale como um potencial. Temos muitos estudantes da regi&atilde;o que tem frequentado o curso, e &eacute; fundamental articular essa discuss&atilde;o, esse movimento. Sa&iacute;mos daqui j&aacute; pensando em&nbsp;um&nbsp;encontro em outubro, com algumas escolas para pensar os fundamentos e concep&ccedil;&otilde;es de educa&ccedil;&atilde;o do campo&rdquo;.&nbsp;&nbsp;</p>
 
 <p><br />
 Al&eacute;m desses elementos, o encontro possibilitou construir um calend&aacute;rio para a&ccedil;&otilde;es de luta e organiza&ccedil;&atilde;o popular na regi&atilde;o, com a aprova&ccedil;&atilde;o de uma carta assinada por todos os participantes presentes.&nbsp;<br />
@@ -113,6 +124,6 @@ Entre as diversas a&ccedil;&otilde;es propostas, a carta afirma sobretudo a nece
 
 <p>- respeitar o conhecimentos tradicionais e a cultura popular, sem desconsiderar a produ&ccedil;&atilde;o cient&iacute;fica e o conhecimentos universal;</p>
 
-<p>- <img alt="Apresentação das Experiências - Manuela Aquino.JPG" src="//farm66.staticflickr.com/65535/48630049526_b33c81b51a_b.jpg" />e trabalhar cotidianamente na pr&aacute;tica, produzindo teoria para transforma&ccedil;&atilde;o de uma sociedade excludente para uma sociedade radicalmente democr&aacute;tica.</p>
+<p>- e trabalhar cotidianamente na pr&aacute;tica, produzindo teoria para transforma&ccedil;&atilde;o de uma sociedade excludente para uma sociedade radicalmente democr&aacute;tica.</p>
 
 <p><em>Editado por Fernanda Alc&acirc;ntara</em></p>
