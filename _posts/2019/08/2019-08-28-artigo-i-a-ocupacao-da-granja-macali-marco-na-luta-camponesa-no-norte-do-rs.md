@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária
   - tag: história
 support_line: "Neste 07 de setembro a ocupação da Macali e Brilhante completa 40 anos e demarcou a gênese da formação do MST a partir do Norte do RS.  "
-title: "Artigo | A ocupação da granja Macali: marco na luta camponesa no norte do RS, por João Carlos"
+title: "Artigo | A ocupação da granja Macali: marco na luta camponesa no norte do RS"
 label: articles
 menu: reforma agrária
 images_hd: //farm66.staticflickr.com/65535/48638671118_69a1a95c53_b.jpg
@@ -64,7 +64,7 @@ Por Jo&atilde;o Carlos Tedesco**</em></p>
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="1 - Trabalhador rural do MASTER, em 1962. Foto - Memorial da Democracia.jpeg" height="410" src="//farm66.staticflickr.com/65535/48638667663_163f5371bc_b.jpg" width="300" />
+<figure class="image" style="float:left"><img alt="1 - Trabalhador rural do MASTER, em 1962. Foto - Memorial da Democracia.jpeg" height="437" src="//farm66.staticflickr.com/65535/48638667663_163f5371bc_b.jpg" width="320" />
 <figcaption><em>Trabalhador rural do MASTER, em 1962.<br />
 Foto - Memorial da Democracia</em></figcaption>
 </figure>
@@ -80,7 +80,7 @@ No in&iacute;cio da d&eacute;cada de 1960 houve um grande movimento social denom
 <p><br />
 A &ldquo;crise da terra&rdquo; no estado, iniciada j&aacute; nos anos 1940 e acentuada nos anos 1950 e 1960, provocada pelo esgotamento da fronteira agr&iacute;cola em terras devolutas, o latif&uacute;ndio pastoril e de produ&ccedil;&atilde;o de cereais, bem como o de reserva de valor e a penetra&ccedil;&atilde;o da moderniza&ccedil;&atilde;o tecnol&oacute;gica no campo, originou o Master, que se definiu mais como uma estrat&eacute;gia de governo do que propriamente como movimento social. Entretanto, esse movimento serviu, ainda que de forma indireta, para despertar a opini&atilde;o p&uacute;blica para a realidade agr&aacute;ria daquele momento, alertando para o esgotamento da fronteira agr&iacute;cola e, ao mesmo tempo, denunciando, ainda que de forma t&iacute;mida, a hist&oacute;rica concentra&ccedil;&atilde;o fundi&aacute;ria existente no Brasil, em geral, e no estado sulino, em particular.</p>
 
-<figure class="image" style="float:left"><img alt="1 - Conflito entre indígenas e colonos em Nonoai.jpg" height="187" src="//farm66.staticflickr.com/65535/48638642673_451f391de9_b.jpg" width="300" />
+<figure class="image" style="float:left"><img alt="1 - Conflito entre indígenas e colonos em Nonoai.jpg" height="218" src="//farm66.staticflickr.com/65535/48638642673_451f391de9_b.jpg" width="350" />
 <figcaption><em>Conflito entre indígenas e colonos em Nonoai</em></figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Por toda a d&eacute;cada de 1970, ind&iacute;genas se organizam no sul do Brasil
 <p><br />
 O movimento ind&iacute;gena que resultou na expuls&atilde;o de milhares de camponeses pobres que viviam na condi&ccedil;&atilde;o de posseiros no interior das reservas de Nonoai, constituiu-se num evento de dupla face: de um lado, do lado ind&iacute;gena, o evento se constituiu no coroamento de uma caminhada vitoriosa, que come&ccedil;ou com um longo processo de prepara&ccedil;&atilde;o, amadurecimento e organiza&ccedil;&atilde;o coletiva e que resultou na reconquista da terra; de outro, do lado dos colonos posseiros, o movimento serviu para mostrar o alto grau de desmobiliza&ccedil;&atilde;o para a luta, desorganiza&ccedil;&atilde;o e falta de esp&iacute;rito coletivo dos camponeses. Como consequ&ecirc;ncia, milhares de sem terra ficaram a vagar pelas estradas na regi&atilde;o de Nonoai, Ronda Alta e Sarandi.</p>
 
-<figure class="image" style="float:right"><img alt="1 - Mapa com localização do município de Nonoai.jpg" height="271" src="//farm66.staticflickr.com/65535/48639136242_a8f0c4280f_b.jpg" width="300" />
+<figure class="image" style="float:right"><img alt="1 - Mapa com localização do município de Nonoai.jpg" height="317" src="//farm66.staticflickr.com/65535/48639136242_a8f0c4280f_b.jpg" width="350" />
 <figcaption><em>Mapa com localização do município de Nonoai</em></figcaption>
 </figure>
 
