@@ -3,7 +3,7 @@ date: "2019-08-28T19:08:57-03:00"
 tags:
   - tag: reforma-agrária
   - tag: rio-de-janeiro
-title: Sem Terra comemoram dois anos de existência do espaço de comercialização Terra Crioula no RJ
+title: Sem Terra comemoram dois anos do espaço de comercialização Terra Crioula no RJ
 support_line: "O local que hoje, completa 2 anos de funcionamento no centro da capital do Rio de Janeiro, surgiu como alternativa para comercializar a produção Agroecológica dos acampamentos e assentamentos da Reforma Agraria Popular. "
 menu: reforma agrária
 images_hd: //farm66.staticflickr.com/65535/48638877717_122be2557d_b.jpg
