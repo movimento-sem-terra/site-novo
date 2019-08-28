@@ -17,6 +17,13 @@ files:
     small: //farm66.staticflickr.com/65535/48638551068_3aa8bbd564_n.jpg
     title: 48606459251_68b5d54f76_z.jpg
     $$hashKey: 08L
+  - link: //farm66.staticflickr.com/65535/48639079402_cc2be3d632_b.jpg
+    original: //farm66.staticflickr.com/65535/48639079402_0036afa1ed_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48639079402_cc2be3d632_t.jpg
+    medium: //farm66.staticflickr.com/65535/48639079402_cc2be3d632_z.jpg
+    small: //farm66.staticflickr.com/65535/48639079402_cc2be3d632_n.jpg
+    title: Bannr.jpg
+    $$hashKey: "053"
 created_date: "2019-08-28T19:53:18-03:00"
 published: true
 releated_posts:
@@ -25,6 +32,8 @@ releated_posts:
 
 ---
 <p>&nbsp;</p>
+
+<p style="text-align:center"><img alt="Bannr.jpg" height="266" src="//farm66.staticflickr.com/65535/48639079402_cc2be3d632_b.jpg" width="700" /></p>
 
 <p><br />
 <em>Da P&aacute;gina do MST&nbsp;</em></p>
