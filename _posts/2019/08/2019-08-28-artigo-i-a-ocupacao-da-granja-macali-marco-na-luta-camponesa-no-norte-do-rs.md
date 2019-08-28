@@ -6,7 +6,7 @@ tags:
   - tag: reforma-agrária
   - tag: história
 support_line: "Neste 07 de setembro a ocupação da Macali e Brilhante completa 40 anos e demarcou a gênese da formação do MST a partir do Norte do RS.  "
-title: "Artigo I A ocupação da granja Macali: marco na luta camponesa no norte do RS "
+title: "Artigo | A ocupação da granja Macali: marco na luta camponesa no norte do RS, por João Carlos"
 label: articles
 menu: reforma agrária
 images_hd: //farm66.staticflickr.com/65535/48638671118_69a1a95c53_b.jpg
