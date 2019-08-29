@@ -4,7 +4,7 @@ tags:
   - tag: agrotóxicos
   - tag: campanha-contra-os-agrotóxicos
   - tag: jornada-de-agroecologia
-title: "Relatório revela: 70% dos agrotóxicos usados no Brasil são considerados “altamente perigosos”"
+title: "70% dos agrotóxicos usados no Brasil são considerados “altamente perigosos”"
 support_line: "Brasil responde por 1/5 do consumo mundial. EM pesquisa realizada pela ONG Suíça Public Eye em parceria com a Campanha Permanente Contra os agrotóxicos e pela Vida será lançada nesta quinta (29) na 18ª Jornada de Agroecologia, em Curitiba."
 menu: reforma agrária
 images_hd: //farm66.staticflickr.com/65535/48638712168_8fc27fcf59_b.jpg
