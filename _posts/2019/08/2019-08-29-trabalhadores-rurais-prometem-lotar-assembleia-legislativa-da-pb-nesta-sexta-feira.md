@@ -5,8 +5,8 @@ tags:
   - tag: despejo
   - tag: paraíba
   - tag: política
-title: "Trabalhadores rurais prometem lotar Assembleia  Legislativa da PB, nesta sexta-feira"
-support_line: "Expectativa gira em torno da visita da CDHM "
+title: Trabalhadores rurais prometem lotar Assembleia Legislativa da PB nesta sexta
+support_line: Expectativa gira em torno da visita da CDHM no estado
 menu: reforma agrária
 images_hd: //farm66.staticflickr.com/65535/48644185887_698578a381_b.jpg
 layout: post
@@ -40,7 +40,7 @@ files:
     title: "Visita Comissão [dia2] - foto 3.jpeg"
     $$hashKey: 0R1
 created_date: "2019-08-29T17:51:11-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/07/2019-07-12-justica-nega-reintegracao-de-posse-do-acampamento-quilombo-campo-grande.md
   - _posts/2019/07/2019-07-23-governador-de-minas-gerais-revoga-o-decreto-de-desapropriacao-da-antiga-usina-ariadnopolis.md
@@ -52,7 +52,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Visita Comissão [dia2] - foto 1.jpeg" height="394" src="//farm66.staticflickr.com/65535/48643694068_79c6dcc228_b.jpg" width="700" />
-<figcaption><em>Comiss&atilde;o de Direitos Humanos e Minorias da C&acirc;mara Federal (CDHM) visita &aacute;reas de risco da Para&iacute;ba acampamentos e assentamentos na PB</em></figcaption>
+<figcaption><em>Comiss&atilde;o de Direitos Humanos e Minorias da C&acirc;mara Federal (CDHM) visita &aacute;reas de risco da Para&iacute;ba acampamentos e assentamentos na Para&iacute;ba</em></figcaption>
 </figure>
 </div>
 
@@ -63,10 +63,14 @@ releated_posts:
 <p>Trabalhadores rurais de diversas &aacute;reas da Para&iacute;ba prometem lotar a Assembleia Legislativa da Para&iacute;ba, nesta sexta-feira(30), para Audi&ecirc;ncia P&uacute;blica da Comiss&atilde;o de Direitos Humanos e Minorias (CDHM) da C&acirc;mara Federal. O ato come&ccedil;a&nbsp;&agrave;s 9h, com o objetivo de&nbsp;debater os conflitos de terra com despejos decretados&nbsp;na Para&iacute;ba.<br />
 &nbsp;</p>
 
-<p>Est&atilde;o confirmadas as presen&ccedil;as de autoridades municipais, estaduais e federais, al&eacute;m de trabalhadores rurais de v&aacute;rias &aacute;reas de acampamentos do estado. A <a href="https://www.mst.org.br/2019/08/29/comissao-da-camara-realiza-diligencias-em-areas-de-conflitos-de-terras-na-paraiba.html">vinda da comiss&atilde;o &agrave; Para&iacute;ba</a> &eacute; uma propositura do deputado federal Frei Anast&aacute;cio ( PT/PB), atrav&eacute;s requerimento aprovado pela C&acirc;mara.</p>
+<p>Est&atilde;o confirmadas as presen&ccedil;as de autoridades municipais, estaduais e federais, al&eacute;m de trabalhadores rurais de v&aacute;rias &aacute;reas de acampamentos do estado. A <a href="https://www.mst.org.br/2019/08/29/comissao-da-camara-realiza-diligencias-em-areas-de-conflitos-de-terras-na-paraiba.html">vinda da comiss&atilde;o &agrave; Para&iacute;ba</a> &eacute; uma propositura do deputado federal Frei Anast&aacute;cio ( PT/PB), atrav&eacute;s requerimento aprovado pela C&acirc;mara.<br />
+&nbsp;</p>
 
-<p><br />
-A Comiss&atilde;o est&aacute; na Para&iacute;ba&nbsp;desde quarta-feira( 28), representada pelos deputado Frei Anast&aacute;cio (PT/PB), o vice-presidente da Comiss&atilde;o, Camilo Capiberibe (PSB/AP), Jo&atilde;o Daniel (PT/SE) e Valmir Assun&ccedil;&atilde;o (PT/BA).</p>
+<figure class="image" style="float:right"><img alt="Visita Comissão [dia2] - foto 2.jpeg" height="533" src="//farm66.staticflickr.com/65535/48644185837_0b4fdfa563_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
+
+<p>A Comiss&atilde;o est&aacute; na Para&iacute;ba&nbsp;desde quarta-feira( 28), representada pelos deputado Frei Anast&aacute;cio (PT/PB), o vice-presidente da Comiss&atilde;o, Camilo Capiberibe (PSB/AP), Jo&atilde;o Daniel (PT/SE) e Valmir Assun&ccedil;&atilde;o (PT/BA).</p>
 
 <p><br />
 A Comiss&atilde;o realizou dilig&ecirc;ncias nos acampamentos Dom Jos&eacute; Maria Pires, em Alhandra; Arcanjo Belarmino, em Pedras de Fogo; Para&iacute;so de Pilar, em Pilar; Para&iacute;so de Mogeiro, em Mogeiro e Ponta de Gramame, em Jo&atilde;o&nbsp; Pessoa. &quot;Fomos ver de perto a situa&ccedil;&atilde;o das fam&iacute;lias que vivem de&nbsp;produ&ccedil;&atilde;o da terra e precisa dela para trabalhar&quot;, disse Frei Anast&aacute;cio.<br />
@@ -84,4 +88,4 @@ A Comiss&atilde;o realizou dilig&ecirc;ncias nos acampamentos Dom Jos&eacute; Ma
 <p>Os deputados ainda far&atilde;o uma homenagem &agrave;&nbsp; vi&uacute;va do campon&ecirc;s Jo&atilde;o Pedro Teixeira, Elizabeth Teixeira. Eles entregar&atilde;o uma comenda pela entrada do nome de Jo&atilde;o Pedro Teixeira, no Livro dos Her&oacute;is da P&aacute;tria, proposta atrav&eacute;s&nbsp;de Lei&nbsp;do deputado Valmir Assun&ccedil;&atilde;o.<br />
 &nbsp;</p>
 
-<p><span style="color: rgb(146, 146, 146); font-family: Helvetica, Arial, sans-serif; font-size: 20.8px;">*Ed</span></p>
+<p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
