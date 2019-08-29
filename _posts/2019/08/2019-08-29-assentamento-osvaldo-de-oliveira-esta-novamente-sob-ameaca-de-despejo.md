@@ -5,7 +5,7 @@ tags:
   - tag: reforma-agrária
   - tag: rio-de-janeiro
   - tag: direitos-humanos
-title: "Em nota, MST RJ denuncia ameaça de despejo do Assentamento Osvaldo de Oliveira"
+title: "Em nota, MST RJ denuncia ameaça de despejo do assentamento Osvaldo de Oliveira"
 support_line: "Localizado na região serrana de Macaé, o primeiro Assentamento com Projeto de Desenvolvimento Sustentável foi criado em 2014, após um processo de luta pela reforma agrária na região. "
 menu: direitos humanos
 images_hd: //farm66.staticflickr.com/65535/48641755166_b6bfd72b4f_b.jpg
@@ -80,7 +80,9 @@ Nessa conjuntura adversa, em que a Classe trabalhadora se encontra sob ataque do
 Em posicionamento claro a favor do ex-propriet&aacute;rio, o judici&aacute;rio, se valendo de absurdos e criminalizando as fam&iacute;lias e o MST, covardemente sentencia pela reintegra&ccedil;&atilde;o de posse, ignorando intencionalmente as provas trazidas ao processo.&nbsp;</p>
 
 <p><br />
-O MST, em especial as 59 fam&iacute;lias assentadas, busca apoio social para manter essa importante conquista.&nbsp;<br />
+O MST, em especial as 59 fam&iacute;lias assentadas, busca apoio social para manter essa importante conquista.&nbsp;</p>
+
+<p><br />
 O PDS Osvaldo de Oliveira &eacute; a primeira experi&ecirc;ncia desse modelo no Rio de Janeiro, e antes da imiss&atilde;o na posse, em 2014, vem produzindo alimentos acess&iacute;veis &agrave; classe trabalhadora, participando de diversas feiras, locais e estaduais, tendo assim o reconhecimento da sociedade de sua import&acirc;ncia para o desenvolvimento da qualidade de vida, n&atilde;o s&oacute; das fam&iacute;lias assentadas, mas tamb&eacute;m de toda a popula&ccedil;&atilde;o que tem acesso aos produtos agroecol&oacute;gicos oriundos do PDS.</p>
 
 <p><br />
