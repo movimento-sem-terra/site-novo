@@ -126,4 +126,5 @@ Sociedade Maranhense de Direitos Humanos &ndash; SMDH<br />
 Sociedade Paraense de Defesa dos Direitos Humanos &ndash; SDDH<br />
 Terra de Direitos<br />
 Unegro<br />
-Uni&atilde;o Nacional das Organiza&ccedil;&otilde;es Cooperativas Solid&aacute;rias &ndash; UNICOPAS</p>
+Uni&atilde;o Nacional das Organiza&ccedil;&otilde;es Cooperativas Solid&aacute;rias &ndash; UNICOPAS<br />
+UBM - Somos do Conselho Nacional de DH&nbsp;</p>
