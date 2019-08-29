@@ -27,7 +27,7 @@ releated_posts:
 
 ---
 <p><br />
-<em>Da P&aacute;gina do MST</em></p>
+<em>Da Plataforma DH</em></p>
 
 <p><br />
 De maneira arbitr&aacute;ria e desrespeitando os princ&iacute;pios orientadores do CNDH, a Ministra Damares Alves exonerou a Coordenadora-Geral escolhida pelo &oacute;rg&atilde;o colegiado. A mesa diretora do CNDH denuncia, ainda, a censura no site do &oacute;rg&atilde;o: desde o dia 26 de agosto, est&aacute; impedida de atualizar o s&iacute;tio do Conselho e tornar p&uacute;blicas suas recomenda&ccedil;&otilde;es, decis&otilde;es e resolu&ccedil;&otilde;es.</p>
