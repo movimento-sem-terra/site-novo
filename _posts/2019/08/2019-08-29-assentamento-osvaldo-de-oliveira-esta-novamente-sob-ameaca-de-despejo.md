@@ -36,7 +36,7 @@ releated_posts:
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-08-29 at 07.49.38.jpeg" height="394" src="//farm66.staticflickr.com/65535/48641755166_b6bfd72b4f_b.jpg" width="700" />
-<figcaption><em>Foto: Pablo Vergara</em></figcaption>
+<figcaption><em>Foto: Coletivo de Comunica&ccedil;&atilde;o MST-RJ</em></figcaption>
 </figure>
 </div>
 
@@ -46,7 +46,7 @@ releated_posts:
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-O primeiro Assentamento com Projeto de Desenvolvimento Sustent&aacute;vel, o PDS Osvaldo de Oliveira que participou&nbsp;da edi&ccedil;&atilde;o comemorativa de dois anos do espa&ccedil;o Terra Crioula no Rio de Janeiro, sofre nova tentativa de despejo.</p>
+O primeiro assentamento com Projeto de Desenvolvimento Sustent&aacute;vel, o PDS Osvaldo de Oliveira, que participou&nbsp;da edi&ccedil;&atilde;o comemorativa de dois anos do espa&ccedil;o Terra Crioula no Rio de Janeiro, sofre nova tentativa de despejo.</p>
 
 <p><br />
 Localizado na regi&atilde;o serrana de Maca&eacute;, foi criado em 2014, ap&oacute;s um processo de luta pela reforma agr&aacute;ria na regi&atilde;o. No entanto, no dia 21 de agosto de 2019, o Tribunal Regional Federal realizou a sess&atilde;o de julgamento da apela&ccedil;&atilde;o na A&ccedil;&atilde;o Civil P&uacute;blica, pois mesmo n&atilde;o havendo nenhum recurso das partes envolvidas, que concordaram com a decis&atilde;o do juiz da 1&ordf; vara federal de Maca&eacute;, obrigatoriamente o processo deve ser apreciado na 2&ordf; inst&acirc;ncia.</p>
