@@ -5,7 +5,7 @@ tags:
   - tag: rio-grande-do-sul
   - tag: mst
   - tag: artigo
-title: "Artigo | O MST na ocupação da granja Macali\n\n"
+title: "Artigo | Acampamento na Fazenda Sarandi vira simbolo de resistência"
 support_line: "Segunda parte de especial contextualiza o Movimento dos Sem Terra na luta camponesa no Rio Grande do Sul\n\n"
 menu: reforma agrária
 label: articles
