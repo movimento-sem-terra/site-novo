@@ -4,7 +4,7 @@ tags:
   - tag: minas-gerais
   - tag: acampamento
   - tag: justiça
-title: "Reintegração de posse de acampamento em Itatiaiuçu (MG), foi suspensa"
+title: Reintegração de posse de acampamento em Itatiaiuçu (MG) foi suspensa
 support_line: Acampamento Maria da Conceição é exemplo de cultivo de alimentos orgânicos e organicidade colaborativa e solidária
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48632143557_e52fd2e52f_b.jpg
