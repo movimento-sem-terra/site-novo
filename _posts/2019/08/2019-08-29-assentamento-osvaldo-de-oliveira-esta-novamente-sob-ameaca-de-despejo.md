@@ -5,7 +5,7 @@ tags:
   - tag: reforma-agrária
   - tag: rio-de-janeiro
   - tag: direitos-humanos
-title: "Assentamento Osvaldo de Oliveira está novamente sob Ameaça de despejo "
+title: "Assentamento Osvaldo de Oliveira está novamente sob ameaça de despejo "
 support_line: "Localizado na região serrana de Macaé, o primeiro Assentamento com Projeto de Desenvolvimento Sustentável foi criado em 2014, após um processo de luta pela reforma agrária na região. "
 menu: direitos humanos
 images_hd: //farm66.staticflickr.com/65535/48641755166_b6bfd72b4f_b.jpg
@@ -46,7 +46,7 @@ releated_posts:
 Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-O primeiro Assentamento com Projeto de Desenvolvimento Sustent&aacute;vel, o PDS Osvaldo de Oliveira que participa da edi&ccedil;&atilde;o comemorativa de dois anos do espa&ccedil;o Terra Crioula no Rio de Janeiro, sofre nova tentativa de despejo.</p>
+O primeiro Assentamento com Projeto de Desenvolvimento Sustent&aacute;vel, o PDS Osvaldo de Oliveira que participou&nbsp;da edi&ccedil;&atilde;o comemorativa de dois anos do espa&ccedil;o Terra Crioula no Rio de Janeiro, sofre nova tentativa de despejo.</p>
 
 <p><br />
 Localizado na regi&atilde;o serrana de Maca&eacute;, foi criado em 2014, ap&oacute;s um processo de luta pela reforma agr&aacute;ria na regi&atilde;o. No entanto, no dia 21 de agosto de 2019, o Tribunal Regional Federal realizou a sess&atilde;o de julgamento da apela&ccedil;&atilde;o na A&ccedil;&atilde;o Civil P&uacute;blica, pois mesmo n&atilde;o havendo nenhum recurso das partes envolvidas, que concordaram com a decis&atilde;o do juiz da 1&ordf; vara federal de Maca&eacute;, obrigatoriamente o processo deve ser apreciado na 2&ordf; inst&acirc;ncia.</p>
@@ -67,7 +67,7 @@ O MST, em especial as 59 fam&iacute;lias assentadas, busca apoio social para man
 <strong>Confira abaixo na &iacute;ntegra.&nbsp;</strong></p>
 
 <p><br />
-O PDS Osvaldo de Oliveira, localizado na regi&atilde;o serrana de Maca&eacute;, novamente se encontra em situa&ccedil;&atilde;o de s&eacute;rias dificuldades sob amea&ccedil;a de reintegra&ccedil;&atilde;o de posse. Em 2012, a ent&atilde;o ocupa&ccedil;&atilde;o Osvaldo de Oliveira enfrentou uma A&ccedil;&atilde;o Civil P&uacute;blica por parte do MPF local questionando a viabilidade da desapropria&ccedil;&atilde;o para fins de Reforma Agr&aacute;ria da Fazenda Bom Jardim, onde se encontrava a ocupa&ccedil;&atilde;o. Conseguimos vencer essa batalha apresentando o Projeto de Desenvolvimento Sustent&aacute;vel como uma alternativa para a constru&ccedil;&atilde;o da Reforma Agr&aacute;ria nesta &aacute;rea.</p>
+O PDS Osvaldo de Oliveira, localizado na regi&atilde;o serrana de Maca&eacute;, novamente se encontra em situa&ccedil;&atilde;o de s&eacute;rias dificuldades sob amea&ccedil;a de despejo. Em 2012, a ent&atilde;o ocupa&ccedil;&atilde;o Osvaldo de Oliveira enfrentou uma A&ccedil;&atilde;o Civil P&uacute;blica por parte do MPF local questionando a viabilidade da desapropria&ccedil;&atilde;o para fins de Reforma Agr&aacute;ria da Fazenda Bom Jardim, onde se encontrava a ocupa&ccedil;&atilde;o. Conseguimos vencer essa batalha apresentando o Projeto de Desenvolvimento Sustent&aacute;vel como uma alternativa para a constru&ccedil;&atilde;o da Reforma Agr&aacute;ria nesta &aacute;rea.</p>
 
 <p><br />
 Em fevereiro de 2014, sai a imiss&atilde;o de posse provis&oacute;ria da Fazenda para o INCRA, tornando-se a partir da&iacute; o Assentamento Osvaldo de Oliveira. A decis&atilde;o do juiz da 1&ordf; vara federal de Maca&eacute;, Dr. Ubiratan, reconheceu o trabalho inovador que reuniu MPF, fam&iacute;lias benefici&aacute;rias da reforma agr&aacute;ria, INCRA, Universidades P&uacute;blicas com projetos em andamento no hoje assentamento Osvaldo de Oliveira. Foi um processo de media&ccedil;&atilde;o em nome de uma justi&ccedil;a democr&aacute;tica, capaz de atender as necessidades dos que s&atilde;o mais vulner&aacute;veis sociais, no caso as/os trabalhadores/as rurais Sem Terra.</p>
