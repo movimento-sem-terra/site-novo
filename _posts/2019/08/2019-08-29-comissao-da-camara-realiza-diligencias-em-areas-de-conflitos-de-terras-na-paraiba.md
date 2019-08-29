@@ -7,7 +7,7 @@ tags:
   - tag: justiça
   - tag: política
 title: Comissão da Câmara realiza diligências em áreas de conflitos de terras na Paraíba
-support_line: Comissão de Direitos Humanos e Minorias da Câmara Federal (CDHM) visita áreas de risco da Paraíba acampamentos e assentamentos na PB
+support_line: "Visita inclui áreas de risco de conflitos no campo; Ação termina amanhã, na Assembléia Legislativa do estado"
 menu: reforma agrária
 images_hd: //farm66.staticflickr.com/65535/48644096947_feeb138933_b.jpg
 layout: post
@@ -56,7 +56,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Visita Comissão [dia1] - foto 2.jpeg" height="525" src="//farm66.staticflickr.com/65535/48643961861_9fa60ca561_b.jpg" width="700" />
-<figcaption><em>Visita da CDHM em assentamentos e &aacute;reas com amea&ccedil;a de despejo na para&iacute;ba. Fotos: Divulga&ccedil;&atilde;o/MST</em></figcaption>
+<figcaption><em>Visita da CDHM em assentamentos e &aacute;reas com amea&ccedil;a de despejo na Para&iacute;ba. Fotos: Divulga&ccedil;&atilde;o/MST</em></figcaption>
 </figure>
 </div>
 
