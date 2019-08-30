@@ -5,8 +5,8 @@ tags:
   - tag: rio-grande-do-sul
   - tag: reforma-agrária
   - tag: mst
-title: "Artigo | Macali e Brilhante inspiram criação do MST, \"o maior movimento social agrário de todos os tempos\""
-support_line: Parte final do artigo fala sobre como as ocupações representaram o despertar para um novo momento histórico da luta pela terra no RS e no país.
+title: "Artigo | Macali e Brilhante inspiram criação do MST"
+support_line: Parte final do especial fala sobre como as ocupações representaram o despertar para um novo momento histórico da luta pela terra no RS e no país.
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48647761683_72feeddb02_b.jpg
 layout: post
