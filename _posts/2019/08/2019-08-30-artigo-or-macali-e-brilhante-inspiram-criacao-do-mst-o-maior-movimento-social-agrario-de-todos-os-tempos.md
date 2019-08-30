@@ -33,7 +33,7 @@ files:
     title: 3 - Monumento em homenagem aos trabalhadores rurais sem terra na Encruzilhada Natalino. Foto - Maiara Rauber.jpg
     $$hashKey: 0L3
 created_date: "2019-08-30T12:34:48-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/08/2019-08-28-artigo-i-a-ocupacao-da-granja-macali-marco-na-luta-camponesa-no-norte-do-rs.md
   - _posts/2019/08/2019-08-29-artigo-or-o-mst-na-ocupacao-da-granja-macali.md
@@ -79,32 +79,32 @@ O acampamento, nessa conjuntura de abertura, de certa ojeriza social em torno da
 <p>Sofridas experi&ecirc;ncias e promessas e mais promessas fizeram aumentar a for&ccedil;a, a organiza&ccedil;&atilde;o e a convic&ccedil;&atilde;o do Movimento. Aliada a esses processos todos, fez-se presente a m&iacute;stica da luta pela terra, a terra como dom de Deus para todos, media&ccedil;&atilde;o da Igreja Cat&oacute;lica como fundamental nessa realidade e nas tentativas de solu&ccedil;&atilde;o dos conflitos internos.<br />
 &nbsp;</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="3 - Celebração religiosa na Encruzilhada Natalino.jpg" height="369" src="//farm66.staticflickr.com/65535/48648260952_edba19254d_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
 <p>&Eacute; bom dizer que, no per&iacute;odo, a Fazenda Sarandi n&atilde;o representava apenas um espa&ccedil;o do latif&uacute;ndio, ainda que esse fosse sua marca registrada. Propriet&aacute;rios, pequenos camponeses, em geral descendentes de imigrantes europeus e com caracter&iacute;sticas de agricultura familiar, &iacute;ndios caingangues de algumas reservas em seu entorno, posseiros, arrendat&aacute;rios, madeireiros, assalariados rurais, dentre outros, a compunham.<br />
 &nbsp;</p>
 
-<p>O acampamento da Encruzilhada Natalino passou por v&aacute;rias fases, que v&atilde;o da sua constitui&ccedil;&atilde;o lenta at&eacute; metade de 1981, interven&ccedil;&atilde;o militar-federal, assentamento provis&oacute;rio em 1982 at&eacute; o assentamento definitivo em outubro de 1983. Dentre os fatos mais expressivos dessas fases encontram-se a capacidade que o Movimento teve de chamar a aten&ccedil;&atilde;o da esfera p&uacute;blica e pol&iacute;tica do estado e do governo federal, do Incra, das for&ccedil;as de repress&atilde;o, dos latifundi&aacute;rios locais como medo de invas&atilde;o em suas terras.<br />
-&nbsp;</p>
-
-<figure class="image" style="float:left"><img alt="3 - Celebração religiosa na Encruzilhada Natalino.jpg" height="369" src="//farm66.staticflickr.com/65535/48648260952_edba19254d_b.jpg" width="700" />
-<figcaption></figcaption>
-</figure>
+<p>O acampamento da Encruzilhada Natalino passou por v&aacute;rias fases, que v&atilde;o da sua constitui&ccedil;&atilde;o lenta at&eacute; metade de 1981, interven&ccedil;&atilde;o militar-federal, assentamento provis&oacute;rio em 1982 at&eacute; o assentamento definitivo em outubro de 1983. Dentre os fatos mais expressivos dessas fases encontram-se a capacidade que o Movimento teve de chamar a aten&ccedil;&atilde;o da esfera p&uacute;blica e pol&iacute;tica do estado e do governo federal, do Incra, das for&ccedil;as de repress&atilde;o, dos latifundi&aacute;rios locais como medo de invas&atilde;o em suas terras.</p>
 
 <p><br />
+Os&nbsp;conflitos internos foram in&uacute;meros; &eacute; imposs&iacute;vel elenc&aacute;-los aqui em sua totalidade e abrang&ecirc;ncia. Apenas enfatizamos que muitos deles giravam em torno de quest&otilde;es como: as op&ccedil;&otilde;es em ficar ou ir para projetos de coloniza&ccedil;&atilde;o, a presen&ccedil;a do coronel Curi&oacute; como express&atilde;o e representante das for&ccedil;as de repress&atilde;o, as lutas por hegemonia interna de grupos sob influ&ecirc;ncia externa, a&ccedil;&otilde;es midi&aacute;ticas, pol&iacute;ticas e militares no sentido de deslegitimar e desqualificar o movimento qualificando os seus membros de vagabundos, pregui&ccedil;osos, aproveitadores, agitadores da ordem e da desordem da propriedade; repress&atilde;o policial ostensiva e simb&oacute;lica; m&iacute;stica religiosa (cruz, sofrimento, morte, esperan&ccedil;a, a fome, a jun&ccedil;&atilde;o entre f&eacute; e pol&iacute;tica assumidas coletivamente).<br />
 &nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>s conflitos internos foram in&uacute;meros; &eacute; imposs&iacute;vel elenc&aacute;-los aqui em sua totalidade e abrang&ecirc;ncia. Apenas enfatizamos que muitos deles giravam em torno de quest&otilde;es como: as op&ccedil;&otilde;es em ficar ou ir para projetos de coloniza&ccedil;&atilde;o, a presen&ccedil;a do coronel Curi&oacute; como express&atilde;o e representante das for&ccedil;as de repress&atilde;o, as lutas por hegemonia interna de grupos sob influ&ecirc;ncia externa, a&ccedil;&otilde;es midi&aacute;ticas, pol&iacute;ticas e militares no sentido de deslegitimar e desqualificar o movimento qualificando os seus membros de vagabundos, pregui&ccedil;osos, aproveitadores, agitadores da ordem e da desordem da propriedade; repress&atilde;o policial ostensiva e simb&oacute;lica; m&iacute;stica religiosa (cruz, sofrimento, morte, esperan&ccedil;a, a fome, a jun&ccedil;&atilde;o entre f&eacute; e pol&iacute;tica assumidas coletivamente).<br />
+<p>Campanhas e mais campanhas foram organizadas no campo solid&aacute;rio por igrejas, universidades e sindicatos; in&eacute;dito levantamento de v&aacute;rias fazendas na regi&atilde;o, em outras partes do estado e em v&aacute;rias regi&otilde;es do pa&iacute;s para efeito de reforma agr&aacute;ria - processo esse feito com a presen&ccedil;a de representantes de sem terra -; tentativa de ocupa&ccedil;&atilde;o de v&aacute;rias fazendas na regi&atilde;o, dentre elas a Annoni e a Santa Rita; conflitos e divis&otilde;es internas em termos de &aacute;rea a quem deve ser dada a prioridade de assentamentos; intensas ritualiza&ccedil;&otilde;es por ocasi&atilde;o do dia do agricultor (25 de julho 81); acampamentos em Porto Alegre em frente ao Pal&aacute;cio Piratini; ostensiva interven&ccedil;&atilde;o militar federal justificada como &aacute;rea de seguran&ccedil;a nacional para combater focos de tens&atilde;o social no campo; divis&atilde;o do acampamento entre os que decidiram ficar e os que queriam partir para o Mato Grosso; posi&ccedil;&atilde;o de bispos em prol da justi&ccedil;a social no campo e muitas eteceteras.<br />
 &nbsp;</p>
-
-<p>Campanhas e mais campanhas foram organizadas no campo solid&aacute;rio por igrejas, universidades e sindicatos; in&eacute;dito levantamento de v&aacute;rias fazendas na regi&atilde;o, em outras partes do estado e em v&aacute;rias regi&otilde;es do pa&iacute;s para efeito de reforma agr&aacute;ria - processo esse feito com a presen&ccedil;a de representantes de sem terra -; tentativa de ocupa&ccedil;&atilde;o de v&aacute;rias fazendas na regi&atilde;o, dentre elas a Annoni e a Santa Rita; conflitos e divis&otilde;es internas em termos de &aacute;rea a quem deve ser dada a prioridade de assentamentos; intensas ritualiza&ccedil;&otilde;es por ocasi&atilde;o do dia do agricultor (25 de julho 81); acampamentos em Porto Alegre em frente ao Pal&aacute;cio Piratini; ostensiva interven&ccedil;&atilde;o militar federal justificada como &aacute;rea de seguran&ccedil;a nacional para combater focos de tens&atilde;o social no campo; divis&atilde;o do acampamento entre os que decidiram ficar e os que queriam partir para o Mato Grosso; posi&ccedil;&atilde;o de bispos em prol da justi&ccedil;a social no campo e muitas eteceteras.</p>
 
 <p>Enfim, o acampamento de Encruzilhada Natalino n&atilde;o encerra um processo de luta, ao contr&aacute;rio, abriu muitas possibilidades. Demonstrou ser poss&iacute;vel pela luta, press&atilde;o, organiza&ccedil;&atilde;o, estrat&eacute;gias coletivas, media&ccedil;&otilde;es honestas e convictas, publicizando e convencendo a opini&atilde;o p&uacute;blica e o pr&oacute;prio grupo, lan&ccedil;ando m&atilde;o de rituais religiosos e pol&iacute;ticos, dentre uma s&eacute;rie de outros aspectos, ser poss&iacute;vel, pela m&atilde;o dos trabalhadores, alterar pelo menos alguns aspectos da injusta distribui&ccedil;&atilde;o da terra no pa&iacute;s.<br />
 &nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="3 - Monumento em homenagem aos trabalhadores rurais sem terra na Encruzilhada Natalino. Foto - Maiara Rauber.jpg" height="207" src="//farm66.staticflickr.com/65535/48647761683_72feeddb02_b.jpg" width="300" />
+<figcaption><em>Monumento em homenagem aos trabalhadores<br />
+ruraisSem Terra na Encruzilhada Natalino.<br />
+Foto: Maiara Rauber</em></figcaption>
+</figure>
 
 <p>Essa experi&ecirc;ncia colocou em xeque as propostas de coloniza&ccedil;&atilde;o pelo governo, exp&ocirc;s os malef&iacute;cios e as injusti&ccedil;as do grande latif&uacute;ndio no estado e no pa&iacute;s, as conquistas dos espa&ccedil;os pol&iacute;ticos e da reforma agr&aacute;ria ainda que num cen&aacute;rio de militariza&ccedil;&atilde;o e consequente repress&atilde;o.<br />
 &nbsp;</p>
@@ -115,4 +115,5 @@ O acampamento, nessa conjuntura de abertura, de certa ojeriza social em torno da
 <p>Entendo que os eventos da Macali e Brilhante representaram o despertar para um novo momento hist&oacute;rico. A cada a&ccedil;&atilde;o ou amea&ccedil;a de invas&atilde;o crescia a ades&atilde;o. Assim, ap&oacute;s uma caminhada de dois anos, estava gestado o maior movimento social agr&aacute;rio de todos os tempos, o Movimento dos Sem Terra (MST), deflagrado a partir do acampamento de Encruzilhada Natalino.</p>
 
 <p><br />
-<em>*Professor do Programa de P&oacute;s-Gradua&ccedil;&atilde;o Em Hist&oacute;ria na Universidade de Passo Fundo (PPGH/UPF)</em></p>
+<em>*Professor do Programa de P&oacute;s-Gradua&ccedil;&atilde;o Em Hist&oacute;ria na Universidade de Passo Fundo (PPGH/UPF)<br />
+**Editado por Fernanda Alc&acirc;ntara&nbsp;</em></p>
