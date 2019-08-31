@@ -63,12 +63,12 @@ Da P&aacute;gina do MST</em></p>
 
 <p>Vinte anos de sucesso da luta pela terra ser&atilde;o marcados entre os dias 4 e 7 de setembro na Pra&ccedil;a da Faculdade, em Macei&oacute;. A 20&ordf; Feira da Reforma Agr&aacute;ria &eacute; a express&atilde;o de uma estrat&eacute;gia coletiva feita pelos trabalhadores e trabalhadoras Sem Terra para alimentar o Brasil com comida saud&aacute;vel.</p>
 
+<p><br />
+Ser&atilde;o quatro dias de celebra&ccedil;&atilde;o com grandes nomes da cultura popular, muito forr&oacute;, patrim&ocirc;nios da cultura alagoana e uma grande atra&ccedil;&atilde;o nacional: o querido Odair Jos&eacute;! Tudo de gra&ccedil;a em pra&ccedil;a p&uacute;blica.</p>
+
 <figure class="image" style="float:right"><img alt="Odair José.jpg" height="300" src="//farm66.staticflickr.com/65535/48654238028_b34cfc887f_b.jpg" width="200" />
 <figcaption><em>Odair Jos&eacute;. Foto: Divulga&ccedil;&atilde;o</em></figcaption>
 </figure>
-
-<p><br />
-Ser&atilde;o quatro dias de celebra&ccedil;&atilde;o com grandes nomes da cultura popular, muito forr&oacute;, patrim&ocirc;nios da cultura alagoana e uma grande atra&ccedil;&atilde;o nacional: o querido Odair Jos&eacute;! Tudo de gra&ccedil;a em pra&ccedil;a p&uacute;blica.</p>
 
 <p><br />
 Durante os dias de Feira, o Festival de Cultura Popular apresenta dois palcos com teatro, m&uacute;sica, dan&ccedil;a, cortejos. Sempre acompanhados pela Culin&aacute;ria da Terra.</p>
