@@ -61,7 +61,7 @@ Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;</p>
 
-<p>Vinte anos de sucesso da luta pela terra ser&atilde;o marcados entre os dias 4 e 7 de setembro na Pra&ccedil;a da Faculdade, em Macei&oacute;. A 20&ordf; Feira da Reforma Agr&aacute;ria &eacute; a express&atilde;o de uma estrat&eacute;gia coletiva feita pelos trabalhadores&nbsp; trabalhadoras Sem Terra para alimentar o Brasil com comida saud&aacute;vel.</p>
+<p>Vinte anos de sucesso da luta pela terra ser&atilde;o marcados entre os dias 4 e 7 de setembro na Pra&ccedil;a da Faculdade, em Macei&oacute;. A 20&ordf; Feira da Reforma Agr&aacute;ria &eacute; a express&atilde;o de uma estrat&eacute;gia coletiva feita pelos trabalhadores e trabalhadoras Sem Terra para alimentar o Brasil com comida saud&aacute;vel.</p>
 
 <figure class="image" style="float:right"><img alt="Odair José.jpg" height="300" src="//farm66.staticflickr.com/65535/48654238028_b34cfc887f_b.jpg" width="200" />
 <figcaption><em>Odair Jos&eacute;. Foto: Divulga&ccedil;&atilde;o</em></figcaption>
