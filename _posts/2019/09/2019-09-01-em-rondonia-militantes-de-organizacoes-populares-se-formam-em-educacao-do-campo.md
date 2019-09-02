@@ -50,6 +50,6 @@ Sobre o per&iacute;odo do curso na UNIR, Tha&iacute;s Luanne, uma das formandas 
 Luanne tirou nota m&aacute;xima com seu Trabalho de Conclus&atilde;o de Curso (TCC), onde abordou como tema a participa&ccedil;&atilde;o e o processo pedag&oacute;gico das escolas do campo com as crian&ccedil;as Sem Terrinha.&nbsp;</p>
 
 <p><br />
-O curso teve in&iacute;cio em setembro de 2015 e encerra com 37 formandos. A aprova&ccedil;&atilde;o do curso e a avalia&ccedil;&atilde;o positiva pelos movimentos, j&aacute; deu in&iacute;cio em 2018 uma outra turma, prevista para ser finalizada em 2022.</p>
+O curso teve in&iacute;cio em setembro de 2015 e encerra com 37 formandos. A aprova&ccedil;&atilde;o do curso e a avalia&ccedil;&atilde;o positiva pelos movimentos, j&aacute; deu in&iacute;cio a uma nova turma no per&iacute;odo de&nbsp;2016-2020&nbsp;e uma outra em 2018, prevista para ser finalizada em 2022.</p>
 
 <p>&nbsp;</p>
