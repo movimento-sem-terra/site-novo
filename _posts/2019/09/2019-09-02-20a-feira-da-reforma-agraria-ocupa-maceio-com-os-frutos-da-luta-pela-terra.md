@@ -54,7 +54,7 @@ files:
     title: Foto 002 - John Clivani.JPG
     $$hashKey: 096
 created_date: "2019-09-02T16:00:37-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/05/2019-05-06-mst-doa-mais-de-tres-toneladas-de-alimentos-em-atalaia.md
   - _posts/2019/08/2019-08-26-odair-jose-tulipa-ruiz-e-lirinha-farao-show-na-jornada-de-agroecologia-em-curitiba.md
@@ -89,8 +89,8 @@ Em sua 20&ordf; edi&ccedil;&atilde;o, a Feira em Alagoas &eacute; o mais antigo 
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Foto 003 - John Clivani.JPG" height="200" src="//farm66.staticflickr.com/65535/48666477538_b8097bdb18_b.jpg" width="300" />
-<figcaption><em>Apresenta&ccedil;&otilde;es gratuitas em dois palcos s&atilde;o destaques<br />
-Foto: John Clivani</em></figcaption>
+<figcaption><em>Apresenta&ccedil;&otilde;es gratuitas em dois palcos s&atilde;o<br />
+destaque para o p&uacute;blico. Foto: John Clivani</em></figcaption>
 </figure>
 
 <p>Compondo a programa&ccedil;&atilde;o da Feira, o tamb&eacute;m tradicional Festival de Cultura Popular leva para a Pra&ccedil;a da Faculdade em 2019 cerca de 30 atra&ccedil;&otilde;es art&iacute;sticas ao longo dos quatro dias de Feira, com apresenta&ccedil;&otilde;es gratuitas em dois palcos.</p>
@@ -107,9 +107,9 @@ Entre as diversas atra&ccedil;&otilde;es da Feira, sobe ao palco da Pra&ccedil;a
 <br />
 <strong>LEIA MAIS:&nbsp;</strong><a href="http://www.mst.org.br/2019/08/31/mst-promove-festival-de-cultura-popular-na-20a-feira-da-reforma-agraria-em-maceio.html">MST promove Festival de Cultura Popular na 20&ordf; Feira da Reforma Agr&aacute;ria, em Macei&oacute;</a></p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <p><strong>Confer&ecirc;ncias e oficinas</strong></p>
-</p>
 
 <p><br />
 Uma das novidades da Feira esse ano s&atilde;o as realiza&ccedil;&otilde;es das Confer&ecirc;ncias, com debates em torno da produ&ccedil;&atilde;o de alimenta&ccedil;&atilde;o saud&aacute;veis e da luta pela soberania nacional e popular.</p>
@@ -117,8 +117,15 @@ Uma das novidades da Feira esse ano s&atilde;o as realiza&ccedil;&otilde;es das 
 <p><br />
 D&eacute;bora Nunes, da coordena&ccedil;&atilde;o nacional do MST, refor&ccedil;ou a import&acirc;ncia da realiza&ccedil;&atilde;o das confer&ecirc;ncias com a sociedade. &ldquo;Queremos possibilitar um amplo espa&ccedil;o de di&aacute;logo e debate de ideias com a sociedade. A realiza&ccedil;&atilde;o das confer&ecirc;ncias em nossa programa&ccedil;&atilde;o s&atilde;o mais espa&ccedil;os de estreitar, aprofundar e qualificar o debate com temas que assumem uma importante centralidade no momento que vivemos&rdquo;.</p>
 
-<p><br />
-Realizada na pr&oacute;xima quinta-feira (05), a primeira confer&ecirc;ncia tratar&aacute; do tema da produ&ccedil;&atilde;o de alimenta&ccedil;&atilde;o saud&aacute;vel, com a presen&ccedil;a do Deputado Federal pelo estado de S&atilde;o Paulo, Nilto Tatto, que integra a Comiss&atilde;o de Meio Ambiente da C&acirc;mara Federal; da atriz e ativista Pally Siqueira; al&eacute;m da presen&ccedil;a do tamb&eacute;m coordenador nacional do MST, Jo&atilde;o Paulo Rodrigues.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Foto 004 - Gustavo Marinho.jpeg" height="200" src="//farm66.staticflickr.com/65535/48666477418_c2a7706f4c_b.jpg" width="300" />
+<figcaption><em>Todos os debates ocorrem na Pra&ccedil;a Central da<br />
+Feira da Reforma Agr&aacute;ria, sempre a partir<br />
+das 10 horas. Foto:&nbsp;John Clivani</em></figcaption>
+</figure>
+
+<p>Realizada na pr&oacute;xima quinta-feira (05), a primeira confer&ecirc;ncia tratar&aacute; do tema da produ&ccedil;&atilde;o de alimenta&ccedil;&atilde;o saud&aacute;vel, com a presen&ccedil;a do Deputado Federal pelo estado de S&atilde;o Paulo, Nilto Tatto, que integra a Comiss&atilde;o de Meio Ambiente da C&acirc;mara Federal; da atriz e ativista Pally Siqueira; al&eacute;m da presen&ccedil;a do tamb&eacute;m coordenador nacional do MST, Jo&atilde;o Paulo Rodrigues.</p>
 
 <p><br />
 J&aacute; na sexta-feira (06), a confer&ecirc;ncia debate a luta pela terra e a defesa dos territ&oacute;rios em Alagoas, reunindo lideran&ccedil;as ind&iacute;genas, quilombolas e Sem Terra.</p>
@@ -132,8 +139,13 @@ Todos os debates ocorrem na Pra&ccedil;a Central da Feira da Reforma Agr&aacute;
 
 <p><strong>20 anos de hist&oacute;ria</strong></p>
 
-<p><br />
-Vand&eacute;lia Santos, assentada no assentamento Fidel Castro, no munic&iacute;pio de Joaquim Gomes (Zona da Mata de Alagoas),&nbsp;&eacute; uma das feirantes que vai ocupar uma das centenas de bancas espalhadas pela Pra&ccedil;a da Faculdade com sua produ&ccedil;&atilde;o. Por mais um ano Vanda, como &eacute; conhecida, trar&aacute; para Macei&oacute; uma diversidade do que &eacute; produzido na sua regi&atilde;o: laranja, banana, batata e feij&atilde;o.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Foto 002 - John Clivani.JPG" height="200" src="//farm66.staticflickr.com/65535/48666477543_e134311ab5_b.jpg" width="300" />
+<figcaption>Foto 002 - John ClivanJohn Clivan</figcaption>
+</figure>
+
+<p>Vand&eacute;lia Santos, assentada no assentamento Fidel Castro, no munic&iacute;pio de Joaquim Gomes (Zona da Mata de Alagoas),&nbsp;&eacute; uma das feirantes que vai ocupar uma das centenas de bancas espalhadas pela Pra&ccedil;a da Faculdade com sua produ&ccedil;&atilde;o. Por mais um ano Vanda, como &eacute; conhecida, trar&aacute; para Macei&oacute; uma diversidade do que &eacute; produzido na sua regi&atilde;o: laranja, banana, batata e feij&atilde;o.</p>
 
 <p><br />
 LEIA MAIS:&nbsp;<a href="http://www.mst.org.br/2018/09/10/19a-feira-da-reforma-agraria-comercializa-513-toneladas-de-alimentos-saudaveis-em-maceio.html">19&ordf; Feira da Reforma Agr&aacute;ria comercializa 513 toneladas de alimentos saud&aacute;veis em Macei&oacute;</a></p>
