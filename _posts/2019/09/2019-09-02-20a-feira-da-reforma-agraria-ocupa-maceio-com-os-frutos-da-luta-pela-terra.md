@@ -142,7 +142,8 @@ Todos os debates ocorrem na Pra&ccedil;a Central da Feira da Reforma Agr&aacute;
 <p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Foto 002 - John Clivani.JPG" height="200" src="//farm66.staticflickr.com/65535/48666477543_e134311ab5_b.jpg" width="300" />
-<figcaption>Foto 002 - John ClivanJohn Clivan</figcaption>
+<figcaption><em>&Uacute;ltimos preparativos para a Feira est&atilde;o<br />
+sendo trabalhados esta semana. Foto: John Clivan</em></figcaption>
 </figure>
 
 <p>Vand&eacute;lia Santos, assentada no assentamento Fidel Castro, no munic&iacute;pio de Joaquim Gomes (Zona da Mata de Alagoas),&nbsp;&eacute; uma das feirantes que vai ocupar uma das centenas de bancas espalhadas pela Pra&ccedil;a da Faculdade com sua produ&ccedil;&atilde;o. Por mais um ano Vanda, como &eacute; conhecida, trar&aacute; para Macei&oacute; uma diversidade do que &eacute; produzido na sua regi&atilde;o: laranja, banana, batata e feij&atilde;o.</p>
