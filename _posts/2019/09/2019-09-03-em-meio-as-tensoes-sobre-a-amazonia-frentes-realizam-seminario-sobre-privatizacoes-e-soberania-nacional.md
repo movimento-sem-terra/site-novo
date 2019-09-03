@@ -5,7 +5,7 @@ tags:
   - tag: soberania-nacional
   - tag: privatização
   - tag: meio-ambiente
-title: "Em meio às tensões sobre a Amazônia, frentes realizam Seminário sobre privatizações e soberania nacional "
+title: "Frentes realizam Seminário sobre privatizações e soberania nacional "
 support_line: "Em Brasília, evento contará com a presença de Dilma Rousseff e dezenas de lideranças políticas, no Auditório Nereu Ramos"
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48673054863_8469343b7f_b.jpg
