@@ -96,13 +96,14 @@ Leir, que hoje &eacute; assentada na Macali, conta que foi para o acampamento em
 <p><strong>A import&acirc;ncia de divulgar o recome&ccedil;o da luta</strong><br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="4 -Maria Osmarin Fernandes mostra o local que os Sem Terra atravesaram para entrarem na gleba Macali. Foto - Maiara Rauber.jpg" height="200" src="//farm66.staticflickr.com/65535/48671718476_ca65e441dd_b.jpg" width="300" />
-<figcaption><em>Maria Osmarin Fernandes mostra o local<br />
-que os Sem Terra atravesaram para entrarem<br />
-na gleba Macali. Foto: Maiara Rauber</em></figcaption>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Maria Osmarin Fernandes mostra o local que os Sem Terra atravesaram para entrarem na gleba Macali. Foto - Maiara Rauber" height="467" src="//farm66.staticflickr.com/65535/48671718476_ca65e441dd_b.jpg" width="700" />
+<figcaption><em>Maria Osmarin Fernandes mostra o local que os Sem Terra atravesaram para entrarem na gleba Macali. Foto: Maiara Rauber</em></figcaption>
 </figure>
+</div>
 
-<p>Ap&oacute;s a consolida&ccedil;&atilde;o da ocupa&ccedil;&atilde;o Macali, era importante divulgar a a&ccedil;&atilde;o. Foi articulado um grupo de agricultores que se deslocou para a capital do estado, com o intuito de falar com a imprensa, com o governador Augusto Amaral de Souza (Arena) e deputados. Segundo Ivaldo Gehler, agr&ocirc;nomo e professor do Programa de P&oacute;s-Gradua&ccedil;&atilde;o em Desenvolvimento Rural da UFRGS, na segunda-feira, dia 10 de setembro, os acampados come&ccedil;aram a visitar os meios de comunica&ccedil;&atilde;o. &ldquo;Fomos &agrave; Ga&uacute;cha, na Gua&iacute;ba, e fomos muito bem recebidos. Era uma grande novidade, depois de tantos anos de repress&atilde;o finalmente alguma coisa nova&rdquo;, relata. O governador e alguns deputados tamb&eacute;m se encontraram com os acampados em sua passada por Porto Alegre.<br />
+<p><br />
+Ap&oacute;s a consolida&ccedil;&atilde;o da ocupa&ccedil;&atilde;o Macali, era importante divulgar a a&ccedil;&atilde;o. Foi articulado um grupo de agricultores que se deslocou para a capital do estado, com o intuito de falar com a imprensa, com o governador Augusto Amaral de Souza (Arena) e deputados. Segundo Ivaldo Gehler, agr&ocirc;nomo e professor do Programa de P&oacute;s-Gradua&ccedil;&atilde;o em Desenvolvimento Rural da UFRGS, na segunda-feira, dia 10 de setembro, os acampados come&ccedil;aram a visitar os meios de comunica&ccedil;&atilde;o. &ldquo;Fomos &agrave; Ga&uacute;cha, na Gua&iacute;ba, e fomos muito bem recebidos. Era uma grande novidade, depois de tantos anos de repress&atilde;o finalmente alguma coisa nova&rdquo;, relata. O governador e alguns deputados tamb&eacute;m se encontraram com os acampados em sua passada por Porto Alegre.<br />
 &nbsp;</p>
 
 <p>O agr&ocirc;nomo recorda a expectativa gerada ap&oacute;s o an&uacute;ncio nas m&iacute;dias. &ldquo;A opini&atilde;o p&uacute;blica passou a defender a a&ccedil;&atilde;o. As pr&oacute;prias r&aacute;dios e televis&otilde;es come&ccedil;aram a anunciar como uma novidade boa, pois a sociedade viu a ocupa&ccedil;&atilde;o como o primeiro passo para o fim da ditadura. A sociedade precisava de democratiza&ccedil;&atilde;o e voltar a se mobilizar, a ser protagonista da hist&oacute;ria&rdquo;, diz Gehler.<br />
@@ -114,11 +115,10 @@ na gleba Macali. Foto: Maiara Rauber</em></figcaption>
 <p>Dias depois da ocupa&ccedil;&atilde;o da Macali, mais de 70 fam&iacute;lias ocuparam a gleba Brilhante. &ldquo;N&oacute;s alugamos um caminh&atilde;o que puxa cavalo e enchemos de gente. Ele largou n&oacute;s com as trouxas nas costas e fomos atorando as valetas no escuro&rdquo;, conta um dos l&iacute;deres camponeses da a&ccedil;&atilde;o, Lucival Brachak. &ldquo;Demoramos para chegar l&aacute;. Era longe, de noite, no escuro, pulando cerca. Eram 10, 12 fios de arame cada cerca&rdquo;, relata o Sem Terra. &ldquo;A pol&iacute;cia veio e n&oacute;s enfrentamos o coronel. N&oacute;s n&atilde;o sa&iacute;mos de l&aacute;&rdquo;, recorda.<br />
 &nbsp;</p>
 
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="6 - Brachak um dos lideres camponeses na ocupação da Fazenda Brilhante - Foto - Maiara Rauber.jpg" height="467" src="//farm66.staticflickr.com/65535/48671379133_2aef8f385c_b.jpg" width="700" />
-<figcaption><em>Brachak um dos lideres camponeses na ocupa&ccedil;&atilde;o da Fazenda Brilhante - Foto: Maiara Rauber</em></figcaption>
+<figure class="image" style="float:right"><img alt="6 - Brachak um dos lideres camponeses na ocupação da Fazenda Brilhante - Foto - Maiara Rauber.jpg" height="200" src="//farm66.staticflickr.com/65535/48671379133_2aef8f385c_b.jpg" width="300" />
+<figcaption><em>Brachak um dos lideres camponeses na ocupa&ccedil;&atilde;o<br />
+da Fazenda Brilhante - Foto: Maiara Rauber</em></figcaption>
 </figure>
-</div>
 
 <p><br />
 Nos meses seguintes, o n&uacute;mero de fam&iacute;lias acampadas nas terras da Brilhante chegava a 150, segundo o agr&ocirc;nomo Gehlen. Inicialmente o governo escolheu ignorar essa segunda ocupa&ccedil;&atilde;o.&nbsp; No entanto, com a press&atilde;o dos camponeses e a opini&atilde;o p&uacute;blica, o poder p&uacute;blico se viu obrigado a conceder terra, assist&ecirc;ncia social e alimentos.</p>
@@ -133,8 +133,6 @@ Na gleba da Brilhante, o fato que auxiliou no reconhecimento da ocupa&ccedil;&at
 <p><br />
 <a href="http://www.mst.org.br/2019/09/02/a-semente-do-mst-40-anos-da-ocupacao-macali-e-brilhante.html" target="_blank">A semente do MST: 40 anos da ocupa&ccedil;&atilde;o Macali e Brilhante</a><br />
 &nbsp;</p>
-
-<p>&nbsp;</p>
 
 <p><em>Confira tamb&eacute;m&nbsp;artigo anterior sobre o tema:</em></p>
 
