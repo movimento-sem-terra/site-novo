@@ -30,7 +30,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="[146] Jonas Oliveira | Fotos Públicas.jpeg" height="467" src="//farm66.staticflickr.com/65535/48671684942_f5fe4f96f3_b.jpg" width="700" />
-<figcaption><em>a</em></figcaption>
+<figcaption><em>Colheita de soja no Paran&aacute;: produtores temem perda de lavouras com a libera&ccedil;&atilde;o do herbicida dicamba / Jonas Oliveira | Fotos P&uacute;blicas</em></figcaption>
 </figure>
 </div>
 
