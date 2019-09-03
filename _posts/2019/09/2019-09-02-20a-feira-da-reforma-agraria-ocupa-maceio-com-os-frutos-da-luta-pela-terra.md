@@ -7,7 +7,7 @@ tags:
 title: 20ª Feira da Reforma Agrária ocupa Maceió com os frutos da luta pela terra
 support_line: "Organizada pelo MST em Alagoas, a Feira deve reunir centenas de trabalhadores rurais"
 menu: reforma agrária
-section: null
+section: cover
 images_hd: //farm66.staticflickr.com/65535/48666819836_5bcf4f7754_b.jpg
 layout: post
 files:
