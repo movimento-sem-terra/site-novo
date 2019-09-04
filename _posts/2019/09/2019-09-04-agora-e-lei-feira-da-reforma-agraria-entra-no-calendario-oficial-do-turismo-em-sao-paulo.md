@@ -5,7 +5,7 @@ tags:
   - tag: mst
   - tag: lutas-e-mobilizações
 menu: agricultura camponesa
-title: "Agora é lei! Feira da Reforma Agrária entra no calendário oficial do turismo em São Paulo\n"
+title: "Agora é lei! Feira da Reforma Agrária entra no calendário oficial de eventos de SP\n"
 support_line: O projeto foi votado e aprovado na Câmara Municipal de São Paulo e foi publicada oficialmente na Secretária Geral Parlamentar
 images_hd: //farm66.staticflickr.com/65535/48679375047_40eedbcd1d_b.jpg
 section: cover
@@ -44,16 +44,16 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>A j&aacute; tradicional Feira Nacional da Reforma Agr&aacute;ria, volta a ser destaque na cidade de S&atilde;o Paulo. Por meio do projeto de Lei 17.162 publicada nesta quarta-feira (4) no Di&aacute;rio Oficial do Munic&iacute;pio, de autoria do vereador Jair Tatto (PT), a Semana da Feira Nacional da Reforma Agr&aacute;ria entra para o Calend&aacute;rio Oficial de Eventos da Cidade.<br />
+<p>A j&aacute; tradicional Feira Nacional da Reforma Agr&aacute;ria, volta a ser destaque na cidade de S&atilde;o Paulo. Por meio do projeto de Lei 17.162 publicado&nbsp;nesta quarta-feira (4) no Di&aacute;rio Oficial do Munic&iacute;pio, de autoria do vereador Jair Tatto (PT), a Semana da Feira Nacional da Reforma Agr&aacute;ria entra para o Calend&aacute;rio Oficial de Eventos da Cidade.<br />
 <br />
 <br />
-O projeto foi votado e aprovado na C&acirc;mara Municipal de S&atilde;o Paulo e foi publicada oficialmente na Secret&aacute;ria Geral Parlamentar.</p>
+O projeto foi votado e aprovado na C&acirc;mara Municipal de S&atilde;o Paulo e foi publicado&nbsp;oficialmente na Secret&aacute;ria Geral Parlamentar.</p>
 
 <p><br />
-Segundo o Jair Tatto, o projeto tem o objetivo de dar maior visibilidade para a agricultura familiar e a produ&ccedil;&atilde;o org&acirc;nica, fruto do processo de Reforma Agr&aacute;ria em todo pa&iacute;s.</p>
+Segundo o Jair Tatto, &quot;o projeto tem o objetivo de dar maior visibilidade para a agricultura familiar e a produ&ccedil;&atilde;o org&acirc;nica, fruto do processo de Reforma Agr&aacute;ria em todo pa&iacute;s&quot;.</p>
 
 <p><br />
-J&aacute; para dire&ccedil;&atilde;o nacional do MST, embora seja apenas um passo, a aprova&ccedil;&atilde;o da lei mostra a import&acirc;ncia da feira da Reforma Agr&aacute;ria na cidade de S&atilde;o Paulo.</p>
+J&aacute; para dire&ccedil;&atilde;o nacional do MST, a aprova&ccedil;&atilde;o da lei mostra a import&acirc;ncia da feira da Reforma Agr&aacute;ria na cidade de S&atilde;o Paulo. E, embora seja apenas um passo,&nbsp;&nbsp;as portas do munic&iacute;pio estar&atilde;o muito mais abertas &agrave;&nbsp;realiza&ccedil;&atilde;o da feira no parque da &Aacute;gua Branca&quot;.</p>
 
 <p>&nbsp;</p>
 
