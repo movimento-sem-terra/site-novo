@@ -18,6 +18,13 @@ files:
     small: //farm66.staticflickr.com/65535/48679375047_40eedbcd1d_n.jpg
     title: WhatsApp Image 2019-09-04 at 17.14.26.jpeg
     $$hashKey: 05Q
+  - link: //farm66.staticflickr.com/65535/48679284416_dfc1c9e72b_b.jpg
+    original: //farm66.staticflickr.com/65535/48679284416_a9743feffa_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48679284416_dfc1c9e72b_t.jpg
+    medium: //farm66.staticflickr.com/65535/48679284416_dfc1c9e72b_z.jpg
+    small: //farm66.staticflickr.com/65535/48679284416_dfc1c9e72b_n.jpg
+    title: WhatsApp Image 2019-09-04 at 10.30.39.jpeg
+    $$hashKey: 0G5
 created_date: "2019-09-04T17:15:34-03:00"
 published: true
 releated_posts:
@@ -67,6 +74,10 @@ J&aacute; para dire&ccedil;&atilde;o nacional do MST, a aprova&ccedil;&atilde;o 
 A feira n&atilde;o foi autorizada pelo governo de Jo&atilde;o D&oacute;ria (PSDB) sob a justificativa de que a estrutura do parque n&atilde;o comporta o evento.&nbsp;</p>
 
 <p><br />
-O MST segue na tentativa de viabilizar solu&ccedil;&otilde;es para a realiza&ccedil;&atilde;o da atividade que agora, oficialmente, faz parte do calend&aacute;rio da cidade.</p>
+O MST segue na tentativa de viabilizar solu&ccedil;&otilde;es para a realiza&ccedil;&atilde;o da atividade que agora, oficialmente, faz parte do calend&aacute;rio da cidade.<br />
+<br />
+&nbsp;</p>
+
+<p style="text-align:center"><img alt="WhatsApp Image 2019-09-04 at 10.30.39.jpeg" height="744" src="//farm66.staticflickr.com/65535/48679284416_dfc1c9e72b_b.jpg" width="600" /></p>
 
 <p>&nbsp;</p>
