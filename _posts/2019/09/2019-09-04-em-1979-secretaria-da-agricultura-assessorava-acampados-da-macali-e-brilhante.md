@@ -187,9 +187,7 @@ O que mais marcou na Brilhante, para Teresinha, foi a luta do coletivo. &ldquo;S
 <a href="http://www.mst.org.br/2019/09/02/a-semente-do-mst-40-anos-da-ocupacao-macali-e-brilhante.html" target="_blank">A semente do MST: 40 anos da ocupa&ccedil;&atilde;o Macali e Brilhante</a><br />
 &nbsp;</p>
 
-<h1 itemprop="name" style="box-sizing: inherit; line-height: 39.36px; margin-bottom: 16px; font-size: 41px; margin-top: 0.2em; overflow-wrap: break-word; clear: both; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">7 de setembro de 1979: a retomada da luta pela terra</h1>
-
-<p>Confira tamb&eacute;m artigo anterior sobre o tema:</p>
+<h1 itemprop="name" style="box-sizing: inherit; line-height: 39.36px; margin-bottom: 16px; font-size: 41px; margin-top: 0.2em; overflow-wrap: break-word; clear: both; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">&nbsp;</h1>
 
 <p>A ocupa&ccedil;&atilde;o da granja Macali: marco na luta camponesa no norte do RS</p>
 
