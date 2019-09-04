@@ -7,7 +7,7 @@ tags:
   - tag: seminário
 title: "Em seminário, sociedade civil discute soberania alimentar, redução de agrotóxicos e acesso à terra"
 menu: reforma agrária
-section: cover
+section: null
 images_hd: //farm66.staticflickr.com/65535/48673935732_af3b2b9e08_b.jpg
 support_line: Debate defendeu a agroecologia como caminho para levar comida saudável para à população brasileira
 layout: post
