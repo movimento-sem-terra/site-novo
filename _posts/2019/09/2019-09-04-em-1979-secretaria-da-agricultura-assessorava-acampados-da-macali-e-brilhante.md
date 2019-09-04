@@ -1,6 +1,10 @@
 ---
 date: "2019-09-04T10:42:20-03:00"
-tags: []
+tags:
+  - tag: reforma-agrária
+  - tag: história
+  - tag: rio-grande-do-sul
+  - tag: mst
 title: "Em 1979, Secretaria da Agricultura assessorava acampados da Macali e Brilhante "
 support_line: "Confira os primeiros passos para o assentamento incluíam organizar os Sem Terra, neste especial sobre 40 anos das ocupações no RS"
 images_hd: //farm66.staticflickr.com/65535/48677717027_92db0eeb87_b.jpg
@@ -57,8 +61,17 @@ files:
     title: "9 - Casal Brachak e Marcio, Medico Veterinário. (Foto - Marcio Brachak).jpg"
     $$hashKey: 0EV
 created_date: "2019-09-04T12:10:50-03:00"
-published: false
-releated_posts: []
+published: true
+releated_posts:
+  - _posts/2019/08/2019-08-28-artigo-i-a-ocupacao-da-granja-macali-marco-na-luta-camponesa-no-norte-do-rs.md
+  - _posts/2019/08/2019-08-30-artigo-or-macali-e-brilhante-inspiram-criacao-do-mst-o-maior-movimento-social-agrario-de-todos-os-tempos.md
+  - _posts/2019/08/2019-08-29-artigo-or-o-mst-na-ocupacao-da-granja-macali.md
+  - _posts/2018/10/2018-10-31-se-continuar-agredindo-movimentos-depois-de-empossado-bolsonaro-cometera-crime.md
+  - _posts/2018/11/2018-11-13-muito-alem-da-ocupacao.md
+  - _posts/2019/07/2019-07-10-sem-terra-participam-da-15a-feira-latino-americana-de-economia-solidaria.md
+  - _posts/2019/07/2019-07-23-semana-do-agricultor-confira-as-acoes-da-loja-da-reforma-agraria-em-porto-alegre.md
+  - _posts/2019/08/2019-08-22-via-campesina-comercializa-diversidade-de-alimentos-na-42a-expointer.md
+  - _posts/2019/03/2019-03-15-centro-de-memoria-resgata-origem-do-maior-complexo-da-reforma-agraria-da-america-latina.md
 
 ---
 <p><br />
@@ -181,19 +194,16 @@ O que mais marcou na Brilhante, para Teresinha, foi a luta do coletivo. &ldquo;S
 
 <p>&nbsp;</p>
 
-<p>* Esta &eacute; terceira parte da reportagem sobre os&nbsp; 4<strong>0 anos das ocupa&ccedil;&otilde;es Brilhante e Macali, no Norte do RS</strong>. Os demais textos deste especial voc&ecirc; confere nos links abaixo:</p>
+<p><em>* Esta &eacute; terceira parte da reportagem sobre os&nbsp; <strong>40 anos das ocupa&ccedil;&otilde;es Brilhante e Macali, no Norte do RS</strong>. Os demais textos deste especial voc&ecirc; confere nos links abaixo:</em></p>
 
 <p><br />
-<a href="http://www.mst.org.br/2019/09/02/a-semente-do-mst-40-anos-da-ocupacao-macali-e-brilhante.html" target="_blank">A semente do MST: 40 anos da ocupa&ccedil;&atilde;o Macali e Brilhante</a><br />
+-&nbsp;<a href="http://www.mst.org.br/2019/09/02/a-semente-do-mst-40-anos-da-ocupacao-macali-e-brilhante.html" target="_blank">A semente do MST: 40 anos da ocupa&ccedil;&atilde;o Macali e Brilhante</a><br />
 &nbsp;</p>
 
-<h1 itemprop="name" style="box-sizing: inherit; line-height: 39.36px; margin-bottom: 16px; font-size: 41px; margin-top: 0.2em; overflow-wrap: break-word; clear: both; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">&nbsp;</h1>
+<p>-&nbsp;<a href="http://www.mst.org.br/2019/09/03/7-de-setembro-de-1979-a-retomada-da-luta-pela-terra.html">7 de setembro de 1979: a retomada da luta pela terra</a><br />
+&nbsp;</p>
 
-<p>A ocupa&ccedil;&atilde;o da granja Macali: marco na luta camponesa no norte do RS</p>
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;"><em style="box-sizing: inherit;">Confira tamb&eacute;m&nbsp;artigo anterior sobre o tema <a href="http://www.mst.org.br/2019/08/28/artigo-i-a-ocupacao-da-granja-macali-marco-na-luta-camponesa-no-norte-do-rs.html" target="_blank">aqui</a>, <a href="http://www.mst.org.br/2019/08/29/artigo-or-o-mst-na-ocupacao-da-granja-macali.html" target="_blank">aqui</a> e <a href="http://www.mst.org.br/2019/08/30/artigo-or-macali-e-brilhante-inspiram-criacao-do-mst-o-maior-movimento-social-agrario-de-todos-os-tempos.html" target="_blank">aqui</a>.</em></p>
 
-<p>Acampamento na Fazenda Sarandi vira simbolo de resist&ecirc;ncia</p>
-
-<p>Macali e Brilhante inspiram cria&ccedil;&atilde;o do MST</p>
-
-<p><br />
-**Editado por Fernanda Alc&acirc;ntara</p>
+<div><br />
+<em>**Editado por Fernanda Alc&acirc;ntara</em></div>
