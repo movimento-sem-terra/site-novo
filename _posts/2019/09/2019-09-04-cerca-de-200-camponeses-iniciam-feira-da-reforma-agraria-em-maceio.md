@@ -62,7 +62,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Feira dia 1 [2].jpg" height="467" src="//farm66.staticflickr.com/65535/48679043481_273ecf3df7_b.jpg" width="700" />
-<figcaption><em>Alimentos saud&aacute;veis das &aacute;reas de Reforma Agr&aacute;ria est&atilde;o sendo comercializados abaixo do pre&ccedil;o do mercado convencional.&nbsp;</em></figcaption>
+<figcaption><em>Alimentos saud&aacute;veis das &aacute;reas de Reforma Agr&aacute;ria est&atilde;o sendo comercializados abaixo do pre&ccedil;o do mercado convencional. Fotos: Leonardo Andr&eacute; e Alice Oliveira</em></figcaption>
 </figure>
 </div>
 
