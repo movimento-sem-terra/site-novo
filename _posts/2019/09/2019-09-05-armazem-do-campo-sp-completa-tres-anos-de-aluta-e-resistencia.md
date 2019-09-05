@@ -5,7 +5,7 @@ tags:
   - tag: agroecologia
   - tag: reforma-agrária
 menu: agricultura camponesa
-title: "Armazém do Campo-SP completa três anos de aluta e resistência "
+title: "Armazém do Campo-SP completa três anos de luta e resistência "
 support_line: "O espaço também virou ponto de encontro artístico, político, cultural e, sobretudo, de resistência diante da atual conjuntura"
 images_hd: //farm66.staticflickr.com/65535/48683990492_a677b5ffdc_b.jpg
 layout: post
@@ -41,14 +41,15 @@ releated_posts:
 <p><br />
 <em>Da P&aacute;gina do MST </em></p>
 
-<p>&nbsp;</p>
-
-<p>Tr&ecirc;s anos se passaram desde a inaugura&ccedil;&atilde;o do <a href="https://www.facebook.com/ArmazemDoCampoProdutosDaTerra/">Armaz&eacute;m do Campo-SP</a>. Foram anos de crescimento e de aprendizado que abriram&nbsp;caminho para mais lojas em todos o pa&iacute;s.</p>
+<p><br />
+Tr&ecirc;s anos se passaram desde a inaugura&ccedil;&atilde;o do <a href="https://www.facebook.com/ArmazemDoCampoProdutosDaTerra/">Armaz&eacute;m do Campo-SP</a>. Foram anos de crescimento e de aprendizado que abriram&nbsp;caminho para mais lojas em todos o pa&iacute;s.</p>
 
 <p><br />
-E hoje, al&eacute;m da comercializa&ccedil;&atilde;o dos produtos da Reforma Agr&aacute;ria, que s&atilde;o&nbsp;derivados do leite, caf&eacute;, mel, geleias, arroz, feij&atilde;o, achocolatados, cereais matinais, cervejas artesanais, verduras e legumes provenientes de assentamentos Sem Terra, cooperativas, agricultura&nbsp;familiar e de empresas parceiras, com produ&ccedil;&atilde;o org&acirc;nica e agroecol&oacute;gica.</p>
+Hoje o espa&ccedil;o vai&nbsp;al&eacute;m da comercializa&ccedil;&atilde;o dos produtos da Reforma Agr&aacute;ria, que s&atilde;o&nbsp;derivados do leite, caf&eacute;, mel, geleias, arroz, feij&atilde;o, achocolatados, cereais matinais, cervejas artesanais, verduras e legumes provenientes de assentamentos Sem Terra, cooperativas, agricultura&nbsp;familiar e de empresas parceiras, com produ&ccedil;&atilde;o org&acirc;nica e agroecol&oacute;gica.<br />
+&nbsp;</p>
 
-<p>O espa&ccedil;o tamb&eacute;m virou ponto de encontro art&iacute;stico, pol&iacute;tico, cultural e, sobretudo, de resist&ecirc;ncia diante da atual conjuntura.</p>
+<p>O espa&ccedil;o tamb&eacute;m virou ponto de encontro art&iacute;stico, pol&iacute;tico, cultural e, sobretudo, de resist&ecirc;ncia diante da atual conjuntura.<br />
+&nbsp;</p>
 
 <p>Para falar um pouco sobre essa trajet&oacute;ria, conversamos com o coordenador da Rede Armaz&eacute;m do Campo, Ademar Ludwig.</p>
 
@@ -68,7 +69,7 @@ Os pilares que nortearam essa cria&ccedil;&atilde;o se mant&eacute;m at&eacute; 
 <strong>Ao longo desses anos, al&eacute;m da venda de produtos, o Armaz&eacute;m tamb&eacute;m virou ponto de encontro e de acolhimento. Isso foi pensando desde o in&iacute;cio? Qual a dimens&atilde;o da cultura no Armaz&eacute;m?</strong></p>
 
 <p><br />
-A arte e a cultura sempre foram elementos fundamentais para o MST. Logo, isso s&atilde;o seria diferente no Armaz&eacute;m que tamb&eacute;m &eacute; um espa&ccedil;o do Movimento. A m&uacute;sica, a literatura, o teatro, o debate, as oficinas, rodas de conversa, sempre ter&atilde;o espa&ccedil;o dentro dessa estrutura. Um lugar onde campo e cidade possam se unir e se sentir entre os seus, entre iguais, entre classe trabalhadora.</p>
+A arte e a cultura sempre foram elementos fundamentais para o MST. Logo, isso s&atilde;o seria diferente no Armaz&eacute;m, que tamb&eacute;m &eacute; um espa&ccedil;o do Movimento. A m&uacute;sica, a literatura, o teatro, o debate, as oficinas, rodas de conversa, sempre ter&atilde;o espa&ccedil;o dentro dessa estrutura. Um lugar onde campo e cidade possam se unir e se sentir entre os seus, entre iguais, entre classe trabalhadora.</p>
 
 <p><br />
 <br />
@@ -77,31 +78,36 @@ A arte e a cultura sempre foram elementos fundamentais para o MST. Logo, isso s&
 <p><br />
 &Eacute; importante lembrar que os produtos aqui vendidos fazem parte <span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: 14px;">&mdash;&nbsp;</span>&nbsp;em sua grande maioria <span style="color: rgb(84, 84, 84); font-family: arial, sans-serif; font-size: 14px;">&mdash;&nbsp;</span>&nbsp; de um processo de luta pela terra no Brasil. A Reforma Agr&aacute;ria Popular passa pela constru&ccedil;&atilde;o de um novo modelo agr&iacute;cola que prop&otilde;e a democratiza&ccedil;&atilde;o da terra em contraponto ao agroneg&oacute;cio.<br />
 <br />
-Logo, a nossa luta &eacute; tamb&eacute;m pelo acesso de todas e todos &agrave; esses alimentos. Mas, de modo geral, os produtos org&acirc;nicos custam cerca de 30% a mais que os convencionais. Como incentivo aos produtores, a log&iacute;stica, se torna mais dif&iacute;cil, pois, a mercadoria n&atilde;o tem conservantes artificiais, nem veneno e, por isso, ficam mais vulner&aacute;veis a carunchos, mofo,&nbsp;etc. Isso, por si s&oacute; j&aacute; interfere no valor final.&nbsp;</p>
+<br />
+Logo, a nossa luta &eacute; tamb&eacute;m pelo acesso de todas e todos &agrave; esses alimentos. Mas, de modo geral, os produtos org&acirc;nicos custam cerca de 30% a mais que os convencionais. A log&iacute;stica&nbsp;se torna mais dif&iacute;cil, pois, a mercadoria n&atilde;o tem conservantes artificiais, nem veneno e, por isso, ficam mais vulner&aacute;veis a carunchos, mofo,&nbsp;etc. Isso&nbsp;por si s&oacute; j&aacute; interfere no valor final.&nbsp;<br />
+&nbsp;</p>
 
 <p><a href="http://www.mst.org.br/2019/03/14/conheca-a-maior-producao-de-arroz-organico-da-america-latina-do-mst.html">Nosso arroz</a>, por exemplo, que &eacute;&nbsp;de uma cooperativa do MST de mais de 500 fam&iacute;lias da Grande Porto Alegre, percorre&nbsp;centenas de quil&ocirc;metros para chegar &agrave; loja. Nesse processo, os cooperados organizam todas as etapas, da planta&ccedil;&atilde;o ao desenvolvimento da embalagem e a venda.</p>
 
-<p>&nbsp;</p>
-
-<p>Ainda assim, como boa parte &eacute; entregue de forma direta, ou seja, sem atravessador, os itens costumam chegar bem mais baratos ao consumidor. Sabemos que ainda n&atilde;o &eacute; o ideal, mas desde o in&iacute;cio trabalhamos de todas as formas poss&iacute;veis para que reduzir os custos para o consumidor. O acesso a uma alimenta&ccedil;&atilde;o saud&aacute;vel e de qualidade n&atilde;o deve ser privil&eacute;gio da classe m&eacute;dia, isso seria um contra-senso se fosse fomentado por um movimento como o MST.</p>
-
-<p>&nbsp;</p>
+<p><br />
+Ainda assim, como boa parte &eacute; entregue de forma direta, ou seja, sem atravessador, os itens costumam chegar bem mais baratos ao consumidor. Sabemos que ainda n&atilde;o &eacute; o ideal, mas desde o in&iacute;cio trabalhamos de todas as formas poss&iacute;veis para que reduzir os custos para o consumidor. O acesso a uma alimenta&ccedil;&atilde;o saud&aacute;vel e de qualidade n&atilde;o deve ser privil&eacute;gio da classe m&eacute;dia, isso seria um contra-senso se fosse fomentado por um movimento como o MST.</p>
 
 <p><br />
-<strong>Da loja de S&atilde;o Paulo nasceram outros espa&ccedil;os pelo pa&iacute;s o que transformou o Armaz&eacute;m do Campo em uma rede. Voc&ecirc; pode falar um pouco mais sobre isso?</strong></p>
+<strong>Da loja de S&atilde;o Paulo nasceram outros espa&ccedil;os pelo pa&iacute;s, o que transformou o Armaz&eacute;m do Campo em uma rede. Voc&ecirc; pode falar um pouco mais sobre isso?</strong></p>
 
 <p><br />
 Antes de inaugurar a loja em S&atilde;o Paulo, j&aacute; t&iacute;nhamos uma experi&ecirc;ncia de comercializa&ccedil;&atilde;o em Porto Alegre, que &eacute; uma loja que existe a mais de 15 anos, dentro do Mercado Municipal. Depois veio S&atilde;o Paulo, <a href="https://www.facebook.com/amazemdocampobh/">Belo Horizonte</a>, <a href="https://www.facebook.com/armazemcamporj/">Rio de Janeiro</a>, <a href="https://www.facebook.com/ArmazemdoCampoPE/">Recife</a> e <a href="http://Solar Cultural da Terra Maria Firmina dos Reis">Maranh&atilde;o</a>.<br />
 <br />
-Em constru&ccedil;&atilde;o temos espa&ccedil;os em Campo Grande, Bras&iacute;lia, Aracaju, Fortaleza, Salvador e S&atilde;o Bernardo do Campo. A nossa ideia &eacute; expandir cada vez mais e levar os furtos da Reforma Agr&aacute;ria para canto desse pa&iacute;s privilegiando sempre a produ&ccedil;&atilde;o local de cada estado e regi&atilde;o.&nbsp;</p>
+<br />
+Em constru&ccedil;&atilde;o temos espa&ccedil;os em Campo Grande, Bras&iacute;lia, Aracaju, Fortaleza, Salvador e S&atilde;o Bernardo do Campo. A nossa ideia &eacute; expandir cada vez mais e levar os frutos da Reforma Agr&aacute;ria para todos os cantos desse pa&iacute;s, privilegiando sempre a produ&ccedil;&atilde;o local de cada estado e regi&atilde;o.&nbsp;<br />
+&nbsp;</p>
 
 <p>N&atilde;o podemos esquecer que isso j&aacute; &eacute; feito em parte pelas feiras da Reforma Agr&aacute;ria, mas a ideia de ter um espa&ccedil;o de comercializa&ccedil;&atilde;o permanente &eacute; parte desse escopo de levar uma alimenta&ccedil;&atilde;o saud&aacute;vel e acess&iacute;vel para todas e todos.</p>
 
 <p><br />
-<strong>Desde o in&iacute;cio do ano o governo Bolsonaro (PSL), j&aacute; liberou mais de 290 tipo de agrot&oacute;xicos. Como o Armaz&eacute;m do Campo realiza esse di&aacute;logo acerca com a popula&ccedil;&atilde;o acerca da alimenta&ccedil;&atilde;o saud&aacute;vel em tempos como esses?&nbsp;</strong><br />
-<br />
+<strong>Desde o in&iacute;cio do ano, o governo Bolsonaro (PSL)&nbsp;j&aacute; liberou mais de 290 tipo de agrot&oacute;xicos. Como o Armaz&eacute;m do Campo realiza esse di&aacute;logo&nbsp;com a popula&ccedil;&atilde;o acerca da alimenta&ccedil;&atilde;o saud&aacute;vel em tempos como esses?&nbsp;</strong></p>
+
+<p><br />
 O trabalho de forma&ccedil;&atilde;o&nbsp;que realizamos aqui no Armaz&eacute;m do Campo &eacute; fundamental. Al&eacute;m de todo o esfor&ccedil;o j&aacute; citado anteriormente, dia ap&oacute;s dia&nbsp;n&oacute;s conversamos com cada um que entra aqui sobre a import&acirc;ncia da alimenta&ccedil;&atilde;o saud&aacute;vel, da agroecologia e, principalmente, da Reforma Agr&aacute;ria Popular. Hoje, a nossa&nbsp;possibilidade de avan&ccedil;o vai nessa dire&ccedil;&atilde;o. Sabemos ser essa uma batalha longa, mas enquanto MST e Armaz&eacute;m do Campo estamos dispostos a enfrent&aacute;-la.&nbsp;</p>
 
 <p>&nbsp;</p>
 
 <p><em>Para saber a programa&ccedil;&atilde;o de atividades de comemora&ccedil;&atilde;o dos 3 anos de Armaz&eacute;m do Campo-SP, clique <a href="https://www.facebook.com/events/360018074951544/">aqui</a>.&nbsp;</em></p>
+
+<p><br />
+<em>*Editada por Fernanda Alc&acirc;ntara</em></p>
