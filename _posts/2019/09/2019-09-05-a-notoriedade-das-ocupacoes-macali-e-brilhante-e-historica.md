@@ -82,20 +82,24 @@ Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Monumento em homenagem ao acampamento da Encruzilhada Natalino. Foto - Catiana de Medeiros-11.jpg" height="200" src="//farm66.staticflickr.com/65535/48683182676_305c884a79_b.jpg" width="300" />
-<figcaption>i</figcaption>
+<figcaption><em>Monumento em homenagem ao acampamento da<br />
+Encruzilhada Natalino. Foto: Catiana de Medeiros</em></figcaption>
 </figure>
 
 <p>L&iacute;dia Souza e Oliveira lembra da rela&ccedil;&atilde;o dos camponeses da Macali com os acampados da Encruzilhada Natalino. &ldquo;A nossa rela&ccedil;&atilde;o foi boa, porque eles n&atilde;o tinham experi&ecirc;ncia. L&aacute; baixou a pesada [militares], porque eles n&atilde;o podiam nem fazer reuni&atilde;o. Ent&atilde;o eles falavam para o pessoal aqui: precisamos nos reunir numa casa para n&oacute;s debatermos as coisas. E a gente aceitava, arrumava um lugar. At&eacute; com alimentos a gente ajudava&rdquo; recorda a assentada.</p>
 
 <p><br />
-<strong>Um olhar para a hist&oacute;ria: comemora&ccedil;&atilde;o dos 40 anos das ocupa&ccedil;&otilde;es</strong></p>
-
-<p>Devido a essas a&ccedil;&otilde;es e a import&acirc;ncia do recome&ccedil;o da conquista da terra, ser&aacute; realizada uma festa em comemora&ccedil;&atilde;o aos 40 anos das ocupa&ccedil;&otilde;es Macali e Brilhante. No dia 7 de setembro de 2019, as comunidades, juntamente com o MST, homenagear&atilde;o as fam&iacute;lias que acamparam e os seus apoiadores.&nbsp;</p>
-
-<p>(foto - Convite)</p>
-
-<p>O assentado na antiga Fazenda Annoni, Isa&iacute;as Vedovatto, fala sobre a notoriedade das ocupa&ccedil;&otilde;es Macali e Brilhante e a necessidade de festejar esse dia. &ldquo;Diante da conjuntura que a gente vive no pa&iacute;s, com esse governo que est&aacute; a&iacute;, essa comemora&ccedil;&atilde;o tem a import&acirc;ncia de tu voltar para tr&aacute;s e olhar na hist&oacute;ria pra poder agir, pra gente retomar, reanimar, pra seguir em frente em um processo de organiza&ccedil;&atilde;o, de luta, de mobiliza&ccedil;&atilde;o&rdquo;, declara.<br />
+<strong>Um olhar para a hist&oacute;ria: comemora&ccedil;&atilde;o dos 40 anos das ocupa&ccedil;&otilde;es</strong><br />
 &nbsp;</p>
+
+<p>Devido a essas a&ccedil;&otilde;es e a import&acirc;ncia do recome&ccedil;o da conquista da terra, ser&aacute; realizada uma festa em comemora&ccedil;&atilde;o aos 40 anos das ocupa&ccedil;&otilde;es Macali e Brilhante. No dia 7 de setembro de 2019, as comunidades, juntamente com o MST, homenagear&atilde;o as fam&iacute;lias que acamparam e os seus apoiadores.&nbsp;<br />
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Convite - 40 anos das Ocupações Macali e Brilhante.jpg" height="425" src="//farm66.staticflickr.com/65535/48683182556_9dd7ef8f22_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
+
+<p>O assentado na antiga Fazenda Annoni, Isa&iacute;as Vedovatto, fala sobre a notoriedade das ocupa&ccedil;&otilde;es Macali e Brilhante e a necessidade de festejar esse dia. &ldquo;Diante da conjuntura que a gente vive no pa&iacute;s, com esse governo que est&aacute; a&iacute;, essa comemora&ccedil;&atilde;o tem a import&acirc;ncia de tu voltar para tr&aacute;s e olhar na hist&oacute;ria pra poder agir, pra gente retomar, reanimar, pra seguir em frente em um processo de organiza&ccedil;&atilde;o, de luta, de mobiliza&ccedil;&atilde;o&rdquo;, declara.</p>
 
 <p>Vedovatto ainda destaca a aten&ccedil;&atilde;o que deve ser dada a esse marco hist&oacute;rico. &ldquo;Quando eu cortei a cerca pra entrar na Fazenda Annoni, eu n&atilde;o tinha no&ccedil;&atilde;o do significado que tinha sido a Macali e a Brilhante. Hoje, olhando pra tr&aacute;s, &eacute; que a gente compreende isso, porque a gente se moveu a partir de uma necessidade, mas essa necessidade era sustentada por algu&eacute;m que j&aacute; tinha come&ccedil;ado&rdquo;, argumenta.<br />
 &nbsp;</p>
@@ -109,4 +113,23 @@ Da P&aacute;gina do MST</em><br />
 <p>St&eacute;dile destaca o legado deixado pelas ocupa&ccedil;&otilde;es Macali e Brilhante. &ldquo;Acho que o principal legado &eacute; justamente a teimosia da luta. A coragem de lutar em tempos dif&iacute;ceis, ainda em ditadura, e da retomada de lutas massivas, com toda a fam&iacute;lia. Tamb&eacute;m foi muito importante as alian&ccedil;as que se constru&iacute;ram com a esquerda em geral, com os sindicatos, com as igrejas e com a sociedade. Nesse sentido, todas as lutas que deram origem ao MST foram constru&iacute;das sobre a base da solidariedade social. O povo brasileiro garantiu a vit&oacute;ria e ajudou a construir o MST como um todo, o tempo todo&rdquo;, finaliza.<br />
 &nbsp;</p>
 
-<p>&nbsp;</p>
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;"><em style="box-sizing: inherit;">* Esta &eacute; quarta parte da reportagem sobre os&nbsp;&nbsp;<strong style="box-sizing: inherit;">40 anos das ocupa&ccedil;&otilde;es Brilhante e Macali, no Norte do RS</strong>. Os demais textos deste especial voc&ecirc; confere nos links abaixo:</em></p>
+
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;"><br style="box-sizing: inherit;" />
+-&nbsp;<a href="http://www.mst.org.br/2019/09/02/a-semente-do-mst-40-anos-da-ocupacao-macali-e-brilhante.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration-line: none;" target="_blank">A semente do MST: 40 anos da ocupa&ccedil;&atilde;o Macali e Brilhante</a><br style="box-sizing: inherit;" />
+&nbsp;</p>
+
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">-&nbsp;<a href="http://www.mst.org.br/2019/09/03/7-de-setembro-de-1979-a-retomada-da-luta-pela-terra.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration-line: none;">7 de setembro de 1979: a retomada da luta pela terra</a><br style="box-sizing: inherit;" />
+&nbsp;</p>
+
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">-&nbsp;</p>
+
+<h1 itemprop="name" style="box-sizing: inherit; line-height: 39.36px; margin-bottom: 16px; font-size: 41px; margin-top: 0.2em; overflow-wrap: break-word; clear: both; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">Em 1979, Secretaria da Agricultura assessorava acampados da Macali e Brilhante</h1>
+
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;"><br />
+<em style="box-sizing: inherit;">Confira tamb&eacute;m&nbsp;artigo anterior sobre o tema&nbsp;<a href="http://www.mst.org.br/2019/08/28/artigo-i-a-ocupacao-da-granja-macali-marco-na-luta-camponesa-no-norte-do-rs.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration-line: none;" target="_blank">aqui</a>,&nbsp;<a href="http://www.mst.org.br/2019/08/29/artigo-or-o-mst-na-ocupacao-da-granja-macali.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration-line: none;" target="_blank">aqui</a>&nbsp;e&nbsp;<a href="http://www.mst.org.br/2019/08/30/artigo-or-macali-e-brilhante-inspiram-criacao-do-mst-o-maior-movimento-social-agrario-de-todos-os-tempos.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration-line: none;" target="_blank">aqui</a>.</em></p>
+
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;"><br />
+<em>**Editado por Fernanda Alc&acirc;ntara</em></p>
+
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">&nbsp;</p>
