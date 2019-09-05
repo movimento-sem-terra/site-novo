@@ -72,7 +72,7 @@ releated_posts:
 Tr&ecirc;s anos se passaram desde a inaugura&ccedil;&atilde;o do <a href="https://www.facebook.com/ArmazemDoCampoProdutosDaTerra/">Armaz&eacute;m do Campo-SP</a>. Foram anos de crescimento e de aprendizado que abriram&nbsp;caminho para mais lojas em todos o pa&iacute;s.</p>
 
 <p><br />
-Hoje, o espa&ccedil;o que vai&nbsp;al&eacute;m da comercializa&ccedil;&atilde;o dos produtos da Reforma Agr&aacute;ria, que s&atilde;o&nbsp;derivados do leite, caf&eacute;, mel, geleias, arroz, feij&atilde;o, achocolatados, cereais matinais, cervejas artesanais, verduras e legumes provenientes de assentamentos Sem Terra, cooperativas, agricultura&nbsp;familiar e de empresas parceiras, com produ&ccedil;&atilde;o org&acirc;nica e agroecol&oacute;gica,&nbsp;tamb&eacute;m virou ponto de encontro art&iacute;stico, pol&iacute;tico, cultural e, sobretudo, de resist&ecirc;ncia diante da atual conjuntura.<br />
+Hoje, o espa&ccedil;o que vai&nbsp;al&eacute;m da comercializa&ccedil;&atilde;o dos produtos da Reforma Agr&aacute;ria, que s&atilde;o&nbsp;derivados do leite, caf&eacute;, mel, geleias, arroz, feij&atilde;o, achocolatados, cereais matinais, cervejas artesanais, verduras e legumes provenientes de assentamentos Sem Terra, cooperativas, agricultura&nbsp;familiar e de empresas parceiras, com produ&ccedil;&atilde;o org&acirc;nica e agroecol&oacute;gica,&nbsp;tamb&eacute;m virou ponto de encontro art&iacute;stico, pol&iacute;tico, cultural e, sobretudo, de luta e resist&ecirc;ncia diante da atual conjuntura.<br />
 &nbsp;</p>
 
 <p>Para falar um pouco sobre essa trajet&oacute;ria, conversamos com o coordenador da Rede Armaz&eacute;m do Campo, Ademar Ludwig.</p>
