@@ -83,7 +83,7 @@ Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="7 - Luiz Flek, agrônomo. Foi coordenador do Lavourão na ocupação Macali. Foto - Maiara Rauber.jpg" height="242" src="//farm66.staticflickr.com/65535/48677717067_e36b15e0ab_b.jpg" width="300" />
-<figcaption><em>Luiz Flek, agr&ocirc;nomo,oi coordenador do Lavour&atilde;o<br />
+<figcaption><em>Luiz Flek, agr&ocirc;nomo, foi coordenador do Lavour&atilde;o<br />
 na ocupa&ccedil;&atilde;o Macali. Foto: Maiara Rauber</em></figcaption>
 </figure>
 
@@ -128,7 +128,7 @@ para a ocupa&ccedil;&atilde;o Macali. Foto: Maiara Rauber</em></figcaption>
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="8 -Casal Oliveira falam sobre as conquistas a partir da luta. Foto - Catiana de Medeiros-.jpg" height="200" src="//farm66.staticflickr.com/65535/48677544521_d56daf921c_b.jpg" width="300" />
-<figcaption><em>Casal Oliveira falam sobre as conquistas<br />
+<figcaption><em>Casal Oliveira fala sobre as conquistas<br />
 a partir da luta. Foto: Catiana de Medeiros</em></figcaption>
 </figure>
 
@@ -151,9 +151,8 @@ Dorm&eacute;lio Franciozi conta que participou de todo o processo da segunda ocu
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="9- Dormélio e Juraci estava na ocupação Brilhante e lembram das conquitas a partir da terra. Foto - Catiana de Medeiros.jpg" height="200" src="//farm66.staticflickr.com/65535/48677717027_92db0eeb87_b.jpg" width="300" />
-<figcaption><em>Dorm&eacute;lio e Juraci estava na ocupa&ccedil;&atilde;o<br />
-Brilhante e lembram das conquistas a partir<br />
-da terra. Foto: Catiana de Medeiros</em></figcaption>
+<figcaption><em>Dorm&eacute;lio e Juraci estavam na ocupa&ccedil;&atilde;o<br />
+Brilhante. Foto: Catiana de Medeiros</em></figcaption>
 </figure>
 
 <p>&ldquo;Junto com as mulheres conseguimos a conquista dos nossos direito. N&oacute;s conseguimos o tal&atilde;o de produtor, conseguimos ser sujeitos da hist&oacute;ria&rdquo;, enfatiza Juraci Machado da Silva, tamb&eacute;m assentada na Brilhante. Ela ainda cita outros direitos obtidos a partir da luta das mulheres e da terra. &ldquo;A nossa luta sempre foi por dignidade e reconhecimento. Pelo fim da discrimina&ccedil;&atilde;o das mulheres, por sal&aacute;rio justo, alimentos saud&aacute;veis, sa&uacute;de, preserva&ccedil;&atilde;o da natureza e da &aacute;gua&rdquo;, salienta.<br />
@@ -183,7 +182,7 @@ Foto: Catiana de Medeiros</em></figcaption>
 <p>J&aacute; para Teresinha Brachak, a maior conquista dela e de seu marido foi criar os filhos em terras de Reforma Agr&aacute;ria. &ldquo;Eu tenho orgulho de dizer que eu criei seis filhos em cima dessa terra que eu ajudei a conquistar com sofrimento, embaixo de lona. No in&iacute;cio n&atilde;o foi f&aacute;cil, foi dif&iacute;cil, mas nada que deixasse a gente desanimar. Se n&atilde;o fosse esse pedacinho de ch&atilde;o n&oacute;s n&atilde;o t&iacute;nhamos as conquistas que n&oacute;s temos hoje, de poder formar os filhos, de dar estudo&rdquo;, argumenta.</p>
 
 <figure class="image" style="float:left"><img alt="9 - Casal Brachak e Marcio, Medico Veterinário. (Foto - Marcio Brachak).jpg" height="212" src="//farm66.staticflickr.com/65535/48677544721_b4d6b79a36_b.jpg" width="300" />
-<figcaption><em>Casal Brachak e Marcio, M&eacute;dico Veterin&aacute;rio.<br />
+<figcaption><em>Casal Brachak e Marcio, m&eacute;dico veterin&aacute;rio.<br />
 Foto: Marcio Brachak</em></figcaption>
 </figure>
 
