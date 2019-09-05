@@ -4,7 +4,7 @@ tags:
   - tag: feira-reforma-agrária
   - tag: alagoas
 title: "Feira em Alagoas realiza conferência sobre alimentação saudável em praça pública\n"
-support_line: "Conferência “Alimentação Saudável: um direito de todas e de todos” acontece durante a 20ª Feira da Reforma Agrária do MST no estado"
+support_line: "Com a presença de parlamentar e atriz, conferência “Alimentação Saudável: um direito de todas e de todos” acontece durante a 20ª Feira da Reforma Agrária do MST no estado"
 menu: reforma agrária
 images_hd: //farm66.staticflickr.com/65535/48683388121_3ca3afa68b_b.jpg
 layout: post
