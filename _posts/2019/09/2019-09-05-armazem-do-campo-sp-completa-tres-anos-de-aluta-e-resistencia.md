@@ -38,13 +38,13 @@ files:
     small: //farm66.staticflickr.com/65535/48683725548_19e08e31f7_n.jpg
     title: 3_3.jpg
     $$hashKey: 0BS
-  - link: //farm66.staticflickr.com/65535/48684433651_eec789c425_b.jpg
-    original: //farm66.staticflickr.com/65535/48684433651_c7de360d93_o.png
-    thumbnail: //farm66.staticflickr.com/65535/48684433651_eec789c425_t.jpg
-    medium: //farm66.staticflickr.com/65535/48684433651_eec789c425_z.jpg
-    small: //farm66.staticflickr.com/65535/48684433651_eec789c425_n.jpg
-    title: Armazém do Campo-SP (1).png
-    $$hashKey: 0RR
+  - link: //farm66.staticflickr.com/65535/48684266478_31bf35dd80_b.jpg
+    original: //farm66.staticflickr.com/65535/48684266478_42e89362f4_o.png
+    thumbnail: //farm66.staticflickr.com/65535/48684266478_31bf35dd80_t.jpg
+    medium: //farm66.staticflickr.com/65535/48684266478_31bf35dd80_z.jpg
+    small: //farm66.staticflickr.com/65535/48684266478_31bf35dd80_n.jpg
+    title: Armazém do Campo-SP (2).png
+    $$hashKey: 11A
 created_date: "2019-09-05T13:32:02-03:00"
 published: true
 releated_posts:
@@ -145,9 +145,7 @@ O trabalho de forma&ccedil;&atilde;o&nbsp;que realizamos aqui no Armaz&eacute;m 
 <br />
 &nbsp;</p>
 
-<p style="text-align:center"><img alt="Armazém do Campo-SP (1).png" src="//farm66.staticflickr.com/65535/48684433651_eec789c425_b.jpg" /></p>
-
-<p>&nbsp;</p>
+<p style="text-align:center"><img alt="Armazém do Campo-SP (2).png" src="//farm66.staticflickr.com/65535/48684266478_31bf35dd80_b.jpg" /></p>
 
 <p style="line-height: 15.6px;"><em>*Editada por Fernanda Alc&acirc;ntara</em></p>
 
