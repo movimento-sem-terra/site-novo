@@ -39,7 +39,7 @@ files:
     title: Monumento em homenagem ao acampamento da Encruzilhada Natalino. Foto - Catiana de Medeiros-11.jpg
     $$hashKey: 0Z1
 created_date: "2019-09-05T11:25:25-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/08/2019-08-28-artigo-i-a-ocupacao-da-granja-macali-marco-na-luta-camponesa-no-norte-do-rs.md
   - _posts/2019/08/2019-08-29-artigo-or-o-mst-na-ocupacao-da-granja-macali.md
@@ -119,12 +119,10 @@ Encruzilhada Natalino. Foto: Catiana de Medeiros</em></figcaption>
 -&nbsp;<a href="http://www.mst.org.br/2019/09/02/a-semente-do-mst-40-anos-da-ocupacao-macali-e-brilhante.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration-line: none;" target="_blank">A semente do MST: 40 anos da ocupa&ccedil;&atilde;o Macali e Brilhante</a><br style="box-sizing: inherit;" />
 &nbsp;</p>
 
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">-&nbsp;<a href="http://www.mst.org.br/2019/09/03/7-de-setembro-de-1979-a-retomada-da-luta-pela-terra.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration-line: none;">7 de setembro de 1979: a retomada da luta pela terra</a><br style="box-sizing: inherit;" />
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">-&nbsp;<a href="http://www.mst.org.br/2019/09/03/7-de-setembro-de-1979-a-retomada-da-luta-pela-terra.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration-line: none;" target="_blank">7 de setembro de 1979: a retomada da luta pela terra</a><br style="box-sizing: inherit;" />
 &nbsp;</p>
 
-<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">-&nbsp;</p>
-
-<h1 itemprop="name" style="box-sizing: inherit; line-height: 39.36px; margin-bottom: 16px; font-size: 41px; margin-top: 0.2em; overflow-wrap: break-word; clear: both; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">Em 1979, Secretaria da Agricultura assessorava acampados da Macali e Brilhante</h1>
+<p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">-&nbsp;<a href="http://www.mst.org.br/2019/09/04/em-1979-secretaria-da-agricultura-assessorava-acampados-da-macali-e-brilhante.html" target="_blank">Em 1979, Secretaria da Agricultura assessorava acampados da Macali e Brilhante</a></p>
 
 <p style="box-sizing: inherit; margin: 0px 0px 11px; font-size: 1.1em; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;"><br />
 <em style="box-sizing: inherit;">Confira tamb&eacute;m&nbsp;artigo anterior sobre o tema&nbsp;<a href="http://www.mst.org.br/2019/08/28/artigo-i-a-ocupacao-da-granja-macali-marco-na-luta-camponesa-no-norte-do-rs.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration-line: none;" target="_blank">aqui</a>,&nbsp;<a href="http://www.mst.org.br/2019/08/29/artigo-or-o-mst-na-ocupacao-da-granja-macali.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration-line: none;" target="_blank">aqui</a>&nbsp;e&nbsp;<a href="http://www.mst.org.br/2019/08/30/artigo-or-macali-e-brilhante-inspiram-criacao-do-mst-o-maior-movimento-social-agrario-de-todos-os-tempos.html" style="box-sizing: inherit; color: rgb(0, 100, 0); text-decoration-line: none;" target="_blank">aqui</a>.</em></p>
