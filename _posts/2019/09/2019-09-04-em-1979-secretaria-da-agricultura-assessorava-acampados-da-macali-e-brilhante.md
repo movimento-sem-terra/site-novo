@@ -72,6 +72,7 @@ releated_posts:
   - _posts/2019/07/2019-07-23-semana-do-agricultor-confira-as-acoes-da-loja-da-reforma-agraria-em-porto-alegre.md
   - _posts/2019/08/2019-08-22-via-campesina-comercializa-diversidade-de-alimentos-na-42a-expointer.md
   - _posts/2019/03/2019-03-15-centro-de-memoria-resgata-origem-do-maior-complexo-da-reforma-agraria-da-america-latina.md
+label: special-stories
 
 ---
 <p><br />
