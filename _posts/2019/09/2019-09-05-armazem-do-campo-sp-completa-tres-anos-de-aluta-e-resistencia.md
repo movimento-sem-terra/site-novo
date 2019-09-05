@@ -10,13 +10,6 @@ support_line: "O espaço também virou ponto de encontro artístico, político, 
 images_hd: //farm66.staticflickr.com/65535/48683725548_19e08e31f7_b.jpg
 layout: post
 files:
-  - link: //farm66.staticflickr.com/65535/48683690278_f249e569ca_b.jpg
-    original: //farm66.staticflickr.com/65535/48683690278_f81cea4e98_o.png
-    thumbnail: //farm66.staticflickr.com/65535/48683690278_f249e569ca_t.jpg
-    medium: //farm66.staticflickr.com/65535/48683690278_f249e569ca_z.jpg
-    small: //farm66.staticflickr.com/65535/48683690278_f249e569ca_n.jpg
-    title: Armazém do Campo-SP.png
-    $$hashKey: 0BD
   - link: //farm66.staticflickr.com/65535/48684051416_d65aa6ccdb_b.jpg
     original: //farm66.staticflickr.com/65535/48684051416_aa74657c76_o.jpg
     thumbnail: //farm66.staticflickr.com/65535/48684051416_d65aa6ccdb_t.jpg
@@ -45,6 +38,13 @@ files:
     small: //farm66.staticflickr.com/65535/48683725548_19e08e31f7_n.jpg
     title: 3_3.jpg
     $$hashKey: 0BS
+  - link: //farm66.staticflickr.com/65535/48684433651_eec789c425_b.jpg
+    original: //farm66.staticflickr.com/65535/48684433651_c7de360d93_o.png
+    thumbnail: //farm66.staticflickr.com/65535/48684433651_eec789c425_t.jpg
+    medium: //farm66.staticflickr.com/65535/48684433651_eec789c425_z.jpg
+    small: //farm66.staticflickr.com/65535/48684433651_eec789c425_n.jpg
+    title: Armazém do Campo-SP (1).png
+    $$hashKey: 0RR
 created_date: "2019-09-05T13:32:02-03:00"
 published: true
 releated_posts:
@@ -145,7 +145,7 @@ O trabalho de forma&ccedil;&atilde;o&nbsp;que realizamos aqui no Armaz&eacute;m 
 <br />
 &nbsp;</p>
 
-<p style="text-align:center"><img alt="Armazém do Campo-SP.png" src="//farm66.staticflickr.com/65535/48683690278_f249e569ca_b.jpg" /></p>
+<p style="text-align:center"><img alt="Armazém do Campo-SP (1).png" src="//farm66.staticflickr.com/65535/48684433651_eec789c425_b.jpg" /></p>
 
 <p>&nbsp;</p>
 
