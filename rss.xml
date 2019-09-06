@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>O açoite que doeu em nós  </title>
+				<description>Artigo reflete sobre caso do jovem que foi açoitado em São Paulo</description>
+				<pubDate>Fri, 06 Sep 2019 10:46:41 -0300</pubDate>
+				<link>http://www.mst.org.br/2019/09/06/o-acoite-que-doeu-em-nos.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2019/09/06/o-acoite-que-doeu-em-nos.html</guid>
+			</item>
+		
+			<item>
 				<title>Conciliação prorroga permanência de acampamento do MST em Passo Fundo</title>
 				<description>Audiência garante que famílias fiquem por mais dois anos nas terras do ex-advogado Maurício Dal Agnol</description>
 				<pubDate>Thu, 05 Sep 2019 18:02:28 -0300</pubDate>
@@ -81,14 +89,6 @@
 				<pubDate>Thu, 05 Sep 2019 11:19:08 -0300</pubDate>
 				<link>http://www.mst.org.br/2019/09/05/a-notoriedade-das-ocupacoes-macali-e-brilhante-e-historica.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2019/09/05/a-notoriedade-das-ocupacoes-macali-e-brilhante-e-historica.html</guid>
-			</item>
-		
-			<item>
-				<title>Mais de 300 lideranças se unem em luta pela Soberania Nacional</title>
-				<description>Frente Popular e Parlamentar em Defesa da Soberania Nacional foi lançada nesta quarta-feira (4) em Brasília (DF)</description>
-				<pubDate>Wed, 04 Sep 2019 17:31:32 -0300</pubDate>
-				<link>http://www.mst.org.br/2019/09/04/mais-de-300-liderancas-se-unem-em-luta-pela-soberania-nacional.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2019/09/04/mais-de-300-liderancas-se-unem-em-luta-pela-soberania-nacional.html</guid>
 			</item>
 		
 	</channel>
