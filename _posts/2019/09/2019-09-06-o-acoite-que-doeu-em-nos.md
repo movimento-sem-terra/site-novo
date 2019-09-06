@@ -1,6 +1,8 @@
 ---
 date: "2019-09-06T10:46:41-03:00"
-tags: []
+tags:
+  - tag: violência
+  - tag: artigo
 title: "O açoite que doeu em nós  "
 support_line: Artigo reflete sobre caso do jovem que foi açoitado em São Paulo
 images_hd: //farm66.staticflickr.com/65535/48688542622_483e112dc9_b.jpg
@@ -16,7 +18,11 @@ files:
     $$hashKey: "030"
 created_date: "2019-09-06T11:13:29-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2019/07/2019-07-19-mais-uma-vitima-do-odio.md
+  - _posts/2019/07/2019-07-24-a-gente-vai-continuar-morrendo-com-as-armas-ilegais-de-fazendeiros-critica-mst.md
+  - _posts/2019/09/2019-09-03-o-grito-dos-excluidos-continua-pedindo-a-vida-em-primeiro-lugar.md
+label: articles
 
 ---
 <p>&nbsp;</p>
