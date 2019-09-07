@@ -121,4 +121,19 @@ Jamais alcan&ccedil;ar&iacute;amos a consolida&ccedil;&atilde;o de uma estrutura
 <p>Algumas atividades est&atilde;o previstas. &Eacute; importante que todas e todos possam se somar e fortalecer esse processo de mobiliza&ccedil;&atilde;o em solidariedade e defesa do Centro de Forma&ccedil;&atilde;o Paulo Freire. Companheirada, estejamos todas e todos atentos ao chamamento aos nossos pr&oacute;ximos passos ao desenrolar a parti das&nbsp; negocia&ccedil;&otilde;es e das decis&otilde;es judiciais.<br />
 &nbsp;</p>
 
+<p>Confira alguns direcionamentos:<br />
+<br />
+07/09 -&nbsp; Grito dos Exclu&iacute;dos, em v&aacute;rias cidades do Brasil, aqui em Caruaru e no Recife, vamos politicamente informar as entidades, os movimentos e a popula&ccedil;&atilde;o sobre a situa&ccedil;&atilde;o.<br />
+<br />
+09/09 - Estaremos convocando uma coletiva de imprensa no Armaz&eacute;m do Campo em Recife, para informar aos jornalista, imprensa e blogs.<br />
+<br />
+11/09 - Ainda no Armaz&eacute;m do Campo, reuni&atilde;o com os educadores, professores na &aacute;rea da educa&ccedil;&atilde;o em defesa do Centro de Forma&ccedil;&atilde;o Paulo Freire.<br />
+<br />
+12/09 - Reuni&atilde;o com os profissionais do jornalismo, os jornalista, os estudantes para&nbsp; discutir estrat&eacute;gia e uma ampla campanha de comunica&ccedil;&atilde;o.&nbsp;</p>
+
+<p>13/09 - Reuni&atilde;o com os deputados&nbsp; estaduais, federais&nbsp; na assembl&eacute;ia legislativa e representa&ccedil;&atilde;o da comiss&atilde;o dos direitos humanos da casa.&nbsp;</p>
+
+<p><br />
+Do ponto de vista interno estamos construindo possibilidades de mobiliza&ccedil;&atilde;o.&nbsp; Ser&aacute; feita vig&iacute;lia em solidariedade no Centro de Forma&ccedil;&atilde;o Paulo Freire. A Comiss&atilde;o de Professores Ind&iacute;genas de Pernambuco (COPIPE) far&aacute; um momento cultural em uni&atilde;o dos povos ind&iacute;genas em solidariedade ao Centro de Forma&ccedil;&atilde;o Paulo Freire. Bem como teremos atividades do movimento sindical e momento inter-religioso.</p>
+
 <p>N&atilde;o vai ter despejo! Vai ter luta!</p>
