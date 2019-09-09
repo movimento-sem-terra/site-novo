@@ -40,7 +40,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p><em>Por Leonardo Boff<br />
+<p><em>Por Leonardo Boff*<br />
 Do site Franciscanos</em></p>
 
 <p>&nbsp;</p>
