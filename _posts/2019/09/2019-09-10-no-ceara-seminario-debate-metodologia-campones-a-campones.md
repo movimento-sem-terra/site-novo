@@ -91,7 +91,7 @@ Desde de maio de 2018, a metodologia horizontal deste m&eacute;todo&nbsp;vem sen
 <p>Ainda nesta primeira fase, o projeto foi composto pela&nbsp;sistematiza&ccedil;&atilde;o do Diagn&oacute;stico R&aacute;pido Participativo (DRP) e uma reuni&atilde;o para definir os promotores que iniciar&atilde;o os interc&acirc;mbios e a socializa&ccedil;&atilde;o&nbsp;de experi&ecirc;ncias e saberes com as demais fam&iacute;lias.</p>
 
 <p><br />
-Maria Gorete, uma das benefici&aacute;rias do projeto,&nbsp;conta como foi o processo de&nbsp;materialidade das a&ccedil;&otilde;es no quintal produtivo de sua resid&ecirc;ncia. &quot;Esfor&ccedil;o, dedica&ccedil;&atilde;o, coragem e zelo s&atilde;o essenciais do nosso trabalho, e eu&nbsp;desejo de cora&ccedil;&atilde;o que&nbsp;outros tamb&eacute;m possam fazer estas a&ccedil;&otilde;es no presente e no futuro&quot;, afirmou.</p>
+Maria Gorete, uma das promotoras do projeto,&nbsp;conta como foi o processo de&nbsp;materialidade das a&ccedil;&otilde;es no quintal produtivo de sua resid&ecirc;ncia. &quot;Esfor&ccedil;o, dedica&ccedil;&atilde;o, coragem e zelo s&atilde;o essenciais do nosso trabalho, e eu&nbsp;desejo de cora&ccedil;&atilde;o que&nbsp;outros tamb&eacute;m possam fazer estas a&ccedil;&otilde;es no presente e no futuro&quot;, afirmou.</p>
 
 <p><br />
 O modo de vida das fam&iacute;lias desde o in&iacute;cio do assentamento &eacute; de um processo coletivo e a&nbsp; produ&ccedil;&atilde;o &eacute; mista. Mant&ecirc;m ra&iacute;zes e la&ccedil;os de solidariedade, sonhos, as lutas em defesa da terra como patrim&ocirc;nio de todos, viv&ecirc;ncia em comunidade, formas de lidar e cuidar da natureza em sua plenitude.</p>
