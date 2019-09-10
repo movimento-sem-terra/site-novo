@@ -72,8 +72,6 @@ releated_posts:
 </figure>
 </div>
 
-<p>l da 24&ordf; Vara Federal de Caruaru, que determinou imediata reintegra&ccedil;&atilde;o de posse.</p>
-
 <p>&nbsp;</p>
 
 <p><strong>LEIA MAIS:&nbsp;</strong><a href="http://www.mst.org.br/2019/09/05/centro-de-formacao-do-mst-em-pe-sofre-com-tentativa-de-despejo.html" target="_blank">Centro de forma&ccedil;&atilde;o do MST em PE sofre com tentativa de despejo</a></p>
