@@ -72,20 +72,9 @@ releated_posts:
 </figure>
 </div>
 
-<p>&nbsp;</p>
-
-<p><em>Da P&aacute;gina do MST</em><br />
-&nbsp;</p>
+<p>l da 24&ordf; Vara Federal de Caruaru, que determinou imediata reintegra&ccedil;&atilde;o de posse.</p>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Neste fim de semana (14), ser&aacute; montado um acampamento permanente em defesa do Centro de Forma&ccedil;&atilde;o Paulo Freire, localizado no Assentamento Normandia, na cidade de Caruaru, em Pernambuco.</p>
-
-<p><br />
-O objetivo do acampamento &eacute; mostrar resist&ecirc;ncia diante da decis&atilde;o de despejo solicitada pelo Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra), e aceito na &uacute;ltima quinta (5) pelo&nbsp;juiz&nbsp;federal da 24&ordf; Vara Federal de Caruaru, que determinou imediata reintegra&ccedil;&atilde;o de posse.<br />
-&nbsp;</p>
 
 <p><strong>LEIA MAIS:&nbsp;</strong><a href="http://www.mst.org.br/2019/09/05/centro-de-formacao-do-mst-em-pe-sofre-com-tentativa-de-despejo.html" target="_blank">Centro de forma&ccedil;&atilde;o do MST em PE sofre com tentativa de despejo</a></p>
 
