@@ -6,7 +6,7 @@ tags:
   - tag: ceará
   - tag: experiências
 support_line: "Encontro mostrou experiência da metodologia aplicada no território do assentamento Santana, município de Monsenhor Tabosa (CE)"
-title: "No Ceará, seminário debate metodologia Camponês a Camponês "
+title: "No Ceará, seminário debate metodologia \"Camponês a Camponês\""
 menu: agricultura camponesa
 images_hd: //farm66.staticflickr.com/65535/48712282037_2215611419_b.jpg
 layout: post
