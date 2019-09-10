@@ -58,6 +58,7 @@ releated_posts:
   - _posts/2019/09/2019-09-07-o-centro-de-formacao-paulo-freire-e-patrimonio-popular.md
   - _posts/2019/09/2019-09-05-centro-de-formacao-do-mst-em-pe-sofre-com-tentativa-de-despejo.md
   - _posts/2019/09/2019-09-06-mst-recebe-apoio-apos-pedido-de-despejo-do-centro-de-formacao-paulo-freire.md
+section: featured-news
 
 ---
 <p>
