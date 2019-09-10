@@ -51,7 +51,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="CAMPONES A CAMPONESA 4.jpg" height="525" src="//farm66.staticflickr.com/65535/48712118376_2095a59d49_b.jpg" width="700" />
-<figcaption><em>Semin&aacute;rio contou com a colabora&ccedil;&atilde;o de&nbsp;Lia Pinheiro, da Universidade Estadual do Cear&aacute; (UECE), e do militante Peter Rosset da Via Campesina Internacional</em></figcaption>
+<figcaption><em>Semin&aacute;rio contou com a colabora&ccedil;&atilde;o de&nbsp;Lia Pinheiro, da Universidade Estadual do Cear&aacute; (UECE), e do militante Peter Rosset da Via Campesina Internacional. Fotos: Comunica&ccedil;&atilde;o do MST/CE</em></figcaption>
 </figure>
 </div>
 
