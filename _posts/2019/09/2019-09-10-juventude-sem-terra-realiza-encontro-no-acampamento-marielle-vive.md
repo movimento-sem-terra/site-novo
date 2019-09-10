@@ -5,7 +5,7 @@ tags:
   - tag: são-paulo
   - tag: encontro-estadual
 title: "Juventude Sem Terra realiza encontro no acampamento Marielle Vive!"
-support_line: "Debate incluiu o papel da juventude diante do clima político de ódio, de retirada de direitos o dano ambiental"
+support_line: "Debate incluiu o papel da juventude diante do clima político de ódio, de retirada de direitos e de danos ambientais"
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48711367056_fa5a4a094b_b.jpg
 layout: post
@@ -56,7 +56,7 @@ Da P&aacute;gina do MST</em><br />
 <p>O &uacute;ltimo domingo (8)&nbsp; foi marcado por muita anima&ccedil;&atilde;o e batucada no acampamento Marielle Vive!, em Valinhos (SP). Reafirmando a convic&ccedil;&atilde;o da luta pela terra, a juventude organizou um encontro regional sob o lema &quot;Juventude em resist&ecirc;ncia, na luta pela Vida!&quot;.<br />
 &nbsp;</p>
 
-<p>Participaram do encontro aproximadamente 50 jovens, entre representantes do coletivo de juventude, esporte e cultura do acampamento e assentados e assentadas da regi&atilde;o de Campinas.<br />
+<p>Participaram do encontro aproximadamente 50 jovens, entre representantes do coletivo de juventude, esporte e cultura do acampamento, al&eacute;m de assentados(as) da regi&atilde;o de Campinas.<br />
 &nbsp;</p>
 
 <p>A programa&ccedil;&atilde;o se dividiu entre momentos de estudo e debate sobre a conjuntura, o papel da juventude nesse momento hist&oacute;rico e oficinas. Na an&aacute;lise de conjuntura foi debatida a import&acirc;ncia de defender a soberania nacional, situando o papel da Reforma Agr&aacute;ria na defesa dos nossos recursos, da terra, do territ&oacute;rio e da Amaz&ocirc;nia.&nbsp;<br />
