@@ -51,7 +51,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="[153] PARÁ - Fotos João Laet.jpeg" height="466" src="//farm66.staticflickr.com/65535/48716893558_1bfa7bf498_b.jpg" width="700" />
-<figcaption><em>&ldquo;Se tiver que sair daqui n&atilde;o temos para onde ir. N&oacute;s n&atilde;o temos condi&ccedil;&atilde;o de comprar um peda&ccedil;o de terra&rdquo;, afirma Mikaelli Aparecida. Foto: Jo&atilde;o Laet&nbsp;</em><img alt="[154] PARÁ - Fotos João Laet.jpeg" src="//farm66.staticflickr.com/65535/48717229961_5f47707763_b.jpg" /></figcaption>
+<figcaption><em>&ldquo;Se tiver que sair daqui n&atilde;o temos para onde ir. N&oacute;s n&atilde;o temos condi&ccedil;&atilde;o de comprar um peda&ccedil;o de terra&rdquo;, afirma Mikaelli Aparecida. Foto: Jo&atilde;o Laet&nbsp;</em></figcaption>
 </figure>
 </div>
 
@@ -82,17 +82,25 @@ C&acirc;ndido Matias da Silva, de 64 anos, mostra orgulhoso tudo o que plantou n
 <p>Tr&ecirc;s dias ap&oacute;s a posse do presidente Jair Bolsonaro, o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) determinou a suspens&atilde;o de todos os processos para compra e desapropria&ccedil;&atilde;o de terras. Ap&oacute;s a Rep&oacute;rter Brasil revelar a decis&atilde;o, o Incra recuou da medida. No final de mar&ccedil;o, por&eacute;m, o &oacute;rg&atilde;o voltou a suspender a reforma agr&aacute;ria no pa&iacute;s.&nbsp;<br />
 &nbsp;</p>
 
-<p>Desde que Bolsonaro tomou posse n&atilde;o houve nenhuma desapropria&ccedil;&atilde;o de terra para o programa de reforma agr&aacute;ria. Tamb&eacute;m n&atilde;o foi criado nenhum projeto de assentamento. Os dados foram obtidos pela Rep&oacute;rter Brasil por meio da Lei de Acesso &agrave; Informa&ccedil;&atilde;o ap&oacute;s apresenta&ccedil;&atilde;o de recurso, j&aacute; que o Incra havia negado a informa&ccedil;&atilde;o.&nbsp;&nbsp;</p>
+<p>Desde que Bolsonaro tomou posse n&atilde;o houve nenhuma desapropria&ccedil;&atilde;o de terra para o programa de reforma agr&aacute;ria. Tamb&eacute;m n&atilde;o foi criado nenhum projeto de assentamento. Os dados foram obtidos pela Rep&oacute;rter Brasil por meio da Lei de Acesso &agrave; Informa&ccedil;&atilde;o ap&oacute;s apresenta&ccedil;&atilde;o de recurso, j&aacute; que o Incra havia negado a informa&ccedil;&atilde;o.&nbsp;&nbsp;<br />
+&nbsp;</p>
 
-<p>O Incra tem atuado apenas na segunda etapa da reforma agr&aacute;ria, que &eacute; a legaliza&ccedil;&atilde;o de terras j&aacute; desapropriadas e emiss&atilde;o de t&iacute;tulos definitivos de posse da terra. Foram emitidos 852 t&iacute;tulos definitivos e 14.868 contratos de concess&atilde;o de uso de janeiro a setembro. A estrat&eacute;gia, na pr&aacute;tica, significa o fim da reforma agr&aacute;ria, pois prioriza t&iacute;tulos individuais em detrimento da cria&ccedil;&atilde;o da infra-estrutura necess&aacute;ria para um assentamento.</p>
+<p>O Incra tem atuado apenas na segunda etapa da reforma agr&aacute;ria, que &eacute; a legaliza&ccedil;&atilde;o de terras j&aacute; desapropriadas e emiss&atilde;o de t&iacute;tulos definitivos de posse da terra. Foram emitidos 852 t&iacute;tulos definitivos e 14.868 contratos de concess&atilde;o de uso de janeiro a setembro. A estrat&eacute;gia, na pr&aacute;tica, significa o fim da reforma agr&aacute;ria, pois prioriza t&iacute;tulos individuais em detrimento da cria&ccedil;&atilde;o da infra-estrutura necess&aacute;ria para um assentamento.<br />
+&nbsp;</p>
 
-<p>Foi com base no fim da reforma agr&aacute;ria que o juiz fundamentou sua decis&atilde;o. Durante a audi&ecirc;ncia que decidiu o despejo, o juiz Amarildo Mazutti disse que &eacute; sens&iacute;vel &agrave;s quest&otilde;es sociais, mas que n&atilde;o pode &ldquo;realizar pol&iacute;ticas p&uacute;blicas de responsabilidade do governo federal e do Incra&rdquo;.&nbsp;</p>
+<p>Foi com base no fim da reforma agr&aacute;ria que o juiz fundamentou sua decis&atilde;o. Durante a audi&ecirc;ncia que decidiu o despejo, o juiz Amarildo Mazutti disse que &eacute; sens&iacute;vel &agrave;s quest&otilde;es sociais, mas que n&atilde;o pode &ldquo;realizar pol&iacute;ticas p&uacute;blicas de responsabilidade do governo federal e do Incra&rdquo;.&nbsp;<br />
+&nbsp;</p>
 
-<p>A decis&atilde;o de Mazutti deixou de fora a &aacute;rea onde se concentram as casas. Com isso, cerca de metade das fam&iacute;lias, segundo o MST, n&atilde;o deve perder as moradias, mas ficar&aacute; sem as &aacute;reas onde plantam. Procurado, o juiz n&atilde;o quis conceder entrevista.&nbsp;</p>
+<p>A decis&atilde;o de Mazutti deixou de fora a &aacute;rea onde se concentram as casas. Com isso, cerca de metade das fam&iacute;lias, segundo o MST, n&atilde;o deve perder as moradias, mas ficar&aacute; sem as &aacute;reas onde plantam. Procurado, o juiz n&atilde;o quis conceder entrevista.&nbsp;<br />
+&nbsp;</p>
 
 <p>Incra e AgroSB iniciaram uma negocia&ccedil;&atilde;o em 2011 para desapropria&ccedil;&atilde;o da fazenda e sua destina&ccedil;&atilde;o &agrave; reforma agr&aacute;ria. Por&eacute;m, segundo a superintend&ecirc;ncia do Incra de Marab&aacute;, a empresa n&atilde;o conseguiu comprovar a &aacute;rea de reserva ambiental obrigat&oacute;ria da fazenda Maria Bonita, o que travou a negocia&ccedil;&atilde;o.&nbsp;</p>
 
 <p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="[154] PARÁ - Fotos João Laet.jpeg" height="200" src="//farm66.staticflickr.com/65535/48717229961_5f47707763_b.jpg" width="300" />
+<figcaption><a href="http://www.mst.org.br/2019/06/10/acampamento-dalcidio-jurandir-esta-sob-ameaca-de-despejo.html">http://www.mst.org.br/2019/06/10/acampamento-dalcidio-jurandir-esta-sob-ameaca-de-despejo.html</a></figcaption>
+</figure>
 
 <p>As negocia&ccedil;&otilde;es perderam efeito com a determina&ccedil;&atilde;o do governo Bolsonaro de suspender a reforma agr&aacute;ria, segundo nota enviada pelo Incra &agrave; Rep&oacute;rter Brasil, em que o &oacute;rg&atilde;o diz querer evitar &ldquo;a expectativa de compromissos que n&atilde;o poder&atilde;o ser cumpridos&rdquo;, informou. A AgroSB informou que, ap&oacute;s sete anos de tratativas, as negocia&ccedil;&otilde;es foram encerradas e que a decis&atilde;o do judici&aacute;rio confirma &ldquo;a legitimidade das propriedades dos im&oacute;veis&rdquo; da empresa. &ldquo;A tentativa de apresentar a AgroSB como &lsquo;a destruidora dos sonhos dos trabalhadores rurais sem-terra&rsquo; n&atilde;o corresponde &agrave; verdade dos fatos&rdquo;, diz ainda a nota que pode ser lida na &iacute;ntegra aqui.&nbsp; &nbsp;</p>
 
