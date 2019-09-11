@@ -145,8 +145,4 @@ No final da d&eacute;cada de 1940, um inspetor persegue o poeta chileno ganhador
 <a href="http://www.mst.org.br/2019/05/22/10-filmes-para-compreender-o-brasil-do-agronegocio.html">10 filmes para compreender o Brasil do agroneg&oacute;cio</a><br />
 &nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 <p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
