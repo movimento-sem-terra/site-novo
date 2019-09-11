@@ -94,11 +94,9 @@ Em poucas semanas,&nbsp;a Ocupa&ccedil;&atilde;o &#39;Marielle Vive&#39; passou 
 
 <p>&nbsp;</p>
 
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Terun12- FotoTomasCajueiro.jpg" height="467" src="//farm66.staticflickr.com/65535/48718438707_bf290f2232_b.jpg" width="700" />
-<figcaption><em>Fotos fazem parte da exposi&ccedil;&atilde;o &quot;Ter&uacute;n&quot;, que chegam &agrave; It&aacute;lia ainda este m&ecirc;s. Fotos: TomasCajueiro</em></figcaption>
+<figure class="image" style="float:left"><img alt="Terun12- FotoTomasCajueiro.jpg" height="200" src="//farm66.staticflickr.com/65535/48718438707_bf290f2232_b.jpg" width="300" />
+<figcaption></figcaption>
 </figure>
-</div>
 
 <p><br />
 &lsquo;Ter&uacute;n&rsquo; &eacute; uma palavra que, assim como Valinhos, tem origem Veneta. &lsquo;Ter&uacute;n&rsquo; &eacute; aquele que vem da terra, que trabalha a terra. Palavra cujos primeiros registros remetem aos anos do Ressurgimento italiano, quando assim se referiam os aristocratas a parcela da popula&ccedil;&atilde;o que trabalhava na agricultura. Inicialmente sem conota&ccedil;&atilde;o negativa, mas tampouco positiva, &lsquo;Terrone&rsquo; estava para o italiano muito como o termo &lsquo;Campon&ecirc;s&rsquo; est&aacute; para o brasileiro. Curiosamente, foram justamente eles, os agricultores do nordeste italiano, que imigraram as novas terras na Am&eacute;rica do Sul fugindo da mis&eacute;ria. Valinhos, ent&atilde;o ainda um distrito de Campinas, recebe em massa parte desses imigrantes.</p>
