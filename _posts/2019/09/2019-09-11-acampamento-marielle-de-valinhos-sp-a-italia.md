@@ -6,7 +6,7 @@ tags:
   - tag: arte-e-cultura
   - tag: fotografia
 title: "Acampamento Marielle: de Valinhos (SP) à Itália"
-support_line: "Exposição fotográfica leva um pouco da história de Valinhos para a Itália  "
+support_line: "Exposição fotográfica leva um pouco da história e experiências de acampamento do MST em Valinhos para a Itália  "
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/48718438507_a0973f04b8_b.jpg
 layout: post
