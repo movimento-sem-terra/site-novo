@@ -19,7 +19,7 @@ files:
     title: Allende.jpg
     $$hashKey: 07L
 created_date: "2019-09-11T11:31:55-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/06/2019-06-12-lancamento-nacional-de-filme-sobre-o-mst-lota-cinema-e-vigilia-lula-livre.md
   - _posts/2019/06/2019-06-19-brasil-cinema-e-eduardo-coutinho-121-anos-de-cinema-nacional.md
@@ -137,8 +137,16 @@ No final da d&eacute;cada de 1940, um inspetor persegue o poeta chileno ganhador
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/T3O-2RRivDw" width="640"></iframe></p>
 
 <p><br />
-CONFIRA OUTRAS LISTAS DE FILMES J&Aacute; PUBLICADAS NA P&Aacute;GINA<br />
+<em>CONFIRA OUTRAS LISTAS DE FILMES J&Aacute; PUBLICADAS NO MST:&nbsp;</em><br />
 <br />
+<a href="http://www.mst.org.br/2019/06/11/15-filmes-para-entrar-no-clima-de-luta-da-greve-geral.html">15 filmes para entrar no clima de luta da Greve Geral</a></p>
+
+<p><br />
+<a href="http://www.mst.org.br/2019/05/22/10-filmes-para-compreender-o-brasil-do-agronegocio.html">10 filmes para compreender o Brasil do agroneg&oacute;cio</a><br />
 &nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <p><em>*Editado por Fernanda Alc&acirc;ntara</em></p>
