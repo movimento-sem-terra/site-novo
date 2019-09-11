@@ -51,8 +51,7 @@ releated_posts:
 </figure>
 </div>
 
-<p><br />
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <p><em>Por Ludmila Bandeira*<br />
 Da P&aacute;gina do MST</em></p>
