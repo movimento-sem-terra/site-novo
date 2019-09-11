@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2019/06/2019-06-12-lancamento-nacional-de-filme-sobre-o-mst-lota-cinema-e-vigilia-lula-livre.md
   - _posts/2019/06/2019-06-19-brasil-cinema-e-eduardo-coutinho-121-anos-de-cinema-nacional.md
   - _posts/2019/02/2019-02-08-filme-chao-que-retrata-luta-do-mst-chega-as-telas-do-69o-festival-de-berlim.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
