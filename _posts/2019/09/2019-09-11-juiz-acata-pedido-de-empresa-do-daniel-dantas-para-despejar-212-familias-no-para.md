@@ -40,7 +40,7 @@ files:
     title: "[155] PARÁ - Fotos João Laet.jpeg"
     $$hashKey: 0RT
 created_date: "2019-09-11T12:26:49-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/07/2019-07-12-justica-nega-reintegracao-de-posse-do-acampamento-quilombo-campo-grande.md
   - _posts/2019/08/2019-08-16-urgente-150-familias-do-maranhao-sofrem-ameaca-de-despejo.md
@@ -124,7 +124,7 @@ e n&atilde;o sei viver na cidade&rdquo;.&nbsp;Foto: Jo&atilde;o Laet&nbsp;</em><
 <figure class="image" style="float:right"><img alt="[155] PARÁ - Fotos João Laet.jpeg" height="200" src="//farm66.staticflickr.com/65535/48717229996_a3a4b72837_b.jpg" width="300" />
 <figcaption><em>C&acirc;ndido Matias da Silva planta hortali&ccedil;as, legumes<br />
 e frutas que comercializa na feira de Eldorado<br />
-dos Caraj&aacute;s. Foto:</em>&nbsp;I</figcaption>
+dos Caraj&aacute;s. Foto:&nbsp;Jo&atilde;o Laet&nbsp;</em></figcaption>
 </figure>
 
 <p>A escola do acampamento Carlito Maia tem quase 200 alunos e &eacute; l&aacute; que Enivaldo Alves do Nascimento, um dos acampados e integrante da dire&ccedil;&atilde;o estadual do MST, recebe a reportagem. &ldquo;N&oacute;s queremos sensibilizar a sociedade. Mostrar a diferen&ccedil;a dos dois projetos. O projeto da Agropecu&aacute;ria Santa B&aacute;rbara tem como prioridade o monop&oacute;lio. Nosso projeto &eacute; diferente&rdquo;, afirma.&nbsp;</p>
@@ -142,9 +142,9 @@ O despejo pode acarretar um crescimento de mais de 22% do d&eacute;ficit habitac
 <p>A AgroSB afirma que, com a ocupa&ccedil;&atilde;o, as terras da empresas deixaram de &ldquo;produzir, exportar e contratar m&atilde;o-de-obra&rdquo;. A empresa informa gerar 900 empregos diretos e 10 mil indiretos em quase duas dezenas de cidades do Sul e Sudeste do Par&aacute;.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="[156] PARÁ - Fotos João Laet.jpeg" height="200" src="//farm66.staticflickr.com/65535/48717229971_5679338bdb_b.jpg" width="300" />
-<figcaption>&nbsp;&ldquo;Alguns chegaram aqui passando fome&rdquo;, afirma<br />
+<figcaption><em>&nbsp;&ldquo;Alguns chegaram aqui passando fome&rdquo;, afirma<br />
 Enivaldo Alves do Nascimento, integrante da<br />
-dire&ccedil;&atilde;o do MST&nbsp;</figcaption>
+dire&ccedil;&atilde;o do MST.&nbsp;Foto: Jo&atilde;o Laet&nbsp;​</em></figcaption>
 </figure>
 
 <p><br />
