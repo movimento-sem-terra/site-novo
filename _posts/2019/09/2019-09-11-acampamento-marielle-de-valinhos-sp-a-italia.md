@@ -75,34 +75,35 @@ releated_posts:
 <p>&lsquo;O fot&oacute;grafo Valinhes Tom&aacute; Cajueiro leva um pouco da hist&oacute;ria de Valinhos para exposi&ccedil;&atilde;o fotogr&aacute;fica na It&aacute;lia: Ter&uacute;n&rsquo; &eacute; uma s&eacute;rie fotogr&aacute;fica que d&aacute; voz aos acampados do acampamento &lsquo;Mariele Vive&rsquo; em Valinhos/SP.</p>
 
 <p><br />
-As fotografias e hist&oacute;rias foram registradas nos primeiros 12 meses da ocupa&ccedil;&atilde;o e registram os pioneiros, aqueles que chegaram ainda em uma situa&ccedil;&atilde;o juridicamente inst&aacute;vel, para lutar por um peda&ccedil;o de terra. Registra o surgimento e a evolu&ccedil;&atilde;o de um espa&ccedil;o hoje ocupado por mais de 1.000 fam&iacute;lias. A s&eacute;rie conta com fotografias de situa&ccedil;&atilde;o cotidianas e retratos dos acampados.</p>
+As fotografias e hist&oacute;rias foram registradas nos primeiros 12 meses da ocupa&ccedil;&atilde;o e registram os pioneiros, aqueles que chegaram ainda em uma situa&ccedil;&atilde;o juridicamente inst&aacute;vel, para lutar por um peda&ccedil;o de terra. Registra o surgimento e a evolu&ccedil;&atilde;o de um espa&ccedil;o hoje ocupado por mais de 1.000 fam&iacute;lias. A s&eacute;rie conta com fotografias de situa&ccedil;&atilde;o cotidianas e retratos dos acampados.<br />
+&nbsp;</p>
 
-<p><br />
-Depois de serem expostas na Virada Sustent&aacute;vel de Campinas em 2019, as fotografias come&ccedil;am um giro por centros culturais europeus. Entre 20 e 29 de setembro acontece a primeira dessas mostras, no<em> L&rsquo;Arteficio &ndash; Showroom &amp; Art Factory,</em> em Turim, na It&aacute;lia. Na abertura, dia 20/09 as 19h00, o fot&oacute;grafo&nbsp; curador Tom&aacute;s Cajueiro far&aacute; um bate papo com os presentes sobre sua experi&ecirc;ncia</p>
+<p>Depois de serem expostas na Virada Sustent&aacute;vel de Campinas em 2019, as fotografias come&ccedil;am um giro por centros culturais europeus. Entre 20 e 29 de setembro acontece a primeira dessas mostras, no<em> L&rsquo;Arteficio &ndash; Showroom &amp; Art Factory,</em> em Turim, na It&aacute;lia. Na abertura, dia 20/09 as 19h00, o fot&oacute;grafo&nbsp; curador Tom&aacute;s Cajueiro far&aacute; um bate papo com os presentes sobre sua experi&ecirc;ncia</p>
 
 <p><br />
 <strong>O acampamento&nbsp;</strong></p>
 
 <p><br />
-Era abril de 2018 quando em Valinhos, no interior de S&atilde;o Paulo, um grupo de agricultores do MST teve a corajosa atitude de ocupar as terras de uma fazenda h&aacute; muitos anos improdutiva. A hist&oacute;rica luta por terra em nosso pa&iacute;s chegava a uma cidade que nas &uacute;ltimas d&eacute;cadas tem tido na especula&ccedil;&atilde;o imobili&aacute;ria o pilar de seu desenvolvimento.</p>
-
-<p><br />
-Em poucas semanas,&nbsp;a Ocupa&ccedil;&atilde;o &#39;Marielle Vive&#39; passou a ocupar tamb&eacute;m o imagin&aacute;rio coletivo da popula&ccedil;&atilde;o, pautando os debates da pacata cidade do interior paulista. Pessoas tomavam lado, embates aconteciam, opini&otilde;es se contrastavam e, claro, fatos eram criados sem ter nenhuma rela&ccedil;&atilde;o com a realidade. Mesmo assim, os acampados n&atilde;o eram ouvidos. Nunca. Debatia-se sobre eles, sem d&aacute;-los a necess&aacute;ria voz.<br />
+Era abril de 2018 quando em Valinhos, no interior de S&atilde;o Paulo, um grupo de agricultores do MST teve a corajosa atitude de ocupar as terras de uma fazenda h&aacute; muitos anos improdutiva. A hist&oacute;rica luta por terra em nosso pa&iacute;s chegava a uma cidade que nas &uacute;ltimas d&eacute;cadas tem tido na especula&ccedil;&atilde;o imobili&aacute;ria o pilar de seu desenvolvimento.<br />
 &nbsp;</p>
-
-<p>Muito in&oacute;cuo, o debate que surgia na cidade parecia deixar de lado o principal aspecto da quest&atilde;o: a luta da terra vai muito al&eacute;m de grandes quest&otilde;es pol&iacute;tico partid&aacute;rias. Vai muito al&eacute;m de opini&otilde;es digitais. &Eacute; uma luta concreta, feita de gente. De pessoas com sonhos, dores e alegrias e que buscam naquelas novas terras a oportunidade de construir uma nova vida. Foi com essa ideia na cabe&ccedil;a que Tom&aacute;s Cajueiro acompanhou a evolu&ccedil;&atilde;o da &lsquo;Ocupa&ccedil;&atilde;o Marielle Vive&rsquo;.&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Terun12- FotoTomasCajueiro.jpg" height="200" src="//farm66.staticflickr.com/65535/48718438707_bf290f2232_b.jpg" width="300" />
 <figcaption></figcaption>
 </figure>
 
-<p><br />
-&lsquo;Ter&uacute;n&rsquo; &eacute; uma palavra que, assim como Valinhos, tem origem Veneta. &lsquo;Ter&uacute;n&rsquo; &eacute; aquele que vem da terra, que trabalha a terra. Palavra cujos primeiros registros remetem aos anos do Ressurgimento italiano, quando assim se referiam os aristocratas a parcela da popula&ccedil;&atilde;o que trabalhava na agricultura. Inicialmente sem conota&ccedil;&atilde;o negativa, mas tampouco positiva, &lsquo;Terrone&rsquo; estava para o italiano muito como o termo &lsquo;Campon&ecirc;s&rsquo; est&aacute; para o brasileiro. Curiosamente, foram justamente eles, os agricultores do nordeste italiano, que imigraram as novas terras na Am&eacute;rica do Sul fugindo da mis&eacute;ria. Valinhos, ent&atilde;o ainda um distrito de Campinas, recebe em massa parte desses imigrantes.</p>
+<p>Em poucas semanas,&nbsp;a Ocupa&ccedil;&atilde;o &#39;Marielle Vive&#39; passou a ocupar tamb&eacute;m o imagin&aacute;rio coletivo da popula&ccedil;&atilde;o, pautando os debates da pacata cidade do interior paulista. Pessoas tomavam lado, embates aconteciam, opini&otilde;es se contrastavam e, claro, fatos eram criados sem ter nenhuma rela&ccedil;&atilde;o com a realidade. Mesmo assim, os acampados n&atilde;o eram ouvidos. Nunca. Debatia-se sobre eles, sem d&aacute;-los a necess&aacute;ria voz.</p>
 
-<p><br />
-Passaram-se os anos e a It&aacute;lia, assim como Valinhos, se urbanizou, criou ind&uacute;strias, se tornou uma pot&ecirc;ncia. Essa nova It&aacute;lia, p&oacute;s-guerra, v&ecirc; ressurgir e ganhar for&ccedil;a e um novo uso a palavra &lsquo;Terrone&rsquo;. Dessa vez n&atilde;o mais neutra e objetiva, mas com forte carga sem&acirc;ntica negativa. &lsquo;Terrone&rsquo; se refere ao imigrante do sul do pa&iacute;s que foi para o rico e industrializado norte atr&aacute;s de oportunidades. S&atilde;o massas de pessoas que vivem nas periferias de Mil&atilde;o, Turim, G&ecirc;nova e tantas outras cidades da It&aacute;lia setentrional. Pejorativamente, esses imigrantes s&atilde;o chamados &lsquo;Terroni&rsquo;. No s&eacute;culo XX, o termo &lsquo;Terrone&rsquo; &eacute; um insulto.&nbsp; &Eacute; ser pregui&ccedil;oso, ser ignorante.&nbsp;&nbsp;</p>
+<p>Muito in&oacute;cuo, o debate que surgia na cidade parecia deixar de lado o principal aspecto da quest&atilde;o: a luta da terra vai muito al&eacute;m de grandes quest&otilde;es pol&iacute;tico partid&aacute;rias. Vai muito al&eacute;m de opini&otilde;es digitais. &Eacute; uma luta concreta, feita de gente. De pessoas com sonhos, dores e alegrias e que buscam naquelas novas terras a oportunidade de construir uma nova vida. Foi com essa ideia na cabe&ccedil;a que Tom&aacute;s Cajueiro acompanhou a evolu&ccedil;&atilde;o da &lsquo;Ocupa&ccedil;&atilde;o Marielle Vive&rsquo;.&nbsp;<br />
+&nbsp;</p>
+
+<p>&lsquo;Ter&uacute;n&rsquo; &eacute; uma palavra que, assim como Valinhos, tem origem Veneta. &lsquo;Ter&uacute;n&rsquo; &eacute; aquele que vem da terra, que trabalha a terra. Palavra cujos primeiros registros remetem aos anos do Ressurgimento italiano, quando assim se referiam os aristocratas a parcela da popula&ccedil;&atilde;o que trabalhava na agricultura. Inicialmente sem conota&ccedil;&atilde;o negativa, mas tampouco positiva, &lsquo;Terrone&rsquo; estava para o italiano muito como o termo &lsquo;Campon&ecirc;s&rsquo; est&aacute; para o brasileiro. Curiosamente, foram justamente eles, os agricultores do nordeste italiano, que imigraram as novas terras na Am&eacute;rica do Sul fugindo da mis&eacute;ria. Valinhos, ent&atilde;o ainda um distrito de Campinas, recebe em massa parte desses imigrantes.<br />
+&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Terun2- FotoTomasCajueiro.jpg" height="200" src="//farm66.staticflickr.com/65535/48718438572_ca8302ea96_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
+
+<p>Passaram-se os anos e a It&aacute;lia, assim como Valinhos, se urbanizou, criou ind&uacute;strias, se tornou uma pot&ecirc;ncia. Essa nova It&aacute;lia, p&oacute;s-guerra, v&ecirc; ressurgir e ganhar for&ccedil;a e um novo uso a palavra &lsquo;Terrone&rsquo;. Dessa vez n&atilde;o mais neutra e objetiva, mas com forte carga sem&acirc;ntica negativa. &lsquo;Terrone&rsquo; se refere ao imigrante do sul do pa&iacute;s que foi para o rico e industrializado norte atr&aacute;s de oportunidades. S&atilde;o massas de pessoas que vivem nas periferias de Mil&atilde;o, Turim, G&ecirc;nova e tantas outras cidades da It&aacute;lia setentrional. Pejorativamente, esses imigrantes s&atilde;o chamados &lsquo;Terroni&rsquo;. No s&eacute;culo XX, o termo &lsquo;Terrone&rsquo; &eacute; um insulto.&nbsp; &Eacute; ser pregui&ccedil;oso, ser ignorante.&nbsp;&nbsp;</p>
 
 <p><br />
 Valinhos tem suas origens fortemente ligadas ao nordeste da It&aacute;lia. Foram os &lsquo;Terrone&rsquo; do s&eacute;culo XIX que, com muito suor, constru&iacute;ram a hist&oacute;ria da pr&oacute;spera cidade. No dialeto Veneto, &lsquo;Terrone&rsquo; s&atilde;o chamados &lsquo;Ter&uacute;n&rsquo;. Da&iacute; nasce o nome da s&eacute;rie, que visa fazer refletir sobre nossos julgamentos sobre realidades que n&atilde;o conhecemos e como, paradoxalmente, os filhos e netos dos &lsquo;Terrone&rsquo;&nbsp; de outrora, agora julgam os acampados com termos e ideias que se encontram no mesmo, racista, campo sem&acirc;ntico que julgou seus antepassados. Falassem italiano, o valinhense, infelizmente, se referiria aos acampados como &lsquo;Ter&uacute;n&rsquo;.</p>
