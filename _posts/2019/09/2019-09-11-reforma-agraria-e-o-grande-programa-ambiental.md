@@ -44,7 +44,7 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Duas semanas ap&oacute;s os inc&ecirc;ndios na Amaz&ocirc;nia que chocaram o mundo, a cidade de Curitiba recebeu a 18&ordf; edi&ccedil;&atilde;o da Jornada de Agroecologia. A pra&ccedil;a Santos Andrade virou palco para centenas de camponesas e camponeses que produzem alimentos saud&aacute;veis, geram renda para as suas fam&iacute;lias e de quebra preservam e recuperam o meio ambiente.<br />
+Em meio &agrave; crise gerada pelos inc&ecirc;ndios na Amaz&ocirc;nia que chocaram o mundo, a cidade de Curitiba recebeu a 18&ordf; edi&ccedil;&atilde;o da Jornada de Agroecologia. A pra&ccedil;a Santos Andrade virou palco para centenas de camponesas e camponeses que produzem alimentos saud&aacute;veis, geram renda para as suas fam&iacute;lias e de quebra preservam e recuperam o meio ambiente.<br />
 &nbsp;</p>
 
 <p>Jonas Souza &eacute; uma lideran&ccedil;a do pr&eacute;-assentamento Jos&eacute; Lutzenberger, em Antonina, litoral paranaense. A hist&oacute;ria do local &eacute; a prova concreta de que a agroecologia &eacute; uma ferramenta de recupera&ccedil;&atilde;o ambiental.<br />
