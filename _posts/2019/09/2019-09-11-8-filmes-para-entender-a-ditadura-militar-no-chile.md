@@ -29,7 +29,8 @@ section: featured-news
 ---
 <p>&nbsp;</p>
 
-<p><em>Da P&aacute;gina do MST</em></p>
+<p><em>Por B&aacute;rbara Vida<br />
+Da P&aacute;gina do MST</em></p>
 
 <p>&nbsp;<br />
 O dia 11 de setembro de 1973 entrou para a mem&oacute;ria como um dos momentos mais importantes da hist&oacute;ria e da pol&iacute;tica no mundo. Nesta data, as For&ccedil;as Armadas chilenas cercaram o Pal&aacute;cio de La Moneda e assassinaram brutalmente o presidente eleito constitucionalmente, Salvador&nbsp; Allende. O Chile mergulhava numa das mais sangrentas ditaduras do continente, liderada pelo general Augusto Pinochet.<br />
