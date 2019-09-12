@@ -5,7 +5,7 @@ tags:
   - tag: pernambuco
   - tag: educação
   - tag: formação
-section: cover
+section: featured-news
 title: "O Centro de Formação Paulo Freire é Patrimônio Popular!"
 support_line: "Em nota, MST agradece solidariedade e afirma processo de luta e resistência contra despejo"
 menu: lutas e mobilizações
