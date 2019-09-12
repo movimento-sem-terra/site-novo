@@ -3,7 +3,7 @@ date: "2019-09-11T16:48:00-03:00"
 tags:
   - tag: mineração
   - tag: minas-gerais
-title: Nota de denúncia contra a Mineração da SAM - Norte de Minas
+title: Nota de denúncia contra a Mineração da SAM no norte de Minas Gerais
 support_line: "Diante da ameaça de novo projeto da morte em MG, movimentos sociais lançam nota pela vida"
 menu: meio ambiente
 images_hd: //farm66.staticflickr.com/65535/48718818977_c3fdd21de9_b.jpg
