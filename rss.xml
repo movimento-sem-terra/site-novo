@@ -7,7 +7,15 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Nota de denúncia contra a Mineração da SAM - Norte de Minas</title>
+				<title>Como a Monsanto sabotou pesquisas sobre câncer</title>
+				<description>Corporação tentou desacreditar IARC, agência da ONU que relacionava o glifosato à doença. Houve pressão sobre parlamentares e patrocínio de pesquisas “amigas”</description>
+				<pubDate>Thu, 12 Sep 2019 11:09:44 -0300</pubDate>
+				<link>http://www.mst.org.br/2019/09/12/como-a-monsanto-sabotou-pesquisas-sobre-cancer.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2019/09/12/como-a-monsanto-sabotou-pesquisas-sobre-cancer.html</guid>
+			</item>
+		
+			<item>
+				<title>Nota de denúncia contra a Mineração da SAM no norte de Minas Gerais</title>
 				<description>Diante da ameaça de novo projeto da morte em MG, movimentos sociais lançam nota pela vida</description>
 				<pubDate>Wed, 11 Sep 2019 16:48:00 -0300</pubDate>
 				<link>http://www.mst.org.br/2019/09/11/nota-de-denuncia-contra-a-mineracao-da-sam-norte-de-minas.html</link>
@@ -76,14 +84,6 @@
 				<pubDate>Tue, 10 Sep 2019 14:25:46 -0300</pubDate>
 				<link>http://www.mst.org.br/2019/09/10/seminario-regional-discute-educacao-e-saude-em-minas-gerais.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2019/09/10/seminario-regional-discute-educacao-e-saude-em-minas-gerais.html</guid>
-			</item>
-		
-			<item>
-				<title>No Ceará, seminário debate metodologia &quot;Camponês a Camponês&quot;</title>
-				<description>Encontro mostrou experiência da metodologia aplicada no território do assentamento Santana, município de Monsenhor Tabosa (CE)</description>
-				<pubDate>Tue, 10 Sep 2019 12:01:52 -0300</pubDate>
-				<link>http://www.mst.org.br/2019/09/10/no-ceara-seminario-debate-metodologia-campones-a-campones.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2019/09/10/no-ceara-seminario-debate-metodologia-campones-a-campones.html</guid>
 			</item>
 		
 	</channel>
