@@ -4,7 +4,7 @@ tags:
   - tag: despejo
   - tag: rio-de-janeiro
 title: "Agroecologia sim: PDS Osvaldo de Oliveira recebe moção de apoio"
-support_line: "Em sessão ordinária, PDS Osvaldo Oliveira receberam uma moção de apoio do  Conselho Municipal do Meio Ambiente e Desenvolvimento Sustentável de Macaé"
+support_line: "Em sessão ordinária, PDS Osvaldo de Oliveira receberam uma moção de apoio do  Conselho Municipal do Meio Ambiente e Desenvolvimento Sustentável de Macaé"
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48722857041_2ae1f63801_b.jpg
 layout: post
