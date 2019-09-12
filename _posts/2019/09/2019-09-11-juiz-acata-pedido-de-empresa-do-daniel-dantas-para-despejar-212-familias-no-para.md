@@ -47,6 +47,7 @@ releated_posts:
   - _posts/2019/08/2019-08-19-rn-apos-reintegracao-de-posse-sem-terra-fecham-rodovia-e-pressionam-poder-publico.md
   - _posts/2019/06/2019-06-10-acampamento-dalcidio-jurandir-esta-sob-ameaca-de-despejo.md
   - _posts/2019/06/2019-06-06-despejo-no-para-ameaca-dez-anos-de-producao-de-alimentos-saudaveis.md
+section: featured-news
 
 ---
 <div style="text-align:center">
