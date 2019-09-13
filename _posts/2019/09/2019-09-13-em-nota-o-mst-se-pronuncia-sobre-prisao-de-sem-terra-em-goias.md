@@ -30,7 +30,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-O Movimento dos trabalhadores Rurais Sem terra de Goi&aacute;s vem a p&uacute;blico comunicar e manifestar sua indigna&ccedil;&atilde;o pela pris&atilde;o do militante Sem Terra Natalino de Jesus.<br />
+O Movimento dos Trabalhadores Rurais Sem terra de Goi&aacute;s vem a p&uacute;blico comunicar e manifestar sua indigna&ccedil;&atilde;o pela pris&atilde;o do militante Sem Terra Natalino de Jesus.<br />
 Natalino foi preso em Mozarl&acirc;ndia Goi&aacute;s enquanto se dirigia para capital do estado para visitar sua fam&iacute;lia.&nbsp;</p>
 
 <p><br />
