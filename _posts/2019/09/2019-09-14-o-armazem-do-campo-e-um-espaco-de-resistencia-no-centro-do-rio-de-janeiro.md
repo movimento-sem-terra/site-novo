@@ -60,7 +60,7 @@ Em entrevista para P&aacute;gina do MST, ela aprofunda essas quest&otilde;es e d
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Foto Luara Dal Chiavon.jpg" height="467" src="//farm66.staticflickr.com/65535/48733520228_064684d87b_b.jpg" width="700" />
-<figcaption>&nbsp;Foto: Luara Dal Chiavon</figcaption>
+<figcaption>Foto: Luara Dal Chiavon&nbsp;Foto: Luara Dal Chiavon</figcaption>
 </figure>
 </div>
 
@@ -99,12 +99,6 @@ R -&nbsp;O Rio de Janeiro tem muito a cultura da realiza&ccedil;&atilde;o de fei
 
 <p><br />
 Outro fator importante, &eacute; que o Rio de Janeiro &eacute; um ber&ccedil;o cultural e a ind&uacute;stria cultural acaba tomando conta desses espa&ccedil;os. O Armaz&eacute;m &eacute; criado na contra m&atilde;o desse movimento de industrializa&ccedil;&atilde;o da arte e transforma&ccedil;&atilde;o da nossa produ&ccedil;&atilde;o cultural em mercadoria. Ent&atilde;o precisamos ocupar dois espa&ccedil;os centrais: a da produ&ccedil;&atilde;o de alimentos saud&aacute;veis e org&acirc;nicos; e construir novas rela&ccedil;&otilde;es de produ&ccedil;&atilde;o e reprodu&ccedil;&atilde;o da vida a partir da arte e da cultura.</p>
-
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Foto Luara Dal Chiavon (2).jpg" height="467" src="//farm66.staticflickr.com/65535/48734034722_acf852a6e0_b.jpg" width="700" />
-<figcaption>Legenda</figcaption>
-</figure>
-</div>
 
 <p><br />
 4 &ndash; Quais s&atilde;o os principais pilares que organizam o Armaz&eacute;m do Campo no Rio de Janeiro?</p>
