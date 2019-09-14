@@ -41,10 +41,8 @@ releated_posts: []
 </figure>
 </div>
 
-<p>&nbsp;</p>
-
 <p><br />
-Por Wesley Lima</p>
+<em>Por Wesley Lima</em></p>
 
 <p><br />
 H&aacute; <a href="http://www.mst.org.br/2019/09/12/armazem-do-campo-completa-um-ano-no- rio-de-janeiro-com-programacao-cultural.html">um ano</a>, o Armaz&eacute;m do Campo, localizado na Lapa, no centro do Rio de Janeiro, tem levado alimentos saud&aacute;veis, arte, cultura, pol&iacute;tica e muita luta para o cora&ccedil;&atilde;o da capital carioca.</p>
