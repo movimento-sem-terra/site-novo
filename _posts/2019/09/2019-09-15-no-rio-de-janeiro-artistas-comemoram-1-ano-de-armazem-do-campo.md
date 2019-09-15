@@ -85,7 +85,7 @@ Pereira tem um hist&oacute;rico de luta em defesa dos Direitos Humanos e sempre 
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/P7kQUvWrtYA" width="640"></iframe></p>
 
 <p><br />
-Majur, cantora e compositora, foi um dos rostos marcantes que esteve no Armaz&eacute;m do Campo do Rio para comemorar esse primeiro ano de exist&ecirc;ncia da loja. A cantora &eacute; um dos novos rostos da cena musical brasileira. Negra, n&atilde;o-bin&aacute;rio e baiana, apresenta um repert&oacute;rio forte, falando de amor, negritude e tombamento.</p>
+Majur, cantora e compositora, foi um dos rostos marcantes que esteve no Armaz&eacute;m do Campo do Rio para comemorar esse primeiro ano de exist&ecirc;ncia da loja. Negra, n&atilde;o-bin&aacute;rio&nbsp;e baiana, a cantora apresenta um repert&oacute;rio forte, falando de amor, negritude e tombamento.</p>
 
 <p><br />
 Pelas redes sociais, Majur destacou a qualidade dos produtos do Armaz&eacute;m do Campo, depois de levar para casa alguns dos 450 itens que s&atilde;o comercializados hoje no Rio.<br />
