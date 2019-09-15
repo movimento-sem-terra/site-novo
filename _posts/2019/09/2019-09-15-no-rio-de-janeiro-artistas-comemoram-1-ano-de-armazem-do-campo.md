@@ -4,7 +4,7 @@ tags:
   - tag: armazem-do-campo
   - tag: rio-de-janeiro
 title: "No Rio de Janeiro, artistas comemoram 1 ano de Armazém do Campo"
-support_line: A luta pela terra e pela alimentação saudável aproximam mais e mais pessoas.
+support_line: A luta pela terra e pela alimentação saudável aproximam mais e mais pessoas
 images_hd: //farm66.staticflickr.com/65535/48738897096_41ebfaa6c2_b.jpg
 menu: "educação, cultura e comunicação"
 section: null
