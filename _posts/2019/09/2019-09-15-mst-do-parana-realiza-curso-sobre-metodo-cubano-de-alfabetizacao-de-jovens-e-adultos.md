@@ -69,20 +69,21 @@ releated_posts:
 </div>
 
 <p dir="ltr"><br />
+<em>Por&nbsp;Setor de Comunica&ccedil;&atilde;o e Cultura do MST-PR</em></p>
+
+<p dir="ltr"><br />
 O Dia Internacional da Alfabetiza&ccedil;&atilde;o foi comemorado em 8 de setembro - data criada pela Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas para a Educa&ccedil;&atilde;o, Ci&ecirc;ncia e Cultura (Unesco) para incentivar o letramento. Um dia antes, no dia 7, o Movimento dos Trabalhadores Rurais Sem Terra (MST) do Paran&aacute; concluiu o Curso de Forma&ccedil;&atilde;o de Formadores no M&eacute;todo &ldquo;Sim, eu Posso&rdquo;, em Curitiba.&nbsp;</p>
 
 <p dir="ltr"><br />
 A forma&ccedil;&atilde;o ocorreu no Espa&ccedil;o Marielle Vive de Forma&ccedil;&atilde;o e Cultura, que fica a 70 metros da Superintend&ecirc;ncia da Pol&iacute;cia Federal, onde o ex-presidente Luiz In&aacute;cio Lula da Silva &eacute; mantido preso pol&iacute;tico. O Espa&ccedil;o integra a Vig&iacute;lia Lula Livre, mantida desde a pris&atilde;o de Lula, em abril de 2018.</p>
 
 <p dir="ltr"><br />
-O curso durou cinco dias e reuniu cerca de 30 pessoas, em sua maioria mulheres, de diferentes regi&otilde;es do Paran&aacute;, vindas de assentamentos, acampamentos e tamb&eacute;m de Curitiba. O objetivo do MST com a forma&ccedil;&atilde;o &eacute; fortalecer as iniciativas locais na Educa&ccedil;&atilde;o de Jovens e Adultos (EJA), para avan&ccedil;ar na alfabetiza&ccedil;&atilde;o de camponesas e camponeses, e tamb&eacute;m de moradores das periferias urbanas.</p>
-
-<p dir="ltr"><br />
+O curso durou cinco dias e reuniu cerca de 30 pessoas, em sua maioria mulheres, de diferentes regi&otilde;es do Paran&aacute;, vindas de assentamentos, acampamentos e tamb&eacute;m de Curitiba. O objetivo do MST com a forma&ccedil;&atilde;o &eacute; fortalecer as iniciativas locais na Educa&ccedil;&atilde;o de Jovens e Adultos (EJA), para avan&ccedil;ar na alfabetiza&ccedil;&atilde;o de camponesas e camponeses, e tamb&eacute;m de moradores das periferias urbanas.<br />
 &nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Valmir Fernandes IMG_2301 (13).JPG" height="448" src="//farm66.staticflickr.com/65535/48739245018_2e8ff4fdf0_b.jpg" width="700" />
-<figcaption>Legenda</figcaption>
+<figcaption>Superar o analfabetismo estava entre as primeiras tarefas da Revolu&ccedil;&atilde;o Cubana./ Foto: Valmir Fernandes</figcaption>
 </figure>
 </div>
 
@@ -99,10 +100,10 @@ MST assumiu o &ldquo;Sim, eu posso&rdquo; como parte das brigadas de alfabetiza&
 Fruto da solidariedade cubana, Nicar&aacute;gua e Bol&iacute;via acessaram gratuitamente o m&eacute;todo e superaram o analfabetismo.&nbsp;</p>
 
 <h2 dir="ltr"><br />
-O que &eacute; o m&eacute;todo &ldquo;Sim, eu posso&rdquo;<br />
-<br />
-<br />
-Superar o analfabetismo estava entre as primeiras tarefas da Revolu&ccedil;&atilde;o Cubana - movimento que derrubou o ditador Fulgencio Batista em 1&ordm; de janeiro de 1959 e iniciou o regime socialista, sob o comando do l&iacute;der Fidel Castro. Cuba superou o analfabetismo em 1961, levando a alfabetiza&ccedil;&atilde;o para lugares onde antes n&atilde;o chegava, a partir dos princ&iacute;pios do &ldquo;Sim, eu posso&rdquo;.&nbsp;</h2>
+O que &eacute; o m&eacute;todo &ldquo;Sim, eu posso&rdquo;</h2>
+
+<p dir="ltr"><br />
+Superar o analfabetismo estava entre as primeiras tarefas da Revolu&ccedil;&atilde;o Cubana - movimento que derrubou o ditador Fulgencio Batista em 1&ordm; de janeiro de 1959 e iniciou o regime socialista, sob o comando do l&iacute;der Fidel Castro. Cuba superou o analfabetismo em 1961, levando a alfabetiza&ccedil;&atilde;o para lugares onde antes n&atilde;o chegava, a partir dos princ&iacute;pios do &ldquo;Sim, eu posso&rdquo;.&nbsp;</p>
 
 <p dir="ltr"><br />
 Juliana Porolonizak, professora e pedagoga da Rede Estadual de Ensino que estudou o m&eacute;todo em sua tese de doutorado, explica que o &ldquo;Sim, eu posso&rdquo; direciona para que o educando aprenda a ler e escrever no menor tempo poss&iacute;vel. O educador parte de um roteiro pr&eacute;-estabelecido, com 65 tele-aulas que d&atilde;o o direcionamento para o trabalho em sala de aula, por isso, n&atilde;o h&aacute; necessidade de forma&ccedil;&atilde;o acad&ecirc;mica ou cient&iacute;fica:</p>
@@ -125,3 +126,6 @@ Al&eacute;m da metodologia cubana, a programa&ccedil;&atilde;o do curso tamb&eac
 
 <p dir="ltr"><br />
 A programa&ccedil;&atilde;o do curso tamb&eacute;m contemplou temas como a conjuntura atual, a concep&ccedil;&atilde;o de Educa&ccedil;&atilde;o e de EJA no MST, e sobre g&ecirc;nero e sexualidade.&nbsp;</p>
+
+<p dir="ltr"><br />
+<em>*Editado por Yuri Simeon</em></p>
