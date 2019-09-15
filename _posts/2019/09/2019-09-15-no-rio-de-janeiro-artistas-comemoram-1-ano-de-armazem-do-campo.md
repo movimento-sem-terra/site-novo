@@ -1,6 +1,8 @@
 ---
 date: "2019-09-15T15:09:36-03:00"
-tags: []
+tags:
+  - tag: armazem-do-campo
+  - tag: rio-de-janeiro
 title: "No Rio de Janeiro, artistas comemoram 1 ano de Armazém do Campo"
 support_line: A luta pela terra e pela alimentação saudável aproximam mais e mais pessoas.
 images_hd: //farm66.staticflickr.com/65535/48738897096_41ebfaa6c2_b.jpg
@@ -38,12 +40,19 @@ files:
     $$hashKey: 039
 created_date: "2019-09-15T16:40:04-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2019/09/2019-09-12-armazem-do-campo-completa-um-ano-no-rio-de-janeiro-com-programacao-cultural.md
+  - _posts/2019/09/2019-09-14-o-armazem-do-campo-e-um-espaco-de-resistencia-no-centro-do-rio-de-janeiro.md
+  - _posts/2019/09/2019-09-14-artistas-e-amigos-do-mst-marcam-presenca-em-ato-de-um-ano-do-armazem-do-campo-rj.md
+  - _posts/2019/07/2019-07-08-armazem-do-campo-recebe-feira-de-organicos-em-bh.md
+  - _posts/2019/07/2019-07-08-mst-inaugura-espaco-cultural-em-sao-luis-no-ma.md
+  - _posts/2019/07/2019-07-23-rede-armazem-do-campo-celebra-a-luta-e-resistencia-do-povos.md
+  - _posts/2019/07/2019-07-30-armazem-do-campo-em-bh-e-referencia-da-cultura-de-resistencia.md
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Artistas apoiam a Reforma Agrária e parabeniza a rede Armazém do Campo. Foto_Divulgação MST.png" height="394" src="//farm66.staticflickr.com/65535/48739079117_9f2a7ac7a3_b.jpg" width="700" />
-<figcaption>Nesse 1 ano de exist&ecirc;ncia, o Armaz&eacute;m do Campo construiu v&aacute;rias amizades./ Foto: Thamires Martins</figcaption>
+<figcaption><em>Nesse 1 ano de exist&ecirc;ncia, o Armaz&eacute;m do Campo construiu v&aacute;rias amizades. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 </div>
 
@@ -82,6 +91,13 @@ Majur, cantora e compositora, foi um dos rostos marcantes que esteve no Armaz&ea
 Pelas redes sociais, Majur destacou a qualidade dos produtos do Armaz&eacute;m do Campo, depois de levar para casa alguns dos 450 itens que s&atilde;o comercializados hoje no Rio.<br />
 &nbsp;</p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Majur almoçou no Armazém do Campo e levou para casa produtos da Reforma Agrária. Foto_ Acervo pessoal.jpg" height="450" src="//farm66.staticflickr.com/65535/48739079092_dd41791280_b.jpg" width="600" />
+<figcaption><em>Majur almoçou no Armazém do Campo e levou para casa produtos da Reforma Agrária.<br />
+Foto: Acervo pessoal</em></figcaption>
+</figure>
+</div>
+
 <p>O ator brasileiro, de ascend&ecirc;ncia paraguaia e brasileira, nascido no M&eacute;xico, Chico D&iacute;az, j&aacute; &eacute; de casa. Visitante regular do Armaz&eacute;m, D&iacute;az participa das atividades culturais e dos atos pol&iacute;ticos, al&eacute;m de sempre levar para casa algum produto da loja.</p>
 
 <p><br />
@@ -98,8 +114,9 @@ Para ele, &eacute; uma alegria e honra poder comemorar esse momento e fala tamb&
 <p>&nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Pally denunia ameaça de despelo no Centro Paulo Freire. Foto_Thamires Martins.jpg" height="467" src="//farm66.staticflickr.com/65535/48738568928_cb0ea9b33c_b.jpg" width="700" />
-<figcaption>Pally Siqueira se posicionou contra o despejo no Centro de Forma&ccedil;&atilde;o Paulo Freire./ Foto: Thamires Martins</figcaption>
+<figure class="image" style="display:inline-block"><img alt="Pally denunia ameaça de despelo no Centro Paulo Freire. Foto_Thamires Martins.jpg" height="400" src="//farm66.staticflickr.com/65535/48738568928_cb0ea9b33c_b.jpg" width="600" />
+<figcaption><em>Pally Siqueira se posicionou contra o despejo no Centro de Forma&ccedil;&atilde;o Paulo Freire.<br />
+Foto: Thamires Martins</em></figcaption>
 </figure>
 </div>
 
