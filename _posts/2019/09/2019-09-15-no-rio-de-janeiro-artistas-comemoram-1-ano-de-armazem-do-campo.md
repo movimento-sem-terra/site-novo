@@ -102,3 +102,7 @@ Para ele, &eacute; uma alegria e honra poder comemorar esse momento e fala tamb&
 <figcaption>Pally Siqueira se posicionou contra o despejo no Centro de Forma&ccedil;&atilde;o Paulo Freire./ Foto: Thamires Martins</figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
+
+<p><em>*Editado por Yuri Simeon&nbsp;</em></p>
