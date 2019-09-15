@@ -43,7 +43,7 @@ releated_posts: []
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Artistas apoiam a Reforma Agrária e parabeniza a rede Armazém do Campo. Foto_Divulgação MST.png" height="394" src="//farm66.staticflickr.com/65535/48739079117_9f2a7ac7a3_b.jpg" width="700" />
-<figcaption>/ Foto: Thamires Martins</figcaption>
+<figcaption>Nesse 1 ano de exist&ecirc;ncia, o Armaz&eacute;m do Campo construiu v&aacute;rias amizades./ Foto: Thamires Martins</figcaption>
 </figure>
 </div>
 
@@ -65,28 +65,40 @@ Todos esses temas fazem parte do processo de gesta&ccedil;&atilde;o do Armaz&eac
 <h2><br />
 <strong>Alimentos saud&aacute;veis sim!</strong></h2>
 
-<h2>Nesse 1 ano de exist&ecirc;ncia, o Armaz&eacute;m do Campo construiu v&aacute;rias amizades. Um exemplo disso &eacute; a presen&ccedil;a da atriz, humorista, apresentadora e diretora brasileira Maria Cristina Teixeira Pereira, mais conhecida como Cristina Pereira, que comemora junto ao MST o anivers&aacute;rio da loja.</h2>
+<p><br />
+Nesse 1 ano de exist&ecirc;ncia, o Armaz&eacute;m do Campo construiu v&aacute;rias amizades. Um exemplo disso &eacute; a presen&ccedil;a da atriz, humorista, apresentadora e diretora brasileira Maria Cristina Teixeira Pereira, mais conhecida como Cristina Pereira, que comemora junto ao MST o anivers&aacute;rio da loja.</p>
 
-<p>Pereira tem um hist&oacute;rico de luta em defesa dos Direitos Humanos e sempre se posicionou em defesa dos direitos dos trabalhadores. Ao parabenizar o Armaz&eacute;m do Campo pela data, ela afirma que a loja &eacute; um espa&ccedil;o de alimentos saud&aacute;veis e comidas gostosas para todos.</p>
-
-<p>&nbsp;</p>
-
-<p><em>(L</em><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/P7kQUvWrtYA" width="640"></iframe></p>
-
-<p>Majur, cantora e compositora, foi um dos rostos marcantes que esteve no Armaz&eacute;m do Campo do Rio para comemorar esse primeiro ano de exist&ecirc;ncia da loja. A cantora &eacute; um dos novos rostos da cena musical brasileira. Negra, n&atilde;o-bin&aacute;rio e baiana, apresenta um repert&oacute;rio forte, falando de amor, negritude e tombamento.</p>
-
-<p>Pelas redes sociais, Majur destacou a qualidade dos produtos do Armaz&eacute;m do Campo, depois de levar para casa alguns dos 450 itens que s&atilde;o comercializados hoje no Rio.</p>
+<p><br />
+Pereira tem um hist&oacute;rico de luta em defesa dos Direitos Humanos e sempre se posicionou em defesa dos direitos dos trabalhadores. Ao parabenizar o Armaz&eacute;m do Campo pela data, ela afirma que a loja &eacute; um espa&ccedil;o de alimentos saud&aacute;veis e comidas gostosas para todos.</p>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/P7kQUvWrtYA" width="640"></iframe></p>
+
+<p><br />
+Majur, cantora e compositora, foi um dos rostos marcantes que esteve no Armaz&eacute;m do Campo do Rio para comemorar esse primeiro ano de exist&ecirc;ncia da loja. A cantora &eacute; um dos novos rostos da cena musical brasileira. Negra, n&atilde;o-bin&aacute;rio e baiana, apresenta um repert&oacute;rio forte, falando de amor, negritude e tombamento.</p>
+
+<p><br />
+Pelas redes sociais, Majur destacou a qualidade dos produtos do Armaz&eacute;m do Campo, depois de levar para casa alguns dos 450 itens que s&atilde;o comercializados hoje no Rio.<br />
+&nbsp;</p>
 
 <p>O ator brasileiro, de ascend&ecirc;ncia paraguaia e brasileira, nascido no M&eacute;xico, Chico D&iacute;az, j&aacute; &eacute; de casa. Visitante regular do Armaz&eacute;m, D&iacute;az participa das atividades culturais e dos atos pol&iacute;ticos, al&eacute;m de sempre levar para casa algum produto da loja.</p>
 
-<p>Para ele, &eacute; uma alegria e honra poder comemorar esse momento e fala tamb&eacute;m da import&acirc;ncia de se discutir a produ&ccedil;&atilde;o e o consumo de alimentos saud&aacute;veis.</p>
+<p><br />
+Para ele, &eacute; uma alegria e honra poder comemorar esse momento e fala tamb&eacute;m da import&acirc;ncia de se discutir a produ&ccedil;&atilde;o e o consumo de alimentos saud&aacute;veis.<br />
+&nbsp;</p>
 
-<p><em>(Link do depoimento de Chico D&iacute;az <a href="https://youtu.be/zm_aZ7BeF2c">https://youtu.be/zm_aZ7BeF2c</a>) </em></p>
+<p><br />
+<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/zm_aZ7BeF2c" width="640"></iframe></p>
+
+<p>&nbsp;</p>
 
 <p>A nordestina e atriz Pally Siqueira &eacute; uma das figuras mais marcantes que comemorou o anivers&aacute;rio do Armaz&eacute;m do Campo. Se posicionando contra a amea&ccedil;a de despejo no Centro de Forma&ccedil;&atilde;o Paulo Freire, localizado no assentamento Normandia, em Caruaru (PE), ela repudia a liminar de reintegra&ccedil;&atilde;o de posse e enfatiza que n&atilde;o existem argumentos para expulsar e fechar o espa&ccedil;o que tem atuado de maneira na forma&ccedil;&atilde;o de trabalhadores e na produ&ccedil;&atilde;o de alimentos.</p>
 
-<p><em>(Foto da Pally Siqueira fazendo fala no Ato Pol&iacute;tico-cultural)</em></p>
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Pally denunia ameaça de despelo no Centro Paulo Freire. Foto_Thamires Martins.jpg" height="467" src="//farm66.staticflickr.com/65535/48738568928_cb0ea9b33c_b.jpg" width="700" />
+<figcaption>Pally Siqueira se posicionou contra o despejo no Centro de Forma&ccedil;&atilde;o Paulo Freire./ Foto: Thamires Martins</figcaption>
+</figure>
+</div>
