@@ -109,7 +109,7 @@ Para ele, &eacute; uma alegria e honra poder comemorar esse momento e fala tamb&
 
 <p>&nbsp;</p>
 
-<p>A nordestina e atriz Pally Siqueira &eacute; uma das figuras mais marcantes que comemorou o anivers&aacute;rio do Armaz&eacute;m do Campo. Se posicionando contra a amea&ccedil;a de despejo no Centro de Forma&ccedil;&atilde;o Paulo Freire, localizado no assentamento Normandia, em Caruaru (PE), ela repudia a liminar de reintegra&ccedil;&atilde;o de posse e enfatiza que n&atilde;o existem argumentos para expulsar e fechar o espa&ccedil;o que tem atuado de maneira na forma&ccedil;&atilde;o de trabalhadores e na produ&ccedil;&atilde;o de alimentos.</p>
+<p>A nordestina e atriz Pally Siqueira &eacute; uma das figuras mais marcantes que comemorou o anivers&aacute;rio do Armaz&eacute;m do Campo. Se posicionando contra a amea&ccedil;a de despejo no Centro de Forma&ccedil;&atilde;o Paulo Freire, localizado no assentamento Normandia, em Caruaru (PE), ela repudia a liminar de reintegra&ccedil;&atilde;o de posse e enfatiza que n&atilde;o existem argumentos para expulsar e fechar o espa&ccedil;o que tem atuado&nbsp;na forma&ccedil;&atilde;o de trabalhadores e na produ&ccedil;&atilde;o de alimentos.</p>
 
 <p>&nbsp;</p>
 
