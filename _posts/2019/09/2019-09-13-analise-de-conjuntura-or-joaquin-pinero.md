@@ -3,8 +3,8 @@ date: "2019-09-13T16:48:19-03:00"
 tags: []
 section: tv
 video: "https://www.youtube.com/watch?v=IdMwEQu-mzM&feature=youtu.be"
-title: "ANÁLISE DE CONJUNTURA  | Joaquin Piñero"
-support_line: "Joaquin Piñero, da Coordenação Nacional do MST, fala sobre o aumento dos taques do governo Bolsonaro ao MST, os casos de censura, a Vaza Jato e as Milícias no Rio de Janeiro e seu envolvimento com o governo federal."
+title: "ANÁLISE DE CONJUNTURA #14 | Ataques ao MST, Censura, Vaza Jato e Milícias\n"
+support_line: "No programa de Análise de Conjuntura desta semana, Joaquin Piñero, da Coordenação Nacional do MST, fala sobre o aumento dos ataques do governo Bolsonaro ao MST, os casos de censura, Vaza Jato e e as Milícias no Rio de Janeiro"
 menu: direitos humanos
 layout: post
 files: []
