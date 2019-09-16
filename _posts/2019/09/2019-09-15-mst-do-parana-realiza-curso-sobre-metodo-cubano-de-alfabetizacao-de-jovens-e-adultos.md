@@ -5,7 +5,7 @@ tags:
   - tag: vigilia
   - tag: lula-livre
 title: MST do Paraná realiza curso sobre método cubano de alfabetização de jovens e adultos
-support_line: "Estado teve crescimento de 13,47% do analfabetismo entre 2016 e 2018, e está na contração dos índices nacionais"
+support_line: "Estado teve crescimento de 13,47% do analfabetismo entre 2016 e 2018, e está na contramão dos índices nacionais"
 images_hd: //farm66.staticflickr.com/65535/48739582371_a03e9ee0b5_b.jpg
 menu: "educação, cultura e comunicação"
 sector: education
