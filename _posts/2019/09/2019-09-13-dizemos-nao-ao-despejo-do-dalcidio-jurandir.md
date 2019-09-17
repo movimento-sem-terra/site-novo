@@ -31,12 +31,12 @@ releated_posts:
   - _posts/2019/06/2019-06-06-despejo-no-para-ameaca-dez-anos-de-producao-de-alimentos-saudaveis.md
   - _posts/2019/09/2019-09-11-juiz-acata-pedido-de-empresa-do-daniel-dantas-para-despejar-212-familias-no-para.md
   - _posts/2019/05/2019-05-27-a-curva-do-s-agora-e-patrimonio-do-para.md
+section: featured-news
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="20190610_064931.jpg" height="525" src="//farm66.staticflickr.com/65535/48727877742_68d9e6f983_b.jpg" width="700" />
-<figcaption><em>O acampamento comercializa 174 toneladas de farinha nos munic&iacute;pios de Xinguara, Reden&ccedil;&atilde;o, Rio Maria, Curion&oacute;polis e outros. Foto: Divulga&ccedil;&atilde;o MST</em><br />
-</figcaption>
+<figcaption><em>O acampamento comercializa 174 toneladas de farinha nos munic&iacute;pios de Xinguara, Reden&ccedil;&atilde;o, Rio Maria, Curion&oacute;polis e outros. Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 </div>
 
