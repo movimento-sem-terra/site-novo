@@ -97,7 +97,7 @@ principal fonte de renda local. Foto: FeNaDANTE</em></figcaption>
 <p>Os 3 projetos tem uma caracter&iacute;stica comum: foram pensados pelos jovens a partir da realidade onde vivem. Gabriel Maia foi aprovado com o projeto da &ldquo;Mini-descastanhadeira&rdquo;. Segundo ele, a ideia surgiu da necessidade dos produtores locais, que tem na produ&ccedil;&atilde;o da castanha-de-caju, entre agosto e dezembro, a principal fonte de renda do ano. &ldquo;A gente tentou desenvolver um prot&oacute;tipo de uma tecnologia para agilizar o processo de descatanhar a castanha-de-caju, processo esse que, hoje, &eacute; todo feito manualmente&rdquo;.</p>
 
 <p><br />
-O projeto foi feito na disciplina de Organiza&ccedil;&atilde;o do Trabalho e T&eacute;cnicas Produzidas (OTTP), onde educadores e educandos pensam em formas de utilizar a produ&ccedil;&atilde;o do conhecimento na melhoria da realidade local. &ldquo;Ela [OTTP] ensina voc&ecirc; a manusear todas essas culturas para melhorar seu conhecimento&rdquo;.<br />
+O projeto foi feito na disciplina de Organiza&ccedil;&atilde;o do Trabalho e T&eacute;cnicas Produtivas (OTTP), onde educadores e educandos pensam em formas de utilizar a produ&ccedil;&atilde;o do conhecimento na melhoria da realidade local. &ldquo;Ela [OTTP] ensina voc&ecirc; a manusear todas essas culturas para melhorar seu conhecimento&rdquo;.<br />
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="[Matéria Yuri] Guilherme.jpg" height="242" src="//farm66.staticflickr.com/65535/48750783172_dcccf613ff_b.jpg" width="300" />
@@ -114,7 +114,7 @@ Ele conta que fez o projeto, com a ajuda de seu professor de f&iacute;sica, para
 
 <figure class="image" style="float:right"><img alt="[Matéria Yuri] Guilherme2.jpg" height="450" src="//farm66.staticflickr.com/65535/48750595686_75842d12b5_b.jpg" width="300" />
 <figcaption><em>Pr&oacute;ximo passo de Guilherme ser&aacute; apresentar a<br />
-inven&ccedil;&atilde;o em feira cient&iacute;fica no M&eacute;xico.&nbsp;</em></figcaption>
+inven&ccedil;&atilde;o em feira cient&iacute;fica no M&eacute;xico. Foto: Yuri Simeon</em></figcaption>
 </figure>
 
 <p>O projeto do Guilherme conquistou o terceiro lugar na categoria &ldquo;Tecnologia da informa&ccedil;&atilde;o&rdquo; e, por isso, ele foi convidado para levar sua cria&ccedil;&atilde;o para a Feira de Proyectos (Fepro), em Puebla, no M&eacute;xico. Ele destacou o papel da escola do campo nesta conquista. &ldquo;A escola do campo &eacute; muito importante&nbsp;porque atribuiu um conhecimento a mais sobre as nossas origens e nossa realidade do campo&rdquo;.</p>
