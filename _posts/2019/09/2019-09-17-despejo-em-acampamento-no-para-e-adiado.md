@@ -79,7 +79,7 @@ Entretanto em junho de 2019, em audi&ecirc;ncia no f&oacute;rum da comarca de ma
 Sendo assim, n&oacute;s do MST afirmamos que continuaremos em resist&ecirc;ncia, afirmando&nbsp;que <strong>N&Atilde;O ABRIREMOS M&Atilde;O DO DIREITO A TERRA</strong>. As fam&iacute;lias est&atilde;o h&aacute; 11 anos&nbsp;plantando alimentos saud&aacute;veis, constru&iacute;ram uma escola, constru&iacute;ram sua vida. E n&atilde;o&nbsp;<strong>ACEITAMOS</strong> que <strong>UM JUIZ</strong> e um <strong>GOVERNO</strong> ponham as fam&iacute;lias em vulnerabilidade e&nbsp;gerem um impacto de viola&ccedil;&atilde;o de direitos humanos no munic&iacute;pio. N&atilde;o queremos outros&nbsp;Massacres! Chega de Viol&ecirc;ncia contra as Trabalhadoras e os Trabalhadores Rurais!</p>
 
 <p><br />
-Reivindicamos a suspen&ccedil;&atilde;o definitiva do despejo e a destina&ccedil;&atilde;o de todo o complexo&nbsp;da fazenda para Reforma Agr&aacute;ria, para que as 212 fam&iacute;lias acampadas possam ser assentadas, garantindo seus direitos b&aacute;sico como seres humanos.</p>
+Reivindicamos a suspens&atilde;o definitiva do despejo e a destina&ccedil;&atilde;o de todo o complexo&nbsp;da fazenda para Reforma Agr&aacute;ria, para que as 212 fam&iacute;lias acampadas possam ser assentadas, garantindo seus direitos b&aacute;sico como seres humanos.</p>
 
 <p><br />
 Esse adiamento &eacute; fruto da luta das fam&iacute;lias daquele territ&oacute;rio e da grande solidariedade de companheiros e companheiras que seguraram firme em nossas m&atilde;os nesse&nbsp;momento de enfrentamento contra aqueles que s&oacute; querem monopolizar a terra e nada&nbsp;contribui com a vida.</p>
