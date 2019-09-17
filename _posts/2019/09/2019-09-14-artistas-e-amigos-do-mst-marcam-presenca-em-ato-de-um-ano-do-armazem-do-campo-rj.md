@@ -31,6 +31,7 @@ published: true
 releated_posts:
   - _posts/2018/12/2018-12-12-armazem-do-campo-completa-primeiro-aniversario-em-belo-horizonte-mg.md
   - _posts/2019/09/2019-09-12-armazem-do-campo-completa-um-ano-no-rio-de-janeiro-com-programacao-cultural.md
+section: cover
 
 ---
 <div itemprop="author" rel="author">
