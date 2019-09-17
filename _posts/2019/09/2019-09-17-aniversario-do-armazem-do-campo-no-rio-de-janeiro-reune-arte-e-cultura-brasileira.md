@@ -18,4 +18,4 @@ releated_posts: []
 ---
 <p>&nbsp;</p>
 
-<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/zsRQ2h2orDk" width="640"></iframe></p>
+<p>&nbsp;</p>
