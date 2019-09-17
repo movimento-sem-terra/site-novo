@@ -6,7 +6,7 @@ tags:
 title: Despejo em acampamento no Pará é adiado
 support_line: Leia a nota oficial do estado sobre o adiamento do despejo
 menu: lutas e mobilizações
-images_hd: //farm66.staticflickr.com/65535/48751179401_78295f0844_b.jpg
+images_hd: //farm66.staticflickr.com/65535/48751394997_dc4203acd9_b.jpg
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/48751179401_78295f0844_b.jpg
@@ -16,6 +16,13 @@ files:
     small: //farm66.staticflickr.com/65535/48751179401_78295f0844_n.jpg
     title: "[155] PARÁ - Fotos João Laet.jpeg"
     $$hashKey: 1RT
+  - link: //farm66.staticflickr.com/65535/48751394997_dc4203acd9_b.jpg
+    original: //farm66.staticflickr.com/65535/48751394997_ec961c3948_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48751394997_dc4203acd9_t.jpg
+    medium: //farm66.staticflickr.com/65535/48751394997_dc4203acd9_z.jpg
+    small: //farm66.staticflickr.com/65535/48751394997_dc4203acd9_n.jpg
+    title: "[165] card despejo.jpeg"
+    $$hashKey: 05O
 created_date: "2019-09-17T17:49:39-03:00"
 published: true
 releated_posts:
@@ -34,8 +41,14 @@ releated_posts:
 <p><br />
 <em>Da P&aacute;gina do MST</em></p>
 
-<p><br />
-Amea&ccedil;ado de despejo, o acampamento Dalc&iacute;dio Jurandir, localizado em Eldorado dos Caraj&aacute;s, foi informado hoje sobre o adiamento da decis&atilde;o sobre a retirada de mais de 200 fam&iacute;lias do local.&nbsp;</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="[165] card despejo.jpeg" height="300" src="//farm66.staticflickr.com/65535/48751394997_dc4203acd9_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
+
+<p>Amea&ccedil;ado de despejo, o acampamento Dalc&iacute;dio Jurandir, localizado em Eldorado dos Caraj&aacute;s, foi informado hoje sobre o adiamento da decis&atilde;o sobre a retirada de mais de 200 fam&iacute;lias do local.&nbsp;<br />
+&nbsp;</p>
 
 <p>De acordo com a decis&atilde;o do juiz da vara agr&aacute;ria de Marab&aacute;, Amarildo Mazutti, as fam&iacute;lias teriam que cumprir&nbsp;a liminar de despejo at&eacute; o dia de hoje (17/09). Entretanto, o mesmo juiz alega o n&atilde;o recebimento do plano de realojamento das fam&iacute;lias, que&nbsp;ficou na responsabilidade da Prefeitura de Eldorado do Caraj&aacute;s.&nbsp;</p>
 
