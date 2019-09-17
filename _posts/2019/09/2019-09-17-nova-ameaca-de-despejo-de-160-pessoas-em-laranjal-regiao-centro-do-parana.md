@@ -5,7 +5,7 @@ tags:
   - tag: despejo
   - tag: justiça
 title: "Nova ameaça de despejo de 160 pessoas em Laranjal, região centro do Paraná"
-support_line: "Em nota, MST no Paraná sai em defesa das famílias acampadas há aproximadamente 8 anos "
+support_line: "Em nota, MST no Paraná sai em defesa das famílias acampadas há aproximadamente 3 anos "
 images_hd: //farm66.staticflickr.com/65535/48750198508_04c88ca723_b.jpg
 menu: lutas e mobilizações
 layout: post
