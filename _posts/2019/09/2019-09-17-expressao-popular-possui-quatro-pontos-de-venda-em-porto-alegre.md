@@ -33,9 +33,14 @@ releated_posts:
 section: featured-news
 
 ---
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Livraria Cirkula é uma parceira da Editora Expressão Popular.  Foto Maiara Rauber-6.jpg" height="467" src="//farm66.staticflickr.com/65535/48750986632_21c8b57174_b.jpg" width="700" />
+<figcaption><em>Livraria Cirkula &eacute; a mais recente parceira da Express&atilde;o Popular.&nbsp; Foto: Maiara Rauber</em></figcaption>
+</figure>
+</div>
 
-<p><em>Por Maiara Rauber<br />
+<p><br />
+<em>Por Maiara Rauber<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
