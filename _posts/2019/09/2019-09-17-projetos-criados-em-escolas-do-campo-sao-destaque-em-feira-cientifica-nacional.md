@@ -1,6 +1,10 @@
 ---
 date: "2019-09-17T15:35:48-03:00"
-tags: []
+tags:
+  - tag: escola-do-campo
+  - tag: ciência-e-tecnologia
+  - tag: agroecologia
+  - tag: ceará
 title: Projetos criados em escolas do campo são destaque em feira científica nacional
 support_line: Jovens do interior do Ceará apresentaram seus projetos em feira realizada em São Paulo
 menu: "educação, cultura e comunicação"
@@ -50,8 +54,15 @@ files:
     title: "[Matéria Yuri] Bandeira e educandoss.jpg"
     $$hashKey: 11G
 created_date: "2019-09-17T15:56:49-03:00"
-published: false
-releated_posts: []
+published: true
+releated_posts:
+  - _posts/2019/09/2019-09-10-no-ceara-seminario-debate-metodologia-campones-a-campones.md
+  - _posts/2019/06/2019-06-22-assentamento-inaugura-centro-cultural-em-comemoracao-de-20-anos.md
+  - _posts/2019/02/2019-02-04-durante-encontro-estadual-mst-debate-a-importancia-da-educacao-no-campo.md
+  - _posts/2019/03/2019-03-25-como-funcionam-as-escolas-do-campo-que-estao-na-mira-do-governo-bolsonaro.md
+  - _posts/2019/07/2019-07-17-estudiosos-da-area-de-defesa-criticam-politica-de-ciencia-e-tecnologia.md
+  - _posts/2019/04/2019-04-01-sem-terrinha-em-alagoas-realizam-ato-por-melhorias-na-educacao-em-atalaia.md
+  - _posts/2019/03/2019-03-27-protagonismo-das-escolas-em-assentamentos-quebra-preconceitos-sobre-ensino-no-campo.md
 
 ---
 <div style="text-align:center">
@@ -140,13 +151,13 @@ na transforma&ccedil;&atilde;o social. Foto: Yuri Simeon</em></figcaption>
 Por fim, descreveu o papel transformador da escola do campo nesse processo. &ldquo;A educa&ccedil;&atilde;o do campo n&atilde;o deixa a aula dentro das quarto paredes. Nossa aula &eacute; na sala, no campo, na comunidade, em qualquer lugar em que os nossos educandos estejam inseridos. Quando voc&ecirc; pega uma problem&aacute;tica que nosso aluno est&aacute; vivenciando todo dia,&nbsp;ele quer solucionar; quando voc&ecirc; d&aacute; abertura, nossos educandos pensam ideias excelentes e significativas&rdquo;.<br />
 &nbsp;</p>
 
-<p>LEIA MAIS:&nbsp;</p>
+<p><strong>LEIA MAIS:&nbsp;</strong><a href="http://www.mst.org.br/2019/03/22/no-ceara-mst-inaugura-mais-uma-escola-de-ensino-medio-do-campo.html" target="_blank">MST conquista mais uma escola do campo no Cear&aacute;</a><br />
+&nbsp;</p>
 
-<h1 itemprop="name" style="box-sizing: inherit; line-height: 39.36px; margin-bottom: 16px; font-size: 41px; margin-top: 0.2em; overflow-wrap: break-word; clear: both; color: rgb(85, 85, 85); font-family: Helvetica, Arial, sans-serif;">MST conquista mais uma escola do campo no Cear&aacute;</h1>
+<p>&nbsp;</p>
 
-<div>&nbsp;</div>
-
-<p>As escolas do campo s&atilde;o conquistas importantes para fam&iacute;lias assentadas, e ao longo dos &uacute;ltimos 11 anos o MST no Cear&aacute; tem pautado escolas espalhadas em todo o estado. Estes s&atilde;o espa&ccedil;os constru&iacute;dos pela comunidade onde est&atilde;o inseridos, conseguindo preparar muitos jovens para ingressar nas universidades p&uacute;blicas e garantindo que filhos e filhas de camponeses tenham oportunidade de estudar.</p>
+<p>As escolas do campo s&atilde;o conquistas importantes para fam&iacute;lias assentadas, e ao longo dos &uacute;ltimos 11 anos o MST no Cear&aacute; tem pautado escolas espalhadas em todo o estado. Estes s&atilde;o espa&ccedil;os constru&iacute;dos pela comunidade onde est&atilde;o inseridos, conseguindo preparar muitos jovens para ingressar nas universidades p&uacute;blicas e garantindo que filhos e filhas de camponeses tenham oportunidade de estudar.<br />
+&nbsp;</p>
 
 <p>No Cear&aacute;, atualmente existem nove unidades de escolas do campo funcionando em assentamentos de Reforma Agr&aacute;ria, s&atilde;o elas: a Escola Jo&atilde;o dos Santos de Oliveira, no assentamento 25 de Maio, na cidade de Madalena; a Escola Florestan Fernandes, no assentamento Santana, em Monsenhor Tabosa; a Escola Nazar&eacute; Flor, no assentamento Macei&oacute;, em Itapipoca; a Escola Francisco Barros, no assentamento Lagoa do Mineiro, em Itarema; a Escola Jos&eacute; Fid&eacute;lis de Moura, no assentamento Bonfim Concei&ccedil;&atilde;o, em Santana do Acara&uacute;; a Escola Francisca Pinto, no assentamento Ant&ocirc;nio Conselheiro, em Ocara; a Escola Patativa do Assar&eacute;, no assentamento Santana da Cal, em Canind&eacute;; e a Escola Padre Jos&eacute; Augusto, no assentamento Pedra e Cal, em Jaguaretama.</p>
 
