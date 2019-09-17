@@ -78,7 +78,7 @@ Os tr&ecirc;s est&atilde;o entre os 115 projetos finalistas, vindos de 8 estados
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="[Matéria Yuri] Gabriel.jpg" height="241" src="//farm66.staticflickr.com/65535/48750782962_866f82ba38_b.jpg" width="300" />
+<figure class="image" style="float:right"><img alt="[Matéria Yuri] Gabriel.jpg" height="241" src="//farm66.staticflickr.com/65535/48750782962_866f82ba38_b.jpg" width="300" />
 <figcaption><em>Mini-descastanheira auxilia na produ&ccedil;&atilde;o da<br />
 principal fonte de renda local. Foto: FeNaDANTE</em></figcaption>
 </figure>
@@ -89,18 +89,22 @@ principal fonte de renda local. Foto: FeNaDANTE</em></figcaption>
 O projeto foi feito na disciplina de Organiza&ccedil;&atilde;o do Trabalho e T&eacute;cnicas Produzidas (OTTP), onde educadores e educandos pensam em formas de utilizar a produ&ccedil;&atilde;o do conhecimento na melhoria da realidade local. &ldquo;Ela [OTTP] ensina voc&ecirc; a manusear todas essas culturas para melhorar seu conhecimento&rdquo;.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="[Matéria Yuri] Guilherme.jpg" height="242" src="//farm66.staticflickr.com/65535/48750783172_dcccf613ff_b.jpg" width="300" />
-<figcaption>Mini-descastanheira auxilia na produ&ccedil;&atilde;o da principal fonte de renda local./ Foto: FeNaDANTE</figcaption>
+<figure class="image" style="float:left"><img alt="[Matéria Yuri] Guilherme.jpg" height="242" src="//farm66.staticflickr.com/65535/48750783172_dcccf613ff_b.jpg" width="300" />
+<figcaption><em>Projeto reduz desperd&iacute;cio de &aacute;gua, controlando a<br />
+irriga&ccedil;&atilde;o atrav&eacute;s de um hardware. Foto: FeNaDANTE</em></figcaption>
 </figure>
 
 <p>Guilherme Alves levou para a feira o projeto de &ldquo;Redu&ccedil;&atilde;o de desperd&iacute;cios de recursos h&iacute;dricos no cultivo de hortali&ccedil;as por meio do sistema inteligente de irriga&ccedil;&atilde;o&rdquo;. A cria&ccedil;&atilde;o utiliza um pequeno hardware para programar e controlar a irriga&ccedil;&atilde;o, atrav&eacute;s do sistema de gotejamento. &ldquo;Meu projeto visa combater o desperd&iacute;cio de &aacute;gua. Como na minha regi&atilde;o o bem h&iacute;drico &eacute; um pouco escasso, busquei diminuir o desperd&iacute;cio de &aacute;gua na irriga&ccedil;&atilde;o dos canteiros e hortas da minha escola&rdquo;, explica.</p>
 
-<p>Legenda: Projeto reduz desperd&iacute;cio de &aacute;gua, controlando a irriga&ccedil;&atilde;o atrav&eacute;s de um hardware./ Foto: FeNaDANTE</p>
+<p><br />
+Ele conta que fez o projeto, com a ajuda de seu professor de f&iacute;sica, para ser instalado na escola, mas caso se mostre vi&aacute;vel, a ideia &eacute; expand&iacute;-lo. &ldquo;Eu fiz o projeto visando a escola, mas tamb&eacute;m pequenos produtores da regi&atilde;o. Com esse sistema eles n&atilde;o teriam um desperc&iacute;cio de &aacute;gua t&atilde;o grande e isso seria bastante simples, porque o sistema funciona de maneira autonoma, bastaria implement&aacute;-lo&rdquo;.&nbsp;</p>
 
-<p>Ele conta que fez o projeto, com a ajuda de seu professor de f&iacute;sica, para ser instalado na escola, mas caso se mostre vi&aacute;vel, a ideia &eacute; expand&iacute;-lo. &ldquo;Eu fiz o projeto visando a escola, mas tamb&eacute;m pequenos produtores da regi&atilde;o. Com esse sistema eles n&atilde;o teriam um desperc&iacute;cio de &aacute;gua t&atilde;o grande e isso seria bastante simples, porque o sistema funciona de maneira autonoma, bastaria implement&aacute;-lo&rdquo;.&nbsp;</p>
+<p>&nbsp;</p>
 
-<p>[Foto: Guilheme2]<br />
-Legenda: Pr&oacute;ximo passo ser&aacute; apresentar a inven&ccedil;&atilde;o em feira cient&iacute;fica no M&eacute;xico./ Foto: Yuri Simeon</p>
+<figure class="image" style="float:right"><img alt="[Matéria Yuri] Guilherme2.jpg" height="450" src="//farm66.staticflickr.com/65535/48750595686_75842d12b5_b.jpg" width="300" />
+<figcaption>Pr&oacute;ximo passo de Guilherme ser&aacute; apresentar a<br />
+inven&ccedil;&atilde;o em feira cient&iacute;fica no M&eacute;xico.&nbsp;</figcaption>
+</figure>
 
 <p>O projeto do Guilherme conquistou o terceiro lugar na categoria &ldquo;Tecnologia da informa&ccedil;&atilde;o&rdquo; e por isso ele foi convidado para levar sua cria&ccedil;&atilde;o para a Feira de Proyectos (Fepro), em Puebla, no M&eacute;xico. Ele destaca o papel da escola do campo nesta conquista. &ldquo;A escola do campo &eacute; muito importante, porque atribuiu um conhecimento a mais sobre as nossas origens e nossa realidade do campo&rdquo;.</p>
 
