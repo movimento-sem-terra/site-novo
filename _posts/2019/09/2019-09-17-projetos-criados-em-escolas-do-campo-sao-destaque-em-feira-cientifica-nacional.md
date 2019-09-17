@@ -154,8 +154,6 @@ Por fim, descreveu o papel transformador da escola do campo nesse processo. &ldq
 <p><strong>LEIA MAIS:&nbsp;</strong><a href="http://www.mst.org.br/2019/03/22/no-ceara-mst-inaugura-mais-uma-escola-de-ensino-medio-do-campo.html" target="_blank">MST conquista mais uma escola do campo no Cear&aacute;</a><br />
 &nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p>As escolas do campo s&atilde;o conquistas importantes para fam&iacute;lias assentadas, e ao longo dos &uacute;ltimos 11 anos o MST no Cear&aacute; tem pautado escolas espalhadas em todo o estado. Estes s&atilde;o espa&ccedil;os constru&iacute;dos pela comunidade onde est&atilde;o inseridos, conseguindo preparar muitos jovens para ingressar nas universidades p&uacute;blicas e garantindo que filhos e filhas de camponeses tenham oportunidade de estudar.<br />
 &nbsp;</p>
 
