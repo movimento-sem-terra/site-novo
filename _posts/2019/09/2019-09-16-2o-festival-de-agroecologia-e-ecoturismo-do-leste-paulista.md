@@ -25,6 +25,7 @@ releated_posts:
   - _posts/2019/08/2019-08-02-solar-cultural-realiza-feira-e-mostra-cultural-da-reforma-agraria.md
   - _posts/2019/08/2019-08-19-acampamento-marielle-vive-e-uma-ilha-de-produtividade-em-um-mar-de-condominios.md
   - _posts/2019/08/2019-08-23-a-terra-nao-e-mercadoria-juventude-sem-terra-e-agroecologia.md
+section: featured-news
 
 ---
 <div style="text-align:center">
