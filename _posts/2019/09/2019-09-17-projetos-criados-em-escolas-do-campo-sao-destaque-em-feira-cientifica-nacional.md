@@ -63,6 +63,7 @@ releated_posts:
   - _posts/2019/07/2019-07-17-estudiosos-da-area-de-defesa-criticam-politica-de-ciencia-e-tecnologia.md
   - _posts/2019/04/2019-04-01-sem-terrinha-em-alagoas-realizam-ato-por-melhorias-na-educacao-em-atalaia.md
   - _posts/2019/03/2019-03-27-protagonismo-das-escolas-em-assentamentos-quebra-preconceitos-sobre-ensino-no-campo.md
+section: featured-news
 
 ---
 <div style="text-align:center">
