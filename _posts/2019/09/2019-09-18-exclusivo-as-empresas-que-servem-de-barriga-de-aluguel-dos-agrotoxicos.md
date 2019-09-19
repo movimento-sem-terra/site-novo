@@ -3,7 +3,7 @@ date: "2019-09-18T11:35:33-03:00"
 tags:
   - tag: agrotoxicos
   - tag: governo
-title: "Exclusivo: as empresas que servem de ‘“barriga de aluguel” dos agrotóxicos"
+title: "Exclusivo: as empresas que servem de “barriga de aluguel” dos agrotóxicos"
 images_hd: //farm66.staticflickr.com/65535/48754297543_eee7b60178_b.jpg
 menu: agronegócio
 support_line: Levantamento inédito revela que 75 empresas transferiram permissões de venda de 326 produtos agrotóxicos; processo é legal mas pode servir para “especulação”
