@@ -105,3 +105,7 @@ Continuaremos em luta e resist&ecirc;ncia para que os sonhos dos trabalhadores e
 
 <p style="text-align: center;"><br />
 <em>Movimento dos Trabalhadores Sem Terra na Bahia</em></p>
+
+<p>&nbsp;</p>
+
+<p><em>* Editado por Fernanda Alc&acirc;ntara</em></p>
