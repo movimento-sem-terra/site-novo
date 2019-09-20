@@ -20,7 +20,7 @@ files:
     title: Screenshot-MST.jpg
     $$hashKey: 05P
 created_date: "2019-09-20T06:44:26-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/11/2018-11-25-via-campesina-diz-nao-a-violencia-do-patriarcado-e-do-capitalismo-dois-males-que-afligem-a-humanidade.md
   - _posts/2019/02/2019-02-28-hhhhhhhhh.md
