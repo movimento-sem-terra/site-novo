@@ -3,8 +3,8 @@ date: "2019-09-20T14:55:17-03:00"
 tags:
   - tag: despejo
   - tag: paraná
-title: "Despejo destrói comunidade de 54 famílias acampadas em Laranjal, Paraná "
-support_line: Prefeitura aponta para os dados econômicos e sociais causados na cidade com ação
+title: "Despejo destrói comunidade de 54 famílias acampadas em Laranjal, no Paraná "
+support_line: Prefeitura aponta para os dados econômicos e sociais causados na cidade com ação de despejo
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48766185057_77fd1e9d88_b.jpg
 section: featured-news
