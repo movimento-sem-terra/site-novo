@@ -73,8 +73,9 @@ Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="PDS Casa de Farinha [2].jpeg" height="200" src="//farm66.staticflickr.com/65535/48765481686_a3a3848948_b.jpg" width="300" />
-<figcaption><em>Projeto foi financiado com recursos de incentivo&nbsp;&agrave;<br />
-ecnologia social da (CNPq). Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
+<figcaption><em>Projeto foi financiado com recursos de<br />
+incentivo&nbsp;&agrave; econologia social da (CNPq).<br />
+Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
 
 <p>Com um sorriso no rosto, a assentada Gildete Rocha Sales&nbsp;diz que a chegada da casa de farinha vai proporcionar a produ&ccedil;&atilde;o de tapiocas coloridas, al&eacute;m da pr&oacute;pria farinha &ldquo;bem torradinha&rdquo;.&nbsp;<br />
