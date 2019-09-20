@@ -19,6 +19,13 @@ files:
     small: //farm66.staticflickr.com/65535/48763692891_9527dcca6d_n.jpg
     title: Screenshot-MST.jpg
     $$hashKey: 05P
+  - link: //farm66.staticflickr.com/65535/48764103816_6c58c1cafd_b.jpg
+    original: //farm66.staticflickr.com/65535/48764103816_63e7b4fa18_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48764103816_6c58c1cafd_t.jpg
+    medium: //farm66.staticflickr.com/65535/48764103816_6c58c1cafd_z.jpg
+    small: //farm66.staticflickr.com/65535/48764103816_6c58c1cafd_n.jpg
+    title: WhatsApp Image 2019-09-20 at 08.51.05.jpeg
+    $$hashKey: 0QY
 created_date: "2019-09-20T06:44:26-03:00"
 published: true
 releated_posts:
@@ -33,6 +40,8 @@ releated_posts:
   - _posts/2019/08/2019-08-07-13-anos-da-lei-maria-da-penha-mulheres-vitimas-de-violencia-domestica.md
 
 ---
+<p style="text-align:center"><img alt="WhatsApp Image 2019-09-20 at 08.51.05.jpeg" height="394" src="//farm66.staticflickr.com/65535/48764103816_6c58c1cafd_b.jpg" width="700" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
