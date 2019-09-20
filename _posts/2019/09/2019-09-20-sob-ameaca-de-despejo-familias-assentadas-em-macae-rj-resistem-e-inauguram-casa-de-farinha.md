@@ -72,13 +72,13 @@ Da P&aacute;gina do MST</em><br />
 <p>Para rememorar esse processo, no &uacute;ltimo dia 7 de setembro, as fam&iacute;lias comemoraram a trajet&oacute;ria hist&oacute;rica da comunidade&nbsp;desde o acampamento, e&nbsp; inauguraram uma casa de farinha, que j&aacute; est&aacute; sendo utilizada coletivamente na produ&ccedil;&atilde;o de diversos alimentos saud&aacute;veis que possuem como mat&eacute;ria-prima o aipim e a mandioca.<br />
 &nbsp;</p>
 
-<p>Com um sorriso no rosto, a assentada Gildete Rocha Sales&nbsp;diz que a chegada da casa de farinha vai proporcionar a produ&ccedil;&atilde;o de tapiocas coloridas, al&eacute;m da pr&oacute;pria farinha &ldquo;bem torradinha&rdquo;.&nbsp;<br />
-&nbsp;</p>
-
 <figure class="image" style="float:left"><img alt="PDS Casa de Farinha [2].jpeg" height="200" src="//farm66.staticflickr.com/65535/48765481686_a3a3848948_b.jpg" width="300" />
 <figcaption><em>Projeto foi financiado com recursos de incentivo&nbsp;&agrave;<br />
 ecnologia social da (CNPq). Foto: Divulga&ccedil;&atilde;o MST</em></figcaption>
 </figure>
+
+<p>Com um sorriso no rosto, a assentada Gildete Rocha Sales&nbsp;diz que a chegada da casa de farinha vai proporcionar a produ&ccedil;&atilde;o de tapiocas coloridas, al&eacute;m da pr&oacute;pria farinha &ldquo;bem torradinha&rdquo;.&nbsp;<br />
+&nbsp;</p>
 
 <p>Vale destacar que as tapiocas coloridas, com corante natural de beterraba, e a tradicional, com leite condensado e coco, foram as atra&ccedil;&otilde;es da inaugura&ccedil;&atilde;o.</p>
 
