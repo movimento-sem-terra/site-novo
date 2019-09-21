@@ -1,6 +1,9 @@
 ---
 date: "2019-09-21T18:27:44-03:00"
-tags: []
+tags:
+  - tag: jura
+  - tag: espírito-santo
+  - tag: reforma-agrária-popular
 title: UFES realiza 5ª Jornada Universitária em Defesa da Reforma Agrária
 support_line: "Foram realizados debates, apresentação de trabalhos, lançamento de livros, atrações culturais e feira camponesa, em Vitória-ES. "
 menu: "educação, cultura e comunicação"
