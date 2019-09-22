@@ -46,12 +46,13 @@ releated_posts:
   - _posts/2019/09/2019-09-05-armazem-do-campo-sp-completa-tres-anos-de-aluta-e-resistencia.md
   - _posts/2019/04/2019-04-08-cooperativa-do-mst-entregam-mais-de-90-toneladas-de-alimentos-as-escolas.md
   - _posts/2019/07/2019-07-05-a-luta-e-pela-terra-e-uma-luta-coletiva-diante-disso-todas-as-conquistas-tambem-sao.md
+section: featured-news
+sector: production
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Alguns dos tipos de café comercializados pela Terra de Sabores. Foto_Thamires Martins.jpg" height="367" src="//farm66.staticflickr.com/65535/48776640347_1e5a48d259_b.jpg" width="550" />
-<figcaption><em>Um dos tipos de caf&eacute; comercializados pela Terra de Sabores.<br />
-Foto: Thamires Martins</em></figcaption>
+<figure class="image" style="display:inline-block"><img alt="Alguns dos tipos de café comercializados pela Terra de Sabores. Foto_Thamires Martins.jpg" height="467" src="//farm66.staticflickr.com/65535/48776640347_1e5a48d259_b.jpg" width="700" />
+<figcaption><em>Um dos tipos de caf&eacute; comercializados pela Terra de Sabores. Foto: Thamires Martins</em></figcaption>
 </figure>
 </div>
 
@@ -100,8 +101,9 @@ Da P&aacute;gina do MST</em><br />
 <p>Hoje, o assentamento ao completar 34 anos, j&aacute; tem 70 fam&iacute;lias residindo na &aacute;rea, por conta dos filhos dos assentados que ficaram junto aos pais. A comunidade integra a Coopterra e participa da marca Terra de Sabores.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="Colheita de café em área de Reforma Agrária no ES. Foto_Divulgação.jpg" height="300" src="//farm66.staticflickr.com/65535/48776668472_ce15f7489a_b.jpg" width="400" />
-<figcaption><em>Colheita de caf&eacute; em &aacute;rea de Reforma Agr&aacute;ria no ES. Foto: Divulga&ccedil;&atilde;o</em></figcaption>
+<figure class="image" style="float:left"><img alt="Colheita de café em área de Reforma Agrária no ES. Foto_Divulgação.jpg" height="263" src="//farm66.staticflickr.com/65535/48776668472_ce15f7489a_b.jpg" width="350" />
+<figcaption><em>Colheita de caf&eacute; em &aacute;rea de Reforma Agr&aacute;ria no ES.<br />
+Foto: Divulga&ccedil;&atilde;o</em></figcaption>
 </figure>
 
 <p>No Vale da Vit&oacute;ria, a produ&ccedil;&atilde;o da geleia e do caf&eacute; para marca t&ecirc;m animado as fam&iacute;lias, direcionando outra linha de produ&ccedil;&atilde;o. Por&eacute;m, vale destacar, que al&eacute;m do caf&eacute;, a pimenta &eacute; uma cultura produtiva importante.<br />
@@ -122,12 +124,14 @@ Da P&aacute;gina do MST</em><br />
 <p><strong>No Armaz&eacute;m tem!</strong><br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="Armazém do Campo no RJ. Foto_Thamires Martins.jpg" height="267" src="//farm66.staticflickr.com/65535/48776107173_fc2b43e4eb_b.jpg" width="400" />
-<figcaption><em>Produtos s&atilde;o encontrados nas lojas do Armaz&eacute;m do Campo.<br />
-Foto: Thamires Martins</em></figcaption>
-</figure>
-
 <p>Os produtos do assentamento Vale da Vit&oacute;ria, com a marca Terra de Sabores, est&atilde;o dispon&iacute;veis para compra tamb&eacute;m no Armaz&eacute;m do Campo, loja do MST, que tem atuado em rede e possui estabelecimentos em S&atilde;o Paulo, Rio de Janeiro, Belo Horizonte, Maranh&atilde;o e Recife.&nbsp;<br />
 &nbsp;</p>
 
 <p>As lojas est&atilde;o repletas de luta e de produtos da Reforma Agr&aacute;ria, como da Coopterra, que s&atilde;o derivados do leite, caf&eacute;, mel, geleias, arroz, feij&atilde;o, achocolatados, cereais matinais, cervejas artesanais, verduras e legumes.</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Armazém do Campo no RJ. Foto_Thamires Martins.jpg" height="400" src="//farm66.staticflickr.com/65535/48776107173_fc2b43e4eb_b.jpg" width="600" />
+<figcaption><em>Loja do Armaz&eacute;m do Campo, localizada na Lapa, Rio de Janeiro.<br />
+Foto: Thamires Martins</em></figcaption>
+</figure>
+</div>
