@@ -5,7 +5,7 @@ tags:
   - tag: direitos-humanos
   - tag: justiça
 images_hd: //farm66.staticflickr.com/65535/48772616021_a728a3cc3e_b.jpg
-title: "O MST REPUDIA A POLÍTICA DE SEGURANÇA PÚBLICA DO GOVERNO WITZEL "
+title: MST repudia política de segurança pública governo Witzel
 support_line: "Ágatha Félix, de 8 anos, foi assassinada durante uma operação policial no Complexo do Alemão"
 menu: direitos humanos
 layout: post
@@ -31,7 +31,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="1569099826_106579_1569105341_noticia_normal_recorte1.jpg" height="462" src="//farm66.staticflickr.com/65535/48772616021_a728a3cc3e_b.jpg" width="700" />
-<figcaption>&Aacute;gatha F&eacute;lix, 8 anos&nbsp;ARQUIVO FAMILIAR</figcaption>
+<figcaption>&Aacute;gatha F&eacute;lix, 8 anos - Arquivo familiar</figcaption>
 </figure>
 </div>
 
