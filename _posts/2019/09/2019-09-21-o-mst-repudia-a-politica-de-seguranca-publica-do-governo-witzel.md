@@ -44,7 +44,7 @@ releated_posts:
 Nesta sexta-feira (20), a morte de uma crian&ccedil;a, durante uma opera&ccedil;&atilde;o policial no Complexo do Alem&atilde;o, voltou a despertar indigna&ccedil;&atilde;o e revolta no Rio de Janeiro.</p>
 
 <p><br />
-&Aacute;gatha F&eacute;lix, de 8 anos, foi assassinada durante a opera&ccedil;&atilde;o policial ap&oacute;s ser baleada nas costas. A menina estava dentro de uma Kombi junto com a m&atilde;e e voltava para casa na comunidade da Fazendinha, na sexta-feira &agrave; noite. A crian&ccedil;a que chegou a ser levada &agrave;s pressas para o Hospital Estadual Get&uacute;lio Vargas, na Penha, n&atilde;o resistiu ao ferimento e faleceu. Ela foi a quinta crian&ccedil;a v&iacute;tima de &quot;bala perdida&quot; este ano ao ser atingida por tiro de fuzil.&nbsp;</p>
+&Aacute;gatha F&eacute;lix, de 8 anos, foi assassinada em uma opera&ccedil;&atilde;o policial ap&oacute;s ser baleada nas costas. A menina estava dentro de uma Kombi junto com a m&atilde;e e voltava para casa na comunidade da Fazendinha, na sexta-feira &agrave; noite. A crian&ccedil;a que chegou a ser levada &agrave;s pressas para o Hospital Estadual Get&uacute;lio Vargas, na Penha, n&atilde;o resistiu ao ferimento e faleceu. Ela foi a quinta crian&ccedil;a v&iacute;tima de &quot;bala perdida&quot; este ano ao ser atingida por tiro de fuzil.&nbsp;</p>
 
 <p><br />
 &Eacute; not&oacute;rio que a pol&iacute;tica de seguran&ccedil;a do estado do Rio de Janeiro &eacute; uma pol&iacute;tica de morte racista e genocida, sobretudo da popula&ccedil;&atilde;o negra e do povo perif&eacute;rico. A cada dia que passa, tanto o governo estadual, quando nacional, consolida a licen&ccedil;a para matar pobres, favelados, sem terra...</p>
