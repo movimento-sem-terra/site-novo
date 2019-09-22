@@ -45,7 +45,7 @@ releated_posts:
 <p>Mais uma vez uma morte durante uma opera&ccedil;&atilde;o policial no Complexo do Alem&atilde;o, voltou a despertar indigna&ccedil;&atilde;o e revolta no Rio de Janeiro.</p>
 
 <p><br />
-&Aacute;gatha F&eacute;lix, de 8 anos, foi assassinada durante uma opera&ccedil;&atilde;o policial no Complexo do Alem&atilde;o. A menina estava dentro de uma Kombi junto com a av&oacute;, e voltava para casa na&nbsp;comunidade da Fazendinha,&nbsp;na sexta-feira &agrave; noite, quando foi baleada nas costas. &Aacute;gatha chegou a ser levada &agrave;s pressas para o Hospital Estadual Get&uacute;lio Vargas, na Penha, mas n&atilde;o resistiu ao ferimento.</p>
+&Aacute;gatha F&eacute;lix, de 8 anos, foi assassinada durante uma opera&ccedil;&atilde;o policial no Complexo do Alem&atilde;o. A menina estava dentro de uma Kombi junto com a m&atilde;e, e voltava para casa na&nbsp;comunidade da Fazendinha,&nbsp;na sexta-feira &agrave; noite, quando foi baleada nas costas. &Aacute;gatha chegou a ser levada &agrave;s pressas para o Hospital Estadual Get&uacute;lio Vargas, na Penha, mas n&atilde;o resistiu ao ferimento.</p>
 
 <p><br />
 O MST vem a p&uacute;blico cobrar o Governo do Estado do Rio de Janeiro e se solidarizar com a fam&iacute;lia e os amigos da pequena Agatha.</p>
