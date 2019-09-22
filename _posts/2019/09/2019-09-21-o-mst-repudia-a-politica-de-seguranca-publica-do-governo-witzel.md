@@ -55,30 +55,18 @@ Diante disso, o MST vem a p&uacute;blico afirmar que &eacute; preciso urgentemen
 <p><br />
 <em>Acompanhe a nota abaixo.&nbsp;</em></p>
 
-<p><br />
-<em>O sangue no Rio de Janeiro n&atilde;o para de jorrar. Agatha Vit&oacute;ria, 8, foi morta pelas costas com tiros de fuzil, na noite desta sexta-feira (20), quando voltava para casa com a m&atilde;e.</em></p>
+<p>O sangue no Rio de Janeiro n&atilde;o para de jorrar. Agatha Vit&oacute;ria, 8, foi morta pelas costas com tiros de fuzil, na noite desta sexta-feira (20), quando voltava para casa com a m&atilde;e.</p>
+
+<p>Agatha &eacute; mais uma v&iacute;tima da pol&iacute;tica de genoc&iacute;dio encampada contra o povo favelado pelo governador Wilson Witzel (PSC) que autoriza - por meio de seu discurso - a licen&ccedil;a para matar nas comunidades do Rio. Essa pol&iacute;tica de morte&nbsp; &eacute; tamb&eacute;m&nbsp; defendida e executada pelo governo Bolsonaro. O que torna muito significativo as institui&ccedil;&otilde;es comprometidas com os direitos humanos e sociais serem desmobilizadas pela atual gest&atilde;o.&nbsp;</p>
+
+<p>O governador Witzel, como comandante das pol&iacute;cias civil e militar, j&aacute; tem como legado o recorde de mortes pelo Estado. Somente em 2019 s&atilde;o 1.249 pessoas mortas pela pol&iacute;cia, um recorde hist&oacute;rico, 40% do total de mortes na cidade do Rio e 30% no estado, segundo a Rede de Observat&oacute;rios de Seguran&ccedil;a.</p>
+
+<p>Nessas opera&ccedil;&otilde;es destacam-se o uso de helic&oacute;pteros em que policiais atiram aleatoriamente aterrorizando ainda mais a popula&ccedil;&atilde;o. Essas opera&ccedil;&otilde;es acontecem em hor&aacute;rio escolar expondo as vidas das crian&ccedil;as e adolescentes. Resta &agrave;s fam&iacute;lias a b&aacute;rbara tarefa de contar os corpos quando a opera&ccedil;&atilde;o acaba. Corpos do povo trabalhador, de jovens e crian&ccedil;as, majoritariamente corpos negros.</p>
 
 <p><br />
-<em>Agatha &eacute; mais uma vitima da pol&iacute;tica de genocida encampada contra o povo pelo governador Wilson Witzel (PSC) que d&aacute; - atrav&eacute;s de seu discurso - licen&ccedil;a para matar nas comunidades do Rio.</em></p>
+Diante de tamanha barbaridade, o MST tamb&eacute;m se solidariza com a dor da fam&iacute;lia da pequena &Aacute;gatha, bem como com todas as fam&iacute;lias que diariamente tem sofrido com essa pol&iacute;tica de morte falida que o governador Witzel tenta justificar dizendo que se trata de guerra ao tr&aacute;fico, mas que na pr&aacute;tica tem sido de guerra ao povo pobre, negro e favelado. Esse tipo de pol&iacute;tica p&uacute;blica n&atilde;o pode parecer natural e precisa ser enfrentada.</p>
 
 <p><br />
-<em>Essa pol&iacute;tica de morte&nbsp; &eacute; tamb&eacute;m&nbsp; defendida e executada pelo governo Bolsonaro. N&atilde;o por menos as institui&ccedil;&otilde;es comprometidas com os direitos humanos e sociais estejam sendo desmobilizadas por sua gest&atilde;o.</em></p>
+&Eacute; que preciso que essa pol&iacute;tica genocida seja interrompida. O governador n&atilde;o s&oacute; deve parar imediatamente de derramar sangue dos trabalhadores e trabalhadoras, como deve responder por todo o massacre j&aacute; causado!</p>
 
-<p><br />
-<em>Witzel, como comandante das pol&iacute;cias civil e militar, deixa como um grande rastro de sangue. Em 2019, 1249 pessoas foram mortas pela pol&iacute;cia militar, um recorde hist&oacute;rico, segundo a Rede de Observat&oacute;rios de Seguran&ccedil;a.</em></p>
-
-<p><br />
-<em>Nessas opera&ccedil;&otilde;es destacam-se o uso de helic&oacute;pteros em que policiais atiram aleatoriamente aterrorizando ainda mais a popula&ccedil;&atilde;o. Essas opera&ccedil;&otilde;es acontecem em hor&aacute;rio escolar expondo as vidas das crian&ccedil;as e adolescentes.</em><br />
-&nbsp;</p>
-
-<p><em>Resta &agrave;s fam&iacute;lias a b&aacute;rbara&nbsp; tarefa de contar os corpos quando no final do dia. Corpos do povo trabalhador, de jovens e crian&ccedil;as.</em></p>
-
-<p><br />
-<em>O MST se solidariza com a dor da fam&iacute;lia da pequena Agatha, bem como com todas as fam&iacute;lias de&nbsp; pessoas assassinadas e que sofrem diariamente com essa pol&iacute;tica falida que o governador Witzel tenta.</em></p>
-
-<p><br />
-<em>O governador n&atilde;o s&oacute; deve parar imediatamente com a sangue como deve responder por todo o massacre j&aacute; causado!</em></p>
-
-<p style="text-align: right;"><br />
-<br />
-<em>Movimento dos Trabalhadores Rurais Sem Terra (MST</em></p>
+<p>Movimento dos Trabalhadores Rurais Sem Terra (MS</p>
