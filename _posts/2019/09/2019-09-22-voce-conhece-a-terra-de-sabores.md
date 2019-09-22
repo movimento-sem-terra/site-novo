@@ -49,7 +49,7 @@ releated_posts:
 
 ---
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="Alguns dos tipos de café comercializados pela Terra de Sabores. Foto_Thamires Martins.jpg" height="333" src="//farm66.staticflickr.com/65535/48776640347_1e5a48d259_b.jpg" width="500" />
+<figure class="image" style="display:inline-block"><img alt="Alguns dos tipos de café comercializados pela Terra de Sabores. Foto_Thamires Martins.jpg" height="367" src="//farm66.staticflickr.com/65535/48776640347_1e5a48d259_b.jpg" width="550" />
 <figcaption><em>Um dos tipos de caf&eacute; comercializados pela Terra de Sabores.<br />
 Foto: Thamires Martins</em></figcaption>
 </figure>
@@ -57,7 +57,8 @@ Foto: Thamires Martins</em></figcaption>
 
 <p><br />
 <em>Por Wesley Lima<br />
-Da P&aacute;gina do MST</em></p>
+Da P&aacute;gina do MST</em><br />
+&nbsp;</p>
 
 <p>Tem ocupa&ccedil;&atilde;o de latif&uacute;ndio, acampamento, trabalho coletivo, mobiliza&ccedil;&atilde;o popular, resist&ecirc;ncia e produ&ccedil;&atilde;o de alimentos saud&aacute;veis. Esses processos fazem parte dos produtos da marca <a href="http://www.mst.org.br/2017/12/17/trabalhadores-comemoram-cinco-anos-da-coopterra-no-espirito-santo.html">Terra de Sabores</a>&nbsp;que hoje o trabalhador e trabalhadora da cidade encontram facilmente nos espa&ccedil;os e atividades organizadas pelo MST em todo pais.<br />
 &nbsp;</p>
@@ -100,8 +101,7 @@ Da P&aacute;gina do MST</em></p>
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Colheita de café em área de Reforma Agrária no ES. Foto_Divulgação.jpg" height="300" src="//farm66.staticflickr.com/65535/48776668472_ce15f7489a_b.jpg" width="400" />
-<figcaption><em>Colheita de caf&eacute; em &aacute;rea de Reforma Agr&aacute;ria no ES.<br />
-Foto: Divulga&ccedil;&atilde;o</em></figcaption>
+<figcaption><em>Colheita de caf&eacute; em &aacute;rea de Reforma Agr&aacute;ria no ES. Foto: Divulga&ccedil;&atilde;o</em></figcaption>
 </figure>
 
 <p>No Vale da Vit&oacute;ria, a produ&ccedil;&atilde;o da geleia e do caf&eacute; para marca t&ecirc;m animado as fam&iacute;lias, direcionando outra linha de produ&ccedil;&atilde;o. Por&eacute;m, vale destacar, que al&eacute;m do caf&eacute;, a pimenta &eacute; uma cultura produtiva importante.<br />
