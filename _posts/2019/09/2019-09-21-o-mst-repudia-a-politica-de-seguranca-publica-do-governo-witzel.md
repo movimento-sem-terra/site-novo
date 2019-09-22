@@ -31,7 +31,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="1569099826_106579_1569105341_noticia_normal_recorte1.jpg" height="462" src="//farm66.staticflickr.com/65535/48772616021_a728a3cc3e_b.jpg" width="700" />
-<figcaption>&Aacute;gatha F&eacute;lix, 8 anos - Arquivo familiar</figcaption>
+<figcaption><em>&Aacute;gatha F&eacute;lix, 8 anos - Arquivo familiar</em></figcaption>
 </figure>
 </div>
 
@@ -40,18 +40,20 @@ releated_posts:
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p>&nbsp;</p>
-
-<p>Mais uma vez uma morte durante uma opera&ccedil;&atilde;o policial no Complexo do Alem&atilde;o, voltou a despertar indigna&ccedil;&atilde;o e revolta no Rio de Janeiro.</p>
+<p><br />
+Nesta sexta-feira (20), a morte de uma crian&ccedil;a, durante uma opera&ccedil;&atilde;o policial no Complexo do Alem&atilde;o, voltou a despertar indigna&ccedil;&atilde;o e revolta no Rio de Janeiro.</p>
 
 <p><br />
-&Aacute;gatha F&eacute;lix, de 8 anos, foi assassinada durante uma opera&ccedil;&atilde;o policial no Complexo do Alem&atilde;o. A menina estava dentro de uma Kombi junto com a m&atilde;e, e voltava para casa na&nbsp;comunidade da Fazendinha,&nbsp;na sexta-feira &agrave; noite, quando foi baleada nas costas. &Aacute;gatha chegou a ser levada &agrave;s pressas para o Hospital Estadual Get&uacute;lio Vargas, na Penha, mas n&atilde;o resistiu ao ferimento.</p>
+&Aacute;gatha F&eacute;lix, de 8 anos, foi assassinada durante a opera&ccedil;&atilde;o policial ap&oacute;s ser baleada nas costas. A menina estava dentro de uma Kombi junto com a m&atilde;e e voltava para casa na comunidade da Fazendinha, na sexta-feira &agrave; noite. A crian&ccedil;a que chegou a ser levada &agrave;s pressas para o Hospital Estadual Get&uacute;lio Vargas, na Penha, n&atilde;o resistiu ao ferimento e faleceu. Ela foi a quinta crian&ccedil;a v&iacute;tima de &quot;bala perdida&quot; este ano ao ser atingida por tiro de fuzil.&nbsp;</p>
 
 <p><br />
-O MST vem a p&uacute;blico cobrar o Governo do Estado do Rio de Janeiro e se solidarizar com a fam&iacute;lia e os amigos da pequena Agatha.</p>
+&Eacute; not&oacute;rio que a pol&iacute;tica de seguran&ccedil;a do estado do Rio de Janeiro &eacute; uma pol&iacute;tica de morte racista e genocida, sobretudo da popula&ccedil;&atilde;o negra e do povo perif&eacute;rico. A cada dia que passa, tanto o governo estadual, quando nacional, consolida a licen&ccedil;a para matar pobres, favelados, sem terra...</p>
 
 <p><br />
-<strong>Acompanhe:</strong></p>
+Diante disso, o MST vem a p&uacute;blico afirmar que &eacute; preciso urgentemente encerrar esse derramamento de sangue de trabalhadores e trabalhadoras e o respons&aacute;veis devidamente punidos por esse massacre.&nbsp;O Movimento tamb&eacute;m se solidariza com a dor da fam&iacute;lia da pequena &Aacute;gatha, bem como com todas as fam&iacute;lias que diariamente tem sofrido com essa pol&iacute;tica de morte. Esse tipo de pol&iacute;tica p&uacute;blica&nbsp;n&atilde;o pode parecer natural e precisa ser enfrentada.</p>
+
+<p><br />
+<em>Acompanhe a nota abaixo.&nbsp;</em></p>
 
 <p><br />
 <em>O sangue no Rio de Janeiro n&atilde;o para de jorrar. Agatha Vit&oacute;ria, 8, foi morta pelas costas com tiros de fuzil, na noite desta sexta-feira (20), quando voltava para casa com a m&atilde;e.</em></p>
@@ -79,11 +81,4 @@ O MST vem a p&uacute;blico cobrar o Governo do Estado do Rio de Janeiro e se sol
 
 <p style="text-align: right;"><br />
 <br />
-<em>Movimento dos Trabalhadores Rurais Sem Terra (MST)</em></p>
-
-<p style="text-align: right;">&nbsp;</p>
-
-<p><br />
-<br />
-<br />
-#WitzelACulpa&Eacute;Sua</p>
+<em>Movimento dos Trabalhadores Rurais Sem Terra (MST</em></p>
