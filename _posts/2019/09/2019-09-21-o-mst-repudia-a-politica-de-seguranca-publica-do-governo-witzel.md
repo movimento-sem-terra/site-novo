@@ -59,7 +59,7 @@ Diante disso, o MST vem a p&uacute;blico afirmar que &eacute; preciso urgentemen
 O sangue no Rio de Janeiro n&atilde;o para de jorrar. Agatha Vit&oacute;ria, 8, foi morta pelas costas com tiros de fuzil, na noite desta sexta-feira (20), quando voltava para casa com a m&atilde;e.</p>
 
 <p><br />
-Agatha &eacute; mais uma v&iacute;tima da pol&iacute;tica de genoc&iacute;dio encampada contra o povo favelado pelo governador Wilson Witzel (PSC) que autoriza - por meio de seu discurso - a licen&ccedil;a para matar nas comunidades do Rio. Essa pol&iacute;tica de morte&nbsp; &eacute; tamb&eacute;m&nbsp; defendida e executada pelo governo Bolsonaro. O que torna muito significativo as institui&ccedil;&otilde;es comprometidas com os direitos humanos e sociais serem desmobilizadas pela atual gest&atilde;o.&nbsp;</p>
+&Aacute;gatha &eacute; mais uma v&iacute;tima da pol&iacute;tica de genoc&iacute;dio encampada contra o povo favelado pelo governador Wilson Witzel (PSC) que autoriza - por meio de seu discurso - a licen&ccedil;a para matar nas comunidades do Rio. Essa pol&iacute;tica de morte&nbsp; &eacute; tamb&eacute;m&nbsp; defendida e executada pelo governo Bolsonaro. O que torna muito significativo as institui&ccedil;&otilde;es comprometidas com os direitos humanos e sociais serem desmobilizadas pela atual gest&atilde;o.&nbsp;</p>
 
 <p><br />
 O governador Witzel, como comandante das pol&iacute;cias civil e militar, j&aacute; tem como legado o recorde de mortes pelo Estado. Somente em 2019 s&atilde;o 1.249 pessoas mortas pela pol&iacute;cia, um recorde hist&oacute;rico, 40% do total de mortes na cidade do Rio e 30% no estado, segundo a Rede de Observat&oacute;rios de Seguran&ccedil;a.</p>
