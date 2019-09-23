@@ -37,8 +37,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="LT2_7777_agroflorestas_Contestado_18_01_2018_Foto_Leandro-Taques.jpg" height="467" src="//farm66.staticflickr.com/65535/48783402908_22ccd234f8_b.jpg" width="700" />
-<figcaption><em>Agroflorestas no assentamento Contestado, no Paran&aacute;. Foto: Leandro Taques.</em><br />
-</figcaption>
+<figcaption><em>Agroflorestas no assentamento Contestado, no Paran&aacute;. Foto: Leandro Taques.</em></figcaption>
 </figure>
 </div>
 
@@ -50,7 +49,7 @@ Da P&aacute;gina do MST</em></p>
 A produ&ccedil;&atilde;o agroecol&oacute;gica do Movimento dos Trabalhadores Rurais Sem Terra (MST) ter&aacute; espa&ccedil;o na C&uacute;pula Clim&aacute;tica da Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas (ONU), em Nova York, Estados Unidos, nesta segunda-feira (23). Isso porque o curta-metragem &ldquo;<a href="https://www.youtube.com/watch?v=5svhDXrauLk" target="_blank">O que &eacute; agroecologia&rdquo;</a> venceu o Concurso Global de V&iacute;deos da Juventude sobre Mudan&ccedil;as Clim&aacute;ticas &ndash; TVEBioMovies 2019, promovido pela ONU.&nbsp;<br />
 &nbsp;</p>
 
-<p>A exibi&ccedil;&atilde;o n&atilde;o tem hor&aacute;rio confirmado acontecer, e acontece um dia antes da Assembleia Geral, evento para o qual a Organiza&ccedil;&atilde;o vetou o discurso do presidente do Brasil, Jair Bolsonaro (PSL), porque o pa&iacute;s n&atilde;o apresentou nenhum plano para aumentar o compromisso com o clima. A C&uacute;pula est&aacute; sendo&nbsp;<a href="https://www.youtube.com/watch?v=haewHZ8ubKA" target="_blank">transmitida ao vivo pelo canal da ONU no youtube.</a>&nbsp;&nbsp;</p>
+<p>A exibi&ccedil;&atilde;o n&atilde;o tem hor&aacute;rio confirmado para acontecer, e acontece um dia antes da Assembleia Geral, que come&ccedil;a amanh&atilde; (24) de forma oficial. A C&uacute;pula est&aacute; sendo&nbsp;<a href="https://www.youtube.com/watch?v=haewHZ8ubKA" target="_blank">transmitida ao vivo pelo canal da ONU no youtube.</a>&nbsp;&nbsp;</p>
 
 <p><br />
 <strong>LEIA MAIS:</strong>&nbsp;<a href="https://www.mst.org.br/2019/09/11/filme-sobre-mst-e-agroecologia-ganha-premio-da-onu.html" target="_blank">Filme sobre MST e agroecologia ganha pr&ecirc;mio da ONU</a></p>
