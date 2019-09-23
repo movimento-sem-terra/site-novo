@@ -47,7 +47,7 @@ files:
     title: Foto Kanova_003.jpg
     $$hashKey: 03C
 created_date: "2019-09-23T15:33:34-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2018/12/2018-12-17-mst-forma-44-engenheiros-agronomos-comprometidos-com-a-agroecologia.md
   - _posts/2018/12/2018-12-21-escola-popular-ana-primavesi-usa-agroecologia-para-capacitar-as-familias-do-vale-do-paraiba.md
@@ -64,7 +64,7 @@ releated_posts:
 </div>
 
 <p><em>Por Antonio Kanova<br />
-Da P&aacute;gina do MST</em><img alt="Foto Kanova_005.jpg" src="//farm66.staticflickr.com/65535/48783481716_047f167895_b.jpg" /></p>
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
 Cerca de 35 estudantes participaram do curso &ldquo;Sabores da Agrofloresta&rdquo;, realizado desta sexta (20) at&eacute; domingo (22). Eles&nbsp; vieram aprender sobre t&eacute;cnicas agroflorestais e a preparar pratos saud&aacute;veis aproveitando o m&aacute;ximo dos alimentos.<br />
@@ -72,8 +72,14 @@ Cerca de 35 estudantes participaram do curso &ldquo;Sabores da Agrofloresta&rdqu
 
 <p>Voltado para o p&uacute;blico urbano, o objetivo era conectar campo e cidade, percorrendo todo o caminho da produ&ccedil;&atilde;o do alimento, desde o cultivo da terra, atrav&eacute;s do t&eacute;cnicas e manejos agroflorestal e o preparo de alimentos. O curso &eacute; idealizado pela apresentadora e chef de cozinha Bela Gil e o agrofloresteiro Namast&ecirc; Messerschmidt.&nbsp;</p>
 
-<p><br />
-Para Bela Gil, &eacute; importante &ldquo;combinar tanto o conhecimento da culin&aacute;ria quanto o conhecimento da terra e da planta&ccedil;&atilde;o, para voltar o curso para as pessoas entenderem, realmente na pr&aacute;tica, como se d&aacute; a comida que vem diretamente da terra&rdquo;.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Foto Kanova_005.jpg" height="200" src="//farm66.staticflickr.com/65535/48783481716_047f167895_b.jpg" width="300" />
+<figcaption><em>Bela Gil participou da forma&ccedil;&atilde;o neste<br />
+fim de semana. Foto:&nbsp;Antonio Kanova</em></figcaption>
+</figure>
+
+<p>Para Bela Gil, &eacute; importante &ldquo;combinar tanto o conhecimento da culin&aacute;ria quanto o conhecimento da terra e da planta&ccedil;&atilde;o, para voltar o curso para as pessoas entenderem, realmente na pr&aacute;tica, como se d&aacute; a comida que vem diretamente da terra&rdquo;.</p>
 
 <p><br />
 Bela Gil tamb&eacute;m ressaltou o papel da agroecologia e o cuidado com a natureza e a pr&oacute;pria sa&uacute;de. &ldquo;O tratamento que um agricultor de agrofloresta d&aacute; para a terra e para a planta &eacute; o mesmo cuidado de uma pessoa que cuida da alimenta&ccedil;&atilde;o, que cozinha pensando na sa&uacute;de. Esse olhar mais sist&ecirc;mico, mais hol&iacute;stico, mais integral de que nada est&aacute; isolado&rdquo;.</p>
@@ -84,8 +90,14 @@ A realiza&ccedil;&atilde;o do curso no assentamento Contestado traz a ideia de u
 <p><br />
 Os participantes s&atilde;o de v&aacute;rios estados e diferentes profiss&otilde;es, formando um grupo diversificado entre empres&aacute;rios, aposentados, agr&ocirc;nomos, produtores rurais e assentados da reforma agr&aacute;ria. &ldquo;&Eacute; uma oportunidade muito grande das pessoas poderem estar convivendo em um territ&oacute;rio como este e ver com os pr&oacute;prios olhos o que realmente &eacute; de verdade&rdquo;, afirma Namast&ecirc;.&nbsp;</p>
 
-<p><br />
-Mario Aumond, conhecido como &ldquo;o Ga&uacute;cho&rdquo;, &eacute; aposentado e atua hoje como produtor agroecol&oacute;gico. Ele vivenciou pela primeira vez as pr&aacute;ticas de um assentamento explicou a import&acirc;ncia de defender a agroecologia.&nbsp;</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Foto Kanova_001.jpg" height="157" src="//farm66.staticflickr.com/65535/48783644337_daa04b0ff2_b.jpg" width="300" />
+<figcaption><em>Os participantes s&atilde;o de v&aacute;rios estados e<br />
+diferentes profiss&otilde;es. Foto:&nbsp;Antonio Kanova</em></figcaption>
+</figure>
+
+<p>Mario Aumond, conhecido como &ldquo;o Ga&uacute;cho&rdquo;, &eacute; aposentado e atua hoje como produtor agroecol&oacute;gico. Ele vivenciou pela primeira vez as pr&aacute;ticas de um assentamento explicou a import&acirc;ncia de defender a agroecologia.&nbsp;</p>
 
 <p><br />
 &ldquo;A humanidade est&aacute; caminhando para um caminho muito perigoso. Um caminho para acabar com a natureza. A agroecologia &eacute; um caminho para reverter isso. Talvez seja pela agroecologia que, a sociedade como um todo, retome um caminho mais descente para a humanidade&rdquo;.&nbsp;</p>
@@ -97,4 +109,4 @@ Durante o curso, os estudantes realizaram pr&aacute;ticas nos lotes dos assentad
 Todo o lucro arrecadado durante o curso foi destinado a ELAA como forma de incentivo e continuidade &agrave; forma&ccedil;&atilde;o e capacita&ccedil;&atilde;o para assentados da reforma agr&aacute;ria.&nbsp;&nbsp;</p>
 
 <p><br />
-<em>Editado por Fernanda Alc&acirc;ntara</em></p>
+<em>*Editado por Fernanda Alc&acirc;ntara</em></p>
