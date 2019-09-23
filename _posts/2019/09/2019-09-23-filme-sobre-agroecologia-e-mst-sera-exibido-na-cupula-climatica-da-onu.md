@@ -49,16 +49,13 @@ Da P&aacute;gina do MST</em></p>
 A produ&ccedil;&atilde;o agroecol&oacute;gica do Movimento dos Trabalhadores Rurais Sem Terra (MST) ter&aacute; espa&ccedil;o na C&uacute;pula Clim&aacute;tica da Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas (ONU), em Nova York, Estados Unidos, nesta segunda-feira (23). Isso porque o curta-metragem &ldquo;<a href="https://www.youtube.com/watch?v=5svhDXrauLk" target="_blank">O que &eacute; agroecologia&rdquo;</a> venceu o Concurso Global de V&iacute;deos da Juventude sobre Mudan&ccedil;as Clim&aacute;ticas &ndash; TVEBioMovies 2019, promovido pela ONU.&nbsp;<br />
 &nbsp;</p>
 
-<p>A exibi&ccedil;&atilde;o n&atilde;o tem hor&aacute;rio confirmado para acontecer, e acontece um dia antes da Assembleia Geral, que come&ccedil;a amanh&atilde; (24) de forma oficial. A C&uacute;pula est&aacute; sendo&nbsp;<a href="https://www.youtube.com/watch?v=haewHZ8ubKA" target="_blank">transmitida ao vivo pelo canal da ONU no youtube.</a>&nbsp;&nbsp;</p>
+<p>A exibi&ccedil;&atilde;o n&atilde;o tem hor&aacute;rio confirmado para acontecer, e acontece um dia antes da Assembleia Geral, que come&ccedil;a amanh&atilde; (24) de forma oficial. A C&uacute;pula est&aacute; sendo&nbsp;<a href="https://www.youtube.com/watch?v=haewHZ8ubKA" target="_blank">transmitida ao vivo pelo canal da ONU no youtube.</a>&nbsp;&nbsp;e tamb&eacute;m na Confer&ecirc;ncia de Mudan&ccedil;as Clim&aacute;ticas da ONU (COP 25) em dezembro, no Chile.&nbsp;</p>
 
 <p><br />
 <strong>LEIA MAIS:</strong>&nbsp;<a href="https://www.mst.org.br/2019/09/11/filme-sobre-mst-e-agroecologia-ganha-premio-da-onu.html" target="_blank">Filme sobre MST e agroecologia ganha pr&ecirc;mio da ONU</a></p>
 
 <p><br />
 O filme foi produzido pelos jovens Rafael Forsetto e Kiane Assis, e ganhou a categoria &ldquo;alimenta&ccedil;&atilde;o e sa&uacute;de humana&rdquo;. Em tr&ecirc;s minutos, o v&iacute;deo apresenta a produ&ccedil;&atilde;o agroecol&oacute;gica dos agricultores do MST do assentamento Contestado, localizado na Lapa (PR), a 60 quil&ocirc;metros de Curitiba.&nbsp;&nbsp;<br />
-&nbsp;</p>
-
-<p>O v&iacute;deo ser&aacute; apresentado no dia 23 de setembro na sede das Na&ccedil;&otilde;es Unidas, em Nova York, e tamb&eacute;m na Confer&ecirc;ncia de Mudan&ccedil;as Clim&aacute;ticas da ONU (COP 25) em dezembro, no Chile.&nbsp;<br />
 &nbsp;</p>
 
 <p>O assentamento Contestado &eacute; reconhecido como refer&ecirc;ncia em agroecologia. Em 2010, as fam&iacute;lias assentadas criaram a Cooperativa Terra Livre, que atua exclusivamente com alimentos sem agrot&oacute;xicos. Toda semana s&atilde;o entregues 8 toneladas de verduras, frutas, legumes e temperos agroecol&oacute;gicos em 105 escolas municipais da regi&atilde;o, via Programa Nacional de Alimenta&ccedil;&atilde;o Escolar (PNAE). Em 2018 foram comercializadas 270 toneladas de alimentos org&acirc;nicos e agroecol&oacute;gicos.&nbsp;</p>
