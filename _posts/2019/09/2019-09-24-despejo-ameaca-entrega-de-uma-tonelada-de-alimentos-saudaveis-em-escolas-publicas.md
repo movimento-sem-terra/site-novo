@@ -72,15 +72,17 @@ Com entregas semanais de uma tonelada de alimentos &agrave;s escolas do munic&ia
 <p>O PNAE recebe das fam&iacute;lias cerca de 16 produtos, dentre eles temos aipim, feij&atilde;o, ab&oacute;bora, batata-doce e hortali&ccedil;as. Esses produtos s&atilde;o referentes ao contrato deste ano.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="PDS RJ - Fotos COMRJ [3].jpeg" height="186" src="//farm66.staticflickr.com/65535/48788781313_3bec781631_b.jpg" width="300" />
-<figcaption><em>Foto: Coletivo de Comunica&ccedil;&atilde;o<br />
-do MST no Rio de Janeiro</em></figcaption>
-</figure>
-
 <p>Diego Fraga, da coordena&ccedil;&atilde;o regional do MST no RJ, afirma que a entrega dos produtos &eacute; uma forma de enfatizar o car&aacute;ter rent&aacute;vel do modelo de produ&ccedil;&atilde;o agroecol&oacute;gico. &ldquo;&Eacute; essa a agroecologia de que tanto falamos e exercitamos, produ&ccedil;&atilde;o diversificada, livre de transg&ecirc;nicos e veneno. Mas, principalmente, de f&aacute;cil acesso dos trabalhadores e trabalhadoras.&rdquo;<br />
 &nbsp;</p>
 
 <p>Por conta das entregas semanais, todas as fam&iacute;lias se envolvem no trabalho produtivo. Nesse sentido, a colheita &eacute; feita nas segundas bem cedo e as caixas com os alimentos s&atilde;o colocadas na estrada que corta os lotes das fam&iacute;lias para serem recolhidas pelo caminh&atilde;o da prefeitura.</p>
+
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="PDS RJ - Fotos COMRJ [4].jpeg" height="200" src="//farm66.staticflickr.com/65535/48789290392_d16921e386_b.jpg" width="300" />
+<figcaption><em>Marcela dos Santos, assentada no PDS. Foto:<br />
+Coletivo de Comunica&ccedil;&atilde;o&nbsp;do MST no Rio de Janeiro</em></figcaption>
+</figure>
 
 <p>Marcela dos Santos, assentada no PDS, conta que o trabalho tem fortalecido a fam&iacute;lia e &ldquo;acrescentou mais na renda familiar individual, mas tamb&eacute;m, de todas as outras fam&iacute;lias do assentamento&rdquo;.<br />
 &nbsp;</p>
@@ -97,12 +99,8 @@ do MST no Rio de Janeiro</em></figcaption>
 <p>O PNAE foi constru&iacute;do com o objetivo de oferecer alimenta&ccedil;&atilde;o escolar e a&ccedil;&otilde;es de educa&ccedil;&atilde;o alimentar e nutricional a estudantes de todas as etapas da educa&ccedil;&atilde;o b&aacute;sica p&uacute;blica.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="PDS RJ - Fotos COMRJ [4].jpeg" height="200" src="//farm66.staticflickr.com/65535/48789290392_d16921e386_b.jpg" width="300" />
-<figcaption><em>Foto: Coletivo de Comunica&ccedil;&atilde;o&nbsp;<br />
-​do MST no Rio de Janeiro</em></figcaption>
-</figure>
-
-<p>O programa atua da seguinte forma: o governo federal repassa, a estados, munic&iacute;pios e escolas federais, valores financeiros de car&aacute;ter suplementar efetuados em 10 parcelas mensais (de fevereiro a novembro) para a cobertura de 200 dias letivos conforme o n&uacute;mero de matriculados em cada rede de ensino; &eacute; acompanhado e fiscalizado diretamente pela sociedade, por meio dos Conselhos de Alimenta&ccedil;&atilde;o Escolar (CAE), e tamb&eacute;m pelo FNDE, pelo Tribunal de Contas da Uni&atilde;o (TCU), pela Controladoria Geral da Uni&atilde;o (CGU) e pelo Minist&eacute;rio P&uacute;blico; e com a Lei n&ordm; 11.947, de 16/6/2009, 30% do valor repassado pelo PNAE deve ser investido na compra direta de produtos da agricultura familiar.</p>
+<p>O programa atua da seguinte forma: o governo federal repassa, a estados, munic&iacute;pios e escolas federais, valores financeiros de car&aacute;ter suplementar efetuados em 10 parcelas mensais (de fevereiro a novembro) para a cobertura de 200 dias letivos conforme o n&uacute;mero de matriculados em cada rede de ensino; &eacute; acompanhado e fiscalizado diretamente pela sociedade, por meio dos Conselhos de Alimenta&ccedil;&atilde;o Escolar (CAE), e tamb&eacute;m pelo FNDE, pelo Tribunal de Contas da Uni&atilde;o (TCU), pela Controladoria Geral da Uni&atilde;o (CGU) e pelo Minist&eacute;rio P&uacute;blico; e com a Lei n&ordm; 11.947, de 16/6/2009, 30% do valor repassado pelo PNAE deve ser investido na compra direta de produtos da agricultura familiar.<br />
+&nbsp;</p>
 
 <p>Em 2017, as fam&iacute;lias do PDS acessaram o programa pela primeira vez. Nessa ocasi&atilde;o entregaram apenas dois produtos: feij&atilde;o e aipim.<br />
 &nbsp;</p>
@@ -113,23 +111,26 @@ do MST no Rio de Janeiro</em></figcaption>
 <p><strong>Parcerias importantes</strong><br />
 &nbsp;</p>
 
+<figure class="image" style="float:right"><img alt="PDS RJ - Fotos COMRJ[1].jpeg" height="169" src="//farm66.staticflickr.com/65535/48788781328_fea5fa65fe_b.jpg" width="300" />
+<figcaption><em>Foto: Coletivo de Comunica&ccedil;&atilde;o<br />
+do MST no Rio de Janeiro</em></figcaption>
+</figure>
+
 <p>A proposta de entrar e fortalecer o PNAE com os alimentos saud&aacute;veis do PDS Osvaldo de Oliveira surgiu da demanda de escoar a produ&ccedil;&atilde;o a um pre&ccedil;o justo e de&nbsp;garantir renda e dignidade &agrave;s fam&iacute;lias assentadas.<br />
 &nbsp;</p>
 
 <p>No contrato deste ano, os Sem Terra contam com a colabora&ccedil;&atilde;o da Universidade Federal do Rio de Janeiro (UFRJ), que atrav&eacute;s de um projeto de fortalecimento das experi&ecirc;ncias coletivas de coopera&ccedil;&atilde;o e associa&ccedil;&atilde;o do trabalho em &aacute;reas de assentamento investiu nessa parceria com o MST.<br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="PDS RJ - Fotos COMRJ[1].jpeg" height="169" src="//farm66.staticflickr.com/65535/48788781328_fea5fa65fe_b.jpg" width="300" />
-<figcaption><em>Foto: Coletivo de Comunica&ccedil;&atilde;o&nbsp;<br />
-​do MST no Rio de Janeiro</em></figcaption>
-</figure>
-
 <p>Esse trabalho se desenvolve desde 2016 com um curso de forma&ccedil;&atilde;o e capacita&ccedil;&atilde;o em gest&atilde;o e coopera&ccedil;&atilde;o do trabalho, que foi realizado em parceria com a UFRJ, dando apoio produtivo e t&eacute;cnico &agrave;s fam&iacute;lias. Quatro assentados do PDS participaram deste curso e hoje colaboram com a organiza&ccedil;&atilde;o da produ&ccedil;&atilde;o para a comercializa&ccedil;&atilde;o junto ao PNAE.</p>
 
-<p>&ldquo;Estamos nos qualificando para melhorar nossa atua&ccedil;&atilde;o no PNAE. Com esse projeto da UFRJ j&aacute; estamos nos planejando para a pr&oacute;xima chamada p&uacute;blica&rdquo;, afirma Diego Fraga, que v&ecirc; no PNAE uma oportunidade para a melhoria da qualidade de vida das fam&iacute;lias.<br />
+<p><br />
+&ldquo;Estamos nos qualificando para melhorar nossa atua&ccedil;&atilde;o no PNAE. Com esse projeto da UFRJ j&aacute; estamos nos planejando para a pr&oacute;xima chamada p&uacute;blica&rdquo;, afirma Diego Fraga, que v&ecirc; no PNAE uma oportunidade para a melhoria da qualidade de vida das fam&iacute;lias.<br />
 &nbsp;</p>
 
-<p>Diante disso, a amea&ccedil;a de despejo &ldquo;coloca o assentamento em risco&rdquo;, afirmou Marcela, e&nbsp;&ldquo;coloca em risco a nossa produ&ccedil;&atilde;o e a gente fica muito triste de ter que sair do nosso assentamento, do nosso lar, do nosso sonho. Al&eacute;m disso, coloca em risco todas as nossas conquistas, como o PNAE, <a href="http://www.mst.org.br/2019/09/20/sob-ameaca-de-despejo-familias-assentadas-em-macae-rj-resistem-e-inauguram-casa-de-farinha.html" target="_blank">a casa de farinha</a>, a comercializa&ccedil;&atilde;o de nossa produ&ccedil;&atilde;o nas feiras&rdquo;, concluiu.<br />
+<p>Diante disso, a amea&ccedil;a de despejo &ldquo;coloca o assentamento em risco&rdquo;, afirma Marcela, e&nbsp;&ldquo;coloca em risco a nossa produ&ccedil;&atilde;o e a gente fica muito triste de ter que sair do nosso assentamento, do nosso lar, do nosso sonho. Al&eacute;m disso, coloca em risco todas as nossas conquistas, como o PNAE, <a href="http://www.mst.org.br/2019/09/20/sob-ameaca-de-despejo-familias-assentadas-em-macae-rj-resistem-e-inauguram-casa-de-farinha.html" target="_blank">a casa de farinha</a>, a comercializa&ccedil;&atilde;o de nossa produ&ccedil;&atilde;o nas feiras&rdquo;, conclui.<br />
 &nbsp;</p>
 
 <p><em>*Com a colabora&ccedil;&atilde;o de Wesley Lima, da coordena&ccedil;&atilde;o nacional do setor de comunica&ccedil;&atilde;o do MST</em></p>
+
+<p>&nbsp;</p>
