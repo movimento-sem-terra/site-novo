@@ -9,7 +9,7 @@ support_line: "A ação faz parte da Greve Geral pelo Clima que acontece hoje (2
 menu: lutas e mobilizações
 title: Mulheres Sem Terra realizam ato em frente à sede nacional da Bayer/Monsanto
 images_hd: //farm66.staticflickr.com/65535/48763692891_9527dcca6d_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/48763692891_9527dcca6d_b.jpg
