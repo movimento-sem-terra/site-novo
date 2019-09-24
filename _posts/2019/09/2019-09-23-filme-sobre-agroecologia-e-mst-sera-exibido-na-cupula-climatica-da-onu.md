@@ -5,7 +5,7 @@ tags:
   - tag: onu
   - tag: filme
   - tag: cinema
-title: Filme sobre agroecologia e MST será exibido na Cúpula Climática da ONU
+title: Filme sobre agroecologia e MST é exibido na Cúpula Climática da ONU
 support_line: "Vídeo apresenta a produção agroecológica do assentamento Contestado, localizado na Lapa (PR), a 60 quilômetros de Curitiba"
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/48783307388_07e2edb91a_b.jpg
@@ -33,6 +33,7 @@ releated_posts:
   - _posts/2019/06/2019-06-19-brasil-cinema-e-eduardo-coutinho-121-anos-de-cinema-nacional.md
   - _posts/2019/09/2019-09-11-8-filmes-para-entender-a-ditadura-militar-no-chile.md
   - _posts/2019/09/2019-09-11-filme-sobre-mst-e-agroecologia-ganha-premio-da-onu.md
+section: cover
 
 ---
 <div style="text-align:center">
