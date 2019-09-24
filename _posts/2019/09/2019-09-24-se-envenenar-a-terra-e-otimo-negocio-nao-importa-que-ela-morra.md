@@ -33,7 +33,7 @@ releated_posts:
 <p>&nbsp;</p>
 
 <p><em>Por&nbsp;Jacques T&aacute;vora Alfonsin<br />
-Da P&aacute;gina do MST</em><br />
+Do IHU</em><br />
 &nbsp;</p>
 
 <p>&quot;S&atilde;o de tal poder os interesses em causa, que a febre do licenciamento r&aacute;pido desses venenos acabou confirmando estudos sobre polui&ccedil;&atilde;o e meio ambiente comprobat&oacute;rios da for&ccedil;a de domina&ccedil;&atilde;o que o agroneg&oacute;cio exerce sobre o Estado e controla as informa&ccedil;&otilde;es relativas aos preju&iacute;zos que o uso dos venenos agr&iacute;colas e tamb&eacute;m da minera&ccedil;&atilde;o causam &agrave; terra, aos alimentos que ela produz e, consequentemente, a todo o mundo que os consome&quot;, escreve Jacques T&aacute;vora Alfonsin, procurador aposentado do estado do Rio Grande do Sul e membro da ONG Acesso, Cidadania e Direitos Humanos.</p>
