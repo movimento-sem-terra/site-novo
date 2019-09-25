@@ -5,7 +5,7 @@ tags:
   - tag: nota-de-repudio
   - tag: lutas-e-mobilizações
 support_line: "Realizada na última sexta-feira, a operação Primula é perseguição política a acampamento histórico do MST"
-title: Frente Brasil Popular lança nota em apoio ao assentamento Margarida Alves
+title: "Frente Brasil Popular lança nota em apoio ao assentamento Margarida Alves, em Rondônia "
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/48793001273_be53d390b8_b.jpg
 layout: post
@@ -31,7 +31,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na semana passada, um mandado de reintegra&ccedil;&atilde;o de posse foi&nbsp;cumprido no acampamento Margarida Alves, zona rural de Moreno, em Rond&ocirc;nia. Ocupado h&aacute; mais de 16 anos, o acampamento abrigava 55 fam&iacute;lias do Movimento dos Trabalhadores Rurais Sem Terra (MST) que vivem e produzem alimentos na &aacute;rea de cerca de 120 hectares.&nbsp;</p>
+Na semana passada, um mandado de reintegra&ccedil;&atilde;o de posse foi&nbsp;cumprido no acampamento Margarida Alves, localizado no munic&iacute;pio de Nova Uni&atilde;o, em Rond&ocirc;nia. Ocupado h&aacute; mais de 16 anos, o acampamento abrigava 55 fam&iacute;lias do Movimento dos Trabalhadores Rurais Sem Terra (MST) que vivem e produzem alimentos na &aacute;rea de cerca de 120 hectares.&nbsp;</p>
 
 <p><br />
 <strong>LEIA MAIS: </strong><a href="https://www.mst.org.br/2019/09/19/acampamento-margarida-alves-em-moreno-pe-recebe-mandado-de-despejo.html" target="_blank">Acampamento Margarida Alves, em Moreno (PE), recebe mandado de despejo</a></p>
