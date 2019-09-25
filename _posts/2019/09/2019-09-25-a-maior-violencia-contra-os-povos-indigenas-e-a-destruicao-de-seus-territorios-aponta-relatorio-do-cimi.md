@@ -24,14 +24,17 @@ files:
     title: "[172] Relatório CIMI.jpeg"
     $$hashKey: 0J2
 created_date: "2019-09-25T12:24:05-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/09/2019-09-24-em-ano-sem-novas-demarcacoes-135-indigenas-foram-assassinados-no-brasil.md
+  - _posts/2019/04/2019-04-30-acampamento-terra-livre-reafirma-luta-contra-retrocessos.md
+  - _posts/2019/07/2019-07-04-comunidade-tradicional-caicara-denuncia-ameaca-de-demolicao-no-vale-do-ribeira.md
+  - _posts/2019/04/2019-04-19-o-dia-do-indio-e-dia-de-luta-do-povo-brasileiro.md
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="[172] Relatório CIMI.jpeg" height="436" src="//farm66.staticflickr.com/65535/48793315233_eca4713894_b.jpg" width="700" />
-<figcaption>11RELAT&Oacute;RIO &ndash; Viol&ecirc;ncia contra os Povos Ind&iacute;genas no Brasil&ndash; Dados de 2018Conselho Indigenista Mission&aacute;rio - CimiINTRODU&Ccedil;&Atilde;O* Lucia Helena Rangel &eacute; assessora antropol&oacute;gica do Cimi e professora de Antropologia da Pontif&iacute;cia Universidade Cat&oacute;lica de S&atilde;o Paulo (PUC-SP)** Roberto Antonio Liebgott &eacute; mission&aacute;rio e coordenador do Cimi Regional Sul, graduado em Filosofia na Faculdade de Filosofia Nossa Senhora da Imaculada Concei&ccedil;&atilde;o (Fafimc) e em Direito na Pontif&iacute;cia Universidade Cat&oacute;lica do Rio Grande do Sul (PUC-RS)O Conselho Indigenista Mission&aacute;rio (Cimi) lan&ccedil;a, em 2019, o Relat&oacute;rio Viol&ecirc;ncia Contra os Povos Ind&iacute;genas no Brasil &ndash; dados de 2018. Estes dados foram obtidos a partir de informa&ccedil;&otilde;es de organiza&ccedil;&otilde;es ind&iacute;genas, comunidades, mission&aacute;rias e mission&aacute;rios que atuam nas aldeias, bem como de not&iacute;cias veiculadas pela imprensa, pelo Minis-t&eacute;rio P&uacute;blico Federal, por entidades ambientalistas e indigenistas e pelos &oacute;rg&atilde;os oficiais. Ao longo do Relat&oacute;rio, os dados explicitam uma ininterrupta hist&oacute;ria de viol&ecirc;ncias e viola&ccedil;&otilde;es, que se repetem e se intensificam a cada ano como trag&eacute;dia, uma vez que Viola&ccedil;&otilde;es tornaram-se a regra, e n&atilde;o exce&ccedil;&atilde;o, no BrasilLucia Helena Rangel*Roberto Antonio Liebgott**aqueles que governam o Estado brasileiro se colocam contra os direitos territoriais dos povos ind&iacute;genas e a servi&ccedil;o dos setores que pretendem, ansiosamente, explorar e grilar as suas terras, esgotando todos os seus bens naturais. Al&eacute;m de reunir e sistematizar as informa&ccedil;&otilde;es sobre as viol&ecirc;ncias praticadas contra os povos ind&iacute;genas, este Relat&oacute;rio pretende provocar uma reflex&atilde;o sobre a realidade ind&iacute;gena no pa&iacute;s e os efeitos do desrespeito aos seus direitos territoriais, aos seus bens culturais, educacionais, materiais e econ&ocirc;micos. A an&aacute;lise dos dados de 2018 mostra que o esbulho das terras, assim Os povos origin&aacute;rios do Brasil n&atilde;o s&atilde;o respeitados em seu direito constitucional de viver nos territ&oacute;rios tradicionais. Vivem nas margens das rodovias ou acampados em pequenas por&ccedil;&otilde;es de terra, sujeitos &agrave; fome, ao frio e a outras condi&ccedil;&otilde;es degradantes</figcaption>
+<figcaption><em>Relat&oacute;rio aponta que povos origin&aacute;rios do Brasil n&atilde;o s&atilde;o respeitados em seu direito constitucional de viver nos territ&oacute;rios tradicionais. Foto: Tiago Miotto/Cimi</em></figcaption>
 </figure>
 </div>
 
@@ -41,10 +44,14 @@ releated_posts:
 <p>Os povos ind&iacute;genas do Brasil enfrentam um substancial aumento da grilagem, do roubo de madeira, do garimpo, das invas&otilde;es e at&eacute; mesmo da implanta&ccedil;&atilde;o de loteamentos em seus territ&oacute;rios tradicionais, explicitando que a disputa crescente por estas &aacute;reas atinge um n&iacute;vel preocupante, j&aacute; que coloca em risco a pr&oacute;pria sobreviv&ecirc;ncia de diversas comunidades ind&iacute;genas no Brasil. &Eacute; o que evidencia o Relat&oacute;rio Viol&ecirc;ncia Contra os Povos Ind&iacute;genas do Brasil &ndash; dados de 2018, sistematizado anualmente pelo Conselho Indigenista Mission&aacute;rio (Cimi), que tem seu lan&ccedil;amento realizado nesta ter&ccedil;a-feira (24), em Bras&iacute;lia.</p>
 
 <p><br />
-Baixe a vers&atilde;o digital do relat&oacute;rio <a href="https://cimi.org.br/wp-content/uploads/2019/09/relatorio-violencia-contra-os-povos-indigenas-brasil-2018.pdf" target="_blank">aqui</a>.</p>
+Baixe a vers&atilde;o digital do relat&oacute;rio <a href="https://cimi.org.br/wp-content/uploads/2019/09/relatorio-violencia-contra-os-povos-indigenas-brasil-2018.pdf" target="_blank">aqui</a>.<br />
+&nbsp;</p>
 
-<p><br />
-No &uacute;ltimo ano foram registrados 109 casos de &ldquo;invas&otilde;es possess&oacute;rias, explora&ccedil;&atilde;o ilegal de recursos naturais e danos diversos ao patrim&ocirc;nio&rdquo;, enquanto em 2017 haviam sido registrados 96 casos. Nos nove primeiros meses de 2019, dados parciais e preliminares do Cimi contabilizam, at&eacute; o lan&ccedil;amento do relat&oacute;rio, 160 casos do tipo em terras ind&iacute;genas do Brasil.<br />
+<figure class="image" style="float:left"><img alt="[171] Relatório CIMI1.jpeg" height="424" src="//farm66.staticflickr.com/65535/48793676651_705faa5674_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
+
+<p>No &uacute;ltimo ano foram registrados 109 casos de &ldquo;invas&otilde;es possess&oacute;rias, explora&ccedil;&atilde;o ilegal de recursos naturais e danos diversos ao patrim&ocirc;nio&rdquo;, enquanto em 2017 haviam sido registrados 96 casos. Nos nove primeiros meses de 2019, dados parciais e preliminares do Cimi contabilizam, at&eacute; o lan&ccedil;amento do relat&oacute;rio, 160 casos do tipo em terras ind&iacute;genas do Brasil.<br />
 &nbsp;</p>
 
 <p>Tamb&eacute;m houve um aumento no n&uacute;mero de assassinatos registrados (135) em 2018, sendo que os estados com maior n&uacute;mero de casos foram Roraima (62) e Mato Grosso do Sul (38). Em 2017, haviam sido registrados 110 casos de assassinatos.<br />
