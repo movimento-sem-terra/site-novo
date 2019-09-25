@@ -40,6 +40,7 @@ releated_posts:
   - _posts/2019/05/2019-05-02-mst-realiza-3a-semana-sociocultural-da-reforma-agraria-em-atalaia.md
   - _posts/2019/05/2019-05-06-mst-doa-mais-de-tres-toneladas-de-alimentos-em-atalaia.md
   - _posts/2019/08/2019-08-06-mst-anuncia-data-da-20a-feira-da-reforma-agraria-em-alagoas.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
