@@ -31,7 +31,7 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Na semana passada, um mandado de reintegra&ccedil;&atilde;o de posse foi&nbsp;cumprido no acampamento Margarida Alves, zona rural de Moreno, na Regi&atilde;o Metropolitana do Recife. Ocupado h&aacute; mais de 16 anos, o acampamento abrigava 55 fam&iacute;lias do Movimento dos Trabalhadores Rurais Sem Terra (MST) que vivem e produzem alimentos na &aacute;rea de cerca de 120 hectares.&nbsp;</p>
+Na semana passada, um mandado de reintegra&ccedil;&atilde;o de posse foi&nbsp;cumprido no acampamento Margarida Alves, zona rural de Moreno, em Rond&ocirc;nia. Ocupado h&aacute; mais de 16 anos, o acampamento abrigava 55 fam&iacute;lias do Movimento dos Trabalhadores Rurais Sem Terra (MST) que vivem e produzem alimentos na &aacute;rea de cerca de 120 hectares.&nbsp;</p>
 
 <p><br />
 <strong>LEIA MAIS: </strong><a href="https://www.mst.org.br/2019/09/19/acampamento-margarida-alves-em-moreno-pe-recebe-mandado-de-despejo.html" target="_blank">Acampamento Margarida Alves, em Moreno (PE), recebe mandado de despejo</a></p>
