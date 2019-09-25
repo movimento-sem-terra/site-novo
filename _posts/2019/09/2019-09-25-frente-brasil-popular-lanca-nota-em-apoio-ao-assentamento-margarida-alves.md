@@ -4,7 +4,7 @@ tags:
   - tag: despejo
   - tag: nota-de-repudio
   - tag: lutas-e-mobilizações
-support_line: "Realizada na última sexta-feira, a operação Primula "
+support_line: "Realizada na última sexta-feira, a operação Primula é perseguição política a acampamento histórico do MST"
 title: Frente Brasil Popular lança nota em apoio ao assentamento Margarida Alves
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/48793001273_be53d390b8_b.jpg
