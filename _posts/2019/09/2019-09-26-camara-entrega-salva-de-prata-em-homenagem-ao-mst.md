@@ -36,7 +36,7 @@ releated_posts:
 
 <p><br />
 <br />
-A C&acirc;mara Municipal de S&atilde;o Paulo presta, no fim da tarde desta sexta-feira (18), a sua mais alta honraria j&aacute; oferecida a uma institui&ccedil;&atilde;o.</p>
+A C&acirc;mara Municipal de S&atilde;o Paulo presta, no pr&oacute;ximo dia 18 de outubro, a sua mais alta honraria j&aacute; oferecida a uma institui&ccedil;&atilde;o.</p>
 
 <p><br />
 A Casa concede, a partir das 17h, no Plen&aacute;rio 1&ordm; de Maio do Pal&aacute;cio Anchieta, uma Sess&atilde;o Solene de entrega da Salva de Prata, outorgada ao Movimento dos Trabalhadores Rurais Sem Terra (MST), por iniciativa do vereador Jair Tatto (PT).</p>
