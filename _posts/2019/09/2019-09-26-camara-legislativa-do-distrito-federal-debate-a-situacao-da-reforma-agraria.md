@@ -93,8 +93,7 @@ agrot&oacute;xicos, e que estimule a qualidade de vida para o conjunto da popula
 <p>A audi&ecirc;ncia foi proposta pelos mandatos dos parlamentares distrital Arlete Sampaio (PT),&nbsp; Chico Vigilante (PT) e&nbsp; F&aacute;bio F&eacute;lix (PSOL), al&eacute;m da participa&ccedil;&atilde;o da OAB/DF, IBRAN e secret&aacute;rias agr&aacute;ria do PSOL e PT.&nbsp;<br />
 &nbsp;</p>
 
-<p>F&aacute;bio Felix, do PSOL, reafirmou a import&acirc;ncia do debate. &ldquo;A Reforma Agr&aacute;ria necessita ser uma prioridade no Distrito Federal. Precisamos saber qual a perspectivas do atual governo de Bras&iacute;lia com as pol&iacute;ticas de Reforma Agr&aacute;ria&rdquo;.&nbsp;<br />
-&nbsp;</p>
+<p>F&aacute;bio Felix, do PSOL, reafirmou a import&acirc;ncia do debate. &ldquo;&quot;&Eacute; necess&aacute;rio que o governo do distrito federal garanta ampla participa&ccedil;&atilde;o para a reconstru&ccedil;&atilde;o do programa de assentamento rurais do DF e d&ecirc; agilidade na consolida&ccedil;&atilde;o da comiss&atilde;o pol&iacute;tica de assentamento CPA para que democraticamente possamos assentar as 3 mil fam&iacute;lias acampadas no DF&quot;</p>
 
 <p>Os parlamentares se comprometeram com as pautas dos trabalhadores rurais e se colocaram &agrave; disposi&ccedil;&atilde;o para d&aacute; continuidade com as demandas relacionadas as&nbsp; pautas de pol&iacute;ticas de&nbsp; Reforma Agr&aacute;ria.&nbsp;<br />
 &nbsp;</p>
