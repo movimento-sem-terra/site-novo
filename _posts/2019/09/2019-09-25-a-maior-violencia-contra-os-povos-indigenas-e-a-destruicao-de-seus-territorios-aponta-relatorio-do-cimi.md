@@ -30,6 +30,7 @@ releated_posts:
   - _posts/2019/04/2019-04-30-acampamento-terra-livre-reafirma-luta-contra-retrocessos.md
   - _posts/2019/07/2019-07-04-comunidade-tradicional-caicara-denuncia-ameaca-de-demolicao-no-vale-do-ribeira.md
   - _posts/2019/04/2019-04-19-o-dia-do-indio-e-dia-de-luta-do-povo-brasileiro.md
+section: cover
 
 ---
 <div style="text-align:center">
