@@ -2,6 +2,7 @@
 date: "2019-09-26T12:48:31-03:00"
 tags:
   - tag: produção
+  - tag: agroecologia
 title: Guardiãs e guardiões de sementes crioulas partilham grãos como forma de resistência
 support_line: "\"Saber popular se contrapõe ao monopólio de grandes multinacionais\", afirma produtor"
 menu: projeto popular
@@ -17,7 +18,12 @@ files:
     $$hashKey: 0FP
 created_date: "2019-09-26T12:56:52-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2018/12/2018-12-07-ms-recebe-a-2a-edicao-da-feira-estadual-da-reforma-agraria.md
+  - _posts/2018/12/2018-12-09-vale-do-mucuri-leva-30-anos-de-producao-para-festival-estadual.md
+  - _posts/2018/12/2018-12-12-trabalhadores-rurais-contam-sobre-a-importancia-da-feira-estadual-da-reforma-agraria-no-rio.md
+  - _posts/2019/03/2019-03-24-producao-de-arroz-organico-do-mst-chega-a-bahia-dia-historico-celebra-dirigente.md
+  - _posts/2019/03/2019-03-06-em-area-da-reforma-agraria-romaria-da-terra-evidencia-a-alimentacao-saudavel.md
 
 ---
 <div style="text-align:center">
