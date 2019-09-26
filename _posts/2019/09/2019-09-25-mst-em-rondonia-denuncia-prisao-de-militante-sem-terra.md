@@ -39,10 +39,10 @@ releated_posts:
 <p>Contra pris&atilde;o injusta de Jo&atilde;o Abelh&atilde;o, militante Sem Terra, e a criminaliza&ccedil;&atilde;o dos movimentos populares, o MST emitiu na tarde desta quarta-feira (25), uma Nota de Rep&uacute;dio em den&uacute;ncia ao ocorrido.&nbsp;</p>
 
 <p><br />
-Jo&atilde;o foi preso durante uma opera&ccedil;&atilde;o da Pol&iacute;cia Federal, intitulada de &ldquo;Terra Roxa&rdquo;, realizada na cooperativa do assentamento Margarida Alves, localizado no munic&iacute;pio de Moreno, em Rond&ocirc;nia.</p>
+Jo&atilde;o foi preso durante uma opera&ccedil;&atilde;o da Pol&iacute;cia Federal&nbsp;realizada na cooperativa do assentamento Margarida Alves, localizado no munic&iacute;pio de Nova Uni&atilde;o, em Rond&ocirc;nia.</p>
 
 <p><br />
-Confira a Nota na &iacute;ntegra.&nbsp;</p>
+Confira a Nota na &iacute;ntegra:</p>
 
 <p style="text-align: center;"><br />
 <strong>NOTA DE REP&Uacute;DIO CONTRA O PROCESSO DE CRIMINALIZA&Ccedil;&Atilde;O DOS MOVIMENTOS SOCIAIS</strong></p>
