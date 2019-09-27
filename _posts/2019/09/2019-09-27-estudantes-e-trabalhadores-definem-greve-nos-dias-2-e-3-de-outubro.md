@@ -39,8 +39,6 @@ Nos dias 2 e 3 de outubro, uma grande&nbsp;paralisa&ccedil;&atilde;o est&aacute;
 <p><br />
 De acordo com os organizadores, as&nbsp;pautas s&atilde;o a derrubada do projeto Future-se; os cortes de recursos nas Institui&ccedil;&otilde;es P&uacute;blicas de Ensino, do CNPQ, da CAPES, do PNAES e do FUNDEB; a interven&ccedil;&atilde;o do governo na escolha dos dirigentes das Institui&ccedil;&otilde;es Federais de Ensino; a militariza&ccedil;&atilde;o das escolas e a retirada de direitos dos trabalhadores.</p>
 
-<p>&nbsp;</p>
-
 <p><br />
 Confira a nota convocat&oacute;ria da Frente Brasil popular:</p>
 
