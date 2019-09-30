@@ -5,7 +5,7 @@ tags:
   - tag: população-negra
   - tag: mulher-negra
   - tag: racismo
-title: "Em MG, FBP afirma a defesa da vida da população negra em suas frentes de luta "
+title: "Em MG, FBP afirma a defesa da vida da população negra em suas lutas"
 support_line: O documento final do Encontro Fátima Oliveira de Negras e Negros pela Democracia aponta que as lutas devem buscar impedir os retrocessos das políticas públicas afirmativas e de reparação histórica conquistadas pelo povo negro
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48822493962_c9e009d8e9_b.jpg
