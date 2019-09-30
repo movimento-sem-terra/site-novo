@@ -5,7 +5,7 @@ tags:
   - tag: justiça
   - tag: paraná
 title: "MP denuncia 6 PMs por assassinato de trabalhadores rurais em Quedas do Iguaçu-PR "
-support_line: "Crime ocorreu em 2016, no Acampamento do MST Dom Tomás Balduíno, região Centro do Paraná "
+support_line: "Crime ocorreu em 2016, no acampamento do MST Dom Tomás Balduíno, região central do Paraná "
 menu: direitos humanos
 images_hd: //farm66.staticflickr.com/65535/48822921516_f9551b865e_b.jpg
 layout: post
