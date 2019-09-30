@@ -6,7 +6,7 @@ tags:
   - tag: trabalho
 support_line: Cerca 650 famílias do Movimento do  Trabalhadores  Rurais Sem Terra (MST) ocupam desde 2012 áreas que antes eram improdutivas
 menu: direitos humanos
-title: Protestos em Juazeiro (BA) traz pauta sobre mercado de trabalho e direito à terra
+title: Protesto em Juazeiro (BA) traz pauta sobre mercado de trabalho e direito à terra
 images_hd: //farm66.staticflickr.com/65535/48822114863_d013761c19_b.jpg
 layout: post
 files:
