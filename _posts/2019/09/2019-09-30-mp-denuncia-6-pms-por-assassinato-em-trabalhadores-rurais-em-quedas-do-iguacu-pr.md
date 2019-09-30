@@ -4,7 +4,7 @@ tags:
   - tag: violencia-no-campo
   - tag: justiça
   - tag: paraná
-title: "MP denuncia 6 PMs por assassinato em trabalhadores rurais em Quedas do Iguaçu-PR "
+title: "MP denuncia 6 PMs por assassinato de trabalhadores rurais em Quedas do Iguaçu-PR "
 support_line: "Crime ocorreu em 2016, no Acampamento do MST Dom Tomás Balduíno, região Centro do Paraná "
 menu: direitos humanos
 images_hd: //farm66.staticflickr.com/65535/48822921516_f9551b865e_b.jpg
@@ -52,7 +52,7 @@ Seis policiais militares foram denunciados pelo Minist&eacute;rio P&uacute;blico
 <p>Ao longo dos mais de tr&ecirc;s anos, quatro investiga&ccedil;&otilde;es foram instauradas: pela Pol&iacute;cia Militar, Pol&iacute;cia Civil, Pol&iacute;cia Federal e o inqu&eacute;rito do MP-PR, e nenhuma delas atestou que qualquer disparo tenha sido efetuado pelas trabalhadores Sem Terra.&nbsp;<br />
 &nbsp;</p>
 
-<p>As suspeitas de irregularidades na atua&ccedil;&atilde;o das pol&iacute;cias Civil e Militar foram denunciadas &agrave; Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas (ONU) pela organiza&ccedil;&atilde;o Terra de Direitos uma semana ap&oacute;s o crime. Entre as den&uacute;ncias estava o fato de que os cad&aacute;veres das duas pessoas assassinadas foram levados &agrave; delegacia pela pr&oacute;pria PM, quando deveriam ter sido retirados pelo IML.<br />
+<p>As suspeitas de <a href="https://www.brasildefato.com.br/2016/04/20/onu-recebe-denuncia-de-irregularidade-na-investigacao-de-assassinatos-no-parana/" target="_blank">irregularidades na atua&ccedil;&atilde;o das pol&iacute;cias Civil e Militar foram denunciadas &agrave; Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas (ONU)</a> pela organiza&ccedil;&atilde;o Terra de Direitos uma semana ap&oacute;s o crime. Entre as den&uacute;ncias estava o fato de que os cad&aacute;veres das duas pessoas assassinadas foram levados &agrave; delegacia pela pr&oacute;pria PM, quando deveriam ter sido retirados pelo IML.<br />
 &nbsp;</p>
 
 <p><strong>Hist&oacute;rico da &aacute;rea</strong><br />
@@ -61,7 +61,7 @@ Seis policiais militares foram denunciados pelo Minist&eacute;rio P&uacute;blico
 <p>O acampamento Dom Tom&aacute;s Baldu&iacute;no &eacute; formado por cerca de 600 fam&iacute;lias desde 2015, e est&aacute; localizado em cerca de 10.700 hectares terras p&uacute;blicas griladas pela madeireira Araupel. A den&uacute;ncia sobre a grilagem das &aacute;reas ocupadas pela empresa come&ccedil;ou na d&eacute;cada de 1990. De l&aacute; para c&aacute;, o Instituto Nacional de Coloniza&ccedil;&atilde;o e Reforma Agr&aacute;ria (Incra) formalizou a cria&ccedil;&atilde;o de v&aacute;rios assentamentos rurais em Quedas do Igua&ccedil;u. Cerca de 20 mil hectares continuam em disputa, a maioria s&atilde;o &aacute;reas de acampamentos do MST.&nbsp;<br />
 &nbsp;</p>
 
-<p>Em 2015, a 1&ordf; Vara Federal de Cascavel declarou nulo o t&iacute;tulo de propriedade da fazenda Rio das Cobras, uma das apropriadas pela madeireira, a partir de uma a&ccedil;&atilde;o judicial movida pelo Incra em 2004. O Incra ajuizou uma A&ccedil;&atilde;o Civil P&uacute;blica sobre os cerca de 12 mil hectares restantes. Clique aqui e veja a linha do tempo sobre o caso.&nbsp;&nbsp;</p>
+<p>Em 2015, a 1&ordf; Vara Federal de Cascavel declarou nulo o t&iacute;tulo de propriedade da fazenda Rio das Cobras, uma das apropriadas pela madeireira, a partir de uma a&ccedil;&atilde;o judicial movida pelo Incra em 2004. O Incra ajuizou uma A&ccedil;&atilde;o Civil P&uacute;blica sobre os cerca de 12 mil hectares restantes. <a href="https://www.brasildefato.com.br/2016/11/10/entenda-o-conflito-entre-o-mst-e-a-madeireira-araupel-no-parana/">Clique aqui e veja a linha do tempo sobre o caso</a>.&nbsp;&nbsp;</p>
 
 <p>&nbsp;</p>
 
