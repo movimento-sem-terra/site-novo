@@ -44,7 +44,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Evento negras e negros [3] Foto Iris Pacheco.jpeg" height="416" src="//farm66.staticflickr.com/65535/48821973498_bc9c44f696_b.jpg" width="700" />
-<figcaption>O espa&ccedil;o discutiu ainda o fortalecimento e amplia&ccedil;&atilde;o das a&ccedil;&otilde;es de forma&ccedil;&atilde;o e de luta das negras e negros a partir da Frente Brasil Popular.&nbsp;O espa&ccedil;o discutiu ainda o fortalecimento e amplia&ccedil;&atilde;o das a&ccedil;&otilde;es de forma&ccedil;&atilde;o e de luta das negras e negros a partir da Frente Brasil Popular.&nbsp;</figcaption>
+<figcaption><em>O espa&ccedil;o discutiu ainda o fortalecimento e amplia&ccedil;&atilde;o das a&ccedil;&otilde;es de forma&ccedil;&atilde;o e de luta das negras e negros a partir da Frente Brasil Popular.&nbsp; Fotos: Iris Pacheco</em></figcaption>
 </figure>
 </div>
 
