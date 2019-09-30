@@ -33,7 +33,8 @@ releated_posts:
 </figure>
 </div>
 
-<p><em>Por Setor de Comunica&ccedil;&atilde;o e Cultura do MST-PR&nbsp;<br />
+<p><br />
+<em>Por Setor de Comunica&ccedil;&atilde;o e Cultura do MST-PR&nbsp;<br />
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
