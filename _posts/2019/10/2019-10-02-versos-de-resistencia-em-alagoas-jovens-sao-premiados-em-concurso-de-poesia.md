@@ -106,7 +106,7 @@ Com o Slam &ldquo;At&eacute; a alma &eacute; preta&rdquo;, composi&ccedil;&atild
 <figcaption><em>Alexandro. Foto: Divulga&ccedil;&atilde;o</em></figcaption>
 </figure>
 
-<p>Cursando administra&ccedil;&atilde;o na Universidade Federal de Alagoas (Ufal) em Macei&oacute;, Alexandro enfrenta horas e horas de estrada para, todos os dias, sair de Maragogi e ir estudar na capital alagoana. &ldquo;Saio de casa &agrave;s 15 horas e quando volto j&aacute; &eacute; meia-noite&rdquo;, comentou. As batalhas que enfrenta e j&aacute; enfrentou na vida d&atilde;o sentido ao que ele escreve e declama.</p>
+<p>Prounista, cursando administra&ccedil;&atilde;o em Macei&oacute;, Alexandro enfrenta horas e horas de estrada para, todos os dias, sair de Maragogi e ir estudar na capital alagoana. &ldquo;Saio de casa &agrave;s 15 horas e quando volto j&aacute; &eacute; meia-noite&rdquo;, comentou. As batalhas que enfrenta e j&aacute; enfrentou na vida d&atilde;o sentido ao que ele escreve e declama.</p>
 
 <p><br />
 &ldquo;Eu sempre gostei de ler. Por ser uma pessoa bastante t&iacute;mida costumo colocar o que sinto no papel. N&atilde;o sei bem quando iniciei a escrever, mas desde a inf&acirc;ncia escrevo. Escrevia mesmo sem saber que aquilo que fazia era poesia&rdquo;, disse.</p>
