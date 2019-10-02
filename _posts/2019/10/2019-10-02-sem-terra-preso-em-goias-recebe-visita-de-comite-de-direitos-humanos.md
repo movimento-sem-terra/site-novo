@@ -39,7 +39,7 @@ releated_posts:
 <p>De acordo com &Acirc;ngela Ferreira, integrante da coordena&ccedil;&atilde;o do Comit&ecirc; de Direitos Humanos, &eacute; importante constatar que Natalino est&aacute; em um local que tem uma metodologia de&nbsp;trabalho extremamente humana, e ressalta o apoio do comit&ecirc; nesse processo.</p>
 
 <p><br />
-&quot;Transmitimos toda a solidariedade aos familiares, aos amigos, ao MST, pois a pris&atilde;o do Natalino &eacute; pol&iacute;tica, ele n&atilde;o cometeu nenhum crime. Defender a justi&ccedil;a, a igualdade, a terra, isso s&atilde;o direitos humanos, n&atilde;o &eacute; crime. Esse processo &eacute; um equ&iacute;voco e estamos atentas e firmes&quot;, afirma Angela.<br />
+&quot;Transmitimos toda a solidariedade aos familiares, aos amigos, ao MST, pois a pris&atilde;o do Natalino &eacute; pol&iacute;tica, ele n&atilde;o cometeu nenhum crime. Defender a justi&ccedil;a, a igualdade, a terra, isso s&atilde;o direitos humanos, n&atilde;o &eacute; crime. Esse processo &eacute; um equ&iacute;voco e estamos atentas&quot;, afirma Angela.<br />
 &nbsp;</p>
 
 <p>Preso arbitrariamente em setembro, no munic&iacute;pio de Mozarl&acirc;ndia (GO),&nbsp;enquanto se dirigia para capital do estado para visitar sua fam&iacute;lia, Natalino se soma ao grupo de militantes no estado que tem sofrido as tentativas de intimida&ccedil;&atilde;o direcionadas ao Movimento Sem Terra.<br />
