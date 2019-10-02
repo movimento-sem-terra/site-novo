@@ -4,7 +4,7 @@ tags:
   - tag: violência
   - tag: são-paulo
 title: "Carandiru não é coisa do passado: o que era exceção na verdade virou regra"
-support_line: "Quantos outros mais Carandirus precisarão vir? Quanto custa o silêncio da desmemória? "
+support_line: "Quantos outros Carandirus precisarão vir? Quanto custa o silêncio da desmemória? "
 menu: direitos humanos
 section: featured-news
 label: articles
