@@ -42,7 +42,7 @@ Da P&aacute;gina do MST</em><br />
 A diversidade de produ&ccedil;&atilde;o realizadas das &aacute;reas da reforma agr&aacute;ria do MST estar&aacute; presente na feira formando uma miscel&acirc;nea de produtos direto do campo. O evento contar&aacute; com a poio da Secretaria de Desenvolvimento Agropecu&aacute;rio e da Pesca (SEDAP).&nbsp;</p>
 
 <p><br />
-S&atilde;o alimentos s&atilde;o naturais e livres de veneno, produzidos pelas m&atilde;os de trabalhadoras e trabalhadores Sem Terra que visam a produ&ccedil;&atilde;o sem agrot&oacute;xicos na luta a favor da vida e em defesa de seu territ&oacute;rio.&nbsp;</p>
+Os alimentos s&atilde;o naturais e livres de veneno, produzidos pelas m&atilde;os de trabalhadoras e trabalhadores Sem Terra que visam a produ&ccedil;&atilde;o sem agrot&oacute;xicos na luta a favor da vida e em defesa de seu territ&oacute;rio.&nbsp;</p>
 
 <p><br />
 A festa &eacute; &agrave;s v&eacute;speras do C&iacute;rio de Nazar&eacute;, a maior festa religiosa do mundo que envolve toda a cidade.&nbsp; A popula&ccedil;&atilde;o ter&aacute; a oportunidade de levar para casa e saborear com sua fam&iacute;lia produtos das regi&otilde;es do nordeste e sudeste paraense, produtos vindos direto da agricultura camponesa e sem agrot&oacute;xico, para dar mais qualidade a mesa dos paraenses.&nbsp;</p>
