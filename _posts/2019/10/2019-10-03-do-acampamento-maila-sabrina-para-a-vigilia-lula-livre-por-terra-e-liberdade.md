@@ -58,6 +58,20 @@ files:
     small: //farm66.staticflickr.com/65535/48837803313_c909aff311_n.jpg
     title: Horta plantas medicinais.JPG
     $$hashKey: 0C1
+  - link: //farm66.staticflickr.com/65535/48838585316_1c2ed1fb55_b.jpg
+    original: //farm66.staticflickr.com/65535/48838585316_788ea05c66_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48838585316_1c2ed1fb55_t.jpg
+    medium: //farm66.staticflickr.com/65535/48838585316_1c2ed1fb55_z.jpg
+    small: //farm66.staticflickr.com/65535/48838585316_1c2ed1fb55_n.jpg
+    title: Roda de Chimarrão 2.jpg
+    $$hashKey: 05I
+  - link: //farm66.staticflickr.com/65535/48838761297_450276cb8f_b.jpg
+    original: //farm66.staticflickr.com/65535/48838761297_4b200e73a0_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48838761297_450276cb8f_t.jpg
+    medium: //farm66.staticflickr.com/65535/48838761297_450276cb8f_z.jpg
+    small: //farm66.staticflickr.com/65535/48838761297_450276cb8f_n.jpg
+    title: Horta plantas medicinais.JPG
+    $$hashKey: 05L
 created_date: "2019-10-03T15:07:41-03:00"
 published: true
 releated_posts:
@@ -82,6 +96,11 @@ Da P&aacute;gina do MST</em><br />
 
 <p>Na &uacute;ltima quinzena foi a vez da&nbsp;comunidade do acampamento Maila Sabrina contribuir nessa luta hist&oacute;rica e fortalecer as tarefas que mant&eacute;m o dia a dia da Vig&iacute;lia. Eles vieram de Ortigueira, no Paran&aacute; e, al&eacute;m da luta pela liberdade de Lula, o Maila est&aacute; na resist&ecirc;ncia pelo direito &agrave; terra e na constru&ccedil;&atilde;o da Reforma Agr&aacute;ria Popular. Depois de 17 anos de ocupa&ccedil;&atilde;o de uma fazenda improdutiva, as cerca de 400 fam&iacute;lias do Maila Sabrina est&atilde;o sofrendo uma forte amea&ccedil;a de despejo, mas seguem&nbsp;firmes na produ&ccedil;&atilde;o e no desenvolvimento comunit&aacute;rio.&nbsp;<br />
 &nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Horta plantas medicinais.JPG" height="202" src="//farm66.staticflickr.com/65535/48837803313_c909aff311_b.jpg" width="300" />
+<figcaption><em>Horta plantas medicinais.&nbsp;<br />
+Foto: Setor de Comunica&ccedil;&atilde;o MST/PR</em></figcaption>
+</figure>
 
 <p>Marcelo do Nascimento, integrante da dire&ccedil;&atilde;o da comunidade Maila Sabrina, refor&ccedil;a que o acampamento est&aacute; contribuindo e sempre est&aacute; em luta, fazendo parte e lutando pela liberdade de Lula. &ldquo;Todo mundo deixa os seus cuidados na casa, todo mundo tem sua produ&ccedil;&atilde;o no acampamento, tem sua fam&iacute;lia, mas &eacute; importante que todo mundo dedique um pouco do seu tempo pra vir aqui participar dessa causa nacional e internacional&rdquo;.<br />
 &nbsp;</p>
@@ -111,13 +130,18 @@ Foto: Setor de Comunica&ccedil;&atilde;o MST/PR​</em></figcaption>
 <p><strong>N&atilde;o pode faltar o chimarr&atilde;o!</strong><br />
 &nbsp;</p>
 
+<figure class="image" style="float:right"><img alt="Roda de Chimarrão 2.jpg" height="201" src="//farm66.staticflickr.com/65535/48838585316_1c2ed1fb55_b.jpg" width="300" />
+<figcaption><em>Roda de Chimarr&atilde;o<br />
+Foto: Setor de Comunica&ccedil;&atilde;o MST/PR​</em></figcaption>
+</figure>
+
 <p>Durante esses dias na Vig&iacute;lia, tamb&eacute;m sobrou um tempinho para a roda de chimarr&atilde;o entre amigos e companheiros, que se re&uacute;nem para trocar ideias e fortalecer amizades. Todas as pessoas que passam pela Vig&iacute;lia Lula Livre s&atilde;o muitos bem recebidas e inclu&iacute;das nesse imenso movimento que re&uacute;ne&nbsp;gente de v&aacute;rios cantos do Brasil.&nbsp;<br />
 &nbsp;</p>
 
 <p><strong>Forma&ccedil;&atilde;o</strong>&nbsp;<br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="Formação 1.jpg" height="200" src="//farm66.staticflickr.com/65535/48837803073_b027b1a7e3_b.jpg" width="300" />
+<figure class="image" style="float:left"><img alt="Formação 1.jpg" height="200" src="//farm66.staticflickr.com/65535/48837803073_b027b1a7e3_b.jpg" width="300" />
 <figcaption><em>Forma&ccedil;&atilde;o no&nbsp;Espa&ccedil;o Marielle Vive, dentro da&nbsp;<br />
 vig&iacute;lia.&nbsp;Foto: Setor de Comunica&ccedil;&atilde;o MST/PR</em></figcaption>
 </figure>
@@ -131,7 +155,7 @@ vig&iacute;lia.&nbsp;Foto: Setor de Comunica&ccedil;&atilde;o MST/PR</em></figca
 <p><strong>Dia de expectativa&nbsp;</strong><br />
 &nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="Visita da Gleisi 1.jpg" height="242" src="//farm66.staticflickr.com/65535/48838352772_0f484dd36e_b.jpg" width="300" />
+<figure class="image" style="float:right"><img alt="Visita da Gleisi 1.jpg" height="242" src="//farm66.staticflickr.com/65535/48838352772_0f484dd36e_b.jpg" width="300" />
 <figcaption><em>Assentados com presidente do PT Gleisi&nbsp;Hoffmann<br />
 Foto: Setor de Comunica&ccedil;&atilde;o MST/PR</em></figcaption>
 </figure>
@@ -142,8 +166,11 @@ Foto: Setor de Comunica&ccedil;&atilde;o MST/PR</em></figcaption>
 <p><strong>Nossas sauda&ccedil;&otilde;es a Lula&nbsp;</strong><br />
 &nbsp;</p>
 
-<p>O &ldquo;Bom dia&rdquo;, &ldquo;Boa tarde&rdquo; e &ldquo;Boa noite&rdquo; ao presidente Lula s&atilde;o momentos de pura emo&ccedil;&atilde;o, quando n&oacute;s, brasileiros, sentimos na pele a dor de ter um &iacute;cone t&atilde;o importante da nossa hist&oacute;ria preso injustamente. Nesses momentos se tem a oportunidade de expressar e colocar para fora o&nbsp;grito por Justi&ccedil;a, &quot;pois n&atilde;o aceitamos que o nosso pa&iacute;s seja tratado assim. &Eacute; tamb&eacute;m nesse momento que podemos manifestar nosso apoio e carinho para o nosso companheiro Lula. N&oacute;s do Maila Sabrina ficamos orgulhosos de fazer parte desse momento hist&oacute;rico&quot;, concluiram.&nbsp;<br />
-&nbsp;</p>
+<figure class="image" style="float:left"><img alt="Saudação ao Lula.jpg" height="200" src="//farm66.staticflickr.com/65535/48838352762_21f6535435_b.jpg" width="300" />
+<figcaption><em>Foto: Setor de Comunica&ccedil;&atilde;o MST/PR</em></figcaption>
+</figure>
+
+<p>O &ldquo;Bom dia&rdquo;, &ldquo;Boa tarde&rdquo; e &ldquo;Boa noite&rdquo; ao presidente Lula s&atilde;o momentos de pura emo&ccedil;&atilde;o, quando n&oacute;s, brasileiros, sentimos na pele a dor de ter um &iacute;cone t&atilde;o importante da nossa hist&oacute;ria preso injustamente. Nesses momentos se tem a oportunidade de expressar e colocar para fora o&nbsp;grito por Justi&ccedil;a, &quot;pois n&atilde;o aceitamos que o nosso pa&iacute;s seja tratado assim. &Eacute; tamb&eacute;m nesse momento que podemos manifestar nosso apoio e carinho para o nosso companheiro Lula. N&oacute;s do Maila Sabrina ficamos orgulhosos de fazer parte desse momento hist&oacute;rico&quot;, concluiram.&nbsp;</p>
 
 <p><em>*Colaborou: Setor de Comunica&ccedil;&atilde;o e Cultura do MST-PR&nbsp;<br />
 ** Editado por Fernanda Alc&acirc;ntara&nbsp;</em></p>
