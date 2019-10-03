@@ -8,7 +8,7 @@ title: Câmara entrega Salva de Prata em homenagem ao MST
 images_hd: //farm66.staticflickr.com/65535/48799784561_36b6037b27_b.jpg
 support_line: "De acordo com Tatto, proponente do decreto, o reconhecimento público se faz necessário pela trajetória do Movimento Sem Terra na construção de uma sociedade mais justa, sadia e igualitária"
 menu: lutas e mobilizações
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/48799784561_36b6037b27_b.jpg
