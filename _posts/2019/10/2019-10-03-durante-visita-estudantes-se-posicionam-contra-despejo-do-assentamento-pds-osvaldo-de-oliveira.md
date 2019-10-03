@@ -84,12 +84,13 @@ A visita fez parte das atividades de campo da turma e foi constru&iacute;da a pa
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Infográfico_ Brasil de Fato.png" height="463" src="//farm66.staticflickr.com/65535/48838481536_7604c10287_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption><em>Fonte: Brasil de Fato</em></figcaption>
 </figure>
 </div>
 
 <p><br />
-Se analisarmos os dados do Censo e a localiza&ccedil;&atilde;o dos estados com maior concentra&ccedil;&atilde;o fundi&aacute;ria, o Mato Grosso sai na frente por conter cerca 10 mil hectares, com 868 fazendas. Em segundo lugar fica o Mato Grosso do Sul, que concentra 341 grandes latif&uacute;ndios.&nbsp;</p>
+Se analisarmos os dados do Censo e a localiza&ccedil;&atilde;o dos estados com maior concentra&ccedil;&atilde;o fundi&aacute;ria, o Mato Grosso sai na frente por conter cerca 10 mil hectares, com 868 fazendas. Em segundo lugar fica o Mato Grosso do Sul, que concentra 341 grandes latif&uacute;ndios.&nbsp;<br />
+&nbsp;</p>
 
 <p>O Par&aacute;, em terceiro lugar na lista de quantidade de latif&uacute;ndios, registrou 188 estabelecimentos rurais com 10 mil hectares ou mais. No entanto, vale destacar que o estado registra os maiores latif&uacute;ndios do pa&iacute;s e &eacute; palco de emblem&aacute;ticos conflitos, como o massacre de Eldorado dos Caraj&aacute;s, em 1996.&nbsp;<br />
 &nbsp;</p>
@@ -97,11 +98,12 @@ Se analisarmos os dados do Censo e a localiza&ccedil;&atilde;o dos estados com m
 <p><strong>Despejo n&atilde;o! PDS resiste!</strong></p>
 
 <p><br />
-O PDS Osvaldo de Oliveira &eacute; uma refer&ecirc;ncia por ser um &aacute;rea conquistada a partir da luta pela terra, se contrapondo a l&oacute;gica de concentra&ccedil;&atilde;o fundi&aacute;ria no pa&iacute;s e desenvolvendo um manejo produtivo baseado na produ&ccedil;&atilde;o de alimentos saud&aacute;veis, livres de veneno e sem explora&ccedil;&atilde;o do trabalho.&nbsp;<br />
+O PDS Osvaldo de Oliveira &eacute;&nbsp;refer&ecirc;ncia por ser uma &aacute;rea conquistada a partir da luta pela terra, se contrapondo a l&oacute;gica de concentra&ccedil;&atilde;o fundi&aacute;ria no pa&iacute;s e desenvolvendo um manejo produtivo baseado na produ&ccedil;&atilde;o de alimentos saud&aacute;veis, livres de veneno e sem explora&ccedil;&atilde;o do trabalho.&nbsp;<br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Área de feijão visitada pelos estudantes. Foto_Coletivo de Comunicação do MST no RJ.jpeg" height="400" src="//farm66.staticflickr.com/65535/48838108383_fdfc2b2c13_b.jpg" width="300" />
-<figcaption></figcaption>
+<figcaption><em>&Aacute;rea de feij&atilde;o visitada pelos estudantes.<br />
+Foto: Coletivo de Comunica&ccedil;&atilde;o do MST no RJ</em></figcaption>
 </figure>
 
 <p>Barros apontou ainda que os assentamentos s&atilde;o extremamente importantes e completa: &ldquo;Onde havia uma imensid&atilde;o de terra parada, sem produzir, hoje se tem v&aacute;rias fam&iacute;lias produzindo de maneira agroecol&oacute;gica, visando levar alimentos &agrave; mesa da cidade e da comunidade sem agrot&oacute;xicos.&rdquo;<br />
