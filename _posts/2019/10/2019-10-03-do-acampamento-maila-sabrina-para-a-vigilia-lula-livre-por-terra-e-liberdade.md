@@ -1,10 +1,12 @@
 ---
 date: "2019-10-03T12:49:02-03:00"
-tags: []
+tags:
+  - tag: vigilia
+  - tag: lula-livre
 title: "Do acampamento Maila Sabrina para a Vigília Lula Livre: por terra e liberdade"
 support_line: "Camponesas e camponeses do MST se revezam no apoio à Vigília, em Curitiba, desde abril de 2018. Confira como foi a participação da comunidade Maila Sabrina"
 menu: lutas e mobilizações
-images_hd: //farm66.staticflickr.com/65535/48838352762_21f6535435_b.jpg
+images_hd: //farm66.staticflickr.com/65535/48838352997_bbceb7fc17_b.jpg
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/48838174416_bd3e8c4bf5_b.jpg
@@ -58,16 +60,20 @@ files:
     $$hashKey: 0C1
 created_date: "2019-10-03T15:07:41-03:00"
 published: false
-releated_posts: []
+releated_posts:
+  - _posts/2019/06/2019-06-25-caravanas-do-mst-ocupam-vigilia-em-curitiba-aguardando-soltura-de-lula.md
+  - _posts/2019/09/2019-09-15-mst-do-parana-realiza-curso-sobre-metodo-cubano-de-alfabetizacao-de-jovens-e-adultos.md
+  - _posts/2019/09/2019-09-25-pertinho-de-voce-e-a-nova-musica-criada-na-vigilia-lula-livre.md
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Foto destaque_Valmir Fernandes.jpg" height="461" src="//farm66.staticflickr.com/65535/48838352997_bbceb7fc17_b.jpg" width="700" />
-<figcaption>.jpg</figcaption>
+<figcaption></figcaption>
 </figure>
 </div>
 
-<p><em>Por Hirlana Hatita Prado de Oliveira, Matheus Lauer, Maikom Rodrigo de Chaves Toebe*<br />
+<p><br />
+<em>Por Hirlana Hatita Prado de Oliveira, Matheus Lauer, Maikom Rodrigo de Chaves Toebe*<br />
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
@@ -84,7 +90,7 @@ Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Espaço da Saúde.jpg" height="200" src="//farm66.staticflickr.com/65535/48837803243_7acc30152c_b.jpg" width="300" />
-<figcaption></figcaption>
+<figcaption>Hirlana Hatita Prado de Oliveira, Matheus Lauer, Maikom Rodrigo de Chaves Toebe*</figcaption>
 </figure>
 
 <p>Na vig&iacute;lia Lula Livre h&aacute; um espa&ccedil;o de Sa&uacute;de Popular, onde s&atilde;o oferecidos v&aacute;rios tipos de terapia alternativas, como massoterapia, auriculoterapia e acupuntura. No atendimento aos participantes da Vig&iacute;lia tamb&eacute;m s&atilde;o oferecidos ch&aacute;s e componentes naturais e org&acirc;nicos, muitos deles produzidos a partir da horta de plantas medicinais do espa&ccedil;o Marielle Vive, que um companheiro do nosso acampamento cuidou ao longo de todos os dias. O Setor de Sa&uacute;de do MST est&aacute; muito presente na organiza&ccedil;&atilde;o desse espa&ccedil;o, replicando as pr&aacute;ticas do Movimento aqui na Vig&iacute;lia.&nbsp;&nbsp;<br />
@@ -121,6 +127,10 @@ Da P&aacute;gina do MST</em><br />
 
 <p><strong>Dia de expectativa&nbsp;</strong><br />
 &nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Visita da Gleisi 1.jpg" height="242" src="//farm66.staticflickr.com/65535/48838352772_0f484dd36e_b.jpg" width="300" />
+<figcaption></figcaption>
+</figure>
 
 <p>No dia 30 de setembro, o acampamento Maila Sabrina presenciou um momento no qual o presidente Lula decidiu se aceitaria ou n&atilde;o o regime semi-aberto. Mas, como dito outras vezes por ele, &ldquo;eu n&atilde;o troco a minha dignidade por minha liberdade&rdquo;. Esse dia de grande expectativa&nbsp;deu a oportunidade de estar ao lado da presidenta nacional do PT, Gleisi Hoffmann, e tamb&eacute;m do candidato &agrave; presid&ecirc;ncia da rep&uacute;blica Fernando Haddad, que visitaram o presidente Lula e depois a Vig&iacute;lia Lula Livre.<br />
 &nbsp;</p>
