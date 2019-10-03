@@ -101,7 +101,7 @@ O PDS Osvaldo de Oliveira &eacute; uma refer&ecirc;ncia por ser um &aacute;rea c
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Área de feijão visitada pelos estudantes. Foto_Coletivo de Comunicação do MST no RJ.jpeg" height="400" src="//farm66.staticflickr.com/65535/48838108383_fdfc2b2c13_b.jpg" width="300" />
-<figcaption>I</figcaption>
+<figcaption></figcaption>
 </figure>
 
 <p>Barros apontou ainda que os assentamentos s&atilde;o extremamente importantes e completa: &ldquo;Onde havia uma imensid&atilde;o de terra parada, sem produzir, hoje se tem v&aacute;rias fam&iacute;lias produzindo de maneira agroecol&oacute;gica, visando levar alimentos &agrave; mesa da cidade e da comunidade sem agrot&oacute;xicos.&rdquo;<br />
