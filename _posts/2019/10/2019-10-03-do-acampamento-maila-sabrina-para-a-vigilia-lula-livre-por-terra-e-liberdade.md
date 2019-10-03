@@ -4,7 +4,7 @@ tags:
   - tag: vigilia
   - tag: lula-livre
 title: "Do acampamento Maila Sabrina para a Vigília Lula Livre: por terra e liberdade"
-support_line: "Camponesas e camponeses do MST se revezam no apoio à Vigília, em Curitiba, desde abril de 2018. Confira como foi a participação da comunidade Maila Sabrina"
+support_line: "Comunidade Maila Sabrina se revezam no apoio à Vigília Lula Livre, em Curitiba, desde abril de 2018"
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48838352997_bbceb7fc17_b.jpg
 layout: post
@@ -59,7 +59,7 @@ files:
     title: Horta plantas medicinais.JPG
     $$hashKey: 0C1
 created_date: "2019-10-03T15:07:41-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/06/2019-06-25-caravanas-do-mst-ocupam-vigilia-em-curitiba-aguardando-soltura-de-lula.md
   - _posts/2019/09/2019-09-15-mst-do-parana-realiza-curso-sobre-metodo-cubano-de-alfabetizacao-de-jovens-e-adultos.md
@@ -68,7 +68,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Foto destaque_Valmir Fernandes.jpg" height="461" src="//farm66.staticflickr.com/65535/48838352997_bbceb7fc17_b.jpg" width="700" />
-<figcaption></figcaption>
+<figcaption><em>Camponesas e camponeses do MST se revezam no apoio &agrave; Vig&iacute;lia. Foto: Valmir Fernandes</em></figcaption>
 </figure>
 </div>
 
@@ -90,7 +90,8 @@ Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Espaço da Saúde.jpg" height="200" src="//farm66.staticflickr.com/65535/48837803243_7acc30152c_b.jpg" width="300" />
-<figcaption>Hirlana Hatita Prado de Oliveira, Matheus Lauer, Maikom Rodrigo de Chaves Toebe*</figcaption>
+<figcaption><em>Espa&ccedil;o de sa&uacute;de da vig&iacute;lia.<br />
+Foto: Setor de Comunica&ccedil;&atilde;o MST/PR</em></figcaption>
 </figure>
 
 <p>Na vig&iacute;lia Lula Livre h&aacute; um espa&ccedil;o de Sa&uacute;de Popular, onde s&atilde;o oferecidos v&aacute;rios tipos de terapia alternativas, como massoterapia, auriculoterapia e acupuntura. No atendimento aos participantes da Vig&iacute;lia tamb&eacute;m s&atilde;o oferecidos ch&aacute;s e componentes naturais e org&acirc;nicos, muitos deles produzidos a partir da horta de plantas medicinais do espa&ccedil;o Marielle Vive, que um companheiro do nosso acampamento cuidou ao longo de todos os dias. O Setor de Sa&uacute;de do MST est&aacute; muito presente na organiza&ccedil;&atilde;o desse espa&ccedil;o, replicando as pr&aacute;ticas do Movimento aqui na Vig&iacute;lia.&nbsp;&nbsp;<br />
@@ -100,7 +101,8 @@ Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Cozinha 1.jpg" height="200" src="//farm66.staticflickr.com/65535/48838174416_bd3e8c4bf5_b.jpg" width="300" />
-<figcaption><em>Cozinha da Vig&iacute;lia Lula Livre</em></figcaption>
+<figcaption><em>Cozinha da Vig&iacute;lia Lula Livre<br />
+Foto: Setor de Comunica&ccedil;&atilde;o MST/PR​</em></figcaption>
 </figure>
 
 <p>A cozinha da Vig&iacute;lia fica localizada na &ldquo;Casa Lula Livre&rdquo;, pouco mais de 500 metros da Superintend&ecirc;ncia da Pol&iacute;cia Federal, aonde ficaram&nbsp;alojadas e tamb&eacute;m fizeram as refei&ccedil;&otilde;es. A partir do revezamento para o trabalho, os companheiras e companheiros prepararam as refei&ccedil;&otilde;es, como caf&eacute;, almo&ccedil;o, jantar. Com muito carinho, o coletivo respons&aacute;vel pela cozinha tamb&eacute;m preparou &quot;bolinho de chuva, que nos ajudou a matar a saudade de casa&#39;, afirmou uma das companheiras.<br />
@@ -116,7 +118,8 @@ Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Formação 1.jpg" height="200" src="//farm66.staticflickr.com/65535/48837803073_b027b1a7e3_b.jpg" width="300" />
-<figcaption></figcaption>
+<figcaption><em>Forma&ccedil;&atilde;o no&nbsp;Espa&ccedil;o Marielle Vive, dentro da&nbsp;<br />
+vig&iacute;lia.&nbsp;Foto: Setor de Comunica&ccedil;&atilde;o MST/PR</em></figcaption>
 </figure>
 
 <p>Esses dias de resist&ecirc;ncia tamb&eacute;m foram tempos de estudo e forma&ccedil;&atilde;o pol&iacute;tica e t&eacute;cnica, como por exemplo oficinas de m&uacute;sica, comunica&ccedil;&atilde;o, fotografia, simbologia do Movimento. As forma&ccedil;&otilde;es aconteceram especialmente no Espa&ccedil;o Marielle Vive de Forma&ccedil;&atilde;o e Cultura, que fica a menos de 70 metros da Superintend&ecirc;ncia da Pol&iacute;cia Federal.&nbsp;</p>
@@ -129,7 +132,8 @@ Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Visita da Gleisi 1.jpg" height="242" src="//farm66.staticflickr.com/65535/48838352772_0f484dd36e_b.jpg" width="300" />
-<figcaption></figcaption>
+<figcaption><em>Assentados com presidente do PT Gleisi&nbsp;Hoffmann<br />
+Foto: Setor de Comunica&ccedil;&atilde;o MST/PR</em></figcaption>
 </figure>
 
 <p>No dia 30 de setembro, o acampamento Maila Sabrina presenciou um momento no qual o presidente Lula decidiu se aceitaria ou n&atilde;o o regime semi-aberto. Mas, como dito outras vezes por ele, &ldquo;eu n&atilde;o troco a minha dignidade por minha liberdade&rdquo;. Esse dia de grande expectativa&nbsp;deu a oportunidade de estar ao lado da presidenta nacional do PT, Gleisi Hoffmann, e tamb&eacute;m do candidato &agrave; presid&ecirc;ncia da rep&uacute;blica Fernando Haddad, que visitaram o presidente Lula e depois a Vig&iacute;lia Lula Livre.<br />
