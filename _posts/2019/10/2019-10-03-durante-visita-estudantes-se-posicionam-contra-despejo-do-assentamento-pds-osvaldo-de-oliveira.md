@@ -58,7 +58,7 @@ Da P&aacute;gina do MST</em><br />
 A visita fez parte das atividades de campo da turma e foi constru&iacute;da a partir do di&aacute;logo entre a professora da disciplina de geografia agr&aacute;ria, Daniele Lima Barros, e o MST na regi&atilde;o. Vale destacar que esse mesmo contato &eacute; constru&iacute;do com outras universidades e sindicatos, principalmente neste momento em que as fam&iacute;lias sofrem com uma amea&ccedil;a de despejo.<br />
 &nbsp;</p>
 
-<p>A liminar de despejo foi determinado pelo Tribunal Regional Federal do Rio de Janeiro (TRF-RJ) em agosto deste ano.<br />
+<p>A liminar de despejo foi determinada&nbsp;pelo Tribunal Regional Federal do Rio de Janeiro (TRF-RJ) em agosto deste ano.<br />
 &nbsp;</p>
 
 <p><strong>LEIA MAIS:</strong> <a href="http://www.mst.org.br/2019/09/20/sob-ameaca-de-despejo-familias-assentadas-em-macae-rj-resistem-e-inauguram-casa-de-farinha.html" target="_blank">Sob amea&ccedil;a de despejo, fam&iacute;lias assentadas em Maca&eacute; (RJ) resistem e inauguram casa de farinha</a><br />
@@ -117,7 +117,7 @@ Foto: Coletivo de Comunica&ccedil;&atilde;o do MST no RJ</em></figcaption>
 
 <p>A visita de campo, ao acontecer durante a emin&ecirc;ncia de despejo, fortalece o processo de resist&ecirc;ncia das fam&iacute;lias Sem Terra, construindo outras rela&ccedil;&otilde;es com a sociedade a partir das universidades.</p>
 
-<p><br />
-<em>*Com informa&ccedil;&otilde;es do Coletivo de Comunica&ccedil;&atilde;o do MST no Rio de Janeiro.</em></p>
+<p>&nbsp;</p>
 
-<p><em>**Editado por Fernanda Alc&acirc;ntara</em></p>
+<p><em>*Com informa&ccedil;&otilde;es&nbsp;do Coletivo de Comunica&ccedil;&atilde;o do MST no Rio de Janeiro<br />
+**Editado por Fernanda Alc&acirc;ntara</em></p>
