@@ -53,7 +53,7 @@ Segundo Vera L&uacute;cia Santana Ara&uacute;jo, Integrante da Executiva ABJD:&n
 A data certamente n&atilde;o &eacute; casual. 6 de outubro deveria ser de comemora&ccedil;&atilde;o dos 31 anos da promulga&ccedil;&atilde;o da Constitui&ccedil;&atilde;o da Rep&uacute;blica Federativa do Brasil &ndash; a Constitui&ccedil;&atilde;o Cidad&atilde;, como cunhada pelo deputado federal e presidente da Assembleia Nacional Constituinte,&nbsp;Ulisses Guimar&atilde;es.</p>
 
 <p><br />
-Al&eacute;m do semin&aacute;rio, a programa&ccedil;&atilde;o conta&nbsp;com jogo de futebol solid&aacute;rio e com apresenta&ccedil;&otilde;es art&iacute;sticos-culturais.</p>
+Al&eacute;m do semin&aacute;rio e de apresenta&ccedil;&otilde;es art&iacute;sticos-culturais,&nbsp;ser&atilde;o realizados no&nbsp;campo de&nbsp;futebol Doutor&nbsp;S&oacute;crates Brasileiros,&nbsp;um campeonato de futebol com a participa&ccedil;&atilde;o de mais de 15 equipes mistas organizadas por&nbsp;sindicatos, associa&ccedil;&otilde;es, partidos pol&iacute;ticos e movimentos populares.</p>
 
 <p><br />
 Ao meio dia do domingo os presentes gravar&atilde;o um v&iacute;deo de celebra&ccedil;&atilde;o em homenagem ao anivers&aacute;rio do ex-presidente Lula.</p>
