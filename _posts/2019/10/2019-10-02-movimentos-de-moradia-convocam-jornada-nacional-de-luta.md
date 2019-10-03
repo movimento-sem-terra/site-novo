@@ -37,6 +37,12 @@ releated_posts:
 section: featured-news
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="[181] MTST.jpeg" height="466" src="//farm66.staticflickr.com/65535/48836996181_5608f9f8f7_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
 <p><br />
 <em>Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
