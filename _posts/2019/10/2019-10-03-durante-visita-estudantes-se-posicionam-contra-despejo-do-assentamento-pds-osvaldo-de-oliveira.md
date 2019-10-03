@@ -1,6 +1,10 @@
 ---
 date: "2019-10-03T16:05:51-03:00"
-tags: []
+tags:
+  - tag: pds-osvaldo-de-oliveira
+  - tag: universidade
+  - tag: despejo
+  - tag: rio-de-janeiro
 title: "Durante visita, estudantes se posicionam contra despejo do assentamento PDS Osvaldo de Oliveira"
 support_line: A concentração de terras e a produção agroecológica foram alguns dos temas discutidos
 menu: "educação, cultura e comunicação"
@@ -29,19 +33,24 @@ files:
     title: Infográfico_ Brasil de Fato.png
     $$hashKey: 038
 created_date: "2019-10-03T16:13:12-03:00"
-published: false
-releated_posts: []
+published: true
+releated_posts:
+  - _posts/2019/09/2019-09-24-despejo-ameaca-entrega-de-uma-tonelada-de-alimentos-saudaveis-em-escolas-publicas.md
+  - _posts/2019/08/2019-08-29-assentamento-osvaldo-de-oliveira-esta-novamente-sob-ameaca-de-despejo.md
+  - _posts/2019/09/2019-09-12-agroecologia-sim-pds-osvaldo-de-oliveira-recebe-mocao-de-apoio.md
+  - _posts/2019/09/2019-09-20-sob-ameaca-de-despejo-familias-assentadas-em-macae-rj-resistem-e-inauguram-casa-de-farinha.md
 
 ---
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="15 estudantes passaram um dia de atividades no PDS Osvaldo de Oliveira. Foto_Coletivo de Comunicação do MST no RJ.jpeg" height="525" src="//farm66.staticflickr.com/65535/48838481561_73d9b9230b_b.jpg" width="700" />
+<figcaption><em>15 estudantes passaram um dia de atividades no PDS Osvaldo de Oliveira. Foto: Coletivo de Comunica&ccedil;&atilde;o do MST no RJ</em></figcaption>
+</figure>
+</div>
 
-<p><em>Por Wesley Lima*<br />
+<p><br />
+<em>Por Wesley Lima*<br />
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
-
-<figure class="image" style="float:right"><img alt="Área de feijão visitada pelos estudantes. Foto_Coletivo de Comunicação do MST no RJ.jpeg" height="400" src="//farm66.staticflickr.com/65535/48838108383_fdfc2b2c13_b.jpg" width="300" />
-<figcaption>I</figcaption>
-</figure>
 
 <p>No &uacute;ltimo dia 14 de setembro, as fam&iacute;lias do assentamento Projeto de Desenvolvimento Sustent&aacute;vel (PDS) Osvaldo de Oliveira, localizado em Maca&eacute; (RJ), receberam a visita de 15 estudantes da turma do Curso de Licenciatura em Geografia da Faculdade de Filosofia Ci&ecirc;ncias e Letras de Maca&eacute; (FAFIMA).&nbsp;</p>
 
@@ -73,8 +82,14 @@ A visita fez parte das atividades de campo da turma e foi constru&iacute;da a pa
 <p>O Censo Agropecu&aacute;rio &eacute; feito pelo Instituto Brasileiro de Geografia e Estat&iacute;stica (IBGE). A &uacute;ltima edi&ccedil;&atilde;o da pesquisa foi realizada em 2006. Na &eacute;poca, os produtores com at&eacute; 50 hectares representavam 78,4% e estavam em uma &aacute;rea correspondente a 13,3% da &aacute;rea rural produtiva.<br />
 &nbsp;</p>
 
-<p>Se analisarmos os dados do Censo e a localiza&ccedil;&atilde;o dos estados com maior concentra&ccedil;&atilde;o fundi&aacute;ria, o Mato Grosso sai na frente por conter cerca 10 mil hectares, com 868 fazendas. Em segundo lugar fica o Mato Grosso do Sul, que concentra 341 grandes latif&uacute;ndios.&nbsp;<br />
-&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Infográfico_ Brasil de Fato.png" height="463" src="//farm66.staticflickr.com/65535/48838481536_7604c10287_b.jpg" width="700" />
+<figcaption></figcaption>
+</figure>
+</div>
+
+<p><br />
+Se analisarmos os dados do Censo e a localiza&ccedil;&atilde;o dos estados com maior concentra&ccedil;&atilde;o fundi&aacute;ria, o Mato Grosso sai na frente por conter cerca 10 mil hectares, com 868 fazendas. Em segundo lugar fica o Mato Grosso do Sul, que concentra 341 grandes latif&uacute;ndios.&nbsp;</p>
 
 <p>O Par&aacute;, em terceiro lugar na lista de quantidade de latif&uacute;ndios, registrou 188 estabelecimentos rurais com 10 mil hectares ou mais. No entanto, vale destacar que o estado registra os maiores latif&uacute;ndios do pa&iacute;s e &eacute; palco de emblem&aacute;ticos conflitos, como o massacre de Eldorado dos Caraj&aacute;s, em 1996.&nbsp;<br />
 &nbsp;</p>
@@ -84,6 +99,10 @@ A visita fez parte das atividades de campo da turma e foi constru&iacute;da a pa
 <p><br />
 O PDS Osvaldo de Oliveira &eacute; uma refer&ecirc;ncia por ser um &aacute;rea conquistada a partir da luta pela terra, se contrapondo a l&oacute;gica de concentra&ccedil;&atilde;o fundi&aacute;ria no pa&iacute;s e desenvolvendo um manejo produtivo baseado na produ&ccedil;&atilde;o de alimentos saud&aacute;veis, livres de veneno e sem explora&ccedil;&atilde;o do trabalho.&nbsp;<br />
 &nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Área de feijão visitada pelos estudantes. Foto_Coletivo de Comunicação do MST no RJ.jpeg" height="400" src="//farm66.staticflickr.com/65535/48838108383_fdfc2b2c13_b.jpg" width="300" />
+<figcaption>I</figcaption>
+</figure>
 
 <p>Barros apontou ainda que os assentamentos s&atilde;o extremamente importantes e completa: &ldquo;Onde havia uma imensid&atilde;o de terra parada, sem produzir, hoje se tem v&aacute;rias fam&iacute;lias produzindo de maneira agroecol&oacute;gica, visando levar alimentos &agrave; mesa da cidade e da comunidade sem agrot&oacute;xicos.&rdquo;<br />
 &nbsp;</p>
