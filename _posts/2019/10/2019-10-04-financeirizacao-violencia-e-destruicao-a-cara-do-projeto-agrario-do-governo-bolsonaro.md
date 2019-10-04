@@ -50,7 +50,8 @@ releated_posts:
 </figure>
 </div>
 
-<p><em>Por Yuri Simeon<br />
+<p><br />
+<em>Por Yuri Simeon<br />
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
