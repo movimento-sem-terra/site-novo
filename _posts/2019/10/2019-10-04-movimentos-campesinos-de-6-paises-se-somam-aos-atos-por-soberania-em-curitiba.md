@@ -59,7 +59,7 @@ Da P&aacute;gina do MST</em><br />
 Tamb&eacute;m participam da a&ccedil;&atilde;o cerca de 30 militantes de organiza&ccedil;&otilde;es camponesas integrantes do Curso de Forma&ccedil;&atilde;o de Base do Cone Sul da Am&eacute;rica Latina, que acontece na Escola Latino Americana de Agroecologia, no assentamento Contestado, na Lapa.&nbsp;A forma&ccedil;&atilde;o &eacute; organizada pela Via Campesina e pela Coordenadoria Latinoamericana de Organiza&ccedil;&otilde;es Camponesas (Cloc). Al&eacute;m de militantes de seis estados do Brasil, o curso re&uacute;ne educandos do Paraguai, Col&ocirc;mbia, Argentina, Chile e Uruguai.&nbsp;<br />
 &nbsp;</p>
 
-<p>F&aacute;tima Pego, integrante da Brigada Internacionalista do MST no Paraguai e da coordena&ccedil;&atilde;o do curso, fala sobre a defesa da soberania dos povo: &ldquo;Estamos aqui nessa atividade de hoje, um dia hist&oacute;rico, importante, de articula&ccedil;&atilde;o da classe trabalhadora, em defesa da soberania nacional, contra as privatiza&ccedil;&otilde;es, tanto da educa&ccedil;&atilde;o quanto das nossa empresas p&uacute;blicas&rdquo;.<br />
+<p>F&aacute;tima Pego, integrante da Brigada Internacionalista do MST no Paraguai e da coordena&ccedil;&atilde;o do curso, <a href="https://www.facebook.com/midiasemterra/videos/2461429264180814/" target="_blank">fala sobre a defesa da soberania dos povo</a>: &ldquo;Estamos aqui nessa atividade de hoje, um dia hist&oacute;rico, importante, de articula&ccedil;&atilde;o da classe trabalhadora, em defesa da soberania nacional, contra as privatiza&ccedil;&otilde;es, tanto da educa&ccedil;&atilde;o quanto das nossa empresas p&uacute;blicas&rdquo;.<br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Vigilia Valmir Fernandes [1].jpg" height="200" src="//farm66.staticflickr.com/65535/48843167211_e68c9d0604_b.jpg" width="300" />
@@ -77,16 +77,16 @@ e Uruguai.&nbsp;Foto: Valmir Fernandes</em></figcaption>
 <p><strong>Terra, &aacute;gua, petr&oacute;leo, trabalho e educa&ccedil;&atilde;o&nbsp;</strong><br />
 &nbsp;</p>
 
-<p>Ao longo da manh&atilde;, o grupo internacionalista participou de uma forma&ccedil;&atilde;o sobre a conjuntura internacional, com o dirigente nacional do MST Roberto Baggio. No per&iacute;odo da tarde, se somaram ao &ldquo;Boa tarde&rdquo; ao presidente Lula, em que tamb&eacute;m participaram trabalhadores petroleiros e petroqu&iacute;micos da Petrobr&aacute;s, que completou 66 anos nesta quinta-feira, e integrantes do Movimento dos Atingidos por Barragens (MAB) de diferentes munic&iacute;pios e estados.&nbsp;<br />
+<p>Ao longo da manh&atilde;, o grupo internacionalista participou de uma forma&ccedil;&atilde;o sobre a conjuntura internacional, com o dirigente nacional do MST Roberto Baggio. No per&iacute;odo da tarde, se somaram ao &ldquo;Boa tarde&rdquo; ao presidente Lula, em que tamb&eacute;m participaram trabalhadores petroleiros e petroqu&iacute;micos da Petrobr&aacute;s, <a href="https://www.brasildefato.com.br/2019/10/03/mobilizacoes-em-defesa-do-petroleo-lembram-a-importancia-da-petrobras-para-o-brasil/">que completou 66 anos nesta quinta-feira</a>, e integrantes do Movimento dos Atingidos por Barragens (MAB) de diferentes munic&iacute;pios e estados.&nbsp;<br />
 &nbsp;</p>
 
 <p>&ldquo;Essa &eacute; uma tarde especial em que est&atilde;o reunidas aqui as energias da terra, da &aacute;gua, do petr&oacute;leo e as energias humanas do trabalho e da sociedade brasileira [...]. A Vig&iacute;lia se soma nessa luta hist&oacute;rica do povo brasileiro. De forma permanente, ela tem que ser essa den&uacute;ncia ao golpe de estado que derrubou a presidente Dilma, do sequestro pol&iacute;tico do presidente Lula, e na den&uacute;ncia da destrui&ccedil;&atilde;o da nosso Brasil&rdquo;, disse Roberto Baggio.&nbsp;<br />
 &nbsp;</p>
 
-<p>A Vig&iacute;lia tamb&eacute;m recebeu o petroleiro Jos&eacute; Maria Rangel, coordenador geral FUP, ap&oacute;s a sua visita ao ex-presidente Luiz In&aacute;cio Lula da Silva, na Superintend&ecirc;ncia da Pol&iacute;cia Federal.&nbsp;<br />
+<p>A Vig&iacute;lia tamb&eacute;m recebeu o petroleiro <a href="https://www.facebook.com/vigilialulalivre/videos/1512562338868291/">Jos&eacute; Maria Rangel, coordenador geral FUP, ap&oacute;s a sua visita ao ex-presidente Luiz In&aacute;cio Lula da Silva</a>, na Superintend&ecirc;ncia da Pol&iacute;cia Federal.&nbsp;<br />
 &nbsp;</p>
 
-<p>No final do dia as centenas de militantes presentes na Vig&iacute;lia se somaram ao ato realizado no Centro de Curitiba. Milhares de pessoas marcharam da Pra&ccedil;a Santos Andrade at&eacute; a Boca Maldita.&nbsp;</p>
+<p>No final do dia as centenas de militantes presentes na Vig&iacute;lia se somaram ao <a href="https://www.brasildefato.com.br/2019/10/03/no-parana-universidade-na-rua-promove-dialogo-com-a-populacao-e-grande-ato-unificado/" target="_blank">ato realizado no Centro de Curitiba</a>. Milhares de pessoas marcharam da Pra&ccedil;a Santos Andrade at&eacute; a Boca Maldita.&nbsp;</p>
 
 <p><br />
 <em>*Editado por Fernanda Alc&acirc;ntara</em></p>
