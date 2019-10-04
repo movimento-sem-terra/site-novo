@@ -34,7 +34,7 @@ files:
     title: "[191] Foto Matéria Yuri.jpg"
     $$hashKey: "036"
 created_date: "2019-10-04T16:39:54-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/02/2019-02-25-familias-sem-terra-sofrem-com-ameaca-de-despejo-em-pernambuco.md
   - _posts/2019/08/2019-08-29-assentamento-osvaldo-de-oliveira-esta-novamente-sob-ameaca-de-despejo.md
@@ -46,7 +46,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="[190] Foto Sebastião Salgado.jpg" height="474" src="//farm66.staticflickr.com/65535/48843763442_326d50bdf0_b.jpg" width="700" />
-<figcaption>atual momento pol&iacute;tico, partindo dos despejos, da viol&ecirc;ncia no Brasil e no Mundo, tendo como base os Direitos Humanos e a den&uacute;ncia ao atual modelo econ&ocirc;mico imposto no Brasil e no mundoFoto: Sebasti&atilde;o Salgado</figcaption>
+<figcaption>Foto de Sebasti&atilde;o Salgado nos lembra a luta por Direitos Humanos e a den&uacute;ncia ao atual modelo econ&ocirc;mico imposto no Brasil e no mundo.</figcaption>
 </figure>
 </div>
 
@@ -63,6 +63,11 @@ Da P&aacute;gina do MST</em><br />
 <p><strong>A financeiriza&ccedil;&atilde;o da Regi&atilde;o Amaz&ocirc;nica</strong><br />
 &nbsp;</p>
 
+<figure class="image" style="float:left"><img alt="[192] Foto Matéria Yuri.jpg" height="225" src="//farm66.staticflickr.com/65535/48843580381_286a743e9f_b.jpg" width="300" />
+<figcaption><em>Cl&aacute;udio Lopes Maia<br />
+Foto: Reprodu&ccedil;&atilde;o Youtube</em></figcaption>
+</figure>
+
 <p>Maia relata uma perigosa rela&ccedil;&atilde;o entre o desmatamento da floresta amaz&ocirc;nica no governo Bolsonaro com um processo em curso de &ldquo;um novo corredor de exporta&ccedil;&atilde;o de commodities, nas regi&otilde;es Norte e Nordeste, com a constru&ccedil;&atilde;o de alguns portos como o Tegram (Terminal de Gr&atilde;os do Maranh&atilde;o), e o Porto de Barcarena, no Par&aacute;. O novo corredor de exporta&ccedil;&atilde;o &eacute; parte do processo de avan&ccedil;o da fronteira do agroneg&oacute;cio para os estados daquelas regi&otilde;es, num espa&ccedil;o que ficou conhecida como Matopiba (a conflu&ecirc;ncia dos estados do Maranh&atilde;o, Tocantins, Piau&iacute; e Bahia)&rdquo;.<br />
 &nbsp;</p>
 
@@ -77,6 +82,11 @@ Da P&aacute;gina do MST</em><br />
 
 <p>O governo tamb&eacute;m tem feito uma r&aacute;pida desestrutura&ccedil;&atilde;o dos &oacute;rg&atilde;os respons&aacute;veis pelo cuidado de &aacute;reas de prote&ccedil;&atilde;o ambiental e o controle dos processos de reforma agr&aacute;ria, como &ldquo;IBAMA, FUNAI, INCRA, ICMBIO&rdquo;. Para al&eacute;m disso, tamb&eacute;m h&aacute; uma persegui&ccedil;&atilde;o &agrave;s pol&iacute;ticas indigenistas, &agrave;s pol&iacute;ticas ambientais e &agrave;s pol&iacute;ticas de reforma agr&aacute;ria, com discursos oficiais que desautorizam as fiscaliza&ccedil;&otilde;es, por exemplo. &ldquo;Assistimos a um projeto agr&aacute;rio de forma&ccedil;&atilde;o de fazendas na Amaz&ocirc;nia, n&atilde;o visando uma produ&ccedil;&atilde;o, mas atendendo aos interesses de um setor do agroneg&oacute;cio que expande aproveitando o valor imobili&aacute;rio da terra&rdquo;, explica Maia.<br />
 &nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="[191] Foto Matéria Yuri.jpg" height="400" src="//farm66.staticflickr.com/65535/48843580426_254e610149_b.jpg" width="300" />
+<figcaption><em>Paulo C&eacute;sar Carbonari<br />
+Foto: Reprodu&ccedil;&atilde;o Youtube</em></figcaption>
+</figure>
 
 <p>Paulo C&eacute;sar Carbonari, coordenador nacional de forma&ccedil;&atilde;o do Movimento Nacional de Direitos Humanos, defende que &ldquo;o presidente [Bolsonaro] n&atilde;o tem o menor compromisso com direitos de quem quer que seja. Ele tem compromissos com privil&eacute;gios e com a prote&ccedil;&atilde;o daqueles que n&atilde;o precisam de prote&ccedil;&atilde;o, pois sempre tiveram acesso e oportunidade. [...] Por isso, a guerra aos ind&iacute;genas, aos Sem Terra, aos negros, aos jovens, &agrave;s mulheres, aos ind&iacute;genas, aos povos e comunidades tradicionais e tantos outros. Para estes n&atilde;o h&aacute; direitos&rdquo;.<br />
 &nbsp;</p>
