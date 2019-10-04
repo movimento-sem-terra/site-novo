@@ -63,8 +63,9 @@ Tamb&eacute;m participam da a&ccedil;&atilde;o cerca de 30 militantes de organiz
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Vigilia Valmir Fernandes [1].jpg" height="200" src="//farm66.staticflickr.com/65535/48843167211_e68c9d0604_b.jpg" width="300" />
-<figcaption>O curso re&uacute;ne educandos brasileiros<br />
-e do Paraguai, Col&ocirc;mbia, Argentina, Chile e Uruguai<em>Foto: Valmir Fernandes</em></figcaption>
+<figcaption><em>O curso re&uacute;ne educandos brasileiros<br />
+e do Paraguai, Col&ocirc;mbia, Argentina, Chile<br />
+e Uruguai.&nbsp;Foto: Valmir Fernandes</em></figcaption>
 </figure>
 
 <p>A vinda do grupo para as mobiliza&ccedil;&otilde;es marca a unidade dos movimentos campesinos em apoio ao Brasil: &ldquo;Nossa participa&ccedil;&atilde;o &eacute; no sentido de fortalecer o princ&iacute;pio da integra&ccedil;&atilde;o, da solidariedade de classe e do internacionalismo como elemento fundamental para a forma&ccedil;&atilde;o da consci&ecirc;ncia e da unidade da classe trabalhadora a n&iacute;vel nacional e mundial&rdquo;, explica F&aacute;tima Pego.&nbsp;<br />
