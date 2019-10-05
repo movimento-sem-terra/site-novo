@@ -110,7 +110,8 @@ A cada dia aumentam os decretos do governo Bolsonaro para o uso irrestrito de ar
 <p>Sobre as raz&otilde;es desta pol&iacute;tica armamentista, Carbonari sinaliza que &ldquo;o que se pretende com isso &eacute; fortalecer as mil&iacute;cias para defender as propriedades privadas a qualquer custo, na legalidade ou na ilegalidade&rdquo;.</p>
 
 <p><br />
-<strong>Resist&ecirc;ncia popular</strong></p>
+<strong>Resist&ecirc;ncia popular</strong><br />
+&nbsp;</p>
 
 <p>Os desafios para a popula&ccedil;&atilde;o camponesa, ind&iacute;gena, quilombola e ribeirinha s&atilde;o grandes. Pois, se por um lado os inimigos n&atilde;o s&atilde;o apenas locais, mas tamb&eacute;m internacionais, por outro o Estado, com o governo federal &agrave; frente, se alinha &agrave; esses interesses internacionais.&nbsp;<br />
 &nbsp;</p>
