@@ -1,6 +1,10 @@
 ---
 date: "2019-10-07T16:59:31-03:00"
-tags: []
+tags:
+  - tag: feminismo
+  - tag: história
+  - tag: universidade
+  - tag: formação
 title: Historiadora feminista Silvia Federici participa de eventos em São Luís (MA)
 support_line: "A programação conta com aula magna, debate e lançamento de livro abertos ao público "
 menu: lutas e mobilizações
@@ -15,13 +19,18 @@ files:
     title: "[195] silviafederici.jpg"
     $$hashKey: 08O
 created_date: "2019-10-07T17:09:09-03:00"
-published: false
-releated_posts: []
+published: true
+releated_posts:
+  - _posts/2019/05/2019-05-06-feminismo-saude-e-agroecologia-em-santa-catarina.md
+  - _posts/2019/04/2019-04-12-mulheres-sem-terra-reafirmam-a-identidade-revolucionaria-em-curso.md
+  - _posts/2019/09/2019-09-02-david-harvey-o-maior-perigo-hoje-e-o-pessimismo.md
+  - _posts/2019/03/2019-03-26-movimentos-camponeses-ocupam-espacos-da-uffs-com-o-debate-da-reforma-agraria.md
+  - _posts/2019/04/2019-04-25-unioeste-realiza-vi-jornada-universitaria-em-cascavel-no-parana.md
 
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="[195] silviafederici.jpg" height="393" src="//farm66.staticflickr.com/65535/48861577042_a8597b12c6_b.jpg" width="700" />
-<figcaption>Ativista feminista&nbsp;&nbsp;Silvia Federici Silvia Federicis em S&atilde;o Lu&iacute;s (MA),</figcaption>
+<figcaption>Historiadora feminista Silvia Federici participa de eventos em S&atilde;o Lu&iacute;s (MA)</figcaption>
 </figure>
 </div>
 
