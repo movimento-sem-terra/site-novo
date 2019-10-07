@@ -30,7 +30,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="[195] silviafederici.jpg" height="393" src="//farm66.staticflickr.com/65535/48861577042_a8597b12c6_b.jpg" width="700" />
-<figcaption>Historiadora feminista Silvia Federici participa de eventos em S&atilde;o Lu&iacute;s (MA)</figcaption>
+<figcaption><em>Ativista feminista Silvia Federici Silvia Federicis &eacute; presen&ccedil;a confirmada no&nbsp; F&oacute;rum Maranhense de Mulheres, que acontece esta semana em S&atilde;o Lu&iacute;s (MA). Foto: Divulga&ccedil;&atilde;o</em></figcaption>
 </figure>
 </div>
 
