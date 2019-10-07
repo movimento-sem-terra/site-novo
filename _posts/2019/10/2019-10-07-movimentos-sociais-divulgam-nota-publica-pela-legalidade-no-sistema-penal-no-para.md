@@ -3,6 +3,7 @@ date: "2019-10-07T16:21:23-03:00"
 tags:
   - tag: violência
   - tag: direitos-humanos
+  - tag: nota-de-repudio
 title: Movimentos sociais divulgam nota pública pela legalidade no sistema penal no Pará
 support_line: "Denúncias apontam para crime contra direitos humanos como violência física e psicológica "
 menu: direitos humanos
@@ -19,6 +20,7 @@ files:
 created_date: "2019-10-07T16:46:53-03:00"
 published: true
 releated_posts:
+  - _posts/2019/02/2019-02-11-mst-repudia-ataque-da-record-contra-as-criancas-sem-terrinha.md
   - _posts/2019/07/2019-07-19-mais-uma-vitima-do-odio.md
   - _posts/2019/07/2019-07-25-so-saio-desta-terra-morto.md
   - _posts/2019/09/2019-09-21-o-mst-repudia-a-politica-de-seguranca-publica-do-governo-witzel.md
@@ -33,10 +35,11 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
-Diante das graves den&uacute;ncias sobre o atual estado de viol&ecirc;ncia institucional no estado do Par&aacute;, movimentos sociais de v&aacute;rios setores divulgam hoje uma Nota de Rep&uacute;dio, exigindo a apura&ccedil;&atilde;o de todas as den&uacute;ncias contidas nos relat&oacute;rios de inspe&ccedil;&otilde;es em penitenci&aacute;rias no Estado.&nbsp;</p>
+Diante das graves den&uacute;ncias sobre o atual estado de viol&ecirc;ncia institucional no estado do Par&aacute;, movimentos sociais de v&aacute;rios setores divulgam hoje uma Nota de Rep&uacute;dio, exigindo a apura&ccedil;&atilde;o de todas as den&uacute;ncias contidas nos relat&oacute;rios de inspe&ccedil;&otilde;es em penitenci&aacute;rias no Estado.&nbsp;<br />
+&nbsp;</p>
 
-<p><br />
-Segundo as den&uacute;ncias, a situa&ccedil;&atilde;o tem se agravado no atual governo <em style="text-align: center; background-color: rgba(0, 0, 0, 0.05);">Den&uacute;ncias apontam a&ccedil;&otilde;es da Superintend&ecirc;ncia do Sistema Penitenci&aacute;rio do Par&aacute; &ndash; SUSIPE, que&nbsp;vem editando portarias que contrariam as leis e a Constitui&ccedil;&atilde;o. Foto: Divulga&ccedil;&atilde;o Alepa</em>e envolvem desde restri&ccedil;&atilde;o de atendimento jur&iacute;dico at&eacute; viol&ecirc;ncia f&iacute;sica e psicol&oacute;gica. Confira a nota abaixo.</p>
+<p>Segundo as den&uacute;ncias, a situa&ccedil;&atilde;o tem se agravado no atual governo e apontam para portarias que contrariam as leis e a Constitui&ccedil;&atilde;o, e envolvem desde restri&ccedil;&atilde;o de atendimento jur&iacute;dico at&eacute; viol&ecirc;ncia f&iacute;sica e psicol&oacute;gica. Confira a nota.<br />
+&nbsp;</p>
 
 <p style="text-align: center;"><strong>Pelo resgate da legalidade no sistema penal do Estado do Par&aacute;</strong></p>
 
