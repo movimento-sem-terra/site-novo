@@ -6,7 +6,7 @@ tags:
   - tag: governo-bolsonaro
   - tag: despejo
 title: "Financeirização, violência e destruição: a cara do projeto agrário do governo Bolsonaro"
-support_line: Especialista apontam causas e consequências de política que destrói direitos e o ecossistema
+support_line: Especialistas apontam causas e consequências de política que destrói direitos e o ecossistema
 menu: reforma agrária
 section: featured-news
 images_hd: //farm66.staticflickr.com/65535/48843763442_326d50bdf0_b.jpg
@@ -46,7 +46,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="[190] Foto Sebastião Salgado.jpg" height="474" src="//farm66.staticflickr.com/65535/48843763442_326d50bdf0_b.jpg" width="700" />
-<figcaption>Foto de Sebasti&atilde;o Salgado nos lembra a luta por Direitos Humanos e a den&uacute;ncia ao atual modelo econ&ocirc;mico imposto no Brasil e no mundo.</figcaption>
+<figcaption><em>Foto de Sebasti&atilde;o Salgado nos lembra a luta por Direitos Humanos e a den&uacute;ncia ao atual modelo econ&ocirc;mico imposto no Brasil e no mundo.</em></figcaption>
 </figure>
 </div>
 
@@ -72,7 +72,7 @@ Foto: Reprodu&ccedil;&atilde;o Youtube</em></figcaption>
 <p>Maia relata uma perigosa rela&ccedil;&atilde;o entre o desmatamento da floresta amaz&ocirc;nica no governo Bolsonaro com um processo em curso de &ldquo;um novo corredor de exporta&ccedil;&atilde;o de commodities, nas regi&otilde;es Norte e Nordeste, com a constru&ccedil;&atilde;o de alguns portos como o Tegram (Terminal de Gr&atilde;os do Maranh&atilde;o), e o Porto de Barcarena, no Par&aacute;. O novo corredor de exporta&ccedil;&atilde;o &eacute; parte do processo de avan&ccedil;o da fronteira do agroneg&oacute;cio para os estados daquelas regi&otilde;es, num espa&ccedil;o que ficou conhecida como Matopiba (a conflu&ecirc;ncia dos estados do Maranh&atilde;o, Tocantins, Piau&iacute; e Bahia)&rdquo;.<br />
 &nbsp;</p>
 
-<p>Por&eacute;m, diferente de outros per&iacute;odos, hoje o avan&ccedil;o do latif&uacute;ndio est&aacute; diretamente ligado &agrave; &ldquo;financeiriza&ccedil;&atilde;o da terra&rdquo;. O objetivo &eacute; consolidar uma nova fronteira agr&iacute;cola na Amaz&ocirc;nia, que n&atilde;o promove um desenvolvimento econ&ocirc;mico e/ou social das &aacute;reas, mas consolida o neg&oacute;cio imobili&aacute;rio com terra.<br />
+<p>Por&eacute;m, diferente de outros per&iacute;odos, hoje o avan&ccedil;o do latif&uacute;ndio est&aacute; diretamente ligado &agrave; &ldquo;financeiriza&ccedil;&atilde;o da terra&rdquo;. O objetivo &eacute; consolidar uma nova fronteira agr&iacute;cola na Amaz&ocirc;nia, que n&atilde;o promove um desenvolvimento econ&ocirc;mico e/ou social das &aacute;reas, mas consolida o neg&oacute;cio imobili&aacute;rio com as terra.s<br />
 &nbsp;</p>
 
 <p>Maia descreve como &ldquo;um processo que atinge todo o agroneg&oacute;cio brasileiro, n&atilde;o importa mais somente garantir a produ&ccedil;&atilde;o de commodities, as grandes empresas do setor passaram nos &uacute;ltimos anos a explorar o valor imobili&aacute;rio das terras, seja operando diretamente no mercado ou por estrat&eacute;gias financeiras na bolsa de valores, onde a terra aparece como um ativo que se valoriza ano a ano&rdquo;.<br />
@@ -89,7 +89,7 @@ Foto: Reprodu&ccedil;&atilde;o Youtube</em></figcaption>
 Foto: Reprodu&ccedil;&atilde;o Youtube</em></figcaption>
 </figure>
 
-<p>Paulo C&eacute;sar Carbonari, coordenador nacional de forma&ccedil;&atilde;o do Movimento Nacional de Direitos Humanos, defende que &ldquo;o presidente [Bolsonaro] n&atilde;o tem o menor compromisso com direitos de quem quer que seja. Ele tem compromissos com privil&eacute;gios e com a prote&ccedil;&atilde;o daqueles que n&atilde;o precisam de prote&ccedil;&atilde;o, pois sempre tiveram acesso e oportunidade. [...] Por isso, a guerra aos ind&iacute;genas, aos Sem Terra, aos negros, aos jovens, &agrave;s mulheres, aos ind&iacute;genas, aos povos e comunidades tradicionais e tantos outros. Para estes n&atilde;o h&aacute; direitos&rdquo;.<br />
+<p>Paulo C&eacute;sar Carbonari, coordenador nacional de forma&ccedil;&atilde;o do Movimento Nacional de Direitos Humanos, defende que &ldquo;o presidente [Bolsonaro] n&atilde;o tem o menor compromisso com direitos de quem quer que seja. Ele tem compromissos com privil&eacute;gios e com a prote&ccedil;&atilde;o daqueles que n&atilde;o precisam de prote&ccedil;&atilde;o, pois sempre tiveram acesso e oportunidade. [...] Por isso, a guerra aos ind&iacute;genas, aos Sem Terra, aos negros, aos jovens, &agrave;s mulheres, aos povos e comunidades tradicionais e tantos outros. Para estes n&atilde;o h&aacute; direitos&rdquo;.<br />
 &nbsp;</p>
 
 <p>O professor Maia pontua que a &ldquo;pol&iacute;tica de reforma agr&aacute;ria [no Brasil] n&atilde;o &eacute; uma pol&iacute;tica somente de governos, &eacute; uma determina&ccedil;&atilde;o constitucional, que estabeleceu a necessidade de que as propriedades agr&aacute;rias cumprissem uma fun&ccedil;&atilde;o social, que teria um car&aacute;ter produtivo, social e ambiental&rdquo;, apesar de visivelmente n&atilde;o ser cumprido por este governo a garantia destes direitos.<br />
