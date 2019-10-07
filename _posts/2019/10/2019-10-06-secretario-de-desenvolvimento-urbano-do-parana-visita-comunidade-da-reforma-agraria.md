@@ -50,7 +50,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Paraná [2].jpeg" height="422" src="//farm66.staticflickr.com/65535/48853361037_3fdb8ff0f6_b.jpg" width="700" />
-<figcaption>Estavam presentes na atividade fam&iacute;lias dos quatro acampamentos do MST &ndash;&nbsp;Fidel Castro, Herdeiros da Luta de Porecatu, Manoel Jacinto e Zilda Arns.&nbsp;<em>Fotos: Elaine Ma</em></figcaption>
+<figcaption><em>Estavam presentes na atividade fam&iacute;lias dos quatro acampamentos do MST &ndash;&nbsp;Fidel Castro, Herdeiros da Luta de Porecatu, Manoel Jacinto e Zilda Arns.&nbsp;Fotos: Elaine Machado</em></figcaption>
 </figure>
 </div>
 
