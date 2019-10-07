@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Manifestantes protestam em São Paulo contra cortes no Minha Casa, Minha Vida</title>
+				<description>Movimentos populares se reuniram na sede do Ministério da Fazenda, onde denunciaram o desmonte promovido por Bolsonaro</description>
+				<pubDate>Mon, 07 Oct 2019 12:50:10 -0300</pubDate>
+				<link>http://www.mst.org.br/2019/10/07/manifestantes-protestam-em-sao-paulo-contra-cortes-no-minha-casa-minha-vida.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2019/10/07/manifestantes-protestam-em-sao-paulo-contra-cortes-no-minha-casa-minha-vida.html</guid>
+			</item>
+		
+			<item>
 				<title>Seminário discute 31 anos da Constituição de 1988 e denuncia desmonte de direitos</title>
 				<description>Debate aconteceu Escola Nacional Florestan Fernandes na manhã deste sábado (5), durante o Festival Sigmaringa Seixas
 </description>
@@ -77,14 +85,6 @@
 				<pubDate>Fri, 04 Oct 2019 15:08:59 -0300</pubDate>
 				<link>http://www.mst.org.br/2019/10/04/organizacoes-urbanas-e-rurais-protestam-por-moradia-em-porto-alegre.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2019/10/04/organizacoes-urbanas-e-rurais-protestam-por-moradia-em-porto-alegre.html</guid>
-			</item>
-		
-			<item>
-				<title>Movimentos campesinos de 6 países se somam aos atos por soberania em Curitiba </title>
-				<description>Militantes estão no curso de Formação de Base do Cone Sul da América Latina, realizado no Assentamento Contestado, na Lapa-PR </description>
-				<pubDate>Fri, 04 Oct 2019 14:27:38 -0300</pubDate>
-				<link>http://www.mst.org.br/2019/10/04/movimentos-campesinos-de-6-paises-se-somam-aos-atos-por-soberania-em-curitiba.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2019/10/04/movimentos-campesinos-de-6-paises-se-somam-aos-atos-por-soberania-em-curitiba.html</guid>
 			</item>
 		
 	</channel>
