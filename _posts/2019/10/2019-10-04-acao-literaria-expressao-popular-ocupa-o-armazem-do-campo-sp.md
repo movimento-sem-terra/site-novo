@@ -7,7 +7,7 @@ tags:
 images_hd: //farm66.staticflickr.com/65535/48843789752_b816e8fb2a_b.jpg
 menu: "educação, cultura e comunicação"
 support_line: "Entre os convidados estão Bela Gil, Michael Löwy, Larissa Bombardi e Pereira da Viola "
-title: "Ação Literária Expressão Popular ocupa o Armazém do Campo-SP "
+title: "Ação Literária da Expressão Popular ocupa o Armazém do Campo-SP "
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/48843782267_56b084a3c4_b.jpg
@@ -40,43 +40,38 @@ releated_posts:
 
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
-<p>&nbsp;</p>
-
-<p>No pr&oacute;ximo final de semana, dias 11, 12 e 13 de outubro, a <a href="https://www.expressaopopular.com.br/loja/">Livraria e Editora Express&atilde;o Popular</a>, realizar&aacute; a A&ccedil;&atilde;o Liter&aacute;ria Express&atilde;o Popular.</p>
+<p><br />
+No pr&oacute;ximo final de semana, dias 11, 12 e 13 de outubro, a <a href="https://www.expressaopopular.com.br/loja/">Livraria e Editora Express&atilde;o</a> <a href="https://www.expressaopopular.com.br/loja/">Popular</a>&nbsp;realizar&aacute; a A&ccedil;&atilde;o Liter&aacute;ria Express&atilde;o Popular.</p>
 
 <p><br />
-Ser&atilde;o tr&ecirc;s dias de atividades culturais realizadas no Armaz&eacute;m do Campo-SP, na programa&ccedil;&atilde;o, debates, lan&ccedil;amentos de livros e homenagens.</p>
+Ser&atilde;o tr&ecirc;s dias de atividades culturais realizadas no Armaz&eacute;m do Campo-SP. Na programa&ccedil;&atilde;o est&atilde;o&nbsp;debates, lan&ccedil;amentos de livros e homenagens.</p>
 
 <p><br />
-O evento &eacute; parte das comemora&ccedil;&otilde;es de <a href="http://www.mst.org.br/2019/01/29/editora-e-livraria-expressao-popular-completa-20-anos-na-batalha-do-saber.html">20 anos da editora</a> criada em 1999 por movimentos populares que apostaram na forma&ccedil;&atilde;o pol&iacute;tica e liter&aacute;ria a sa&iacute;da para reconstru&ccedil;&atilde;o da classe trabalhadora.</p>
+O evento &eacute; parte das comemora&ccedil;&otilde;es de <a href="http://www.mst.org.br/2019/01/29/editora-e-livraria-expressao-popular-completa-20-anos-na-batalha-do-saber.html">20 anos da editora</a> criada em 1999 por movimentos populares, que apostaram na forma&ccedil;&atilde;o pol&iacute;tica e liter&aacute;ria para a reconstru&ccedil;&atilde;o da classe trabalhadora.</p>
 
 <p><br />
-Segundo Carlos Bell&eacute;, coordenador da Editora Express&atilde;o Popular, o objetivo da atividade &eacute; fomentar novos espa&ccedil;os de articula&ccedil;&atilde;o, estimular a leitura de novos temas ou temas pouco conhecidos, al&eacute;m de estimular a leitura e o estudo.</p>
+Segundo Carlos Bell&eacute;, coordenador da Editora Express&atilde;o Popular, a atividade fomenta novos espa&ccedil;os de articula&ccedil;&atilde;o e estimula&nbsp;a leitura de novos temas ou temas pouco conhecidos, al&eacute;m de estimular a leitura e o estudo.</p>
 
 <p><br />
 &ldquo;A nossa editora est&aacute; completando 20 anos. Nesse contexto de celebra&ccedil;&atilde;o, estamos realizando em todo o Brasil a nossa A&ccedil;&atilde;o Liter&aacute;ria Express&atilde;o Popular. A atividade tem como objetivos fazer a batalha das ideias na sociedade e tamb&eacute;m realizar uma a&ccedil;&atilde;o de car&aacute;ter nacional envolvendo todos os trabalhadores do livro, buscando fortalecer a organicidade do nosso coletivo e o enraizamento da nossa editora&rdquo;, diz.</p>
 
 <p><br />
-E, durante todos os dias de atividades, todos os livros da Express&atilde;o ser&atilde;o vendidos com 20% desconto. Ou seja, 20 anos da Editora Express&atilde;o Popular, 20% de desconto em todos os t&iacute;tulos. Al&eacute;m de outras dez editoras com desconto de 15%.</p>
+Durante todos os dias de atividades, todos os livros da Express&atilde;o ser&atilde;o vendidos com 20% desconto. Ou seja, 20 anos da Editora Express&atilde;o Popular, 20% de desconto em todos os t&iacute;tulos. Al&eacute;m de outras dez editoras com desconto de 15%.</p>
 
 <p><br />
-<br />
 <strong>A&Ccedil;&Atilde;O LITER&Aacute;RIA EXPRESS&Atilde;O POPULAR </strong></p>
 
 <p><br />
-De 11 a 13 de outubro</p>
+<strong>De 11 a 13 de outubro</strong></p>
 
-<p><br />
-Local: Armaz&eacute;m do Campo-SP</p>
+<p>Local: Armaz&eacute;m do Campo-SP</p>
 
 <p>Alameda Eduardo Prado, 499 &ndash; Campos El&iacute;seos &ndash; S&atilde;o Paulo &ndash; SP &ndash; (Pr&oacute;ximo ao Metr&ocirc; Marechal Deodoro).</p>
 
-<p>&nbsp;</p>
-
-<p><strong>DIA 11/10 </strong></p>
-
 <p><br />
-19h &ndash; ABERTURA</p>
+<strong>DIA 11/10 </strong></p>
+
+<p>19h &ndash; ABERTURA</p>
 
 <p>19h30min &agrave;s 21h &ndash; Apresenta&ccedil;&atilde;o musical &ndash; m&uacute;sica ao vivo</p>
 
@@ -84,8 +79,7 @@ Local: Armaz&eacute;m do Campo-SP</p>
 
 <p><strong>DIA 12/10 </strong></p>
 
-<p><br />
-9h &ndash; IN&Iacute;CIO DAS ATIVIDADES</p>
+<p>9h &ndash; IN&Iacute;CIO DAS ATIVIDADES</p>
 
 <p>Feira de livros at&eacute; &agrave;s 21h.</p>
 
@@ -148,12 +142,3 @@ Local: Armaz&eacute;m do Campo-SP</p>
 *Confira a programa&ccedil;&atilde;o completa em <a href="https://www.expressaopopular.com.br/loja/">www.expressaopopular.com.br</a></p>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><br />
-<br />
-<br />
-&nbsp;</p>
