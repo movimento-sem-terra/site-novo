@@ -41,7 +41,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>A cultura popular ficou mais pobre nesta ter&ccedil;a-feira, 8. Morreu aos 52&nbsp;anos,&nbsp;o poeta&nbsp;e cantador, Lup&eacute;rcio Damasceno Barbosa.</p>
+<p>A cultura popular ficou mais pobre nesta ter&ccedil;a-feira, 8. Morreu aos 63&nbsp;anos,&nbsp;o poeta&nbsp;e cantador, Lup&eacute;rcio Damasceno Barbosa.</p>
 
 <p><br />
 Lup&eacute;rcio foi&nbsp;um ser humano&nbsp;que fez da vida o que sempre sonhou. Dedicou&nbsp;-se &agrave;&nbsp;arte, a poesia e a m&uacute;sica. Nascido em Pernambuco, mas &nbsp;com um cora&ccedil;&atilde;o sergipano, baseou sua hist&oacute;ria em&nbsp;sintonia com movimentos e causas sociais e populares.&nbsp;</p>
