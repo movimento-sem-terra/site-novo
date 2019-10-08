@@ -17,6 +17,13 @@ files:
     small: //farm66.staticflickr.com/65535/48866805207_51b717da64_n.jpg
     title: maxresdefault.jpg
     $$hashKey: 059
+  - link: //farm66.staticflickr.com/65535/48866092398_7d3a58c77e_b.jpg
+    original: //farm66.staticflickr.com/65535/48866092398_941cf6b40e_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48866092398_7d3a58c77e_t.jpg
+    medium: //farm66.staticflickr.com/65535/48866092398_7d3a58c77e_z.jpg
+    small: //farm66.staticflickr.com/65535/48866092398_7d3a58c77e_n.jpg
+    title: WhatsApp Image 2019-10-08 at 16.00.13.jpeg
+    $$hashKey: 0AA
 created_date: "2019-10-08T15:59:18-03:00"
 published: true
 releated_posts:
@@ -50,6 +57,6 @@ Lup&eacute;rcio foi um vencedor, um construtor de sonhos, um transformador socia
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<p style="text-align:center"><img alt="WhatsApp Image 2019-10-08 at 16.00.13.jpeg" height="700" src="//farm66.staticflickr.com/65535/48866092398_7d3a58c77e_b.jpg" width="700" /></p>
 
 <p>&nbsp;</p>
