@@ -6,8 +6,8 @@ tags:
   - tag: lutas-e-mobilizações
 title: "No Equador, milhares saem às ruas contra a política neoliberal do Governo"
 section: cover
-menu: direitos humanos
-support_line: "Pacote de presidente, Lenin Moreno, desencadeou uma série de greves e manifestações por todo o país"
+menu: solidariedade
+support_line: Pacote de presidente Lenin Moreno desencadeou greves e manifestações por todo o país
 images_hd: //farm66.staticflickr.com/65535/48871953052_15414bb90a_b.jpg
 layout: post
 files:
