@@ -33,6 +33,7 @@ releated_posts:
   - _posts/2019/04/2019-05-01-sua-voz-que-ja-esteve-ate-em-marte-agora-segue-encantando-os-ceus.md
   - _posts/2019/08/2019-08-12-e-com-profundo-pesar-que-recebemos-a-noticia-do-falecimento-do-companheiro-gustavo-codas.md
   - _posts/2019/05/2019-05-16-nota-de-falecimento-do-companheiro-uruguaio-julio-marenales.md
+section: featured-news
 
 ---
 <p>&nbsp;</p>
