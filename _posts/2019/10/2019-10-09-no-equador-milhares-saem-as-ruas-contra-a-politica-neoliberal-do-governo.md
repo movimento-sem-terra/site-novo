@@ -3,6 +3,7 @@ date: "2019-10-09T15:26:43-03:00"
 tags:
   - tag: solidariedade-internacional
   - tag: equador
+  - tag: lutas-e-mobilizações
 title: "No Equador, milhares saem às ruas contra a política neoliberal do Governo"
 section: cover
 menu: direitos humanos
@@ -40,7 +41,13 @@ files:
     $$hashKey: 02Y
 created_date: "2019-10-09T15:41:01-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2019/02/2019-02-06-ato-em-apoio-ao-povo-venezuelano-mobiliza-capital-gaucha.md
+  - _posts/2019/02/2019-02-22-notas-para-debater-a-crise-da-venezuela-por-joao-pedro-stedile.md
+  - _posts/2019/08/2019-08-29-movimentos-haitianos-realizam-conferencia-para-propor-unidade-contra-governo-de-moise.md
+  - _posts/2019/06/2019-06-27-brigada-do-congresso-do-povo-visita-venezuela.md
+  - _posts/2019/07/2019-07-17-politica-antiambiental-de-bolsonaro-ameaca-o-fundo-amazonia-entenda.md
+  - _posts/2019/08/2019-08-08-o-internacionalismo-e-parte-da-formacao-historica-da-juventude-do-mst.md
 
 ---
 <p>&nbsp;</p>
