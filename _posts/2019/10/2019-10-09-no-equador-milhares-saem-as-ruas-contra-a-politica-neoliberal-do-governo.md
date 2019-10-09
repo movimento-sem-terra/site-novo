@@ -40,7 +40,7 @@ files:
     title: "[202] REUTERS.jpg"
     $$hashKey: 02Y
 created_date: "2019-10-09T15:41:01-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/02/2019-02-06-ato-em-apoio-ao-povo-venezuelano-mobiliza-capital-gaucha.md
   - _posts/2019/02/2019-02-22-notas-para-debater-a-crise-da-venezuela-por-joao-pedro-stedile.md
@@ -78,8 +78,8 @@ Com os combust&iacute;veis duplicando de pre&ccedil;o, como um efeito cascata, d
 
 <figure class="image" style="float:left"><img alt="[200] RT.jpg" height="182" src="//farm66.staticflickr.com/65535/48871229573_e59ec0afd2_b.jpg" width="300" />
 <figcaption><em>Na &uacute;ltima semana, Moreno declarou estado<br />
-de exce&ccedil;&atilde;o por 60 dias em todo<br />
-o pa&iacute;s. Foto: Reuters</em></figcaption>
+de exce&ccedil;&atilde;o por 60 dias em todo o pa&iacute;s.<br />
+Foto: Reuters</em></figcaption>
 </figure>
 
 <p>Para a comunicadora popular, este tamb&eacute;m &eacute; um momento de esperan&ccedil;a, pois diversos setores populares conseguiram se unificar para lutar contra estas medidas neoliberais. &ldquo;Este paquetazo tem causado protestos que colocam juntos estudantes, professores, oper&aacute;rios, setores campesinos e ind&iacute;genas&rdquo;, destaca.</p>
@@ -100,9 +100,10 @@ Para Marina Santos, da dire&ccedil;&atilde;o nacional do MST, esta s&eacute;rie 
 O presidente do pa&iacute;s, em coletiva de imprensa na &uacute;ltima sexta-feira (4), afirmou que todos sabiam perfeitamente que medidas duras iriam ocorrer, mas que o pa&iacute;s teria que aceitar. &ldquo;O que n&atilde;o se pode permitir &eacute; que se crie um caos no pa&iacute;s, isto n&atilde;o vai ocorrer&rdquo;, afirmou o presidente equatoriano. &ldquo;Com os delinquentes, com os desonestos, com os que roubaram o er&aacute;rio [tesouro] nacional, que roubaram do povo seus recursos, com estes n&atilde;o vamos dialogar. A medida est&aacute; firme, n&atilde;o vou mudar de opini&atilde;o, iremos dialogar para encontrar paliativos&rdquo;, ressaltou.&nbsp;</p>
 
 <p><br />
-Diversas organiza&ccedil;&otilde;es sociais, sindicatos e o movimentos ind&iacute;genas mant&eacute;m, desde a semana passada, uma greve em todo pa&iacute;s sem prazo para terminar. O objetivo &eacute; fazer com que Lenin Moreno desista das medidas. A Confedera&ccedil;&atilde;o de Nacionalidades Ind&iacute;genas do Equador &ndash; CONAIE &ndash; declarou estado de exce&ccedil;&atilde;o em seus territ&oacute;rios e iniciou uma marcha em dire&ccedil;&atilde;o a capital, Quito, para se somarem &agrave;s diversas mobiliza&ccedil;&otilde;es que outros setores populares realizar&atilde;o. Mais de 20 mil ind&iacute;genas est&atilde;o previstos chegarem na cidade para cobrar o recuo do governo.</p>
+Diversas organiza&ccedil;&otilde;es sociais, sindicatos e o movimentos ind&iacute;genas mant&eacute;m, desde a semana passada, uma greve em todo pa&iacute;s sem prazo para terminar. O objetivo &eacute; fazer com que Lenin Moreno desista das medidas. A Confedera&ccedil;&atilde;o de Nacionalidades Ind&iacute;genas do Equador &ndash; CONAIE &ndash; declarou estado de exce&ccedil;&atilde;o em seus territ&oacute;rios e iniciou uma marcha em dire&ccedil;&atilde;o a capital, Quito, para se somarem &agrave;s diversas mobiliza&ccedil;&otilde;es que outros setores populares realizar&atilde;o. Mais de 20 mil ind&iacute;genas est&atilde;o previstos chegarem na cidade para cobrar o recuo do governo.<br />
+&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="[202] REUTERS.jpg" height="200" src="//farm66.staticflickr.com/65535/48871758536_238751aeb4_b.jpg" width="300" />
+<figure class="image" style="float:right"><img alt="[202] REUTERS.jpg" height="200" src="//farm66.staticflickr.com/65535/48871758536_238751aeb4_b.jpg" width="300" />
 <figcaption><em>Diante do crescimento das mobiliza&ccedil;&otilde;es,<br />
 a viol&ecirc;ncia policial se intensificou<br />
 consideravelmente. Foto: Reuters</em></figcaption>
