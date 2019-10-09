@@ -21,6 +21,12 @@ created_date: "2019-10-09T11:08:12-03:00"
 published: true
 releated_posts:
   - _posts/2019/05/2019-05-17-comunidades-escolares-do-rs-lutam-pelas-escolas-no-campo.md
+  - _posts/2019/09/2019-09-04-em-1979-secretaria-da-agricultura-assessorava-acampados-da-macali-e-brilhante.md
+  - _posts/2019/09/2019-09-04-porto-alegre-realiza-mais-uma-feira-organica-em-setembro.md
+  - _posts/2019/09/2019-09-05-a-notoriedade-das-ocupacoes-macali-e-brilhante-e-historica.md
+  - _posts/2019/09/2019-09-05-conciliacao-prorroga-permanencia-de-acampamento-do-mst-em-passo-fundo.md
+  - _posts/2019/09/2019-09-06-macali-e-brilhante-comemoram-40-anos-de-luta-pela-terra.md
+  - _posts/2019/02/2019-02-21-governo-zema-ataca-escola-do-campo-no-acampamento-quilombo-campo-grande-em-mg.md
 
 ---
 <div style="text-align:center">
