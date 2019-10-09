@@ -40,7 +40,7 @@ files:
     title: "[202] REUTERS.jpg"
     $$hashKey: 02Y
 created_date: "2019-10-09T15:41:01-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2019/02/2019-02-06-ato-em-apoio-ao-povo-venezuelano-mobiliza-capital-gaucha.md
   - _posts/2019/02/2019-02-22-notas-para-debater-a-crise-da-venezuela-por-joao-pedro-stedile.md
@@ -53,8 +53,8 @@ releated_posts:
 <p>&nbsp;</p>
 
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="[200] RT.jpg" height="425" src="//farm66.staticflickr.com/65535/48871229573_e59ec0afd2_b.jpg" width="700" />
-<figcaption><em>Na &uacute;ltima semana, Moreno declarou estado de exce&ccedil;&atilde;o por 60 dias em todo o pa&iacute;s. Foto: Reuters</em></figcaption>
+<figure class="image" style="display:inline-block"><img alt="[203] REUTERS_1.jpg" height="480" src="//farm66.staticflickr.com/65535/48871758491_fa9ed302fb_b.jpg" width="700" />
+<figcaption><em>&nbsp;Decreto Executivo 888 determina um toque de recolher em zonas ao redor de&nbsp;pr&eacute;dio governamentais. Foto: Reuters</em></figcaption>
 </figure>
 </div>
 
@@ -76,10 +76,10 @@ Com os combust&iacute;veis duplicando de pre&ccedil;o, como um efeito cascata, d
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="[203] REUTERS_1.jpg" src="//farm66.staticflickr.com/65535/48871758491_fa9ed302fb_b.jpg" width="300" />
-<figcaption><em>&nbsp;Decreto Executivo 888 determina um toque<br />
-de recolher em zonas ao redor de&nbsp;pr&eacute;dio<br />
-governamentais. Foto: Reuters</em></figcaption>
+<figure class="image" style="float:left"><img alt="[200] RT.jpg" height="182" src="//farm66.staticflickr.com/65535/48871229573_e59ec0afd2_b.jpg" width="300" />
+<figcaption><em>Na &uacute;ltima semana, Moreno declarou estado<br />
+de exce&ccedil;&atilde;o por 60 dias em todo<br />
+o pa&iacute;s. Foto: Reuters</em></figcaption>
 </figure>
 
 <p>Para a comunicadora popular, este tamb&eacute;m &eacute; um momento de esperan&ccedil;a, pois diversos setores populares conseguiram se unificar para lutar contra estas medidas neoliberais. &ldquo;Este paquetazo tem causado protestos que colocam juntos estudantes, professores, oper&aacute;rios, setores campesinos e ind&iacute;genas&rdquo;, destaca.</p>
