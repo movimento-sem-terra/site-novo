@@ -52,7 +52,7 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>Participaram do encontro o professor da Universidade Federal do Par&aacute; (UFP), Gilberto Marques, o coordenador da ONF Fase Amaz&ocirc;nia, Guilherme Carvalho e a jornalista e militante do MST, Viviane Br&iacute;gida.&nbsp;</p>
+<p>Participaram do encontro o professor da Universidade Federal do Par&aacute; (UFP), Gilberto Marques, o coordenador da ONG&nbsp;Fase Amaz&ocirc;nia, Guilherme Carvalho e a jornalista e militante do MST, Viviane Br&iacute;gida.&nbsp;</p>
 
 <p><br />
 Marques iniciou dua fala apresentando&nbsp;um quadro cultural e hist&oacute;rico&nbsp;da Amaz&ocirc;nia. &ldquo;Aquele bioma &eacute; um dos&nbsp;espa&ccedil;os de ocupa&ccedil;&atilde;o mais antigos&nbsp;do pa&iacute;s, ainda assim, &eacute; o espa&ccedil;o mais preservado. Diante disso,&nbsp;podemos&nbsp;dizer que n&atilde;o necessariamente a presen&ccedil;a humana significa degrada&ccedil;&atilde;o, ela significa degrada&ccedil;&atilde;o quando essa presen&ccedil;a se baseia pelo lucro&rdquo;, explicou.&nbsp;</p>
