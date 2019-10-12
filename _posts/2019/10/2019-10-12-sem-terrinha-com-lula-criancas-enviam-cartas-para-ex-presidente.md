@@ -42,6 +42,13 @@ files:
     small: //farm66.staticflickr.com/65535/48887432917_9fe0d78043_n.jpg
     title: carta-4-576x1024.jpeg
     $$hashKey: 03M
+  - link: //farm66.staticflickr.com/65535/48887131148_55ee5df88c_b.jpg
+    original: //farm66.staticflickr.com/65535/48887131148_fbc675e373_o.png
+    thumbnail: //farm66.staticflickr.com/65535/48887131148_55ee5df88c_t.jpg
+    medium: //farm66.staticflickr.com/65535/48887131148_55ee5df88c_z.jpg
+    small: //farm66.staticflickr.com/65535/48887131148_55ee5df88c_n.jpg
+    title: image-1024x610.png
+    $$hashKey: 0DF
 created_date: "2019-10-12T17:05:48-03:00"
 published: true
 releated_posts: []
@@ -49,7 +56,7 @@ releated_posts: []
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="crianças-Vigília (1).jpeg" height="340" src="//farm66.staticflickr.com/65535/48887214897_4a0ec4723f_b.jpg" width="700" />
-<figcaption>Legenda</figcaption>
+<figcaption>Crian&ccedil;as se solidarizam e exigem liberdade para Lula./ Reprodu&ccedil;&atilde;o</figcaption>
 </figure>
 </div>
 
@@ -65,7 +72,8 @@ releated_posts: []
 
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/w0ygZWx4YFc" width="640"></iframe></p>
 
-<p>Nesta semana, a campanha Nacional Lula Livre recebeu v&aacute;rias cartas de crian&ccedil;as destinadas a Lula em que demonstram que mesmo os pequeninos e pequeninas sabem que Lula est&aacute; preciso injustamente.<br />
+<p><br />
+Nesta semana, a campanha Nacional Lula Livre recebeu v&aacute;rias cartas de crian&ccedil;as destinadas a Lula em que demonstram que mesmo os pequeninos e pequeninas sabem que Lula est&aacute; preciso injustamente.<br />
 &nbsp;</p>
 
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/u-bIz5Ah6Mc" width="640"></iframe></p>
@@ -79,6 +87,32 @@ A crian&ccedil;ada do Movimento Sem Terra tamb&eacute;m aproveitou a semana para
 <figcaption>Crian&ccedil;as Sem Terrinhas declaram compromisso com a luta pela liberdade de Lula. / Reprodu&ccedil;&atilde;o.</figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
+
+<p><br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="carta-3-768x1024.jpeg" height="933" src="//farm66.staticflickr.com/65535/48886716383_89efdbc97a_b.jpg" width="700" />
+<figcaption>Legenda</figcaption>
+</figure>
+</div>
+
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="carta-4-576x1024.jpeg" height="1244" src="//farm66.staticflickr.com/65535/48887432917_9fe0d78043_b.jpg" width="700" />
+<figcaption>Carta de Alana do Maranh&atilde;o</figcaption>
+</figure>
+</div>
+
+<p>&nbsp;Na Vig&iacute;lia Lula Livre, a crian&ccedil;ada come&ccedil;ou o dia escrevendo carta para Lula. Com desenhos e palavras, elas dizem com o seu jeito, Lula Livre.</p>
+
+<p><br />
+&nbsp;</p>
+
+<p style="text-align:center"><img alt="image-1024x610.png" height="417" src="//farm66.staticflickr.com/65535/48887131148_55ee5df88c_b.jpg" width="700" /></p>
 
 <p style="text-align:center"><img alt="" class="wp-image-108654" sizes="(max-width: 614px) 100vw, 614px" src="https://lulalivre.org.br/wp-content/uploads/2019/10/Captura-de-Tela-2019-10-12-a%CC%80s-11.51.56.png" srcset="https://lulalivre.org.br/wp-content/uploads/2019/10/Captura-de-Tela-2019-10-12-às-11.51.56.png 614w, https://lulalivre.org.br/wp-content/uploads/2019/10/Captura-de-Tela-2019-10-12-às-11.51.56-300x227.png 300w, https://lulalivre.org.br/wp-content/uploads/2019/10/Captura-de-Tela-2019-10-12-às-11.51.56-320x242.png 320w" style="box-sizing: inherit; border-style: none; display: inline-block; vertical-align: middle; max-width: 100%; height: auto;" /></p>
 
