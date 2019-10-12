@@ -53,7 +53,8 @@ releated_posts: []
 </figure>
 </div>
 
-<p>Do&nbsp;Comit&ecirc; Lula Livre<br />
+<p><br />
+<em>Do&nbsp;Comit&ecirc; Lula Livre</em><br />
 &nbsp;</p>
 
 <p>Ficamos com a &ldquo;pureza da reposta das crian&ccedil;as de que &eacute; a vida e &eacute; bonita&rdquo;, assim como&nbsp;<a href="https://www.youtube.xn--com%20%20watch-bq3h/">Gonzaguinha</a>&nbsp;e que &ldquo;Lula tem que voltar logo&rdquo;, como escreveu a maranhense Alana, de 11 anos.<br />
@@ -62,19 +63,32 @@ releated_posts: []
 <p>Principais v&iacute;timas da tentativa de assassinar o futuro do pa&iacute;s, diversas crian&ccedil;as escreveram para o ex-presidente Lula e demonstram que sabem muito bem o significado de injusti&ccedil;a. Nas cartas, deixam a li&ccedil;&atilde;o de que &eacute; preciso que o povo brasileiro volte a sonhar com um pa&iacute;s de direitos, com justi&ccedil;a e igualdade.<br />
 &nbsp;</p>
 
-<p>Nesta semana, a campanha Nacional Lula Livre recebeu v&aacute;rias cartas de crian&ccedil;as destinadas a Lula em que demonstram que mesmo os pequeninos e pequeninas sabem que Lula est&aacute; preciso injustamente.</p>
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/w0ygZWx4YFc" width="640"></iframe></p>
 
-<p>&nbsp;</p>
+<p>Nesta semana, a campanha Nacional Lula Livre recebeu v&aacute;rias cartas de crian&ccedil;as destinadas a Lula em que demonstram que mesmo os pequeninos e pequeninas sabem que Lula est&aacute; preciso injustamente.<br />
+&nbsp;</p>
 
-<figure class="wp-block-image" style="box-sizing: inherit; margin: 0px 0px 1em; font-family: Lato, &quot;Helvetica Neue&quot;, sans-serif; max-width: 100%; color: rgb(34, 34, 34); font-size: 16px; text-align: start; background-color: rgb(245, 245, 245);">
-<p style="text-align:center"><img alt="" class="wp-image-108652" sizes="(max-width: 1024px) 100vw, 1024px" src="https://lulalivre.org.br/wp-content/uploads/2019/10/image-1024x610.png" srcset="https://lulalivre.org.br/wp-content/uploads/2019/10/image-1024x610.png 1024w, https://lulalivre.org.br/wp-content/uploads/2019/10/image-300x179.png 300w, https://lulalivre.org.br/wp-content/uploads/2019/10/image-768x458.png 768w, https://lulalivre.org.br/wp-content/uploads/2019/10/image-220x130.png 220w, https://lulalivre.org.br/wp-content/uploads/2019/10/image-320x191.png 320w, https://lulalivre.org.br/wp-content/uploads/2019/10/image-640x381.png 640w, https://lulalivre.org.br/wp-content/uploads/2019/10/image.png 1468w" style="box-sizing: inherit; border-style: none; display: inline-block; vertical-align: middle; max-width: 100%; height: auto;" /></p>
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/u-bIz5Ah6Mc" width="640"></iframe></p>
 
-<figcaption style="box-sizing: inherit; margin-top: 0.5em; margin-bottom: 1em; color: rgb(85, 93, 102); font-size: 13px;">Carta de Alana do Maranh&atilde;o</figcaption>
+<p><br />
+A crian&ccedil;ada do Movimento Sem Terra tamb&eacute;m aproveitou a semana para escrever cartas ao ex-presidente. Elas agradeceram Lula por ter feito escolas no campo e ainda escreveram &ldquo;que o Brasil est&aacute; voltando para atr&aacute;s&rdquo;.<br />
+&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="carta-3b-768x1024.jpeg" height="933" src="//farm66.staticflickr.com/65535/48887256981_8c9ab2f13b_b.jpg" width="700" />
+<figcaption>Crian&ccedil;as Sem Terrinhas declaram compromisso com a luta pela liberdade de Lula. / Reprodu&ccedil;&atilde;o.</figcaption>
 </figure>
+</div>
 
-<figure class="wp-block-image" style="box-sizing: inherit; margin: 0px 0px 1em; font-family: Lato, &quot;Helvetica Neue&quot;, sans-serif; max-width: 100%; color: rgb(34, 34, 34); font-size: 16px; text-align: start; background-color: rgb(245, 245, 245);">
 <p style="text-align:center"><img alt="" class="wp-image-108654" sizes="(max-width: 614px) 100vw, 614px" src="https://lulalivre.org.br/wp-content/uploads/2019/10/Captura-de-Tela-2019-10-12-a%CC%80s-11.51.56.png" srcset="https://lulalivre.org.br/wp-content/uploads/2019/10/Captura-de-Tela-2019-10-12-às-11.51.56.png 614w, https://lulalivre.org.br/wp-content/uploads/2019/10/Captura-de-Tela-2019-10-12-às-11.51.56-300x227.png 300w, https://lulalivre.org.br/wp-content/uploads/2019/10/Captura-de-Tela-2019-10-12-às-11.51.56-320x242.png 320w" style="box-sizing: inherit; border-style: none; display: inline-block; vertical-align: middle; max-width: 100%; height: auto;" /></p>
+
+<figure class="wp-block-image" style="box-sizing: inherit; margin: 0px 0px 1em; font-family: Lato, &quot;Helvetica Neue&quot;, sans-serif; max-width: 100%; color: rgb(34, 34, 34); font-size: 16px; text-align: start; background-color: rgb(245, 245, 245);">
+<figcaption style="box-sizing: inherit; margin-top: 0.5em; margin-bottom: 1em; color: rgb(85, 93, 102); font-size: 13px;">
+<p>&nbsp;</p>
+</figcaption>
 </figure>
+
+<figure class="wp-block-image" style="box-sizing: inherit; margin: 0px 0px 1em; font-family: Lato, &quot;Helvetica Neue&quot;, sans-serif; max-width: 100%; color: rgb(34, 34, 34); font-size: 16px; text-align: start; background-color: rgb(245, 245, 245);">&nbsp;</figure>
 
 <figure class="wp-block-image" style="box-sizing: inherit; margin: 0px 0px 1em; font-family: Lato, &quot;Helvetica Neue&quot;, sans-serif; max-width: 100%; color: rgb(34, 34, 34); font-size: 16px; text-align: start; background-color: rgb(245, 245, 245);">
 <p style="text-align:center"><img alt="" class="wp-image-108645" sizes="(max-width: 720px) 100vw, 720px" src="https://lulalivre.org.br/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-12-at-09.36.23.jpeg" srcset="https://lulalivre.org.br/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-12-at-09.36.23.jpeg 720w, https://lulalivre.org.br/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-12-at-09.36.23-225x300.jpeg 225w, https://lulalivre.org.br/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-12-at-09.36.23-320x427.jpeg 320w, https://lulalivre.org.br/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-12-at-09.36.23-640x853.jpeg 640w" style="box-sizing: inherit; border-style: none; display: inline-block; vertical-align: middle; max-width: 100%; height: auto;" /></p>
