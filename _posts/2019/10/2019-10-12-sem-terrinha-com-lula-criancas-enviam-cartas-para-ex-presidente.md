@@ -49,6 +49,27 @@ files:
     small: //farm66.staticflickr.com/65535/48887131148_55ee5df88c_n.jpg
     title: image-1024x610.png
     $$hashKey: 0DF
+  - link: //farm66.staticflickr.com/65535/48887876751_758918d40d_b.jpg
+    original: //farm66.staticflickr.com/65535/48887876751_b7c779df15_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48887876751_758918d40d_t.jpg
+    medium: //farm66.staticflickr.com/65535/48887876751_758918d40d_z.jpg
+    small: //farm66.staticflickr.com/65535/48887876751_758918d40d_n.jpg
+    title: carta-2-768x1024.jpeg
+    $$hashKey: 0DB
+  - link: //farm66.staticflickr.com/65535/48888056592_f39a8859c5_b.jpg
+    original: //farm66.staticflickr.com/65535/48888056592_7d592abc5a_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48888056592_f39a8859c5_t.jpg
+    medium: //farm66.staticflickr.com/65535/48888056592_f39a8859c5_z.jpg
+    small: //farm66.staticflickr.com/65535/48888056592_f39a8859c5_n.jpg
+    title: carta-criança-1-768x1024.jpeg
+    $$hashKey: 0DE
+  - link: //farm66.staticflickr.com/65535/48887900611_5938ae3505_b.jpg
+    original: //farm66.staticflickr.com/65535/48887900611_7d85f230d9_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48887900611_5938ae3505_t.jpg
+    medium: //farm66.staticflickr.com/65535/48887900611_5938ae3505_z.jpg
+    small: //farm66.staticflickr.com/65535/48887900611_5938ae3505_n.jpg
+    title: WhatsApp-Image-2019-10-12-at-09.36.23.jpeg
+    $$hashKey: 0DH
 created_date: "2019-10-12T17:05:48-03:00"
 published: true
 releated_posts: []
@@ -56,7 +77,7 @@ releated_posts: []
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="crianças-Vigília (1).jpeg" height="340" src="//farm66.staticflickr.com/65535/48887214897_4a0ec4723f_b.jpg" width="700" />
-<figcaption>Crian&ccedil;as se solidarizam e exigem liberdade para Lula./ Reprodu&ccedil;&atilde;o</figcaption>
+<figcaption>Crian&ccedil;as se solidarizam e exigem liberdade para Lula / Reprodu&ccedil;&atilde;o</figcaption>
 </figure>
 </div>
 
@@ -84,18 +105,15 @@ A crian&ccedil;ada do Movimento Sem Terra tamb&eacute;m aproveitou a semana para
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="carta-3b-768x1024.jpeg" height="933" src="//farm66.staticflickr.com/65535/48887256981_8c9ab2f13b_b.jpg" width="700" />
-<figcaption>Crian&ccedil;as Sem Terrinhas declaram compromisso com a luta pela liberdade de Lula. / Reprodu&ccedil;&atilde;o.</figcaption>
+<figcaption>Crian&ccedil;as Sem Terrinhas declaram compromisso com a luta pela liberdade de Lula / Reprodu&ccedil;&atilde;o.</figcaption>
 </figure>
 </div>
 
 <p>&nbsp;</p>
 
-<p><br />
-&nbsp;</p>
-
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="carta-3-768x1024.jpeg" height="933" src="//farm66.staticflickr.com/65535/48886716383_89efdbc97a_b.jpg" width="700" />
-<figcaption>Legenda</figcaption>
+<figcaption>Rosalina fez uma poesia para Lula / Reprodu&ccedil;&atilde;o</figcaption>
 </figure>
 </div>
 
@@ -103,27 +121,41 @@ A crian&ccedil;ada do Movimento Sem Terra tamb&eacute;m aproveitou a semana para
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="carta-4-576x1024.jpeg" height="1244" src="//farm66.staticflickr.com/65535/48887432917_9fe0d78043_b.jpg" width="700" />
-<figcaption>Carta de Alana do Maranh&atilde;o</figcaption>
+<figcaption>Maria (12) enviou sua carta do Cear&aacute; para o ex-presidente / Reprodu&ccedil;&atilde;o</figcaption>
 </figure>
 </div>
 
-<p>&nbsp;Na Vig&iacute;lia Lula Livre, a crian&ccedil;ada come&ccedil;ou o dia escrevendo carta para Lula. Com desenhos e palavras, elas dizem com o seu jeito, Lula Livre.</p>
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="carta-2-768x1024.jpeg" height="933" src="//farm66.staticflickr.com/65535/48887876751_758918d40d_b.jpg" width="700" />
+<figcaption>Crian&ccedil;as Sem Terrinha de S&atilde;o Paulo tamb&eacute;m enviaram cartas / Reprodu&ccedil;&atilde;o</figcaption>
+</figure>
+</div>
+
+<p>&nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="carta-criança-1-768x1024.jpeg" height="933" src="//farm66.staticflickr.com/65535/48888056592_f39a8859c5_b.jpg" width="700" />
+<figcaption>Em carta, crian&ccedil;as reconhecem o legado de Lula para o povo brasileiro / Reprodu&ccedil;&atilde;o</figcaption>
+</figure>
+</div>
 
 <p><br />
-&nbsp;</p>
+Na Vig&iacute;lia Lula Livre, a crian&ccedil;ada come&ccedil;ou o dia escrevendo carta para Lula. Com desenhos e palavras, elas dizem com o seu jeito, Lula Livre.</p>
 
-<p style="text-align:center"><img alt="image-1024x610.png" height="417" src="//farm66.staticflickr.com/65535/48887131148_55ee5df88c_b.jpg" width="700" /></p>
-
-<p style="text-align:center"><img alt="" class="wp-image-108654" sizes="(max-width: 614px) 100vw, 614px" src="https://lulalivre.org.br/wp-content/uploads/2019/10/Captura-de-Tela-2019-10-12-a%CC%80s-11.51.56.png" srcset="https://lulalivre.org.br/wp-content/uploads/2019/10/Captura-de-Tela-2019-10-12-às-11.51.56.png 614w, https://lulalivre.org.br/wp-content/uploads/2019/10/Captura-de-Tela-2019-10-12-às-11.51.56-300x227.png 300w, https://lulalivre.org.br/wp-content/uploads/2019/10/Captura-de-Tela-2019-10-12-às-11.51.56-320x242.png 320w" style="box-sizing: inherit; border-style: none; display: inline-block; vertical-align: middle; max-width: 100%; height: auto;" /></p>
-
-<figure class="wp-block-image" style="box-sizing: inherit; margin: 0px 0px 1em; font-family: Lato, &quot;Helvetica Neue&quot;, sans-serif; max-width: 100%; color: rgb(34, 34, 34); font-size: 16px; text-align: start; background-color: rgb(245, 245, 245);">
-<figcaption style="box-sizing: inherit; margin-top: 0.5em; margin-bottom: 1em; color: rgb(85, 93, 102); font-size: 13px;">
 <p>&nbsp;</p>
-</figcaption>
-</figure>
 
-<figure class="wp-block-image" style="box-sizing: inherit; margin: 0px 0px 1em; font-family: Lato, &quot;Helvetica Neue&quot;, sans-serif; max-width: 100%; color: rgb(34, 34, 34); font-size: 16px; text-align: start; background-color: rgb(245, 245, 245);">&nbsp;</figure>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="image-1024x610.png" height="417" src="//farm66.staticflickr.com/65535/48887131148_55ee5df88c_b.jpg" width="700" />
+<figcaption>A carta da Alana veio do Maranh&atilde;o / Reprodu&ccedil;&atilde;o</figcaption>
+</figure>
+</div>
 
 <figure class="wp-block-image" style="box-sizing: inherit; margin: 0px 0px 1em; font-family: Lato, &quot;Helvetica Neue&quot;, sans-serif; max-width: 100%; color: rgb(34, 34, 34); font-size: 16px; text-align: start; background-color: rgb(245, 245, 245);">
-<p style="text-align:center"><img alt="" class="wp-image-108645" sizes="(max-width: 720px) 100vw, 720px" src="https://lulalivre.org.br/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-12-at-09.36.23.jpeg" srcset="https://lulalivre.org.br/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-12-at-09.36.23.jpeg 720w, https://lulalivre.org.br/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-12-at-09.36.23-225x300.jpeg 225w, https://lulalivre.org.br/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-12-at-09.36.23-320x427.jpeg 320w, https://lulalivre.org.br/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-12-at-09.36.23-640x853.jpeg 640w" style="box-sizing: inherit; border-style: none; display: inline-block; vertical-align: middle; max-width: 100%; height: auto;" /></p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="WhatsApp-Image-2019-10-12-at-09.36.23.jpeg" height="933" src="//farm66.staticflickr.com/65535/48887900611_5938ae3505_b.jpg" width="700" />
+<figcaption>Crian&ccedil;as declaram seu amor a Lula / Reprodu&ccedil;&atilde;o</figcaption>
+</figure>
+</div>
 </figure>
