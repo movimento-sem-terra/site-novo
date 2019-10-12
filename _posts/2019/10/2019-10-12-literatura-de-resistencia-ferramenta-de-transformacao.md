@@ -59,7 +59,6 @@ span.Apple-tab-span {white-space:pre}
 </div>
 
 <p><br />
-<br />
 <em>Por Fernanda Alc&acirc;ntara<br />
 Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
@@ -108,7 +107,7 @@ Da P&aacute;gina do MST</em><br />
 <p>S&atilde;o muitos os depoimentos que comprovam na pr&aacute;tica a literatura no campo, com destaque ao papel da editora Express&atilde;o Popular na divulga&ccedil;&atilde;o e facilita&ccedil;&atilde;o do acesso aos livros em geral e de literatura em particular. &ldquo;A Express&atilde;o Popular &eacute; parceira neste projeto. Comemorando 20 anos de funda&ccedil;&atilde;o, a editora &eacute; uma das principais parceiras na meta de popularizar a literatura como arte da palavra&rdquo;, lembra Luana Pomm&eacute;, do Setor de Educa&ccedil;&atilde;o do MST.<br />
 &nbsp;</p>
 
-<p>Miguel Yoshida, editor da Express&atilde;o Popular, ressalta o trabalho na empreitada de fortalecer o h&aacute;bito da leitura tanto nas escolas como no conjunto do Movimento. &ldquo;O esfor&ccedil;o feito pelo MST de se apropriar da literatura &eacute; um grande movimento hist&oacute;rico. No Sim eu posso [http://www.mst.org.br/2018/02/08/sim-eu-posso-a-revolucao-que-vem-das-letras.html], por exemplo, foram enviados livros da Express&atilde;o. Foi uma como&ccedil;&atilde;o para a equipe, um exemplo da import&acirc;ncia da editora&rdquo;.<br />
+<p>Miguel Yoshida, editor da Express&atilde;o Popular, ressalta o trabalho na empreitada de fortalecer o h&aacute;bito da leitura tanto nas escolas como no conjunto do Movimento. &ldquo;O esfor&ccedil;o feito pelo MST de se apropriar da literatura &eacute; um grande movimento hist&oacute;rico. No <a href="http://www.mst.org.br/2018/02/08/sim-eu-posso-a-revolucao-que-vem-das-letras.html">Sim eu posso</a>, por exemplo, foram enviados livros da Express&atilde;o. Foi uma como&ccedil;&atilde;o para a equipe, um exemplo da import&acirc;ncia da editora&rdquo;.<br />
 &nbsp;</p>
 
 <p>No universo infantil, um dos exemplos desta parceria &eacute; a publica&ccedil;&atilde;o em 2006 da Cole&ccedil;&atilde;o Terra de livros da Express&atilde;o Popular, iniciada pela publica&ccedil;&atilde;o da obra &ldquo;Um fantasma ronda o acampamento&rdquo;, escrita por Maria Jos&eacute; Silveira. O livro surgiu com o objetivo de avan&ccedil;ar na forma e no repert&oacute;rio, principalmente pela encomenda de obras de literatura para autores a partir de discuss&atilde;o de temas, conte&uacute;dos, estilo.<br />
@@ -116,7 +115,7 @@ Da P&aacute;gina do MST</em><br />
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="[texto campanha literatura] Marlene Crespo, livro Iemanjá.jpeg" height="692" src="//farm66.staticflickr.com/65535/48887347846_176a6a83ae_b.jpg" width="700" />
-<figcaption>Legenda</figcaption>
+<figcaption>Entre os t&iacute;tulos que comp&otilde;em a campanha est&aacute; o livro de Marlene Crespo sobre Iemanj&aacute;./ Claudio Kbene</figcaption>
 </figure>
 </div>
 
@@ -124,13 +123,14 @@ Da P&aacute;gina do MST</em><br />
 Desde ent&atilde;o, a Campanha de Literatura tem contado com a editora na promo&ccedil;&atilde;o da leitura com livros a pre&ccedil;os abaixo do custo de v&aacute;rios t&iacute;tulos. &ldquo;Nosso esfor&ccedil;o &eacute; formar milhares de leitoras e leitores crian&ccedil;as, jovens e adultos de nosso Movimento, e semear livros pelo interior do Brasil, nos 1.200 munic&iacute;pios onde o MST tem assentamentos e acampamentos. At&eacute; este m&ecirc;s de outubro, a Editora Express&atilde;o Popular j&aacute; ter&aacute; enviado cerca de 9 mil livros de literatura para os Estados (7 mil livros de t&iacute;tulos pr&oacute;prios) e mais 2 mil exemplares que recebemos de doa&ccedil;&atilde;o&rdquo;, afirmou Kolling.<br />
 &nbsp;</p>
 
-<p>&nbsp; que hoje (12) foi contada na <a href="https://www.mst.org.br/2019/10/04/acao-literaria-expressao-popular-ocupa-o-armazem-do-campo-sp.html">A&ccedil;&atilde;o Liter&aacute;ria realizada no Armaz&eacute;m do Campo</a>.&nbsp;Por meio de versos e imagens em xilogravura, o livro envolve as crian&ccedil;as na magia e no humanismo da fraqueza e a for&ccedil;a de Iemanj&aacute; no seu desejo de liberta&ccedil;&atilde;o e, como os demais livros, pode ser acessado por v&aacute;rios Sem Terrinha.<br />
+<p>S&atilde;o v&aacute;rios os t&iacute;tulos que comp&otilde;em esta campanha. Entre eles, o mais recente lan&ccedil;amento do livro de<br />
+Iemanj&aacute;, da autora Marlene Crespo, que hoje (12) foi contada&nbsp; que hoje (12) foi contada na <a href="https://www.mst.org.br/2019/10/04/acao-literaria-expressao-popular-ocupa-o-armazem-do-campo-sp.html">A&ccedil;&atilde;o Liter&aacute;ria realizada no Armaz&eacute;m do Campo</a>.&nbsp;Por meio de versos e imagens em xilogravura, o livro envolve as crian&ccedil;as na magia e no humanismo da fraqueza e a for&ccedil;a de Iemanj&aacute; no seu desejo de liberta&ccedil;&atilde;o e, como os demais livros, pode ser acessado por v&aacute;rios Sem Terrinha.<br />
 &nbsp;</p>
 
-<h2>Sem Terrinhas<br />
-&nbsp;</h2>
+<h2>Sem Terrinhas</h2>
 
-<p>Com a Jornada Sem Terrinha acontecendo este m&ecirc;s, a Campanha ganha intensidade no debate e enraizamento nosso projeto formativo voltado para inf&acirc;ncia. Para isso, os encontros regionais e estaduais que acontecem por todo o pa&iacute;s impulsionam o debate da inf&acirc;ncia em diversas esferas fundamentais para reafirmar e potencializar no &acirc;mbito da viv&ecirc;ncia da organicidade, da auto-organiza&ccedil;&atilde;o das crian&ccedil;as e da coletividade infantil.<br />
+<p><br />
+Com a Jornada Sem Terrinha acontecendo este m&ecirc;s, a Campanha ganha intensidade no debate e enraizamento nosso projeto formativo voltado para inf&acirc;ncia. Para isso, os encontros regionais e estaduais que acontecem por todo o pa&iacute;s impulsionam o debate da inf&acirc;ncia em diversas esferas fundamentais para reafirmar e potencializar no &acirc;mbito da viv&ecirc;ncia da organicidade, da auto-organiza&ccedil;&atilde;o das crian&ccedil;as e da coletividade infantil.<br />
 &nbsp;</p>
 
 <p>&ldquo;Considerando que temos aproximadamente 1.500 escolas p&uacute;blicas em nossos assentamentos e acampamentos (em torno de 120 de Ensino M&eacute;dio), nas quais estudam mais de 100 mil crian&ccedil;as, adolescentes e jovens, &eacute; necess&aacute;rio que o conjunto de nosso Movimento abrace essa iniciativa para refor&ccedil;ar o trabalho que j&aacute; existe nas escolas e tamb&eacute;m abrir novas fronteiras&rdquo;, ressalta Kolling.<br />
