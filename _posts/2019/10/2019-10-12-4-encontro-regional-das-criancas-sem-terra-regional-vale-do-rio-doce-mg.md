@@ -4,7 +4,7 @@ tags:
   - tag: sem-terrinha
   - tag: minas-gerais
   - tag: encontro-estadual
-title: 4° Encontro Regional das Crianças Sem Terra acontece no Vale do Rio Doce (MG)
+title: "4° Encontro Regional das Crianças Sem Terra acontece no Vale do Rio Doce, em MG"
 images_hd: //farm66.staticflickr.com/65535/48886993308_23592e6c2e_b.jpg
 support_line: "Com o lema “Sem Terrinha em Movimento: por terra, escola e dignidade\" encontro terá mais de 200 crianças."
 menu: "educação, cultura e comunicação"
