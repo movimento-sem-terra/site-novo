@@ -1,6 +1,12 @@
 ---
 date: "2019-10-12T21:24:33-03:00"
-tags: []
+tags:
+  - tag: trump
+  - tag: Alcântara
+  - tag: maranhão
+  - tag: Imperialismo
+  - tag: neoliberalismo
+  - tag: geopolítica
 title: "Alcântara, acordo indigno"
 support_line: "Em dias, Congresso votará cessão da Base de Lançamentos aos EUA. Tratado bloqueia desenvolvimento tecnológico do país, impede-o de buscar certos parceiros e permite que Washington arrmazene, no MA, até mesmo armas nucleares e químicas."
 menu: projeto popular
