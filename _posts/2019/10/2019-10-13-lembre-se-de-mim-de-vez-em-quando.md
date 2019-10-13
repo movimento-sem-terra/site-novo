@@ -32,6 +32,9 @@ releated_posts:
   - _posts/2019/01/2019-01-02-60-anos-de-vitorias-e-uma-so-revolucao.md
 
 ---
+<p><em>Por Judite Santos*</em><br />
+&nbsp;</p>
+
 <p>Passados 52 anos de sua morte, ainda &eacute; dif&iacute;cil falar ou escrever sobre Che Guevara sem destacar a grandiosidade de um homem que atravessou seu tempo hist&oacute;rico deixando uma pr&aacute;xis&nbsp;transcendental.</p>
 
 <p><br />
@@ -80,7 +83,7 @@ Foram 11 meses enfrentando situa&ccedil;&atilde;o hostil at&eacute; chegar na Qu
 Ap&oacute;s ser assassinado Che Guevara foi levado para a pequena cidade de Valle Grande, onde se deu a conhecer ao mundo a noticia do seu assassinato. Durante 30 anos os restos mortais do Che ficaram desaparecidos, somente em 1997, seu corpo foi encontrado aos arredores de um aeroporto militar desativado e foi levado de volta para Cuba, onde repousa junto com outros her&oacute;is cubanos num belo e m&iacute;stico mausol&eacute;u na cidade de Santa Clara.</p>
 
 <h2><br />
-*Mi &uacute;nica:</h2>
+Mi &uacute;nica:</h2>
 
 <p><br />
 &quot;Aprovecho el viaje de un amigo para mandarte estas letras, claro que pod&iacute;an ir por correo, pero a uno le parece m&aacute;s &iacute;ntimo el camino &#39;paraoficial&#39;. Te podr&iacute;a decir que te extra&ntilde;o hasta el punto de perder el sue&ntilde;o, pero s&eacute; que no me creer&iacute;as de manera que me abstengo. Pero hay d&iacute;as en que la morri&ntilde;a avanza incontenible y se posesiona de m&iacute;. En navidad y A&ntilde;o nuevo, sobre todo, no sabes c&oacute;mo extra&ntilde;o tus l&aacute;grimas rituales, bajo un cielo de estrellas nuevas que me recordaba lo poco que le he sacado a la vida en el orden personal [&hellip;].</p>
@@ -95,4 +98,7 @@ Dale un beso a los pedacitos de carne, a todo el resto y recibe el beso pre&ntil
 Marido&quot;.</p>
 
 <p><br />
-*Fragmentos da &uacute;nica carta que Aleida pode receber enquanto o Che liderava a guerrilha na Bolivia em 2 de dezembro de 1966.</p>
+- Fragmentos da &uacute;nica carta que Aleida pode receber enquanto o Che liderava a guerrilha na Bolivia em 2 de dezembro de 1966.<br />
+&nbsp;</p>
+
+<p><em>*Judite Santos &eacute;&nbsp;do&nbsp;Coletivo de Rela&ccedil;&otilde;es Internacionais do MST.</em></p>
