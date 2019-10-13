@@ -7,6 +7,14 @@
 		<atom:link href="http://www.mst.org.br/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>A marcha da ousadia popular completa 20 anos</title>
+				<description>Em 1999, milhares de pessoas marcharam do Rio até Brasília para pensar um novo projeto de país.</description>
+				<pubDate>Sat, 12 Oct 2019 21:16:32 -0300</pubDate>
+				<link>http://www.mst.org.br/2019/10/12/a-marcha-da-ousadia-popular-completa-20-anos.html</link>
+				<guid isPermaLink="true">http://www.mst.org.br/2019/10/12/a-marcha-da-ousadia-popular-completa-20-anos.html</guid>
+			</item>
+		
+			<item>
 				<title>Feira de Livros da Expressão Popular em São Paulo fortalece a batalha das ideias</title>
 				<description>Evento, que reúne mais de 8 mil publicações de 48 editoras e lançamentos, é parte da programação realizada em 17 estados</description>
 				<pubDate>Sat, 12 Oct 2019 20:51:13 -0300</pubDate>
@@ -79,16 +87,6 @@
 				<pubDate>Thu, 10 Oct 2019 17:58:56 -0300</pubDate>
 				<link>http://www.mst.org.br/2019/10/10/mst-comemora-liberdade-de-camponeses.html</link>
 				<guid isPermaLink="true">http://www.mst.org.br/2019/10/10/mst-comemora-liberdade-de-camponeses.html</guid>
-			</item>
-		
-			<item>
-				<title>Primeiro dia do 19º Encontro Estadual das Crianças Sem Terrinha
-</title>
-				<description>Um dia cheio de diversão dedicado a cerca de 250 educandos
-</description>
-				<pubDate>Thu, 10 Oct 2019 17:47:01 -0300</pubDate>
-				<link>http://www.mst.org.br/2019/10/10/primeiro-dia-do-19o-encontro-estadual-das-criancas-sem-terrinha.html</link>
-				<guid isPermaLink="true">http://www.mst.org.br/2019/10/10/primeiro-dia-do-19o-encontro-estadual-das-criancas-sem-terrinha.html</guid>
 			</item>
 		
 	</channel>
