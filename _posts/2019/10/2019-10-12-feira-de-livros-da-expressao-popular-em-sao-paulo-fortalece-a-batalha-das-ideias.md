@@ -1,6 +1,9 @@
 ---
 date: "2019-10-12T20:51:13-03:00"
-tags: []
+tags:
+  - tag: ação-literária
+  - tag: expressão-popular
+  - tag: livros
 title: Feira de Livros da Expressão Popular em São Paulo fortalece a batalha das ideias
 support_line: "Evento, que reúne mais de 8 mil publicações de 48 editoras e lançamentos, é parte da programação realizada em 17 estados"
 menu: "educação, cultura e comunicação"
@@ -37,7 +40,11 @@ files:
     $$hashKey: 0MX
 created_date: "2019-10-12T21:16:18-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2019/03/2019-03-29-a-luta-pela-reforma-agraria-contada-no-livro-sem-terra-em-cartaz.md
+  - _posts/2019/04/2019-04-02-seis-livros-com-historias-e-aprendizados-para-criancada.md
+  - _posts/2019/05/2019-05-28-livro-sem-terra-em-cartaz-chega-as-livrarias-e-vira-exposicao-no-ceara.md
+  - _posts/2019/08/2019-08-16-povos-indigenas-terra-culturas-e-lutas-sera-lancado-neste-sabado-17-em-sp.md
 
 ---
 <div itemprop="author" rel="author">
@@ -48,20 +55,25 @@ releated_posts: []
 </div>
 </div>
 
-<div itemprop="author" rel="author"><em>Por Sheila de Oliveira</em></div>
-
-<div itemprop="author" rel="author"><em>Brasil de Fato</em><br />
-&nbsp;</div>
-
-<div itemprop="author" rel="author">Mais de 8 mil livros e 1067 t&iacute;tulos de 48 editoras. Esses s&atilde;o os n&uacute;meros da Feira do Livro realizada pela Editora Express&atilde;o Popular nos dias 12&nbsp;&nbsp;e 13 de outubro, no Armaz&eacute;m do Campo, em S&atilde;o Paulo. O evento faz parte da A&ccedil;&atilde;o Liter&aacute;ria da editora que comemora 20 anos de exist&ecirc;ncia na batalha das ideias.<br />
+<div itemprop="author" rel="author"><br />
 <br />
-<br />
-Criada em 1999, a Express&atilde;o Popular surgiu em meio a um contexto de&nbsp;ofensiva do neoliberalismo e&nbsp;recuo das for&ccedil;as dos trabalhadores. &ldquo;A ideia era justamente dar uma contribui&ccedil;&atilde;o te&oacute;rica para a forma&ccedil;&atilde;o e organiza&ccedil;&atilde;o dos militantes sociais&rdquo;, explica o editor Miguel Yoshida.<br />
-<br />
-&nbsp;</div>
+<em>Por Sheila de Oliveira</em></div>
 
-<div itemprop="author" rel="author">Duas d&eacute;cadas depois, e com 600 t&iacute;tulos publicados, a editora continua incentivando o pensamento cr&iacute;tico e influenciando no debate pol&iacute;tico. Yoshida conta que o acirramento da conjuntura, a partir do golpe de 2016, fez com que muitas pessoas, especialmente as jovens, recorressem aos livros da Express&atilde;o Popular para entender o momento hist&oacute;rico.<br />
-&nbsp;</div>
+<div itemprop="author" rel="author"><em>Brasil de Fato</em></div>
+
+<div itemprop="author" rel="author"><br />
+<br />
+Mais de 8 mil livros e 1067 t&iacute;tulos de 48 editoras. Esses s&atilde;o os n&uacute;meros da Feira do Livro realizada pela Editora Express&atilde;o Popular nos dias 12&nbsp;&nbsp;e 13 de outubro, no Armaz&eacute;m do Campo, em S&atilde;o Paulo. O evento faz parte da A&ccedil;&atilde;o Liter&aacute;ria da editora que comemora 20 anos de exist&ecirc;ncia na batalha das ideias.</div>
+
+<div itemprop="author" rel="author"><br />
+<br />
+Criada em 1999, a Express&atilde;o Popular surgiu em meio a um contexto de&nbsp;ofensiva do neoliberalismo e&nbsp;recuo das for&ccedil;as dos trabalhadores. &ldquo;A ideia era justamente dar uma contribui&ccedil;&atilde;o te&oacute;rica para a forma&ccedil;&atilde;o e organiza&ccedil;&atilde;o dos militantes sociais&rdquo;, explica o editor Miguel Yoshida.</div>
+
+<div itemprop="author" rel="author"><br />
+<br />
+Duas d&eacute;cadas depois, e com 600 t&iacute;tulos publicados, a editora continua incentivando o pensamento cr&iacute;tico e influenciando no debate pol&iacute;tico. Yoshida conta que o acirramento da conjuntura, a partir do golpe de 2016, fez com que muitas pessoas, especialmente as jovens, recorressem aos livros da Express&atilde;o Popular para entender o momento hist&oacute;rico.</div>
+
+<div itemprop="author" rel="author">&nbsp;</div>
 
 <div itemprop="author" rel="author">&nbsp;</div>
 
@@ -73,15 +85,21 @@ Criada em 1999, a Express&atilde;o Popular surgiu em meio a um contexto de&nbsp;
 
 <p>A atriz Chris Couto, que passava pelo Armaz&eacute;m do Campo, aproveitou para visitar a Feira do Livro e reafirmou a import&acirc;ncia de se buscar informa&ccedil;&otilde;es nesse momento de crescimento das a&ccedil;&otilde;es contra a cultura e a educa&ccedil;&atilde;o.&nbsp;&ldquo;O que podemos fazer &eacute; n&atilde;o parar de se informar, estudar e ir atr&aacute;s das informa&ccedil;&otilde;es corretas&rdquo;, disse.</p>
 
-<p>J&aacute; o educador Paulo In&aacute;cio Alves de Ara&uacute;jo Coelho&nbsp;ressaltou a import&acirc;ncia dos professores estimularem o h&aacute;bito de leitura nos alunos. &ldquo;Eu me preocupo com a falta de est&iacute;mulo por parte dos educadores para fazer com que as crian&ccedil;as, jovens, adolescentes e adultos se interessem por livros. Acredito que seja necess&aacute;rio mais pol&iacute;ticas de incentivo e acesso. Como querem que o povo leia se o pr&oacute;prio educador n&atilde;o estimula?&rdquo;, questiona.</p>
+<p><br />
+J&aacute; o educador Paulo In&aacute;cio Alves de Ara&uacute;jo Coelho&nbsp;ressaltou a import&acirc;ncia dos professores estimularem o h&aacute;bito de leitura nos alunos. &ldquo;Eu me preocupo com a falta de est&iacute;mulo por parte dos educadores para fazer com que as crian&ccedil;as, jovens, adolescentes e adultos se interessem por livros. Acredito que seja necess&aacute;rio mais pol&iacute;ticas de incentivo e acesso. Como querem que o povo leia se o pr&oacute;prio educador n&atilde;o estimula?&rdquo;, questiona.</p>
 
-<p>&ldquo;Iemanj&aacute;, a deusa do mar&rdquo;</p>
+<h2><br />
+&ldquo;Iemanj&aacute;, a deusa do mar&rdquo;</h2>
 
-<p>Sobrevivente da ditadura, a artista pl&aacute;stica e autora Marlene Crespo lan&ccedil;ou o livro &ldquo;Iemanj&aacute;, a deusa do mar&rdquo;, durante a A&ccedil;&atilde;o Liter&aacute;ria. &ldquo;Essa edi&ccedil;&atilde;o est&aacute; viva e isso me agrada muito&rdquo;, declarou.&nbsp;&nbsp;</p>
+<p><br />
+Sobrevivente da ditadura, a artista pl&aacute;stica e autora Marlene Crespo lan&ccedil;ou o livro &ldquo;Iemanj&aacute;, a deusa do mar&rdquo;, durante a A&ccedil;&atilde;o Liter&aacute;ria. &ldquo;Essa edi&ccedil;&atilde;o est&aacute; viva e isso me agrada muito&rdquo;, declarou.</p>
 
-<p>Aos 86 anos, Marlene autografou exemplares e revelou a alegria de comemorar 20 anos da Express&atilde;o Popular. &ldquo;Foi um lan&ccedil;amento muito gostoso, diferente do que costuma ser&rdquo;, afirma.</p>
+<p><br />
+Aos 86 anos, Marlene autografou exemplares e revelou a alegria de comemorar 20 anos da Express&atilde;o Popular. &ldquo;Foi um lan&ccedil;amento muito gostoso, diferente do que costuma ser&rdquo;, afirma.</p>
 
-<p>Animada, a autora antecipou que&nbsp;prepara um novo livro pela editora contando as verdadeiras mem&oacute;rias da inf&acirc;ncia.</p>
+<p><br />
+Animada, a autora antecipou que&nbsp;prepara um novo livro pela editora contando as verdadeiras mem&oacute;rias da inf&acirc;ncia.<br />
+&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="48886594851_4757859a50_o.jpg" height="692" src="//farm66.staticflickr.com/65535/48888000896_da89a6c7d2_b.jpg" width="700" />
@@ -89,11 +107,15 @@ Criada em 1999, a Express&atilde;o Popular surgiu em meio a um contexto de&nbsp;
 </figure>
 </div>
 
-<p>As publica&ccedil;&otilde;es de Marlene dialogam com a inten&ccedil;&atilde;o da Express&atilde;o de valorizar o direito &agrave; literatura desde a inf&acirc;ncia. &ldquo;O lan&ccedil;amento da Marlene Crespo significa a retomada desse direito. Ela traz uma narrativa po&eacute;tica sobre Iemanj&aacute; que, para n&oacute;s, representa o direito &agrave; liberdade religiosa, de conhecer a hist&oacute;ria afrodescendente e da mulher ser livre&rdquo;, explica a jornalista&nbsp;Cec&iacute;lia Luedemann, respons&aacute;vel pela divulga&ccedil;&atilde;o na editora.</p>
+<p><br />
+As publica&ccedil;&otilde;es de Marlene dialogam com a inten&ccedil;&atilde;o da Express&atilde;o de valorizar o direito &agrave; literatura desde a inf&acirc;ncia. &ldquo;O lan&ccedil;amento da Marlene Crespo significa a retomada desse direito. Ela traz uma narrativa po&eacute;tica sobre Iemanj&aacute; que, para n&oacute;s, representa o direito &agrave; liberdade religiosa, de conhecer a hist&oacute;ria afrodescendente e da mulher ser livre&rdquo;, explica a jornalista&nbsp;Cec&iacute;lia Luedemann, respons&aacute;vel pela divulga&ccedil;&atilde;o na editora.</p>
 
-<p>Segundo Luedman, a a&ccedil;&atilde;o tamb&eacute;m realiza uma campanha conjunta com o Movimento dos Trabalhadores Rurais Sem Terra (MST) pelo direito &agrave; literatura nas escolas do campo. &ldquo;A A&ccedil;&atilde;o Liter&aacute;ria tamb&eacute;m tem atividades de solidariedade, quem vem aqui compra um livro pros seus filhos e para outras crian&ccedil;as brasileiras do campo&rdquo;, acrescenta.</p>
+<p><br />
+Segundo Luedman, a a&ccedil;&atilde;o tamb&eacute;m realiza uma campanha conjunta com o Movimento dos Trabalhadores Rurais Sem Terra (MST) pelo direito &agrave; literatura nas escolas do campo. &ldquo;A A&ccedil;&atilde;o Liter&aacute;ria tamb&eacute;m tem atividades de solidariedade, quem vem aqui compra um livro pros seus filhos e para outras crian&ccedil;as brasileiras do campo&rdquo;, acrescenta.</p>
 
-<p>A pedagoga Inai&aacute; Ara&uacute;jo divertiu e educou crian&ccedil;as narrando tamb&eacute;m uma hist&oacute;ria sobre Iemanj&aacute; durante a conta&ccedil;&atilde;o da hist&oacute;ria &ldquo;Ubuntu&rdquo;. &ldquo;Narrar hist&oacute;ria &eacute; uma mem&oacute;ria. A crian&ccedil;a aceita, adora e quer ouvir de novo. Pensar em intoler&acirc;ncia religiosa est&aacute; justamente em n&atilde;o conhecer. &Eacute; legal entender a hist&oacute;ria e a origem dessas outras religi&otilde;es&rdquo;, define.</p>
+<p><br />
+A pedagoga Inai&aacute; Ara&uacute;jo divertiu e educou crian&ccedil;as narrando tamb&eacute;m uma hist&oacute;ria sobre Iemanj&aacute; durante a conta&ccedil;&atilde;o da hist&oacute;ria &ldquo;Ubuntu&rdquo;. &ldquo;Narrar hist&oacute;ria &eacute; uma mem&oacute;ria. A crian&ccedil;a aceita, adora e quer ouvir de novo. Pensar em intoler&acirc;ncia religiosa est&aacute; justamente em n&atilde;o conhecer. &Eacute; legal entender a hist&oacute;ria e a origem dessas outras religi&otilde;es&rdquo;, define.<br />
+&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="48886108948_47a3688b22_o.jpg" height="525" src="//farm66.staticflickr.com/65535/48888000886_d40dcfd2d5_b.jpg" width="700" />
