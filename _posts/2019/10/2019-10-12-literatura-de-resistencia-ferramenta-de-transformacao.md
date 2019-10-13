@@ -1,6 +1,9 @@
 ---
 date: "2019-10-12T17:56:05-03:00"
-tags: []
+tags:
+  - tag: sem-terrinha
+  - tag: expressão-popular
+  - tag: rio-grande-do-sul
 title: "Literatura de resistência, ferramenta de transformação"
 support_line: Campanha do MST tem a ambição de distribuir um livro para cada Sem Terrinha
 menu: "educação, cultura e comunicação"
@@ -38,7 +41,8 @@ files:
     $$hashKey: 039
 created_date: "2019-10-12T18:37:36-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2019/10/2019-10-04-criancas-sem-terrinha-do-rs-se-preparam-para-encontro-estadual.md
 
 ---
 <p>
