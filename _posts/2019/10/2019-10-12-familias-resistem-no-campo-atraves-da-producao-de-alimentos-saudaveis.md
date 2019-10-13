@@ -1,6 +1,12 @@
 ---
 date: "2019-10-12T19:31:46-03:00"
-tags: []
+tags:
+  - tag: bahia
+  - tag: despejo
+  - tag: agroecologia
+  - tag: resistência
+  - tag: agricultura-camponesa
+  - tag: juazeiro
 hat: ""
 title: Famílias resistem no campo através da produção de alimentos saudáveis
 support_line: Resistindo a ataques de despejo do governo a agricultura familiar é a única que pode fazer o país avançar.
@@ -53,13 +59,23 @@ files:
     $$hashKey: 03F
 created_date: "2019-10-12T20:13:01-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2019/09/2019-09-13-mst-repudia-despejo-de-50-familias-em-roncador-no-parana.md
+  - _posts/2019/01/2019-01-15-primeiro-curso-de-especializacao-em-educacao-e-agroecologia-acontece-no-extremo-sul-da-bahia.md
+  - _posts/2019/02/2019-02-07-na-bahia-agroecologia-e-o-caminho-percorrido-para-transformacao-social.md
+  - _posts/2019/07/2019-07-01-mst-realiza-5-edicao-da-feira-estadual-da-reforma-agraria-na-bahia.md
+  - _posts/2019/07/2019-07-18-jovens-mulheres-e-o-desafio-de-assumir-o-futuro-no-assentamento-terra-vista.md
+  - _posts/2019/05/2019-05-14-reocupacao-em-area-improdutiva-na-chapada-diamantina.md
+  - _posts/2019/06/2019-06-11-cerca-de-80-familias-sofrem-despejo-na-chapada-diamantina.md
+  - _posts/2019/06/2019-06-28-acampamento-no-baixo-sul-da-bahia-sofre-a-sua-terceira-reintegracao-de-posse.md
+  - _posts/2019/09/2019-09-20-na-bahia-acampamentos-no-nilo-coelho-sofrem-ameaca-de-despejos.md
+  - _posts/2019/09/2019-09-30-protestos-em-juazeiro-ba-traz-pauta-sobre-mercado-de-trabalho-e-direito-a-terra.md
 
 ---
 <div dir="auto">
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG-20191012-WA0048.jpg" height="525" src="//farm66.staticflickr.com/65535/48887871562_d3b36df82d_b.jpg" width="700" />
-<figcaption>No Norte da Bahia fam&iacute;lias produzem alimentos saud&aacute;veis e resistem &agrave; amea&ccedil;a de despejo./ Foto: Coletivo de Comunica&ccedil;&atilde;o da Bahia</figcaption>
+<figcaption>No Norte da Bahia fam&iacute;lias produzem alimentos saud&aacute;veis e resistem &agrave; amea&ccedil;a de despejo / Foto: Coletivo de Comunica&ccedil;&atilde;o da Bahia</figcaption>
 </figure>
 </div>
 
@@ -84,7 +100,7 @@ As persegui&ccedil;&otilde;es chegaram aos per&iacute;metros irrigados do Norte 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG-20191012-WA0043.jpg" height="525" src="//farm66.staticflickr.com/65535/48887155433_8a5ac04164_b.jpg" width="700" />
-<figcaption>Apenas 20% das terras agricult&aacute;veis pertecem aos pequenos produtores, mas isso representa 84% das propriedades rurais./ Foto: Coletivo de Comunica&ccedil;&atilde;o da Bahia</figcaption>
+<figcaption>Apenas 20% das terras agricult&aacute;veis pertecem aos pequenos produtores, mas isso representa 84% das propriedades rurais / Foto: Coletivo de Comunica&ccedil;&atilde;o da Bahia</figcaption>
 </figure>
 </div>
 
@@ -106,7 +122,7 @@ No Brasil, apenas 20% das terras agricult&aacute;veis pertencem aos pequenos pro
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG-20191012-WA0049.jpg" height="700" src="//farm66.staticflickr.com/65535/48887693601_8e71b5680a_b.jpg" width="700" />
-<figcaption>&nbsp;Na agricultura familiar a produ&ccedil;&atilde;o &eacute; diversificada, voltada para o mercado interno e com pouco ou nenhum uso de defensivos agr&iacute;colas./&nbsp;Foto:&nbsp;Coletivo de Comunica&ccedil;&atilde;o da Bahia</figcaption>
+<figcaption>&nbsp;Na agricultura familiar a produ&ccedil;&atilde;o &eacute; diversificada, voltada para o mercado interno e com pouco ou nenhum uso de defensivos agr&iacute;colas /&nbsp;Foto:&nbsp;Coletivo de Comunica&ccedil;&atilde;o da Bahia</figcaption>
 </figure>
 </div>
 
@@ -131,7 +147,7 @@ N&atilde;o podemos esquecer o processo hist&oacute;rico que carrega a agricultur
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG-20191012-WA0042.jpg" height="525" src="//farm66.staticflickr.com/65535/48887871572_0fb8e63f3d_b.jpg" width="700" />
-<figcaption>Em 3.300 hectares de terras agricult&aacute;veis s&atilde;o produzidas 7200 toneladas de alimentos por ano./ Foto:&nbsp;Coletivo de Comunica&ccedil;&atilde;o da Bahia</figcaption>
+<figcaption>Em 3.300 hectares de terras agricult&aacute;veis s&atilde;o produzidas 7200 toneladas de alimentos por ano / Foto:&nbsp;Coletivo de Comunica&ccedil;&atilde;o da Bahia</figcaption>
 </figure>
 </div>
 
