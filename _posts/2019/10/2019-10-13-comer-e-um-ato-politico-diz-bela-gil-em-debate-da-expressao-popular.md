@@ -58,8 +58,8 @@ A quest&atilde;o &eacute; t&atilde;o fundamental que, para ela, &quot;cozinhar &
 <p><br />
 Bela ressaltou a import&acirc;ncia do di&aacute;logo e da constru&ccedil;&atilde;o de um caminho com a participa&ccedil;&atilde;o da sociedade, para que as pessoas voltem a cozinhar mais, mas que o peso n&atilde;o fique sobre as mulheres: &quot;Precisamos dividir e compartilhar esse ato entre todos. Cozinhar n&atilde;o deve ser um ato de uma pessoa s&oacute;, deve ser compartilhado com a sociedade inteira&quot;.</p>
 
-<h2><br />
-Falar de alimenta&ccedil;&atilde;o &eacute; discutir o capitalismo</h2>
+<p><br />
+<strong>Falar de alimenta&ccedil;&atilde;o &eacute; discutir o capitalismo</strong></p>
 
 <p><br />
 O debate foi realizado em homenagem &agrave; pioneira da agroecologia no Brasil, Ana Maria Primavesi, e teve tamb&eacute;m a participa&ccedil;&atilde;o da doutora em Geografia e professora da Universidade de S&atilde;o Paulo (USP) Larissa Bombardi e de Jos&eacute; Maria Tardin, da Frente Nacional de Agroecologia do Movimento dos Trabalhadores Rurais Sem Terra.</p>
@@ -70,8 +70,8 @@ Bombardi apontou a necessidade de falar em um outro projeto de sociedade. &quot;
 <p><br />
 A pesquisadora apontou o protagonismo das mulheres na resist&ecirc;ncia pela agroecologia e seu papel na transforma&ccedil;&atilde;o da sociedade e chamou os homens a participarem tamb&eacute;m desse processo. &quot;Cada uma de n&oacute;s e de n&oacute;s todos somos portadores dessa luta. A soberania come&ccedil;a pela boca&quot;, concluiu.</p>
 
-<h2><br />
-A&ccedil;&atilde;o Liter&aacute;ria</h2>
+<p><br />
+<strong>A&ccedil;&atilde;o Liter&aacute;ria</strong></p>
 
 <p><br />
 Iniciada na &uacute;ltima segunda-feira (7), a A&ccedil;&atilde;o Liter&aacute;ria da Express&atilde;o Popular conta com mais de 70 atividade em 17 estados brasileiros, e vai at&eacute; domingo (13), no Armaz&eacute;m do Campo, que fica na Alameda Eduardo Prado, 499 - Campos El&iacute;seos, S&atilde;o Paulo (SP).</p>
