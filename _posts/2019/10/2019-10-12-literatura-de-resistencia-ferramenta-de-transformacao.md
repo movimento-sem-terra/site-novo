@@ -93,8 +93,8 @@ Da P&aacute;gina do MST</em><br />
 
 <p>&nbsp;</p>
 
-<h2>Literatura: a arte da palavra<br />
-&nbsp;</h2>
+<p><strong>Literatura: a arte da palavra</strong><br />
+&nbsp;</p>
 
 <p>O que seria uma literatura do campo e para o campo? De acordo com o Setor de Educa&ccedil;&atilde;o do MST, partimos da compreens&atilde;o de que literatura &eacute; tudo que &eacute; escrito ou oral com uma organiza&ccedil;&atilde;o espec&iacute;fica, uma forma e um car&aacute;ter liter&aacute;rio/art&iacute;stico que faz uso de uma narrativa como poemas, contos, cr&ocirc;nicas, romances, teatro.<br />
 &nbsp;</p>
@@ -105,8 +105,8 @@ Da P&aacute;gina do MST</em><br />
 <p>No que diz respeito &agrave; produ&ccedil;&atilde;o de literatura em sua forma escrita pelo MST, a Pedagogia do Movimento tem como princ&iacute;pio a dimens&atilde;o formadora da produ&ccedil;&atilde;o de obras, de todas as naturezas, incluindo os textos escritos e entre eles, talvez ainda com menos for&ccedil;a que deveriam ter, os textos liter&aacute;rios.<br />
 &nbsp;</p>
 
-<h2>Express&atilde;o Popular<br />
-&nbsp;</h2>
+<p><strong>Express&atilde;o Popular</strong><br />
+&nbsp;</p>
 
 <p>S&atilde;o muitos os depoimentos que comprovam na pr&aacute;tica a literatura no campo, com destaque ao papel da editora Express&atilde;o Popular na divulga&ccedil;&atilde;o e facilita&ccedil;&atilde;o do acesso aos livros em geral e de literatura em particular. &ldquo;A Express&atilde;o Popular &eacute; parceira neste projeto. Comemorando 20 anos de funda&ccedil;&atilde;o, a editora &eacute; uma das principais parceiras na meta de popularizar a literatura como arte da palavra&rdquo;, lembra Luana Pomm&eacute;, do Setor de Educa&ccedil;&atilde;o do MST.<br />
 &nbsp;</p>
@@ -130,7 +130,7 @@ Desde ent&atilde;o, a Campanha de Literatura tem contado com a editora na promo&
 <p>S&atilde;o v&aacute;rios os t&iacute;tulos que comp&otilde;em esta campanha. Entre eles, o mais recente lan&ccedil;amento do livro de Iemanj&aacute;, da autora Marlene Crespo, que hoje (12) foi contada&nbsp; que hoje (12) foi contada na <a href="https://www.mst.org.br/2019/10/04/acao-literaria-expressao-popular-ocupa-o-armazem-do-campo-sp.html">A&ccedil;&atilde;o Liter&aacute;ria realizada no Armaz&eacute;m do Campo</a>.&nbsp;Por meio de versos e imagens em xilogravura, o livro envolve as crian&ccedil;as na magia e no humanismo da fraqueza e a for&ccedil;a de Iemanj&aacute; no seu desejo de liberta&ccedil;&atilde;o e, como os demais livros, pode ser acessado por v&aacute;rios Sem Terrinha.<br />
 &nbsp;</p>
 
-<h2>Sem Terrinhas</h2>
+<p><strong>Sem Terrinhas</strong></p>
 
 <p><br />
 Com a Jornada Sem Terrinha acontecendo este m&ecirc;s, a Campanha ganha intensidade no debate e enraizamento nosso projeto formativo voltado para inf&acirc;ncia. Para isso, os encontros regionais e estaduais que acontecem por todo o pa&iacute;s impulsionam o debate da inf&acirc;ncia em diversas esferas fundamentais para reafirmar e potencializar no &acirc;mbito da viv&ecirc;ncia da organicidade, da auto-organiza&ccedil;&atilde;o das crian&ccedil;as e da coletividade infantil.<br />
