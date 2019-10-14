@@ -149,8 +149,8 @@ Os bispos presentearam a comunidade com uma pequena imagem da padroeira da capel
 </figure>
 </div>
 
-<h2 dir="ltr"><br />
-Trabalho em mutir&atilde;o</h2>
+<p dir="ltr"><br />
+<strong>Trabalho em mutir&atilde;o</strong></p>
 
 <p dir="ltr"><br />
 O Padre Roberto Cezar atua na Par&oacute;quia de Barbosa Ferraz h&aacute; 8 anos, e desde ent&atilde;o trabalha com a comunidade Irm&atilde; Dorothy. &ldquo;Nesse tempo, n&oacute;s pudemos viver a alegria de ver catequistas, as nossa crian&ccedil;as aqui da comunidade celebrando os sacramentos, recebendo a eucaristia, muitos j&aacute; crismados, at&eacute; casamentos. E hoje n&oacute;s temos a alegria de chegar aqui a esse momento auge dessa vida de comunidade, quando eles, por suas iniciativas, decidiram construir uma capelinha&rdquo;.</p>
@@ -166,8 +166,8 @@ Apesar de ter incentivado a constru&ccedil;&atilde;o da igreja, o Padre refor&cc
 </figure>
 </div>
 
-<h2 dir="ltr"><br />
-Apoio da sociedade</h2>
+<p dir="ltr"><br />
+<strong>Apoio da sociedade</strong></p>
 
 <p dir="ltr"><br />
 A festa de inaugura&ccedil;&atilde;o da igreja contou com a presen&ccedil;a do Reitor da Unespar de Campo Mour&atilde;o, Ant&ocirc;nio Carlos Aleixo, do vice-prefeito de Barbosa Ferraz, Roni Lucindo Filho, de integrantes da APP Sindicato e do Sindicato dos Banc&aacute;rios do Paran&aacute; e de estudantes universit&aacute;rios.</p>
@@ -183,8 +183,8 @@ O deputado estadual Professor Lemos (PT) tamb&eacute;m participou da cerim&ocirc
 </figure>
 </div>
 
-<h2 dir="ltr"><br />
-Hist&oacute;rico da comunidade</h2>
+<p dir="ltr"><br />
+<strong>Hist&oacute;rico da comunidade</strong></p>
 
 <p dir="ltr"><br />
 O acampamento Irm&atilde; Dorothy est&aacute; localizado a seis quil&ocirc;metros da &aacute;rea urbana de Barbosa Ferraz, em uma &aacute;rea tem 415 hectares da fazenda S&atilde;o Paulo. A &aacute;rea estava abandonada e com gado bovino com surto de febre aftosa.</p>
