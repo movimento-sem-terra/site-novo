@@ -155,7 +155,7 @@ Na Vig&iacute;lia Lula Livre, a crian&ccedil;ada come&ccedil;ou o dia escrevendo
 <figure class="wp-block-image" style="box-sizing: inherit; margin: 0px 0px 1em; font-family: Lato, &quot;Helvetica Neue&quot;, sans-serif; max-width: 100%; color: rgb(34, 34, 34); font-size: 16px; text-align: start; background-color: rgb(245, 245, 245);">
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp-Image-2019-10-12-at-09.36.23.jpeg" height="933" src="//farm66.staticflickr.com/65535/48887900611_5938ae3505_b.jpg" width="700" />
-<figcaption>Crian&ccedil;as declaram seu amor a Lula / Reprodu&ccedil;&atilde;o</figcaption>
+<figcaption>Crian&ccedil;as declaram seu amor a Lula / RReprodu&ccedil;&atilde;o</figcaption>
 </figure>
 </div>
 </figure>
