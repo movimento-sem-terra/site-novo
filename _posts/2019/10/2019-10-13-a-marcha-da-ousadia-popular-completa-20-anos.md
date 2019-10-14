@@ -57,8 +57,8 @@ A marcha foi uma iniciativa articulada pela Consulta Popular, organiza&ccedil;&a
 <p itemprop="author" rel="author"><br />
 Ao chegarem em Bras&iacute;lia, milhares de outras pessoas se somaram &agrave; caravana. A Marcha Popular ent&atilde;o deu lugar &agrave; Assembleia dos Lutadores e Lutadoras do Povo, que durou mais dois dias, terminando em 10 de outubro, com a participa&ccedil;&atilde;o de 5 mil pessoas. Foi na Assembleia que se aprovou a &ldquo;Carta aos lutadores do povo&rdquo;, dando ao projeto popular cinco eixos principais: soberania, solidariedade, desenvolvimento, sustentabilidade e democracia popular. Anos mais tarde, a Consulta Popular incluiria tamb&eacute;m a bandeira do feminismo entre os eixos principais do projeto popular.</p>
 
-<h2 itemprop="author" rel="author"><br />
-Atualidade</h2>
+<p itemprop="author" rel="author"><br />
+<strong>Atualidade</strong></p>
 
 <p itemprop="author" rel="author"><br />
 O ano de 1999 guarda algumas semelhan&ccedil;as com o atual momento do pa&iacute;s. O governo de Fernando Henrique Cardoso (PSDB), j&aacute; no seu segundo mandato, enfrentava uma forte crise econ&ocirc;mica e tentava avan&ccedil;ar com uma agenda neoliberal de privatiza&ccedil;&otilde;es e corte de direitos.</p>
@@ -69,8 +69,8 @@ O ano de 1999 guarda algumas semelhan&ccedil;as com o atual momento do pa&iacute
 <p itemprop="author" rel="author"><br />
 Ricardo Gebrim tra&ccedil;a um paralelo entre as conjunturas que separam esses 20 anos, ao refor&ccedil;ar que a ofensiva neoliberal foi retomada. &quot;A marcha tem alguns elementos muito atuais. O governo FHC foi a primeira ofensiva neoliberal, porque agora estamos enfrentando uma segunda, que &eacute; muito mais profunda, e que tenta completar e esgotar o conjunto de privatiza&ccedil;&otilde;es e desmonte de direitos que aquela primeira ofensiva n&atilde;o conseguiu&quot;.</p>
 
-<h2 itemprop="author" rel="author"><br />
-Contato com o povo e pedagogia do exemplo</h2>
+<p itemprop="author" rel="author"><br />
+<strong>Contato com o povo e pedagogia do exemplo</strong></p>
 
 <p itemprop="author" rel="author"><br />
 Por onde a marcha passava, ao longo do seu percurso at&eacute; Bras&iacute;lia, os marchantes se envolviam com as comunidades locais, por meio de reuni&otilde;es, aulas p&uacute;blicas, participa&ccedil;&atilde;o e atos religiosos e c&iacute;vicos. Esse processo de aproxima&ccedil;&atilde;o e desenvolvimento de um trabalho pedag&oacute;gico foi o aspecto mais transformador, na avalia&ccedil;&atilde;o de quem viveu essa experi&ecirc;ncia.</p>
@@ -81,8 +81,8 @@ Por onde a marcha passava, ao longo do seu percurso at&eacute; Bras&iacute;lia, 
 <p itemprop="author" rel="author"><br />
 Ao sair do Rio de Janeiro, a organiza&ccedil;&atilde;o da marcha s&oacute; contava com provis&otilde;es aliment&iacute;cias e de bens essenciais para 15 dias. Foi a solidariedade do povo que garantiu o prosseguimento do grupo. &quot;A gente montava um cronograma de onde a marcha ia chegar e parar. Realmente, a recep&ccedil;&atilde;o da marcha foi estrondosa. O pessoal levava um quilo de arroz [para doar], todo mundo ia para a beira da estrada ver a marcha passando&rdquo;, lembra Diva Braga, da dire&ccedil;&atilde;o nacional da Consulta Popular.</p>
 
-<h2 itemprop="author" rel="author"><br />
-Ousar fazer</h2>
+<p itemprop="author" rel="author"><br />
+<strong>Ousar fazer</strong></p>
 
 <p itemprop="author" rel="author"><br />
 Como legado, a marcha deixou a pedagogia do exemplo, materializada na entrega e abnega&ccedil;&atilde;o dos seus marchantes, que emocionou o povo nas cidades. Para Diva Braga, naquela &eacute;poca tamb&eacute;m havia uma sensa&ccedil;&atilde;o de vazio na esquerda, por conta da derrota ideol&oacute;gica do socialismo.</p>
