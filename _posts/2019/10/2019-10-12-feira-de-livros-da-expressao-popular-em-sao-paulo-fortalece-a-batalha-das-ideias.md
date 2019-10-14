@@ -80,16 +80,16 @@ Duas d&eacute;cadas depois, e com 600 t&iacute;tulos publicados, a editora conti
 <div itemprop="author" rel="author">&ldquo;&Eacute; claro que fica mais dif&iacute;cil de circular nossas ideias e pontos de vista, mas ao mesmo tempo h&aacute; uma curiosidade do p&uacute;blico que tem buscado, por exemplo, conhecer nossas publica&ccedil;&otilde;es sobre Paulo Freire e o Manifesto Comunista; a procura &eacute; grande&rdquo;, relata.<br />
 &nbsp;</div>
 
-<h2>Visitantes<br />
-&nbsp;</h2>
+<p><strong>Visitantes</strong><br />
+&nbsp;</p>
 
 <p>A atriz Chris Couto, que passava pelo Armaz&eacute;m do Campo, aproveitou para visitar a Feira do Livro e reafirmou a import&acirc;ncia de se buscar informa&ccedil;&otilde;es nesse momento de crescimento das a&ccedil;&otilde;es contra a cultura e a educa&ccedil;&atilde;o.&nbsp;&ldquo;O que podemos fazer &eacute; n&atilde;o parar de se informar, estudar e ir atr&aacute;s das informa&ccedil;&otilde;es corretas&rdquo;, disse.</p>
 
 <p><br />
 J&aacute; o educador Paulo In&aacute;cio Alves de Ara&uacute;jo Coelho&nbsp;ressaltou a import&acirc;ncia dos professores estimularem o h&aacute;bito de leitura nos alunos. &ldquo;Eu me preocupo com a falta de est&iacute;mulo por parte dos educadores para fazer com que as crian&ccedil;as, jovens, adolescentes e adultos se interessem por livros. Acredito que seja necess&aacute;rio mais pol&iacute;ticas de incentivo e acesso. Como querem que o povo leia se o pr&oacute;prio educador n&atilde;o estimula?&rdquo;, questiona.</p>
 
-<h2><br />
-&ldquo;Iemanj&aacute;, a deusa do mar&rdquo;</h2>
+<p><br />
+<strong>&ldquo;Iemanj&aacute;, a deusa do mar&rdquo;</strong></p>
 
 <p><br />
 Sobrevivente da ditadura, a artista pl&aacute;stica e autora Marlene Crespo lan&ccedil;ou o livro &ldquo;Iemanj&aacute;, a deusa do mar&rdquo;, durante a A&ccedil;&atilde;o Liter&aacute;ria. &ldquo;Essa edi&ccedil;&atilde;o est&aacute; viva e isso me agrada muito&rdquo;, declarou.</p>
@@ -123,8 +123,8 @@ A pedagoga Inai&aacute; Ara&uacute;jo divertiu e educou crian&ccedil;as narrando
 </figure>
 </div>
 
-<h2><br />
-Livros pelo Brasil</h2>
+<p><br />
+<strong>Livros pelo Brasil</strong></p>
 
 <p><br />
 Iniciada na &uacute;ltima segunda-feira (7), a&nbsp;A&ccedil;&atilde;o Liter&aacute;ria da Express&atilde;o Popular conta com mais de 70 atividade em 17 estados brasileiros, e vai at&eacute;&nbsp;domingo (13), no Armaz&eacute;m do Campo, que fica na&nbsp;Alameda Eduardo Prado, 499 - Campos El&iacute;seos, S&atilde;o Paulo.<br />
