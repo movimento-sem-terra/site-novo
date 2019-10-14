@@ -82,8 +82,8 @@ Foram 11 meses enfrentando situa&ccedil;&atilde;o hostil at&eacute; chegar na Qu
 <p><br />
 Ap&oacute;s ser assassinado Che Guevara foi levado para a pequena cidade de Valle Grande, onde se deu a conhecer ao mundo a noticia do seu assassinato. Durante 30 anos os restos mortais do Che ficaram desaparecidos, somente em 1997, seu corpo foi encontrado aos arredores de um aeroporto militar desativado e foi levado de volta para Cuba, onde repousa junto com outros her&oacute;is cubanos num belo e m&iacute;stico mausol&eacute;u na cidade de Santa Clara.</p>
 
-<h2><br />
-Mi &uacute;nica:</h2>
+<p><br />
+<strong>Mi &uacute;nica:</strong></p>
 
 <p><br />
 &quot;Aprovecho el viaje de un amigo para mandarte estas letras, claro que pod&iacute;an ir por correo, pero a uno le parece m&aacute;s &iacute;ntimo el camino &#39;paraoficial&#39;. Te podr&iacute;a decir que te extra&ntilde;o hasta el punto de perder el sue&ntilde;o, pero s&eacute; que no me creer&iacute;as de manera que me abstengo. Pero hay d&iacute;as en que la morri&ntilde;a avanza incontenible y se posesiona de m&iacute;. En navidad y A&ntilde;o nuevo, sobre todo, no sabes c&oacute;mo extra&ntilde;o tus l&aacute;grimas rituales, bajo un cielo de estrellas nuevas que me recordaba lo poco que le he sacado a la vida en el orden personal [&hellip;].</p>
