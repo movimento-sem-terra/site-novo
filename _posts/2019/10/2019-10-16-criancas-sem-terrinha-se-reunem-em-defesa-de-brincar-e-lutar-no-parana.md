@@ -32,7 +32,7 @@ files:
     title: Wellington Lenon 2.jpg
     $$hashKey: 0CS
 created_date: "2019-10-16T10:49:20-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/04/2019-04-26-mst-repudia-ataques-do-ministro-abraham-weintraub-contra-a-educacao-do-campo.md
   - _posts/2019/07/2019-07-01-movimentos-populares-realizam-ato-em-defesa-da-educacao-em-sao-paulo.md
@@ -65,7 +65,8 @@ Do Brasil de Fato Paran&aacute;&nbsp;</em><br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Wellington Lenon.jpg" height="381" src="//farm66.staticflickr.com/65535/48908185393_70e932ba8e_b.jpg" width="300" />
-<figcaption>Sem Terrinha em Movimento, bBlutar, por Reforma Agr&aacute;ria Popular / Foto:</figcaption>
+<figcaption><em>Brincar, sorrir, lutar, por Reforma Agr&aacute;ria<br />
+Popular. Foto:&nbsp;Wellington Lenon</em></figcaption>
 </figure>
 
 <p>Complementando a fala de Valter, Jeizi Loici Back, tamb&eacute;m integrante do Setor de Educa&ccedil;&atilde;o do MST, lembra que o encontro busca fortalecer tamb&eacute;m a defesa pelo direito que as crian&ccedil;as t&ecirc;m ao l&uacute;dico e ao brincar. &ldquo;Al&eacute;m desse car&aacute;ter de luta, tem o car&aacute;ter da defesa da inf&acirc;ncia, de garantir que as crian&ccedil;as tenham o direito ao l&uacute;dico, ao brincar, que elas possam ter uma inf&acirc;ncia saud&aacute;vel, possam ter acesso &agrave; escola, &agrave; sa&uacute;de&rdquo;, diz.&nbsp;<br />
