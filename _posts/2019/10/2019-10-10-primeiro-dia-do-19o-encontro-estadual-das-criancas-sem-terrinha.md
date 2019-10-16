@@ -4,8 +4,8 @@ tags:
   - tag: sem-terrinha
   - tag: formação
   - tag: educação
-title: "Primeiro dia do 19º Encontro Estadual das Crianças Sem Terrinha\n"
-support_line: "Um dia cheio de diversão dedicado a cerca de 250 educandos\n"
+title: "MST/RS inicia o 19º Encontro Estadual das Crianças Sem Terrinha\n"
+support_line: Primeiro dia de atividades foi cheio de diversão e dedicado a cerca de 250 educandos
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/48876792923_915ed02fa4_b.jpg
 layout: post
@@ -53,7 +53,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_5946.jpg" height="467" src="//farm66.staticflickr.com/65535/48877322001_23bf91806c_b.jpg" width="700" />
-<figcaption>Foto: Tiago Giannichini</figcaption>
+<figcaption><em>Foto: Tiago Giannichini</em></figcaption>
 </figure>
 </div>
 
@@ -62,22 +62,20 @@ releated_posts:
 <p><em>Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p><br />
-<br />
-M&uacute;sica e dan&ccedil;a, foi assim que come&ccedil;ou o primeiro dia do 19&ordm; Encontro Regional das Crian&ccedil;as Sem Terrinha. Educandos e educadores de algumas regi&otilde;es do Rio Grande do Sul se reuniram para o evento no Assentamento Capela em Nova Santa Rita, na regi&atilde;o Metropolitana de Porto Alegre. Al&eacute;m dos mais de 250 Sem Terrinha, tamb&eacute;m foram convidados a participar do dia, crian&ccedil;as da comunidade Cruzeiro da capital.</p>
+M&uacute;sica e dan&ccedil;a, foi assim que come&ccedil;ou o primeiro dia do 19&ordm; Encontro Estadual das Crian&ccedil;as Sem Terrinha. Educandos e educadores de algumas regi&otilde;es do Rio Grande do Sul se reuniram para o evento no Assentamento Capela em Nova Santa Rita, na regi&atilde;o Metropolitana de Porto Alegre. Al&eacute;m dos mais de 250 Sem Terrinha, tamb&eacute;m foram convidados a participar do dia, crian&ccedil;as da comunidade Cruzeiro da capital.</p>
 
 <p><br />
-Marcia Ramos, educadora do Movimento dos Trabalhadores Rurais Sem Terra (MST) do Rio de Janeiro, conversou com as crian&ccedil;as na parte da manh&atilde;. A militante falou sobre a hist&oacute;ria dos Sem Terrinha e contou que o primeiro encontro ocorreu em Porto Alegre no ano de 1998, onde participaram cerca de 100 crian&ccedil;as. Marcia ressaltou ainda a import&acirc;ncia da continuidade da luta das crian&ccedil;as depois de tantos anos. &ldquo;A luta &eacute; feita com arte, m&uacute;sica e muita brincadeira&rdquo; sinaliza.</p>
+Marcia Ramos, educadora do Movimento dos Trabalhadores Rurais Sem Terra (MST) do Rio de Janeiro, conversou com as crian&ccedil;as na parte da manh&atilde;. A militante falou sobre a hist&oacute;ria dos Sem Terrinha e contou que o primeiro encontro ocorreu em Porto Alegre no ano de 1994, onde participaram cerca de 100 crian&ccedil;as. Marcia ressaltou ainda a import&acirc;ncia da continuidade da luta das crian&ccedil;as depois de tantos anos. &ldquo;A luta &eacute; feita com arte, m&uacute;sica e muita brincadeira&rdquo; sinaliza.</p>
 
 <p><br />
 Outro ponto apresentado pela educadora foi a simbologia e os objetivos do MST. A qual lembrou &agrave;s crian&ccedil;as que a luta dos Sem Terra &eacute; por terra, Reforma Agr&aacute;ria - para o campo e a cidade, e por transforma&ccedil;&atilde;o da sociedade em busca de direitos iguais para todos. Tamb&eacute;m enfatizou que ter educa&ccedil;&atilde;o de qualidade no campo &eacute; um direito das crian&ccedil;as. &ldquo;Queremos uma sociedade que as crian&ccedil;as tenham os seus direitos b&aacute;sicos&rdquo; conclui Marcia.</p>
 
-<p>&nbsp;</p>
-
-<p>Na parte da tarde, os Sem Terrinha participaram de algumas oficinas. Elas puderam optar entre: oficina de faixa e painel; confec&ccedil;&atilde;o de cartazes e pirulitos; teatro; interven&ccedil;&atilde;o; capoeira; cantoria e anima&ccedil;&atilde;o; palha&ccedil;os; fotografia; artes diversas; jogos l&oacute;gicos de tabuleiros; fuxico; bruxas negras e turbante; pintura ind&iacute;gena; colar ind&iacute;gena; batucada; stencil; pulseiras e filtro dos sonhos; arte com argila; sucos naturais, cromoterapia e sal temperado.</p>
+<p><br />
+Na parte da tarde, os Sem Terrinha participaram de algumas oficinas. Elas puderam optar entre: oficina de faixa e painel; confec&ccedil;&atilde;o de cartazes e pirulitos; teatro; interven&ccedil;&atilde;o; capoeira; cantoria e anima&ccedil;&atilde;o; palha&ccedil;os; fotografia; artes diversas; jogos l&oacute;gicos de tabuleiros; fuxico; bruxas negras e turbante; pintura ind&iacute;gena; colar ind&iacute;gena; batucada; stencil; pulseiras e filtro dos sonhos; arte com argila; sucos naturais, cromoterapia e sal temperado.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_5929.jpg" height="467" src="//farm66.staticflickr.com/65535/48877519117_1fcf144d9f_b.jpg" width="700" />
-<figcaption>Foto: Tiago Giannichini</figcaption>
+<figcaption><em>Foto: Tiago Giannichini</em></figcaption>
 </figure>
 </div>
 
@@ -92,6 +90,8 @@ A programa&ccedil;&atilde;o dessa edi&ccedil;&atilde;o se estender&aacute; at&ea
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Foto - Tiago Giannichini (1).jpg" height="464" src="//farm66.staticflickr.com/65535/48876794753_c400643ba6_b.jpg" width="700" />
-<figcaption>Foto: Tiago Giannichini</figcaption>
+<figcaption><em>Foto: Tiago Giannichini</em></figcaption>
 </figure>
 </div>
+
+<p>&nbsp;</p>
