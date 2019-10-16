@@ -9,7 +9,7 @@ title: "Após 20 anos de Expressão Popular, que desafios estão colocados na ba
 support_line: Ação Literária resgata trajetória da editora e reúne movimentos e organizações populares
 images_hd: //farm66.staticflickr.com/65535/48892424672_465d1844de_b.jpg
 menu: "educação, cultura e comunicação"
-section: cover
+section: featured-news
 sector: education
 layout: post
 files:
