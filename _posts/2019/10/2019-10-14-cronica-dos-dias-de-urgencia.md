@@ -54,7 +54,7 @@ files:
     title: 1 Ton Cabano.jpeg
     $$hashKey: 0GE
 created_date: "2019-10-14T17:12:03-03:00"
-published: true
+published: false
 releated_posts:
   - _posts/2019/06/2019-06-17-acampamento-do-parana-realiza-primeiro-torneio-de-xadrez.md
   - _posts/2019/07/2019-07-10-mulheres-quilombolas-e-tema-de-exposicao-no-parana.md
@@ -74,10 +74,14 @@ releated_posts:
 Da P&aacute;gina do MST</em></p>
 
 <p><br />
+<em>Assentamento Contestado, S&aacute;bado, 12 de Outubro de 2019.</em></p>
+
+<p><br />
 Jo&atilde;o Cabral de Melo Neto escreveu um poema que poderia ser bordado com linhas de costura das cores do arco-&iacute;ris no tecido desse texto. O poema &eacute; este:<br />
 &nbsp;</p>
 
-<p><em>Tecendo a Manh&atilde;</em></p>
+<p><em>Tecendo a Manh&atilde;</em><br />
+&nbsp;</p>
 
 <p><em>Um galo sozinho n&atilde;o tece uma manh&atilde;:</em></p>
 
@@ -110,27 +114,25 @@ Jo&atilde;o Cabral de Melo Neto escreveu um poema que poderia ser bordado com li
 
 <p><em>A manh&atilde;, toldo de um tecido t&atilde;o a&eacute;reo</em></p>
 
-<p><em>que, tecido, se eleva por si: luz bal&atilde;o.</em></p>
+<p><em>que, tecido, se eleva por si: luz bal&atilde;o.</em><br />
+&nbsp;</p>
 
 <p>&nbsp;</p>
 
-<p>Reivindicado muitas vezes pelos movimentos sociais como um poema-emblema da luta pol&iacute;tica por justi&ccedil;a social e vida digna, plena, o poema de Jo&atilde;o Cabral precisa ser atualizado. Falta incluir no alarido dos galos tecendo a manh&atilde;, o chilrear das gralhas e das ararinhas azuis, das sa&iacute;ras, dos diversos tipos de beija-flores, do pica-pau de cabe&ccedil;a amarela, do vermelho vivo do ti&ecirc;-sangue, dos tucanos de bico-verde, dos sabi&aacute;s, do Jo&atilde;o-de-barro, do azulado tiziu, das corujas-buraqueiras, da rendeira, dos periquitos e das maritacas, dos pardaizinhos e papa-moscas do quintal, dos queros-queros, da jacutinga, do inhambu, da curicaca dos banhados a planar nas alturas, dos jacan&atilde;s, dos irer&ecirc;s, e qui&ccedil;&aacute;s, do arredio e veloz macuquinho-do-brejo, amea&ccedil;ado de extin&ccedil;&atilde;o pelos ideais de Progresso.</p>
-
-<p><br />
-Aves nativas ou apenas sobrevoando a regi&atilde;o da Lapa, onde h&aacute;&nbsp;implanta&ccedil;&atilde;o do sistema de cultivo agroecol&oacute;gico realizado pelo coletivo de fam&iacute;lias de agricultores do assentamento Contestado, do MST, uma refer&ecirc;ncia mundial em agroecologia. Com uma variedade de &aacute;rvores frut&iacute;feras em desenvolvimento e a preserva&ccedil;&atilde;o de remanescentes da floresta da mata atl&acirc;ntica nas proximidades e margens do curso do Rio Igua&ccedil;u, o assentamento tem atra&iacute;do essa maravilha inumer&aacute;vel de cantos e cores da fauna brasileira.</p>
+<p>Reivindicado muitos vezes pelos movimentos sociais como um poema-emblema da luta pol&iacute;tica por justi&ccedil;a social e vida digna, plena, o poema de Jo&atilde;o Cabral precisa ser atualizado. Falta incluir no alarido dos galos tecendo a manh&atilde;, o chilrear das gralhas e das ararinhas azuis, das sa&iacute;ras, dos diversos tipos de beija-flores, do pica-pau de cabe&ccedil;a amarela, do vermelho vivo do ti&ecirc;-sangue, dos tucanos de bico-verde, dos sabi&aacute;s, do Jo&atilde;o-de-barro, do azulado tiziu, das corujas-buraqueiras, da rendeira, dos periquitos e das maritacas, dos pardaizinhos e papa-moscas do quintal, dos queros-queros, da jacutinga, do inhambu, da curicaca dos banhados a planar nas alturas, dos jacan&atilde;s, dos irer&ecirc;s, e qui&ccedil;&aacute;s, do arredio e veloz macuquinho-do-brejo, amea&ccedil;ado de extin&ccedil;&atilde;o pelos ideais de Progresso. Aves nativas ou apenas sobrevoando a regi&atilde;o da Lapa, onde a implanta&ccedil;&atilde;o do sistema de cultivo agroecol&oacute;gico realizado pelo coletivo de fam&iacute;lias de agricultores do assentamento Contestado do MST, uma refer&ecirc;ncia mundial em agroecologia, com uma variedade de &aacute;rvores frut&iacute;feras em desenvolvimento e a preserva&ccedil;&atilde;o de remanescentes da floresta da mata atl&acirc;ntica nas proximidades e margens do curso do Rio Igua&ccedil;u, t&ecirc;m atra&iacute;do essa maravilha inumer&aacute;vel de cantos e cores da fauna brasileira. Esse recanto da natureza, distante apenas 70 Km da capital do Paran&aacute;, com uma variedade de tons de verdes florestais, formou neste s&aacute;bado - dia das crian&ccedil;as e de celebra&ccedil;&atilde;o da festa de Nossa Senhora Aparecida, padroeira do Brasil - um belo dossel de sonhos sobre as cabe&ccedil;as de um coletivo de artistas, arte-educadores e produtores culturais da regi&atilde;o metropolitana de Curitiba que reunidos debaixo das &aacute;rvores foram apresentados ao projeto do Centro Cultural Casar&atilde;o, uma antiga e imponente constru&ccedil;&atilde;o rudimentar de &ldquo;Casa-Grande&rdquo; do per&iacute;odo colonial, adaptada e convertida em um ponto nodal de irradia&ccedil;&atilde;o de Arte e Cultura do Movimento dos Trabalhadores Sem Terra &ndash; para o mundo. Esse encontro teve o objetivo de formar uma rede de apoio, de colabora&ccedil;&atilde;o e de gest&atilde;o compartilhada do Centro Cultural Casar&atilde;o - nestes tempos de urg&ecirc;ncia e resist&ecirc;ncia pol&iacute;tica e afetiva. Este foi o primeiro grande encontro de rede &ndash; articulado em parceria com a Casa da Resist&ecirc;ncia em Curitiba &ndash; entre artistas e educadores para formula&ccedil;&atilde;o de um projeto comum e solid&aacute;rio no campo da cultura enquanto extens&atilde;o de a&ccedil;&otilde;es do MST em parceria com outros coletivos. Estas ramifica&ccedil;&otilde;es crescer&atilde;o como os misc&eacute;lios, como as orqu&iacute;deas, como os frutos da arauc&aacute;ria.&nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="3 Ton Cabano.jpeg" height="215" src="//farm66.staticflickr.com/65535/48899099233_a8707fd6e3_b.jpg" width="300" />
 <figcaption><em>Foto: Ton Cabano</em></figcaption>
 </figure>
 
-<p>Esse recanto da natureza, distante apenas 70 Km da capital do Paran&aacute;, com uma variedade de tons de verdes florestais, formou neste s&aacute;bado - dia das crian&ccedil;as e de celebra&ccedil;&atilde;o da festa de Nossa Senhora Aparecida, padroeira do Brasil - um belo dossel de sonhos sobre as cabe&ccedil;as de um coletivo de artistas, arte-educadores e produtores culturais da regi&atilde;o metropolitana de Curitiba que, reunidos debaixo das &aacute;rvores, foram apresentados ao projeto do Centro Cultural Casar&atilde;o, uma antiga e imponente e constru&ccedil;&atilde;o rudimentar de &ldquo;Casa-Grande&rdquo; do per&iacute;odo colonial, adaptada e convertida em um ponto nodal de irradia&ccedil;&atilde;o de Arte e Cultura do Movimento dos Trabalhadores Sem Terra &ndash; para o mundo.</p>
+<p>
+<style type="text/css">@page { margin: 2cm }
+		p { margin-bottom: 0.21cm }
+		a:link { so-language: zxx }
+</style>
+</p>
 
-<p><br />
-Esse encontro teve o objetivo de formar uma rede de apoio, de colabora&ccedil;&atilde;o e de gest&atilde;o compartilhada do Centro Cultural Casar&atilde;o&nbsp;nestes tempos de urg&ecirc;ncia e resist&ecirc;ncia pol&iacute;tica e afetiva. Este foi o primeiro grande encontro de uma rede articulada de artistas e educadores para formula&ccedil;&atilde;o de um projeto comum e solid&aacute;rio no campo da cultura como extens&atilde;o das a&ccedil;&otilde;es do MST. Suas ramifica&ccedil;&otilde;es cresceram como os mic&eacute;lios, como as orqu&iacute;deas, como os frutos da arauc&aacute;ria.</p>
-
-<p><br />
-Se acrescentamos antes um &ldquo;por&eacute;m&rdquo; ao poema de Jo&atilde;o Cabral de Melo Neto, &eacute; porque a met&aacute;fora viva do galo j&aacute; nos basta para compor a grande cifra da diversidade que abriga agora todas as lutas sociais, de resist&ecirc;ncia pol&iacute;tica e de afirma&ccedil;&atilde;o afetiva formada principalmente pela presen&ccedil;a combativa do g&ecirc;nero feminino. E neste primeiro encontro de articula&ccedil;&atilde;o da rede de arte-educadores prevaleceu a presen&ccedil;a e os enunciados afetivos e pol&iacute;ticos das mulheres. Mulheres-ceramistas, mulheres-desenhistas, mulheres-pintoras, mulheres-bailarinas, mulheres-escritoras, mulheres-da-cena-dram&aacute;tica, mulheres-compositoras, multi-instrumentistas, mulheres-cantoras. Ou simplesmente, o ser mulher em toda a sua plenitude para a gera&ccedil;&atilde;o da vida &ndash; com seus filhos e filhas. As mulheres s&atilde;o as verdadeiras tecel&atilde;s dessa nossa tenda do AMANH&Atilde;. Por&eacute;m, o AMANH&Atilde; &eacute; exatamente AGORA. E &eacute; formado por uma tenda de asas e plumas coloridas de mil aves cantoras.<br />
-&nbsp;</p>
+<p align="justify" style="margin-bottom: 0cm; line-height: 150%">Se acrescentamos antes um &ldquo;por&eacute;m&rdquo; ao poema de Jo&atilde;o Cabral de Melo Neto, &eacute; porque a met&aacute;fora viva do galo j&aacute; <font color="#ff3333">n&atilde;o</font> nos basta para compor a grande cifra da diversidade que abriga agora todas as lutas sociais, de resist&ecirc;ncia pol&iacute;tica e de afirma&ccedil;&atilde;o afetiva formada principalmente pela presen&ccedil;a combativa do g&ecirc;nero feminino. E neste primeiro encontro de articula&ccedil;&atilde;o da rede de arte-educadores prevaleceu a presen&ccedil;a e os enunciados afetivos e pol&iacute;ticos das mulheres. Mulheres-cer&acirc;mistas, mulheres-desenhistas, mulheres-pintoras, mulheres-bailarinas, mulheres-escritoras, mulheres-da-cena-dram&aacute;tica, mulheres-compositoras, multi-instrumentistas, mulheres-cantoras. Ou simplesmente, o ser mulher em toda a sua plenitude para a gera&ccedil;&atilde;o da vida &ndash; com seus filhos e filhas. As mulheres s&atilde;o as verdadeiras tecel&atilde;s dessa nosssa tenda do Amanh&atilde;. Por&eacute;m, o Amanh&atilde; &eacute; exatamente Agora. E &eacute; formado por uma tenda de asas e plumas coloridas de mil aves cantoras.</p>
 
 <figure class="image" style="float:right"><img alt="1 Oruê Brasileiro.jpeg" height="200" src="//farm66.staticflickr.com/65535/48899630181_887a0d1654_b.jpg" width="300" />
 <figcaption><em>Foto: Oru&ecirc; Brasileiro</em></figcaption>
