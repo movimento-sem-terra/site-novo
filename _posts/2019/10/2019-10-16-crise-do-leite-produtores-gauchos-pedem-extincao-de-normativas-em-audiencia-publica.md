@@ -34,7 +34,7 @@ files:
     title: Agricultores de todo o estado participaram da audiência. Foto - Leandro Molina - Divulgação.jpeg
     $$hashKey: 0I0
 created_date: "2019-10-16T12:02:43-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/10/2019-10-03-novas-regras-inviabilizam-a-producao-de-leite-no-pais.md
   - _posts/2019/06/2019-06-13-resistencia-popular-e-a-unica-que-pode-barrar-a-mineracao-no-rs.md
@@ -43,7 +43,11 @@ releated_posts:
   - _posts/2019/10/2019-10-15-produtores-protestam-contra-crise-do-leite-em-porto-alegre.md
 
 ---
-<p>&nbsp;</p>
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Produtores em caminhada no centro de Porto Alegre. Foto - Leandro Molina.jpg" height="449" src="//farm66.staticflickr.com/65535/48908994551_92d2303265_b.jpg" width="700" />
+<figcaption><em>Produtores em caminhada no centro de Porto Alegre. Foto: Leandro Molina</em></figcaption>
+</figure>
+</div>
 
 <p>&nbsp;</p>
 
@@ -95,10 +99,15 @@ O deputado Edegar Pretto argumentou que os produtores n&atilde;o s&atilde;o cont
 Gerv&aacute;sio Plucinski, presidente da Uni&atilde;o Nacional de Cooperativas da Agricultura Familiar e Economia Solid&aacute;ria (Unicafes), ressaltou que os pequenos produtores sempre defenderam a qualidade dos alimentos. No entanto, afirmou que essa quest&atilde;o deve ser uma pol&iacute;tica de Estado. &ldquo;O que a gente v&ecirc; &eacute; o Estado se colocando apenas na condi&ccedil;&atilde;o de punidor. A gente n&atilde;o v&ecirc; uma participa&ccedil;&atilde;o na solu&ccedil;&atilde;o dos problemas que essa pol&iacute;tica tem gerado&rdquo;, avaliou.</p>
 
 <p><br />
-<strong>Outras manifesta&ccedil;&otilde;es</strong></p>
+<strong>Outras manifesta&ccedil;&otilde;es</strong><br />
+&nbsp;</p>
 
-<p><br />
-Segundo Renato Coimbra, secret&aacute;rio da Associa&ccedil;&atilde;o das Pequenas Ind&uacute;strias de Leite (Apil), a estimativa &eacute; que at&eacute; dezembro de 2019 em torno de 23% dos produtores que entregam leite para pequenas ind&uacute;strias de latic&iacute;nios no RS abandonar&atilde;o a atividade.</p>
+<figure class="image" style="float:right"><img alt="Audiência pública na Assembleia Legislativa. Foto - Maiara Rauber - Divulgação.jpeg" height="189" src="//farm66.staticflickr.com/65535/48908465903_d63d40f746_b.jpg" width="300" />
+<figcaption><em>Audiência pública na Assembleia Legislativa<br />
+Foto: Maiara Rauber/Divulgação</em></figcaption>
+</figure>
+
+<p>Segundo Renato Coimbra, secret&aacute;rio da Associa&ccedil;&atilde;o das Pequenas Ind&uacute;strias de Leite (Apil), a estimativa &eacute; que at&eacute; dezembro de 2019 em torno de 23% dos produtores que entregam leite para pequenas ind&uacute;strias de latic&iacute;nios no RS abandonar&atilde;o a atividade.</p>
 
 <p><br />
 Ernesto Krug, diretor do Instituto Ga&uacute;cho do Leite (IGL), explicou que o cen&aacute;rio &eacute; de queda do pre&ccedil;o do litro de leite pago ao produtor e de aumento do custo da produ&ccedil;&atilde;o. Para ele, as instru&ccedil;&otilde;es s&atilde;o uma amea&ccedil;a. Sugeriu criar um plano de aquisi&ccedil;&atilde;o regular e permanente, ao longo do ano, de l&aacute;cteos da agricultura familiar e das cooperativas para os programas sociais do governo.</p>
