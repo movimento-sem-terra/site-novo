@@ -42,6 +42,7 @@ releated_posts:
   - _posts/2019/09/2019-09-13-mst-repudia-despejo-de-50-familias-em-roncador-no-parana.md
   - _posts/2019/09/2019-09-17-projetos-criados-em-escolas-do-campo-sao-destaque-em-feira-cientifica-nacional.md
   - _posts/2019/09/2019-09-26-guardias-e-guardioes-de-sementes-crioulas-partilham-graos-como-forma-de-resistencia.md
+section: featured-news
 
 ---
 <div style="text-align:center">
