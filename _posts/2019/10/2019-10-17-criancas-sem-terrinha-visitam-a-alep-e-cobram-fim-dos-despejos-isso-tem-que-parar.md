@@ -38,7 +38,7 @@ files:
     title: "Sem Terrinha [3] Leandro Taques.jpeg"
     $$hashKey: 05P
 created_date: "2019-10-17T16:18:08-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/10/2019-10-16-criancas-sem-terrinha-se-reunem-em-defesa-de-brincar-e-lutar-no-parana.md
   - _posts/2019/10/2019-10-17-xiii-encontro-estadual-das-criancas-sem-terrinha-reune-400-participantes-no-parana.md
@@ -88,8 +88,9 @@ Cerca de 10 crian&ccedil;as usaram os microfones e a bancada do Plenarinho, trad
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Sem Terrinha [4] Leandro Taques.jpeg" height="200" src="//farm66.staticflickr.com/65535/48915423272_0de725fea1_b.jpg" width="300" />
-<figcaption>&ldquo;&Eacute; muito importante que a gente tenha essa participa&ccedil;&atilde;o e ou&ccedil;a as crian&ccedil;as de fato nas<br />
-demandas que elas trazem&quot; afirmou&nbsp;o defensor p&uacute;blico</figcaption>
+<figcaption><em>&ldquo;&Eacute; muito importante que a gente tenha essa<br />
+participa&ccedil;&atilde;o e ou&ccedil;a as crian&ccedil;as de fato nas<br />
+demandas que elas trazem&quot;&nbsp;</em></figcaption>
 </figure>
 
 <p>&ldquo;Quando me convidaram pra vir aqui eu pensei &ldquo;vamos l&aacute; de novo discutir as pol&iacute;ticas da inf&acirc;ncia sem nenhuma crian&ccedil;a presente. E quando eu cheguei aqui foi uma grat&iacute;ssima surpresa. Eu n&atilde;o conseguia entrar no plen&aacute;rio de tantas crian&ccedil;as presentes&rdquo;, relatou o defensor p&uacute;blico Marcelo Lucena Diniz.&nbsp;<br />
