@@ -50,7 +50,7 @@ section: featured-news
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="36445913384_6795e1b396_o.jpg" height="467" src="//farm66.staticflickr.com/65535/48916579241_74efe399d0_b.jpg" width="700" />
 <figcaption>Luiz&nbsp;Zarref, da coordena&ccedil;&atilde;o nacional do Movimento dos Trabalhadores Rurais Sem Terra<br />
-Divulga&ccedil;&atilde;o MST</figcaption>
+Foto: Barbara Lima</figcaption>
 </figure>
 </div>
 
