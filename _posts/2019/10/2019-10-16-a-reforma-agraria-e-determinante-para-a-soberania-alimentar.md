@@ -10,13 +10,6 @@ menu: reforma agrária
 images_hd: //farm66.staticflickr.com/65535/48913450106_bce40d3cee_b.jpg
 layout: post
 files:
-  - link: //farm66.staticflickr.com/65535/48913645237_35a6bb0b9b_b.jpg
-    original: //farm66.staticflickr.com/65535/48913645237_1ec19e80ee_o.jpg
-    thumbnail: //farm66.staticflickr.com/65535/48913645237_35a6bb0b9b_t.jpg
-    medium: //farm66.staticflickr.com/65535/48913645237_35a6bb0b9b_z.jpg
-    small: //farm66.staticflickr.com/65535/48913645237_35a6bb0b9b_n.jpg
-    title: maxresdefault.jpg
-    $$hashKey: 05P
   - link: //farm66.staticflickr.com/65535/48913656307_c967b2155e_b.jpg
     original: //farm66.staticflickr.com/65535/48913656307_e228659af6_o.jpg
     thumbnail: //farm66.staticflickr.com/65535/48913656307_c967b2155e_t.jpg
@@ -31,13 +24,13 @@ files:
     small: //farm66.staticflickr.com/65535/48913450106_bce40d3cee_n.jpg
     title: Foto-006-Gustavo-Marinho.jpeg
     $$hashKey: 05V
-  - link: //farm66.staticflickr.com/65535/48916391841_f00c63ebed_b.jpg
-    original: //farm66.staticflickr.com/65535/48916391841_8602108c7a_o.jpg
-    thumbnail: //farm66.staticflickr.com/65535/48916391841_f00c63ebed_t.jpg
-    medium: //farm66.staticflickr.com/65535/48916391841_f00c63ebed_z.jpg
-    small: //farm66.staticflickr.com/65535/48916391841_f00c63ebed_n.jpg
-    title: zarref.jpg
-    $$hashKey: 0G6
+  - link: //farm66.staticflickr.com/65535/48916579241_74efe399d0_b.jpg
+    original: //farm66.staticflickr.com/65535/48916579241_fd77f171b5_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48916579241_74efe399d0_t.jpg
+    medium: //farm66.staticflickr.com/65535/48916579241_74efe399d0_z.jpg
+    small: //farm66.staticflickr.com/65535/48916579241_74efe399d0_n.jpg
+    title: 36445913384_6795e1b396_o.jpg
+    $$hashKey: 0S7
 created_date: "2019-10-17T09:52:12-03:00"
 published: true
 releated_posts:
@@ -54,10 +47,8 @@ releated_posts:
 section: featured-news
 
 ---
-<p>&nbsp;</p>
-
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="zarref.jpg" height="394" src="//farm66.staticflickr.com/65535/48916391841_f00c63ebed_b.jpg" width="700" />
+<figure class="image" style="display:inline-block"><img alt="36445913384_6795e1b396_o.jpg" height="467" src="//farm66.staticflickr.com/65535/48916579241_74efe399d0_b.jpg" width="700" />
 <figcaption>Luiz&nbsp;Zarref, da coordena&ccedil;&atilde;o nacional do Movimento dos Trabalhadores Rurais Sem Terra<br />
 Divulga&ccedil;&atilde;o MST</figcaption>
 </figure>
