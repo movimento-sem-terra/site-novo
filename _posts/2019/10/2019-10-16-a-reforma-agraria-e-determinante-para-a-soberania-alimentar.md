@@ -31,6 +31,13 @@ files:
     small: //farm66.staticflickr.com/65535/48913450106_bce40d3cee_n.jpg
     title: Foto-006-Gustavo-Marinho.jpeg
     $$hashKey: 05V
+  - link: //farm66.staticflickr.com/65535/48916391841_f00c63ebed_b.jpg
+    original: //farm66.staticflickr.com/65535/48916391841_8602108c7a_o.jpg
+    thumbnail: //farm66.staticflickr.com/65535/48916391841_f00c63ebed_t.jpg
+    medium: //farm66.staticflickr.com/65535/48916391841_f00c63ebed_z.jpg
+    small: //farm66.staticflickr.com/65535/48916391841_f00c63ebed_n.jpg
+    title: zarref.jpg
+    $$hashKey: 0G6
 created_date: "2019-10-17T09:52:12-03:00"
 published: true
 releated_posts:
@@ -42,12 +49,17 @@ releated_posts:
   - _posts/2019/09/2019-09-13-mst-repudia-despejo-de-50-familias-em-roncador-no-parana.md
   - _posts/2019/09/2019-09-17-projetos-criados-em-escolas-do-campo-sao-destaque-em-feira-cientifica-nacional.md
   - _posts/2019/09/2019-09-26-guardias-e-guardioes-de-sementes-crioulas-partilham-graos-como-forma-de-resistencia.md
+  - _posts/2019/10/2019-10-09-transgenia-e-a-maior-ameaca-a-expansao-e-preservacao-de-sementes-crioulas.md
+  - _posts/2019/10/2019-10-01-artigo-or-a-internet-das-vacas.md
 section: featured-news
 
 ---
+<p>&nbsp;</p>
+
 <div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="maxresdefault.jpg" height="394" src="//farm66.staticflickr.com/65535/48913645237_35a6bb0b9b_b.jpg" width="700" />
-<figcaption>Luiz&nbsp;Zarref, da coordena&ccedil;&atilde;o nacional do Movimento dos Trabalhadores Rurais Sem Terra</figcaption>
+<figure class="image" style="display:inline-block"><img alt="zarref.jpg" height="394" src="//farm66.staticflickr.com/65535/48916391841_f00c63ebed_b.jpg" width="700" />
+<figcaption>Luiz&nbsp;Zarref, da coordena&ccedil;&atilde;o nacional do Movimento dos Trabalhadores Rurais Sem Terra<br />
+Divulga&ccedil;&atilde;o MST</figcaption>
 </figure>
 </div>
 
