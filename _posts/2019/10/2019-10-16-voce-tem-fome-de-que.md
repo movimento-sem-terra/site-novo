@@ -122,7 +122,14 @@ Uma das dicas do Guia &eacute; evitar o consumo de alimentos industrializados em
 <p>1 - Aumento das doen&ccedil;as cr&ocirc;nico degenerativas (diabetes, press&atilde;o alta, obesidade, c&acirc;ncer, depress&atilde;o,&nbsp; dislipidemias, doen&ccedil;as card&iacute;acas);&nbsp;</p>
 
 <p>2 - Aumento das alergias e intoler&acirc;ncias alimentares, doen&ccedil;as respirat&oacute;rias, doen&ccedil;as gastrointestinais, problemas hormonais;<br />
+<br />
 &nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="4.jpg" height="467" src="//farm66.staticflickr.com/65535/48916624252_337174535e_b.jpg" width="700" />
+<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
+</figure>
+</div>
 
 <p><strong>O que pode ser feito?</strong><br />
 &nbsp;</p>
@@ -141,12 +148,6 @@ O enfraquecimento da transmissão de habilidades culinárias entre geraçõe
 
 <p><br />
 A publicidade de alimentos industrializados e ultraprocessados domina os anúncios comerciais de alimentos, frequentemente veicula informações incorretas ou incompletas sobre alimentação e atinge, sobretudo, crianças e jovens. Este ass&eacute;dio da ind&uacute;stria e do capitalismo sobre nossos corpos come&ccedil;a na inf&acirc;ncia com muitos produtos alimentares relacionados a brincadeiras e divers&atilde;o. Precisamos estar conscientes e atentos a este ass&eacute;dio em nossas fam&iacute;lias, escolas, assentamentos, acampamentos.</p>
-
-<div style="text-align:center">
-<figure class="image" style="display:inline-block"><img alt="4.jpg" height="467" src="//farm66.staticflickr.com/65535/48916624252_337174535e_b.jpg" width="700" />
-<figcaption>Divulga&ccedil;&atilde;o MST&nbsp;</figcaption>
-</figure>
-</div>
 
 <p><br />
 <strong>Essa &eacute; uma discuss&atilde;o para todas e todos!</strong></p>
