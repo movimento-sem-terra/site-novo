@@ -4,7 +4,7 @@ tags:
   - tag: reforma-agrária
   - tag: lutas-e-mobilizações
   - tag: homenagem
-title: Sem Terra ocupam a Câmara dos Vereadores de São  Pulo para receber homenagem
+title: Sem Terra ocupam a Câmara dos Vereadores de São  Paulo para receber homenagem
 support_line: "A Salva de Prata, mais alta honraria oferecida a uma instituição pelo Legislativo Paulistano, foi concedida pelo vereador Jair Tatto"
 menu: reforma agrária
 images_hd: //farm66.staticflickr.com/65535/48923148233_961ac9748d_b.jpg
