@@ -5,7 +5,7 @@ tags:
   - tag: formação
   - tag: enff
 title: "“Se não tiver LGBT, não pode ser nossa revolução”"
-support_line: "Durante curso LGBT Sem Terra, mesa debate desafios para a resistência LGBT diante da atual conjuntura."
+support_line: "Durante curso LGBT Sem Terra, mesa debate desafios para a resistência LGBT diante da atual conjuntura"
 menu: direitos humanos
 sector: culture
 images_hd: //farm66.staticflickr.com/65535/48925265988_0fec019e65_b.jpg
@@ -155,7 +155,7 @@ Mas tamb&eacute;m pondera sobre os desafios de estarmos vivendo o avan&ccedil;o 
 <strong>LGBT Sem Terra rumo &agrave; revolu&ccedil;&atilde;o</strong></p>
 
 <p><br />
-Erivan Hil&aacute;rio &eacute; Sem Terra, drag queen, do coletivo LGBT e do setor de Educa&ccedil;&atilde;o. Ele descreve que a luta LGBT como bandeira do MST &eacute; algo recente e foi poss&iacute;vel gra&ccedil;as a ousadia de muitos LGBT&rsquo;s na conviv&ecirc;ncia dentro do Movimento, ocupando diferentes espa&ccedil;os.</p>
+Erivan Hil&aacute;rio &eacute; do coletivo LGBT e do setor de Educa&ccedil;&atilde;o do MST. Ele descreve que a luta LGBT como bandeira do MST &eacute; algo recente e foi poss&iacute;vel gra&ccedil;as a ousadia de muitos LGBT&rsquo;s na conviv&ecirc;ncia dentro do Movimento, ocupando diferentes espa&ccedil;os.</p>
 
 <p><br />
 &ldquo;N&atilde;o aceitando voltar para o arm&aacute;rio e rompendo as cercas. Isso &eacute; resist&ecirc;ncia ativa. &Eacute; n&atilde;o abaixar a cabe&ccedil;a. Devemos fortalecer nossos conhecimentos para transformar a sociedade&rdquo;, descreve.</p>
