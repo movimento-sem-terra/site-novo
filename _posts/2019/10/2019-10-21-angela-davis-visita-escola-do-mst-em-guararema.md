@@ -7,7 +7,7 @@ tags:
 images_hd: //farm66.staticflickr.com/65535/48938333462_f494ca06ff_b.jpg
 menu: lutas e mobilizações
 title: "Angela Davis visita escola do MST em Guararema "
-support_line: "​A atividade, organizada pela Fundação Rosa Luxeburgo, reuniu mulheres de diversas organizações sociais, além de representações políticas e artísticas"
+support_line: "​A atividade, organizada pela Fundação Rosa Luxemburgo, reuniu mulheres de diversas organizações sociais, além de representações políticas e artísticas"
 section: cover
 layout: post
 files:
@@ -56,7 +56,7 @@ A for&ccedil;a&nbsp;de sua presen&ccedil;a&nbsp;&eacute; proporcional &agrave; f
 <p><br />
 Aos 74 anos,&nbsp;essa foi a primeira vez que Davis, considerada umas das mulheres mais importantes do s&eacute;culo 20, esteve na cidade de S&atilde;o Paulo.&nbsp;<br />
 <br />
-A atividade, organizada pela <a href="https://rosalux.org.br/">Funda&ccedil;&atilde;o Rosa Luxeburgo</a>, reuniu mulheres de diversas organiza&ccedil;&otilde;es sociais, al&eacute;m de representa&ccedil;&otilde;es pol&iacute;ticas e art&iacute;sticas.</p>
+A atividade, organizada pela <a href="https://rosalux.org.br/">Funda&ccedil;&atilde;o Rosa Luxemburgo</a>, reuniu mulheres de diversas organiza&ccedil;&otilde;es sociais, al&eacute;m de representa&ccedil;&otilde;es pol&iacute;ticas e art&iacute;sticas.</p>
 
 <p><br />
 Em sua fala&nbsp;Davis falou sobre a constru&ccedil;&atilde;o da igualdade e sobre como esse processo foi constru&iacute;do ao longo dos anos.</p>
@@ -103,7 +103,10 @@ Ativista&nbsp;pelo fim do encarceramento em massa, Angela Davis,&nbsp;que no mes
 Sobre o papel da juventude nos processos de luta,&nbsp;ela&nbsp;reiterou que: &ldquo;os jovens est&atilde;o &agrave; frente das mudan&ccedil;as revolucion&aacute;rias, temos que aprender&nbsp;muito&nbsp;com os jovens.&nbsp;N&atilde;o s&oacute; transmitir valores e experi&ecirc;ncia, mas aprender valores e tamb&eacute;m experienciar essa luta e sua forma org&acirc;nica de organiza&ccedil;&atilde;o. Eu estou muito feliz de ver aqui no Brasil e em outras partes do mundo&nbsp;o impulso da juventude em prol de causas&nbsp;sociais. Essa &eacute; a certeza da continua&ccedil;&atilde;o&rdquo;.&nbsp;</p>
 
 <p><br />
-Ao final de sua fala,&nbsp;Davis&nbsp;ponderou: &ldquo;a&nbsp;situa&ccedil;&atilde;o parece ser muito dif&iacute;cil,&nbsp;vejo&nbsp;muita&nbsp;dor e sofrimento e, por vezes,&nbsp;nos esquecemos de que o&nbsp;maior&nbsp;dom de quem&nbsp;est&aacute;&nbsp;na luta &eacute; que podemos criar beleza e alegria nas adversidades. O que&nbsp;me&nbsp;impressiona&nbsp;n&atilde;o &eacute; a viol&ecirc;ncia&nbsp;com a qual temos que lidar todos os dias,&nbsp;mas&nbsp;a&nbsp;continuidade da luta. N&atilde;o podemos&nbsp;nos esquecer de enxergar&nbsp;a beleza.&nbsp;Muitas vezes&nbsp;ficamos desgostosos, mas n&atilde;o podemos perder&nbsp;de vista a possibilidade de&nbsp;criar alegria na luta.&nbsp;Participei da minha primeira reuni&atilde;o&nbsp;pol&iacute;tica aos&nbsp;10 anos,&nbsp;hoje aos 74,&nbsp;eu&nbsp;garanto que&nbsp;n&atilde;o trocaria&nbsp;meus anos de&nbsp;luta por nada&nbsp;nessa vida.&nbsp;</p>
+Ao final de sua fala,&nbsp;Davis&nbsp;ponderou: &ldquo;a&nbsp;situa&ccedil;&atilde;o parece ser muito dif&iacute;cil,&nbsp;vejo&nbsp;muita&nbsp;dor e sofrimento e, por vezes,&nbsp;nos esquecemos de que o&nbsp;maior&nbsp;dom de quem&nbsp;est&aacute;&nbsp;na luta &eacute; que podemos criar beleza e alegria nas adversidades. O que&nbsp;me&nbsp;impressiona&nbsp;n&atilde;o &eacute; a viol&ecirc;ncia&nbsp;com a qual temos que lidar todos os dias,&nbsp;mas&nbsp;a&nbsp;continuidade da luta. N&atilde;o podemos&nbsp;nos esquecer de enxergar&nbsp;a beleza.&nbsp;Muitas vezes&nbsp;ficamos desgostosos, mas n&atilde;o podemos perder&nbsp;de vista a possibilidade de&nbsp;criar alegria na luta.&nbsp;Participei da minha primeira reuni&atilde;o&nbsp;pol&iacute;tica aos&nbsp;10 anos,&nbsp;hoje aos 75,&nbsp;eu&nbsp;garanto que&nbsp;n&atilde;o trocaria&nbsp;meus anos de&nbsp;luta por nada&nbsp;nessa vida&quot;.&nbsp;</p>
 
 <p><br />
-Em uma li&ccedil;&atilde;o sobre como resistir ao cotidiano, ela afirmou: Estou entusiasmada&nbsp;de&nbsp;que nosso trabalho far&aacute; a diferen&ccedil;a.&nbsp;Pode demorar anos, mas far&aacute;&nbsp;a diferen&ccedil;a.&nbsp;Assim como hoje olhamos o passado e agradecemos&nbsp;todos aqueles que lutaram contra o racismo e contra todas as formas de opress&atilde;o&nbsp;ao longo da hist&oacute;ria,&nbsp;nos agradeceram pelo que estamos fazendo.&nbsp;Poder ser envolver&nbsp;em lutas&nbsp;sociais&nbsp;&eacute; um presente para n&oacute;s, para o mundo e para o futuro&rdquo;,&nbsp;finalizou.</p>
+Em uma li&ccedil;&atilde;o sobre como resistir ao cotidiano, ela afirmou: &quot;Estou entusiasmada&nbsp;de&nbsp;que nosso trabalho far&aacute; a diferen&ccedil;a.&nbsp;Pode demorar anos, mas far&aacute;&nbsp;a diferen&ccedil;a.&nbsp;Assim como hoje olhamos o passado e agradecemos&nbsp;todos aqueles que lutaram contra o racismo e contra todas as formas de opress&atilde;o&nbsp;ao longo da hist&oacute;ria,&nbsp;nos agradecem pelo que estamos fazendo.&nbsp;Poder se&nbsp;envolver&nbsp;em lutas&nbsp;sociais&nbsp;&eacute; um presente para n&oacute;s, para o mundo e para o futuro&rdquo;,&nbsp;finalizou.</p>
+
+<p><br />
+<em>*Editado por Fernanda Alc&acirc;ntara</em></p>
