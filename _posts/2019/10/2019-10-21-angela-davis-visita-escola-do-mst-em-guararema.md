@@ -47,7 +47,6 @@ releated_posts:
 </div>
 
 <p><br />
-<br />
 <em>Por Maura Silva<br />
 Da P&aacute;gina do MST&nbsp;</em></p>
 
@@ -59,9 +58,8 @@ Aos 74 anos,&nbsp;essa foi a primeira vez que Davis, considerada umas das mulher
 <br />
 A atividade, organizada pela <a href="https://rosalux.org.br/">Funda&ccedil;&atilde;o Rosa Luxeburgo</a>, reuniu mulheres de diversas organiza&ccedil;&otilde;es sociais, al&eacute;m de representa&ccedil;&otilde;es pol&iacute;ticas e art&iacute;sticas.</p>
 
-<p>&nbsp;</p>
-
-<p>Em sua fala&nbsp;Davis falou sobre a constru&ccedil;&atilde;o da igualdade e sobre como esse processo foi constru&iacute;do ao longo dos anos.</p>
+<p><br />
+Em sua fala&nbsp;Davis falou sobre a constru&ccedil;&atilde;o da igualdade e sobre como esse processo foi constru&iacute;do ao longo dos anos.</p>
 
 <p><br />
 &ldquo;Por muito tempo o Brasil serviu como um farol de esperan&ccedil;a no que diz respeito &agrave;s lutas sociais, especialmente em fun&ccedil;&atilde;o da lideran&ccedil;a de mulheres negras&rdquo;.&nbsp;</p>
@@ -74,22 +72,21 @@ A atividade, organizada pela <a href="https://rosalux.org.br/">Funda&ccedil;&ati
 
 <p>Esse processo, segundo ela, &ldquo;foi interrompido em 2016 com golpe parlamentar que tirou a ent&atilde;o presidenta Dilma&nbsp;Rousseff&nbsp;do poder&rdquo;.&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>&ldquo;Diante disso eu pergunto: Qual significado da igualdade? Eu acho que esquecemos de nos perguntar como estamos definindo igualdade. De um modo geral, n&atilde;o falamos sobre a forma racista pela qual o padr&atilde;o org&acirc;nico de igualdade perpassa e, principalmente, sobre o que significa para as mulheres alcan&ccedil;arem esse padr&atilde;o? Quem fala sobre igualdade s&atilde;o os homens brancos. Ser&aacute; que isso significa que para alcan&ccedil;armos igualdade deveremos nos tornar homens brancos?&rdquo;.&nbsp;</p>
+<p><br />
+&ldquo;Diante disso eu pergunto: Qual significado da igualdade? Eu acho que esquecemos de nos perguntar como estamos definindo igualdade. De um modo geral, n&atilde;o falamos sobre a forma racista pela qual o padr&atilde;o org&acirc;nico de igualdade perpassa e, principalmente, sobre o que significa para as mulheres alcan&ccedil;arem esse padr&atilde;o? Quem fala sobre igualdade s&atilde;o os homens brancos. Ser&aacute; que isso significa que para alcan&ccedil;armos igualdade deveremos nos tornar homens brancos?&rdquo;.&nbsp;</p>
 
 <p><br />
 Segundo Davis, para mudar esse padr&atilde;o devemos desafiar as estruturas de poder em si: &ldquo;O que aconteceria em nossa sociedade se as mulheres fossem o padr&atilde;o de igualdade vigente? Durante a escravid&atilde;o norte-americana as mulheres negras conduziram as escolas de madrugada dispostas a compartilhar conhecimento. &Eacute; certo que o movimento de direito civis n&atilde;o teria acontecido sem as mulheres nos Estados Unidos, ainda assim, esse trabalho foi e &eacute; invisibilizado&rdquo;.&nbsp;</p>
 
 <p><br />
-Questionada sobre a atual conjuntura, Davis, que preferiu n&atilde;o citar os nomes dos presidentes dos Estados Unidos e do Brasil - &ldquo;porque em algumas culturas dizer certos nomes d&aacute; azar&rdquo; -, falou sobre as poss&iacute;veis sa&iacute;das diante do atual contexto pol&iacute;tico e social enfrentado pelo Brasil.</p>
+Questionada sobre a atual conjuntura, Davis&nbsp;preferiu n&atilde;o citar os nomes dos presidentes dos Estados Unidos e do Brasil&nbsp;&ldquo;porque em algumas culturas dizer certos nomes d&aacute; azar&rdquo;, e falou sobre as poss&iacute;veis sa&iacute;das diante do atual contexto pol&iacute;tico e social enfrentado pelo Brasil.</p>
 
 <p><br />
 &ldquo;As mudan&ccedil;as acontecem como consequ&ecirc;ncia do trabalho que fazemos na base, esse trabalho nos encoraja a pensarmos o futuro de forma diferente. N&oacute;s temos que aprender a reconhecer e dar os parab&eacute;ns para as pessoas que desenvolvem e modificam as formas de pensar. Dentro dessa perspectiva, eu vejo que Marielle Franco - deputada estadual morta a tiros em mar&ccedil;o de 2018 no centro do Rio de Janeiro -, nos ensinou como organizar essas quest&otilde;es. &Agrave; medida que ou&ccedil;o sobre ela eu me sinto triste por n&atilde;o t&ecirc;-la conhecido, mas percebo que seu trabalho impulsionou uma grande quantidade de mudan&ccedil;as. Por isso, acreditem: o trabalho que desenvolvem aqui repercute em todo mundo&rdquo;.&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="WhatsApp Image 2019-10-20 at 13.24.48 (1).jpeg" height="467" src="//farm66.staticflickr.com/65535/48937599763_330bbd79be_b.jpg" width="700" />
-<figcaption>Foto: Douglas Mansur</figcaption>
+<figcaption>Foto: Dowglas Silva</figcaption>
 </figure>
 </div>
 
