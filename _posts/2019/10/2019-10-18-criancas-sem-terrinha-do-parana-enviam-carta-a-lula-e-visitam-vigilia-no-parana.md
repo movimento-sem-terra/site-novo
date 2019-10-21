@@ -4,7 +4,7 @@ tags:
   - tag: lula
   - tag: lula-livre
   - tag: sem-terrinha
-title: "Crianças Sem Terrinha do Paraná enviam carta à Lula e visitam Vigília no Paraná\n\n"
+title: Crianças Sem Terrinha do Paraná enviam carta à Lula e visitam Vigília
 support_line: "Cerca de 400 crianças participam do XIII Encontro Estadual das Crianças Sem Terrinha do Paraná, na região Metropolitana de Curitiba \n\n"
 images_hd: //farm66.staticflickr.com/65535/48918722233_39b618909b_b.jpg
 menu: lutas e mobilizações
