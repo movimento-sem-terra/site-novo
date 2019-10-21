@@ -121,7 +121,7 @@ Para ele, as privatiza&ccedil;&otilde;es de nossas estatais e servi&ccedil;os p&
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="IMG_7727.jpg" height="467" src="//farm66.staticflickr.com/65535/48925239973_6b9bab5197_b.jpg" width="700" />
-<figcaption>Conjuntura reforma necessidade de resist&ecirc;ncia / Foto: Yuri Simeon</figcaption>
+<figcaption>Conjuntura refor&ccedil;a necessidade de resist&ecirc;ncia / Foto: Yuri Simeon</figcaption>
 </figure>
 </div>
 
