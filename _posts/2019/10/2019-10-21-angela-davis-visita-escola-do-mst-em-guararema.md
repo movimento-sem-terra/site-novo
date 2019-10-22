@@ -106,7 +106,12 @@ Sobre o papel da juventude nos processos de luta,&nbsp;ela&nbsp;reiterou que: &l
 Ao final de sua fala,&nbsp;Davis&nbsp;ponderou: &ldquo;a&nbsp;situa&ccedil;&atilde;o parece ser muito dif&iacute;cil,&nbsp;vejo&nbsp;muita&nbsp;dor e sofrimento e, por vezes,&nbsp;nos esquecemos de que o&nbsp;maior&nbsp;dom de quem&nbsp;est&aacute;&nbsp;na luta &eacute; que podemos criar beleza e alegria nas adversidades. O que&nbsp;me&nbsp;impressiona&nbsp;n&atilde;o &eacute; a viol&ecirc;ncia&nbsp;com a qual temos que lidar todos os dias,&nbsp;mas&nbsp;a&nbsp;continuidade da luta. N&atilde;o podemos&nbsp;nos esquecer de enxergar&nbsp;a beleza.&nbsp;Muitas vezes&nbsp;ficamos desgostosos, mas n&atilde;o podemos perder&nbsp;de vista a possibilidade de&nbsp;criar alegria na luta.&nbsp;Participei da minha primeira reuni&atilde;o&nbsp;pol&iacute;tica aos&nbsp;10 anos,&nbsp;hoje aos 75,&nbsp;eu&nbsp;garanto que&nbsp;n&atilde;o trocaria&nbsp;meus anos de&nbsp;luta por nada&nbsp;nessa vida&quot;.&nbsp;</p>
 
 <p><br />
-Em uma li&ccedil;&atilde;o sobre como resistir ao cotidiano, ela afirmou: &quot;Estou entusiasmada&nbsp;de&nbsp;que nosso trabalho far&aacute; a diferen&ccedil;a.&nbsp;Pode demorar anos, mas far&aacute;&nbsp;a diferen&ccedil;a.&nbsp;Assim como hoje olhamos o passado e agradecemos&nbsp;todos aqueles que lutaram contra o racismo e contra todas as formas de opress&atilde;o&nbsp;ao longo da hist&oacute;ria,&nbsp;nos agradecem pelo que estamos fazendo.&nbsp;Poder se&nbsp;envolver&nbsp;em lutas&nbsp;sociais&nbsp;&eacute; um presente para n&oacute;s, para o mundo e para o futuro&rdquo;,&nbsp;finalizou.</p>
+Em uma li&ccedil;&atilde;o sobre como resistir ao cotidiano, ela afirmou: &quot;Estou entusiasmada&nbsp;de&nbsp;que nosso trabalho far&aacute; a diferen&ccedil;a.&nbsp;Pode demorar anos, mas far&aacute;&nbsp;a diferen&ccedil;a.&nbsp;Assim como hoje olhamos o passado e agradecemos&nbsp;todos aqueles que lutaram contra o racismo e contra todas as formas de opress&atilde;o&nbsp;ao longo da hist&oacute;ria,&nbsp;nos agradecem pelo que estamos fazendo.&nbsp;Poder se&nbsp;envolver&nbsp;em lutas&nbsp;sociais&nbsp;&eacute; um presente para n&oacute;s, para o mundo e para o futuro&rdquo;.&nbsp;<br />
+<br />
+Confira a entrevista:</p>
+
+<p><br />
+<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/ZiY2MXZ7yKk" width="640"></iframe></p>
 
 <p><br />
 <em>*Editado por Fernanda Alc&acirc;ntara</em></p>
