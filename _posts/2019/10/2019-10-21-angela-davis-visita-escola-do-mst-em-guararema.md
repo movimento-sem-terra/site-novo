@@ -7,7 +7,7 @@ tags:
 images_hd: //farm66.staticflickr.com/65535/48938333462_f494ca06ff_b.jpg
 menu: lutas e mobilizações
 title: "Angela Davis visita escola do MST em Guararema "
-support_line: "​A atividade, organizada pela Fundação Rosa Luxemburgo, reuniu mulheres de diversas organizações sociais, além de representações políticas e artísticas"
+support_line: "Organizada pela Fundação Rosa Luxemburgo, a atividade reuniu mulheres de diversas organizações sociais e representações políticas e artísticas"
 section: cover
 layout: post
 files:
