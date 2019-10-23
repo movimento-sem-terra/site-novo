@@ -77,9 +77,9 @@ Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Ameaça de Despejo [3].jpeg" height="400" src="//farm66.staticflickr.com/65535/48947688587_0800e5018f_b.jpg" width="300" />
-<figcaption>Caso as fam&iacute;lias n&atilde;o sa&iacute;ssem, o juiz ordenou o<br />
+<figcaption><em>Caso as fam&iacute;lias n&atilde;o sa&iacute;ssem, o juiz ordenou o<br />
 uso de for&ccedil;a policial e desligamento<br />
-da energia el&eacute;trica.&nbsp;<em>Foto: Divulga&ccedil;&atilde;o/ Comunica&ccedil;&atilde;o MST/PR</em></figcaption>
+da energia el&eacute;trica.&nbsp;</em></figcaption>
 </figure>
 
 <p>&ldquo;O sonho da gente &eacute; ter a terra pra construir, pra plantar e produzir. Ter umas vaquinhas pra fazer queijo, leite pra vender. O sonho da gente &eacute; estar na luta pra ter uma vida melhor&rdquo;, refor&ccedil;a Maria Aparecida Lopes, esposa de Dion&iacute;sio, moradora da &aacute;rea h&aacute; 10 anos. Juntos, eles produzem diversidade de alimentos para o consumo pr&oacute;prio e tamb&eacute;m com venda do excedente. Entre os itens produzidos est&aacute; o milho, mandioca, feij&atilde;o e maracuj&aacute;.</p>
