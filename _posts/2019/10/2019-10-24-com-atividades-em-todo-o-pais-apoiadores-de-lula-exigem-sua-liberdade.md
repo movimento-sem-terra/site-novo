@@ -17,7 +17,7 @@ files:
     title: "[221] Aniversário Lula.jpg"
     $$hashKey: "030"
 created_date: "2019-10-24T11:25:09-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/01/2019-01-29-nobel-da-paz-para-lula-tem-500-mil-assinaturas-a-dois-dias-do-encerramento.md
   - _posts/2019/02/2019-02-08-apos-condenacao-injusta-atos-por-lula-livre-acontecem-em-todo-pais.md
@@ -193,38 +193,18 @@ Serra Branca<br />
 Santa Rita<br />
 Santa Luzia<br />
 Juarez T&aacute;vora<br />
-Atividades no exterior<br />
 &nbsp;</p>
 
-<p style="text-align: center;"><strong>NO MUNDO</strong></p>
+<p style="text-align: center;"><strong>ATIVIDADES NO EXTERIOR</strong><br />
+&nbsp;</p>
 
-<p><strong>FRAN&Ccedil;A</strong></p>
-
-<p>25/10 || FEIJOADA DO LULA</p>
+<p><strong>FRAN&Ccedil;A</strong><br />
+<br />
+25/10 || FEIJOADA DO LULA</p>
 
 <p>Paris<br />
 Organizado por Comit&eacute; international pour la solidarit&eacute; avec Lula et la d&eacute;fense de la d&eacute;mocratie<br />
 Saiba mais: <a href="http://facebook.com/events/1331171187052644/" target="_blank">facebook.com/events/1331171187052644/</a></p>
-
-<p><br />
-<strong>ESTADOS UNIDOS</strong></p>
-
-<p>26/10 || FREE LULA RALLY PARTY<br />
-<br />
-Los Angeles<br />
-Organizado por Socialism and Liberation &ndash; Los Angeles<br />
-Saiba mais: https://www.facebook.com/events/493641034550821/<br />
-&nbsp;</p>
-
-<p>26/10 || FREE LULA ART SHOW</p>
-
-<p>Nova York<br />
-Organizado por Alerta-NYC, BRADO -NYC, Voices of Resistance e Mulheres da Resist&ecirc;ncia no Exterior<br />
-Saiba mais: facebook.com/events/2985594591515868/<br />
-&nbsp;</p>
-
-<p>FRAN&Ccedil;A<br />
-&nbsp;</p>
 
 <p>26/10 || LULA DAY &ndash; ESTRASBURGO</p>
 
@@ -233,70 +213,71 @@ Organizado por Comit&ecirc; Lula Livre &ndash; Place Strasbourg<br />
 [Mais informa&ccedil;&otilde;es em breve]<br />
 &nbsp;</p>
 
-<p>27/10 || LULA DAY<br />
-&nbsp;</p>
+<p><strong>ESTADOS UNIDOS</strong></p>
 
-<p>ALEMANHA<br />
-Berlim&nbsp;&nbsp;<br />
-Organizado por Comit&ecirc; Lula Livre Berlim<br />
-Saiba mais: https://www.facebook.com/events/2159207747715977/</p>
-
-<p>Berlim<br />
+<p>26/10 || FREE LULA RALLY PARTY<br />
 <br />
-Organizado por Deutsche Initiative Lula Livre<br />
-Saiba mais: https://www.facebook.com/events/759973164451311/<br />
+Los Angeles<br />
+Organizado por Socialism and Liberation &ndash; Los Angeles<br />
+Saiba mais: <a href="https://www.facebook.com/events/493641034550821/">https://www.facebook.com/events/493641034550821/</a><br />
 &nbsp;</p>
 
-<p>ARGENTINA<br />
+<p>26/10 || FREE LULA ART SHOW</p>
+
+<p>Nova York<br />
+Organizado por Alerta-NYC, BRADO -NYC, Voices of Resistance e Mulheres da Resist&ecirc;ncia no Exterior<br />
+Saiba mais: <a href="http://facebook.com/events/2985594591515868/" target="_blank">facebook.com/events/2985594591515868/</a><br />
+&nbsp;</p>
+
+<p>Orlando<br />
+Organizado por Mulheres da Resist&ecirc;ncia no Exterior<br />
+Evento: <a href="https://www.facebook.com/events/2449431201995655/" target="_blank">https://www.facebook.com/events/2449431201995655/</a><br />
+&nbsp;</p>
+
+<p><strong>ALEMANHA</strong></p>
+
+<p>Berlim&nbsp;&nbsp;<br />
+Organizado por Comit&ecirc; Lula Livre Berlim<br />
+Saiba mais: <a href="https://www.facebook.com/events/2159207747715977/" target="_blank">https://www.facebook.com/events/2159207747715977/</a></p>
+
+<p>Organizado por Deutsche Initiative Lula Livre<br />
+Saiba mais: <a href="https://www.facebook.com/events/759973164451311/" target="_blank">https://www.facebook.com/events/759973164451311/</a><br />
+&nbsp;</p>
+
+<p><strong>ARGENTINA</strong><br />
 <br />
 Buenos Aires&nbsp;<br />
 Organizado por Comit&ecirc; Internacional Lula Livre Zona Norte de Buenos Aires<br />
 [Mais informa&ccedil;&otilde;es em breve]&nbsp;<br />
 &nbsp;</p>
 
-<p>B&Eacute;LGICA<br />
+<p><strong>B&Eacute;LGICA</strong><br />
 Bruxelas&nbsp;<br />
 Organizado por Comit&ecirc; Lula Livre Bruxelas<br />
 [Mais informa&ccedil;&otilde;es em breve]<br />
 &nbsp;</p>
 
-<p>ESPANHA<br />
+<p><strong>ESPANHA</strong><br />
 Madri&nbsp;<br />
 Organizado por Comit&eacute; Lula Libre &ndash; Madrid<br />
-Evento: https://www.facebook.com/events/2502319533379666/<br />
+Evento: <a href="https://www.facebook.com/events/2502319533379666/" target="_blank">https://www.facebook.com/events/2502319533379666/</a><br />
 &nbsp;</p>
 
-<p>FRAN&Ccedil;A<br />
-Paris&nbsp;<br />
-Organizado por Lib&eacute;rez Lula &ndash; Comit&eacute; de Solidarit&eacute; avec Lula et de d&eacute;fense de la d&eacute;mocratie<br />
-[Mais informa&ccedil;&otilde;es em breve]<br />
-&nbsp;</p>
-
-<p>ESTADOS UNIDOS<br />
-Nova Iorque&nbsp;<br />
-Organizado por Brado NY,Alerta NYC e Mulheres da Resist&ecirc;ncia no Exterior<br />
-Evento: https://www.facebook.com/events/789027921547351/<br />
-&nbsp;</p>
-
-<p>Orlando<br />
-Organizado por Mulheres da Resist&ecirc;ncia no Exterior<br />
-Evento: https://www.facebook.com/events/2449431201995655/<br />
-&nbsp;</p>
-
-<p>&Iacute;NDIA<br />
+<p><strong>&Iacute;NDIA</strong><br />
 Bodhgaya&nbsp;<br />
 [Mais informa&ccedil;&otilde;es em breve]&nbsp;<br />
 &nbsp;</p>
 
-<p>IT&Aacute;LIA<br />
-Ravena<br />
+<p><strong>IT&Aacute;LIA</strong></p>
+
+<p>Ravena<br />
 Organizado por Lula Day Page<br />
-Evento: https://www.facebook.com/events/2407458889572686/<br />
+Evento: <a href="https://www.facebook.com/events/2407458889572686/" target="_blank">https://www.facebook.com/events/2407458889572686/</a><br />
 &nbsp;</p>
 
 <p>Roma&nbsp;<br />
 Organizado por Comitato Italiano Lula Livre<br />
-Evento: https://www.facebook.com/events/936006756779085/<br />
+Evento: <a href="https://www.facebook.com/events/936006756779085/" target="_blank">https://www.facebook.com/events/936006756779085/</a><br />
 &nbsp;</p>
 
 <p>Verona<br />
@@ -304,20 +285,22 @@ Organizado por Comit&ecirc; Lula Livre Verona<br />
 [Mais informa&ccedil;&otilde;es em breve]&nbsp;<br />
 &nbsp;</p>
 
-<p>PORTUGAL<br />
-Coimbra<br />
+<p><strong>PORTUGAL</strong></p>
+
+<p>Coimbra<br />
 Organizado por Vozes no Mundo &ndash; Frente Pela Democracia no Brasil<br />
-Evento: https://www.facebook.com/events/1069294606757982/<br />
+Evento: <a href="https://www.facebook.com/events/1069294606757982/">https://www.facebook.com/events/1069294606757982/</a><br />
 &nbsp;</p>
 
-<p>REINO UNIDO<br />
+<p><strong>REINO UNIDO</strong><br />
+<br />
 Londres&nbsp;<br />
 Organizador: Comit&ecirc; Lula Livre UK &ndash; Free Lula<br />
-Evento: https://www.facebook.com/events/380519882898832/<br />
+Evento: <a href="https://www.facebook.com/events/380519882898832/" target="_blank">https://www.facebook.com/events/380519882898832/</a><br />
 &nbsp;</p>
 
 <p>Oxford<br />
 Organizador: Comit&ecirc; Lula Livre England_Oxford &ndash; FreeLula<br />
-Evento: https://www.facebook.com/events/500775907436207/?ti=wa</p>
+Evento: <a href="https://www.facebook.com/events/500775907436207/?ti=wa" target="_blank">https://www.facebook.com/events/500775907436207/?ti=wa</a></p>
 
 <p>&nbsp;</p>
