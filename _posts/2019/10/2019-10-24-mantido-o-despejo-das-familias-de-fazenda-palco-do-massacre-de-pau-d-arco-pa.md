@@ -4,7 +4,7 @@ tags:
   - tag: violência-no-campo
   - tag: pará
   - tag: massacre
-title: "Mantido o despejo das famílias de fazenda palco do Massacre de Pau D’Arco (PA)\n"
+title: Mantido o despejo das famílias de fazenda do massacre de Pau D’Arco (PA)
 support_line: Segunda audiência pública reitera pedido de desocupação da Fazenda Santa Lúcia
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48953473208_d34a6a7402_b.jpg
