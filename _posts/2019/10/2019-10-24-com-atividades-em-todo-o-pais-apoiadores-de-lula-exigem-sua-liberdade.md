@@ -87,14 +87,20 @@ Entre as comemora&ccedil;&otilde;es de anivers&aacute;rio que integram o 6&ordm;
 <strong>Veja a rela&ccedil;&atilde;o de atividades:</strong></p>
 
 <p><br />
-<strong>RIO GRANDE DO SUL: </strong>Porto Alegre<b> </b>&ndash;&nbsp;Atividade na Orla com parab&eacute;ns &ndash; Dia 27, &agrave;s 15h na Orla do Gua&iacute;ba</p>
+<strong>RIO GRANDE DO SUL: </strong></p>
+
+<p>Porto Alegre<b> </b>&ndash;&nbsp;Atividade na Orla com parab&eacute;ns &ndash; Dia 27, &agrave;s 15h na Orla do Gua&iacute;ba</p>
 
 <p><br />
-<strong>PARAN&Aacute;: </strong>Curitiba &ndash; Grande Ato politico com atividades culturais e pol&iacute;ticas na Vig&iacute;lia.<br />
+<strong>PARAN&Aacute;: </strong></p>
+
+<p>Curitiba &ndash; Grande Ato politico com atividades culturais e pol&iacute;ticas na Vig&iacute;lia.<br />
 Almo&ccedil;o no bar da Gilda com caminhada pela boca maldita, dia 26/ 10, &agrave;s 16 horas</p>
 
 <p><br />
-<strong>SANTA CATARINA: </strong>Florian&oacute;polis &ndash; Festival Lula Livre, no dia 27.10 na Pra&ccedil;a da Igreja Matriz</p>
+<strong>SANTA CATARINA: </strong></p>
+
+<p>Florian&oacute;polis &ndash; Festival Lula Livre, no dia 27.10 na Pra&ccedil;a da Igreja Matriz</p>
 
 <p><br />
 <strong>S&Atilde;O PAULO</strong></p>
@@ -123,22 +129,27 @@ Atividade no Cal&ccedil;ad&atilde;o da Penha, no dia 26/10, a partir das 10h. Co
 Barra Mansa &ndash; Festival Lula Livre<br />
 &nbsp;</p>
 
-<p><strong>ESP&Iacute;RITO SANTO:&nbsp;</strong>Vit&oacute;ria &ndash; Atividade festiva com bolo no dia 26.10, &agrave;s 16h , na Pra&ccedil;a Vermelha e no Triplex<br />
+<p><strong>ESP&Iacute;RITO SANTO:&nbsp;</strong></p>
+
+<p>Vit&oacute;ria &ndash; Atividade festiva com bolo no dia 26.10, &agrave;s 16h , na Pra&ccedil;a Vermelha e no Triplex<br />
 &nbsp;</p>
 
-<p><strong>MINAS GERAIS: </strong>Belo Horizonte Festival no Armaz&eacute;m do Campo nos dias 26 e 27/10 Muralismo + onibus para CTBA, no dia 27/10<br />
+<p><strong>MINAS GERAIS: </strong></p>
+
+<p>Belo Horizonte Festival no Armaz&eacute;m do Campo nos dias 26 e 27/10 Muralismo + onibus para CTBA, no dia 27/10<br />
 <br />
 Carreata no dia 27/10, as 10h. Ponto de encontro na Pra&ccedil;a do Papa<br />
 &nbsp;</p>
 
-<p><strong>Distrito Federal</strong>: Caravana para Curitiba<br />
+<p><strong>DF</strong>: Caravana para Curitiba<br />
 <br />
 Samba Lula Livre 27/10 &ndash; a partir das 14h, no Bar do Pardim<br />
 &nbsp;</p>
 
 <p><strong>BAHIA: </strong>Barra MansaSalvador &ndash; Missa na Igreja do Bonfim 27/10, &agrave;s 9h<br />
 <br />
-Carreata Lula livre 27/10, &agrave;s 10 horas. Trajeto: de Campo Grande &agrave; Itapo&atilde;</p>
+Carreata Lula livre 27/10, &agrave;s 10 horas. Trajeto: de Campo Grande &agrave; Itapo&atilde;<br />
+&nbsp;</p>
 
 <p><strong>PERNAMBUCO:</strong><br />
 <br />
@@ -159,19 +170,23 @@ Parab&eacute;ns com Bolo a partir das 16 horas na Av Rio Branco/ Marco Zero<br /
 <p>Camaragibe &ndash; Ato Lula livre, a partir das 16 horas. Concentra&ccedil;&atilde;o na Pra&ccedil;a de Camaragibe<br />
 &nbsp;</p>
 
-<p><strong>FORTALEZA:</strong> Samba da solidariedade, no dia 27/10, a partir das 13h no Cantinho Acad&ecirc;mico Bar<br />
+<p><strong>FORTALEZA:</strong></p>
+
+<p>Samba da solidariedade, no dia 27/10, a partir das 13h no Cantinho Acad&ecirc;mico Bar<br />
 <br />
 Lula Day Atividade no Sepertina Bar e Cultura, no dia 27/10, a partir das 16 horas<br />
 &nbsp;</p>
 
-<p>Barra Mansa &ndash; Festival Lula Livre, no dia 26/10, a partir das 13 horas, na Ponto 7 &ndash; Largo do Capim</p>
+<p><strong>RIO GRANDE DO NORTE: </strong></p>
+
+<p>Mossor&oacute;&nbsp;&nbsp;&ndash; Festival Lula Livre, no dia 26/10, a partir das 13 horas, na Ponto 7 &ndash; Largo do Capim</p>
 
 <p>Natal &ndash; Bolo gigante e ato politico cultural , no dia 27/ 10, a partir das 10 horas na Pra&ccedil;a Central.<br />
 &nbsp;</p>
 
-<p>Para&iacute;ba &ndash; atividades com panfletagens e coleta de assinaturas nas cidades:<br />
-<br />
-Jo&atilde;o Pessoa<br />
+<p><strong>PARA&Iacute;BA:&nbsp;</strong>atividades com panfletagens e coleta de assinaturas nas cidades:</p>
+
+<p>Jo&atilde;o Pessoa<br />
 Campina Grande<br />
 Patos<br />
 Serra Branca<br />
@@ -181,24 +196,22 @@ Juarez T&aacute;vora<br />
 Atividades no exterior<br />
 &nbsp;</p>
 
-<p>FRAN&Ccedil;A<br />
-&nbsp;</p>
+<p style="text-align: center;"><strong>NO MUNDO</strong></p>
 
-<p>25/10 || FEIJOADA DO LULA<br />
-&nbsp;</p>
+<p><strong>FRAN&Ccedil;A</strong></p>
+
+<p>25/10 || FEIJOADA DO LULA</p>
 
 <p>Paris<br />
 Organizado por Comit&eacute; international pour la solidarit&eacute; avec Lula et la d&eacute;fense de la d&eacute;mocratie<br />
-Saiba mais: facebook.com/events/1331171187052644/</p>
+Saiba mais: <a href="http://facebook.com/events/1331171187052644/" target="_blank">facebook.com/events/1331171187052644/</a></p>
 
 <p><br />
-ESTADOS UNIDOS<br />
-&nbsp;</p>
+<strong>ESTADOS UNIDOS</strong></p>
 
 <p>26/10 || FREE LULA RALLY PARTY<br />
-&nbsp;</p>
-
-<p>Los Angeles<br />
+<br />
+Los Angeles<br />
 Organizado por Socialism and Liberation &ndash; Los Angeles<br />
 Saiba mais: https://www.facebook.com/events/493641034550821/<br />
 &nbsp;</p>
