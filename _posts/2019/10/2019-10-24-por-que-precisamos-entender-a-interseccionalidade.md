@@ -52,7 +52,8 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="31139e90-6ffa-4d5a-8241-fc28fafc037f.jpeg" height="505" src="//farm66.staticflickr.com/65535/48952588776_f31c38611f_b.jpg" width="700" />
-<figcaption><em>Maysa Mathias, Erica Malunguinho, Bia Ferreira e Doralyce falam sobre interseccionalidade. Arte: Yuri Simeon</em></figcaption>
+<figcaption><em>Maysa Mathias, Erica Malunguinho, Bia Ferreira e Doralyce falam sobre interseccionalidade.<br />
+Arte: Yuri Simeon</em></figcaption>
 </figure>
 </div>
 
@@ -132,8 +133,8 @@ Pela perspectiva hist&oacute;rica, esta ideia de interseccionalidade vem como a 
 A deputada e educadora Erica Malunguinho foi a primeira mulher trans eleita deputada estadual em S&atilde;o Paulo pelo Partido Socialismo e Liberdade (PSOL), e este marco por si mesmo j&aacute; &eacute; indicativo de que ainda temos muito a conquistar como sociedade se queremos entender melhor a pluralidade das nossas representa&ccedil;&otilde;es.</p>
 
 <figure class="image" style="float:left"><img alt="Erica_Malunguinho.jpg" height="200" src="//farm66.staticflickr.com/65535/48952592541_30ef87a732_b.jpg" width="300" />
-<figcaption><em>Malunguinho se tornou a primeira deputada trans<br />
-da Assembleia Legislativa de S&atilde;o Paulo.<br />
+<figcaption><em>Malunguinho se tornou a primeira deputada<br />
+trans da Assembleia Legislativa de S&atilde;o Paulo.<br />
 Foto: BemTV/ Creative Commons</em></figcaption>
 </figure>
 
@@ -163,7 +164,8 @@ Independente de qual face da identidade observemos, uma coisa &eacute; certa: ao
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="0b1b573c-b3a3-4d98-89f4-309f3792d992.jpeg" height="400" src="//farm66.staticflickr.com/65535/48952591011_94453efa7b_b.jpg" width="600" />
-<figcaption><em>Bia Ferreira e Doralyce traduzem a po&eacute;tica da luta a partir de suas m&uacute;sicas. Foto: Dowglas Silva</em></figcaption>
+<figcaption><em>Bia Ferreira e Doralyce traduzem a po&eacute;tica da luta a partir de suas m&uacute;sicas.<br />
+Foto: Dowglas Silva</em></figcaption>
 </figure>
 </div>
 
