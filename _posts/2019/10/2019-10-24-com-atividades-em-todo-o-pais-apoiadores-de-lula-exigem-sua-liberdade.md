@@ -136,11 +136,11 @@ Carreata no dia 27/10, as 10h. Ponto de encontro na Pra&ccedil;a do Papa<br />
 Samba Lula Livre 27/10 &ndash; a partir das 14h, no Bar do Pardim<br />
 &nbsp;</p>
 
-<p>BAHIA: Barra MansaSalvador &ndash; Missa na Igreja do Bonfim 27/10, &agrave;s 9h<br />
+<p><strong>BAHIA: </strong>Barra MansaSalvador &ndash; Missa na Igreja do Bonfim 27/10, &agrave;s 9h<br />
 <br />
 Carreata Lula livre 27/10, &agrave;s 10 horas. Trajeto: de Campo Grande &agrave; Itapo&atilde;</p>
 
-<p>Pernambuco:<br />
+<p><strong>PERNAMBUCO:</strong><br />
 <br />
 Caet&eacute;s &ndash; A estrela nasceu aqui &ndash; das 8h &agrave;s 12h Celebra&ccedil;ao na Casa de Lula, com ato ecum&ecirc;nico, cultural, pol&iacute;tico. Bolo e Parab&eacute;ns.</p>
 
@@ -159,13 +159,12 @@ Parab&eacute;ns com Bolo a partir das 16 horas na Av Rio Branco/ Marco Zero<br /
 <p>Camaragibe &ndash; Ato Lula livre, a partir das 16 horas. Concentra&ccedil;&atilde;o na Pra&ccedil;a de Camaragibe<br />
 &nbsp;</p>
 
-<p>Fortaleza &ndash; Samba da solidariedade, no dia 27/10, a partir das 13h no Cantinho Acad&ecirc;mico Bar<br />
+<p><strong>FORTALEZA:</strong> Samba da solidariedade, no dia 27/10, a partir das 13h no Cantinho Acad&ecirc;mico Bar<br />
 <br />
-Lula Day Atividade no Sepertina Bar e Cultura, no dia 27/10, a partir das 16horas,<br />
+Lula Day Atividade no Sepertina Bar e Cultura, no dia 27/10, a partir das 16 horas<br />
 &nbsp;</p>
 
-<p>Mossor&oacute; &ndash; Festival Lula Livre, no dia 26/10, a partir das 13 horas, na Ponto 7 &ndash; Largo do Capim<br />
-&nbsp;</p>
+<p>Barra Mansa &ndash; Festival Lula Livre, no dia 26/10, a partir das 13 horas, na Ponto 7 &ndash; Largo do Capim</p>
 
 <p>Natal &ndash; Bolo gigante e ato politico cultural , no dia 27/ 10, a partir das 10 horas na Pra&ccedil;a Central.<br />
 &nbsp;</p>
