@@ -51,7 +51,7 @@ A audi&ecirc;ncia foi acompanhada por aproximadamente 180 trabalhadores/as. A de
 <p>LEIA MAIS: <a href="https://apublica.org/2019/05/dois-anos-do-massacre-de-pau-darco-mandantes-ainda-impunes-e-ameaca-de-despejo/" target="_blank">Dois anos do massacre de Pau D&rsquo;Arco: mandantes ainda impunes e amea&ccedil;a de despejo</a><br />
 &nbsp;</p>
 
-<p>Em seu hist&oacute;rico, essas fam&iacute;lias j&aacute; sofreram diversas viol&ecirc;ncias causadas pelos s&eacute;rios danos sociais, como os dois despejos anteriores e o massacre que ceifou 10 vidas, deixando&nbsp;traumas para os sobreviventes. Os mandantes e os executores do massacre continuam impunes. Despejar as fam&iacute;lias de onde vivem e trabalham &eacute; uma outra forma de viol&ecirc;ncia, que vai causar ainda mais graves danos sociais, pois a terra &eacute; um espa&ccedil;o de vida e de trabalho.</p>
+<p>Em seu hist&oacute;rico, essas fam&iacute;lias j&aacute; sofreram diversas viol&ecirc;ncias e&nbsp;s&eacute;rios danos sociais, como os dois despejos anteriores e o massacre que ceifou 10 vidas, deixando&nbsp;traumas para os sobreviventes. Os mandantes e os executores do massacre continuam impunes. Despejar as fam&iacute;lias de onde vivem e trabalham &eacute; uma outra forma de viol&ecirc;ncia, que vai causar ainda mais graves danos sociais, pois a terra &eacute; um espa&ccedil;o de vida e de trabalho.</p>
 
 <p><br />
 No sul do Par&aacute;, este magistrado em poucos meses j&aacute; determinou o cumprimento de 14 liminares de despejo, atingindo aproximadamente 3.000 fam&iacute;lias. No munic&iacute;pio de Concei&ccedil;&atilde;o do Araguaia, j&aacute; aconteceram despejos nas &aacute;reas Safita e Pau Brasil, desalojando cerca de 90 fam&iacute;lias.</p>
