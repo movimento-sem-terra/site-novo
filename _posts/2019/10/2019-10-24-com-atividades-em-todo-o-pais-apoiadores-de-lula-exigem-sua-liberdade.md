@@ -87,14 +87,14 @@ Entre as comemora&ccedil;&otilde;es de anivers&aacute;rio que integram o 6&ordm;
 <strong>Veja a rela&ccedil;&atilde;o de atividades:</strong></p>
 
 <p><br />
-Porto Alegre<a href="https://rollingstone.uol.com.br/noticia/martin-scorsese-teria-considerado-dirigir-coringa-depois-de-funcao-inicial-como-produtor-entenda/" rel="noopener" target="_blank"><strong>Martin Scorsese</strong></a>Atividade na Orla com parab&eacute;ns &ndash; Dia 27, &agrave;s 15h na Orla do Gua&iacute;ba</p>
+<strong>RIO GRANDE DO SUL: </strong>Porto Alegre<b> </b>&ndash;&nbsp;Atividade na Orla com parab&eacute;ns &ndash; Dia 27, &agrave;s 15h na Orla do Gua&iacute;ba</p>
 
 <p><br />
-Curitiba &ndash; Grande Ato politico com atividades culturais e pol&iacute;ticas na Vig&iacute;lia.<br />
+<strong>PARAN&Aacute;: </strong>Curitiba &ndash; Grande Ato politico com atividades culturais e pol&iacute;ticas na Vig&iacute;lia.<br />
 Almo&ccedil;o no bar da Gilda com caminhada pela boca maldita, dia 26/ 10, &agrave;s 16 horas</p>
 
 <p><br />
-Florian&oacute;polis &ndash; Festival Lula Livre, no dia 27.10 na Pra&ccedil;a da Igreja Matriz</p>
+<strong>SANTA CATARINA: </strong>Florian&oacute;polis &ndash; Festival Lula Livre, no dia 27.10 na Pra&ccedil;a da Igreja Matriz</p>
 
 <p><br />
 <strong>S&Atilde;O PAULO</strong></p>
@@ -114,30 +114,31 @@ Almo&ccedil;o de Anivers&aacute;rio do Lula no Armaz&eacute;m no dia 27/10 &ndas
 <p>Ato em S&atilde;o Bernardo do Campo no dia 26/10, no Partido dos Trabalhadores<br />
 &nbsp;</p>
 
-<p>Rio de Janeiro &ndash; Atividade em Copacabana, no dia 27/10<br />
+<p><strong>RIO DE JANEIRO</strong><br />
+<br />
+Atividade em Copacabana, no dia 27/10<br />
 <br />
 Atividade no Cal&ccedil;ad&atilde;o da Penha, no dia 26/10, a partir das 10h. Concentra&ccedil;&atilde;o na Rua dos Romeiros<br />
 <br />
 Barra Mansa &ndash; Festival Lula Livre<br />
 &nbsp;</p>
 
-<p>Vit&oacute;ria &ndash; Atividade festiva com bolo no dia 26.10, &agrave;s 16h , na Pra&ccedil;a Vermelha e no Triplex<br />
+<p><strong>ESP&Iacute;RITO SANTO:&nbsp;</strong>Vit&oacute;ria &ndash; Atividade festiva com bolo no dia 26.10, &agrave;s 16h , na Pra&ccedil;a Vermelha e no Triplex<br />
 &nbsp;</p>
 
-<p>Belo Horizonte Festival no Armaz&eacute;m do Campo nos dias 26 e 27/10 Muralismo + onibus para CTBA, no dia 27/10<br />
+<p><strong>MINAS GERAIS: </strong>Belo Horizonte Festival no Armaz&eacute;m do Campo nos dias 26 e 27/10 Muralismo + onibus para CTBA, no dia 27/10<br />
 <br />
 Carreata no dia 27/10, as 10h. Ponto de encontro na Pra&ccedil;a do Papa<br />
 &nbsp;</p>
 
-<p>Distrito Federal &ndash; Caravana para Curitiba<br />
+<p><strong>Distrito Federal</strong>: Caravana para Curitiba<br />
 <br />
 Samba Lula Livre 27/10 &ndash; a partir das 14h, no Bar do Pardim<br />
 &nbsp;</p>
 
-<p>Salvador &ndash; Missa na Igreja do Bonfim 27/10, &agrave;s 9h<br />
+<p>BAHIA: Barra MansaSalvador &ndash; Missa na Igreja do Bonfim 27/10, &agrave;s 9h<br />
 <br />
-Carreata Lula livre 27/10, &agrave;s 10 horas. Trajeto: de Campo Grande &agrave; Itapo&atilde;<br />
-&nbsp;</p>
+Carreata Lula livre 27/10, &agrave;s 10 horas. Trajeto: de Campo Grande &agrave; Itapo&atilde;</p>
 
 <p>Pernambuco:<br />
 <br />
