@@ -41,7 +41,13 @@ files:
     $$hashKey: 05C
 created_date: "2019-10-24T11:11:00-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - _posts/2019/03/2019-03-16-pelo-direito-de-viver-primeira-deputada-negra-trans-toma-posse-em-sao-paulo.md
+  - _posts/2019/10/2019-10-03-o-que-os-povos-de-terreiros-tem-a-ver-com-o-debate-de-soberania.md
+  - _posts/2019/08/2019-08-14-marchar-e-um-ato-de-valentia-e-resistencia.md
+  - _posts/2019/09/2019-09-10-saude-coletiva-e-as-praticas-de-cuidados-das-mulheres-sem-terra.md
+  - _posts/2019/09/2019-09-20-mulheres-sem-terra-realizam-ato-em-frente-a-sede-nacional-da-bayer-monsanto.md
+  - _posts/2019/08/2019-08-14-marcha-das-margaridas-toma-as-ruas-de-brasilia.md
 
 ---
 <div style="text-align:center">
