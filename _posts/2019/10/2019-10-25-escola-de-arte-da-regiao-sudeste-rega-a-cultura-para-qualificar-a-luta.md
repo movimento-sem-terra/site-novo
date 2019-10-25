@@ -59,8 +59,8 @@ Da P&aacute;gina do MST</em></p>
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Oficina [2] Agatha Azevedo.jpg" height="200" src="//farm66.staticflickr.com/65535/48958367853_d8d7d56467_b.jpg" width="300" />
-<figcaption><em>Apresenta&ccedil;&atilde;o do coro no Armaz&eacute;m do<br />
-Campo de Belo Horizonte. Foto:&nbsp;&Aacute;gatha Azevedo</em></figcaption>
+<figcaption><em>Apresenta&ccedil;&atilde;o do coro no Armaz&eacute;m do Campo<br />
+de Belo Horizonte. Foto:&nbsp;&Aacute;gatha Azevedo</em></figcaption>
 </figure>
 
 <p>A &ldquo;reconstru&ccedil;&atilde;o humana&rdquo; a que a cantora se refere perpassou todos os momentos, desde os debates at&eacute; os espa&ccedil;os de conv&iacute;vio. Durante o semin&aacute;rio de cultura, o jornalista Jo&atilde;o Paulo Cunha exp&ocirc;s as interven&ccedil;&otilde;es do governo Bolsonaro nas &aacute;reas da arte e da cultura, promovendo, inclusive, mecanismos de censura. Como exemplo, ele citou os comit&ecirc;s instalados nos fundos de cultura da Caixa Econ&ocirc;mica Federal, no qual alguns funcion&aacute;rios se dedicam a selecionar e proibir projetos que apresentem cr&iacute;tica ao governo.<br />
