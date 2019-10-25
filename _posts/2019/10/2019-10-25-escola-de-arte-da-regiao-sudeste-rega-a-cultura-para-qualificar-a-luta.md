@@ -5,7 +5,7 @@ tags:
   - tag: arte-e-cultura
   - tag: música
 title: "Escola de Arte da Região Sudeste rega a cultura para qualificar a luta\n\n"
-support_line: II Escola de Arte da Região Sudeste rega a cultura para qualificar a luta
+support_line: "Foram 13 dias de debates, estudos e oficinas com 60 participantes de Minas, São Paulo, Espírito Santo e Rio de Janeiro."
 menu: "educação, cultura e comunicação"
 images_hd: //farm66.staticflickr.com/65535/48959104692_3ae1451aa3_b.jpg
 layout: post
