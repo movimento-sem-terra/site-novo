@@ -91,7 +91,9 @@ Com um bolo de mais de 5 metros de extens&atilde;o, feito por grupos da economia
 A presidenta do Partido dos Trabalhadores, Gleisi Hoffmann, tamb&eacute;m esteve em Curitiba para felicitar Lula e relembrou seu legado para o pa&iacute;s.</p>
 
 <p><br />
-&ldquo;Lula deixa um dos maiores legados de governo ao povo brasileiro e vai deixar um das maiores legados de resist&ecirc;ncia e coragem ao estar aqui de cabe&ccedil;a erguida e n&atilde;o trocar sua dignidade pela liberdade&rdquo;, afirmou.<br />
+&ldquo;Lula deixa um dos maiores legados de governo ao povo brasileiro e vai deixar um das maiores legados de resist&ecirc;ncia e coragem ao estar aqui de cabe&ccedil;a erguida e n&atilde;o trocar sua dignidade pela liberdade&rdquo;, afirmou.</p>
+
+<p><br />
 Bolo de anivers&aacute;rio para o ex-presidente Luiz In&aacute;cio Lula da Silva durante comemora&ccedil;&atilde;o na Vig&iacute;lia Lula Livre, em frente &agrave; Sede da Pol&iacute;cia Federal onde est&aacute; preso desde abril de 2018.</p>
 
 <figure class="image" style="float:right"><img alt="48969198493_06f4fac36c_o.jpg" height="200" src="//farm66.staticflickr.com/65535/48969984423_e2da21316f_b.jpg" width="300" />
@@ -149,7 +151,7 @@ Em entrevista concedida ao Brasil de Fato, na &uacute;ltima quarta- feira (23). 
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="vifilia2-1024x670.jpeg" height="393" src="//farm66.staticflickr.com/65535/48969984598_d831a024b7_b.jpg" width="600" />
-<figcaption>Bolo, parab&eacute;ns e muito Lula Livre em Curitiba. Foto: Ricardo Stuckert</figcaption>
+<figcaption><em>Bolo, parab&eacute;ns e muito Lula Livre em Curitiba. Foto: Ricardo Stuckert</em></figcaption>
 </figure>
 </div>
 
