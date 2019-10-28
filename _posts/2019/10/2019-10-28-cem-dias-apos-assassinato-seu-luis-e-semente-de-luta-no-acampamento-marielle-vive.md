@@ -40,7 +40,7 @@ files:
     title: "[231] Marielle Vive Foto Vanessa Nicolav.jpg"
     $$hashKey: 0LK
 created_date: "2019-10-28T15:54:42-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/07/2019-07-18-homem-atropela-e-mata-sem-terra-em-valinhos-sp.md
   - _posts/2019/10/2019-10-21-familias-e-amigos-do-mst-realizam-ato-ecumenico-em-memoria-ao-companheiro-keno-no-parana.md
@@ -77,7 +77,7 @@ Do Brasil de Fato</em><br />
 <p>Sentada ao redor de uma mesa localizada entre o seu barraco e os de outros acampados, improvisando uma sala coletiva, ela conta que Lu&iacute;s costumava sentar ali para almo&ccedil;arem juntos. &ldquo;Era assim, como estamos aqui hoje&hellip; O duro &eacute; que n&atilde;o temos mais ele. A falta &eacute; muito grande&rdquo;.<br />
 &nbsp;</p>
 
-<p><img alt="[232] Marielle Vive Foto Vanessa Nicolav.jpg" src="//farm66.staticflickr.com/65535/48976009631_af833a190d_b.jpg" />Assim como Marielle Franco, executada no Rio de Janeiro em 14 mar&ccedil;o de 2018, o pernambucano nascido no sert&atilde;o do Cariri tamb&eacute;m foi assassinado por lutar por direitos e se tornou s&iacute;mbolo.</p>
+<p>Assim como Marielle Franco, executada no Rio de Janeiro em 14 mar&ccedil;o de 2018, o pernambucano nascido no sert&atilde;o do Cariri tamb&eacute;m foi assassinado por lutar por direitos e se tornou s&iacute;mbolo.</p>
 
 <p>&ldquo;Reunimos for&ccedil;a e estamos mais firmes, mesmo com a aus&ecirc;ncia dele. Encontramos for&ccedil;a nisso. N&atilde;o pode ser em v&atilde;o. Ele &eacute; o que inspira mais ainda nossa luta&rdquo;, diz Sueli.<br />
 &nbsp;</p>
@@ -85,8 +85,13 @@ Do Brasil de Fato</em><br />
 <p><strong>Legado</strong><br />
 &nbsp;</p>
 
-<p>Criado um m&ecirc;s ap&oacute;s o assassinato de Marielle, em 14 de abril de 2018, o acampamento que leva o nome da vereadora &eacute; constru&iacute;do coletivamente. Grande parte do que existe hoje contou com a ajuda de seu Lu&iacute;s, que trabalhou como pedreiro por toda a vida.&nbsp;<br />
-&nbsp;</p>
+<figure class="image" style="float:left"><img alt="[230] Marielle Vive Foto Vanessa Nicolav.jpg" height="200" src="//farm66.staticflickr.com/65535/48975459653_2072c8a9fc_b.jpg" width="300" />
+<figcaption><em>Moradores do acampamento reivindicavam<br />
+fornecimento de &aacute;gua quando houve<br />
+o atropelamento. Foto: Vanessa Nicolav</em></figcaption>
+</figure>
+
+<p>Criado um m&ecirc;s ap&oacute;s o assassinato de Marielle, em 14 de abril de 2018, o acampamento que leva o nome da vereadora &eacute; constru&iacute;do coletivamente. Grande parte do que existe hoje contou com a ajuda de seu Lu&iacute;s, que trabalhou como pedreiro por toda a vida.&nbsp;</p>
 
 <p>Segundo o MST, o terreno tem pouco mais de 130 hectares e abriga 2.400 pessoas, mais de mil fam&iacute;lias.&nbsp;</p>
 
@@ -118,7 +123,10 @@ Do Brasil de Fato</em><br />
 <p>&ldquo;Seu Lu&iacute;s representa cada gota de &aacute;gua que vai pra cada um de n&oacute;s aqui. At&eacute; hoje eu n&atilde;o consigo esquecer daquele dia. Ele nunca desistiu e n&oacute;s tamb&eacute;m n&atilde;o vamos desistir. Somos companheiros. &Eacute; um pelo outro&rdquo;.&nbsp;<br />
 &nbsp;</p>
 
-<p><strong>&ldquo;Eu sou guerreiro&rdquo;</strong><br />
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/hA_E7nJNNzA" width="640"></iframe></p>
+
+<p><br />
+<strong>&ldquo;Eu sou guerreiro&rdquo;</strong><br />
 &nbsp;</p>
 
 <p>Pr&oacute;ximo a entrada do acampamento, h&aacute; um espa&ccedil;o com diversas salas onde ocorrem reuni&otilde;es, cirandas, aulas na modalidade Educa&ccedil;&atilde;o de Jovens e Adultos (EJA) e diversas atividades culturais.<br />
@@ -126,8 +134,15 @@ Do Brasil de Fato</em><br />
 
 <p>Era l&aacute; que Lu&iacute;s realizava outro sonho: aprender a escrever. A professora C&iacute;cera Alves Bezerra diz que &ldquo;ele era uma pessoa que realmente queria aprender, n&atilde;o faltava nenhum dia&rdquo;.</p>
 
-<p><br />
-&ldquo;Na v&eacute;spera do acontecido, est&aacute;vamos formando frases com as s&iacute;labas &#39;gue&#39; e &#39;gui&#39;. Jogamos algumas palavras e ele formou a frase: &#39;Eu sou guerreiro&#39;. &#39;Eu vou pra guerra&#39;. E na outro dia veio o acontecido, o assassinato dele. Chocou muito a gente. Quando voltamos aqui pra sala, as frases ainda estavam na lousa. Foi muito emocionante&rdquo;, conta a professora.<br />
+<p>&nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="[233] Marielle Vive Foto Lu Sodré.jpg" height="225" src="//farm66.staticflickr.com/65535/48975459658_c74947ab65_b.jpg" width="300" />
+<figcaption><em>Professora mostra o diploma de Seu Luis,<br />
+que se alfabetizou depois dos<br />
+70 anos. (Foto: Lu Sudr&eacute;)</em></figcaption>
+</figure>
+
+<p>&ldquo;Na v&eacute;spera do acontecido, est&aacute;vamos formando frases com as s&iacute;labas &#39;gue&#39; e &#39;gui&#39;. Jogamos algumas palavras e ele formou a frase: &#39;Eu sou guerreiro&#39;. &#39;Eu vou pra guerra&#39;. E na outro dia veio o acontecido, o assassinato dele. Chocou muito a gente. Quando voltamos aqui pra sala, as frases ainda estavam na lousa. Foi muito emocionante&rdquo;, conta a professora.<br />
 &nbsp;</p>
 
 <p>Assim como outros acampados, o idoso de 72 anos era ensinado pelo m&eacute;todo cubano para alfabetiza&ccedil;&atilde;o de adultos &ldquo;Sim, eu posso&rdquo;.&nbsp;<br />
@@ -136,8 +151,7 @@ Do Brasil de Fato</em><br />
 <p>Na sala de aula, cenas voltam &agrave; cabe&ccedil;a da professora.&nbsp;<br />
 &nbsp;</p>
 
-<p>&ldquo;Todo dia, no fim da aula, fal&aacute;vamos a palavra de ordem: &lsquo;Sim, eu posso ler e escrever. Essa &eacute; uma conquista do MST&rsquo;. E ele n&atilde;o conseguia fazer o ritmo e a gente ria muito. Quando ele estava come&ccedil;ando a ingressar no ritmo, acabava&rdquo;, diz, com um sorriso.&nbsp;<br />
-&nbsp;</p>
+<p>&ldquo;Todo dia, no fim da aula, fal&aacute;vamos a palavra de ordem: &lsquo;Sim, eu posso ler e escrever. Essa &eacute; uma conquista do MST&rsquo;. E ele n&atilde;o conseguia fazer o ritmo e a gente ria muito. Quando ele estava come&ccedil;ando a ingressar no ritmo, acabava&rdquo;, diz, com um sorriso.&nbsp;</p>
 
 <p>O pernambucano semianalfabeto n&atilde;o poderia imaginar que sua for&ccedil;a e dedica&ccedil;&atilde;o seriam eternizadas no Marielle Vive. O local que ajudou a construir e onde aprendeu a escrever seu nome passar&aacute; por melhorias e se chamar&aacute; Escola Popular Lu&iacute;s Ferreira. A inaugura&ccedil;&atilde;o est&aacute; prevista para 2 de novembro, com a presen&ccedil;a de Monica Ben&iacute;cio, vi&uacute;va de Marielle.&nbsp;<br />
 &nbsp;</p>
@@ -162,6 +176,11 @@ Do Brasil de Fato</em><br />
 <p><br />
 A Frente de Cultura e Esporte, coordenada pelos jovens do acampamento, garante atividades para todos os moradores. A futura Escola Popular Lu&iacute;s Ferreira recebe aulas de m&uacute;sicas, aulas de capoeira e yoga. No &ldquo;campinho&rdquo; do acampamento, acontece o futebol.&nbsp;<br />
 &nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="[232] Marielle Vive Foto Vanessa Nicolav.jpg" height="200" src="//farm66.staticflickr.com/65535/48976009631_af833a190d_b.jpg" width="300" />
+<figcaption><em>Entrada do acampamento onde&nbsp;Seu<br />
+Lu&iacute;s fez hist&oacute;ria. (Foto: Vanessa Nicolav)</em></figcaption>
+</figure>
 
 <p>&ldquo;Aqui todo mundo entra de uma forma e sai de outra. N&atilde;o estamos aqui ocupando por ocupar&rdquo;, ressalta Sara Juliana, uma das coordenadoras da frente cultural.&nbsp;<br />
 &nbsp;</p>
