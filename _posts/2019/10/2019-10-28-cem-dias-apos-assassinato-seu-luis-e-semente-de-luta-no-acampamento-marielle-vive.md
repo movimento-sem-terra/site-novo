@@ -6,7 +6,7 @@ tags:
   - tag: são-paulo
   - tag: acampamento-marielle-vive
 title: "Cem dias após assassinato, Seu Luís é semente de luta no acampamento Marielle Vive"
-support_line: "Companheiros de militância em Valinhos (SP) exaltam memória do sem-terra, vítima de atropelamento criminoso em julho"
+support_line: "Companheiros de militância em Valinhos (SP) exaltam memória do Sem Terra, vítima de atropelamento criminoso em julho"
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/48975459653_2072c8a9fc_b.jpg
 layout: post
@@ -91,7 +91,8 @@ fornecimento de &aacute;gua quando houve<br />
 o atropelamento. Foto: Vanessa Nicolav</em></figcaption>
 </figure>
 
-<p>Criado um m&ecirc;s ap&oacute;s o assassinato de Marielle, em 14 de abril de 2018, o acampamento que leva o nome da vereadora &eacute; constru&iacute;do coletivamente. Grande parte do que existe hoje contou com a ajuda de seu Lu&iacute;s, que trabalhou como pedreiro por toda a vida.&nbsp;</p>
+<p>Criado um m&ecirc;s ap&oacute;s o assassinato de Marielle, em 14 de abril de 2018, o acampamento que leva o nome da vereadora &eacute; constru&iacute;do coletivamente. Grande parte do que existe hoje contou com a ajuda de seu Lu&iacute;s, que trabalhou como pedreiro por toda a vida.&nbsp;<br />
+&nbsp;</p>
 
 <p>Segundo o MST, o terreno tem pouco mais de 130 hectares e abriga 2.400 pessoas, mais de mil fam&iacute;lias.&nbsp;</p>
 
@@ -162,7 +163,7 @@ que se alfabetizou depois dos<br />
 <p><strong>Muito al&eacute;m da terra</strong><br />
 &nbsp;</p>
 
-<p>Em um ano e seis meses de ocupa&ccedil;&atilde;o, os sem-terra conseguiram desenvolver dezenas de atividades coletivas que v&atilde;o al&eacute;m da produ&ccedil;&atilde;o agroecol&oacute;gica e sem veneno. No Marielle Vive h&aacute; espa&ccedil;o para auto-organiza&ccedil;&atilde;o LGBT, auto-organiza&ccedil;&atilde;o de mulheres, grupos culturais, discuss&otilde;es pol&iacute;ticas e atividades l&uacute;dicas para as crian&ccedil;as.<br />
+<p>Em um ano e seis meses de ocupa&ccedil;&atilde;o, os Sem Terra conseguiram desenvolver dezenas de atividades coletivas que v&atilde;o al&eacute;m da produ&ccedil;&atilde;o agroecol&oacute;gica e sem veneno. No Marielle Vive h&aacute; espa&ccedil;o para auto-organiza&ccedil;&atilde;o LGBT, auto-organiza&ccedil;&atilde;o de mulheres, grupos culturais, discuss&otilde;es pol&iacute;ticas e atividades l&uacute;dicas para as crian&ccedil;as.<br />
 &nbsp;</p>
 
 <p>Luciano Pereira da Silva, por exemplo, &eacute; um dos coordenadores da frente LGBT do acampamento. Ele se orgulha de seu barraco, constru&iacute;do com muito esfor&ccedil;o desde o in&iacute;cio da ocupa&ccedil;&atilde;o, onde h&aacute; plantas e flores por todos os lados.&nbsp;<br />
@@ -221,7 +222,7 @@ Lu&iacute;s fez hist&oacute;ria. (Foto: Vanessa Nicolav)</em></figcaption>
 <p>Em agosto deste ano, o Conselho Estadual de Defesa de Direitos da Pessoa Humana (Condepe) publicou um parecer que registrou as den&uacute;ncias afirmadas &agrave; reportagem do Brasil de Fato. Mesmo ap&oacute;s o posicionamento do &oacute;rg&atilde;o, os abusos teriam continuado.<br />
 &nbsp;</p>
 
-<p>Na vis&atilde;o de Patr&iacute;cia Maria, a for&ccedil;a para que os sem-terra continuem a resistir em Valinhos &eacute; tamb&eacute;m fomentada pela esperan&ccedil;a.&nbsp;<br />
+<p>Na vis&atilde;o de Patr&iacute;cia Maria, a for&ccedil;a para que os Sem Terra continuem a resistir em Valinhos &eacute; tamb&eacute;m fomentada pela esperan&ccedil;a.&nbsp;<br />
 &nbsp;</p>
 
 <p>&ldquo;Temos a esperan&ccedil;a de mudan&ccedil;a. A esperan&ccedil;a de que as pessoas tenham direito &agrave; terra, que consigamos um dia, nesse pa&iacute;s, fazer reforma agr&aacute;ria e as transforma&ccedil;&otilde;es sociais necess&aacute;rias para um Brasil mais justo. A Marielle, em v&aacute;rios momentos, nos deu essa for&ccedil;a. Todos nossos trabalhadores tombados&hellip; Mas o seu Lu&iacute;s tamb&eacute;m&rdquo;, diz, entre l&aacute;grimas.<br />
