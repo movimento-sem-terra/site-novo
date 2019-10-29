@@ -109,8 +109,7 @@ Foto:&nbsp;Andreas Matheus/ Comunica&ccedil;&atilde;o MST-SP</em></figcaption>
 <p>Como prepara&ccedil;&atilde;o dessas &ldquo;a&ccedil;&otilde;es&rdquo;, as crian&ccedil;as participaram de diversas oficinas relacionadas ao tema do meio ambiente, como prepara&ccedil;&atilde;o de iscas para abelhas sem ferr&atilde;o (as conhecidas Jata&iacute;), minhoc&aacute;rio, sabonetes fitoter&aacute;picos (que foram distribu&iacute;dos a todos os participantes do encontro), constru&ccedil;&atilde;o de placas de identifica&ccedil;&atilde;o e conscientiza&ccedil;&atilde;o e teatro (com o tema da preserva&ccedil;&atilde;o da natureza).<br />
 &nbsp;</p>
 
-<p>Ao final da atividade foram plantadas mudas de &aacute;rvores nativas e ornamentais dando in&iacute;cio &agrave; constru&ccedil;&atilde;o do &ldquo;Bosque dos Sem Terrinha&rdquo;.<br />
-&nbsp;</p>
+<p>Ao final da atividade foram plantadas mudas de &aacute;rvores nativas e ornamentais dando in&iacute;cio &agrave; constru&ccedil;&atilde;o do &ldquo;Bosque das Crian&ccedil;as Sem Terrinha&rdquo;.</p>
 
 <p><strong>Educa&ccedil;&atilde;o do Campo</strong><br />
 &nbsp;</p>
