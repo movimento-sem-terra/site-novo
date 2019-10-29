@@ -25,13 +25,6 @@ files:
     small: //farm66.staticflickr.com/65535/48981070883_24c1d6117f_n.jpg
     title: 06.jpeg
     $$hashKey: 08O
-  - link: //farm66.staticflickr.com/65535/48981070888_4e9e3b6629_b.jpg
-    original: //farm66.staticflickr.com/65535/48981070888_64599ea34c_o.jpg
-    thumbnail: //farm66.staticflickr.com/65535/48981070888_4e9e3b6629_t.jpg
-    medium: //farm66.staticflickr.com/65535/48981070888_4e9e3b6629_z.jpg
-    small: //farm66.staticflickr.com/65535/48981070888_4e9e3b6629_n.jpg
-    title: 07.jpeg
-    $$hashKey: 08R
   - link: //farm66.staticflickr.com/65535/48981628931_8d8a79a158_b.jpg
     original: //farm66.staticflickr.com/65535/48981628931_4ba23c882d_o.jpg
     thumbnail: //farm66.staticflickr.com/65535/48981628931_8d8a79a158_t.jpg
@@ -75,8 +68,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="01.jpeg" height="465" src="//farm66.staticflickr.com/65535/48981628951_e46b6f4a76_b.jpg" width="700" />
-<figcaption><em>Fotos hist&oacute;ricas de arquivo cedidas pelo MST: fot&oacute;grafos Karine Emerich e Jos&eacute; Leal</em><br />
-</figcaption>
+<figcaption><em>Fotos hist&oacute;ricas de arquivo cedidas pelo MST: fot&oacute;grafos Karine Emerich e Jos&eacute; Leal</em></figcaption>
 </figure>
 </div>
 
@@ -129,9 +121,14 @@ Conforme a doutora Simone Lopes Dickel, que pesquisou o impasse jur&iacute;dico 
 
 <p><strong>Noite de Lua Cheia</strong></p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="04.jpeg" height="463" src="//farm66.staticflickr.com/65535/48981070868_573cda2949_b.jpg" width="700" />
+<figcaption><em>Fotos hist&oacute;ricas de arquivo cedidas pelo MST: fot&oacute;grafos Karine Emerich e Jos&eacute; Leal</em></figcaption>
+</figure>
+</div>
+
 <p><br />
-Noite de lua cheia, 29 de outubro de 1985. A ocupa&ccedil;&atilde;o da fazenda se daria entre 4h30 e 6h. Eram dois locais de encontro: um perto da Annoni e outro entre a comunidade de Encruzilhada Natalino e Sarandi. Pouco antes da uma da madrugada naquela ter&ccedil;a-feira, o rapazote de nome Marli Castro, de 29 anos, partiu num dos caminh&otilde;es lonados para varar a madrugada na estrada at&eacute; uma encruzilhada nas voltas da Annoni. A ca&ccedil;amba apinhada de gente (e de v&iacute;veres) balan&ccedil;ava como um navio na tempestade.<br />
-&nbsp;</p>
+Noite de lua cheia, 29 de outubro de 1985. A ocupa&ccedil;&atilde;o da fazenda se daria entre 4h30 e 6h. Eram dois locais de encontro: um perto da Annoni e outro entre a comunidade de Encruzilhada Natalino e Sarandi. Pouco antes da uma da madrugada naquela ter&ccedil;a-feira, o rapazote de nome Marli Castro, de 29 anos, partiu num dos caminh&otilde;es lonados para varar a madrugada na estrada at&eacute; uma encruzilhada nas voltas da Annoni. A ca&ccedil;amba apinhada de gente (e de v&iacute;veres) balan&ccedil;ava como um navio na tempestade.</p>
 
 <p>Um grupo de 60 fam&iacute;lias sa&iacute;a de Tenente Portela, tr&ecirc;s horas de viagem, escondido sob as coberturas dos ve&iacute;culos. Alguns trechos de &ldquo;picada&rdquo; sem ligar os far&oacute;is. O ve&iacute;culo desviava por dentro de lavouras. Havia c&oacute;digos para todos os ve&iacute;culos se reconhecerem na escurid&atilde;o: tr&ecirc;s sinais de luz para identificar quem era &ldquo;companheiro&rdquo;. Ramos verdes pelo caminho sinalizando que estavam perto, no caminho certo. &Agrave;s duas horas seria desencadeada a a&ccedil;&atilde;o surpresa que mudaria a posse do &ldquo;latif&uacute;ndio&rdquo;.<br />
 &nbsp;</p>
@@ -140,6 +137,12 @@ Noite de lua cheia, 29 de outubro de 1985. A ocupa&ccedil;&atilde;o da fazenda s
 
 <p>Foi o ano em que as primeiras fam&iacute;lias foram oficialmente assentadas nas terras da Fazenda Annoni pelo Instituto Nacional da Reforma Agr&aacute;ria, o INCRA. Dos 450 que receberam lotes, 423 mant&eacute;m atividade rural na &aacute;rea.<br />
 &nbsp;</p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="05.jpeg" height="465" src="//farm66.staticflickr.com/65535/48981628931_8d8a79a158_b.jpg" width="700" />
+<figcaption><em>Fotos hist&oacute;ricas de arquivo cedidas pelo MST: fot&oacute;grafos Karine Emerich e Jos&eacute; Leal</em></figcaption>
+</figure>
+</div>
 
 <p><strong>Um peda&ccedil;o de terra, uma chance de vida</strong><br />
 &nbsp;</p>
@@ -152,9 +155,14 @@ Noite de lua cheia, 29 de outubro de 1985. A ocupa&ccedil;&atilde;o da fazenda s
 
 <p><strong>Marcas da terra</strong></p>
 
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="06.jpeg" height="465" src="//farm66.staticflickr.com/65535/48981070883_24c1d6117f_b.jpg" width="700" />
+<figcaption><em>Fotos hist&oacute;ricas de arquivo cedidas pelo MST: fot&oacute;grafos Karine Emerich e Jos&eacute; Leal</em></figcaption>
+</figure>
+</div>
+
 <p><br />
-Geni Reginaldo de Mattos, 80, &eacute; uma vov&oacute; que cozinha bem e cuida com amor do marido, Euclides de Mattos, 83, acamado em decorr&ecirc;ncia do Alzheimer. Os olhos azuis ainda guardam o passado de luta pela terra. Aos 10, ela come&ccedil;ou na ro&ccedil;a. O casal esteve na Annoni em 1985 e conquistou o direito de um peda&ccedil;o de ch&atilde;o anos depois.<br />
-&nbsp;</p>
+Geni Reginaldo de Mattos, 80, &eacute; uma vov&oacute; que cozinha bem e cuida com amor do marido, Euclides de Mattos, 83, acamado em decorr&ecirc;ncia do Alzheimer. Os olhos azuis ainda guardam o passado de luta pela terra. Aos 10, ela come&ccedil;ou na ro&ccedil;a. O casal esteve na Annoni em 1985 e conquistou o direito de um peda&ccedil;o de ch&atilde;o anos depois.</p>
 
 <p><em>*&nbsp;Fotos de Paulo Pires e texto de Jeison Karnal (jeison.karnal@gmail.com)</em></p>
 
