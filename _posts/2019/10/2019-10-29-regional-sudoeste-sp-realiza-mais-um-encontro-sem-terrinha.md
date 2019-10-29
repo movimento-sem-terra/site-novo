@@ -46,7 +46,7 @@ files:
     title: Luiz Valcazaras.jpeg
     $$hashKey: 0BR
 created_date: "2019-10-29T17:50:20-03:00"
-published: false
+published: true
 releated_posts:
   - _posts/2019/10/2019-10-12-4-encontro-regional-das-criancas-sem-terra-regional-vale-do-rio-doce-mg.md
   - _posts/2019/10/2019-10-13-criancas-sem-terrinhas-se-encontram-no-assentamento-conquista-dos-palmares-em-sc.md
@@ -83,14 +83,14 @@ Foto:&nbsp;Andreas Matheus/ Comunica&ccedil;&atilde;o MST-SP</em></figcaption>
 <p>Participaram da atividade crian&ccedil;as das escolas localizadas no Assentamento Pirituba EM Franco Montoro e EM Terezinha de Moura Rodrigues Gomes (Agrovila 1) e EE. Agrovila III (Agrovila 3), as escolas EE. Engenheiro Maia I e Engenheiro Maia II, localizadas no bairro Engenheiro Maia (Itaber&aacute;), EM do Campo Messias Sodr&eacute;, situada no Bairro Pedra Branca (Itarar&eacute;) e EE. Maria Tereza, do munic&iacute;pio de Itaber&aacute;, al&eacute;m das crian&ccedil;as do PDS Luiz David Macedo e Acampamento Ilda Martins (Apia&iacute;).<br />
 &nbsp;</p>
 
+<p>Em entrevista para a Sem Terrinha Gabrielly, durante a oficina de r&aacute;dio, Sanchez falou sobre o objetivo do encontro.<br />
+&nbsp;</p>
+
 <figure class="image" style="float:right"><img alt="Andreas Matheus - Comunicação MST [2].jpeg" height="169" src="//farm66.staticflickr.com/65535/48982528102_113ebd80c7_b.jpg" width="300" />
 <figcaption><em>Foto:&nbsp;Andreas Matheus/ Comunica&ccedil;&atilde;o MST-SP</em></figcaption>
 </figure>
 
-<p>Em entrevista para a Sem Terrinha Gabrielly, durante a oficina de r&aacute;dio, Sanchez falou sobre o objetivo do encontro.</p>
-
-<p><br />
-&ldquo;O objetivo principal &eacute; que as crian&ccedil;as que est&atilde;o nos assentamentos e as que s&atilde;o das escolas de bairros que tamb&eacute;m est&atilde;o no campo se identifiquem como crian&ccedil;as do campo, que aqui &eacute; um lugar bom de se viver e muito bom onde se estudar. O encontro &eacute; tamb&eacute;m um momento para pedir que as escolas que est&atilde;o nos nossos assentamentos e no campo sejam escolas boas e de qualidade. E tem outra coisa tamb&eacute;m: estamos aqui com crian&ccedil;as de sete escolas, ent&atilde;o outro objetivo &eacute; que as crian&ccedil;as dessas escolas se conhe&ccedil;am.&rdquo;<br />
+<p>&ldquo;O objetivo principal &eacute; que as crian&ccedil;as que est&atilde;o nos assentamentos e as que s&atilde;o das escolas de bairros que tamb&eacute;m est&atilde;o no campo se identifiquem como crian&ccedil;as do campo, que aqui &eacute; um lugar bom de se viver e muito bom onde se estudar. O encontro &eacute; tamb&eacute;m um momento para pedir que as escolas que est&atilde;o nos nossos assentamentos e no campo sejam escolas boas e de qualidade. E tem outra coisa tamb&eacute;m: estamos aqui com crian&ccedil;as de sete escolas, ent&atilde;o outro objetivo &eacute; que as crian&ccedil;as dessas escolas se conhe&ccedil;am.&rdquo;<br />
 &nbsp;</p>
 
 <p><strong>Cuidar da Casa Comum</strong><br />
@@ -99,14 +99,14 @@ Foto:&nbsp;Andreas Matheus/ Comunica&ccedil;&atilde;o MST-SP</em></figcaption>
 <p>Durante a abertura da atividade, entre m&uacute;sicas e palavras de ordem, a coordena&ccedil;&atilde;o explicou aos participantes o lema deste ano, proposto a partir do cen&aacute;rio de desrespeito &agrave; floresta e suas comunidades tradicionais.<br />
 &nbsp;</p>
 
+<p>&ldquo;Essa casa comum &eacute; o nosso planeta, onde todos precisamos viver. Se n&atilde;o cuidarmos dele, esse planeta est&aacute; correndo grande risco e cada vez vai ser mais dif&iacute;cil de morar nele. Por isso, no nosso encontro queremos que as crian&ccedil;as sem terrinha ajudem e fa&ccedil;am a&ccedil;&otilde;es para preservar o nosso meio ambiente, a nossa casa comum&rdquo;.<br />
+&nbsp;</p>
+
 <figure class="image" style="float:left"><img alt="Andreas Matheus - Comunicação MST [3].jpeg" height="169" src="//farm66.staticflickr.com/65535/48982528117_a4ef82995b_b.jpg" width="300" />
 <figcaption><em>Foto: Luiz Valcazaras</em></figcaption>
 </figure>
 
-<p>&ldquo;Essa casa comum &eacute; o nosso planeta, onde todos precisamos viver. Se n&atilde;o cuidarmos dele, esse planeta est&aacute; correndo grande risco e cada vez vai ser mais dif&iacute;cil de morar nele. Por isso, no nosso encontro queremos que as crian&ccedil;as sem terrinha ajudem e fa&ccedil;am a&ccedil;&otilde;es para preservar o nosso meio ambiente, a nossa casa comum&rdquo;.</p>
-
-<p><br />
-Como prepara&ccedil;&atilde;o dessas &ldquo;a&ccedil;&otilde;es&rdquo;, as crian&ccedil;as participaram de diversas oficinas relacionadas ao tema do meio ambiente, como prepara&ccedil;&atilde;o de iscas para abelhas sem ferr&atilde;o (as conhecidas Jata&iacute;), minhoc&aacute;rio, sabonetes fitoter&aacute;picos (que foram distribu&iacute;dos a todos os participantes do encontro), constru&ccedil;&atilde;o de placas de identifica&ccedil;&atilde;o e conscientiza&ccedil;&atilde;o e teatro (com o tema da preserva&ccedil;&atilde;o da natureza).<br />
+<p>Como prepara&ccedil;&atilde;o dessas &ldquo;a&ccedil;&otilde;es&rdquo;, as crian&ccedil;as participaram de diversas oficinas relacionadas ao tema do meio ambiente, como prepara&ccedil;&atilde;o de iscas para abelhas sem ferr&atilde;o (as conhecidas Jata&iacute;), minhoc&aacute;rio, sabonetes fitoter&aacute;picos (que foram distribu&iacute;dos a todos os participantes do encontro), constru&ccedil;&atilde;o de placas de identifica&ccedil;&atilde;o e conscientiza&ccedil;&atilde;o e teatro (com o tema da preserva&ccedil;&atilde;o da natureza).<br />
 &nbsp;</p>
 
 <p>Ao final da atividade foram plantadas mudas de &aacute;rvores nativas e ornamentais dando in&iacute;cio &agrave; constru&ccedil;&atilde;o do &ldquo;Bosque dos Sem Terrinha&rdquo;.<br />
@@ -115,14 +115,14 @@ Como prepara&ccedil;&atilde;o dessas &ldquo;a&ccedil;&otilde;es&rdquo;, as crian
 <p><strong>Educa&ccedil;&atilde;o do Campo</strong><br />
 &nbsp;</p>
 
-<figure class="image" style="float:right"><img alt="Luiz Valcazaras.jpeg" height="200" src="//farm66.staticflickr.com/65535/48981781813_95c5022b63_b.jpg" width="300" />
-<figcaption>Legenda</figcaption>
-</figure>
-
 <p>O Encontro Sem Terrinha j&aacute; faz parte do calend&aacute;rio das escolas municipais Franco Montoro e Terezinha de Moura Rodrigues Gomes, vinculadas &agrave; Secretaria Municipal de Educa&ccedil;&atilde;o e Cultura do Munic&iacute;pio de Itapeva. Essa defini&ccedil;&atilde;o deu-se a partir da consolida&ccedil;&atilde;o da Educa&ccedil;&atilde;o do Campo como um dos eixos do Plano Municipal de Educa&ccedil;&atilde;o, aprovado em 2015.</p>
 
 <p>Ant&ocirc;nio Alexandre de Farias, diretor de pol&iacute;ticas p&uacute;blicas da Secretaria, avalia que a parceria entre o poder p&uacute;blico, a escola e os movimentos sociais &eacute; importante pois traz o conhecimento da sala de aula para a pr&aacute;tica do cotidiano. A entrevista foi realizada pelo Enzo, durante a oficina de r&aacute;dio e foi ao ar na R&aacute;dio Camponesa - emissora instalada h&aacute; 21 anos no Assentamento Pirituba.<br />
 &nbsp;</p>
+
+<figure class="image" style="float:right"><img alt="Luiz Valcazaras [2].jpeg" height="200" src="//farm66.staticflickr.com/65535/48982528127_88bbce94f5_b.jpg" width="300" />
+<figcaption><em>Foto: Luiz Valcazaras&nbsp;</em></figcaption>
+</figure>
 
 <p>&ldquo;Desde 2015, a partir do plano municipal de educa&ccedil;&atilde;o [a secretaria] vem se preocupando em estabelecer a caracter&iacute;stica da educa&ccedil;&atilde;o do campo considerando o pr&oacute;prio territ&oacute;rio da cidade de Itapeva. N&oacute;s somos o segundo munic&iacute;pio em extens&atilde;o territorial [do estado] e nossa zona rural &eacute; gigante. Tem crian&ccedil;as que andam 60 km para ir para a escola, ent&atilde;o n&atilde;o teria como a secretaria pensar a l&oacute;gica da educa&ccedil;&atilde;o somente pela via urbana. Com isso, no PME a gente j&aacute; estabeleceu um eixo exclusivo para a educa&ccedil;&atilde;o do campo e desde ent&atilde;o a gente vem fortalecendo as metas e estrat&eacute;gias de implementa&ccedil;&atilde;o e fortalecimento da educa&ccedil;&atilde;o do campo no munic&iacute;pio.&rdquo;<br />
 &nbsp;</p>
