@@ -65,7 +65,7 @@ releated_posts:
 Da P&aacute;gina do MST**</em><br />
 &nbsp;</p>
 
-<p><strong><a href="http://www.mst.org.br/2019/10/29/terra-prometida-ocupada.html" target="_blank">Esta &eacute; a segunda parte do especial Fazenda Annoni, 34 anos. Confira a primeira parte do texto</a> <a href="http://www.mst.org.br/2019/10/29/terra-prometida-ocupada.html" target="_blank">aqui</a>&nbsp;</strong><br />
+<p><strong>Esta &eacute; a segunda parte do especial Fazenda Annoni, 34 anos. Confira a primeira parte do texto <a href="http://www.mst.org.br/2019/10/29/terra-prometida-ocupada.html" target="_blank">aqui</a>&nbsp;</strong><br />
 &nbsp;</p>
 
 <p><strong>Isa&iacute;as Vedovatto, assentado da Annoni, o homem que cortou a cerca</strong><br />
