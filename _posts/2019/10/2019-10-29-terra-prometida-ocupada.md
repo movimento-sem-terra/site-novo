@@ -171,4 +171,4 @@ Geni Reginaldo de Mattos, 80, &eacute; uma vov&oacute; que cozinha bem e cuida c
 <p><em>Edi&ccedil;&atilde;o de Rodrigo Becker</em></p>
 
 <p><br />
-<em>** Esta &eacute; a primeira parte do especial&nbsp;Fazenda Annoni, 34 anos. Confira a segunda parte aqui</em></p>
+<em>** Esta &eacute; a primeira parte do especial&nbsp;Fazenda Annoni, 34 anos. Confira a segunda parte <a href="http://www.mst.org.br/2019/10/29/terra-prometida-ocupada-depoimentos.html" target="_blank">aqui</a></em></p>
