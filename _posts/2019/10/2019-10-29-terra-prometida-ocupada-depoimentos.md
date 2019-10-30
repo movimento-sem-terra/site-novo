@@ -77,7 +77,7 @@ Da P&aacute;gina do MST**</em><br />
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="07.jpeg" height="465" src="//farm66.staticflickr.com/65535/48981097848_25779acbdd_b.jpg" width="700" />
-<figcaption><em>Fotos hist&oacute;ricas de arquivo cedidas pelo MST: fot&oacute;grafos Karine Emerich e Jos&eacute; Leal</em></figcaption>
+<figcaption><em>Foto: Paulo Pires</em></figcaption>
 </figure>
 </div>
 
@@ -92,7 +92,7 @@ Da P&aacute;gina do MST**</em><br />
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="08.jpeg" height="465" src="//farm66.staticflickr.com/65535/48981870332_65d191b9b2_b.jpg" width="700" />
-<figcaption><em>Fotos hist&oacute;ricas de arquivo cedidas pelo MST: fot&oacute;grafos Karine Emerich e Jos&eacute; Leal</em></figcaption>
+<figcaption></figcaption>
 </figure>
 </div>
 
