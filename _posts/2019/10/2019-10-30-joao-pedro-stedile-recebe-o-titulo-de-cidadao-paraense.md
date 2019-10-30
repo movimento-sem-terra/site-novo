@@ -42,12 +42,12 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="stedille para - Comunicação do MST no Pará.jpeg" height="351" src="//farm66.staticflickr.com/65535/48987033032_b6c99e9cc3_b.jpg" width="700" />
-<figcaption>A entrega foi realizada durante curso Realidade Brasileira e de Forma&ccedil;&atilde;o de Formadores. Foto:&nbsp;</figcaption>
+<figcaption><em>A entrega foi realizada durante curso Realidade Brasileira e de Forma&ccedil;&atilde;o de Formadores. Foto:&nbsp;Setor de Comunica&ccedil;&atilde;o do MST no Par&aacute;</em></figcaption>
 </figure>
 </div>
 
 <p><br />
-<em>Por </em>A entrega foi durante a etapa do curso Realidade Brasileira e do curso de Forma&ccedil;&atilde;o de Formadores<br />
+<em>Por Setor de Comunica&ccedil;&atilde;o do MST no Par&aacute;</em><br />
 <em>Da P&aacute;gina do MST</em></p>
 
 <p><br />
