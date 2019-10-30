@@ -68,7 +68,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="01.jpeg" height="465" src="//farm66.staticflickr.com/65535/48981628951_e46b6f4a76_b.jpg" width="700" />
-<figcaption><em>Fotos hist&oacute;ricas de arquivo cedidas pelo MST: fot&oacute;grafos Karine Emerich e Jos&eacute; Leal</em></figcaption>
+<figcaption><em>Foto: Paulo Pires</em></figcaption>
 </figure>
 </div>
 
@@ -84,7 +84,7 @@ No interior ga&uacute;cho, l&aacute; pelos Anos 80, era coisa das mais dif&iacut
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="02.jpeg" height="465" src="//farm66.staticflickr.com/65535/48981816467_48958969fa_b.jpg" width="700" />
-<figcaption><em>Fotos hist&oacute;ricas de arquivo cedidas pelo MST: fot&oacute;grafos Karine Emerich e Jos&eacute; Leal</em></figcaption>
+<figcaption><em>Foto: Paulo Pires</em></figcaption>
 </figure>
 </div>
 
@@ -140,7 +140,7 @@ Noite de lua cheia, 29 de outubro de 1985. A ocupa&ccedil;&atilde;o da fazenda s
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="05.jpeg" height="465" src="//farm66.staticflickr.com/65535/48981628931_8d8a79a158_b.jpg" width="700" />
-<figcaption><em>Fotos hist&oacute;ricas de arquivo cedidas pelo MST: fot&oacute;grafos Karine Emerich e Jos&eacute; Leal</em></figcaption>
+<figcaption><em>Foto: Paulo Pires</em></figcaption>
 </figure>
 </div>
 
@@ -157,7 +157,7 @@ Noite de lua cheia, 29 de outubro de 1985. A ocupa&ccedil;&atilde;o da fazenda s
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="06.jpeg" height="465" src="//farm66.staticflickr.com/65535/48981070883_24c1d6117f_b.jpg" width="700" />
-<figcaption><em>Fotos hist&oacute;ricas de arquivo cedidas pelo MST: fot&oacute;grafos Karine Emerich e Jos&eacute; Leal</em></figcaption>
+<figcaption><em>Foto: Paulo Pires</em></figcaption>
 </figure>
 </div>
 
