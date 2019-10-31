@@ -45,7 +45,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Vigília 3.jpg" height="525" src="//farm66.staticflickr.com/65535/48990276298_ce02241760_b.jpg" width="700" />
-<figcaption><em>O julgamento que durou cerca de 10 horas. Foto: Gustavo Marinho</em></figcaption>
+<figcaption><em>O resultado do j&uacute;ri n&atilde;o atendeu as expectativas do Movimento de justi&ccedil;a para Grilo. Foto: Gustavo Marinho</em></figcaption>
 </figure>
 </div>
 
