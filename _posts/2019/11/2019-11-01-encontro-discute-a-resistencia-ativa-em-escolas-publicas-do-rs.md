@@ -2,8 +2,8 @@
 date: "2019-11-01T15:12:55-03:00"
 tags:
   - tag: educação-do-campo
-  - tag: debate
   - tag: rio-grande-do-sul
+  - tag: educação
 title: Encontro discute a resistência ativa em escolas públicas do RS
 support_line: "Iniciativa reuniu dezenas de educadores de áreas de Reforma Agrária para estudos, planejamento e trocas de experiências"
 menu: "educação, cultura e comunicação"
@@ -67,8 +67,13 @@ files:
     title: A campanha nacional do MST pelo direito à literatura nas escolas do campo foi apresentada por Edgar Kolling (E). Foto - Catiana de Medeiros.jpg
     $$hashKey: 03F
 created_date: "2019-11-01T17:11:55-03:00"
-published: false
+published: true
 releated_posts:
+  - _posts/2019/03/2019-03-22-no-ceara-mst-inaugura-mais-uma-escola-de-ensino-medio-do-campo.md
+  - _posts/2019/03/2019-03-29-so-quem-e-militante-consegue-entender-a-solidariedade-entre-os-povos.md
+  - _posts/2019/05/2019-05-06-uma-educacao-que-forma-organiza-e-emancipa.md
+  - _posts/2019/05/2019-05-08-educacao-no-campo-e-pauta-de-audiencia-do-mst-com-governo-gaucho.md
+  - _posts/2019/05/2019-05-28-a-luta-pela-educacao-e-o-campo-dia-30-vai-ser-maior.md
   - _posts/2019/05/2019-05-17-comunidades-escolares-do-rs-lutam-pelas-escolas-no-campo.md
 
 ---
@@ -186,7 +191,9 @@ O governo federal ainda defende o ensino domiciliar, ou seja, aqueles que t&ecir
 <p>&nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="A campanha nacional do MST pelo direito à literatura nas escolas do campo foi apresentada por Edgar Kolling (E). Foto - Catiana de Medeiros.jpg" height="211" src="//farm66.staticflickr.com/65535/48996870558_68ca423588_b.jpg" width="300" />
-<figcaption>I</figcaption>
+<figcaption><em>A campanha nacional do MST pelo direito &agrave;<br />
+literatura nas escolas do campo foi apresentada<br />
+por&nbsp;Edgar Kolling. Foto: Catiana de Medeiros.</em></figcaption>
 </figure>
 
 <p>O segundo dia de encontro dos educadores ga&uacute;chos teve a participa&ccedil;&atilde;o de Edgar Kolling, da coordena&ccedil;&atilde;o nacional do Setor de Educa&ccedil;&atilde;o do MST. Ele falou da campanha nacional do Movimento pelo direito &agrave; literatura nas escolas do campo. Somente este ano j&aacute; foram distribu&iacute;dos 10 mil livros em 1.500 institui&ccedil;&otilde;es de ensino em &aacute;reas de Reforma Agr&aacute;ria.</p>
@@ -199,17 +206,19 @@ Kolling declarou que o objetivo da iniciativa &eacute; ampliar o n&iacute;vel cu
 
 <p>&nbsp;</p>
 
-<figure class="image" style="float:left"><img alt="Adalberto Martins e Roseli Scarlet falaram sobre Reforma Agrária Popular, agroecologia e educação. Foto - Catiana de Medeiros.jpg" height="201" src="//farm66.staticflickr.com/65535/48997415441_abda38315b_b.jpg" width="300" />
-<figcaption>Legenda</figcaption>
-</figure>
-
 <p>O estudo sobre a rela&ccedil;&atilde;o entre Reforma Agr&aacute;ria Popular, agroecologia e educa&ccedil;&atilde;o tamb&eacute;m fez parte do evento. Ele foi conduzido pelo engenheiro agr&ocirc;nomo Adalberto Martins e a professora Roseli Scarlet.</p>
 
 <p><br />
-Segundo Martins, que tamb&eacute;m integra o Setor de Produ&ccedil;&atilde;o do MST/RS, h&aacute; um aumento da concentra&ccedil;&atilde;o de terras no Brasil, uma diminui&ccedil;&atilde;o do n&uacute;mero de estabelecimentos agr&iacute;colas e a redu&ccedil;&atilde;o de 1,5 milh&atilde;o de postos de trabalho no campo desde 2016, quando havia 16,5 milh&otilde;es.</p>
+Segundo Martins, que tamb&eacute;m integra o Setor de Produ&ccedil;&atilde;o do MST/RS, h&aacute; um aumento da concentra&ccedil;&atilde;o de terras no Brasil, uma diminui&ccedil;&atilde;o do n&uacute;mero de estabelecimentos agr&iacute;colas e a redu&ccedil;&atilde;o de 1,5 milh&atilde;o de postos de trabalho no campo desde 2016, quando havia 16,5 milh&otilde;es.<br />
+&nbsp;</p>
 
-<p><br />
-De acordo com o agr&ocirc;nomo, hoje o pa&iacute;s tem 49 milh&otilde;es de hectares de &aacute;reas transg&ecirc;nicas, o que o coloca no ranking mundial das na&ccedil;&otilde;es que mais consomem veneno. &ldquo;20% de todo o veneno do mundo &eacute; jogado no Brasil&rdquo;, informou.</p>
+<figure class="image" style="float:left"><img alt="Adalberto Martins e Roseli Scarlet falaram sobre Reforma Agrária Popular, agroecologia e educação. Foto - Catiana de Medeiros.jpg" height="201" src="//farm66.staticflickr.com/65535/48997415441_abda38315b_b.jpg" width="300" />
+<figcaption><em>Adalberto Martins e Roseli Scarlet falaram<br />
+sobre Reforma Agr&aacute;ria Popular, agroecologia<br />
+e educa&ccedil;&atilde;o. Foto: Catiana de Medeiros</em></figcaption>
+</figure>
+
+<p>De acordo com o agr&ocirc;nomo, hoje o pa&iacute;s tem 49 milh&otilde;es de hectares de &aacute;reas transg&ecirc;nicas, o que o coloca no ranking mundial das na&ccedil;&otilde;es que mais consomem veneno. &ldquo;20% de todo o veneno do mundo &eacute; jogado no Brasil&rdquo;, informou.</p>
 
 <p><br />
 Martins apontou que a Reforma Agr&aacute;ria Popular tem a tarefa de devolver a fun&ccedil;&atilde;o social aos camponeses, produzir alimentos com base na agroecologia e recuperar os bens comuns da natureza, que foram degradados com a ofensiva do agroneg&oacute;cio e do capital financeiro. &ldquo;Temos que potencializar a resist&ecirc;ncia ativa, ou seja, continuar fazendo den&uacute;ncias, mas tamb&eacute;m afirmar caminhos e alternativas&rdquo;, ressaltou.</p>
@@ -220,8 +229,15 @@ Ele acrescentou que as escolas precisam ser ativas na vida comunit&aacute;ria do
 <p><br />
 <strong>Educa&ccedil;&atilde;o adoecida</strong></p>
 
-<p><br />
-A educadora Roseli Scarlet disse que os educadores est&atilde;o sendo sufocados pelo sistema, que diz a eles: &ldquo;n&atilde;o pensem, n&atilde;o criem. Cumpram, realizem&rdquo;. &ldquo;S&oacute; que a tend&ecirc;ncia do ser humano n&atilde;o &eacute; essa. Ou a gente se rebela, ou a gente adoece. N&oacute;s somos do tipo que j&aacute; h&aacute; bastante tempo aprendemos a nos rebelar&rdquo;, assinalou.</p>
+<p>&nbsp;</p>
+
+<figure class="image" style="float:left"><img alt="Oitava edição do encontro provocou reflexões coletivas acerca da educação nas escolas. Foto - Maiara Rauber..jpg" height="198" src="//farm66.staticflickr.com/65535/48997621357_f2b7697cbb_b.jpg" width="300" />
+<figcaption><em>Oitava edi&ccedil;&atilde;o do encontro provocou reflex&otilde;es<br />
+coletivas acerca da educa&ccedil;&atilde;o nas escolas.<br />
+&nbsp;Foto: Maiara Rauber.</em></figcaption>
+</figure>
+
+<p>A educadora Roseli Scarlet disse que os educadores est&atilde;o sendo sufocados pelo sistema, que diz a eles: &ldquo;n&atilde;o pensem, n&atilde;o criem. Cumpram, realizem&rdquo;. &ldquo;S&oacute; que a tend&ecirc;ncia do ser humano n&atilde;o &eacute; essa. Ou a gente se rebela, ou a gente adoece. N&oacute;s somos do tipo que j&aacute; h&aacute; bastante tempo aprendemos a nos rebelar&rdquo;, assinalou.</p>
 
 <p><br />
 Ela refor&ccedil;ou que h&aacute; a necessidade de &ldquo;oxig&ecirc;nio&rdquo; e que o &ldquo;sopro da vida&rdquo; nos assentamentos &eacute; a Reforma Agr&aacute;ria Popular. Al&eacute;m disso, destacou que a agroecologia &ldquo;&eacute; o novo ciclo evolutivo da pedagogia do Movimento&rdquo;.</p>
