@@ -1,6 +1,10 @@
 ---
 date: "2019-11-02T15:02:09-03:00"
-tags: []
+tags:
+  - tag: indigenas
+  - tag: assassinatos
+  - tag: maranhão
+  - tag: violência-no-campo
 title: Nota de repúdio e pesar pelo assassinato do guardião Paulo Paulino Guajajara
 support_line: "APIB denuncia assassinato em emboscada realizada por madeireiros no interior da Terra Indígena Araribóia, região de Bom Jesus das Selvas (MA)"
 menu: lutas e mobilizações
@@ -15,19 +19,25 @@ files:
     title: indígena.jpg
     $$hashKey: 02R
 created_date: "2019-11-02T15:47:26-03:00"
-published: false
-releated_posts: []
+published: true
+releated_posts:
+  - _posts/2019/04/2019-04-01-articulacao-dos-povos-indigenas-realiza-acampamento-em-brasilia.md
+  - _posts/2019/04/2019-04-02-pistoleiros-atacam-familias-acampadas-e-lideranca-e-assassinada-no-amazonas.md
+  - _posts/2019/04/2019-04-30-ajudar-a-violencia-no-campo-e-o-que-quer-o-bolsonaro.md
+  - _posts/2019/06/2019-06-07-mais-um-militante-do-mst-e-assassinado-no-campo.md
+  - _posts/2019/07/2019-07-03-familias-de-assassinados-do-mst-cobram-celeridade-do-ministerio-publico.md
+  - _posts/2019/03/2019-03-20-lider-indigena-sergio-rojas-ortiz-e-assassinado-na-costa-rica.md
 
 ---
 <p>&nbsp;</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="indígena.jpg" height="438" src="//farm66.staticflickr.com/65535/49002201166_c9fb6ab018_b.jpg" width="700" />
-<figcaption>I</figcaption>
+<figcaption><em>Foto: Patrick Raynaud</em></figcaption>
 </figure>
 </div>
 
-<p>Da APIB&nbsp;-&nbsp;Articula&ccedil;&atilde;o dos Povos Ind&iacute;genas do Brasil (APIB)</p>
+<p><em>Da APIB&nbsp;-&nbsp;Articula&ccedil;&atilde;o dos Povos Ind&iacute;genas do Brasil (APIB)</em></p>
 
 <p><br />
 Maranh&atilde;o, 2 de novembro de 2019 &ndash; &Eacute; com profunda tristeza e revolta, que n&oacute;s, da Articula&ccedil;&atilde;o dos Povos Ind&iacute;genas do Brasil (APIB), vimos a p&uacute;blico denunciar e prestar solidariedade ao Povo Guajajara pelo assassinato do guardi&atilde;o Paulo Paulino Guajajara ap&oacute;s o grupo dos agentes florestais ind&iacute;genas &ldquo;Guardi&otilde;es da Floresta&rdquo; ter sido emboscado por madeireiros dentro de seu pr&oacute;prio territ&oacute;rio. O l&iacute;der ind&iacute;gena guardi&atilde;o La&eacute;rcio Guajajara tamb&eacute;m foi ferido, ele est&aacute; internado e seu quadro &eacute; est&aacute;vel<br />
