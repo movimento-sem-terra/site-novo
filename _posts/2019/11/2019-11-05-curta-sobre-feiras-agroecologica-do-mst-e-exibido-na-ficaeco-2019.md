@@ -45,9 +45,8 @@ Foi exibida nesta tarde, na FICAECO 2019, o filme&nbsp; Ocupar, Resistir e Produ
 
 <p>O festival, realizado na Universidade Federal de Sergipe (UFS), tem como o objetivo potencializar a difus&atilde;o da produ&ccedil;&atilde;o e estar&aacute; exibindo esta semana filmes nas modalidades curta, m&eacute;dia e longa-metragem, nos g&ecirc;neros: fic&ccedil;&atilde;o, anima&ccedil;&atilde;o, documental ou experimental de todo o continente americano.</p>
 
-<p>&nbsp;</p>
-
-<p>Entre os selecionados, destacam-se produ&ccedil;&otilde;es dos estados de Pernambuco, Bahia, Santa Catarina, Para&iacute;ba, Rio de Janeiro, S&atilde;o Paulo, Paran&aacute;, Tocantins, Distrito Federal, Par&aacute;, Minas Gerais, Cear&aacute; e Acre, al&eacute;m de produ&ccedil;&otilde;es internacionais vindos da Col&ocirc;mbia, Argentina, Bol&iacute;via, Cuba e Estados Unidos.&nbsp;</p>
+<p><br />
+Entre os selecionados, destacam-se produ&ccedil;&otilde;es dos estados de Pernambuco, Bahia, Santa Catarina, Para&iacute;ba, Rio de Janeiro, S&atilde;o Paulo, Paran&aacute;, Tocantins, Distrito Federal, Par&aacute;, Minas Gerais, Cear&aacute; e Acre, al&eacute;m de produ&ccedil;&otilde;es internacionais vindos da Col&ocirc;mbia, Argentina, Bol&iacute;via, Cuba e Estados Unidos.&nbsp;</p>
 
 <p><br />
 <strong>Sobre o curta</strong></p>
