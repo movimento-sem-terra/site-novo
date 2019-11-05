@@ -63,12 +63,7 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
-<p>A atividade iniciou com a m&iacute;stica constru&iacute;da pelos estudantes, onde os mesmos desde a ocupa&ccedil;&atilde;o,<br />
-as lutas e o funcionamento da escola que conta com curso t&eacute;cnico de agroecologia. Juliana Adriano, do<br />
-setor de educa&ccedil;&atilde;o, refor&ccedil;ou que &ldquo;&eacute; muito importante os estudante reconstru&iacute;rem e serem parte da hist&oacute;ria<br />
-dessa escola, que &eacute; parte da constru&ccedil;&atilde;o da educa&ccedil;&atilde;o do campo e da agroecologia no MST. Pois assim, v&atilde;o<br />
-compreendendo o que significa a proposta do Movimento de a educa&ccedil;&atilde;o ter papel fundamental na<br />
-humaniza&ccedil;&atilde;o do ser&rdquo;.</p>
+<p>A atividade iniciou com a m&iacute;stica constru&iacute;da pelos estudantes, onde os mesmos desde a ocupa&ccedil;&atilde;o, as lutas e o funcionamento da escola que conta com curso t&eacute;cnico de agroecologia. Juliana Adriano, do setor de educa&ccedil;&atilde;o, refor&ccedil;ou que &ldquo;&eacute; muito importante os estudante reconstru&iacute;rem e serem parte da hist&oacute;ria dessa escola, que &eacute; parte da constru&ccedil;&atilde;o da educa&ccedil;&atilde;o do campo e da agroecologia no MST. Pois assim, v&atilde;o compreendendo o que significa a proposta do Movimento de a educa&ccedil;&atilde;o ter papel fundamental na humaniza&ccedil;&atilde;o do ser&rdquo;.</p>
 
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="2018-06-26 - agroecologia na escola 25 de maio - assentamento vitoria da conquista - fraiburgo - sc - por juliana adriano (52).jpg" height="467" src="//farm66.staticflickr.com/65535/49018082503_4c24075df3_b.jpg" width="700" />
