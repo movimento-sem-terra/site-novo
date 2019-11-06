@@ -59,7 +59,7 @@ Da P&aacute;gina do MST&nbsp;</em></p>
 
 <p>&nbsp;</p>
 
-<p>No &uacute;ltimo s&aacute;bado (1), a Escola de Educa&ccedil;&atilde;o B&aacute;sica Vinte e Cinco de Maio, localizada no assentamento Vit&oacute;ria da Conquista, em Fraiburgo/SC, comemorou seu trig&eacute;simo anivers&aacute;rio. Foi um dia&nbsp;de relembrar as lutas e comemorar as conquistas. Cerca de 200 pessoas se reuniram, entre eles antigos e atuais estudantes, educadores e gestores, integrantes da comunidade, conselho escolar, Movimento Sem Terra, universidades e representante parlamentar. Al&eacute;m disso, a comemora&ccedil;&atilde;o contou com a participa&ccedil;&atilde;o dos m&uacute;sicos Pedro Mu&ntilde;oz e Pedro Pinheiro.</p>
+<p>No &uacute;ltimo s&aacute;bado (2), a Escola de Educa&ccedil;&atilde;o B&aacute;sica Vinte e Cinco de Maio, localizada no assentamento Vit&oacute;ria da Conquista, em Fraiburgo/SC, comemorou seu trig&eacute;simo anivers&aacute;rio. Foi um dia&nbsp;de relembrar as lutas e comemorar as conquistas. Cerca de 200 pessoas se reuniram, entre eles antigos e atuais estudantes, educadores e gestores, integrantes da comunidade, conselho escolar, Movimento Sem Terra, universidades e representante parlamentar. Al&eacute;m disso, a comemora&ccedil;&atilde;o contou com a participa&ccedil;&atilde;o dos m&uacute;sicos Pedro Mu&ntilde;oz e Pedro Pinheiro.</p>
 
 <p>&nbsp;</p>
 
