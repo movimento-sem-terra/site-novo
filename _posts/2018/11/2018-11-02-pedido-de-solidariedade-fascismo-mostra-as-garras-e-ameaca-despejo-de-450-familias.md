@@ -35,10 +35,10 @@ releated_posts:
 
 <p>&nbsp;</p>
 
-<p>As familias do acampamento Quilombo Campo Grande, no Sul do Minas Gerais, emitiram um chamado de solidariedade pela amea&ccedil;a de despejo que passam a sofre, mesmo j&aacute; vivendo h&aacute; mais de 20 anos no local. Confira o comunicado e participe da campanha de press&atilde;o, enviando email para o endere&ccedil;o indicado na nota<span>:</span></p>
+<p>As fam&iacute;lias do acampamento Quilombo Campo Grande, no Sul do Minas Gerais, emitiram um chamado de solidariedade pela amea&ccedil;a de despejo que passam a sofre, mesmo j&aacute; vivendo h&aacute; mais de 20 anos no local. Confira o comunicado e participe da campanha de press&atilde;o, enviando e-mail para o endere&ccedil;o indicado na nota<span>:</span></p>
 
 <p><br />
-Nos, familias do MST do Sul de MG, do Quilombo Campo Grande, em Adrian&oacute;polis ,queremos denunciar a a&ccedil;&atilde;o fascista contra a nossa luta de 20 anos. Aqui, as fam&iacute;lias, depois de tantos anos, j&aacute; contam com infraestrutura de energia el&eacute;trica, casas de alvenaria e produzem uma grande diversidade de produ&ccedil;&atilde;o agroecol&oacute;gica, como caf&eacute;, muitas variedades de milho, feij&atilde;o, hortali&ccedil;as, frutas, sementes org&acirc;nicas gado, galinhas, porcos. Essas fam&iacute;lias geram, com seu trabalho, soberania alimentar, n&atilde;o apenas para quem produz e vive na terra, mais para milhares de pessoas que passaram a ter acesso a um alimento saud&aacute;vel, sem veneno e de qualidade.</p>
+Nos, fam&iacute;lias do MST do Sul de MG, do Quilombo Campo Grande, em Ariadn&oacute;polis, queremos denunciar a a&ccedil;&atilde;o fascista contra a nossa luta de 20 anos. Aqui, as fam&iacute;lias, depois de tantos anos, j&aacute; contam com infraestrutura de energia el&eacute;trica, casas de alvenaria e produzem uma grande diversidade de produ&ccedil;&atilde;o agroecol&oacute;gica, como caf&eacute;, muitas variedades de milho, feij&atilde;o, hortali&ccedil;as, frutas, sementes org&acirc;nicas gado, galinhas, porcos. Essas fam&iacute;lias geram, com seu trabalho, soberania alimentar, n&atilde;o apenas para quem produz e vive na terra, mais para milhares de pessoas que passaram a ter acesso a um alimento saud&aacute;vel, sem veneno e de qualidade.</p>
 
 <p>&nbsp;</p>
 
@@ -93,7 +93,7 @@ Aos cuidados do Dr. Sr. Juiz Walter Ziwicker Esbaille Junior,</p>
 
 <p style="text-align: right;">Somos resist&ecirc;ncia!</p>
 
-<p style="text-align: right;">A luta pela Adrian&oacute;polis &eacute; a Luta pela democracia</p>
+<p style="text-align: right;">A luta por Ariadn&oacute;polis &eacute; a Luta pela democracia</p>
 
 <p style="text-align: right;">&nbsp;</p>
 
