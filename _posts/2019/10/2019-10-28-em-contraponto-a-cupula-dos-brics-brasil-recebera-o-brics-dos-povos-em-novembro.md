@@ -24,6 +24,7 @@ releated_posts:
   - _posts/2019/08/2019-08-29-movimentos-haitianos-realizam-conferencia-para-propor-unidade-contra-governo-de-moise.md
   - _posts/2019/09/2019-09-06-moro-e-conhecido-no-mundo-como-um-corrompido-diz-lider-da-esquerda-francesa.md
   - _posts/2019/09/2019-09-30-cortes-retrocessos-e-entreguismo-o-que-tudo-isso-quer-dizer.md
+section: featured-news
 
 ---
 <div style="text-align:center">
