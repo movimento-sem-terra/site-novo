@@ -6,7 +6,7 @@ tags:
 title: Glifosato deixa de ser considerado “extremamente tóxico” após mudança da Anvisa
 support_line: Levantamento inédito mostra que 93 produtos com glifosato tiveram classificação reduzida pelo governo Bolsonaro
 menu: transgênicos
-section: featured-news
+section: null
 images_hd: //farm66.staticflickr.com/65535/48996497463_01f2444f14_b.jpg
 layout: post
 files:
