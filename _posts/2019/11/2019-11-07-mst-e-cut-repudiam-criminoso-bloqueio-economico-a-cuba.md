@@ -34,7 +34,7 @@ releated_posts:
 Nesta quinta-feira (07), a Assembleia Geral da ONU condenou pela 27&ordf; vez consecutiva, o bloqueio norte-americano imposto a Cuba. Foram 187 votos a favor da resolu&ccedil;&atilde;o condenat&oacute;ria, 3 contra e 2 absten&ccedil;&otilde;es. Pela primeira vez, o Brasil se juntou a Israel e EUA e votou contra.&nbsp;&nbsp;</p>
 
 <p><br />
-Diante de tal postura, o MST que sempre se posicionu contra o bloqueio e a favor de Cuba e seu projeto, divulga nota afirmando que o Governo Bolsonaro n&atilde;o representa o leg&iacute;timo interesse da maioria do povo brasileiro, que busca um mundo mais justo e fraterno.</p>
+Diante de tal postura, o MST e a CUT que sempre se posicionaram contra o bloqueio econ&ocirc;mico a Cuba, divulgam nota afirmando que o Governo Bolsonaro n&atilde;o representa o leg&iacute;timo interesse da maioria do povo brasileiro, que busca um mundo mais justo e fraterno.</p>
 
 <p><br />
 &ldquo;Ao votar pelos interesses dos Estados Unidos, o Brasil vota contra um pa&iacute;s que tem se caracterizado pelo internacionalismo, anti-imperialismo, solidariedade e unidade junto aos mais pobres. Um pa&iacute;s que tem contribu&iacute;do para melhorar as condi&ccedil;&otilde;es de vida de outros povos e na&ccedil;&otilde;es, em particular na &Aacute;frica e na &Aacute;frica Central, sendo um exemplo de coopera&ccedil;&atilde;o entre os pa&iacute;ses&rdquo;, salienta em trecho da nota.&nbsp;</p>
