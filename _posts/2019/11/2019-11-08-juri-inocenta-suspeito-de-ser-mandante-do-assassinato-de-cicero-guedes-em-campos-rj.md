@@ -8,7 +8,7 @@ title: Júri inocenta suspeito de ser mandante do assassinato de Cícero Guedes 
 support_line: MST divulga nota sobre decisão do Juri Popular e reafirma que luta pela memória e pelo legado de Cícero continua
 menu: direitos humanos
 images_hd: //farm66.staticflickr.com/65535/49034540617_51561e5beb_b.jpg
-section: featured-news
+section: null
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/49034540617_51561e5beb_b.jpg
