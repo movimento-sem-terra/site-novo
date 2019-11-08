@@ -6,7 +6,7 @@ tags:
   - tag: direitos-humanos
 images_hd: //farm66.staticflickr.com/65535/49030542358_1e0cdea933_b.jpg
 title: MST e CUT repudiam criminoso bloqueio econômico a Cuba
-support_line: "Por meio de nota, movimento afirma que esse posicionamento afronta a tradição da diplomacia brasileira que sempre se colocou à disposição do diálogo e da paz."
+support_line: "Por meio de nota, afirmam que esse posicionamento afronta a tradição da diplomacia brasileira que sempre se colocou à disposição do diálogo e da paz."
 menu: direitos humanos
 section: featured-news
 layout: post
