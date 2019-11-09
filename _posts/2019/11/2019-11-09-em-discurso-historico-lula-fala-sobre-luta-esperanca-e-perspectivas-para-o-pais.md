@@ -93,7 +93,7 @@ Para o ex-presidente, enquanto Guedes insiste em aplicar o modelo falido de Prev
 Lula terminou&nbsp;seu discurso com a promessa que percorrer&aacute; o Brasil para conversar com as pessoas&nbsp;e que far&aacute; uma carta aberta ao povo brasileiro.</p>
 
 <p><br />
-O ato de S&atilde;o Bernardo do Campo mostrou um Lula com &quot;tes&atilde;o de 20 [anos], energia de 30 e experi&ecirc;ncia de 70&quot;, que ressalta o papel da juventude ter&aacute; que fazer&nbsp;&quot;a luta &eacute; todo dia&quot;: &quot;N&oacute;s precisamos resistir e lutar. Resistir muitas vezes &eacute; atacar tamb&eacute;m, e n&atilde;o apenas se defender. Querem destruir o pa&iacute;s, mas n&oacute;s n&atilde;o vamos permitir&quot;, finalizou.</p>
+O ato de S&atilde;o Bernardo do Campo mostrou um Lula com &quot;tes&atilde;o de 20 [anos], energia de 30 e experi&ecirc;ncia de 70&quot;, que ressalta o papel da juventude, ao afirmar que&nbsp;&quot;a luta &eacute; todo dia&quot;: &quot;N&oacute;s precisamos resistir e lutar. Resistir muitas vezes &eacute; atacar tamb&eacute;m, e n&atilde;o apenas se defender. Querem destruir o pa&iacute;s, mas n&oacute;s n&atilde;o vamos permitir&quot;, finalizou.</p>
 
 <p>&nbsp;</p>
 
