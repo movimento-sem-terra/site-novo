@@ -7,7 +7,7 @@ title: "Lula Livre! Acompanhe o pronunciamento ao vivo"
 support_line: "Ex-presidente Lula discursa em São Bernardo do Campo, no Sindicato dos Metalúrgicos no ABC Paulista"
 images_hd: //farm66.staticflickr.com/65535/49038079833_69efb23825_b.jpg
 menu: lutas e mobilizações
-section: cover
+section: null
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/49038079833_69efb23825_b.jpg
