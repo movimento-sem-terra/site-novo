@@ -1,5 +1,5 @@
 ---
-date: "2019-11-08T13:18:24-02:00"
+date: "2019-11-08T12:18:24-03:00"
 tags:
   - tag: lula-livre
   - tag: lula
@@ -8,7 +8,7 @@ support_line: "A resolução do STF repara, ao menos por hora, os direitos mais 
 title: "MST celebra decisão do STF "
 menu: lutas e mobilizações
 images_hd: //farm66.staticflickr.com/65535/49034152112_2df68f8c74_b.jpg
-section: cover
+section: featured-news
 layout: post
 files:
   - link: //farm66.staticflickr.com/65535/49034152112_2df68f8c74_b.jpg
