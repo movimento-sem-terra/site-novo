@@ -56,7 +56,8 @@ Convocamos nossas organiza&ccedil;&otilde;es membros e aliadas em todo o mundo a
 A solidariedade &eacute; a ternura dos povos!</p>
 
 <p><br />
-For&ccedil;a para nossxs companheirxs da Bolivia!</p>
+For&ccedil;a para nossxs companheirxs da Bolivia!<br />
+&nbsp;</p>
 
-<p style="text-align: center;"><br />
+<p style="text-align: center;"><strong>Via Campesina Internacional&nbsp;​</strong><br />
 <em>Harare, 10 de Noviembre de 2019</em></p>
