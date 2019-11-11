@@ -4,7 +4,7 @@ tags:
   - tag: bolívia
   - tag: golpe
 support_line: Movimento campesino internacional expressa solidariedade com o povo boliviano
-title: Via Campesina denuncia golpe de Estado na Bolívia
+title: Via Campesina Internacional denuncia golpe de Estado na Bolívia
 menu: solidariedade
 images_hd: //farm66.staticflickr.com/65535/49050520607_6da2d2d47a_b.jpg
 layout: post
@@ -57,3 +57,6 @@ A solidariedade &eacute; a ternura dos povos!</p>
 
 <p><br />
 For&ccedil;a para nossxs companheirxs da Bolivia!</p>
+
+<p style="text-align: center;"><br />
+<em>Harare, 10 de Noviembre de 2019</em></p>
