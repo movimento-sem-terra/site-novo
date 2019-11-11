@@ -8,7 +8,7 @@ tags:
 title: "Em Minas, acampamento Quilombo Campo Grande volta a ser tema de audiência"
 menu: reforma agrária
 section: featured-news
-support_line: "A área ameaçada de despejo, mais uma vez, será foco de audiência no dia 13 de novembro, em Campos Gerais. Em defesa do território, os/as Sem Terra anunciam plantio de 2 milhões de árvores"
+support_line: "A área constantemente ameaçada de despejo, mais uma vez, será foco de audiência no dia 13 de novembro, em Campos Gerais. Em defesa do território, os/as Sem Terra anunciam plantio de 2 milhões de árvores"
 images_hd: //farm66.staticflickr.com/65535/49050143306_518c78a9a9_b.jpg
 layout: post
 files:
