@@ -59,16 +59,16 @@ releated_posts:
 
 <p><br />
 <em>Por Iris Pacheco<br />
-Da P&aacute;gina do MST*</em></p>
+Da P&aacute;gina do MST</em></p>
 
 <p><br />
-<em>&ldquo;...A terra guarda a raiz; da planta que gera o p&atilde;o; a madeira que d&aacute; o cabo; da enxada e do viol&atilde;o&hellip;&rdquo;</em><br />
-&nbsp;</p>
+<em>&ldquo;...A terra guarda a raiz; da planta que gera o p&atilde;o; a madeira que d&aacute; o cabo; da enxada e do viol&atilde;o&hellip;&rdquo;</em></p>
 
-<p>Terra, esse territ&oacute;rio que sempre foi fruto de disputa, mas que tamb&eacute;m gera vida, trabalho e renda, grita liberdade cada vez que um latif&uacute;ndio tem suas cercas rompidas. As duas mil pessoas que vivem h&aacute; 21 anos nas terras de uma usina falida, sabem o quanto de suor e sangue foi derramado para que o murm&uacute;rio das sementes n&atilde;o fossem caladas.&nbsp;<br />
-&nbsp;</p>
+<p><br />
+Terra, esse territ&oacute;rio que sempre foi fruto de disputa, mas que tamb&eacute;m gera vida, trabalho e renda, grita liberdade cada vez que um latif&uacute;ndio tem suas cercas rompidas. As duas mil pessoas que vivem h&aacute; 21 anos nas terras de uma usina falida, sabem o quanto de suor e sangue foi derramado para que o murm&uacute;rio das sementes n&atilde;o fossem caladas.&nbsp;</p>
 
-<p>No entanto, manter o grito da aurora ocupada tem sido a luta das 450 fam&iacute;lias produtoras do caf&eacute; Guai&iacute;, no Acampamento Quilombo Campo Grande, que h&aacute; menos de vinte dias receberam com surpresa a intima&ccedil;&atilde;o para comparecer na audi&ecirc;ncia de instru&ccedil;&atilde;o nesta pr&oacute;xima quarta-feira, 13, referente ao caso da falida usina de Ariadnop&oacute;lis, da <a href="https://www.jusbrasil.com.br/topicos/73571905/capia-companhia-agropecuaria-irmaos-azevedo" target="_blank">Companhia Agropecu&aacute;ria Irm&atilde;os Azevedo (CAPIA)</a>, que encerrou suas atividades em 1996, embora ainda possua d&iacute;vidas trabalhistas que ultrapassam R$ 300 milh&otilde;es.&nbsp;<br />
+<p><br />
+No entanto, manter o grito da aurora ocupada tem sido a luta das 450 fam&iacute;lias produtoras do caf&eacute; Guai&iacute;, no Acampamento Quilombo Campo Grande, que h&aacute; menos de vinte dias receberam com surpresa a intima&ccedil;&atilde;o para comparecer na audi&ecirc;ncia de instru&ccedil;&atilde;o nesta pr&oacute;xima quarta-feira, 13, referente ao caso da falida usina de Ariadnop&oacute;lis, da <a href="https://www.jusbrasil.com.br/topicos/73571905/capia-companhia-agropecuaria-irmaos-azevedo" target="_blank">Companhia Agropecu&aacute;ria Irm&atilde;os Azevedo (CAPIA)</a>, que encerrou suas atividades em 1996, embora ainda possua d&iacute;vidas trabalhistas que ultrapassam R$ 300 milh&otilde;es.&nbsp;<br />
 &nbsp;</p>
 
 <p>De acordo a advogada Let&iacute;cia Souza, &ldquo;a audi&ecirc;ncia de instru&ccedil;&atilde;o &eacute; o momento em que o juiz ouve as partes e as testemunhas arroladas sobre os fatos constantes no processo, afim de produzir provas para comprova&ccedil;&atilde;o da mat&eacute;ria de fato e de direito questionada na a&ccedil;&atilde;o&rdquo;.<br />
@@ -90,8 +90,7 @@ Da P&aacute;gina do MST*</em></p>
 </div>
 
 <p><br />
-&ldquo;N&oacute;s do Quilombo nos comprometemos em desde j&aacute; iniciar o plantio de 2 milh&otilde;es de &aacute;rvores, no intuito de reafirmar nosso compromisso com a sociedade brasileira de colocar a semente na terra e continuar construindo desenvolvimento a partir da produ&ccedil;&atilde;o agroecol&oacute;gica, gerando vida e trabalho para as 450 fam&iacute;lias que vivem em uma terra que antes era de um e hoje &eacute; de mais de 2 mil pessoas, tendo uma vida digna&rdquo;, ressalta Tu&iacute;ra.&nbsp;<br />
-&nbsp;</p>
+&ldquo;N&oacute;s do Quilombo nos comprometemos em iniciar o plantio de 2 milh&otilde;es de &aacute;rvores, no intuito de reafirmar nosso compromisso com a sociedade brasileira, de colocar a semente na terra e continuar construindo desenvolvimento a partir da produ&ccedil;&atilde;o agroecol&oacute;gica, gerando vida e trabalho para as 450 fam&iacute;lias que vivem em uma terra que antes era de um e hoje &eacute; de mais de 2 mil pessoas vivendo dignamente&rdquo;, ressalta Tu&iacute;ra.&nbsp;</p>
 
 <p>No mesmo per&iacute;odo do ano passado, as fam&iacute;lias viveram dias de apreens&atilde;o, luta e resist&ecirc;ncia. Ap&oacute;s uma liminar de despejo ter sido <a href="https://www.jusbrasil.com.br/topicos/41677565/walter-zwicker-esbaille-junior" target="_blank">aprovada pelo juiz Walter Zwicker Esbaille J&uacute;nior</a>, atrav&eacute;s de uma opera&ccedil;&atilde;o jur&iacute;dica em que retomaram uma liminar de despejo de 2012 e estava parada h&aacute; mais de um ano para legitimar a reintegra&ccedil;&atilde;o de posse.&nbsp;<br />
 &nbsp;</p>
