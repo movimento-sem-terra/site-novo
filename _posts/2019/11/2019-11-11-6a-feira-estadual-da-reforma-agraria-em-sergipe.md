@@ -31,6 +31,8 @@ releated_posts:
   - _posts/2019/03/2019-03-12-23-anos-da-conquista-do-assentamento-cuiaba-em-caninde-do-sao-francisco.md
 
 ---
+<p style="text-align:center"><img alt="Feira.jpeg" height="700" src="//farm66.staticflickr.com/65535/49050267888_375d45c623_b.jpg" width="700" /></p>
+
 <p>&nbsp;</p>
 
 <p><em>Por Djina Torres<br />
