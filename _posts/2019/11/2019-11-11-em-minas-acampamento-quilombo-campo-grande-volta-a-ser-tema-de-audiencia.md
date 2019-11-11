@@ -90,7 +90,7 @@ No entanto, manter o grito da aurora ocupada tem sido a luta das 450 fam&iacute;
 </div>
 
 <p><br />
-&ldquo;N&oacute;s do Quilombo nos comprometemos em iniciar o plantio de 2 milh&otilde;es de &aacute;rvores, no intuito de reafirmar nosso compromisso com a sociedade brasileira, de colocar a semente na terra e continuar construindo desenvolvimento a partir da produ&ccedil;&atilde;o agroecol&oacute;gica, gerando vida e trabalho para as 450 fam&iacute;lias que vivem em uma terra que antes era de um e hoje &eacute; de mais de 2 mil pessoas vivendo dignamente&rdquo;, ressalta Tu&iacute;ra.&nbsp;</p>
+&ldquo;N&oacute;s do Quilombo nos comprometemos em iniciar o plantio de 2 milh&otilde;es de &aacute;rvores, no intuito de reafirmar nosso compromisso com a sociedade brasileira, de colocar a semente na terra e continuar construindo desenvolvimento a partir da produ&ccedil;&atilde;o agroecol&oacute;gica, gerando vida e trabalho para as 450 fam&iacute;lias que vivem em uma terra que antes era de um e hoje &eacute; de mais de 2 mil pessoas&rdquo;, ressalta Tu&iacute;ra.&nbsp;</p>
 
 <p>No mesmo per&iacute;odo do ano passado, as fam&iacute;lias viveram dias de apreens&atilde;o, luta e resist&ecirc;ncia. Ap&oacute;s uma liminar de despejo ter sido <a href="https://www.jusbrasil.com.br/topicos/41677565/walter-zwicker-esbaille-junior" target="_blank">aprovada pelo juiz Walter Zwicker Esbaille J&uacute;nior</a>, atrav&eacute;s de uma opera&ccedil;&atilde;o jur&iacute;dica em que retomaram uma liminar de despejo de 2012 e estava parada h&aacute; mais de um ano para legitimar a reintegra&ccedil;&atilde;o de posse.&nbsp;<br />
 &nbsp;</p>
