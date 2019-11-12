@@ -61,7 +61,7 @@ Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="Tarcísio Pedro Stein, presidente da Coopate recebe o Premio Evidência 2019. Foto Tais Carollo.jpeg" height="198" src="//farm66.staticflickr.com/65535/49055489496_0a71862147_b.jpg" width="300" />
-<figcaption><em>Tarcísio Pedro Stein, presidente da Coopate<br />
+<figcaption><em>Tarcísio Pedro Stein, presidente da Coopat<br />
 recebe o Premio Evidência 2019.<br />
 &nbsp;Foto: Tais Carollo</em></figcaption>
 </figure>
@@ -80,7 +80,7 @@ recebe o Premio Evidência 2019.<br />
 
 <figure class="image" style="float:left"><img alt="Cupcake da Coopat, cooperativa do MST de TApes, RS Foto Tais Carollo.jpeg" height="200" src="//farm66.staticflickr.com/65535/49055489501_5fe5e3f21a_b.jpg" width="300" />
 <figcaption><em>Cupcake da Coopat, cooperativa do<br />
-ST de Tapes (RS) Foto: Tais Carollo</em></figcaption>
+MST de Tapes (RS) Foto: Tais Carollo</em></figcaption>
 </figure>
 
 <p>A Coopat, fundada em 1998, &eacute; fruto da luta pela Reforma Agr&aacute;ria. Possui 20 associados e emprega jovens e mulheres do campo e da cidade.</p>
