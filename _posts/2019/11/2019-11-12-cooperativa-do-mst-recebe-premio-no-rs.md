@@ -72,7 +72,7 @@ recebe o Premio Evidência 2019.<br />
 <p>A outra, segundo ele, refere-se &agrave; vis&atilde;o de mundo da cooperativa e do compromisso com seus trabalhadores, parceiros, pequenos produtores, comunidades e microempreendedores. Soma-se a isso as rela&ccedil;&otilde;es sociais que florescem da microeconomia para cidades, o campo e os seres humanos.<br />
 &nbsp;</p>
 
-<p>O Trof&eacute;u Evid&ecirc;ncia &eacute; a segunda premia&ccedil;&atilde;o recebida pela Coopat. A segunda foi o pr&ecirc;mio dos canudos, em 1999, tamb&eacute;m com destaque no trabalho coletivo.<br />
+<p>O Trof&eacute;u Evid&ecirc;ncia &eacute; a segunda premia&ccedil;&atilde;o recebida pela Coopat. A segunda foi o pr&ecirc;mio&nbsp;Canudos, em 1999, tamb&eacute;m com destaque no trabalho coletivo.<br />
 &nbsp;</p>
 
 <p><strong>Fruto da luta pela terra</strong><br />
