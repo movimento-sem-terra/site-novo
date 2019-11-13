@@ -1,5 +1,5 @@
 ---
-date: "2019-11-12T19:02:57-03:00"
+date: "2019-11-12T20:02:57-02:00"
 tags:
   - tag: internacionalismo
   - tag: solidariedade-internacional
@@ -25,6 +25,7 @@ releated_posts:
   - _posts/2019/11/2019-11-11-para-stedile-golpe-contra-evo-na-bolivia-e-aplicacao-pratica-das-guerras-hibridas.md
   - _posts/2019/09/2019-09-16-manifesto-de-organizacoes-populares-sobre-ameaca-de-intervencao-militar-na-venezuela.md
   - _posts/2019/10/2019-10-10-india-chega-a-mais-de-300-mil-suicidios-de-agricultores-aponta-dossie.md
+section: cover
 
 ---
 <p><br />
