@@ -40,7 +40,6 @@ releated_posts:
 </div>
 
 <p><br />
-<em>Por Coletivo de Comunica&ccedil;&atilde;o do MST/RS</em><br />
 <em>Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
