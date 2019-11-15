@@ -50,7 +50,7 @@ releated_posts:
 ---
 <div style="text-align:center">
 <figure class="image" style="display:inline-block"><img alt="Ato final após audiência.jpeg" height="867" src="//farm66.staticflickr.com/65535/49065728163_95bf242c97_b.jpg" width="700" />
-<figcaption><em>Ato final ap&oacute;s audi&ecirc;ncia. Foto: MST/MG</em></figcaption>
+<figcaption><em>Ato final ap&oacute;s audi&ecirc;ncia. Foto: Iris Pacheco</em></figcaption>
 </figure>
 </div>
 
@@ -74,7 +74,7 @@ Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <figure class="image" style="float:right"><img alt="café guaií.jpeg" height="400" src="//farm66.staticflickr.com/65535/49065728128_aaff43f907_b.jpg" width="300" />
-<figcaption><em>Produ&ccedil;&atilde;o do assentamento. Foto: MST/MG</em></figcaption>
+<figcaption><em>Produ&ccedil;&atilde;o do assentamento. Foto: Iris Pacheco</em></figcaption>
 </figure>
 
 <p><a href="http://www.mst.org.br/2019/11/11/em-minas-acampamento-quilombo-campo-grande-volta-a-ser-tema-de-audiencia.html" target="_blank">H&aacute; 21 anos que essas fam&iacute;lias trabalham a terra gerando vida, trabalho e renda</a>. Em alguns casos, ainda antes disso, quando tinha sua m&atilde;o de obra explorada pelo latif&uacute;ndio. &ldquo;Trabalhei nessas terras desde os meus oito anos. Quando a usina faliu nos juntamos com o MST e ocupamos . Hoje produzo caf&eacute;, milho, verduras, legumes, tem &aacute;rvores nativas e frut&iacute;feras, crio porco, galinha.. temos a necessidade de ter uma terra pra produzir e tirar nossa sobreviv&ecirc;ncia&rdquo;, afirma o Sem Terra Rubens Batista.&nbsp;<br />
@@ -90,7 +90,8 @@ Da P&aacute;gina do MST</em><br />
 &nbsp;</p>
 
 <figure class="image" style="float:left"><img alt="Marcha pelas ruas de Campo do Meio.jpeg" height="259" src="//farm66.staticflickr.com/65535/49066461292_e5b38c722e_b.jpg" width="300" />
-<figcaption><em>Marcha pelas ruas de Campo do Meio. Foto: MST/MG</em></figcaption>
+<figcaption><em>Marcha pelas ruas de Campo do Meio.<br />
+Foto: Iris Pacheco</em></figcaption>
 </figure>
 
 <p><br />
